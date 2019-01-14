@@ -1,0 +1,21 @@
+1992,  Actipron,97* highly refined mineral oil, AD 
+1992,  Agral,900 g/1 alkyl phenol ethylene oxide, AD 
+1992,  Ally,20% w/w metsulfuron-methyl, H 
+1992,  Aphox,50% w/w pirimicarb, I 
+1992,  Arelon WDG,82.5% w/w isoproturon, H 
+1992,  Asset,50:125:62.5 g/1 benazolin +, H  bromoxynil + ioxynil
+1992,  Barclay Gallup,360 g/1 glyphosate, H 
+1992,  Basagran,480 g/1 bentazone, H 
+1992,  Bayleton,25% w/w triadimefon, F  carbendazim ’ triadimenol
+1992,  Benazalox,30:5% w/w benazolin +, H  clopyralid
+1992,  Butisan S,500 g/1 metazachlor, H 
+1992,  Challenge,150 g/1 glufosinate-ammonium, H 
+1992, Chiltern Chiltern Cropspray 11E,99% highly refined mineral oil, AD 
+1992,  Compass,167:167 g/1 iprodione +, F  thiophanate-methyl
+1992,  Decis,25 g/1 deltamethrin, I 
+1992,  Deloxil,190:190 g/1 bromoxynil + ioxynil, H 
+1992,  Delsene,Flowable >. 50:320 g/1 carbendazim + maneb, M  tridemorph
+1992, Duplosan New System CMPP,600 g/1 mecoprop-P, H 
+1992,  Farmon Blue,900 g/1 alkyl phenol ethylene oxide, AD 
+1992,  Folimat,575 g/1 omethoate, I 
+1992,  Fonofos Seed Treatment,433 g/1 fonofos, I 
