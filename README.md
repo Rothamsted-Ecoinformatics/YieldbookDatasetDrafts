@@ -3,6 +3,6 @@ Repository for managing draft yieldbook datasets. These are datasets programatic
 
 Completed datasets will be published on the e-RA website.
 
-If you find errors in a dataset please log an Issue.
+See the Wiki for more info.
 
 Curation contributions are always welcome!
