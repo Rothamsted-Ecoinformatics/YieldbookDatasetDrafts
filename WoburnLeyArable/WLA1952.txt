@@ -1,0 +1,1920 @@
+Woburn Ley Arable|1952|block I, ley - first year|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block I, ley - first year|9-Jan-1952||ognin
+Woburn Ley Arable|1952|block I, ley - first year|17-Apr-1952||Basal fertilizers applied, seeds som
+Woburn Ley Arable|1952|block I, ley - first year|6-June-1952||topped
+Woburn Ley Arable|1952|block I, ley - first year|19-Aug-1952||topped
+Woburn Ley Arable|1952|block I, ley - first year|26-Aug-1952|Sopt-Aug-1952|grazed by sheep: 2 circuits -
+Woburn Ley Arable|1952|block I, ley - first year|19-Sept-1951|24-Sept-1951|3
+Woburn Ley Arable|1952|block I, ley - first year|None||seeds mixture power acre: 21 lb S23 Perennial grass, 12 lb $143 Cocksfoot, 6 lb late flowering Montgomery Red Clover, 3 1b S100 White Clover
+Woburn Ley Arable|1952|block I, lucerne - first year|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block I, lucerne - first year|9-Jan-1952||again
+Woburn Ley Arable|1952|block I, lucerne - first year|17-Apr-1952||Basal fertilizers applied, seed drilled at 28 1b per acre
+Woburn Ley Arable|1952|block I, lucerne - first year|29-Apr-1952||Dusted with D.D,.T
+Woburn Ley Arable|1952|block I, lucerne - first year|17-May-1952||again
+Woburn Ley Arable|1952|block I, lucerne - first year|23-July-1952||cut twice;
+Woburn Ley Arable|1952|block I, lucerne - first year|2-Oct-1951||cut twice;
+Woburn Ley Arable|1952|block I, lucerne - first year|None||variety: Du Puits
+Woburn Ley Arable|1952|block I, potatoes|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block I, potatoes|9-Jan-1952||again
+Woburn Ley Arable|1952|block I, potatoes|17-Apr-1952||ridged, basal fertilizers applied
+Woburn Ley Arable|1952|block I, potatoes|19-Apr-1952||potatoes planted
+Woburn Ley Arable|1952|block I, potatoes|16-June-1952||earthed up ridged
+Woburn Ley Arable|1952|block I, potatoes|8-Aug-1952||sprayed with cropped Fungicide, 5 lb power acre
+Woburn Ley Arable|1952|block I, potatoes|2-Sept-1951||again
+Woburn Ley Arable|1952|block I, potatoes|22-Sept-1951||sprayed with sulphuric acid, 15% B.0,V
+Woburn Ley Arable|1952|block I, potatoes|6-Oct-1951||Lifted
+Woburn Ley Arable|1952|block I, potatoes|None||variety: Majestic
+Woburn Ley Arable|1952|block II, ley - second year|26-June-1952||Nitrochalk applied
+Woburn Ley Arable|1952|block II, ley - second year|9-May-1952|17-May-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block II, ley - second year|31-May-1952|May-June-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block II, ley - second year|17-June-1952|25-June-1952|9
+Woburn Ley Arable|1952|block II, ley - second year|8-July-1952|16-July-1952|9
+Woburn Ley Arable|1952|block II, ley - second year|18-Aug-1952|26-Aug-1952|9
+Woburn Ley Arable|1952|block II, ley - second year|11-Sept-1951|19-Sept-1951|9
+Woburn Ley Arable|1952|block II, lucerne - second year|17-June-1952||not three times
+Woburn Ley Arable|1952|block II, lucerne - second year|23-July-1952||not three times
+Woburn Ley Arable|1952|block II, lucerne - second year|2-Oct-1951||not three times
+Woburn Ley Arable|1952|block II, rye|10-Oct-1951||ploughed
+Woburn Ley Arable|1952|block II, rye|26-Oct-1951||seed drilled at 3 bushels per acre;
+Woburn Ley Arable|1952|block II, rye|25-Apr-1952||Nitrochalk applied
+Woburn Ley Arable|1952|block II, rye|25-July-1952||Harvested
+Woburn Ley Arable|1952|block II, rye|None||variety: King II
+Woburn Ley Arable|1952|block III. barley|7-Jan-1952||ploughed
+Woburn Ley Arable|1952|block III. barley|29-Feb-1952||Ground chalk applied
+Woburn Ley Arable|1952|block III. barley|13-Mar-1952||Basal fertilizers applied
+Woburn Ley Arable|1952|block III. barley|14-Mar-1952||seed drilled at 3 bushels power acre
+Woburn Ley Arable|1952|block III. barley|22-May-1952||sprayed with M.C.P.A
+Woburn Ley Arable|1952|block III. barley|14-Aug-1952||Harvested;
+Woburn Ley Arable|1952|block III. barley|None||variety; Plumage Archer
+Woburn Ley Arable|1952|block IV, ley - third year|19-May-1952|31-May-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block IV, ley - third year|9-June-1952|17-June-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block IV, ley - third year|25-June-1952|June-July-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block IV, ley - third year|7-Aug-1952|14-Aug-1952|3
+Woburn Ley Arable|1952|block IV, ley - third year|3-Sept-1951|11-Sept-1951|3
+Woburn Ley Arable|1952|block IV, ley - third year|17-June-1952||Imcerno - third year, not three times;
+Woburn Ley Arable|1952|block IV, ley - third year|23-July-1952||Imcerno - third year, not three times;
+Woburn Ley Arable|1952|block IV, ley - third year|2-Oct-1951||and
+Woburn Ley Arable|1952|block IV, hay|19-Apr-1952||Soods undersown in Ryo
+Woburn Ley Arable|1952|block IV, hay|17-Apr-1952||2 cwt Nitrochalk per acre applied
+Woburn Ley Arable|1952|block IV, hay|6-June-1952||First cut
+Woburn Ley Arable|1952|block IV, hay|10-June-1952||1 cwt Nitrochalk applied
+Woburn Ley Arable|1952|block IV, hay|2-Oct-1951||Second cut;
+Woburn Ley Arable|1952|block IV, seeds hay|None||ture per acre: 27 lb S24 Perennial grass, 12 1b Montgomery Red Clover, 3 1b Canadian Alsike Clover
+Woburn Ley Arable|1952|block IV, sugar beet|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block IV, sugar beet|9-Jan-1952||ploughed
+Woburn Ley Arable|1952|block IV, sugar beet|18-Apr-1952||Basal fertilizers applied, seed drilled at 18 lb per acre
+Woburn Ley Arable|1952|block IV, sugar beet|30-May-1952||singled
+Woburn Ley Arable|1952|block IV, sugar beet|8-Oct-1951||Lifted
+Woburn Ley Arable|1952|block IV, sugar beet|None||variety: Klein B
+Woburn Ley Arable|1952|block I, ley - first year|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block I, ley - first year|9-Jan-1952||ognin
+Woburn Ley Arable|1952|block I, ley - first year|17-Apr-1952||Basal fertilizers applied, seeds som
+Woburn Ley Arable|1952|block I, ley - first year|6-June-1952||topped
+Woburn Ley Arable|1952|block I, ley - first year|19-Aug-1952||topped
+Woburn Ley Arable|1952|block I, ley - first year|26-Aug-1952|Sopt-Aug-1952|grazed by sheep: 2 circuits -
+Woburn Ley Arable|1952|block I, ley - first year|19-Sept-1951|24-Sept-1951|3
+Woburn Ley Arable|1952|block I, ley - first year|None||seeds mixture power acre: 21 lb S23 Perennial grass, 12 lb $143 Cocksfoot, 6 lb late flowering Montgomery Red Clover, 3 1b S100 White Clover
+Woburn Ley Arable|1952|block I, lucerne - first year|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block I, lucerne - first year|9-Jan-1952||again
+Woburn Ley Arable|1952|block I, lucerne - first year|17-Apr-1952||Basal fertilizers applied, seed drilled at 28 1b per acre
+Woburn Ley Arable|1952|block I, lucerne - first year|29-Apr-1952||Dusted with D.D,.T
+Woburn Ley Arable|1952|block I, lucerne - first year|17-May-1952||again
+Woburn Ley Arable|1952|block I, lucerne - first year|23-July-1952||cut twice;
+Woburn Ley Arable|1952|block I, lucerne - first year|2-Oct-1951||cut twice;
+Woburn Ley Arable|1952|block I, lucerne - first year|None||variety: Du Puits
+Woburn Ley Arable|1952|block I, potatoes|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block I, potatoes|9-Jan-1952||again
+Woburn Ley Arable|1952|block I, potatoes|17-Apr-1952||ridged, basal fertilizers applied
+Woburn Ley Arable|1952|block I, potatoes|19-Apr-1952||potatoes planted
+Woburn Ley Arable|1952|block I, potatoes|16-June-1952||earthed up ridged
+Woburn Ley Arable|1952|block I, potatoes|8-Aug-1952||sprayed with cropped Fungicide, 5 lb power acre
+Woburn Ley Arable|1952|block I, potatoes|2-Sept-1951||again
+Woburn Ley Arable|1952|block I, potatoes|22-Sept-1951||sprayed with sulphuric acid, 15% B.0,V
+Woburn Ley Arable|1952|block I, potatoes|6-Oct-1951||Lifted
+Woburn Ley Arable|1952|block I, potatoes|None||variety: Majestic
+Woburn Ley Arable|1952|block II, ley - second year|26-June-1952||Nitrochalk applied
+Woburn Ley Arable|1952|block II, ley - second year|9-May-1952|17-May-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block II, ley - second year|31-May-1952|May-June-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block II, ley - second year|17-June-1952|25-June-1952|9
+Woburn Ley Arable|1952|block II, ley - second year|8-July-1952|16-July-1952|9
+Woburn Ley Arable|1952|block II, ley - second year|18-Aug-1952|26-Aug-1952|9
+Woburn Ley Arable|1952|block II, ley - second year|11-Sept-1951|19-Sept-1951|9
+Woburn Ley Arable|1952|block II, lucerne - second year|17-June-1952||not three times
+Woburn Ley Arable|1952|block II, lucerne - second year|23-July-1952||not three times
+Woburn Ley Arable|1952|block II, lucerne - second year|2-Oct-1951||not three times
+Woburn Ley Arable|1952|block II, rye|10-Oct-1951||ploughed
+Woburn Ley Arable|1952|block II, rye|26-Oct-1951||seed drilled at 3 bushels per acre;
+Woburn Ley Arable|1952|block II, rye|25-Apr-1952||Nitrochalk applied
+Woburn Ley Arable|1952|block II, rye|25-July-1952||Harvested
+Woburn Ley Arable|1952|block II, rye|None||variety: King II
+Woburn Ley Arable|1952|block III. barley|7-Jan-1952||ploughed
+Woburn Ley Arable|1952|block III. barley|29-Feb-1952||Ground chalk applied
+Woburn Ley Arable|1952|block III. barley|13-Mar-1952||Basal fertilizers applied
+Woburn Ley Arable|1952|block III. barley|14-Mar-1952||seed drilled at 3 bushels power acre
+Woburn Ley Arable|1952|block III. barley|22-May-1952||sprayed with M.C.P.A
+Woburn Ley Arable|1952|block III. barley|14-Aug-1952||Harvested;
+Woburn Ley Arable|1952|block III. barley|None||variety; Plumage Archer
+Woburn Ley Arable|1952|block IV, ley - third year|19-May-1952|31-May-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block IV, ley - third year|9-June-1952|17-June-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block IV, ley - third year|25-June-1952|June-July-1952|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1952|block IV, ley - third year|7-Aug-1952|14-Aug-1952|3
+Woburn Ley Arable|1952|block IV, ley - third year|3-Sept-1951|11-Sept-1951|3
+Woburn Ley Arable|1952|block IV, ley - third year|17-June-1952||Imcerno - third year, not three times;
+Woburn Ley Arable|1952|block IV, ley - third year|23-July-1952||Imcerno - third year, not three times;
+Woburn Ley Arable|1952|block IV, ley - third year|2-Oct-1951||and
+Woburn Ley Arable|1952|block IV, hay|19-Apr-1952||Soods undersown in Ryo
+Woburn Ley Arable|1952|block IV, hay|17-Apr-1952||2 cwt Nitrochalk per acre applied
+Woburn Ley Arable|1952|block IV, hay|6-June-1952||First cut
+Woburn Ley Arable|1952|block IV, hay|10-June-1952||1 cwt Nitrochalk applied
+Woburn Ley Arable|1952|block IV, hay|2-Oct-1951||Second cut;
+Woburn Ley Arable|1952|block IV, seeds hay|None||ture per acre: 27 lb S24 Perennial grass, 12 1b Montgomery Red Clover, 3 1b Canadian Alsike Clover
+Woburn Ley Arable|1952|block IV, sugar beet|7-Sept-1951||ploughed
+Woburn Ley Arable|1952|block IV, sugar beet|9-Jan-1952||ploughed
+Woburn Ley Arable|1952|block IV, sugar beet|18-Apr-1952||Basal fertilizers applied, seed drilled at 18 lb per acre
+Woburn Ley Arable|1952|block IV, sugar beet|30-May-1952||singled
+Woburn Ley Arable|1952|block IV, sugar beet|8-Oct-1951||Lifted
+Woburn Ley Arable|1952|block IV, sugar beet|None||variety: Klein B, 52/Be/1.2
+Woburn Ley Arable|1952|block V, potatoes|12-Oct-1951||ploughed
+Woburn Ley Arable|1952|block V, potatoes|1-Feb-1952||ploughed
+Woburn Ley Arable|1952|block V, potatoes|23-Apr-1952||ridged, dung, basal fertilizers applied
+Woburn Ley Arable|1952|block V, potatoes|25-Apr-1952||potatoes planted
+Woburn Ley Arable|1952|block V, potatoes|17-June-1952||earthed up ridged
+Woburn Ley Arable|1952|block V, potatoes|8-Aug-1952||sprayed with cropped Fungicide, 5 lb per acre
+Woburn Ley Arable|1952|block V, potatoes|11-Aug-1952||sprayed
+Woburn Ley Arable|1952|block V, potatoes|2-Sept-1951||and
+Woburn Ley Arable|1952|block V, potatoes|6-Oct-1951||sprayed with sulphuric acid 15% B.0.V.:Sept 22, Lifted
+Woburn Ley Arable|1952|block V, potatoes|None||variety: Majestic. Standard errors per plot: Barley. grazing, whole plot: 1.071 cwt per acre or 4.9 & Red sub plot: 0.740 cwt power &cro or 3.l/$ (& d.f. potatoes, Total tubers, whole plot: 0.990 tons per acre or 9,85 (L à.f.) sub plot: 1.355 tons power acre or 13,54 (4 à.f.)
+Woburn Ley Arable|1953| potatoes|None||tions
+Woburn Ley Arable|1953| ley 1st year|26-Aug-1953||ploughed
+Woburn Ley Arable|1953| ley 1st year|24-Nov-1952||ploughed
+Woburn Ley Arable|1953| ley 1st year|1-Apr-1953||Basal fertilizers applied
+Woburn Ley Arable|1953| ley 1st year|9-Apr-1953||seeds sown
+Woburn Ley Arable|1953| ley 1st year|25-June-1953|June-July-1953|; grazed by sheep: 5 circuits -
+Woburn Ley Arable|1953| ley 1st year|19-July-1953|27-July-1953|5
+Woburn Ley Arable|1953| ley 1st year|12-Aug-1953|19-Aug-1953|5
+Woburn Ley Arable|1953| ley 1st year|7-Sept-1952|15-Sept-1952|5
+Woburn Ley Arable|1953| ley 1st year|6-Oct-1952|14-Oct-1952|5
+Woburn Ley Arable|1953| ley 1st year|None||seeds mixture, 21 lb S24 Perennial grass, 12 lb $143 Cocksfoot, 6 1b Aberystwyth S123 Red Clover, 3 1b S100 White Clover per acre
+Woburn Ley Arable|1953| ley 2nd year|4-June-1953||Nitrochalk applied
+Woburn Ley Arable|1953| ley 2nd year|11-May-1953|19-May-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|9-June-1953|17-June-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|3-July-1953|11-July-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|27-July-1953|July-Aug-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|19-Aug-1953|27-Aug-1953|4
+Woburn Ley Arable|1953| ley 2nd year|15-Sept-1952|23-Sept-1952|4
+Woburn Ley Arable|1953| ley 3rd year|26-June-1953||Nitrochalk applied
+Woburn Ley Arable|1953| ley 3rd year|19-May-1953|27-May-1953|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|||grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|11-July-1953|19-July-1953|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|4-Aug-1953|12-Aug-1953|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|27-Aug-1953|Aug-Sept-1952|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|23-Sept-1952|Sept-Oct-1952|7
+Woburn Ley Arable|1953| ley 3rd year|None||5
+Woburn Ley Arable|1953| lucerne 1st year|26-Aug-1953||ploughed
+Woburn Ley Arable|1953| lucerne 1st year|24-Nov-1952||ploughed
+Woburn Ley Arable|1953| lucerne 1st year|1-Apr-1953||Basal fertilizers applied
+Woburn Ley Arable|1953| lucerne 1st year|9-Apr-1953||seed drilled at 28 lb per acre
+Woburn Ley Arable|1953| lucerne 1st year|5-May-1953||Dusted with DDT
+Woburn Ley Arable|1953| lucerne 1st year|7-May-1953||again
+Woburn Ley Arable|1953| lucerne 1st year|5-Aug-1953||cut twice
+Woburn Ley Arable|1953| lucerne 1st year|28-Oct-1952||cut twice
+Woburn Ley Arable|1953| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1953| lucerne 2nd year|24-June-1953||cut three times
+Woburn Ley Arable|1953| lucerne 2nd year|5-Aug-1953||cut three times
+Woburn Ley Arable|1953| lucerne 2nd year|28-Oct-1952||and
+Woburn Ley Arable|1953| lucerne 3rd year|24-June-1953||cut three times
+Woburn Ley Arable|1953| lucerne 3rd year|5-Aug-1953||cut three times
+Woburn Ley Arable|1953| lucerne 3rd year|28-Oct-1952||and
+Woburn Ley Arable|1953| carrots|None||rotations
+Woburn Ley Arable|1953| potatoes 1st course|26-Aug-1953||ploughed
+Woburn Ley Arable|1953| potatoes 1st course|2h-Nov-1952||ploughed
+Woburn Ley Arable|1953| potatoes 1st course|1-Apr-1953||ridged, basal fertilizers applied, potatoes planted
+Woburn Ley Arable|1953| potatoes 1st course|17-June-1953||earthed up
+Woburn Ley Arable|1953| potatoes 1st course|17-Sept-1952||sprayed with sulphuric acid, 15, B.0.V.
+Woburn Ley Arable|1953| potatoes 1st course|23-Sept-1952||Lifted
+Woburn Ley Arable|1953| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1953| rye 2nd course|6-Oct-1952||cultivated
+Woburn Ley Arable|1953| rye 2nd course|114-Oct-1952||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1953| rye 2nd course|231953-Apr-1953||Nitrochalk applied
+Woburn Ley Arable|1953| rye 2nd course|13-Aug-1953||Harvested
+Woburn Ley Arable|1953| rye 2nd course|None||variety: King II
+Woburn Ley Arable|1953| seeds hay|17-Apr-1953||ourse. seeds undersown in rye
+Woburn Ley Arable|1953| seeds hay|30-Mar-1953||2 cwt Nitrochalk per acre applied
+Woburn Ley Arable|1953| seeds hay|16-June-1953||First cut
+Woburn Ley Arable|1953| seeds hay|17-June-1953||1 cwt Nitrochalk per acre applied
+Woburn Ley Arable|1953| seeds hay|20-Aug-1953||Second cut
+Woburn Ley Arable|1953| seeds hay|None||seeds mixture, 27 lb S24 Perennial grass, 12 lb Montgomery Red Clover, 3 1b Canadian Alsike Clover per acre
+Woburn Ley Arable|1953| sugar beet 3rd course|20-Aug-1953||ploughed
+Woburn Ley Arable|1953| sugar beet 3rd course|2-Nov-1952||ploughed
+Woburn Ley Arable|1953| sugar beet 3rd course|20-Mar-1953||nitrate of soda applied
+Woburn Ley Arable|1953| sugar beet 3rd course|24-Mar-1953||seed drilled at 18 lb per acre
+Woburn Ley Arable|1953| sugar beet 3rd course|28-May-1953||singled
+Woburn Ley Arable|1953| sugar beet 3rd course|214-Oct-1952||Lifted
+Woburn Ley Arable|1953| sugar beet 3rd course|None||variety: Klein E
+Woburn Ley Arable|1953| potatoes|None||Total tubers, whole plot: 1.7/2 tons per acre or 12.9; - (4. à. f.) sub plot: 0,759 tons per acre or 5.4: (h. d. f.)
+Woburn Ley Arable|1953| ley 1st year|26-Aug-1953||ploughed
+Woburn Ley Arable|1953| ley 1st year|24-Nov-1952||ploughed
+Woburn Ley Arable|1953| ley 1st year|1-Apr-1953||Basal fertilizers applied
+Woburn Ley Arable|1953| ley 1st year|9-Apr-1953||seeds sown
+Woburn Ley Arable|1953| ley 1st year|25-June-1953|June-July-1953|; grazed by sheep: 5 circuits -
+Woburn Ley Arable|1953| ley 1st year|19-July-1953|27-July-1953|5
+Woburn Ley Arable|1953| ley 1st year|12-Aug-1953|19-Aug-1953|5
+Woburn Ley Arable|1953| ley 1st year|7-Sept-1952|15-Sept-1952|5
+Woburn Ley Arable|1953| ley 1st year|6-Oct-1952|14-Oct-1952|5
+Woburn Ley Arable|1953| ley 1st year|None||seeds mixture, 21 lb S24 Perennial grass, 12 lb $143 Cocksfoot, 6 1b Aberystwyth S123 Red Clover, 3 1b S100 White Clover per acre
+Woburn Ley Arable|1953| ley 2nd year|4-June-1953||Nitrochalk applied
+Woburn Ley Arable|1953| ley 2nd year|11-May-1953|19-May-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|9-June-1953|17-June-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|3-July-1953|11-July-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|27-July-1953|July-Aug-1953|grazed by sheep: 6 circuits -
+Woburn Ley Arable|1953| ley 2nd year|19-Aug-1953|27-Aug-1953|4
+Woburn Ley Arable|1953| ley 2nd year|15-Sept-1952|23-Sept-1952|4
+Woburn Ley Arable|1953| ley 3rd year|26-June-1953||Nitrochalk applied
+Woburn Ley Arable|1953| ley 3rd year|19-May-1953|27-May-1953|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|||grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|11-July-1953|19-July-1953|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|4-Aug-1953|12-Aug-1953|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|27-Aug-1953|Aug-Sept-1952|grazed by sheep: 7 circuits -
+Woburn Ley Arable|1953| ley 3rd year|23-Sept-1952|Sept-Oct-1952|7
+Woburn Ley Arable|1953| ley 3rd year|None||5
+Woburn Ley Arable|1953| lucerne 1st year|26-Aug-1953||ploughed
+Woburn Ley Arable|1953| lucerne 1st year|24-Nov-1952||ploughed
+Woburn Ley Arable|1953| lucerne 1st year|1-Apr-1953||Basal fertilizers applied
+Woburn Ley Arable|1953| lucerne 1st year|9-Apr-1953||seed drilled at 28 lb per acre
+Woburn Ley Arable|1953| lucerne 1st year|5-May-1953||Dusted with DDT
+Woburn Ley Arable|1953| lucerne 1st year|7-May-1953||again
+Woburn Ley Arable|1953| lucerne 1st year|5-Aug-1953||cut twice
+Woburn Ley Arable|1953| lucerne 1st year|28-Oct-1952||cut twice
+Woburn Ley Arable|1953| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1953| lucerne 2nd year|24-June-1953||cut three times
+Woburn Ley Arable|1953| lucerne 2nd year|5-Aug-1953||cut three times
+Woburn Ley Arable|1953| lucerne 2nd year|28-Oct-1952||and
+Woburn Ley Arable|1953| lucerne 3rd year|24-June-1953||cut three times
+Woburn Ley Arable|1953| lucerne 3rd year|5-Aug-1953||cut three times
+Woburn Ley Arable|1953| lucerne 3rd year|28-Oct-1952||and
+Woburn Ley Arable|1953| carrots|None||rotations
+Woburn Ley Arable|1953| potatoes 1st course|26-Aug-1953||ploughed
+Woburn Ley Arable|1953| potatoes 1st course|2h-Nov-1952||ploughed
+Woburn Ley Arable|1953| potatoes 1st course|1-Apr-1953||ridged, basal fertilizers applied, potatoes planted
+Woburn Ley Arable|1953| potatoes 1st course|17-June-1953||earthed up
+Woburn Ley Arable|1953| potatoes 1st course|17-Sept-1952||sprayed with sulphuric acid, 15, B.0.V.
+Woburn Ley Arable|1953| potatoes 1st course|23-Sept-1952||Lifted
+Woburn Ley Arable|1953| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1953| rye 2nd course|6-Oct-1952||cultivated
+Woburn Ley Arable|1953| rye 2nd course|114-Oct-1952||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1953| rye 2nd course|231953-Apr-1953||Nitrochalk applied
+Woburn Ley Arable|1953| rye 2nd course|13-Aug-1953||Harvested
+Woburn Ley Arable|1953| rye 2nd course|None||variety: King II
+Woburn Ley Arable|1953| seeds hay|17-Apr-1953||ourse. seeds undersown in rye
+Woburn Ley Arable|1953| seeds hay|30-Mar-1953||2 cwt Nitrochalk per acre applied
+Woburn Ley Arable|1953| seeds hay|16-June-1953||First cut
+Woburn Ley Arable|1953| seeds hay|17-June-1953||1 cwt Nitrochalk per acre applied
+Woburn Ley Arable|1953| seeds hay|20-Aug-1953||Second cut
+Woburn Ley Arable|1953| seeds hay|None||seeds mixture, 27 lb S24 Perennial grass, 12 lb Montgomery Red Clover, 3 1b Canadian Alsike Clover per acre
+Woburn Ley Arable|1953| sugar beet 3rd course|20-Aug-1953||ploughed
+Woburn Ley Arable|1953| sugar beet 3rd course|2-Nov-1952||ploughed
+Woburn Ley Arable|1953| sugar beet 3rd course|20-Mar-1953||nitrate of soda applied
+Woburn Ley Arable|1953| sugar beet 3rd course|24-Mar-1953||seed drilled at 18 lb per acre
+Woburn Ley Arable|1953| sugar beet 3rd course|28-May-1953||singled
+Woburn Ley Arable|1953| sugar beet 3rd course|214-Oct-1952||Lifted
+Woburn Ley Arable|1953| sugar beet 3rd course|None||variety: Klein E. 53/Be/1.2 test Crops
+Woburn Ley Arable|1953| barley 2nd test crop|10-Nov-1952||ploughed
+Woburn Ley Arable|1953| barley 2nd test crop|25-Feb-1953||22 cwt ground chalk per acre applied
+Woburn Ley Arable|1953| barley 2nd test crop|5-Mar-1953||| Nitrochalk applied, seed drilled at 3 bushels per acre
+Woburn Ley Arable|1953| barley 2nd test crop|13-Aug-1953||Harvested
+Woburn Ley Arable|1953| barley 2nd test crop|None||variety: Plumage Archer. Standard errors per plot, test crops
+Woburn Ley Arable|1953| barley|None||grazing, whole plot: 1.067 cwt per acre or 5.9; (4. à. f.) sub plot: | 0.766 cwt per acre or 2.87 (4 à.f.)
+Woburn Ley Arable|1954| ley 1st year|16-Sept-1953||ploughed twice
+Woburn Ley Arable|1954| ley 1st year|30-Dec-1953||ploughed twice
+Woburn Ley Arable|1954| ley 1st year|5-Apr-1954||Basal fertilizers applied
+Woburn Ley Arable|1954| ley 1st year|7-Apr-1954||seeds mixture hand sown
+Woburn Ley Arable|1954| ley 1st year|16-July-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 1st year|17-June-1954|21-June-1954|^ grazed 7 times
+Woburn Ley Arable|1954| ley 1st year|7-July-1954|15-July-1954|^ grazed 7 times
+Woburn Ley Arable|1954| ley 1st year|2L-July-1954|July-Aug-1954|^ grazed 7 times
+Woburn Ley Arable|1954| ley 1st year|11-Aug-1954|21-Aug-1954|1
+Woburn Ley Arable|1954| ley 1st year|8-Sept-1953|17-Sept-1953|1
+Woburn Ley Arable|1954| ley 1st year|25-Sept-1953|Sept-Oct-1953|1
+Woburn Ley Arable|1954| ley 1st year|19-Oct-1953|27-Oct-1953|1
+Woburn Ley Arable|1954| ley 1st year|None||seeds mixture per acre: 21 1b S23 Perennial grass, 12 1b S143 Cocksfoot, 6 lb late flowering Montgomery Red Clover, 5 1b S100 White Clover
+Woburn Ley Arable|1954| ley 2nd year|25-May-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 2nd year|26-July-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 2nd year|17-May-1954|25-May-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|817-June-1954||grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|21-June-1954|29-June-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|15-July-1954|24-July-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|1-Aug-1954|11-Aug-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|21-Aug-1954|30-Aug-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|17-Sept-1953|25-Sept-1953|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|3-Oct-1953|11-Oct-1953|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|27-Oct-1953|Oct-Nov-1953|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|None||4
+Woburn Ley Arable|1954| ley 3rd year|25-May-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 3rd year|21-July-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 3rd year|13-May-1954|17-May-1954|grazed 5 times
+Woburn Ley Arable|1954| ley 3rd year|31-May-1954|May-June-1954|grazed 5 times
+Woburn Ley Arable|1954| ley 3rd year|29-June-1954|June-July-1954|8
+Woburn Ley Arable|1954| ley 3rd year|3O-Aug-1954|Aug-Sept-1953|7
+Woburn Ley Arable|1954| ley 3rd year|11-Oct-1953|19-Oct-1953|8
+Woburn Ley Arable|1954| lucerne 1st year|16-Sept-1953||ploughed twice
+Woburn Ley Arable|1954| lucerne 1st year|30-Dec-1953||ploughed twice
+Woburn Ley Arable|1954| lucerne 1st year|2-Apr-1954||Basal fertilizers applied
+Woburn Ley Arable|1954| lucerne 1st year|7-Apr-1954||seeds som at 26 lb per acre
+Woburn Ley Arable|1954| lucerne 1st year|6-Apr-1954||Dusted with 2% DDT
+Woburn Ley Arable|1954| lucerne 1st year|11-Aug-1954||cut twice
+Woburn Ley Arable|1954| lucerne 1st year|3-Nov-1953||cut twice
+Woburn Ley Arable|1954| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1954| lucerne 2nd year|24-June-1954||cut three times
+Woburn Ley Arable|1954| lucerne 2nd year|11-Aug-1954||cut three times
+Woburn Ley Arable|1954| lucerne 2nd year|3-Nov-1953||cut three times
+Woburn Ley Arable|1954| lucerne 3rd year|24-June-1954||cut three times
+Woburn Ley Arable|1954| lucerne 3rd year|11-Aug-1954||cut three times
+Woburn Ley Arable|1954| lucerne 3rd year|3-Nov-1953||cut three times
+Woburn Ley Arable|1954| carrots|None||rotations
+Woburn Ley Arable|1954| potatoes 1st course|16-Sept-1953||ploughed
+Woburn Ley Arable|1954| potatoes 1st course|30-Dec-1953||again
+Woburn Ley Arable|1954| potatoes 1st course|2-Apr-1954||ridged, basal fertilizers applied
+Woburn Ley Arable|1954| potatoes 1st course|6-Apr-1954||potatoes plented with dropper
+Woburn Ley Arable|1954| potatoes 1st course|25-June-1954||earthed up
+Woburn Ley Arable|1954| potatoes 1st course|30-July-1954||sprayed with cropped Fungicide, 5 1b per acre
+Woburn Ley Arable|1954| potatoes 1st course|16-Aug-1954||sprayed with cropped Fungicide, 5 1b per acre
+Woburn Ley Arable|1954| potatoes 1st course|27-Aug-1954||and
+Woburn Ley Arable|1954| potatoes 1st course|23-Sept-1953||sprayed with sulphuric acid
+Woburn Ley Arable|1954| potatoes 1st course|4-Oct-1953||Lifted
+Woburn Ley Arable|1954| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1954| rye 2nd course|1-Oct-1953||ploughed
+Woburn Ley Arable|1954| rye 2nd course|22-Oct-1953||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1954| rye 2nd course|29-Apr-1954||Nitrochalk applied
+Woburn Ley Arable|1954| rye 2nd course|29-Apr-1954||Nitrochalk applied
+Woburn Ley Arable|1954| seeds hay|9-Apr-1954||3rd course. seeds undersown in rye
+Woburn Ley Arable|1954| seeds hay|6-Apr-1954||Basal Nitrochalk applied
+Woburn Ley Arable|1954| seeds hay|24-June-1954||1st cut
+Woburn Ley Arable|1954| seeds hay|30-June-1954||Nitrochalk applied
+Woburn Ley Arable|1954| seeds hay|3-Nov-1953||2nd cut
+Woburn Ley Arable|1954| seeds hay|None||seeds mixture per acre: 27 1b $24 Perennial grass, 12 lb Montgomery Red Clover, 3 1b Canadian Alsike Clover
+Woburn Ley Arable|1954| ley 1st year|16-Sept-1953||ploughed twice
+Woburn Ley Arable|1954| ley 1st year|30-Dec-1953||ploughed twice
+Woburn Ley Arable|1954| ley 1st year|5-Apr-1954||Basal fertilizers applied
+Woburn Ley Arable|1954| ley 1st year|7-Apr-1954||seeds mixture hand sown
+Woburn Ley Arable|1954| ley 1st year|16-July-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 1st year|17-June-1954|21-June-1954|^ grazed 7 times
+Woburn Ley Arable|1954| ley 1st year|7-July-1954|15-July-1954|^ grazed 7 times
+Woburn Ley Arable|1954| ley 1st year|2L-July-1954|July-Aug-1954|^ grazed 7 times
+Woburn Ley Arable|1954| ley 1st year|11-Aug-1954|21-Aug-1954|1
+Woburn Ley Arable|1954| ley 1st year|8-Sept-1953|17-Sept-1953|1
+Woburn Ley Arable|1954| ley 1st year|25-Sept-1953|Sept-Oct-1953|1
+Woburn Ley Arable|1954| ley 1st year|19-Oct-1953|27-Oct-1953|1
+Woburn Ley Arable|1954| ley 1st year|None||seeds mixture per acre: 21 1b S23 Perennial grass, 12 1b S143 Cocksfoot, 6 lb late flowering Montgomery Red Clover, 5 1b S100 White Clover
+Woburn Ley Arable|1954| ley 2nd year|25-May-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 2nd year|26-July-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 2nd year|17-May-1954|25-May-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|817-June-1954||grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|21-June-1954|29-June-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|15-July-1954|24-July-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|1-Aug-1954|11-Aug-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|21-Aug-1954|30-Aug-1954|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|17-Sept-1953|25-Sept-1953|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|3-Oct-1953|11-Oct-1953|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|27-Oct-1953|Oct-Nov-1953|grazed 9 times
+Woburn Ley Arable|1954| ley 2nd year|None||4
+Woburn Ley Arable|1954| ley 3rd year|25-May-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 3rd year|21-July-1954||Nitrochalk applied
+Woburn Ley Arable|1954| ley 3rd year|13-May-1954|17-May-1954|grazed 5 times
+Woburn Ley Arable|1954| ley 3rd year|31-May-1954|May-June-1954|grazed 5 times
+Woburn Ley Arable|1954| ley 3rd year|29-June-1954|June-July-1954|8
+Woburn Ley Arable|1954| ley 3rd year|3O-Aug-1954|Aug-Sept-1953|7
+Woburn Ley Arable|1954| ley 3rd year|11-Oct-1953|19-Oct-1953|8
+Woburn Ley Arable|1954| lucerne 1st year|16-Sept-1953||ploughed twice
+Woburn Ley Arable|1954| lucerne 1st year|30-Dec-1953||ploughed twice
+Woburn Ley Arable|1954| lucerne 1st year|2-Apr-1954||Basal fertilizers applied
+Woburn Ley Arable|1954| lucerne 1st year|7-Apr-1954||seeds som at 26 lb per acre
+Woburn Ley Arable|1954| lucerne 1st year|6-Apr-1954||Dusted with 2% DDT
+Woburn Ley Arable|1954| lucerne 1st year|11-Aug-1954||cut twice
+Woburn Ley Arable|1954| lucerne 1st year|3-Nov-1953||cut twice
+Woburn Ley Arable|1954| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1954| lucerne 2nd year|24-June-1954||cut three times
+Woburn Ley Arable|1954| lucerne 2nd year|11-Aug-1954||cut three times
+Woburn Ley Arable|1954| lucerne 2nd year|3-Nov-1953||cut three times
+Woburn Ley Arable|1954| lucerne 3rd year|24-June-1954||cut three times
+Woburn Ley Arable|1954| lucerne 3rd year|11-Aug-1954||cut three times
+Woburn Ley Arable|1954| lucerne 3rd year|3-Nov-1953||cut three times
+Woburn Ley Arable|1954| carrots|None||rotations
+Woburn Ley Arable|1954| potatoes 1st course|16-Sept-1953||ploughed
+Woburn Ley Arable|1954| potatoes 1st course|30-Dec-1953||again
+Woburn Ley Arable|1954| potatoes 1st course|2-Apr-1954||ridged, basal fertilizers applied
+Woburn Ley Arable|1954| potatoes 1st course|6-Apr-1954||potatoes plented with dropper
+Woburn Ley Arable|1954| potatoes 1st course|25-June-1954||earthed up
+Woburn Ley Arable|1954| potatoes 1st course|30-July-1954||sprayed with cropped Fungicide, 5 1b per acre
+Woburn Ley Arable|1954| potatoes 1st course|16-Aug-1954||sprayed with cropped Fungicide, 5 1b per acre
+Woburn Ley Arable|1954| potatoes 1st course|27-Aug-1954||and
+Woburn Ley Arable|1954| potatoes 1st course|23-Sept-1953||sprayed with sulphuric acid
+Woburn Ley Arable|1954| potatoes 1st course|4-Oct-1953||Lifted
+Woburn Ley Arable|1954| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1954| rye 2nd course|1-Oct-1953||ploughed
+Woburn Ley Arable|1954| rye 2nd course|22-Oct-1953||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1954| rye 2nd course|29-Apr-1954||Nitrochalk applied
+Woburn Ley Arable|1954| rye 2nd course|29-Apr-1954||Nitrochalk applied
+Woburn Ley Arable|1954| seeds hay|9-Apr-1954||3rd course. seeds undersown in rye
+Woburn Ley Arable|1954| seeds hay|6-Apr-1954||Basal Nitrochalk applied
+Woburn Ley Arable|1954| seeds hay|24-June-1954||1st cut
+Woburn Ley Arable|1954| seeds hay|30-June-1954||Nitrochalk applied
+Woburn Ley Arable|1954| seeds hay|3-Nov-1953||2nd cut
+Woburn Ley Arable|1954| seeds hay|None||seeds mixture per acre: 27 1b $24 Perennial grass, 12 lb Montgomery Red Clover, 3 1b Canadian Alsike Clover. 54/8e/1.2
+Woburn Ley Arable|1954| sugar beet 3rd course|21-Aug-1954||ploughed
+Woburn Ley Arable|1954| sugar beet 3rd course|5-Nov-1953||again
+Woburn Ley Arable|1954| sugar beet 3rd course|29-Mar-1954||Basal nitrate of soda applied
+Woburn Ley Arable|1954| sugar beet 3rd course|30-Mar-1954||seed drilled at 16 lb per acre
+Woburn Ley Arable|1954| sugar beet 3rd course|12-May-1954||Dusted with DDT
+Woburn Ley Arable|1954| sugar beet 3rd course|26-May-1954||singled
+Woburn Ley Arable|1954| sugar beet 3rd course|21-June-1954||sprayed with systemic insecticide $ pints per acre, high volume
+Woburn Ley Arable|1954| sugar beet 3rd course|2-Nov-1953||Lifted
+Woburn Ley Arable|1954| sugar beet 3rd course|None||variety: Klein E. test Crops
+Woburn Ley Arable|1954| potatoes|None||Total tubers, whole plot: 0.797 tons per acre T LT 4 à. f. sub plot: 0.881 tons per acre or 8.1% (4 à.f.)
+Woburn Ley Arable|1954| barley 2nd test crop|2-Oct-1953||ploughed
+Woburn Ley Arable|1954| barley 2nd test crop|30-Dec-1953||again
+Woburn Ley Arable|1954| barley 2nd test crop|-Mar-1954||Ground chalk applied
+Woburn Ley Arable|1954| barley 2nd test crop|11-Mar-1954||Nitrochalk applied
+Woburn Ley Arable|1954| barley 2nd test crop|17-Mar-1954||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1954| barley 2nd test crop|28-Aug-1954||Harvested
+Woburn Ley Arable|1954| barley 2nd test crop|None||variety: Plumage Archer. Standard errors per plot, test crops
+Woburn Ley Arable|1954| barley|None||grazing, whole plot: 2.50 cwt per acre P ) 4 def. sub plot: 2.12 cwt per acre or 6.7% (4 à.f.)
+Woburn Ley Arable|1955| potatoes|None||tions
+Woburn Ley Arable|1955| ley 1st year|30-Sept-1954||ploughed twice
+Woburn Ley Arable|1955| ley 1st year|2-Feb-1955||ploughed twice
+Woburn Ley Arable|1955| ley 1st year|29-Apr-1955||Basal fertilizers applied
+Woburn Ley Arable|1955| ley 1st year|50-Apr-1955||seed som
+Woburn Ley Arable|1955| ley 1st year|5-July-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 1st year|28-June-1955|2-July-1955|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|18-July-1955|26-July-1955|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|26-Sept-1954|29-Sept-1954|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|15-Oct-1954|26-Oct-1954|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|None||^ seeds mixture (sown at 40 lb per acre: 2L lb S2L Ferennial grass, 12 1b $145 Cocksfoot, 6 lb S125 late flowering Red Clover, 3 1b S100 White Clover
+Woburn Ley Arable|1955| ley 2nd year|9-May-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 2nd year|5-July-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 2nd year|50-Apr-1955|9-May-1955|grazed 7 circuits
+Woburn Ley Arable|1955| ley 2nd year|8-June-1955|20-June-1955|May19-27
+Woburn Ley Arable|1955| ley 2nd year|2-July-1955|10-July-1955|May19-27
+Woburn Ley Arable|1955| ley 2nd year|26-July-1955|3-Aug-1955|May19-27
+Woburn Ley Arable|1955| ley 2nd year|29-Sept-1954|7-Oct-1954|May19-27
+Woburn Ley Arable|1955| ley 2nd year|26-Oct-1954|5-Nov-1954|May19-27
+Woburn Ley Arable|1955| ley 3rd year|11-May-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 3rd year|21-July-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 3rd year|9-May-1955|17-May-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|31-May-1955|8-June-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|20-June-1955|28-June-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|10-July-1955|18-July-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|17-Sept-1954|25-Sept-1954|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|10-Oct-1954|18-Oct-1954|grazed 6 circuits
+Woburn Ley Arable|1955| lucerne 1st year|30-Sept-1954||ploughed twice
+Woburn Ley Arable|1955| lucerne 1st year|2-Feb-1955||ploughed twice
+Woburn Ley Arable|1955| lucerne 1st year|29-Apr-1955||Basal fertilizers applied
+Woburn Ley Arable|1955| lucerne 1st year|30-Apr-1955||seed som at 25 lb per acre
+Woburn Ley Arable|1955| lucerne 1st year|27-July-1955||cut twice
+Woburn Ley Arable|1955| lucerne 1st year|16-Sept-1954||cut twice
+Woburn Ley Arable|1955| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1955| lucerne 2nd year|13-June-1955||cut three times
+Woburn Ley Arable|1955| lucerne 2nd year|27-July-1955||cut three times
+Woburn Ley Arable|1955| lucerne 2nd year|16-Sept-1954||cut three times
+Woburn Ley Arable|1955| lucerne 3rd year|13-June-1955||cut three times
+Woburn Ley Arable|1955| lucerne 3rd year|27-July-1955||cut three times
+Woburn Ley Arable|1955| lucerne 3rd year|16-Sept-1954||cut three times
+Woburn Ley Arable|1955| barley 2nd test crop|None||
+Woburn Ley Arable|1955| potatoes 1st course|30-Sept-1954||ploughed twice
+Woburn Ley Arable|1955| potatoes 1st course|2-Feb-1955||ploughed twice
+Woburn Ley Arable|1955| potatoes 1st course|19-Apr-1955||Basal fertilizers applied, ridged, potatoes planted with dropper
+Woburn Ley Arable|1955| potatoes 1st course|28-June-1955||earthed up
+Woburn Ley Arable|1955| potatoes 1st course|2-Sept-1954||Lifted
+Woburn Ley Arable|1955| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1955| rye 2nd course|26-Oct-1954||ploughed
+Woburn Ley Arable|1955| rye 2nd course|20-Dec-1954||seed drilled at 31 bushels per acre
+Woburn Ley Arable|1955| rye 2nd course|None||Nitrochalk applied 29, 1955
+Woburn Ley Arable|1955| seeds hay|9-May-1955||mixture undersown on 4 plots
+Woburn Ley Arable|1955| seeds hay|25-Aug-1955||Harvested
+Woburn Ley Arable|1955| seeds hay|None||variety: King II
+Woburn Ley Arable|1955| potatoes|None||Total tubers. Whcle plot: 0.828 tons per acre per ) 4 af. $ plot: 0.497 tons per acre or 6.54 (4 af.) £ plot: 1.162 tons per acre or 15.2% (2% à, f.)
+Woburn Ley Arable|1955| ley 1st year|30-Sept-1954||ploughed twice
+Woburn Ley Arable|1955| ley 1st year|2-Feb-1955||ploughed twice
+Woburn Ley Arable|1955| ley 1st year|29-Apr-1955||Basal fertilizers applied
+Woburn Ley Arable|1955| ley 1st year|50-Apr-1955||seed som
+Woburn Ley Arable|1955| ley 1st year|5-July-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 1st year|28-June-1955|2-July-1955|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|18-July-1955|26-July-1955|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|26-Sept-1954|29-Sept-1954|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|15-Oct-1954|26-Oct-1954|grazed l4 circuits
+Woburn Ley Arable|1955| ley 1st year|None||^ seeds mixture (sown at 40 lb per acre: 2L lb S2L Ferennial grass, 12 1b $145 Cocksfoot, 6 lb S125 late flowering Red Clover, 3 1b S100 White Clover
+Woburn Ley Arable|1955| ley 2nd year|9-May-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 2nd year|5-July-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 2nd year|50-Apr-1955|9-May-1955|grazed 7 circuits
+Woburn Ley Arable|1955| ley 2nd year|8-June-1955|20-June-1955|May19-27
+Woburn Ley Arable|1955| ley 2nd year|2-July-1955|10-July-1955|May19-27
+Woburn Ley Arable|1955| ley 2nd year|26-July-1955|3-Aug-1955|May19-27
+Woburn Ley Arable|1955| ley 2nd year|29-Sept-1954|7-Oct-1954|May19-27
+Woburn Ley Arable|1955| ley 2nd year|26-Oct-1954|5-Nov-1954|May19-27
+Woburn Ley Arable|1955| ley 3rd year|11-May-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 3rd year|21-July-1955||Nitrochalk applied
+Woburn Ley Arable|1955| ley 3rd year|9-May-1955|17-May-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|31-May-1955|8-June-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|20-June-1955|28-June-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|10-July-1955|18-July-1955|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|17-Sept-1954|25-Sept-1954|grazed 6 circuits
+Woburn Ley Arable|1955| ley 3rd year|10-Oct-1954|18-Oct-1954|grazed 6 circuits
+Woburn Ley Arable|1955| lucerne 1st year|30-Sept-1954||ploughed twice
+Woburn Ley Arable|1955| lucerne 1st year|2-Feb-1955||ploughed twice
+Woburn Ley Arable|1955| lucerne 1st year|29-Apr-1955||Basal fertilizers applied
+Woburn Ley Arable|1955| lucerne 1st year|30-Apr-1955||seed som at 25 lb per acre
+Woburn Ley Arable|1955| lucerne 1st year|27-July-1955||cut twice
+Woburn Ley Arable|1955| lucerne 1st year|16-Sept-1954||cut twice
+Woburn Ley Arable|1955| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1955| lucerne 2nd year|13-June-1955||cut three times
+Woburn Ley Arable|1955| lucerne 2nd year|27-July-1955||cut three times
+Woburn Ley Arable|1955| lucerne 2nd year|16-Sept-1954||cut three times
+Woburn Ley Arable|1955| lucerne 3rd year|13-June-1955||cut three times
+Woburn Ley Arable|1955| lucerne 3rd year|27-July-1955||cut three times
+Woburn Ley Arable|1955| lucerne 3rd year|16-Sept-1954||cut three times
+Woburn Ley Arable|1955| barley 2nd test crop|28-Oct-1954||^ ploughed twice
+Woburn Ley Arable|1955| barley 2nd test crop|3-Feb-1955||^ ploughed twice
+Woburn Ley Arable|1955| barley 2nd test crop|14-Mar-1955||Ground chalk applied
+Woburn Ley Arable|1955| barley 2nd test crop|17-Mar-1955||Nitrochalk applied, seed drilled at 34 bushels per acre
+Woburn Ley Arable|1955| barley 2nd test crop|15-Aug-1955||Harvested
+Woburn Ley Arable|1955| barley 2nd test crop|None||variety: Plumage Archer. . Standard errors per plot, test Crops
+Woburn Ley Arable|1955| potatoes 1st course|30-Sept-1954||ploughed twice
+Woburn Ley Arable|1955| potatoes 1st course|2-Feb-1955||ploughed twice
+Woburn Ley Arable|1955| potatoes 1st course|19-Apr-1955||Basal fertilizers applied, ridged, potatoes planted with dropper
+Woburn Ley Arable|1955| potatoes 1st course|28-June-1955||earthed up
+Woburn Ley Arable|1955| potatoes 1st course|2-Sept-1954||Lifted
+Woburn Ley Arable|1955| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1955| rye 2nd course|26-Oct-1954||ploughed
+Woburn Ley Arable|1955| rye 2nd course|20-Dec-1954||seed drilled at 31 bushels per acre
+Woburn Ley Arable|1955| rye 2nd course|None||Nitrochalk applied 29, 1955
+Woburn Ley Arable|1955| seeds hay|9-May-1955||mixture undersown on 4 plots
+Woburn Ley Arable|1955| seeds hay|25-Aug-1955||Harvested
+Woburn Ley Arable|1955| seeds hay|7-May-1955||variety: King II. 55/Be/1.2 seed hay 3rd Course. seeds undersown in rye
+Woburn Ley Arable|1955| seeds hay|19-Apr-1955||Basal Nitrochalk applied
+Woburn Ley Arable|1955| seeds hay|13-June-1955||1st cut
+Woburn Ley Arable|1955| seeds hay|14-June-1955||Nitrochalk applied
+Woburn Ley Arable|1955| seeds hay|16-Sept-1954||2nd cut
+Woburn Ley Arable|1955| seeds hay|None||seeds mixture per acre: 27 lb S24 Perennial grass, 12 lb Montgemery
+Woburn Ley Arable|1955| sainfoin 3rd year|None||Canadian Alsike Clover
+Woburn Ley Arable|1955| sugar beet|1-Oct-1954||Red Course. ploughed twice
+Woburn Ley Arable|1955| sugar beet|1-Feb-1955||and
+Woburn Ley Arable|1955| sugar beet|16-Apr-1955||Rubbed seed drill>d-at 8 lb per acre
+Woburn Ley Arable|1955| sugar beet|18-Apr-1955||Basal nitrate of soda applied
+Woburn Ley Arable|1955| sugar beet|10-June-1955||sprayed with systemic insecticide, 4 pints in 40 gallons per acre
+Woburn Ley Arable|1955| sugar beet|22-June-1955||singled
+Woburn Ley Arable|1955| sugar beet|28-Oct-1954||Lifted
+Woburn Ley Arable|1955| sugar beet|None||variety: Klein E. test s
+Woburn Ley Arable|1955| barley|None||grazing. Whole plot: 3.25 cwt per acre or E ) 4 daf. + plot: 1.97 cwt per acre or 6.5% (& 3. f.) Note. potatoes> root eelworm was found in this experiment in 1955. On three treatment crop potatoes, several plots were very badly affected and three results acre unreliable. three eelworm was present on soue of three test crop potatoes cut three yields were probably only slightly affected
+Woburn Ley Arable|1956| potatoes|None||tions
+Woburn Ley Arable|1956| ley 1st year|23-Sept-1955||ploughed twice
+Woburn Ley Arable|1956| ley 1st year|26-Oct-1955||ploughed twice
+Woburn Ley Arable|1956| ley 1st year|16-Apr-1956||Basal fertilizers applied, seed sown
+Woburn Ley Arable|1956| ley 1st year|29-Aug-1956||2nd dressing Nitro-chalk' applied
+Woburn Ley Arable|1956| ley 1st year|25-June-1956|29-June-1956|grazed 6 circuits
+Woburn Ley Arable|1956| potaoes 1st test crop|9-Oct-1955|17-Oct-1955|22
+Woburn Ley Arable|1956| potaoes 1st test crop|2-Nov-1955||22
+Woburn Ley Arable|1956| potaoes 1st test crop|None||— 10. Seedsmixture (sown at 40 lb per acre) 20 1b $2 Perennial grass, 11 1b S143 Cocksfoot, 6 lb late flowering Red Clover, 5 lb S100 White Clover
+Woburn Ley Arable|1956| ley 2nd year|13-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| ley 2nd year|20-May-1956||Nitrochalk' applied
+Woburn Ley Arable|1956| ley 2nd year|3-Sept-1955||Nitrochalk' applied
+Woburn Ley Arable|1956| ley 2nd year|4-May-1956|12-May-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|20-May-1956|28-May-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|17-June-1956|25-June-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|7-July-1956|15-July-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|8-Aug-1956|17-Aug-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|6-Sept-1955|14-Sept-1955|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|1-Oct-1955|9-Oct-1955|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|25-Oct-1955|2-Nov-1955|grazed 8 circuits
+Woburn Ley Arable|1956| ley 3rd year|15-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| ley 3rd year|16-May-1956||Nitro-chalk' applied
+Woburn Ley Arable|1956| ley 3rd year|5-Sept-1955||Nitro-chalk' applied
+Woburn Ley Arable|1956| ley 3rd year|26-Apr-1956|4-May-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|12-May-1956|20-May-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|9-June-1956|17-June-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|29-June-1956|7-July-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|17-July-1956|25-July-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|2-Aug-1956|11-Aug-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|29-Aug-1956|6-Sept-1955|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|22-Sept-1955|1-Oct-1955|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|17-Oct-1955|25-Oct-1955|grazed 9 circuits
+Woburn Ley Arable|1956| lucerne 1st year|23-Sept-1955||ploughed twice
+Woburn Ley Arable|1956| lucerne 1st year|28-Oct-1955||ploughed twice
+Woburn Ley Arable|1956| lucerne 1st year|16-Apr-1956||Basal fertilizers applied, seed sown at 25 1b per acre
+Woburn Ley Arable|1956| lucerne 1st year|5-May-1956||Dusted with 5% DDT
+Woburn Ley Arable|1956| lucerne 1st year|7-May-1956||sprayed with DDT emulsion, 3 pints per acre
+Woburn Ley Arable|1956| lucerne 1st year|2-June-1956||sprayed with DDT emulsion, 3 pints per acre
+Woburn Ley Arable|1956| lucerne 1st year|8-Aug-1956||cut twice
+Woburn Ley Arable|1956| lucerne 1st year|16-Nov-1955||cut twice
+Woburn Ley Arable|1956| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1956| lucerne 2nd year|13-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| lucerne 2nd year|21-June-1956||not 3 times
+Woburn Ley Arable|1956| lucerne 2nd year|8-Aug-1956||not 3 times
+Woburn Ley Arable|1956| lucerne 2nd year|16-Nov-1955||not 3 times
+Woburn Ley Arable|1956| lucerne 3rd year|13-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| lucerne 3rd year|21-June-1956||not 3 times
+Woburn Ley Arable|1956| lucerne 3rd year|8-Aug-1956||not 3 times
+Woburn Ley Arable|1956| lucerne 3rd year|16-Nov-1955||not 3 times
+Woburn Ley Arable|1956| carrots|None||rotations
+Woburn Ley Arable|1956| potatoes 1st course|23-Sept-1955||ploughed twice
+Woburn Ley Arable|1956| potatoes 1st course|25-Oct-1955||ploughed twice
+Woburn Ley Arable|1956| potatoes 1st course|11-Apr-1956||Basal fertilizers applied
+Woburn Ley Arable|1956| potatoes 1st course|13-Apr-1956||ridged, potatoes plented
+Woburn Ley Arable|1956| potatoes 1st course|22-June-1956||earthed up
+Woburn Ley Arable|1956| potatoes 1st course|23-July-1956||sprayed with cropped Fungicide, 5 lb in LO gallons per acre
+Woburn Ley Arable|1956| potatoes 1st course|4-Sept-1955||sprayed with arsenious compound, 1 gallon in 40 gallons per acre
+Woburn Ley Arable|1956| potatoes 1st course|4-Oct-1955|5-Oct-1955|Lifted
+Woburn Ley Arable|1956| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1956| rye 2nd course|3-Sept-1955||ploughed
+Woburn Ley Arable|1956| rye 2nd course|15-Oct-1955||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1956| rye 2nd course|16-Apr-1956||Nitro-chalk' applied
+Woburn Ley Arable|1956| rye 2nd course|20-Apr-1956||seeds hay mixture undersown on 4 plots
+Woburn Ley Arable|1956| rye 2nd course|22-Aug-1956||Harvested
+Woburn Ley Arable|1956| rye 2nd course|None||variety: King II
+Woburn Ley Arable|1956| potatoes|None||tions
+Woburn Ley Arable|1956| ley 1st year|23-Sept-1955||ploughed twice
+Woburn Ley Arable|1956| ley 1st year|26-Oct-1955||ploughed twice
+Woburn Ley Arable|1956| ley 1st year|16-Apr-1956||Basal fertilizers applied, seed sown
+Woburn Ley Arable|1956| ley 1st year|29-Aug-1956||2nd dressing Nitro-chalk' applied
+Woburn Ley Arable|1956| ley 1st year|25-June-1956|29-June-1956|grazed 6 circuits
+Woburn Ley Arable|1956| potaoes 1st test crop|9-Oct-1955|17-Oct-1955|22
+Woburn Ley Arable|1956| potaoes 1st test crop|2-Nov-1955||22
+Woburn Ley Arable|1956| potaoes 1st test crop|None||— 10. Seedsmixture (sown at 40 lb per acre) 20 1b $2 Perennial grass, 11 1b S143 Cocksfoot, 6 lb late flowering Red Clover, 5 lb S100 White Clover
+Woburn Ley Arable|1956| ley 2nd year|13-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| ley 2nd year|20-May-1956||Nitrochalk' applied
+Woburn Ley Arable|1956| ley 2nd year|3-Sept-1955||Nitrochalk' applied
+Woburn Ley Arable|1956| ley 2nd year|4-May-1956|12-May-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|20-May-1956|28-May-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|17-June-1956|25-June-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|7-July-1956|15-July-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|8-Aug-1956|17-Aug-1956|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|6-Sept-1955|14-Sept-1955|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|1-Oct-1955|9-Oct-1955|grazed 8 circuits
+Woburn Ley Arable|1956| ley 2nd year|25-Oct-1955|2-Nov-1955|grazed 8 circuits
+Woburn Ley Arable|1956| ley 3rd year|15-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| ley 3rd year|16-May-1956||Nitro-chalk' applied
+Woburn Ley Arable|1956| ley 3rd year|5-Sept-1955||Nitro-chalk' applied
+Woburn Ley Arable|1956| ley 3rd year|26-Apr-1956|4-May-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|12-May-1956|20-May-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|9-June-1956|17-June-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|29-June-1956|7-July-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|17-July-1956|25-July-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|2-Aug-1956|11-Aug-1956|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|29-Aug-1956|6-Sept-1955|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|22-Sept-1955|1-Oct-1955|grazed 9 circuits
+Woburn Ley Arable|1956| ley 3rd year|17-Oct-1955|25-Oct-1955|grazed 9 circuits
+Woburn Ley Arable|1956| lucerne 1st year|23-Sept-1955||ploughed twice
+Woburn Ley Arable|1956| lucerne 1st year|28-Oct-1955||ploughed twice
+Woburn Ley Arable|1956| lucerne 1st year|16-Apr-1956||Basal fertilizers applied, seed sown at 25 1b per acre
+Woburn Ley Arable|1956| lucerne 1st year|5-May-1956||Dusted with 5% DDT
+Woburn Ley Arable|1956| lucerne 1st year|7-May-1956||sprayed with DDT emulsion, 3 pints per acre
+Woburn Ley Arable|1956| lucerne 1st year|2-June-1956||sprayed with DDT emulsion, 3 pints per acre
+Woburn Ley Arable|1956| lucerne 1st year|8-Aug-1956||cut twice
+Woburn Ley Arable|1956| lucerne 1st year|16-Nov-1955||cut twice
+Woburn Ley Arable|1956| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1956| lucerne 2nd year|13-Apr-1956||Basal potash applied
+Woburn Ley Arable|1956| lucerne 2nd year|21-June-1956||not 3 times
+Woburn Ley Arable|1956| lucerne 2nd year|8-Aug-1956||not 3 times
+Woburn Ley Arable|1956| lucerne 2nd year|16-Nov-1955||not 3 times
+Woburn Ley Arable|1956| lucerne 3rd year|None||of suger beet after lucerne was possibly depressed os o result. Standard errors per plot. test Crops
+Woburn Ley Arable|1956| carrots|6-Sept-1955||3rd course. ploughed twice
+Woburn Ley Arable|1956| carrots|12-Dec-1955||3rd course. ploughed twice
+Woburn Ley Arable|1956| carrots|13-Apr-1956||Basal fertilizers applied, seed drilled at 6 lb per acre
+Woburn Ley Arable|1956| carrots|21-June-1956|26-June-1956|singled
+Woburn Ley Arable|1956| carrots|8-Nov-1955||Lifted
+Woburn Ley Arable|1956| carrots|None||variety: James' Scarlet Intermediate. test crops
+Woburn Ley Arable|1956| potatoes 1st course|23-Sept-1955||ploughed twice
+Woburn Ley Arable|1956| potatoes 1st course|25-Oct-1955||ploughed twice
+Woburn Ley Arable|1956| potatoes 1st course|11-Apr-1956||Basal fertilizers applied
+Woburn Ley Arable|1956| potatoes 1st course|13-Apr-1956||ridged, potatoes plented
+Woburn Ley Arable|1956| potatoes 1st course|22-June-1956||earthed up
+Woburn Ley Arable|1956| potatoes 1st course|23-July-1956||sprayed with cropped Fungicide, 5 lb in LO gallons per acre
+Woburn Ley Arable|1956| potatoes 1st course|4-Sept-1955||sprayed with arsenious compound, 1 gallon in 40 gallons per acre
+Woburn Ley Arable|1956| potatoes 1st course|4-Oct-1955|5-Oct-1955|Lifted
+Woburn Ley Arable|1956| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1956| rye 2nd course|3-Sept-1955||ploughed
+Woburn Ley Arable|1956| rye 2nd course|15-Oct-1955||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1956| rye 2nd course|16-Apr-1956||Nitro-chalk' applied
+Woburn Ley Arable|1956| rye 2nd course|20-Apr-1956||seeds hay mixture undersown on 4 plots
+Woburn Ley Arable|1956| rye 2nd course|22-Aug-1956||Harvested
+Woburn Ley Arable|1956| rye 2nd course|None||variety: King II. 56/8e/1.2
+Woburn Ley Arable|1956| seeds hay|9-May-1956||3rd course. seeds undersown in rye
+Woburn Ley Arable|1956| seeds hay|9-Apr-1956||Basal fertilizers applied
+Woburn Ley Arable|1956| seeds hay|21-June-1956||1st cut
+Woburn Ley Arable|1956| seeds hay|22-June-1956||Nitro-chalk' applied
+Woburn Ley Arable|1956| seeds hay|16-Nov-1955||2nd cut
+Woburn Ley Arable|1956| seeds hay|None||seeds mixture per acre: 19 lb S24 Perennial grass, 9 lb late flowering Red Clover, 2 1b Alsike American
+Woburn Ley Arable|1956| sugar beet|None||Totel sugar. Whole plot: 5.36 cwt per acre « 6.2% ) 3 af. ; + plot: 3.88 cwt per acre or 7.2% (4. à.f.) & plot: 3.41 cwt per acre or 6.3% (24 af.) Tops. Whole plot: 0.758 tons per Eos e 3 a.f. $ plot: 0.856 tons per acre or 5.7% (4 dete) & plot: 1.786 tons per acre or 11.8% (24 def.)
+Woburn Ley Arable|1956| barley 2nd test crop|29-Oct-1955||ploughed
+Woburn Ley Arable|1956| barley 2nd test crop|Dec ||Ground chalk applied
+Woburn Ley Arable|1956| barley 2nd test crop|16-Jan-1956||Potash applied to equalise treatment dressing to 1955 potatoes
+Woburn Ley Arable|1956| barley 2nd test crop|13-Mar-1956||Nitro-chalk applied
+Woburn Ley Arable|1956| barley 2nd test crop|16-Mar-1956||seed drilled at 23 bushels per acre
+Woburn Ley Arable|1956| barley 2nd test crop|19-Apr-1956||Additional Nitro-chalk' applied
+Woburn Ley Arable|1956| barley 2nd test crop|21-Aug-1956||Harvested
+Woburn Ley Arable|1956| barley 2nd test crop|None||variety: Herta. Note. three change of 1st test crop from potatoes to sugar beet, was decided on in spring,, three application of dung necessitated & second ploughing; this gave poor seed Bead conditions after three
+Woburn Ley Arable|1956| barley|12-May-1956||grazing Whole plot: 2.2! cwt per acre or 6.3% (4 def.) f plot: 1.90 cwt per acre or 5.4% (4 à. f.) Errata to "Results of three Field experiment" 1939-47, Vol.I. Page Bf/1.4. potatoes 1947. late sown should Red
+Woburn Ley Arable|1956| barley|12-Apr-1956||not
+Woburn Ley Arable|1956| barley|None||Page Df/1.16. Barley 1947. Order of crops previous to potatoes, for grazing, straw tables should Red lucerne, Arable with
+Woburn Ley Arable|1956| hay|None||er beet, Arable with hay, ley", not as shown
+Woburn Ley Arable|1957| potatoes|None||tions
+Woburn Ley Arable|1957| ley 1st year|24-Aug-1957||ploughed twice
+Woburn Ley Arable|1957| ley 1st year|1-Oct-1956||ploughed twice
+Woburn Ley Arable|1957| ley 1st year|8-Apr-1957||Basal fertilizers applied
+Woburn Ley Arable|1957| ley 1st year|15-Apr-1957||seed som at 40 lb per acre
+Woburn Ley Arable|1957| ley 1st year|26-July-1957||Nitro-chalk' applied: 2nd dressing -
+Woburn Ley Arable|1957| ley 1st year|30-Aug-1957||3rd dressing -
+Woburn Ley Arable|1957| ley 1st year|23-June-1957|24-Oct-1956|grazed 5 circuits
+Woburn Ley Arable|1957| seeds hay|20-Apr-1957||Red course. seeds undersown at 50 lb per acre in rye
+Woburn Ley Arable|1957| seeds hay|14-Mar-1957||Sulphate of ammonia, potash applied
+Woburn Ley Arable|1957| seeds hay|11-June-1957||1st cut
+Woburn Ley Arable|1957| seeds hay|135-June-1957||Nitro-chalk' applied;
+Woburn Ley Arable|1957| seeds hay|2-Sept-1956||2nd cut
+Woburn Ley Arable|1957| seeds hay|None||seeds mixture: 19 1b S24 Perennial grass, 9 1b late flowering Red Clover, 2 lo Alsike American
+Woburn Ley Arable|1957| ley 2nd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| ley 2nd year|11-Mar-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 2nd year|1-June-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 2nd year|3-Sept-1956||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 2nd year|5-Apr-1957|16-Oct-1956|grazed 8 circuits
+Woburn Ley Arable|1957| ley 3rd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| ley 3rd year|11-Mar-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 3rd year|7-June-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 3rd year|30-Aug-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 3rd year|17-Apr-1957|8-Oct-1956|grazed 8 circuits
+Woburn Ley Arable|1957| lucerne 1st year|1-Oct-1956||ploughed
+Woburn Ley Arable|1957| lucerne 1st year|8-Apr-1957||Basal fertilizers applied
+Woburn Ley Arable|1957| lucerne 1st year|15-Apr-1957||seed sown at 25 lb per acre
+Woburn Ley Arable|1957| lucerne 1st year|13-June-1957||sprayed with dieldrin at 2} pints in 20 gallons per acre
+Woburn Ley Arable|1957| lucerne 1st year|17-July-1957||cut twice
+Woburn Ley Arable|1957| lucerne 1st year|15-Sept-1956||cut twice
+Woburn Ley Arable|1957| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1957| lucerne 2nd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| lucerne 2nd year|11-June-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 2nd year|17-July-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 2nd year|17-Sept-1956||cut 3 times
+Woburn Ley Arable|1957| lucerne 3rd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| lucerne 3rd year|11-June-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 3rd year|17-July-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 3rd year|17-Sept-1956||cut 3 times
+Woburn Ley Arable|1957| carrots|None||rotations
+Woburn Ley Arable|1957| potatoes 1st course|2L-Aug-1957||^ ploughed twice
+Woburn Ley Arable|1957| potatoes 1st course|1-Oct-1956||^ ploughed twice
+Woburn Ley Arable|1957| potatoes 1st course|5-Apr-1957||Basal fertilizers applied
+Woburn Ley Arable|1957| potatoes 1st course|9-Apr-1957||potatoes machine planted
+Woburn Ley Arable|1957| potatoes 1st course|5-July-1957||| earthed up
+Woburn Ley Arable|1957| potatoes 1st course|3-Aug-1957||sprayed 3 times with cropped Fungicide, 5 1b in 40 gallons per acre
+Woburn Ley Arable|1957| potatoes 1st course|23-Aug-1957||sprayed 3 times with cropped Fungicide, 5 1b in 40 gallons per acre
+Woburn Ley Arable|1957| potatoes 1st course|4-Sept-1956||&nà
+Woburn Ley Arable|1957| potatoes 1st course|16-Sept-1956||sprayed with arsenious compound, 1 gallon in AO gxllons per acre
+Woburn Ley Arable|1957| potatoes 1st course|1-Oct-1956||Lifted
+Woburn Ley Arable|1957| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1957| rye 2nd course|9-Oct-1956||ploughed
+Woburn Ley Arable|1957| rye 2nd course|20-Oct-1956||seed drilled at 2$ bushels per acre
+Woburn Ley Arable|1957| rye 2nd course|13-Apr-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| rye 2nd course|13-Apr-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| potatoes|None||tions
+Woburn Ley Arable|1957| ley 1st year|24-Aug-1957||ploughed twice
+Woburn Ley Arable|1957| ley 1st year|1-Oct-1956||ploughed twice
+Woburn Ley Arable|1957| ley 1st year|8-Apr-1957||Basal fertilizers applied
+Woburn Ley Arable|1957| ley 1st year|15-Apr-1957||seed som at 40 lb per acre
+Woburn Ley Arable|1957| ley 1st year|26-July-1957||Nitro-chalk' applied: 2nd dressing -
+Woburn Ley Arable|1957| ley 1st year|30-Aug-1957||3rd dressing -
+Woburn Ley Arable|1957| ley 1st year|23-June-1957|24-Oct-1956|grazed 5 circuits
+Woburn Ley Arable|1957| seeds hay|20-Apr-1957||Red course. seeds undersown at 50 lb per acre in rye
+Woburn Ley Arable|1957| seeds hay|14-Mar-1957||Sulphate of ammonia, potash applied
+Woburn Ley Arable|1957| seeds hay|11-June-1957||1st cut
+Woburn Ley Arable|1957| seeds hay|135-June-1957||Nitro-chalk' applied;
+Woburn Ley Arable|1957| seeds hay|2-Sept-1956||2nd cut
+Woburn Ley Arable|1957| seeds hay|None||seeds mixture: 19 1b S24 Perennial grass, 9 1b late flowering Red Clover, 2 lo Alsike American. 57/Be/1.2
+Woburn Ley Arable|1957| ley 2nd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| ley 2nd year|11-Mar-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 2nd year|1-June-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 2nd year|3-Sept-1956||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 2nd year|5-Apr-1957|16-Oct-1956|grazed 8 circuits
+Woburn Ley Arable|1957| ley 3rd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| ley 3rd year|11-Mar-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 3rd year|7-June-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 3rd year|30-Aug-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| ley 3rd year|17-Apr-1957|8-Oct-1956|grazed 8 circuits
+Woburn Ley Arable|1957| lucerne 1st year|1-Oct-1956||ploughed
+Woburn Ley Arable|1957| lucerne 1st year|8-Apr-1957||Basal fertilizers applied
+Woburn Ley Arable|1957| lucerne 1st year|15-Apr-1957||seed sown at 25 lb per acre
+Woburn Ley Arable|1957| lucerne 1st year|13-June-1957||sprayed with dieldrin at 2} pints in 20 gallons per acre
+Woburn Ley Arable|1957| lucerne 1st year|17-July-1957||cut twice
+Woburn Ley Arable|1957| lucerne 1st year|15-Sept-1956||cut twice
+Woburn Ley Arable|1957| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1957| lucerne 2nd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| lucerne 2nd year|11-June-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 2nd year|17-July-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 2nd year|17-Sept-1956||cut 3 times
+Woburn Ley Arable|1957| lucerne 3rd year|11-Mar-1957||Basal potash applied
+Woburn Ley Arable|1957| lucerne 3rd year|11-June-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 3rd year|17-July-1957||cut 3 times
+Woburn Ley Arable|1957| lucerne 3rd year|17-Sept-1956||cut 3 times
+Woburn Ley Arable|1957| carrots|29-Sept-1956||(after carrots failed) 3rd course. ploughed twice
+Woburn Ley Arable|1957| carrots|17-Nov-1956||(after carrots failed) 3rd course. ploughed twice
+Woburn Ley Arable|1957| carrots|11-Apr-1957||Sulphate of ammonia, potash applied
+Woburn Ley Arable|1957| carrots|11-May-1957||carrots som
+Woburn Ley Arable|1957| carrots|5-July-1957||turnips drilled at 5 lb per acre
+Woburn Ley Arable|1957| carrots|29-July-1957|7-Aug-1957|singled
+Woburn Ley Arable|1957| carrots|26-Sept-1956|50-Sept-1956|Harvested
+Woburn Ley Arable|1957| carrots|15-Dec-1956||variety: Imperial Green Globe. test acre: zu S 1st test crop. Dung applied
+Woburn Ley Arable|1957| carrots|14-Dec-1956||^ ploughed
+Woburn Ley Arable|1957| carrots|8-Apr-1957||Basal, treatment fertilizers applied
+Woburn Ley Arable|1957| carrots|12-Apr-1957||seed drilled at 12 lb per acre
+Woburn Ley Arable|1957| carrots|22-May-1957||sprayed with miscible DDT at 3 pints in 20 gallons per acre
+Woburn Ley Arable|1957| carrots|13-June-1957|17-June-1957|singled
+Woburn Ley Arable|1957| carrots|8-July-1957||sprayed -rith methyl demeton at 12 oz in 60 gallons per acre
+Woburn Ley Arable|1957| carrots|14-Nov-1956|18-Nov-1956|Lifted
+Woburn Ley Arable|1957| carrots|None||variety: Klein &
+Woburn Ley Arable|1957| potatoes 1st course|2L-Aug-1957||^ ploughed twice
+Woburn Ley Arable|1957| potatoes 1st course|1-Oct-1956||^ ploughed twice
+Woburn Ley Arable|1957| potatoes 1st course|5-Apr-1957||Basal fertilizers applied
+Woburn Ley Arable|1957| potatoes 1st course|9-Apr-1957||potatoes machine planted
+Woburn Ley Arable|1957| potatoes 1st course|5-July-1957||| earthed up
+Woburn Ley Arable|1957| potatoes 1st course|3-Aug-1957||sprayed 3 times with cropped Fungicide, 5 1b in 40 gallons per acre
+Woburn Ley Arable|1957| potatoes 1st course|23-Aug-1957||sprayed 3 times with cropped Fungicide, 5 1b in 40 gallons per acre
+Woburn Ley Arable|1957| potatoes 1st course|4-Sept-1956||&nà
+Woburn Ley Arable|1957| potatoes 1st course|16-Sept-1956||sprayed with arsenious compound, 1 gallon in AO gxllons per acre
+Woburn Ley Arable|1957| potatoes 1st course|1-Oct-1956||Lifted
+Woburn Ley Arable|1957| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1957| rye 2nd course|9-Oct-1956||ploughed
+Woburn Ley Arable|1957| rye 2nd course|20-Oct-1956||seed drilled at 2$ bushels per acre
+Woburn Ley Arable|1957| rye 2nd course|13-Apr-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| rye 2nd course|13-Apr-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| barley 2nd test crop|5-Dec-1956||ploughed
+Woburn Ley Arable|1957| barley 2nd test crop|19-Dec-1956||Potash applied to equalize treatment dressing to 1956 sugar beet test crop
+Woburn Ley Arable|1957| barley 2nd test crop|27-Feb-1957||Ground chalk applied at 20 cwt per acre
+Woburn Ley Arable|1957| barley 2nd test crop|5-Mar-1957||Nitro-chalk' applied
+Woburn Ley Arable|1957| barley 2nd test crop|16-Mar-1957||seed drilled at 2j bushels per acre
+Woburn Ley Arable|1957| barley 2nd test crop|2-Aug-1957||Harvested
+Woburn Ley Arable|1957| barley 2nd test crop|None||variety: Herta. Standard errors per plot. test crops
+Woburn Ley Arable|1957| sugar beet|None||Total sugar. Whole plot: 4.88 cwt per acre t Mp 4 af. + plot: 5.53 cwt per acre or ley (4 a. f. $ plot: 2.99 cut per acre or 6.1 (2, a. f.) Tops. Whole plot: 1.965 tons per d or i A a.f. $ plot: 1.042 tons per acre or 7.84 (4 à. f.) X plot: 0.940 tons per acre or 7.1% (24 à.f.)
+Woburn Ley Arable|1957| barley|None||grazing. Whole plot: 1.40 cwt per acre x rS 4 a, f, $ plot: 2.u2 cut per acre or 7.4% (4 à.f.)
+Woburn Ley Arable|1958| barley 2nd test crop|None||
+Woburn Ley Arable|1958| ley 1st year|30-Aug-1958||ploughed twice
+Woburn Ley Arable|1958| ley 1st year|30-Nov-1957||ploughed twice
+Woburn Ley Arable|1958| ley 1st year|5-Mar-1958||Ground chalk applied at 19 cwt per acre
+Woburn Ley Arable|1958| ley 1st year|18-Apr-1958||Basal fertilizers, Nitro-chalk' applied;
+Woburn Ley Arable|1958| ley 1st year|19-Apr-1958||seed som at LO lb per acre
+Woburn Ley Arable|1958| ley 1st year|30-June-1958||Nitro-chalk' applied: 2nd dressing -
+Woburn Ley Arable|1958| ley 1st year|13-Aug-1958||3rd dressing -
+Woburn Ley Arable|1958| ley 1st year|25-June-1958|5-Nov-1957|grazed 7 circuits
+Woburn Ley Arable|1958| ley 1st year|None||seeds mixture: 20 lb S24, Perennial grass, 11 1b S143 Cocksfoot, 6 1b late flowering Red Clover, 3 1b $100 White Clover
+Woburn Ley Arable|1958| ley 2nd year|2-Mar-1958||Potesh, nitrogen fertilizers applied
+Woburn Ley Arable|1958| hay|8-Aug-1958||29
+Woburn Ley Arable|1958| hay|28-Apr-1958|2-Oct-1957|grazed 9 circuits
+Woburn Ley Arable|1958| ley 3rd year|5-Apr-1958||Ground chalk applied not 12 cut per acre
+Woburn Ley Arable|1958| turnips (after carrots failed) 3rd course|30-May-1958||24
+Woburn Ley Arable|1958| turnips (after carrots failed) 3rd course|8-Aug-1958||24
+Woburn Ley Arable|1958| turnips (after carrots failed) 3rd course|6-May-1958|5-Nov-1957|grazed 8 circuits
+Woburn Ley Arable|1958| lucerne 1st year|30-Aug-1958||ploughed twice
+Woburn Ley Arable|1958| lucerne 1st year|30-Nov-1957||ploughed twice
+Woburn Ley Arable|1958| lucerne 1st year|5-Mar-1958||Ground chalk applied at 19 cwt per encro
+Woburn Ley Arable|1958| lucerne 1st year|18-Apr-1958||Basal fertilizers applied
+Woburn Ley Arable|1958| lucerne 1st year|19-Apr-1958||seed sown at 25 lb per acre
+Woburn Ley Arable|1958| lucerne 1st year|14-June-1958||sprayed with dieldrin 1st 2 pints in 40 gallons per ome
+Woburn Ley Arable|1958| lucerne 1st year|Aug ||cut twice
+Woburn Ley Arable|1958| lucerne 1st year|14-Oct-1957||cut twice
+Woburn Ley Arable|1958| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1958| barley 2nd test crop|6-Dec-1957||ploughed
+Woburn Ley Arable|1958| barley 2nd test crop|3-Feb-1958||Potesh applied to equelize treatment dressing to 1957 sugar beet test crop
+Woburn Ley Arable|1958| barley 2nd test crop|5-Mar-1958||Ground chalk applied at 21 cwt per acre;
+Woburn Ley Arable|1958| barley 2nd test crop|20-Apr-1958||Nitro-chalk' applied
+Woburn Ley Arable|1958| barley 2nd test crop|20-Apr-1958||seed drilled at 2} bushels per acre
+Woburn Ley Arable|1958| barley 2nd test crop|27-Aug-1958||Harvested
+Woburn Ley Arable|1958| barley 2nd test crop|None||variety: Herta. Note: — Plots 27, 26 were fsllowed, received not potash
+Woburn Ley Arable|1958| ley 1st year|30-Aug-1958||ploughed twice
+Woburn Ley Arable|1958| ley 1st year|30-Nov-1957||ploughed twice
+Woburn Ley Arable|1958| ley 1st year|5-Mar-1958||Ground chalk applied at 19 cwt per acre
+Woburn Ley Arable|1958| ley 1st year|18-Apr-1958||Basal fertilizers, Nitro-chalk' applied;
+Woburn Ley Arable|1958| ley 1st year|19-Apr-1958||seed som at LO lb per acre
+Woburn Ley Arable|1958| ley 1st year|30-June-1958||Nitro-chalk' applied: 2nd dressing -
+Woburn Ley Arable|1958| ley 1st year|13-Aug-1958||3rd dressing -
+Woburn Ley Arable|1958| ley 1st year|25-June-1958|5-Nov-1957|grazed 7 circuits
+Woburn Ley Arable|1958| ley 1st year|None||seeds mixture: 20 lb S24, Perennial grass, 11 1b S143 Cocksfoot, 6 1b late flowering Red Clover, 3 1b $100 White Clover
+Woburn Ley Arable|1958| ley 2nd year|2-Mar-1958||Potesh, nitrogen fertilizers applied
+Woburn Ley Arable|1958| hay|8-Aug-1958||29
+Woburn Ley Arable|1958| hay|28-Apr-1958|2-Oct-1957|grazed 9 circuits
+Woburn Ley Arable|1958| ley 3rd year|5-Apr-1958||Ground chalk applied not 12 cut per acre
+Woburn Ley Arable|1958| turnips (after carrots failed) 3rd course|30-May-1958||24
+Woburn Ley Arable|1958| turnips (after carrots failed) 3rd course|8-Aug-1958||24
+Woburn Ley Arable|1958| turnips (after carrots failed) 3rd course|6-May-1958|5-Nov-1957|grazed 8 circuits
+Woburn Ley Arable|1958| lucerne 1st year|30-Aug-1958||ploughed twice
+Woburn Ley Arable|1958| lucerne 1st year|30-Nov-1957||ploughed twice
+Woburn Ley Arable|1958| lucerne 1st year|5-Mar-1958||Ground chalk applied at 19 cwt per encro
+Woburn Ley Arable|1958| lucerne 1st year|18-Apr-1958||Basal fertilizers applied
+Woburn Ley Arable|1958| lucerne 1st year|19-Apr-1958||seed sown at 25 lb per acre
+Woburn Ley Arable|1958| lucerne 1st year|14-June-1958||sprayed with dieldrin 1st 2 pints in 40 gallons per ome
+Woburn Ley Arable|1958| lucerne 1st year|Aug ||cut twice
+Woburn Ley Arable|1958| lucerne 1st year|14-Oct-1957||cut twice
+Woburn Ley Arable|1958| lucerne 1st year|None||variety: Du Puits. 58/8c/1.2
+Woburn Ley Arable|1958| lucerne 2nd year|16-June-1958||Basel potash applied: power 14. cut 3 times
+Woburn Ley Arable|1958| lucerne 2nd year|8-Aug-1958||Basel potash applied: power 14. cut 3 times
+Woburn Ley Arable|1958| lucerne 2nd year|1L-Oct-1957||Basel potash applied: power 14. cut 3 times
+Woburn Ley Arable|1958| lucerne 3rd year|14-Mar-1958||Basel potash applied
+Woburn Ley Arable|1958| lucerne 3rd year|16-June-1958||cut 3 times
+Woburn Ley Arable|1958| lucerne 3rd year|8-Aug-1958||cut 3 times
+Woburn Ley Arable|1958| lucerne 3rd year|1L-Oct-1957||cut 3 times
+Woburn Ley Arable|1958| carrots|26-Aug-1958||3rd course, ploughed twice
+Woburn Ley Arable|1958| carrots|29-Nov-1957||3rd course, ploughed twice
+Woburn Ley Arable|1958| carrots|5-Mar-1958||‘ Ground chalk etc 12 cwt per acre applied
+Woburn Ley Arable|1958| carrots|18-Apr-1958||Potash and nitrogen fertilizers applied
+Woburn Ley Arable|1958| carrots|19-Apr-1958||carrots sown
+Woburn Ley Arable|1958| carrots|14-June-1958||sprayed with dieldrin at 2 pints in 40 gallons per acre
+Woburn Ley Arable|1958| carrots|11-Aug-1958||at 4 pints in 40 gallons per acre;
+Woburn Ley Arable|1958| carrots|9-June-1958|18-June-1958|singled
+Woburn Ley Arable|1958| carrots|27-Oct-1957||Lifted
+Woburn Ley Arable|1958| carrots|None||variety: Scarlet Intermediate. test crops
+Woburn Ley Arable|1958| potatoes 1st course|30-Aug-1958||ploughed tuice
+Woburn Ley Arable|1958| potatoes 1st course|30-Nov-1957||enà
+Woburn Ley Arable|1958| potatoes 1st course|16-Apr-1958||Besal fertilizers applied
+Woburn Ley Arable|1958| potatoes 1st course|17-Apr-1958||potatoes machine planted
+Woburn Ley Arable|1958| potatoes 1st course|19-June-1958||earthed up
+Woburn Ley Arable|1958| potatoes 1st course|14-July-1958||sprayed 3 times with cropped Fungicide: 5 1b in 50 gellons per acre
+Woburn Ley Arable|1958| potatoes 1st course|29-July-1958||5 1b in 40 gellons per acre
+Woburn Ley Arable|1958| potatoes 1st course|16-Aug-1958||5 1b in 40 gellons per acre
+Woburn Ley Arable|1958| potatoes 1st course|12-Sept-1957||sprayed with arsenious compound, 1 gallon in 40 gallons per acre
+Woburn Ley Arable|1958| potatoes 1st course|7-Oct-1957||Lifted
+Woburn Ley Arable|1958| potatoes 1st course|None||— variety: Majestic
+Woburn Ley Arable|1958| rye 2nd course|5-Oct-1957||ploughed
+Woburn Ley Arable|1958| rye 2nd course|26-Oct-1957||seed drilled at 2% bushels per acre
+Woburn Ley Arable|1958| rye 2nd course|221958-Apr-1958||Nitro-chalk' applied
+Woburn Ley Arable|1958| seeds hay|26-Aug-1958||3rd course, seeds undersown at 30 lb per acre in rye: isy 11, 1957. ploughed
+Woburn Ley Arable|1958| seeds hay|28-Aug-1958||Resown
+Woburn Ley Arable|1958| seeds hay|5-Apr-1958||Ground chalk applied at 12 cwt per acre;
+Woburn Ley Arable|1958| seeds hay|24-Mar-1958||Potash and nitrogen fertilizers applied
+Woburn Ley Arable|1958| seeds hay|16-June-1958||‘ist cut
+Woburn Ley Arable|1958| seeds hay|17-June-1958||Nitro-chalk' applied
+Woburn Ley Arable|1958| seeds hay|14-Oct-1957||2nd cut
+Woburn Ley Arable|1958| seeds hay|None||seeds mixture: 19 1b S24 Perennial grass, 9 lb late flowering
+Woburn Ley Arable|1958| sugar beet|291957-Nov-1957||1st test crop. Dung applied, ploughed
+Woburn Ley Arable|1958| sugar beet|17-Apr-1958||Basal, treatment fertilizers applied
+Woburn Ley Arable|1958| sugar beet|18-Apr-1958||seed drilled etc 12 15 per acre
+Woburn Ley Arable|1958| sugar beet|3-May-1958||sprayed with miscible DDT at 3 pints in 40 gallons per acre
+Woburn Ley Arable|1958| sugar beet|5-June-1958||singled
+Woburn Ley Arable|1958| sugar beet|26-June-1958||sprayed with demeton methyl at 11 oz in 32 gellons per acre
+Woburn Ley Arable|1958| sugar beet|27-Oct-1957||Lifted
+Woburn Ley Arable|1958| sugar beet|None||variety: Klein Feb
+Woburn Ley Arable|1959| potatoes|None||tions
+Woburn Ley Arable|1959| ley 1st year|17-Sept-1958||ploughed twice
+Woburn Ley Arable|1959| ley 1st year|21-Nov-1958||ploughed twice
+Woburn Ley Arable|1959| ley 1st year|31-Mar-1959||FK fertilizers, 'Nitra-Shell' applied
+Woburn Ley Arable|1959| ley 1st year|7-Apr-1959||seed sown at 40 lb per acre
+Woburn Ley Arable|1959| ley 1st year|4-June-1959||sprayed with DNBP at 9 pints in 8 gallons per acre
+Woburn Ley Arable|1959| ley 1st year|51-Aug-1959||‘'Nitra-Shell' applied: 2nd dressing -
+Woburn Ley Arable|1959| ley 1st year|7-Oct-1958||3rd dressing -
+Woburn Ley Arable|1959| ley 1st year|30-June-1959|30-Oct-1958|grazed 3 circuits
+Woburn Ley Arable|1959| ley 1st year|None||| seeds mixture: 20 lb S2) Perennial grass, 11 lb 8143 Cocksfoot, 6 lb late flowering
+Woburn Ley Arable|1959| barley 2nd test crop|None||0 White Clover per acre
+Woburn Ley Arable|1959| ley 2nd year|17-Mar-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 2nd year|10-June-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 2nd year|31-Aug-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 2nd year|22-Apr-1959|29-Aug-1959|grazed 5 circuits
+Woburn Ley Arable|1959| ley 3rd year|17-Mar-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 3rd year|10-June-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 3rd year|51-Aug-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 3rd year|14-Apr-1959|21-Aug-1959|grazed 5 circuits
+Woburn Ley Arable|1959| lucerne 1st year|17-Sept-1958||ploughed twice
+Woburn Ley Arable|1959| lucerne 1st year|21-Nov-1958||ploughed twice
+Woburn Ley Arable|1959| lucerne 1st year|31-Mar-1959||PK fertilizers applied
+Woburn Ley Arable|1959| lucerne 1st year|7-Apr-1959||seed sown at 25 lb per acre
+Woburn Ley Arable|1959| lucerne 1st year|4-June-1959||sprayed with dieldrin at 2 pints in 40 gallons per acre again birds
+Woburn Ley Arable|1959| lucerne 1st year|10-July-1959||cut twice
+Woburn Ley Arable|1959| lucerne 1st year|2-Sept-1958||cut twice
+Woburn Ley Arable|1959| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1959| lucerne 2nd year|15-Apr-1959||Muriate of potash applied
+Woburn Ley Arable|1959| lucerne 2nd year|12-June-1959||cut 3 times
+Woburn Ley Arable|1959| lucerne 2nd year|10-July-1959||cut 3 times
+Woburn Ley Arable|1959| lucerne 2nd year|2-Sept-1958||cut 3 times
+Woburn Ley Arable|1959| lucerne 3rd year|30-Apr-1959||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| lucerne 3rd year|13-June-1959||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| lucerne 3rd year|2-Sept-1958||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| lucerne 3rd year|2-Sept-1958||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| carrots|None||rotations
+Woburn Ley Arable|1959| potatoes 1st course|17-Sept-1958||ploughed twice
+Woburn Ley Arable|1959| potatoes 1st course|21-Nov-1958||ploughed twice
+Woburn Ley Arable|1959| potatoes 1st course|31-Mar-1959||Compound fertilizers applied
+Woburn Ley Arable|1959| potatoes 1st course|1-Apr-1959||potatoes machine planted
+Woburn Ley Arable|1959| potatoes 1st course|22-June-1959||earthed up
+Woburn Ley Arable|1959| potatoes 1st course|15-Aug-1959||sprayed with zineb at 2 lb, demeton methyl oxicet aphids) at 12 fluid oz (50% active ingredients) in 40 gellons per acre
+Woburn Ley Arable|1959| potatoes 1st course|22-Sept-1958||Haulm destroyed mechanically
+Woburn Ley Arable|1959| potatoes 1st course|30-Sept-1958||Lifted
+Woburn Ley Arable|1959| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1959| rye 2nd course|16-Oct-1958||ploughed
+Woburn Ley Arable|1959| rye 2nd course|21-Oct-1958||seed drilled at 2} bushels per acre
+Woburn Ley Arable|1959| rye 2nd course|13-Apr-1959||'Nitra-Shell' applied
+Woburn Ley Arable|1959| rye 2nd course|7-Apr-1959||seeds hay mixture undersown on 4 plots
+Woburn Ley Arable|1959| rye 2nd course|18-Aug-1959||combine harvested
+Woburn Ley Arable|1959| rye 2nd course|30-Apr-1959||variety: King II. sprayed with dieldrin at 2 pints in 40 gallons per acre again weevil;
+Woburn Ley Arable|1959| potatoes|None||tions
+Woburn Ley Arable|1959| ley 1st year|17-Sept-1958||ploughed twice
+Woburn Ley Arable|1959| ley 1st year|21-Nov-1958||ploughed twice
+Woburn Ley Arable|1959| ley 1st year|31-Mar-1959||FK fertilizers, 'Nitra-Shell' applied
+Woburn Ley Arable|1959| ley 1st year|7-Apr-1959||seed sown at 40 lb per acre
+Woburn Ley Arable|1959| ley 1st year|4-June-1959||sprayed with DNBP at 9 pints in 8 gallons per acre
+Woburn Ley Arable|1959| ley 1st year|51-Aug-1959||‘'Nitra-Shell' applied: 2nd dressing -
+Woburn Ley Arable|1959| ley 1st year|7-Oct-1958||3rd dressing -
+Woburn Ley Arable|1959| ley 1st year|30-June-1959|30-Oct-1958|grazed 3 circuits
+Woburn Ley Arable|1959| ley 1st year|None||| seeds mixture: 20 lb S2) Perennial grass, 11 lb 8143 Cocksfoot, 6 lb late flowering
+Woburn Ley Arable|1959| barley 2nd test crop|2L-Dec-1958||Ground chalk applied at 18 cwt per acre
+Woburn Ley Arable|1959| barley 2nd test crop|5-Jan-1959|25-Jan-1959|ploughed
+Woburn Ley Arable|1959| barley 2nd test crop|1-Mar-1959||Muriate of potash applied to sub plots to equalize treatment dressing to 1958 suger beet test crop; 'Nitra-Shell' applied
+Woburn Ley Arable|1959| barley 2nd test crop|13-Mar-1959||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1959| barley 2nd test crop|5-Aug-1959||combine harvested
+Woburn Ley Arable|1959| barley 2nd test crop|None||variety: Herta. Standard errors per plot. test crops
+Woburn Ley Arable|1959| ley 2nd year|17-Mar-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 2nd year|10-June-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 2nd year|31-Aug-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 2nd year|22-Apr-1959|29-Aug-1959|grazed 5 circuits
+Woburn Ley Arable|1959| ley 3rd year|17-Mar-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 3rd year|10-June-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 3rd year|51-Aug-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| ley 3rd year|14-Apr-1959|21-Aug-1959|grazed 5 circuits
+Woburn Ley Arable|1959| lucerne 1st year|17-Sept-1958||ploughed twice
+Woburn Ley Arable|1959| lucerne 1st year|21-Nov-1958||ploughed twice
+Woburn Ley Arable|1959| lucerne 1st year|31-Mar-1959||PK fertilizers applied
+Woburn Ley Arable|1959| lucerne 1st year|7-Apr-1959||seed sown at 25 lb per acre
+Woburn Ley Arable|1959| lucerne 1st year|4-June-1959||sprayed with dieldrin at 2 pints in 40 gallons per acre again birds
+Woburn Ley Arable|1959| lucerne 1st year|10-July-1959||cut twice
+Woburn Ley Arable|1959| lucerne 1st year|2-Sept-1958||cut twice
+Woburn Ley Arable|1959| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1959| lucerne 2nd year|15-Apr-1959||Muriate of potash applied
+Woburn Ley Arable|1959| lucerne 2nd year|12-June-1959||cut 3 times
+Woburn Ley Arable|1959| lucerne 2nd year|10-July-1959||cut 3 times
+Woburn Ley Arable|1959| lucerne 2nd year|2-Sept-1958||cut 3 times
+Woburn Ley Arable|1959| lucerne 3rd year|30-Apr-1959||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| lucerne 3rd year|13-June-1959||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| lucerne 3rd year|2-Sept-1958||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| lucerne 3rd year|2-Sept-1958||Plots 3, 4, 9, 10 were fallow because of stem eelworm, received not potash. ploughed
+Woburn Ley Arable|1959| carrots|15-Sept-1958||3rd course. ploughed twice
+Woburn Ley Arable|1959| carrots|21-Nov-1958||3rd course. ploughed twice
+Woburn Ley Arable|1959| carrots|7-Apr-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| carrots|14-Apr-1959||seed drilled at 5 lb per acre
+Woburn Ley Arable|1959| carrots|June ||sprayed with dieldrin again carrots FYM at 2 pints in LO gallons per acre
+Woburn Ley Arable|1959| carrots|26-June-1959||and
+Woburn Ley Arable|1959| carrots|28-Oct-1958||Lifted (2 rows per plot)
+Woburn Ley Arable|1959| carrots|None||variety: Scarlet Intermediate. test crops
+Woburn Ley Arable|1959| potatoes 1st course|17-Sept-1958||ploughed twice
+Woburn Ley Arable|1959| potatoes 1st course|21-Nov-1958||ploughed twice
+Woburn Ley Arable|1959| potatoes 1st course|31-Mar-1959||Compound fertilizers applied
+Woburn Ley Arable|1959| potatoes 1st course|1-Apr-1959||potatoes machine planted
+Woburn Ley Arable|1959| potatoes 1st course|22-June-1959||earthed up
+Woburn Ley Arable|1959| potatoes 1st course|15-Aug-1959||sprayed with zineb at 2 lb, demeton methyl oxicet aphids) at 12 fluid oz (50% active ingredients) in 40 gellons per acre
+Woburn Ley Arable|1959| potatoes 1st course|22-Sept-1958||Haulm destroyed mechanically
+Woburn Ley Arable|1959| potatoes 1st course|30-Sept-1958||Lifted
+Woburn Ley Arable|1959| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1959| rye 2nd course|16-Oct-1958||ploughed
+Woburn Ley Arable|1959| rye 2nd course|21-Oct-1958||seed drilled at 2} bushels per acre
+Woburn Ley Arable|1959| rye 2nd course|13-Apr-1959||'Nitra-Shell' applied
+Woburn Ley Arable|1959| rye 2nd course|7-Apr-1959||seeds hay mixture undersown on 4 plots
+Woburn Ley Arable|1959| rye 2nd course|18-Aug-1959||combine harvested
+Woburn Ley Arable|1959| rye 2nd course|30-Apr-1959||variety: King II. sprayed with dieldrin at 2 pints in 40 gallons per acre again weevil;
+Woburn Ley Arable|1959| rye 2nd course|None||59/8e/A.2
+Woburn Ley Arable|1959| seeds hay|19-Apr-1959||3rd course. seeds undersown at 30 ib per acre in rye
+Woburn Ley Arable|1959| seeds hay|17-Mar-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1959| seeds hay|29-May-1959||cut once
+Woburn Ley Arable|1959| seeds hay|2-June-1959||"'Nitre-Shell! applied
+Woburn Ley Arable|1959| seeds hay|None||seeds mixture: 19 lb S2, Perenniel grass, 9 1b late flowering Red Clover, 2 lb Alsike American per acre
+Woburn Ley Arable|1959| sugar beet|None||Total sugar. Whole plot: 10.10 cwt per acre ia ley 4 df. $ plot: 6.70 cwt per acre or D (4 af. $ plot: 3.68 not per acre or 7.7X (2, a.f.) Tops Whole plot: 1.644 tons per, or DR 4 dfs $ plot: 4.453 tons per acre or 176% (4 dof.) $ plot: 0.834 tons per acre or 10.3% (2, a.f.) Berley. grazing late 85% Whole plot: 0.78 cwt per acre or 2.2% diary matter) (4 dete) $ plot: 2.05 not per acre or 5.9% (4 east)
+Woburn Ley Arable|1960| ley 1st year|1-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| ley 1st year|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| ley 1st year|13-Apr-1960||FK fertilizers, Nitro-chalk' applied
+Woburn Ley Arable|1960| ley 1st year|15-Apr-1960||seed sown at 40 lb per acre
+Woburn Ley Arable|1960| ley 1st year|29-June-1960||Nitro-chalk' applied: 2nd dressing -
+Woburn Ley Arable|1960| ley 1st year|28-Aug-1960||3rd dressing -
+Woburn Ley Arable|1960| ley 1st year|21-June-1960|29-Oct-1959|grazed 7 circuits
+Woburn Ley Arable|1960| ley 1st year|None||seeds mixture: 20 1b S24 Peremniol grass, 11 1b S143 Cocksfoot, 6 lb late flowering
+Woburn Ley Arable|1960| barley 2nd test crop|None||0 White Clover per acre
+Woburn Ley Arable|1960| ley 2nd year|18-Mar-1960||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 2nd year|17-June-1960||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 2nd year|5-Sept-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 2nd year|22-Apr-1960|21-Oct-1959|grazed 9 circuits
+Woburn Ley Arable|1960| ley 3rd year|18-Mar-1960||Potzsh, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 3rd year|27-June-1960||Potzsh, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 3rd year|13-Sept-1959||Potzsh, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 3rd year|2-May-1960|12-Oct-1959|— grazed 6 circuits
+Woburn Ley Arable|1960| lucerne 1st year|1-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| lucerne 1st year|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| lucerne 1st year|13-Apr-1960||PK fertilizers applied
+Woburn Ley Arable|1960| lucerne 1st year|15-Apr-1960||seed sown at 25 1b per acre
+Woburn Ley Arable|1960| lucerne 1st year|6-May-1960||sprayed with miscible DDT cut 3 pints in 40 gellons per acre (ageinst weevil)
+Woburn Ley Arable|1960| lucerne 1st year|28-July-1960||cut twice
+Woburn Ley Arable|1960| lucerne 1st year|26-Sept-1959||cut twice
+Woburn Ley Arable|1960| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1960| lucerne 2nd year|24-Mar-1960||Muriate of potash applied
+Woburn Ley Arable|1960| lucerne 2nd year|7-June-1960||cut 3 times
+Woburn Ley Arable|1960| lucerne 2nd year|28-July-1960||cut 3 times
+Woburn Ley Arable|1960| lucerne 2nd year|26-Sept-1959||cut 3 times
+Woburn Ley Arable|1960| lucerne 3rd year|24-Mar-1960||Muriate of potash applied
+Woburn Ley Arable|1960| lucerne 3rd year|9-July-1960||not yields teken, Trexted for control of stem eelworm- sprayed with diquat cut 1$ lb in 80 gollohs per rcro
+Woburn Ley Arable|1960| lucerne 3rd year|19-July-1960||ploughed
+Woburn Ley Arable|1960| lucerne 3rd year|27-Oct-1959||Flots 37, 36 split for fumigation with undiluted metham sodium (*Vapam") at 1 pt to 50 sq. ft
+Woburn Ley Arable|1960| carrots|None||rotations
+Woburn Ley Arable|1960| potatoes 1st course|1-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| potatoes 1st course|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| potatoes 1st course|12-Apr-1960||Compound fertilizers applied; potatoes machine planted
+Woburn Ley Arable|1960| potatoes 1st course|14-June-1960||earthed up
+Woburn Ley Arable|1960| potatoes 1st course|15-July-1960||sprayed with cropped Fungicide at 5 1b in 40 gallons per acre
+Woburn Ley Arable|1960| potatoes 1st course|27-Aug-1960||Haulm destroyed mechanically
+Woburn Ley Arable|1960| potatoes 1st course|30-Sept-1959||Lifted
+Woburn Ley Arable|1960| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1960| rye 2nd course|2-Oct-1959||ploughed
+Woburn Ley Arable|1960| rye 2nd course|23-Oct-1959||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1960| rye 2nd course|241960-Mar-1960||Nitro-chalk' applied
+Woburn Ley Arable|1960| seeds hay|7-Apr-1960||mixture undersown on 4 plots
+Woburn Ley Arable|1960| seeds hay|20-Aug-1960||combine harvested
+Woburn Ley Arable|1960| seeds hay|None||variety: King II
+Woburn Ley Arable|1960| ley 1st year|1-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| ley 1st year|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| ley 1st year|13-Apr-1960||FK fertilizers, Nitro-chalk' applied
+Woburn Ley Arable|1960| ley 1st year|15-Apr-1960||seed sown at 40 lb per acre
+Woburn Ley Arable|1960| ley 1st year|29-June-1960||Nitro-chalk' applied: 2nd dressing -
+Woburn Ley Arable|1960| ley 1st year|28-Aug-1960||3rd dressing -
+Woburn Ley Arable|1960| ley 1st year|21-June-1960|29-Oct-1959|grazed 7 circuits
+Woburn Ley Arable|1960| ley 1st year|None||seeds mixture: 20 1b S24 Peremniol grass, 11 1b S143 Cocksfoot, 6 lb late flowering
+Woburn Ley Arable|1960| barley 2nd test crop|10-Mar-1960||
+Woburn Ley Arable|1960| barley 2nd test crop|18-Mar-1960||seed drilled at 24 bushels per acre
+Woburn Ley Arable|1960| barley 2nd test crop|15-Aug-1960||Oonbine harvested
+Woburn Ley Arable|1960| barley 2nd test crop|None||variety: Herta. Stendard errors per plot. test crops
+Woburn Ley Arable|1960| ley 2nd year|18-Mar-1960||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 2nd year|17-June-1960||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 2nd year|5-Sept-1959||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 2nd year|22-Apr-1960|21-Oct-1959|grazed 9 circuits
+Woburn Ley Arable|1960| ley 3rd year|18-Mar-1960||Potzsh, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 3rd year|27-June-1960||Potzsh, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 3rd year|13-Sept-1959||Potzsh, nitrogen fertilizers applied
+Woburn Ley Arable|1960| ley 3rd year|2-May-1960|12-Oct-1959|— grazed 6 circuits
+Woburn Ley Arable|1960| lucerne 1st year|1-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| lucerne 1st year|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| lucerne 1st year|13-Apr-1960||PK fertilizers applied
+Woburn Ley Arable|1960| lucerne 1st year|15-Apr-1960||seed sown at 25 1b per acre
+Woburn Ley Arable|1960| lucerne 1st year|6-May-1960||sprayed with miscible DDT cut 3 pints in 40 gellons per acre (ageinst weevil)
+Woburn Ley Arable|1960| lucerne 1st year|28-July-1960||cut twice
+Woburn Ley Arable|1960| lucerne 1st year|26-Sept-1959||cut twice
+Woburn Ley Arable|1960| lucerne 1st year|None||variety: Du Puits
+Woburn Ley Arable|1960| lucerne 2nd year|24-Mar-1960||Muriate of potash applied
+Woburn Ley Arable|1960| lucerne 2nd year|7-June-1960||cut 3 times
+Woburn Ley Arable|1960| lucerne 2nd year|28-July-1960||cut 3 times
+Woburn Ley Arable|1960| lucerne 2nd year|26-Sept-1959||cut 3 times
+Woburn Ley Arable|1960| lucerne 3rd year|24-Mar-1960||Muriate of potash applied
+Woburn Ley Arable|1960| lucerne 3rd year|9-July-1960||not yields teken, Trexted for control of stem eelworm- sprayed with diquat cut 1$ lb in 80 gollohs per rcro
+Woburn Ley Arable|1960| lucerne 3rd year|19-July-1960||ploughed
+Woburn Ley Arable|1960| lucerne 3rd year|27-Oct-1959||Flots 37, 36 split for fumigation with undiluted metham sodium (*Vapam") at 1 pt to 50 sq. ft
+Woburn Ley Arable|1960| carrots|1-Sept-1959||3rd course. Ground chalk applied at 20 cwt per acre
+Woburn Ley Arable|1960| carrots|3-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| carrots|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| carrots|29-Apr-1960||Fotash and nitrogen fertilizers applied
+Woburn Ley Arable|1960| carrots|J0-Apr-1960||seed drilled at 5 lb per acre
+Woburn Ley Arable|1960| carrots|1-June-1960||sprayed with dexston methyl at 12 fluid oz in 40 gellons per acre
+Woburn Ley Arable|1960| carrots|18-June-1960||Crop failed, re-drilled
+Woburn Ley Arable|1960| carrots|18-Aug-1960||Thinned
+Woburn Ley Arable|1960| carrots|18-July-1960||sprayed with demeton methyl etc 12 fluid oz in 40 gollons per acre
+Woburn Ley Arable|1960| carrots|17-Oct-1959||Lifted
+Woburn Ley Arable|1960| carrots|None||variety: Scarlet Intermediate. test crops
+Woburn Ley Arable|1960| potatoes 1st course|1-Sept-1959||ploughed twice
+Woburn Ley Arable|1960| potatoes 1st course|30-Nov-1959||ploughed twice
+Woburn Ley Arable|1960| potatoes 1st course|12-Apr-1960||Compound fertilizers applied; potatoes machine planted
+Woburn Ley Arable|1960| potatoes 1st course|14-June-1960||earthed up
+Woburn Ley Arable|1960| potatoes 1st course|15-July-1960||sprayed with cropped Fungicide at 5 1b in 40 gallons per acre
+Woburn Ley Arable|1960| potatoes 1st course|27-Aug-1960||Haulm destroyed mechanically
+Woburn Ley Arable|1960| potatoes 1st course|30-Sept-1959||Lifted
+Woburn Ley Arable|1960| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1960| rye 2nd course|2-Oct-1959||ploughed
+Woburn Ley Arable|1960| rye 2nd course|23-Oct-1959||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1960| rye 2nd course|241960-Mar-1960||Nitro-chalk' applied
+Woburn Ley Arable|1960| seeds hay|None||ture: 19 1b S2, Perennial grass, 9 lb late flowering Red Clover, 2 lb Alsike umericen per acre
+Woburn Ley Arable|1960| rye|7-Apr-1960||?
+Woburn Ley Arable|1960| rye|1-Sept-1959||Ground chalk applied at 20 not per acre
+Woburn Ley Arable|1960| rye|181960-Mar-1960||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1960| rye|10-June-1960||Nitrochalk' applied
+Woburn Ley Arable|1960| rye|7-June-1960||cut twice
+Woburn Ley Arable|1960| rye|30-Aug-1960||cut twice
+Woburn Ley Arable|1960| sugar beet|None||Total sugar. Whole plot: 6.05 cwt per acre a LA 4 d. f. $ plot: 44,07 cwt per acre or 7.65 (4. à.f.) $ Plot: 4.76 cwt per acre or 8.9% (2, a.f.) Tops. Whole plot: 1.875 tons per e or Lr 4 df. f plot: 0.709 tons per acre or ae (4. a.f. iplot: 1.223 tons per acre or 7.8 (24 asf.)
+Woburn Ley Arable|1960| barley|None||grazing late 85% diary matter). Whole plot: 4.95 cwt per acre a cm 4 def. f plot: 0.64 not per acre or 2.1% (4 df.)
+Woburn Ley Arable|1961| potatoes|None||tions
+Woburn Ley Arable|1961| ley 1st year|25-Aug-1961||ploughed twice
+Woburn Ley Arable|1961| ley 1st year|11-Jan-1961||ploughed twice
+Woburn Ley Arable|1961| ley 1st year|10-Apr-1961||PK fertilizers, Nitro-chalk' applied, seed sow at 40 lb per acre
+Woburn Ley Arable|1961| ley 1st year|19-June-1961||2nd dressing of Nitro-chalk' applied, sprayed with MCFB at 4 pints in 40 gallons per acre
+Woburn Ley Arable|1961| ley 1st year|11-Aug-1961||Red dressing of Nitro-chalk' applied
+Woburn Ley Arable|1961| ley 1st year|18-July-1961|17-Oct-1960|grazed 4 circuits
+Woburn Ley Arable|1961| ley 1st year|None||seeds mixture: 20 lb S32, Perennial grass, 11 1b S145 Cocksfoot, 6 lb late flowering Red Clover, 3 1b S100 White Clover per acre
+Woburn Ley Arable|1961| ley 2nd year|15-Mar-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 2nd year|19-June-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 2nd year|27-July-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 2nd year|17-Apr-1961|9-Oct-1960|grazed 7 circuits
+Woburn Ley Arable|1961| ley 3rd year|15-Mar-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 3rd year|19-June-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 3rd year|27-July-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 3rd year|21-Apr-1961|1-Oct-1960|grazed 7 circuits
+Woburn Ley Arable|1961| lucerne 1st year|25-Aug-1961||ploughed twice
+Woburn Ley Arable|1961| lucerne 1st year|11-Jan-1961||ploughed twice
+Woburn Ley Arable|1961| lucerne 1st year|15-Mar-1961||Treated for control of stem eelworm- Plots 25, 26, 29, 30 fumigated with undiluted metham sodium ("Vapam") at 2 pints to 50sq. ft
+Woburn Ley Arable|1961| lucerne 1st year|19-Apr-1961||ploughed
+Woburn Ley Arable|1961| lucerne 1st year|8-May-1961||PK fertilizers applied
+Woburn Ley Arable|1961| lucerne 1st year|9-May-1961||seed drilled at 20 lb per acre
+Woburn Ley Arable|1961| lucerne 1st year|20-May-1961||sprayed (ageinst weevil) with DDT emmlsion (256 DDT) at 2 pints in 40 gallons per acre
+Woburn Ley Arable|1961| lucerne 1st year|12-June-1961||sprayed with dieldrin east a bird deterront) at 25 pints in 40 gallons power acre?
+Woburn Ley Arable|1961| lucerne 1st year|18-Sept-1960||cut once
+Woburn Ley Arable|1961| lucerne 1st year|15-Mar-1961||variety: Du Puits. Iacorne 2nd year. Muriate of potash applied
+Woburn Ley Arable|1961| lucerne 1st year|14-June-1961||cut 3 tines
+Woburn Ley Arable|1961| lucerne 1st year|24-July-1961||cut 3 tines
+Woburn Ley Arable|1961| lucerne 1st year|18-Sept-1960||cut 3 tines
+Woburn Ley Arable|1961| lucerne 3rd year|20-Oct-1960||Treated for control of stem eelworm- Plots 69, 70, 79, 80 troated with 5% granular 'E18133' at 8 1b active material per acre
+Woburn Ley Arable|1961| lucerne 3rd year|20-Oct-1960||Muriate of
+Woburn Ley Arable|1961| potaoes 1st test crop|14-June-1961||5, 1961. cut 3 tines
+Woburn Ley Arable|1961| potaoes 1st test crop|2L-July-1961||5, 1961. cut 3 tines
+Woburn Ley Arable|1961| potaoes 1st test crop|18-Sept-1960||5, 1961. cut 3 tines
+Woburn Ley Arable|1961| potatoes|None||tions
+Woburn Ley Arable|1961| ley 1st year|25-Aug-1961||ploughed twice
+Woburn Ley Arable|1961| ley 1st year|11-Jan-1961||ploughed twice
+Woburn Ley Arable|1961| ley 1st year|10-Apr-1961||PK fertilizers, Nitro-chalk' applied, seed sow at 40 lb per acre
+Woburn Ley Arable|1961| ley 1st year|19-June-1961||2nd dressing of Nitro-chalk' applied, sprayed with MCFB at 4 pints in 40 gallons per acre
+Woburn Ley Arable|1961| ley 1st year|11-Aug-1961||Red dressing of Nitro-chalk' applied
+Woburn Ley Arable|1961| ley 1st year|18-July-1961|17-Oct-1960|grazed 4 circuits
+Woburn Ley Arable|1961| ley 1st year|None||seeds mixture: 20 lb S32, Perennial grass, 11 1b S145 Cocksfoot, 6 lb late flowering Red Clover, 3 1b S100 White Clover per acre
+Woburn Ley Arable|1961| ley 2nd year|15-Mar-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 2nd year|19-June-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 2nd year|27-July-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 2nd year|17-Apr-1961|9-Oct-1960|grazed 7 circuits
+Woburn Ley Arable|1961| ley 3rd year|15-Mar-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 3rd year|19-June-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 3rd year|27-July-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| ley 3rd year|21-Apr-1961|1-Oct-1960|grazed 7 circuits
+Woburn Ley Arable|1961| lucerne 1st year|24-Nov-1960||est crop, Treated for control of lucerne stem eelworm- Plots 37, 36 split for fumigation with undiluted methem sodium ("Vapom") at 1 pints to 5 sq. ft
+Woburn Ley Arable|1961| lucerne 1st year|5-Jan-1961||Ground chelk applied at 16 not per acre
+Woburn Ley Arable|1961| lucerne 1st year|16-Jan-1961||Dung applied
+Woburn Ley Arable|1961| lucerne 1st year|19-Jan-1961||ploughed
+Woburn Ley Arable|1961| lucerne 1st year|27-Mar-1961||Treatment fertilizers and base] compounl fertilizers applied
+Woburn Ley Arable|1961| lucerne 1st year|10-Apr-1961||seed drilled at 10 lb per acre
+Woburn Ley Arable|1961| lucerne 1st year|20-May-1961||sprayed (azainst flea beet) with DDT emulsion (254 DDT) at 3 pints in 40 gellons per acre
+Woburn Ley Arable|1961| lucerne 1st year|30-May-1961||singled
+Woburn Ley Arable|1961| lucerne 1st year|20-June-1961||sprayed with demeton methyl at 12 fluid oz in 40 gellons per acre
+Woburn Ley Arable|1961| lucerne 1st year|10-July-1961||sprayed with demeton methyl at 12 fluid oz in 40 gellons per acre
+Woburn Ley Arable|1961| lucerne 1st year|9-Oct-1960||Lifted
+Woburn Ley Arable|1961| lucerne 1st year|None||variety: Mein E
+Woburn Ley Arable|1961| lucerne 3rd year|20-Oct-1960||Treated for control of stem eelworm- Plots 69, 70, 79, 80 troated with 5% granular 'E18133' at 8 1b active material per acre
+Woburn Ley Arable|1961| lucerne 3rd year|20-Oct-1960||Muriate of
+Woburn Ley Arable|1961| potaoes 1st test crop|14-June-1961||5, 1961. cut 3 tines
+Woburn Ley Arable|1961| potaoes 1st test crop|2L-July-1961||5, 1961. cut 3 tines
+Woburn Ley Arable|1961| potaoes 1st test crop|18-Sept-1960||5, 1961. cut 3 tines
+Woburn Ley Arable|1961| potaoes 1st test crop|None||61/8/4.2
+Woburn Ley Arable|1961| carrots|25-Aug-1961||3rd course. ploughed twice
+Woburn Ley Arable|1961| carrots|7-Jan-1961||and
+Woburn Ley Arable|1961| carrots|12-Apr-1961||Potash, nitrogen fertilizers applied
+Woburn Ley Arable|1961| carrots|14-Apr-1961||seed drilled at 5 lb per acre
+Woburn Ley Arable|1961| carrots|29-May-1961||sprayed with demeton-methyl at 12 fluid oz in 40 gellons per acre
+Woburn Ley Arable|1961| carrots|12-June-1961||sprayed with demeton-methyl at 12 fluid oz in 40 gellons per acre
+Woburn Ley Arable|1961| carrots|3-July-1961|10-July-1961|Thinned
+Woburn Ley Arable|1961| carrots|14-Sept-1960||Lifted
+Woburn Ley Arable|1961| carrots|None||variety: Scarlet Intermediate, test crops
+Woburn Ley Arable|1961| potatoes 1st course|25-Aug-1961||ploughed twice?
+Woburn Ley Arable|1961| potatoes 1st course|11-Jan-1961||and
+Woburn Ley Arable|1961| potatoes 1st course|20-Mar-1961||Compound fertilizers applied, potatoes machine planted
+Woburn Ley Arable|1961| potatoes 1st course|16-June-1961||earthed up
+Woburn Ley Arable|1961| potatoes 1st course|19-Sept-1960||Haulm destroyed mechanically
+Woburn Ley Arable|1961| potatoes 1st course|21-Sept-1960||Lifted
+Woburn Ley Arable|1961| potatoes 1st course|None||variety: Majestic
+Woburn Ley Arable|1961| rye 2nd course|14-Oct-1960||^ ploughed
+Woburn Ley Arable|1961| rye 2nd course|15-Jan-1961||seed drilled at 3 bushels per acre
+Woburn Ley Arable|1961| rye 2nd course|11-Apr-1961||seeds hay mixture undersown on 4 plots
+Woburn Ley Arable|1961| rye 2nd course|12-Apr-1961||Nitro-chalk' applied
+Woburn Ley Arable|1961| rye 2nd course|26-Aug-1961||combine hervested
+Woburn Ley Arable|1961| rye 2nd course|None||variety: King II
+Woburn Ley Arable|1961| seeds hay|None||ug 14. — seeds mixture: 19 lb S24 Perennial grass, 9 1b late flowering Red Clover, 2 lb .lsike Americen per acre
+Woburn Ley Arable|1961| rye|7-Apr-1961||
+Woburn Ley Arable|1961| rye|15-Mar-1961||FPotesh, nitrogen fertilizers applied
+Woburn Ley Arable|1961| rye|29-May-1961||Nitro-chalk' applied
+Woburn Ley Arable|1961| rye|None||cut twice
+Woburn Ley Arable|1961| barley 2nd test crop|5-Jan-1961||Ground chalk applied at 40 cwt per acre
+Woburn Ley Arable|1961| barley 2nd test crop|7-Jan-1961||— ploughed
+Woburn Ley Arable|1961| barley 2nd test crop|13-Mar-1961||Nitro-chalk' applied, Muriate of potash applied to equalise treatment dressing to 1960 sugar beet test crop
+Woburn Ley Arable|1961| barley 2nd test crop|6-May-1961||seed drilled at 24 bushels per acre: per 15. sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+Woburn Ley Arable|1961| barley 2nd test crop|12-Aug-1961||combine harvested
+Woburn Ley Arable|1961| barley 2nd test crop|None||variety: Herta
+Woburn Ley Arable|1962| potatoes|15-Aug-1962||ploughed twice
+Woburn Ley Arable|1962| potatoes|22-Dec-1961||ploughed twice
+Woburn Ley Arable|1962| potatoes|16-Mar-1962||fertilizers applied, potatoes machine planted
+Woburn Ley Arable|1962| potatoes|15-June-1962||earthed up
+Woburn Ley Arable|1962| potatoes|23-July-1962||sprayed twice with cropped oxychloride Fungicide at 2,5 lb Ou in 40 gallons per acre
+Woburn Ley Arable|1962| potatoes|9-Aug-1962||sprayed twice with cropped oxychloride Fungicide at 2,5 lb Ou in 40 gallons per acre
+Woburn Ley Arable|1962| potatoes|22-Sept-1961||Haulm burnt off with diquat at 3 pints in 40 gellons per acre
+Woburn Ley Arable|1962| potatoes|3-Oct-1961||Lifted
+Woburn Ley Arable|1962| ley 1st year|15-Aug-1962||ploughed twice
+Woburn Ley Arable|1962| ley 1st year|22-Dec-1961||ploughed twice
+Woburn Ley Arable|1962| ley 1st year|26-Mar-1962||Seedbed fertilizers applied
+Woburn Ley Arable|1962| ley 1st year|10-Apr-1962||seed sown at 40 lb per acre
+Woburn Ley Arable|1962| ley 1st year|30-May-1962||sprayed with NCPS/MCPA at 4 pints in 40 gellons per acre
+Woburn Ley Arable|1962| ley 1st year|19-July-1962||Nitro-chalk' applied
+Woburn Ley Arable|1962| ley 1st year|16-Aug-1962||Nitro-chalk' applied
+Woburn Ley Arable|1962| ley 1st year|17-July-1962|8-Oct-1961|grazed 4 circuits
+Woburn Ley Arable|1962| ley 2nd year|29-Mar-1962||Compound fertilizers applied
+Woburn Ley Arable|1962| ley 2nd year|18-June-1962||Compound fertilizers applied
+Woburn Ley Arable|1962| ley 2nd year|16-Aug-1962||Compound fertilizers applied
+Woburn Ley Arable|1962| ley 2nd year|15-May-1962|22-Sept-1961|grazed 5 circuits
+Woburn Ley Arable|1962| ley 3rd year|29-Mar-1962||Ocmpound fertilizers applied
+Woburn Ley Arable|1962| ley 3rd year|20-June-1962||Ocmpound fertilizers applied
+Woburn Ley Arable|1962| ley 3rd year|16-Aug-1962||Ocmpound fertilizers applied
+Woburn Ley Arable|1962| ley 3rd year|23-May-1962|30-Sept-1961|grazed 5 circuits
+Woburn Ley Arable|1962| lucerne 1st year|15-Aug-1962||ploughed
+Woburn Ley Arable|1962| lucerne 1st year|31-Oct-1961||Treated for control of stem eelworm by injection of "D.D" soil fumigant at 800 lb per acre
+Woburn Ley Arable|1962| lucerne 1st year|22-Dec-1961||ploughed
+Woburn Ley Arable|1962| lucerne 1st year|23-Mar-1962||fertilizers applied
+Woburn Ley Arable|1962| lucerne 1st year|13-Apr-1962||seed drilled at 15 lb per acre
+Woburn Ley Arable|1962| lucerne 1st year|14-Aug-1962||cut twice
+Woburn Ley Arable|1962| lucerne 1st year|1-Oct-1961||cut twice
+Woburn Ley Arable|1962| lucerne 2nd year|29-Mar-1962||Muriate of potash applied
+Woburn Ley Arable|1962| lucerne 2nd year|27-June-1962||not 3 times
+Woburn Ley Arable|1962| lucerne 2nd year|14-Aug-1962||not 3 times
+Woburn Ley Arable|1962| lucerne 2nd year|1-Oct-1961||not 3 times
+Woburn Ley Arable|1962| lucerne 3rd year|29-Mar-1962||Muriate of potash applied
+Woburn Ley Arable|1962| lucerne 3rd year|27-June-1962||cut 3 times
+Woburn Ley Arable|1962| lucerne 3rd year|14-Aug-1962||cut 3 times
+Woburn Ley Arable|1962| lucerne 3rd year|1-Oct-1961||cut 3 times
+Woburn Ley Arable|1962| carrots|None||rotations
+Woburn Ley Arable|1962| potatoes|15-Aug-1962||ploughed twice
+Woburn Ley Arable|1962| potatoes|22-Dec-1961||ploughed twice
+Woburn Ley Arable|1962| potatoes|16-Mar-1962||fertilizers applied, potatoes machine planted
+Woburn Ley Arable|1962| potatoes|15-June-1962||earthed up
+Woburn Ley Arable|1962| potatoes|23-July-1962||sprayed twice with cropped oxychloride Fungicide at 2,5 lb Ou in 40 gallons per acre
+Woburn Ley Arable|1962| potatoes|9-Aug-1962||sprayed twice with cropped oxychloride Fungicide at 2,5 lb Ou in 40 gallons per acre
+Woburn Ley Arable|1962| potatoes|22-Sept-1961||Haulm burnt off with diquat at 3 pints in 40 gellons per acre
+Woburn Ley Arable|1962| potatoes|3-Oct-1961||Lifted
+Woburn Ley Arable|1962| potatoes|None||62/8/,. 5
+Woburn Ley Arable|1962| ley 1st year|15-Aug-1962||ploughed twice
+Woburn Ley Arable|1962| ley 1st year|22-Dec-1961||ploughed twice
+Woburn Ley Arable|1962| ley 1st year|26-Mar-1962||Seedbed fertilizers applied
+Woburn Ley Arable|1962| ley 1st year|10-Apr-1962||seed sown at 40 lb per acre
+Woburn Ley Arable|1962| ley 1st year|30-May-1962||sprayed with NCPS/MCPA at 4 pints in 40 gellons per acre
+Woburn Ley Arable|1962| ley 1st year|19-July-1962||Nitro-chalk' applied
+Woburn Ley Arable|1962| ley 1st year|16-Aug-1962||Nitro-chalk' applied
+Woburn Ley Arable|1962| ley 1st year|17-July-1962|8-Oct-1961|grazed 4 circuits
+Woburn Ley Arable|1962| ley 2nd year|29-Mar-1962||Compound fertilizers applied
+Woburn Ley Arable|1962| ley 2nd year|18-June-1962||Compound fertilizers applied
+Woburn Ley Arable|1962| ley 2nd year|16-Aug-1962||Compound fertilizers applied
+Woburn Ley Arable|1962| ley 2nd year|15-May-1962|22-Sept-1961|grazed 5 circuits
+Woburn Ley Arable|1962| ley 3rd year|29-Mar-1962||Ocmpound fertilizers applied
+Woburn Ley Arable|1962| ley 3rd year|20-June-1962||Ocmpound fertilizers applied
+Woburn Ley Arable|1962| ley 3rd year|16-Aug-1962||Ocmpound fertilizers applied
+Woburn Ley Arable|1962| ley 3rd year|23-May-1962|30-Sept-1961|grazed 5 circuits
+Woburn Ley Arable|1962| lucerne 1st year|15-Aug-1962||ploughed
+Woburn Ley Arable|1962| lucerne 1st year|31-Oct-1961||Treated for control of stem eelworm by injection of "D.D" soil fumigant at 800 lb per acre
+Woburn Ley Arable|1962| lucerne 1st year|22-Dec-1961||ploughed
+Woburn Ley Arable|1962| lucerne 1st year|23-Mar-1962||fertilizers applied
+Woburn Ley Arable|1962| lucerne 1st year|13-Apr-1962||seed drilled at 15 lb per acre
+Woburn Ley Arable|1962| lucerne 1st year|14-Aug-1962||cut twice
+Woburn Ley Arable|1962| lucerne 1st year|1-Oct-1961||cut twice
+Woburn Ley Arable|1962| lucerne 2nd year|29-Mar-1962||Muriate of potash applied
+Woburn Ley Arable|1962| lucerne 2nd year|27-June-1962||not 3 times
+Woburn Ley Arable|1962| lucerne 2nd year|14-Aug-1962||not 3 times
+Woburn Ley Arable|1962| lucerne 2nd year|1-Oct-1961||not 3 times
+Woburn Ley Arable|1962| lucerne 3rd year|29-Mar-1962||Muriate of potash applied
+Woburn Ley Arable|1962| lucerne 3rd year|27-June-1962||cut 3 times
+Woburn Ley Arable|1962| lucerne 3rd year|14-Aug-1962||cut 3 times
+Woburn Ley Arable|1962| lucerne 3rd year|1-Oct-1961||cut 3 times
+Woburn Ley Arable|1962| carrots|4-Sept-1961||ploughed twice
+Woburn Ley Arable|1962| carrots|22-Dec-1961||ploughed twice
+Woburn Ley Arable|1962| carrots|24-Apr-1962||fertilizers applied
+Woburn Ley Arable|1962| carrots|27-Apr-1962||seed drilled etc Lj lb per acre
+Woburn Ley Arable|1962| carrots|29-May-1962||sprayed twice with demeton methyl at 12 fluid oz in 40 gallons per acre
+Woburn Ley Arable|1962| carrots|23-June-1962||sprayed twice with demeton methyl at 12 fluid oz in 40 gallons per acre
+Woburn Ley Arable|1962| carrots|29-June-1962|6-July-1962|Thinned
+Woburn Ley Arable|1962| carrots|19-Sept-1961||Lifted
+Woburn Ley Arable|1962| carrots|None||test crops
+Woburn Ley Arable|1962| rye|23-Sept-1961||ploughed
+Woburn Ley Arable|1962| rye|10-Oct-1961||seed combine drilled at 2 bushels per acre with PK compound
+Woburn Ley Arable|1962| rye|30-Mar-1962||Nitro-chalk' applied
+Woburn Ley Arable|1962| rye|10-Apr-1962||seeds hay nixture undersown on 4 plots
+Woburn Ley Arable|1962| rye|51-Aug-1962||combine harvested
+Woburn Ley Arable|1962| seeds hay|11-Apr-1962||seeds undersown at 350 lb per acre in rye
+Woburn Ley Arable|1962| seeds hay|29-Mar-1962||PK compound, Nitro-chalk' applied
+Woburn Ley Arable|1962| seeds hay|13-June-1962||cut once
+Woburn Ley Arable|1962| seeds hay|14-June-1962||Muriate of potash and Nitro-chalk' epplicd
+Woburn Ley Arable|1962| sugar beet|None||Roots (washed) Whole plot: 1.112 tons per acre or 7475 (& defo) $ plot: 0.590 tons per acre or i x (4. a. f.) plot: 0.987 tons per acre or 4 6.9% (2% af.) 16 plot: 0.900 tome, per acre or 6.32 (32 a.f.) Total sugar Whole plot: 4.27 cwt per acre or 9.2% (4. à. f.) + plot: 1.81 cwt per acre or 3.9. (4, a.£.) d p1ot: 3.39 cwt per acre or 4 TX (2, 4. f.) 46 plot: 3.06 cwt per acre or 6.6% (32 def.) Tops Whole plot: 0.615 toms per acre or 2.7 (hed Feb) f plot: 1.484. tons per acre or 5.84 (4. def.) $ plot: 1.290 tons per acre or 4 5.G (2, a.f.) 36 plot: 2.225 tons per acre or 9.65 (32 a.f.)
+Woburn Ley Arable|1962| barley|5-Nov-1961||Ground chalk applied at 40 cwt per acre
+Woburn Ley Arable|1962| barley|4-Nov-1961||ploughed
+Woburn Ley Arable|1962| barley|19-Feb-1962||"Balencing" Muriate of potash, besal superphosphate applied
+Woburn Ley Arable|1962| barley|20-Feb-1962||seed drilled at 2$ bushels power acre;
+Woburn Ley Arable|1962| barley|23-Feb-1962||Nitro-chalk' applied
+Woburn Ley Arable|1962| barley|25-Aug-1962||Plots re-drilled at 4 bushels per acre (beceuse of bird Gamage): Mex 21. combine hervested
+Woburn Ley Arable|1962| barley|None||Standard errors per plot. test crops
+Woburn Ley Arable|1963| potatoes|3-Sept-1962||ploughed twice
+Woburn Ley Arable|1963| potatoes|18-Dec-1962||ploughed twice
+Woburn Ley Arable|1963| potatoes|19-Apr-1963||196. fertilizers applied, potatoes mchine planted
+Woburn Ley Arable|1963| potatoes|19-June-1963||earthed up
+Woburn Ley Arable|1963| potatoes|25-July-1963||sprayed with cropped oxychloride Fungicide at 2.3 lb cropped in 20 gallons per acre
+Woburn Ley Arable|1963| potatoes|22-Aug-1963||again at three same r&te in 30 gallons plus 0.35 pints menazon per acre
+Woburn Ley Arable|1963| potatoes|13-Sept-1962||sprayed with undiluted BOV at 16 gallons per acre
+Woburn Ley Arable|1963| potatoes|8-Oct-1962||Lifted
+Woburn Ley Arable|1963| ley 3rd year|15-Mar-1963||Compound fertilizers applied
+Woburn Ley Arable|1963| ley 3rd year|14-June-1963||Compound fertilizers applied
+Woburn Ley Arable|1963| ley 3rd year|15-Aug-1963||and
+Woburn Ley Arable|1963| ley 3rd year|B-May-1963|lh-Sept-1962|grazed 5 circuits
+Woburn Ley Arable|1963| ley 2nd year|15-Mar-1963||year. Nitro-chalk', Muriate of potash applied
+Woburn Ley Arable|1963| ley 2nd year|19-June-1963||cut 3 times
+Woburn Ley Arable|1963| ley 2nd year|2-Aug-1963||cut 3 times
+Woburn Ley Arable|1963| ley 2nd year|25-Sept-1962||cut 3 times
+Woburn Ley Arable|1963| lucerne 3rd year|15-Mar-1963||Nitro-chalk, Muriate of potash applied
+Woburn Ley Arable|1963| lucerne 3rd year|18-June-1963||cut 3 times
+Woburn Ley Arable|1963| lucerne 3rd year|2-Aug-1963||cut 3 times
+Woburn Ley Arable|1963| lucerne 3rd year|25-Sept-1962||cut 3 times
+Woburn Ley Arable|1963| carrots|10-Sept-1962||ploughed twice
+Woburn Ley Arable|1963| carrots|13-Nov-1962||ploughed twice
+Woburn Ley Arable|1963| carrots|22-Apr-1963||19. fertilizers applied
+Woburn Ley Arable|1963| carrots|23-Apr-1963||seed drilled at 2.25 lb per acre
+Woburn Ley Arable|1963| carrots|31-May-1963||sprayed with demeton-methyl at 6 fluid oz in !O gallons per acre
+Woburn Ley Arable|1963| carrots|12-June-1963||Thimmed
+Woburn Ley Arable|1963| carrots|27-June-1963||sprayed with demeton-methyl at 6 fluid oz in !O gallons per acre
+Woburn Ley Arable|1963| carrots|16-Sept-1962||Lifted
+Woburn Ley Arable|1963| rye|all-Oct-1962||ploughed
+Woburn Ley Arable|1963| rye|22-Oct-1962||196. seed combine drilled at 3 bushels per acre with PK compound
+Woburn Ley Arable|1963| rye|None||Nitro-chalk applied, seeds
+Woburn Ley Arable|1963| turnips (after carrots failed) 3rd course|14-Sept-1962||1963. Carbine bervested
+Woburn Ley Arable|1963| seeds hay|10-Apr-1963||seeds undersown in rye at 30 lb per acre
+Woburn Ley Arable|1963| seeds hay|15-Mar-1963||Nitro-chalk', PK compound applied
+Woburn Ley Arable|1963| seeds hay|18-June-1963||cut twice
+Woburn Ley Arable|1963| seeds hay|19-Aug-1963||cut twice
+Woburn Ley Arable|1963| seeds hay|21-June-1963||Compound fertilizers applied
+Woburn Ley Arable|1963| potatoes|3-Sept-1962||ploughed twice
+Woburn Ley Arable|1963| potatoes|18-Dec-1962||ploughed twice
+Woburn Ley Arable|1963| potatoes|19-Apr-1963||196. fertilizers applied, potatoes mchine planted
+Woburn Ley Arable|1963| potatoes|19-June-1963||earthed up
+Woburn Ley Arable|1963| potatoes|25-July-1963||sprayed with cropped oxychloride Fungicide at 2.3 lb cropped in 20 gallons per acre
+Woburn Ley Arable|1963| potatoes|22-Aug-1963||again at three same r&te in 30 gallons plus 0.35 pints menazon per acre
+Woburn Ley Arable|1963| potatoes|13-Sept-1962||sprayed with undiluted BOV at 16 gallons per acre
+Woburn Ley Arable|1963| potatoes|8-Oct-1962||Lifted
+Woburn Ley Arable|1963| ley 3rd year|15-Mar-1963||Compound fertilizers applied
+Woburn Ley Arable|1963| ley 3rd year|14-June-1963||Compound fertilizers applied
+Woburn Ley Arable|1963| ley 3rd year|15-Aug-1963||and
+Woburn Ley Arable|1963| ley 3rd year|B-May-1963|lh-Sept-1962|grazed 5 circuits
+Woburn Ley Arable|1963| ley 2nd year|15-Mar-1963||year. Nitro-chalk', Muriate of potash applied
+Woburn Ley Arable|1963| ley 2nd year|19-June-1963||cut 3 times
+Woburn Ley Arable|1963| ley 2nd year|2-Aug-1963||cut 3 times
+Woburn Ley Arable|1963| ley 2nd year|25-Sept-1962||cut 3 times
+Woburn Ley Arable|1963| lucerne 3rd year|15-Mar-1963||Nitro-chalk, Muriate of potash applied
+Woburn Ley Arable|1963| lucerne 3rd year|18-June-1963||cut 3 times
+Woburn Ley Arable|1963| lucerne 3rd year|2-Aug-1963||cut 3 times
+Woburn Ley Arable|1963| lucerne 3rd year|25-Sept-1962||cut 3 times
+Woburn Ley Arable|1963| carrots|10-Sept-1962||ploughed twice
+Woburn Ley Arable|1963| carrots|13-Nov-1962||ploughed twice
+Woburn Ley Arable|1963| carrots|22-Apr-1963||19. fertilizers applied
+Woburn Ley Arable|1963| carrots|23-Apr-1963||seed drilled at 2.25 lb per acre
+Woburn Ley Arable|1963| carrots|31-May-1963||sprayed with demeton-methyl at 6 fluid oz in !O gallons per acre
+Woburn Ley Arable|1963| carrots|12-June-1963||Thimmed
+Woburn Ley Arable|1963| carrots|27-June-1963||sprayed with demeton-methyl at 6 fluid oz in !O gallons per acre
+Woburn Ley Arable|1963| carrots|16-Sept-1962||Lifted
+Woburn Ley Arable|1963| carrots|None||63/8/5.3 test cro
+Woburn Ley Arable|1963| rye|all-Oct-1962||ploughed
+Woburn Ley Arable|1963| rye|22-Oct-1962||196. seed combine drilled at 3 bushels per acre with PK compound
+Woburn Ley Arable|1963| rye|None||Nitro-chalk applied, seeds
+Woburn Ley Arable|1963| turnips (after carrots failed) 3rd course|14-Sept-1962||1963. Carbine bervested
+Woburn Ley Arable|1963| seeds hay|10-Apr-1963||seeds undersown in rye at 30 lb per acre
+Woburn Ley Arable|1963| seeds hay|15-Mar-1963||Nitro-chalk', PK compound applied
+Woburn Ley Arable|1963| seeds hay|18-June-1963||cut twice
+Woburn Ley Arable|1963| seeds hay|19-Aug-1963||cut twice
+Woburn Ley Arable|1963| seeds hay|21-June-1963||Compound fertilizers applied
+Woburn Ley Arable|1963| sugar beet|None||Roots (washed) Whole plot: 0.206 tons per acre or a &a.f. 1/2 plot: 1.152 tons per acre or 6.2% (4 4.f.) 1/h plot: 0.206 tons per acre or 1.1% (24 a.f.) 1/16 plot: 1.026 tons per acre or 5.5% (2 a.f.) Total sugar Whole plot: 0.8 cwt per acre “ acre) a.f. 1/2 plot: 3.55 cwt per acre or 5.2% (^ à.f.) Yh plot: 2.47 cwt per acre cr 3.64 (25 aà.f.) 1/16 plot: 4.03 cwt per acre or 5.9% (x2 &.f.) Tors Whole plot: 0.405 tons per m 7 a.f. 1/2 plot: 1.60 tons per, im a.f. 1/& plot: 0.923 tons per acre or 5.% (25 a.f.) 1/16 plot: 1.232 tons per acre or 7.9% (2 àa.f.)
+Woburn Ley Arable|1963| spring wheat (replacing rye)|None||e plot: 1.26 cwt per acre or 3.5% diary mtter) (4 Apr) 1/2 plot: 1.40 cwt per acre or 4.2% (^ af.)
+Woburn Ley Arable|1964| ley 1st year|24-Sept-1963||ploughed twice
+Woburn Ley Arable|1964| ley 1st year|3-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| ley 1st year|1-Apr-1964||Seedbed fertilizers applied
+Woburn Ley Arable|1964| ley 1st year|8-Apr-1964||seed sown
+Woburn Ley Arable|1964| ley 1st year|15-May-1964||sprayed with MCPA at 1.9 lb in 40 gals
+Woburn Ley Arable|1964| ley 1st year|10-July-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 1st year|27-Aug-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 1st year|14-June-1964|16-Oct-1963|grazed 5 circuits
+Woburn Ley Arable|1964| ley 2nd year|20-Mar-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 2nd year|15-June-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 2nd year|28-Aug-1964||and
+Woburn Ley Arable|1964| ley 2nd year|2-May-1964|2k-Oct-1963|grazed 6 circuits
+Woburn Ley Arable|1964| ley 3rd year|20-Mar-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 3rd year|10-June-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 3rd year|27-Aug-1964||and
+Woburn Ley Arable|1964| ley 3rd year|10-May-1964|20-Oct-1963|grazed 4 circuits
+Woburn Ley Arable|1964| sainfoin 1st year|24-Sept-1963||ploughed twice
+Woburn Ley Arable|1964| sainfoin 1st year|3-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| sainfoin 1st year|1-Apr-1964||fertilizers applied
+Woburn Ley Arable|1964| sainfoin 1st year|5-Apr-1964||seed drilled at 56 1b
+Woburn Ley Arable|1964| sainfoin 1st year|27-May-1964||sprayed with MCPA at 1,9 lb in hO gals
+Woburn Ley Arable|1964| sainfoin 1st year|23-July-1964||cut twice
+Woburn Ley Arable|1964| sainfoin 1st year|26-Oct-1963||cut twice
+Woburn Ley Arable|1964| lucerne 2nd year|10-Feb-1964||sprayed with paraquat at 1.6 lb in 40 gals
+Woburn Ley Arable|1964| lucerne 2nd year|20-Mar-1964||fertilizers applied
+Woburn Ley Arable|1964| lucerne 2nd year|9-June-1964||sprayed with diquat (Reglone at 4 pints in 60 gals)
+Woburn Ley Arable|1964| lucerne 2nd year|8-June-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 2nd year|23-July-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 2nd year|3-Sept-1963||cut 3 times
+Woburn Ley Arable|1964| lucerne 3rd year|10-Feb-1964||sprayed with paraquat at 1.6 lb in 40 gals
+Woburn Ley Arable|1964| lucerne 3rd year|20-Mar-1964||fertilizers applied
+Woburn Ley Arable|1964| lucerne 3rd year|9-June-1964||sprayed with diquat (Reglone at 4 pints in 60 gals)
+Woburn Ley Arable|1964| lucerne 3rd year|8-June-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 3rd year|23-July-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 3rd year|3-Sept-1963||cut 3 times
+Woburn Ley Arable|1964| carrots|None||rotations
+Woburn Ley Arable|1964| potatoes|24-Sept-1963||ploughed twice
+Woburn Ley Arable|1964| potatoes|3-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| potatoes|23-Apr-1964||fertilizers applied
+Woburn Ley Arable|1964| potatoes|29-Apr-1964||potatoes machine planted
+Woburn Ley Arable|1964| potatoes|12-June-1964||earthed up
+Woburn Ley Arable|1964| potatoes|25-June-1964||sprayed with Mancozeb at 1.6 1b in 50 gals
+Woburn Ley Arable|1964| potatoes|30-July-1964||again at 1.2 lb in 40 gals
+Woburn Ley Arable|1964| potatoes|2-Sept-1963||sprayed with diquat (Reglone at 4 pints in 40 gals)*
+Woburn Ley Arable|1964| potatoes|9-Sept-1963||Lifted
+Woburn Ley Arable|1964| potatoes|None||* Plots 67, 68 were not sprayed as three Haulm was already Bead
+Woburn Ley Arable|1964| rye|8-Oct-1963||ploughed
+Woburn Ley Arable|1964| rye|18-Oct-1963||seed combine drilled at 3 bushels with PK compound
+Woburn Ley Arable|1964| rye|26-Mar-1964||Nitro-chalk' ‘Saga
+Woburn Ley Arable|1964| rye|26-Mar-1964||Nitro-chalk' ‘Saga
+Woburn Ley Arable|1964| seeds hay|8-Apr-1964||mixture undersown on 4 plots
+Woburn Ley Arable|1964| seeds hay|25-Aug-1964||combine harvested
+Woburn Ley Arable|1964| ley 1st year|24-Sept-1963||ploughed twice
+Woburn Ley Arable|1964| ley 1st year|3-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| ley 1st year|1-Apr-1964||Seedbed fertilizers applied
+Woburn Ley Arable|1964| ley 1st year|8-Apr-1964||seed sown
+Woburn Ley Arable|1964| ley 1st year|15-May-1964||sprayed with MCPA at 1.9 lb in 40 gals
+Woburn Ley Arable|1964| ley 1st year|10-July-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 1st year|27-Aug-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 1st year|14-June-1964|16-Oct-1963|grazed 5 circuits
+Woburn Ley Arable|1964| ley 2nd year|20-Mar-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 2nd year|15-June-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 2nd year|28-Aug-1964||and
+Woburn Ley Arable|1964| ley 2nd year|2-May-1964|2k-Oct-1963|grazed 6 circuits
+Woburn Ley Arable|1964| ley 3rd year|20-Mar-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 3rd year|10-June-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| ley 3rd year|27-Aug-1964||and
+Woburn Ley Arable|1964| ley 3rd year|10-May-1964|20-Oct-1963|grazed 4 circuits
+Woburn Ley Arable|1964| sainfoin 1st year|24-Sept-1963||ploughed twice
+Woburn Ley Arable|1964| sainfoin 1st year|3-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| sainfoin 1st year|1-Apr-1964||fertilizers applied
+Woburn Ley Arable|1964| sainfoin 1st year|5-Apr-1964||seed drilled at 56 1b
+Woburn Ley Arable|1964| sainfoin 1st year|27-May-1964||sprayed with MCPA at 1,9 lb in hO gals
+Woburn Ley Arable|1964| sainfoin 1st year|23-July-1964||cut twice
+Woburn Ley Arable|1964| sainfoin 1st year|26-Oct-1963||cut twice
+Woburn Ley Arable|1964| lucerne 2nd year|10-Feb-1964||sprayed with paraquat at 1.6 lb in 40 gals
+Woburn Ley Arable|1964| lucerne 2nd year|20-Mar-1964||fertilizers applied
+Woburn Ley Arable|1964| lucerne 2nd year|9-June-1964||sprayed with diquat (Reglone at 4 pints in 60 gals)
+Woburn Ley Arable|1964| lucerne 2nd year|8-June-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 2nd year|23-July-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 2nd year|3-Sept-1963||cut 3 times
+Woburn Ley Arable|1964| lucerne 3rd year|10-Feb-1964||sprayed with paraquat at 1.6 lb in 40 gals
+Woburn Ley Arable|1964| lucerne 3rd year|20-Mar-1964||fertilizers applied
+Woburn Ley Arable|1964| lucerne 3rd year|9-June-1964||sprayed with diquat (Reglone at 4 pints in 60 gals)
+Woburn Ley Arable|1964| lucerne 3rd year|8-June-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 3rd year|23-July-1964||cut 3 times
+Woburn Ley Arable|1964| lucerne 3rd year|3-Sept-1963||cut 3 times
+Woburn Ley Arable|1964| carrots|3-Oct-1963||ploughed twice
+Woburn Ley Arable|1964| carrots|6-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| carrots|30-Apr-1964||fertilizers applied
+Woburn Ley Arable|1964| carrots|4-May-1964||seed drilled at 3 lb
+Woburn Ley Arable|1964| carrots|27-May-1964||sprayed with menazon at 0.5 lb in 60 gals
+Woburn Ley Arable|1964| carrots|24-June-1964||again twice at 0.5 lb in 50 gals
+Woburn Ley Arable|1964| carrots|29-July-1964||again twice at 0.5 lb in 50 gals
+Woburn Ley Arable|1964| carrots|24-Sept-1963||Lifted
+Woburn Ley Arable|1964| carrots|None||test crops
+Woburn Ley Arable|1964| potatoes|24-Sept-1963||ploughed twice
+Woburn Ley Arable|1964| potatoes|3-Jan-1964||ploughed twice
+Woburn Ley Arable|1964| potatoes|23-Apr-1964||fertilizers applied
+Woburn Ley Arable|1964| potatoes|29-Apr-1964||potatoes machine planted
+Woburn Ley Arable|1964| potatoes|12-June-1964||earthed up
+Woburn Ley Arable|1964| potatoes|25-June-1964||sprayed with Mancozeb at 1.6 1b in 50 gals
+Woburn Ley Arable|1964| potatoes|30-July-1964||again at 1.2 lb in 40 gals
+Woburn Ley Arable|1964| potatoes|2-Sept-1963||sprayed with diquat (Reglone at 4 pints in 40 gals)*
+Woburn Ley Arable|1964| potatoes|9-Sept-1963||Lifted
+Woburn Ley Arable|1964| potatoes|None||* Plots 67, 68 were not sprayed as three Haulm was already Bead
+Woburn Ley Arable|1964| rye|8-Oct-1963||ploughed
+Woburn Ley Arable|1964| rye|18-Oct-1963||seed combine drilled at 3 bushels with PK compound
+Woburn Ley Arable|1964| rye|26-Mar-1964||Nitro-chalk' ‘Saga
+Woburn Ley Arable|1964| rye|26-Mar-1964||Nitro-chalk' ‘Saga
+Woburn Ley Arable|1964| seeds hay|19-Apr-1964||seeds undersown in rye at 30 lb
+Woburn Ley Arable|1964| seeds hay|20-Mar-1964||Nitro-chalk', PK compound applied
+Woburn Ley Arable|1964| seeds hay|5-June-1964||Compound fertilizers applied
+Woburn Ley Arable|1964| seeds hay|4-June-1964||cut twice
+Woburn Ley Arable|1964| seeds hay|28-July-1964||and
+Woburn Ley Arable|1964| sugar beet|None||Roots Whole plot: 0.673 or 4.3% (4 a.f.) 1/2 plot: 1.136 or 7.3% (4 a.f.) 1/4 plot: 0.747 or 4.8% (2h a.f.) 1/16 plot: 1.590 or 10.2% (32 a.f.) Total sugar Whole plot: 3.04 or 4.9% a d. f.) 1/2 plot: 5.27 or 8.6% (4 a.f.) 1/4 plot: 3.18 or 5.2% (24 af.) 1/16 plot: 7.00 or 11.4% (32 a.f.) Tops Whole plot: 0.344 or 3.8% (4 af.) 1/2 plot: 0.376 or 4.2% (4 a.f.) 1/4 plot: 0.426 or 4.7% (24 af.) 1/16 plot: 0.949 or 10.5% (32 4.f.)
+Woburn Ley Arable|1964| barley|None||grazing Whole plot: 1.34 or 3.1% ti a.f.) 1/2 plot: 1.95 or 4.6% (4 af.)
+Woburn Ley Arable|1964| hay|Apr ||= grazed ley Lu = lucerne AH = Arable with hay
+Woburn Ley Arable|1964| hay|None||Arable with roots. Standard errors per plot
+Woburn Ley Arable|1965| ley 1st year|2h-Aug-1965||ploughed
+Woburn Ley Arable|1965| ley 1st year|1-Apr-1965||Seedbed fertilizers applied, seed som
+Woburn Ley Arable|1965| ley 1st year|16-June-1965||195. Compound fertilizers applied
+Woburn Ley Arable|1965| ley 1st year|9-Sept-1964|21-Sept-1964|195. Compound fertilizers applied
+Woburn Ley Arable|1965| ley 1st year|2-June-1965|T-Nov-1964|grazed 8 circuits
+Woburn Ley Arable|1965| ley 2nd year|19-Mar-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 2nd year|2-June-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 2nd year|1-Sept-1964||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 2nd year|22-Apr-1965|3-Nov-1964|grazed 10 circuits
+Woburn Ley Arable|1965| ley 3rd year|19-Mar-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 3rd year|22-June-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 3rd year|23-Aug-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 3rd year|30-Apr-1965|26-Oct-1964|grazed 9 circuits
+Woburn Ley Arable|1965| sainfoin 3rd year|9-Nov-1964||ploughed
+Woburn Ley Arable|1965| sainfoin 3rd year|5-Apr-1965||fertilizers applied
+Woburn Ley Arable|1965| sainfoin 3rd year|7-Apr-1965||seed drilled at 6 lb
+Woburn Ley Arable|1965| sainfoin 3rd year|all-Aug-1965||cut twice
+Woburn Ley Arable|1965| sainfoin 3rd year|20-Oct-1964||cut twice
+Woburn Ley Arable|1965| sainfoin 2nd year|19-Mar-1965||NK fertilizers applied
+Woburn Ley Arable|1965| sainfoin 2nd year|31-May-1965||cut twice
+Woburn Ley Arable|1965| sainfoin 2nd year|4-Aug-1965||cut twice
+Woburn Ley Arable|1965| sainfoin 2nd year|12-Aug-1965||sprayed with mrequt at 0.5 lb ion in lO gals
+Woburn Ley Arable|1965| sainfoin 2nd year|16-Aug-1965||rotary cultivated
+Woburn Ley Arable|1965| sainfoin 2nd year|18-Aug-1965||Basal PK applied
+Woburn Ley Arable|1965| sainfoin 2nd year|19-Aug-1965||Re-àrilleà &t 56 1b
+Woburn Ley Arable|1965| barley 2nd test crop|None||
+Woburn Ley Arable|1965| potatoes|24-Aug-1965||ploughed
+Woburn Ley Arable|1965| potatoes|6-Apr-1965||fertilizers applied, plots rotary cultivated
+Woburn Ley Arable|1965| potatoes|T-Apr-1965||potatoes machine planted
+Woburn Ley Arable|1965| potatoes|5-July-1965||earthed up: Jme 14, sprayed with Mancozeb at 1.2 1b in 37 gals
+Woburn Ley Arable|1965| potatoes|16-July-1965||earthed up: Jme 14, sprayed with Mancozeb at 1.2 1b in 37 gals
+Woburn Ley Arable|1965| potatoes|4-Aug-1965||earthed up: Jme 14, sprayed with Mancozeb at 1.2 1b in 37 gals
+Woburn Ley Arable|1965| potatoes|12-Aug-1965||sprayed with diquat (Reglone at lh pints in 40 gals)
+Woburn Ley Arable|1965| potatoes|31-Aug-1965||Lifted
+Woburn Ley Arable|1965| rye|8-Apr-1965||ds May: seeds undersown in rye at 30 1b
+Woburn Ley Arable|1965| rye|19-Mar-1965||=‘'Nitro- Ch&lk', PK compound applied
+Woburn Ley Arable|1965| rye|2-June-1965||NK fertilizers applied
+Woburn Ley Arable|1965| rye|31-May-1965||cut twice
+Woburn Ley Arable|1965| rye|5-Aug-1965||cut twice
+Woburn Ley Arable|1965| carrots|29-Sept-1964||ploughed
+Woburn Ley Arable|1965| carrots|8-Apr-1965||fertilizers applied
+Woburn Ley Arable|1965| carrots|13-Apr-1965||rotary cultivated, seed drilled at 3.5 lb
+Woburn Ley Arable|1965| carrots|2-June-1965||sprayed with nen&zon saphicol at 0.5 pints in 4O gals)
+Woburn Ley Arable|1965| carrots|21-June-1965||sprayed with nen&zon saphicol at 0.5 pints in 4O gals)
+Woburn Ley Arable|1965| carrots|27-Aug-1965||Lifted
+Woburn Ley Arable|1965| carrots|None||test crops
+Woburn Ley Arable|1965| sugar beet|23-Nov-1964||Dung equivalent K, milf corrective K (including all corrective K for plot 8 - areble/ley with dung applied
+Woburn Ley Arable|1965| sugar beet|2k-Nov-1964||Dung applied
+Woburn Ley Arable|1965| sugar beet|25-Nov-1964||all plots ploughed
+Woburn Ley Arable|1965| sugar beet|2-Feb-1965||part cf basal superphosphate applied, besal Muriate of potash, second half of corrective K applied
+Woburn Ley Arable|1965| sugar beet|2-Feb-1965||RemBining besal superphosphate applied, mgnesium
+Woburn Ley Arable|1965| ley 1st year|2h-Aug-1965||ploughed
+Woburn Ley Arable|1965| ley 1st year|1-Apr-1965||Seedbed fertilizers applied, seed som
+Woburn Ley Arable|1965| ley 1st year|16-June-1965||195. Compound fertilizers applied
+Woburn Ley Arable|1965| ley 1st year|9-Sept-1964|21-Sept-1964|195. Compound fertilizers applied
+Woburn Ley Arable|1965| ley 1st year|2-June-1965|T-Nov-1964|grazed 8 circuits
+Woburn Ley Arable|1965| ley 2nd year|19-Mar-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 2nd year|2-June-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 2nd year|1-Sept-1964||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 2nd year|22-Apr-1965|3-Nov-1964|grazed 10 circuits
+Woburn Ley Arable|1965| ley 3rd year|19-Mar-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 3rd year|22-June-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 3rd year|23-Aug-1965||Compound fertilizers applied
+Woburn Ley Arable|1965| ley 3rd year|30-Apr-1965|26-Oct-1964|grazed 9 circuits
+Woburn Ley Arable|1965| sainfoin 3rd year|9-Nov-1964||ploughed
+Woburn Ley Arable|1965| sainfoin 3rd year|5-Apr-1965||fertilizers applied
+Woburn Ley Arable|1965| sainfoin 3rd year|7-Apr-1965||seed drilled at 6 lb
+Woburn Ley Arable|1965| sainfoin 3rd year|all-Aug-1965||cut twice
+Woburn Ley Arable|1965| sainfoin 3rd year|20-Oct-1964||cut twice
+Woburn Ley Arable|1965| sainfoin 2nd year|19-Mar-1965||NK fertilizers applied
+Woburn Ley Arable|1965| sainfoin 2nd year|31-May-1965||cut twice
+Woburn Ley Arable|1965| sainfoin 2nd year|4-Aug-1965||cut twice
+Woburn Ley Arable|1965| sainfoin 2nd year|12-Aug-1965||sprayed with mrequt at 0.5 lb ion in lO gals
+Woburn Ley Arable|1965| sainfoin 2nd year|16-Aug-1965||rotary cultivated
+Woburn Ley Arable|1965| sainfoin 2nd year|18-Aug-1965||Basal PK applied
+Woburn Ley Arable|1965| sainfoin 2nd year|19-Aug-1965||Re-àrilleà &t 56 1b
+Woburn Ley Arable|1965| barley 2nd test crop|None||26
+Woburn Ley Arable|1965| potatoes|24-Aug-1965||ploughed
+Woburn Ley Arable|1965| potatoes|6-Apr-1965||fertilizers applied, plots rotary cultivated
+Woburn Ley Arable|1965| potatoes|T-Apr-1965||potatoes machine planted
+Woburn Ley Arable|1965| potatoes|5-July-1965||earthed up: Jme 14, sprayed with Mancozeb at 1.2 1b in 37 gals
+Woburn Ley Arable|1965| potatoes|16-July-1965||earthed up: Jme 14, sprayed with Mancozeb at 1.2 1b in 37 gals
+Woburn Ley Arable|1965| potatoes|4-Aug-1965||earthed up: Jme 14, sprayed with Mancozeb at 1.2 1b in 37 gals
+Woburn Ley Arable|1965| potatoes|12-Aug-1965||sprayed with diquat (Reglone at lh pints in 40 gals)
+Woburn Ley Arable|1965| potatoes|31-Aug-1965||Lifted
+Woburn Ley Arable|1965| rye|8-Apr-1965||ds May: seeds undersown in rye at 30 1b
+Woburn Ley Arable|1965| rye|19-Mar-1965||=‘'Nitro- Ch&lk', PK compound applied
+Woburn Ley Arable|1965| rye|2-June-1965||NK fertilizers applied
+Woburn Ley Arable|1965| rye|31-May-1965||cut twice
+Woburn Ley Arable|1965| rye|5-Aug-1965||cut twice
+Woburn Ley Arable|1965| carrots|29-Sept-1964||ploughed
+Woburn Ley Arable|1965| carrots|8-Apr-1965||fertilizers applied
+Woburn Ley Arable|1965| carrots|13-Apr-1965||rotary cultivated, seed drilled at 3.5 lb
+Woburn Ley Arable|1965| carrots|2-June-1965||sprayed with nen&zon saphicol at 0.5 pints in 4O gals)
+Woburn Ley Arable|1965| carrots|21-June-1965||sprayed with nen&zon saphicol at 0.5 pints in 4O gals)
+Woburn Ley Arable|1965| carrots|27-Aug-1965||Lifted
+Woburn Ley Arable|1965| carrots|None||test crops
+Woburn Ley Arable|1965| sugar beet|23-Nov-1964||Dung equivalent K, milf corrective K (including all corrective K for plot 8 - areble/ley with dung applied
+Woburn Ley Arable|1965| sugar beet|2k-Nov-1964||Dung applied
+Woburn Ley Arable|1965| sugar beet|25-Nov-1964||all plots ploughed
+Woburn Ley Arable|1965| sugar beet|2-Feb-1965||part cf basal superphosphate applied, besal Muriate of potash, second half of corrective K applied
+Woburn Ley Arable|1965| sugar beet|l-Apr-1965||RemBining besal superphosphate applied, mgnesium 65/5/5.3 Sulphate applied
+Woburn Ley Arable|1965| sugar beet|None||test Nitro-chalk', Muriate of
+Woburn Ley Arable|1965| turnips (after carrots failed) 3rd course|3-Apr-1965||1b
+Woburn Ley Arable|1965| turnips (after carrots failed) 3rd course|None||singled
+Woburn Ley Arable|1965| barley|13-Nov-1964||Ground chalk applied &t 40 cwt
+Woburn Ley Arable|1965| barley|16-Nov-1964||ploughed
+Woburn Ley Arable|1965| barley|16-Feb-1965||Balancing Muriate of potash, basel superphosphate applied
+Woburn Ley Arable|1965| barley|18-Feb-1965||Nitro-chalk' applied
+Woburn Ley Arable|1965| barley|12-Mar-1965||seed drilled at 155 lb
+Woburn Ley Arable|1965| barley|8-Apr-1965||Spring-tine cultivated, re-drilled at 1h0 lb because of bird damge
+Woburn Ley Arable|1965| barley|11-May-1965||sprayed with mecoprop/2,4-D (Methoxcne extra at 6 pints in 40 gals)
+Woburn Ley Arable|1965| barley|1-Sept-1964||combine rervested
+Woburn Ley Arable|1966| ley 1st year|14-Sept-1965||Ground chalk applied at 35 cwt
+Woburn Ley Arable|1966| ley 1st year|27-Sept-1965||ploughed
+Woburn Ley Arable|1966| ley 1st year|22-Mar-1966||fertilizers applied
+Woburn Ley Arable|1966| ley 1st year|29-Mar-1966||seed sown at 40 lb
+Woburn Ley Arable|1966| ley 1st year|5-July-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 1st year|22-June-1966|2h-Oct-1965|grazed 12 circuits
+Woburn Ley Arable|1966| ley 2nd year|17-Mar-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 2nd year|17-June-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 2nd year|5-Aug-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 2nd year|4-May-1966|1-Nov-1965|grazed 10 circuits
+Woburn Ley Arable|1966| ley 3rd year|17-Mar-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 3rd year|7-June-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 3rd year|5-Aug-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 3rd year|13-Apr-1966|16-Oct-1965|grazed 11 circuits
+Woburn Ley Arable|1966| sainfoin 3rd year|14-Sept-1965||und chalk applied at 35 cwt
+Woburn Ley Arable|1966| sainfoin 3rd year|27-Sept-1965||ploughed
+Woburn Ley Arable|1966| sainfoin 3rd year|22-Mar-1966||fertilizers applied
+Woburn Ley Arable|1966| sainfoin 3rd year|10-May-1966||seed drilled at 60 lb
+Woburn Ley Arable|1966| sainfoin 3rd year|None||cut ae
+Woburn Ley Arable|1966| ley 1st year|14-Sept-1965||Ground chalk applied at 35 cwt
+Woburn Ley Arable|1966| ley 1st year|27-Sept-1965||ploughed
+Woburn Ley Arable|1966| ley 1st year|22-Mar-1966||fertilizers applied
+Woburn Ley Arable|1966| ley 1st year|29-Mar-1966||seed sown at 40 lb
+Woburn Ley Arable|1966| ley 1st year|5-July-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 1st year|22-June-1966|2h-Oct-1965|grazed 12 circuits
+Woburn Ley Arable|1966| ley 2nd year|17-Mar-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 2nd year|17-June-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 2nd year|5-Aug-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 2nd year|4-May-1966|1-Nov-1965|grazed 10 circuits
+Woburn Ley Arable|1966| ley 3rd year|17-Mar-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 3rd year|7-June-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 3rd year|5-Aug-1966||NK fertilizers applied
+Woburn Ley Arable|1966| ley 3rd year|13-Apr-1966|16-Oct-1965|grazed 11 circuits
+Woburn Ley Arable|1966| sainfoin 3rd year|11-Oct-1965||sprayed with MCPA at 2.5 lb &,e. in lO gals
+Woburn Ley Arable|1966| sainfoin 3rd year|14-Feb-1966||sprayed with paraquat at 1 1b ion in 4O gals
+Woburn Ley Arable|1966| sainfoin 3rd year|10-May-1966||PK fertilizers applied: » 2. Re-drilled at 60 1b
+Woburn Ley Arable|1966| sainfoin 3rd year|15-Aug-1966||cut twice
+Woburn Ley Arable|1966| sainfoin 3rd year|2h-Oct-1965||cut twice
+Woburn Ley Arable|1966| sainfoin 2nd year|14-Feb-1966||sprayed with paraquat at 1 1b ion in hO gels
+Woburn Ley Arable|1966| sainfoin 2nd year|13-Apr-1966||K fertilizers applied
+Woburn Ley Arable|1966| sainfoin 2nd year|10-June-1966||sprayed with paraquat at 1 lb ion in 35 gals
+Woburn Ley Arable|1966| sainfoin 2nd year|8-June-1966||cut three times
+Woburn Ley Arable|1966| sainfoin 2nd year|15-Aug-1966||cut three times
+Woburn Ley Arable|1966| sainfoin 2nd year|2h-Oct-1965||cut three times
+Woburn Ley Arable|1966| carrots|21-Oct-1965||ploughed
+Woburn Ley Arable|1966| carrots|2-May-1966||fertilizers applied
+Woburn Ley Arable|1966| carrots|10-May-1966||seed drilled at 5.1 lb
+Woburn Ley Arable|1966| carrots|11-May-1966||sprayed with linuron at lb in 35 gals
+Woburn Ley Arable|1966| carrots|16-June-1966||sprayed with menazon saphicol at 0.5 pints in k7 gals)
+Woburn Ley Arable|1966| carrots|15-July-1966||sprayed with menazon saphicol at 0.5 pints in k7 gals)
+Woburn Ley Arable|1966| carrots|29-June-1966||saphicol at 0.5 pints in 50 gals)
+Woburn Ley Arable|1966| carrots|29-Sept-1965||Lifted
+Woburn Ley Arable|1966| carrots|None||test crops
+Woburn Ley Arable|1966| potatoes|1h-Sept-1965||Ground chalk applied at 35 cwt
+Woburn Ley Arable|1966| potatoes|27-Sept-1965||ploughed
+Woburn Ley Arable|1966| potatoes|23-Mar-1966||fertilizers applied
+Woburn Ley Arable|1966| potatoes|29-Mar-1966||rotary cultivated and machine planted
+Woburn Ley Arable|1966| potatoes|B-June-1966||^ earthed up
+Woburn Ley Arable|1966| potatoes|29-June-1966||sprayed with Mancozeb at 1,2 1b in 33 gals
+Woburn Ley Arable|1966| potatoes|15-July-1966||sprayed with Mancozeb at 1,2 1b in 33 gals
+Woburn Ley Arable|1966| potatoes|4h-Aug-1966||sprayed with Mancozeb at 1,2 1b in 33 gals
+Woburn Ley Arable|1966| potatoes|3-Sept-1965||Haulm mechanically destroyed
+Woburn Ley Arable|1966| potatoes|5-Sept-1965||Lifted
+Woburn Ley Arable|1966| rye|31-Mar-1966||ds nay: seeds undersown in rye at 30 lb
+Woburn Ley Arable|1966| rye|17-Mar-1966||'Nitro- Cnalk',, PK compound applied
+Woburn Ley Arable|1966| rye|2-June-1966||NK fertilizers applied
+Woburn Ley Arable|1966| rye|26-May-1966||cut twice
+Woburn Ley Arable|1966| rye|13-July-1966||cut twice
+Woburn Ley Arable|1966| sugar beet|10-Jan-1966|26-Jan-1966|Dung equivalent K, half corrective K, dung applied, ploughed
+Woburn Ley Arable|1966| sugar beet|7-Feb-1966||Remaining corrective K, basal Muriate of potash,, half basal superphosphate applied
+Woburn Ley Arable|1966| sugar beet|25-Mar-1966||Remaining basal superphosphate, basal magnesium sulphate,, test Nitro-chalk', Muriate of potash applied
+Woburn Ley Arable|1966| sugar beet|l-Apr-1966||seed drilled at 9 lb
+Woburn Ley Arable|1966| sugar beet|23-May-1966||singled
+Woburn Ley Arable|1966| sugar beet|14-June-1966||sprayed demeton methyl at 12 fluid oz in 33 gals
+Woburn Ley Arable|1966| sugar beet|12-Oct-1965||Lifted
+Woburn Ley Arable|1966| barley|14-Dec-1965||Ground chalk applied at 35 cwt
+Woburn Ley Arable|1966| barley|7-Jan-1966||ploughed
+Woburn Ley Arable|1966| barley|9-Mar-1966||Balancing Muriate of potash, basal superphosphate, Nitro-chalk' applied, seed drilled at 140 1b
+Woburn Ley Arable|1966| barley|11-May-1966||sprayed with mecoprop/2,4-D (Methoxone extra at 6 pints in 35 gals)
+Woburn Ley Arable|1966| barley|18-Aug-1966||combine harvested
+Woburn Ley Arable|1966| barley|None||was applied in error to block 2 1st year treatment as well as to block 1 (Barley 1966). Erratum to 'Results' 1965 ps 65/2/h.1. three K equivalent of dung for plots not receiving dung was 3.3 cwt K20 as Muriate of potash, not 3.7 cwt K20 as stated
+Woburn Ley Arable|1967| ley 1st year|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| ley 1st year|23-Mar-1967||fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|31-Mar-1967||seed sown at 40 lb
+Woburn Ley Arable|1967| ley 1st year|17-July-1967||MK fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|26-Aug-1967||MK fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|5-July-1967|23-Oct-1966|grazed 4 circuits
+Woburn Ley Arable|1967| ley 2nd year|10-Mar-1967||NK fertilizers applied to all plots
+Woburn Ley Arable|1967| ley 2nd year|26-Aug-1967||NK fertilizers applied to all plots
+Woburn Ley Arable|1967| ley 2nd year|28-June-1967||NK fertilizers applied to plots 31, 32
+Woburn Ley Arable|1967| ley 2nd year|10-July-1967||and to plots 27, 28
+Woburn Ley Arable|1967| ley 2nd year|18-Apr-1967|11-Oct-1966|grazed 9 circuits
+Woburn Ley Arable|1967| ley 1st year|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| ley 1st year|23-Mar-1967||fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|31-Mar-1967||seed sown at 40 lb
+Woburn Ley Arable|1967| ley 1st year|17-July-1967||MK fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|26-Aug-1967||MK fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|5-July-1967|23-Oct-1966|grazed 4 circuits
+Woburn Ley Arable|1967| ley 2nd year|10-Mar-1967||NK fertilizers applied to all plots
+Woburn Ley Arable|1967| ley 2nd year|26-Aug-1967||NK fertilizers applied to all plots
+Woburn Ley Arable|1967| ley 2nd year|28-June-1967||NK fertilizers applied to plots 31, 32
+Woburn Ley Arable|1967| ley 2nd year|10-July-1967||and to plots 27, 28
+Woburn Ley Arable|1967| ley 2nd year|18-Apr-1967|11-Oct-1966|grazed 9 circuits
+Woburn Ley Arable|1967| ley 2nd year|None||67/3/42
+Woburn Ley Arable|1967| ley 3rd year|10-Mar-1967||NK fertilizers applied
+Woburn Ley Arable|1967| ley 3rd year|20-June-1967||NK fertilizers applied
+Woburn Ley Arable|1967| ley 3rd year|18-Apr-1967|11-Oct-1966|26, grazed 9 circuits
+Woburn Ley Arable|1967| sainfoin 3rd year|6-Feb-1967||sprayed with paraquat at 1 1b ion in 33 gals
+Woburn Ley Arable|1967| sainfoin 3rd year|10-Mar-1967||N, K fertilizers applied
+Woburn Ley Arable|1967| sainfoin 3rd year|13-June-1967||cut twice
+Woburn Ley Arable|1967| sainfoin 3rd year|7-Aug-1967||cut twice
+Woburn Ley Arable|1967| sainfoin 2nd year|6-Feb-1967||sprayed with paraquat at 1 1b ion in 33 gals
+Woburn Ley Arable|1967| sainfoin 2nd year|10-Mar-1967||K fertilizers applied
+Woburn Ley Arable|1967| sainfoin 2nd year|13-June-1967||cut twice
+Woburn Ley Arable|1967| sainfoin 2nd year|7-Aug-1967||cut twice
+Woburn Ley Arable|1967| carrots|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| carrots|16-Nov-1966||Deep-tine cultivated
+Woburn Ley Arable|1967| carrots|3-Apr-1967||fertilizers applied,, seed drilled at 3.5 lb
+Woburn Ley Arable|1967| carrots|31-May-1967||sprayed with linuron at 1 lb in 40 gals
+Woburn Ley Arable|1967| carrots|9-June-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 35 gals)
+Woburn Ley Arable|1967| carrots|20-June-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 35 gals)
+Woburn Ley Arable|1967| carrots|10-July-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 35 gals)
+Woburn Ley Arable|1967| carrots|29-Sept-1966||Lifted
+Woburn Ley Arable|1967| carrots|2-Oct-1966||Lifted
+Woburn Ley Arable|1967| carrots|None||test crops
+Woburn Ley Arable|1967| potatoes|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| potatoes|22-Mar-1967||fertilizers applied, potatoes planted
+Woburn Ley Arable|1967| potatoes|10-May-1967||earthed up
+Woburn Ley Arable|1967| potatoes|23-June-1967||test urea and magnesium sulphate sprayed on by hand
+Woburn Ley Arable|1967| potatoes|1-July-1967||sprayed with Mancozeb at 1,2 lb in 30 gals
+Woburn Ley Arable|1967| potatoes|26-July-1967||sprayed with Mancozeb at 1,2 lb in 30 gals
+Woburn Ley Arable|1967| potatoes|8-Aug-1967||sprayed with Mancozeb at 1,2 lb in 30 gals
+Woburn Ley Arable|1967| potatoes|18-Aug-1967||sprayed with undiluted BOV at 15 gals
+Woburn Ley Arable|1967| potatoes|12-Sept-1966||Harvested
+Woburn Ley Arable|1967| rye|20-Oct-1966||Deep-tine cultivated
+Woburn Ley Arable|1967| rye|26-Oct-1966||seed combine drilled at 150 lb
+Woburn Ley Arable|1967| rye|7-Feb-1967||Crop partially failed,, sprayed with paraquat at 1 lb ion in 33 gals
+Woburn Ley Arable|1967| rye|7-Feb-1967||Crop partially failed,, sprayed with paraquat at 1 lb ion in 33 gals
+Woburn Ley Arable|1967| spring wheat (replacing rye)|4-Mar-1967||Drilled at 170 lb
+Woburn Ley Arable|1967| spring wheat (replacing rye)|20-Mar-1967||Nitro-chalk applied
+Woburn Ley Arable|1967| spring wheat (replacing rye)|22-Aug-1967||combine harvested
+Woburn Ley Arable|1967| seeds hay|26-Apr-1967||seeds undersown in rye at 30 lb
+Woburn Ley Arable|1967| seeds hay|10-Mar-1967||NPK fertilizers applied
+Woburn Ley Arable|1967| seeds hay|5-June-1967||NK fertilizers applied
+Woburn Ley Arable|1967| seeds hay|1l-June-1967||cut twice
+Woburn Ley Arable|1967| seeds hay|21-July-1967||cut twice
+Woburn Ley Arable|1967| sugar beet|28-Oct-1966||Dung equivalent K,, half corrective K applied
+Woburn Ley Arable|1967| sugar beet|2-Nov-1966||Dung applied
+Woburn Ley Arable|1967| sugar beet|2-Nov-1966|3-Nov-1966|ploughed
+Woburn Ley Arable|1967| sugar beet|14-Feb-1967||Remaining corrective K, basal Muriate of potash,, half basal superphosphate applied
+Woburn Ley Arable|1967| sugar beet|29-Mar-1967||Remaining basal superphosphate, basal magnesium sulphate,, test 'Nitro- Chalk’ applied
+Woburn Ley Arable|1967| sugar beet|30-Mar-1967||seed drilled at 5 1b
+Woburn Ley Arable|1967| sugar beet|22-May-1967|23-May-1967|singled
+Woburn Ley Arable|1967| sugar beet|9-June-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 30 gals)
+Woburn Ley Arable|1967| sugar beet|10-July-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 30 gals)
+Woburn Ley Arable|1967| sugar beet|16-Oct-1966||Lifted
+Woburn Ley Arable|1967| ley 1st year|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| ley 1st year|23-Mar-1967||fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|31-Mar-1967||seed sown at 40 lb
+Woburn Ley Arable|1967| ley 1st year|17-July-1967||MK fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|26-Aug-1967||MK fertilizers applied
+Woburn Ley Arable|1967| ley 1st year|5-July-1967|23-Oct-1966|grazed 4 circuits
+Woburn Ley Arable|1967| ley 2nd year|10-Mar-1967||NK fertilizers applied to all plots
+Woburn Ley Arable|1967| ley 2nd year|26-Aug-1967||NK fertilizers applied to all plots
+Woburn Ley Arable|1967| ley 2nd year|28-June-1967||NK fertilizers applied to plots 31, 32
+Woburn Ley Arable|1967| ley 2nd year|10-July-1967||and to plots 27, 28
+Woburn Ley Arable|1967| ley 2nd year|18-Apr-1967|11-Oct-1966|grazed 9 circuits
+Woburn Ley Arable|1967| ley 2nd year|None||67/3/42
+Woburn Ley Arable|1967| ley 3rd year|10-Mar-1967||NK fertilizers applied
+Woburn Ley Arable|1967| ley 3rd year|20-June-1967||NK fertilizers applied
+Woburn Ley Arable|1967| ley 3rd year|18-Apr-1967|11-Oct-1966|26, grazed 9 circuits
+Woburn Ley Arable|1967| sainfoin 3rd year|6-Feb-1967||sprayed with paraquat at 1 1b ion in 33 gals
+Woburn Ley Arable|1967| sainfoin 3rd year|10-Mar-1967||N, K fertilizers applied
+Woburn Ley Arable|1967| sainfoin 3rd year|13-June-1967||cut twice
+Woburn Ley Arable|1967| sainfoin 3rd year|7-Aug-1967||cut twice
+Woburn Ley Arable|1967| sainfoin 2nd year|6-Feb-1967||sprayed with paraquat at 1 1b ion in 33 gals
+Woburn Ley Arable|1967| sainfoin 2nd year|10-Mar-1967||K fertilizers applied
+Woburn Ley Arable|1967| sainfoin 2nd year|13-June-1967||cut twice
+Woburn Ley Arable|1967| sainfoin 2nd year|7-Aug-1967||cut twice
+Woburn Ley Arable|1967| carrots|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| carrots|16-Nov-1966||Deep-tine cultivated
+Woburn Ley Arable|1967| carrots|3-Apr-1967||fertilizers applied,, seed drilled at 3.5 lb
+Woburn Ley Arable|1967| carrots|31-May-1967||sprayed with linuron at 1 lb in 40 gals
+Woburn Ley Arable|1967| carrots|9-June-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 35 gals)
+Woburn Ley Arable|1967| carrots|20-June-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 35 gals)
+Woburn Ley Arable|1967| carrots|10-July-1967||sprayed with demeton-s-methyl (Metasystox at 12 fluid oz in 35 gals)
+Woburn Ley Arable|1967| carrots|29-Sept-1966||Lifted
+Woburn Ley Arable|1967| carrots|2-Oct-1966||Lifted
+Woburn Ley Arable|1967| carrots|None||test crops
+Woburn Ley Arable|1967| potatoes|29-Sept-1966||ploughed
+Woburn Ley Arable|1967| potatoes|22-Mar-1967||fertilizers applied, potatoes planted
+Woburn Ley Arable|1967| potatoes|10-May-1967||earthed up
+Woburn Ley Arable|1967| potatoes|23-June-1967||test urea and magnesium sulphate sprayed on by hand
+Woburn Ley Arable|1967| potatoes|1-July-1967||sprayed with Mancozeb at 1,2 lb in 30 gals
+Woburn Ley Arable|1967| potatoes|26-July-1967||sprayed with Mancozeb at 1,2 lb in 30 gals
+Woburn Ley Arable|1967| potatoes|8-Aug-1967||sprayed with Mancozeb at 1,2 lb in 30 gals
+Woburn Ley Arable|1967| potatoes|18-Aug-1967||sprayed with undiluted BOV at 15 gals
+Woburn Ley Arable|1967| potatoes|12-Sept-1966||Harvested
+Woburn Ley Arable|1967| rye|20-Oct-1966||Deep-tine cultivated
+Woburn Ley Arable|1967| rye|26-Oct-1966||seed combine drilled at 150 lb
+Woburn Ley Arable|1967| rye|7-Feb-1967||Crop partially failed,, sprayed with paraquat at 1 lb ion in 33 gals
+Woburn Ley Arable|1967| rye|7-Feb-1967||Crop partially failed,, sprayed with paraquat at 1 lb ion in 33 gals
+Woburn Ley Arable|1967| spring wheat (replacing rye)|4-Mar-1967||Drilled at 170 lb
+Woburn Ley Arable|1967| spring wheat (replacing rye)|20-Mar-1967||Nitro-chalk applied
+Woburn Ley Arable|1967| spring wheat (replacing rye)|22-Aug-1967||combine harvested
+Woburn Ley Arable|1967| seeds hay|26-Apr-1967||seeds undersown in rye at 30 lb
+Woburn Ley Arable|1967| seeds hay|10-Mar-1967||NPK fertilizers applied
+Woburn Ley Arable|1967| seeds hay|5-June-1967||NK fertilizers applied
+Woburn Ley Arable|1967| seeds hay|1l-June-1967||cut twice
+Woburn Ley Arable|1967| seeds hay|21-July-1967||cut twice
+Woburn Ley Arable|1967| sugar beet|None||1/8 plot: Roots: 0.878 or 4.7% (9 4.f.) Total sugar 2.63 or 4.5% (9 4.f.) Tops: 1,109 or 7.2% (9 4.f.)
+Woburn Ley Arable|1967| barley|None||grazing Whole plot: 1.34 or 3.1% (4 af.) 1/2 plot: 1.91 or 4.5% (4 a.f.)
