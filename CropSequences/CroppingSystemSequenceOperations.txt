@@ -1,0 +1,284 @@
+R/BEW/1|1995||26-Sep-1994||ploughed and furrow pressed. )|:
+R/BEW/1|1995||21-Oct-1994||spring cultivated, Punch, recleaned, drilled at 25 seed per m,|B
+R/BEW/1|1995||07-Feb-1995|PHRROMON P, PI1, PI2, PI3| Pheromone applied.|T
+R/BEW/1|1995||04-Apr-1995||Bombardier at 2.0 1 in 200 1.|B
+R/BEW/1|1995||06-Apr-1995|PHEROMON PIl, PI2, PI3| Dec at 300 ml in 200 1.|T
+R/BEW/1|1995||19-Apr-1995|PHEROMON PI2, PI3| Dec at 300 ml in 200 1.|T
+R/BEW/1|1995||05-May-1995|PHEROMON PI3| Dec at 300 ml in 200 1.|T
+R/BEW/1|1995||01-Aug-1995|combine harvested. 
+R/BEW/1|1995|||Previous crops| W. wheat 1993, s. wheat 1994. 
+R/BEW/1|1995|||note|(1) Prom Apr pheromones were applied from dispensers placed at the plot centres. 
+R/BEW/1|1995|||note|(2) Assessments of adult feeding damage were made between February and May. 125|B
+R/BEW/3|1994||29-Oct-1993||Punch broadcast at 25 seed per m^, ploughed, spring- tine cultivated.|B
+R/BEW/3|1994||31-Jan-1994||Carbetamex at 3.0 kg in 200 1.|B
+R/BEW/3|1994||21-Apr-1994|TREATMNT PI-2, PI-3| Dec at 7.5 g in 200 1.|T
+R/BEW/3|1994||06-May-1994||Bombardier at 1.5 1 with Ronilan FL at 0.5 1 in 300 1.|B
+R/BEW/3|1994||19-May-1994|TREATMNT PI-1, PI-3| Dec at 7.5 g in 200 1.|T
+R/BEW/3|1994||18-Aug-1994||combine harvested. 
+R/BEW/3|1994|||Previous crops|W rape 1992, wheat 1993. 
+R/BEW/3|1994|||note|(1) From late February, pheromone was released from a pints source, which was hung BOV the crop at the plot centre. 
+R/BEW/3|1994|||note|(2) Assessments of damage to leaves by adult weevils were made dressing March and Apr. 135|T
+R/BW/1|1992||14-Aug-1991||PK as (0:16:36) at 1040 kg.|B
+R/BW/1|1992||21-Aug-1991|COMPCROP WCLOVER: rotary cultivated with Bomford Dynadrive, new Zealand Winter clover broadcast at 20 kg.|T
+R/BW/1|1992||09-Sep-1991||ploughed and furrow pressed.|B
+R/BW/1|1992||12-Sep-1991||Rolled.|B
+R/BW/1|1992||18-Sep-1991||rotary harrowed.|B
+R/BW/1|1992||18-Sep-1991|COMPCROP WMUSTL|White mustard (cv. Tilney) broadcast at 1.5 kg.
+R/BW/1|1992||18-Sep-1991|COMPCROP WMUSTM|White mustard (cv. Tilney) broadcast at 3.0 kg.
+R/BW/1|1992||18-Sep-1991|COMPCROP OILRADSH|Oil radish (cv. Trick) broadcast at 1.5 kg.|T
+R/BW/1|1992||18-Sep-1991||rotary harrowed, Magie drilled at 140 kg, rolled.|B
+R/BW/1|1992||06-Mar-1992||34.5% N at 120 kg.|B
+R/BW/1|1992||02-Apr-1992||34.58 N at 340 kg.|B
+R/BW/1|1992||19-Apr-1992||Duplosan new System CMPP at 2.0 1l and Vindex at 1.4 1l in 200 1.|B
+R/BW/1|1992||03-May-1992||Calixin at 0.50 1l and Radar at 0.50 1 in 260 1.|B
+R/BW/1|1992||23-Jul-1992||combine harvested. 
+R/BW/1|1992|||Previous crops|W. barley 1990 and 1991. 
+R/BW/1|1992|||note|(1) Plant samples were taken in December for growth analysis.
+R/BW/1|1992|||note|(2) Subsequently in December severe frosts killed all the companion crops. 112|B
+R/BW/1|1993||29-Aug-1992||Straw barley. ;|B
+R/BW/1|1993||16-Sep-1992||Scythe at 2.0 1 with Farmon Blue at 0.20 1 in 200 1.|B
+R/BW/1|1993||21-Sep-1992||ploughed, furrow pressed. 9. :|B
+R/BW/1|1993||28-Sep-1992||rotary harrowed.|B
+R/BW/1|1993||01-Oct-1992||Puffin, dressed Cerevax, drilled at 350 seed per square . metre.
+R/BW/1|1993||01-Oct-1992|COMPCROP MUST 1.5| White mustard (cv. Tilney) broadcast at 1.5 kg.
+R/BW/1|1993||01-Oct-1992|COMPCROP MUST 3.0| White mustard (cv. Tilney) broadcast at 3.0 kg. 
+R/BW/1|1993||01-Oct-1992|COMPCROP MUST 6.0| White mustard (cv. Tilney) broadcast at 6.0 kg. 
+R/BW/1|1993||01-Oct-1992|COMPCROP RADISH| Oil radish (cv. Trick) broadcast at 3.0 kg.|B
+R/BW/1|1993||08-Mar-1993||34.5% N at 120 kg. ]|B
+R/BW/1|1993||15-Apr-1993||Tigress at 2.5 1 in 200 1.|B
+R/BW/1|1993||21-Apr-1993||Ally at 30 g and Starane 2 at 1.0 1 in 200 1.|B
+R/BW/1|1993||18-May-1993||Calirus at 2.0 1 and Corbel at 0.50 1 in 200 1.|B
+R/BW/1|1993||02-Aug-1993||combine harvested. 
+R/BW/1|1993|||Previous crops|potatoes 1991, w. wheat 1992. 
+R/BW/1|1993|||note|Plant samples were taken in December and April for dry weight, plant population and nitrogen uptake measurements, and in July to measure ear numbers, dry weights, nitrogen uptake and thousand grain weights. 116|B
+R/BW/1|1994||10-Aug-1993|CROP MC|shallow cultivated twice with Bomford Dynadrive, Thorney White mustard broadcast by and at 20 kg.|T
+R/BW/1|1994||09-Sep-1993||ploughed.|B
+R/BW/1|1994||22-Sep-1993||rotary harrowed, Puffin, dressed Cerevax extra, drilled at 350 seed per m".
+R/BW/1|1994||22-Sep-1993|CROP M1, M2, M3|Thorney White mustard broadcast by and at 1.5 kg, 3.0 and 6.0 kg respectively.
+R/BW/1|1994||22-Sep-1993|CROP R1| Trick oil radish broadcast at 3.0 kg.|B
+R/BW/1|1994||28-Oct-1993||Draza at 5.5 kg.|B
+R/BW/1|1994||08-Mar-1994||34.5% N at 87 kg.|B
+R/BW/1|1994||14-Apr-1994||34.5% N at 435 kg.|B
+R/BW/1|1994||09-May-1994||Starane 2 at 0.75 1 with Tigress at 2.5 1 in 200 1.|B
+R/BW/1|1994||31-May-1994||Mistral at 0.5 1 with Radar at 0.5 1 .in 200 1.|B
+R/BW/1|1994||26-Jul-1994||combine harvested. 
+R/BW/1|1994|||Previous crops|W. barley 1992 and 1993. 
+R/BW/1|1994|||note| (1) Previous w. barley was combine harvested on 3 August, 1993 and the straw was removed on § August. 
+R/BW/1|1994|||note|(2) Plant Cultivations, dry weights and nutrient uptakes of both the w. barley and the cover crops were started in January and April.
+R/CS/380|1992||15-Aug-1991||Straw barley.|B
+R/CS/380|1992||21-Aug-1991||Dolomite at 5.0 t.
+R/CS/380|1992||21-Aug-1991|LAND TRT FO RA SB, RYE SB, TUMDN SB|shallow cultivated twice with Bomford Dynadrive.
+R/CS/380|1992||21-Aug-1991|LAND TRT FO RA SB| Giant broadcast at 30 kg.
+R/CS/380|1992||21-Aug-1991|LAND TRT RYE SB|Halo broadcast at 180 kg.
+R/CS/380|1992||21-Aug-1991|LAND TRT TUMDN SB| S. barley (cv. Alexis) broadcast at 50 kg.
+R/CS/380|1992||21-Aug-1991|LAND TRT FO RA SB, RYE SB, TUMDN SB| Harrowed and rolled.|B
+R/CS/380|1992||12-Sep-1991|LAND TRT FO RA SB| Fusilade 5 at 1.0 1 with Vassgro Spreader at 0.22 1 in 220 1.|T
+R/CS/380|1992||13-Sep-1991|EXTRA W barley|ploughed.
+R/CS/380|1992||13-Sep-1991|extra W barley|rotary harrowed twice. 
+R/CS/380|1992||13-Sep-1991|extra W barley| rotary harrowed, Magie drilled at 144 kg, rolled.|T
+R/CS/380|1992||19-Sep-1991|LARD TRT FALLOWSB| ploughed and heavy spring cultivated.|T
+R/CS/380|1992||25-Sep-1991|LAND TRT FALLOWSB| Rolled.|T
+R/CS/380|1992||14-Nov-1991|LAND TRT FO RA SB| Pilot at 0.075 1 with Actipron at 2.0 1 in 220 1.|T
+R/CS/380|1992||03-Dec-1991|LAND TRT FALLOWSB| Gramoxone 100 at 3.0 1 in 220 1. 
+R/CS/380|1992||03-Dec-1991|extra W barley|Stefes IPU at 2.5 1l and Stomp 400 at 3.3 1 in 220 1.|T
+R/CS/380|1992||03-Mar-1992|LAND TRT FO RA SB, RYE SB, TUMDN SB, FALLOWSB| ploughed.|T
+R/CS/380|1992||06-Mar-1992|LAND TRT FO RA SB, RYE SB, TUMDN SB, FALLOWSB| rotary harrowed. Alexis, dressed Baytan, drilled at 146 kg.|T
+R/CS/380|1992||09-Mar-1992||Rolled|B
+R/CS/380|1992||24-Apr-1992|N 75| 27% N at 278 kg. 
+R/CS/380|1992||24-Apr-1992|N extra 150| as 27% N at 556 kg.|T
+R/CS/380|1992||22-May-1992|LAND TRT FO RA SB, RYE SB, TUMDN SB, FALLOWSB|Duplosan new System CMPP at 2.0 1, Vindex at 1.0 1 and Calixín at 0.70 1 in 220 1.|T
+R/CS/380|1992||30-Jul-1992||Hand harvested. 
+R/CS/380|1992|||Previous crops|W. barley 1990, s. barley 1991. 
+R/CS/380|1992|||note| Main plots were labelled with 15N in autumn 1991. Recovery of 1SN by each level of LAND TRT, extra W barley and the subsequent s. barley was measured. 93|B
+R/CS/380|1993||18-Aug-1992||Straw barley.|B
+R/CS/380|1993||16-Sep-1992||ploughed, furrow pressed.
+R/CS/380|1993||16-Sep-1992||Scythe at 2.0 1 with Parmon Blue at 0.20 1 in 200 1.|B
+R/CS/380|1993||17-Sep-1992||rotary harrowed, Puffin, dressed Cerevax, drilled at 380 seed per square metre.|B
+R/CS/380|1993||15-Apr-1993||34.5% N at 370 kg.|B
+R/CS/380|1993||10-May-1993||Ally at 30 g and Starane 2 at 1.0 1 in 200 1.|B
+R/CS/380|1993||20-Jul-1993||Harvested by hand. 
+R/CS/380|1993|||note| (1) Plots were labelled with 15N in autumn 1991. Samples of soil, soil Winter and w. barley were taken to measure residual 15N. ’ 
+R/CS/380|1993|||note|(2) Yields were taken on N RES[92] (75) and M extra] (150) plots only. 
+R/CS/399|1993||20-Aug-1992|LAND TRT FO RA SB, RYE SB, TUMBDN SB|shallow cultivated with Bomford Dynadrive.|T
+R/CS/399|1993||21-Aug-1992|LAND TRT FO RA SB| Forage rape broadcast at 30 kg.
+R/CS/399|1993||21-Aug-1992|LAND TRT RYE SB| Amando broadcast at 180 kg.
+R/CS/399|1993||21-Aug-1992|LAND TRT TUMBDN SB| S, barley (cv Alexis) broadcast at 50 kg.
+R/CS/399|1993||21-Aug-1992|LAND TRT FO RA SB, RYE SB, TUMBDN SB|Rolled.|T
+R/CS/399|1993||10-Sep-1992|LAND TRT fallowSB|ploughed.
+R/CS/399|1993||10-Sep-1992|extra W barley| ploughed.|T
+R/CS/399|1993||11-Sep-1992|extra W barley| disced, rotary harrowed twice, Puffin, dressed Cerevax, drilled at 380 seed per square metre.|T
+R/CS/399|1993||16-Sep-1992|LAND TRT fallowsb| Rolled. 
+R/CS/399|1993||16-Sep-1992|extra W barley| Rolled.|T
+R/CS/399|1993||19-Oct-1992|LAND TRT FO RA SB| Pilot at 75 ml with Cropspray 11E at 2.0 1 in 200 1.|T
+R/CS/399|1993||05-Mar-1993|LAND TRT fallowsb, FO RA SB, Rye SB, TUMBDN SB| ploughed.|T
+R/CS/399|1993||08-Mar-1993|LAND TRT fallowsb, FO RA SB, Rye SB, TUMBDN SB| rotary harrowed twice, Alexis, dressed Cerevax extra, drilled at 350 seed per square metre. 
+R/CS/399|1993||l4-Apr-1993|N extra 150| 27% N at 556 kg.|T
+R/CS/399|1993||06-May-1993|N 75| 27% N at 278 kg.|T
+R/CS/399|1993||10-May-1993||Ally at 30 g and Starane 2 at 1.0 1 in 200 1.|B
+R/CS/399|1993||13-Aug-1993||combine harvested. 
+R/CS/399|1993|||Previous crops|S. barley 1991 and 1992. 
+R/CS/399|1993|||note| Plots were labelled with 15N in autumn. Crop, soil and soil Winter samples were taken for N analysis at various times dressing the season. 103|B
+R/CS/399|1994||13-Sep-1993||ploughed.|B
+R/CS/399|1994||08-Oct-1993||rotary harrowed, Puffin, dressed Cerevax extra, drilled at 350 seed per m.|B
+R/CS/399|1994||12-Nov-1993||Optimol at 15 kg.|B
+R/CS/399|1994||19-Apr-1994||34.5% N at 346 kg. .|B
+R/CS/399|1994||19-Apr-1994||Briotril Plus 19/19 at 2.0 1 with Hytane 500 SC at 2.0 1 in 200 1.|B
+R/CS/399|1994||06-May-1994||Radar at 0.5 1 with Standon Tridemorph 750 at 0.5 1 in 200 1.|B
+R/CS/399|1994||31-May-1994||Mistral at 0.5 1 with Radar at 0.5 1 in 200 1.|B
+R/CS/399|1994||25-Jul-1994||combine harvested. 
+R/CS/399|1994|||note| Soil Winter samples were taken for N analysis dressing the Winter. Soil and crop samples were taken for N analysis dressing the summer. 
+R/CS/420|1995||24-May-1994|SETDESTR (HP)| glyphosate at 4.0 1 in 200 1. !|T
+R/CS/420|1995||27-May-1994|SETDESTR (PG), (PC), (MP), (-P)| topped.|T
+R/CS/420|1995||03-Jun-1994|SETDESTR (MP)| Heavy spring cultivated to 10 cm. 
+R/CS/420|1995||03-Jun-1994|SETDESTR (PG), (PC)| ploughed.|T
+R/CS/420|1995||05-Jul-1994|SETDESTR (MP), (-P)| topped.|T
+R/CS/420|1995||06-Jul-1994|SETDESTR (PC)| Heavy spring cultivated.|T
+R/CS/420|1995||19-Jul-1994||PK as (0:20:32) at 1406 kg. 
+R/CS/420|1995||22-Jul-1994|SETDESTR (-P)| topped.|T
+R/CS/420|1995||01-Aug-1994|SETDESTR (PC)| Heavy spring cultivated. 
+R/CS/420|1995||01-Aug-1994|SETDESTR (MP), (HP), (-P)| topped.|T
+R/CS/420|1995||12-Aug-1994|SETDESTR (MP), (HP), (-P)| ploughed.
+R/CS/420|1995||26-Aug-1994|CROP R| cultivated by rotary grubber (one block only). 
+R/CS/420|1995||26-Aug-1994|CROP R| spring cultivated.
+R/CS/420|1995||26-Aug-1994|CROP KR| rotary harrowed, Apex, dressed Lindex-Plus FS, drilled at 120 seed per mi.|T
+R/CS/420|1995||27-Sep-1994|SETDESTR (PG), CROP W| spring CT at 2.0 1 in 200 1.|T
+R/CS/420|1995||28-Sep-1994|CROP W| spring cultivated. 
+R/CS/420|1995||28-Sep-1994|CROP W| rotary harrowed, Genesis, dressed Rappor, drilled at 380 seed per m.|T
+R/CS/420|1995||29-Sep-1994||Draza at 5.5 kg.|B
+R/CS/420|1995||02-Nov-1994|CROP R| Butisan S at 2.5 1 with Laser at 1.0 1 and Atlas Adjuvant Oil at 2.4 1 in 260 1.|T
+R/CS/420|1995||21-Nov-1994|CROP W| Auger at 2.5 1 with Stomp 400 at 2.5 1 and Dec at 200 ml in 200 1.|T
+R/CS/420|1995||07-Feb-1995|CROP W| Birlane 24 at 2.8 1 in 200 1.|T
+R/CS/420|1995||23-Feb-1995|CROP R, NITROGEN N| 34.5% N at 174 kg.|T
+R/CS/420|1995||13-Mar-1995|CROP W, NITROGEN N| 34.5% N at 118 kg.|T
+R/CS/420|1995||30-Mar-1995|CROP R, NITROGEN N: 34.5% N at 290 kg.|T
+R/CS/420|1995||11-Apr-1995|CROP R| Barclay Eyetak at 1.1 1 in 200 1.|T
+R/CS/420|1995||12-Apr-1995|CROP W, NITROGEN N| 34.5% N at 348 kg.|T
+R/CS/420|1995||03-May-1995|CROP W| Starane 2 at 0.75 1 with Halo at 2.0 1 in 200 1.|T
+R/CS/420|1995||20-Jun-1995|CROP W| Silvacur at 1.0 1 in 200 1.|T
+R/CS/420|1995||12-Jul-1995|CROP R| Reglone at 3.0 1 with Vassgro Spreader at 400 ml in 400 1.|T
+R/CS/420|1995||18-Jul-1995|CROP R| combine harvested.|T
+R/CS/420|1995||02-Aug-1995|CROP W| combine harvested. 
+R/CS/420|1995||note|(1) Treatment SETDESTR (PG) - glyphosate pre-drilling' was not applied to the plots going into rape. 
+R/CS/420|1995||note|(2) Straw was cropped in August 1993 at the started of the set-aside ear. 
+R/CS/420|1995||note|(3) Soil and plant samples were taken in November and March for nitrogen content. Weed counts were made in November and March. Samples to assess root and stem base diseases in wheat were taken in April and June. Grain quality was assessed. 
+R/CS/420|1996||13-Sep-1995||ploughed and furrow pressed.|B
+R/CS/420|1996||30-Sep-1995||rotary harrowed, Genesis, dressed Sibutol, drilled at 380 seed per m’.|B
+R/CS/420|1996||11-Mar-1996||34.5% N at 116 kg.|B
+R/CS/420|1996||11-Apr-1996||34.5% N at 463 kg.|B
+R/CS/420|1996||30-Apr-1996||Starane 2 at 1.0 1 with barley Holdup at 2.3 1 in 200 1.|B
+R/CS/420|1996||13-Jun-1996||Alto 100 SL at 0.6 1 with Mallard 750 EC at 0.4 1 in 300 1. 85|B
+R/CS/420|1996||09-Jul-1996||Wild oats pulled by and.|B
+R/CS/420|1996||06-Aug-1996||combine harvested. 
+R/CS/420|1996|||note| Samples were taken in July to assess root and stem base diseases. 
+R/CS/437|1996||15-May-1995|SETDESTR (MP), (-P)| topped.|T
+R/CS/437|1996||16-May-1995|SETDESTR (PG), (PC), (HP)| Roundup Biactive at 4.0 1 in 200 1.|T
+R/CS/437|1996||25-May-1995|SETDESTR (PC), (PC)| ploughed.|T
+R/CS/437|1996||26-May-1995|BETDESTR (MP)| Heavy spring cultivated to 10 cm.|T
+R/CS/437|1996||03-Jul-1995|SETDESTR (PC)| Heavy spring cultivated to 10 cm.|T
+R/CS/437|1996||03-Jul-1995|SETDESTR (MP)| topped, heavy spring cultivated twice.|T
+R/CS/437|1996||31-Jul-1995|SETDESTR (MP), (HP), (-P)| Roundup Biactive at 4.0 1 in 200 1.|T
+R/CS/437|1996||16-Aug-1995||PK as (0:20:32) at 1407 kg.|B
+R/CS/437|1996||22-Aug-1995|SETDESTR (MP), (HP), (-P)|ploughed. 92|T
+R/CS/437|1996||06-Sep-1995|CROP R| rotary harrowed, Apex, dressed Lindex-Plus FS, drilled at 120 seed per m.|T
+R/CS/437|1996||26-Sep-1995|CROP W| rotary harrowed, Genesis, dressed Sibutol, drilled at 380 seed per m'.|T
+R/CS/437|1996||27-Sep-1995||Draza at 5.5 kg.|B
+R/CS/437|1996||05-Oct-1995|CROP R| Butisan S at 1.5 1 with Cyperkill 10 at 250 ml and Agral at 200 ml in 200 1.|T
+R/CS/437|1996||20-Nov-1995|CROP W| Panther at 2.0 1 in 200 1.|T
+R/CS/437|1996||02-Feb-1996|CROP R| Benazalox at 2.3 kg in 200 1. 
+R/CS/437|1996||02-Feb-1996|CROP W| Birlane 24 at 2.8 1 in 200 1.|T
+R/CS/437|1996||28-Feb-1996|CROP R, NITROGEN N| 34.5% N at 174 kg.|T
+R/CS/437|1996||08-Mar-1996|CROP W, NITROGEN N| 34.5% N at 116 kg.|T
+R/CS/437|1996||09-Apr-1996|CROP R, NITROGEN N| 34.5% N at 290 kg.|T
+R/CS/437|1996||11-Apr-1996|CROP W, NITROGEN N| 34.5% N at 348 kg.
+R/CS/437|1996||11-Apr-1996|CROP R| Folicur at 0.5 1 in 300 1.|T
+R/CS/437|1996||25-Apr-1996|CROP R| Dec at 0.5 1 in 200 1.|T
+R/CS/437|1996||30-Apr-1996|CROP W| Starane 2 at 1.0 1 with barley Holdup at 2.3 1 in 200 1.|T
+R/CS/437|1996||13-Jun-1996|CROP W| Alto 100 SL at 0.6 1 with Mallard 750 EC at 0.4 1l in 300 1.|T
+R/CS/437|1996||19-Jul-1996|CROP R| Standon Diquat at 3.0 1 with Vassgro Spreader at 390 ml in 390 1.|T
+R/CS/437|1996||31-Jul-1996|CROP R| combine harvested.|T
+R/CS/437|1996||06-Aug-1996|CROP W| combine harvested. 
+R/CS/437|1996|||note| Soil and plant samples were taken in November and March for nitrogen content. Weed counts were made in November and March. Wheat was sampled in April and July to assess root and stem base diseases. grain quality was assessed at harvest. 93|T
+R/CS/437|1997||23-Aug-1996||ploughed and furrow pressed.|B
+R/CS/437|1997||10-Oct-1996||Roundup at 4.0 1 in 200 1. 
+R/CS/437|1997||16-Oct-1996||spring cultivated. rotary harrowed, Genesis dressed Sibutol, drilled at 380 seed per m*. Rolled.|B
+R/CS/437|1997||27-Jan-1997||Panther at 2.0 1 in 200 1.|B
+R/CS/437|1997||10-Mar-1997||34.5% N at 118 kg.|B
+R/CS/437|1997||01-Apr-1997||34.5% N at 320 kg.|B
+R/CS/437|1997||26-May-1997||Folicur at 0.5 1 with Winter at 0.5 1 in 300 1.|B
+R/CS/437|1997||11-Aug-1997||combine harvested. 79|B
+W/CS/381|1992||19-Aug-1991|LANDTRT FO RA LN, RYE LN and TUMBDN LN and extra|disced harrowed to 5 cm depth.
+W/CS/381|1992||19-Aug-1991|LANDTRT FO RA LN and extra EX PR LN| Ember drilled at 30 kg. 
+W/CS/381|1992||19-Aug-1991|LANDTRT autumn LN and extra EX TD LN| Magie drilled at 50 kg.
+W/CS/381|1992||19-Aug-1991|LANDTRT Red LN and extra EX RY LN| Amando drilled at 180 kg.|T
+W/CS/381|1992||20-Aug-1991|LANDTRT FO RA LN, Red LN, autumn LN and extra| Harrowed and rolled.|T
+W/CS/381|1992||12-Sep-1991|LANDTRT FO RA LN and fallow LN and extra EX FR LN| Pilot at 0.15 1 in 200 1.|T
+W/CS/381|1992||08-Oct-1991|LANDTRT fallow LN| ploughed.|T
+W/CS/381|1992||01-Apr-1992|extra| Gramoxone 100 at 4.0 1 in 200 1.|T
+W/CS/381|1992||13-Apr-1992|extra| Antares, dressed Prelude 20LF, direct drilled at 52 kg.
+W/CS/381|1992||13-Apr-1992|LANDTRT FO RA LN, Red LN, TUMBDN LN, STUBL LN| ploughed.|T
+W/CS/381|1992||14-Apr-1992|LANDTRT| rotary cultivated with crumbler attached. Antares, dressed Prelude 20LF, drilled at 52 kg.|T
+W/CS/381|1992||22-Apr-1992||Harrowed lightly.|B
+W/CS/381|1992||18-May-1992|N 75|applied as 27% N.|T
+W/CS/381|1992||08-Jun-1992||Ally at 0.03 kg in 200 1.|B
+W/CS/381|1992||29-Aug-1992||Reglone at 3.0 1 with Vassgro Spreader at 0.30 1 in 300 1.|B
+W/CS/381|1992||29-Sep-1992||combine harvested. 
+W/CS/381|1992|||Previous crops| 1990 s. barley, 1991 w. barley. 
+W/CS/381|1992|||note| Plant samples of cover crops were taken for growth analysis in autumn and spring. seed was sampled for growth analysis and disease incidence. 96|B
+W/CS/381|1993||06-Oct-1992||ploughed.|B
+W/CS/381|1993||12-Oct-1992||rotary harrowed, Puffin, dressed Cerevax extra, drilled at 380 seed per square metre.|B
+W/CS/381|1993||15-Mar-1993||34.58 N at 120 kg.|B
+W/CS/381|1993||15-Apr-1993||Ally at 30 g and Deloxil at 1.0 1 in 200 1|B
+W/CS/381|1993||30-Apr-1993||34.5% N at 350 kg. .|B
+W/CS/381|1993||01-Jun-1993||Mistral at 0.5 1 and Bayleton at 0.5 kg in 200 1.|B
+W/CS/381|1993||03-Aug-1993||combine harvested. 
+W/CS/381|1993|||note|Crop samples were taken at harvest to determine ear numbers, thousand grain weights and nitrogen content. 
+W/CS/386|1993||19-Aug-1992|LANDTRT FO RA SB, PHACL SB, RYGRS SB, Red SB, RY+MU SB, autumn SB| cultivated twice to 5 cm with Bomford Dynadrive. 
+W/CS/386|1993||19-Aug-1992|LANDTRT FO RA SB| Ember broadcast at 30 kg.
+W/CS/386|1993||19-Aug-1992|LANDTRT RYGRS SB| Perennial grass broadcast at 25 kg. 
+W/CS/386|1993||19-Aug-1992|LANDTRT PHACL SB| Phacelia broadcast at 30 kg. 
+W/CS/386|1993||19-Aug-1992|LANDTRT RY+MU SB| Rye broadcast at 90 kg and w. mustard broadcast at 15 kg. 
+W/CS/386|1993||19-Aug-1992|LANDTRT RYE SB| Amando broadcast at 180 kg. 
+W/CS/386|1993||19-Aug-1992|LANDTRT TUMDN SB| Beaver broadcast at 50 kg. 
+W/CS/386|1993||19-Aug-1992|LANDTRT MUSTD SB| Winter mustard broadcast at 30 kg.
+W/CS/386|1993||14-Sep-1992|LANDTRT FALLOW| ploughed.
+W/CS/386|1993||14-Sep-1992|EXTRA W BARLEY| ploughed. 
+W/CS/386|1993||14-Sep-1992|LANDTRT FALLOW| rotary harrowed.
+W/CS/386|1993||16-Sep-1992|EXTRA W BARLEY| rotary harrowed, Puffin, dressed Cerevax extra, drilled at 340 seed/m2.
+W/CS/386|1993||10-Mar-1993|LANDTRT| all plots ploughed, rolled.
+W/CS/386|1993||12-Mar-1993|LANDTRT| all plots rotary harrowed, Alexis, dressed Cerevax extra, drilled at 350 seed/m2.
+W/CS/386|1993||06-Apr-1993|N EXTRA 150| 27.5% N applied at 545 kg.
+W/CS/386|1993||08-Apr-1993|N 75| 27.5% N applied at 273 kg.
+W/CS/386|1993||22-Jun-1993|LANDTRT| all plots sprayed Dorin at 1.0 l in 200 l
+W/CS/386|1993||16-Aug-1993|combine harvested. 
+W/CS/386|1993|||NOTE|The tumbledown fallow was given 50kg of seed from the previous w. wheat crop to ensure volunteers.
+W/CS/386|1993|||Previous crops|grass 1991, w. wheat 1992. 
+W/CS/386|1993|||NOTE|In November and March crop samples were taken to measure plant Cultivations, dry weights and nitrogen content. At harvest ear numbers and thousand grain weights were assessed. 
+W/CS/386|1993|||NOTE|In autumn, Winter and spring soil and soil Winter samples were taken for N analysis. 
+W/CS/386|1993|||NOTE|EXTRA W barley plots were not harvested. 100
+W/CS/386|1994||24-Aug-1993||Deep tine cultivated.
+W/CS/386|1994||11-Sep-1993||Dolomite at 7.5 t.
+W/CS/386|1994||15-Sep-1993||ploughed.
+W/CS/386|1994||16-Oct-1993||rotary harrowed, Puffin, dressed Panoctine Plus, drilled at 350 seed/m2
+W/CS/386|1994||14-Apr-1994||34.5% N at 464 kg.
+W/CS/386|1994||01-May-1994||Oxytril CM at 1.5 l with Duplosan New system CMPP at 2.0 l and Punch C at 0.5 l in 200 l
+W/CS/386|1994||29-May-1994||Radar at 0.5 l with Mistral at 0.5 l in 200 l
+W/CS/386|1994||26-Jul-1994||combine harvested. 
+W/M/1|1995||08-Aug-1994|SOWING BC, BOV CROP BW|Puffin broadcast at 180 kg. 
+W/M/1|1995||08-Aug-1994|SOWING BC, BOV CROP FR|Ember broadcast at 30 kg.|T
+W/M/1|1995||15-Aug-1994||wheat combine harvested, straw cropped.|B
+W/M/1|1995||18-Aug-1994|SOWING DC| disced. : T : 
+W/M/1|1995||18-Aug-1994|SOWING RC| rotary cultivated. : T : 
+W/M/1|1995||18-Aug-1994|SOWING DC, RC, DD, BOV CROP BW| Puffin sown at 180 kg. : T : 
+W/M/1|1995||18-Aug-1994|SOWING DC, RC, DD, BOV CROP FR| Ember sown at 30 kg. : PT : 
+W/M/1|1995||18-Aug-1994|SOWING DC, RC, BOV CROP BW, FR| Rolled.|T
+W/M/1|1995||07-Sep-1994||Draza at 5.5 kg.|B
+W/M/1|1995||24-Nov-1994||BOV CROP FR: Draza at 5.5 kg.|T
+W/M/1|1995||08-Apr-1995||ploughed and rolled.|B
+W/M/1|1995||11-Apr-1995||rotary harrowed, Antares, dressed Prelude 20LF, at 600 seed per m’.|B
+W/M/1|1995||13-Apr-1995||Rolled.|B
+W/M/1|1995||05-May-1995|N N2, N extra N2| 27% N at 278 kg.|T
+W/M/1|1995||02-Jun-1995||Ally at 30 g in 200 1. 
+W/M/1|1995||02-Jun-1995||Fastac at 0.10 1 in 300 1.|B
+W/M/1|1995||22-Sep-1995||combine harvested. 
+W/M/1|1995|||Previous crops|S. rape 1993, w. wheat 1994. 
+W/M/1|1995||note|Dry matter, plant numbers and nitrogen content in the cover crops were measured in autumn. Dry matter and nitrogen content was also measured in spring. At harvest dry matter, nitrogen content, harvest index, oil content and thousand grain weights were measured in the seed. 
