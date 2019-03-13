@@ -1,0 +1,152 @@
+R/CS/311|1985|STRAW BURNT|21-Aug-1984||Burnt
+R/CS/311|1985|STRAW BURNT|22-Aug-1984||Ash disced in
+R/CS/311|1985|STRAW BALED|15-Aug-1984||Baled and removed
+R/CS/311|1985|STRAW CHOPPED|17-Aug-1984||Chopped
+R/CS/311|1985|CULTTINE EARLY|24-Aug-1984||heavy springtine cultivated twice 
+R/CS/311|1985|CULTTINE EARLY|27-Aug-1984||disced twice
+R/CS/311|1985|CULTTINE LATER|2-Oct-1984||heavy springtine cultivated twice
+R/CS/311|1985|CULTTINE LATER|2-Oct-1984||disced twice
+R/CS/311|1985|CULTTINE EARLY AUT N|24-Aug-1984||26% N as 50 kg N 
+R/CS/311|1985|CULTTINE LATER AUT N|01-Oct-1984||26% N as 50 kg N
+R/CS/311|1985|FUNGCIDE FULL|17-Apr-1985||Prochloraz at 0.40 kg and Carbendazim at 0.15 kg in 500 l
+R/CS/311|1985|FUNGCIDE FULL|04-Jun-1985||Propiconazole at 0.25 kg in 500 l
+R/CS/311|1985|FUNGCIDE FULL|02-Jul-1985||Propiconazole at 0.12 kg with Carbendazim and maneb (as Septal at 2.5 kg) in 200 l
+R/CS/311|1985|INSECTCDE PIRIMICA|08-Jul-1985||Pirimicarb at 0.14 kg in 500 l
+R/CS/311|1985|All plots|28-Aug-1984||Paraquat applied
+R/CS/311|1985|All plots|11-Oct-1984||rotary harrowed
+R/CS/311|1985|All plots|12-Oct-1984||seed sown
+R/CS/311|1985|All plots|13-Oct-1984||springtine cultivated
+R/CS/311|1985|All plots|28-Feb-1985||First N applied
+R/CS/311|1985|All plots|10-Apr-1985||Remaining weedkillers applied
+R/CS/311|1985|All plots|12-Apr-1985||second N applied
+R/CS/311|1985|All plots|30-Aug-1985||combine harvested
+R/CS/311|1985|Previous crop|||Potaoes 1983, Winter wheat 1984
+R/CS/311|1985|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Components of yield were measured.
+R/CS/311|1986|STRAW BURNT|10-Sep-1985||Burnt
+R/CS/311|1986|STRAW BALED|02-Sep-1985||Baled and removed
+R/CS/311|1986|STRAW CHOPPED|06-Sep-1985||chopped
+R/CS/311|1986|CULTTIME EARLY|17-Sep-1985||cultivated by rotary grubber
+R/CS/311|1986|CULTTIME LATER|09-Oct-1985||cultivated by rotary grubber
+R/CS/311|1986|CULTTIME EARLY AUT N|16-Sep-1985||50 kg N as Nitro-chalk
+R/CS/311|1986|CULTTIME LATER AUT N|09-Oct-1985||50 kg N as Nitro-chalk
+R/CS/311|1986|FUNGCIDE FULL|17-Dec-1985||Triadimefon at 0.125 kg, carbendazim at 0.25 kg in 500 l
+R/CS/311|1986|FUNGCIDE FULL|01-May-1986||Prochloraz at 0.40 kg, carbendazim at 0.15 kg in 200 l
+R/CS/311|1986|FUNGCIDE FULL|13-Jun-1986||Propiconazole at 0.12 kg in 500 l
+R/CS/311|1986|FUNGCIDE FULL|01-Jul-1986||Propiconazole at 0.12 kg with carbendazim, Mancozeb (as Septal at 2.5 kg) ín 200 l
+R/CS/311|1986|INSCTCDE CYP+PIR|13-Nov-1985||Cypermethrin at 0.025 kg in 200 l
+R/CS/311|1986|INSCTCDE CYP+PIR|01-Jul-1986||Pirimicarb at 0.14 kg in 500 l
+R/CS/311|1986|All plots|16-Sep-1985||PK applied
+R/CS/311|1986|All plots|08-Oct-1985||paraquat applied
+R/CS/311|1986|All plots|10-Oct-1985||seed sown
+R/CS/311|1986|All plots|14-Mar-1986||First N applied
+R/CS/311|1986|All plots|27-Apr-1986||second N applied
+R/CS/311|1986|All plots|29-Apr-1986||Weedkillers applied
+R/CS/311|1986|All plots|20-Aug-1986||combine harvested
+R/CS/311|1986|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Ears of volunteers were counted prior to harvest and components of yield were measured.
+R/CS/311|1987|STRAW BURNT|08-Sep-1986||Burnt
+R/CS/311|1987|STRAW BALED|21-Aug-1986||Baled and removed
+R/CS/311|1987|STRAW CHOPPED|21-Aug-1986||chopped
+R/CS/311|1987|CULTTIME EARLY|09-Sep-1986||cultivated by rotary grubber
+R/CS/311|1987|CULTTIME LATER|26-Sept-1986||cultivated by rotary grubber
+R/CS/311|1987|CULTTIME EARLY AUT N|09-Sep-1986||50 kg N as Nitram
+R/CS/311|1987|CULTTIME LATER AUT N|25-Sep-1986||50 kg N as Nitram
+R/CS/311|1987|FUNGCIDE FULL|14-Apr-1987||Triadimefon at 0.125 kg, carbendazim at 0.25 kg in 500 1 on
+R/CS/311|1987|FUNGCIDE FULL|27-Apr-1987||Prochloraz at 0.40 kg, carbendazim at 0.15 kg in 200 1 on
+R/CS/311|1987|FUNGCIDE FULL|28-May-1987||Propiconazole at 0.125 kg in 200 l
+R/CS/311|1987|FUNGCIDE FULL|23-Jun-1987||Propiconazole at 0.125 kg with carbendazim at 0.25 kg and Mancozeb at 1.5 kg in 200 l
+R/CS/311|1987|INSECTCDE PIR|23-Jun-1987||Pirimicarb at 0.14 kg in 200 1 on
+R/CS/311|1987|MOLLCIDE METHCARB|29-Sep-1986||Methiocarb at 0.22 kg, as pellets, broadcast
+R/CS/311|1987|All plots|03-Oct-1986||paraquat applied
+R/CS/311|1987|All plots|06-Oct-1986||rotary harrowed
+R/CS/311|1987|All plots|07-Oct-1986||seed sown
+R/CS/311|1987|All plots|19-Mar-1987||First N applied
+R/CS/311|1987|All plots|31-Mar-1987||Isoproturon applied
+R/CS/311|1987|All plots|18-Apr-1987||second N, clopyralíd, ioxynil and mecoprop applied
+R/CS/311|1987|All plots|19-Aug-1987||combine harvested
+R/CS/311|1987|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Ears of volunteers were counted prior to harvest and components of yield were measured.
+R/CS/311|1988|STRAW BURNT|21-Aug-1987||Burnt and disced
+R/CS/311|1988|STRAW BALED|20-Aug-1987||Baled and removed
+R/CS/311|1988|STRAW CHOPPED|21-Aug-1987||chopped
+R/CS/311|1988|CULTTIME EARLY|01-Sep-1987||cultivated by rotary grubber on
+R/CS/311|1988|CULTTIME LATER|16-Sep-1987||cultivated by rotary grubber on
+R/CS/311|1988|CULTTIME EARLY AUT N|29-Aug-1987||50 kg N as Nitram
+R/CS/311|1988|CULTTIME LATER AUT N|16-Sep-1987||50 kg N as Nitram
+R/CS/311|1988|FUNGCIDE FULL|21-Apr-1988||Prochloraz at 0.40 kg, carbendazim at 0.15 kg in 200 l
+R/CS/311|1988|FUNGCIDE FULL|25-May-1988||Propiconazole at 0.125 kg in 260 1 on
+R/CS/311|1988|FUNGCIDE FULL|20-Jun-1988||Propiconazole at 0.125 kg with carbendazim at 0.25 kg and Mancozeb at 1.6 kg in 260 l
+R/CS/311|1988|INSCTCDE FON+PIR|21-Jan-1988||Fonofos at 1.4 kg in 200 1 on
+R/CS/311|1988|INSCTCDE FON+PIR|20-Jun-1988||pirimicarb at 0.14 kg in 260 1 on
+R/CS/311|1988|MOLLICDE METHCARB|1986||Residual effects of molluscicide applied for crop, Methiocarb at 0.22 kg in autumn
+R/CS/311|1988|All plots|30-Sep-1987||First glyphosate applied
+R/CS/311|1988|All plots|26-Oct-1987||springtine cultivated, seed sown
+R/CS/311|1988|All plots|09-Dec-1987||Tri-allate applied
+R/CS/311|1988|All plots|24-Feb-1988||First N applied
+R/CS/311|1988|All plots|17-Mar-1988||Isoproturon applied
+R/CS/311|1988|All plots|22-Apr-1988||second N applied
+R/CS/311|1988|All plots|06-May-1988||Fluroxypyr applied
+R/CS/311|1988|All plots|09-Aug-1988||Second glyphosate applied
+R/CS/311|1988|All plots|25-Aug-1988||combine harvested
+R/CS/311|1988|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Ears of volunteers were counted prior to harvest and components of yield were measured.
+R/CS/311|1989|STRAW BURNT|06-Sep-1988||Burnt
+R/CS/311|1989|STRAW BALED|30-Aug-1988||Baled and removed
+R/CS/311|1989|STRAW CHOPPED|06-Sep-1988||chopped
+R/CS/311|1989|CULTTIME EARLY|13-Sep-1988||cultivated by rotary grubber on
+R/CS/311|1989|CULTTIME LATER|29-Sep-1988||cultivated by rotary grubber on
+R/CS/311|1989|CULTTIME EARLY AUT N|13-Sep-1988||50 kg N as Nitram
+R/CS/311|1989|CULTTIME LATER AUT N|29-Sep-1988||50 kg N as Nitram
+R/CS/311|1989|FUNGCIDE FULL|15-Apr-1989||Prochloraz at 0.40 kg, carbendazim at 0.15 kg in 200 1 on
+R/CS/311|1989|FUNGCIDE FULL|24-May-1989||Propiconazole at 0.125 kg in 200 1 on
+R/CS/311|1989|FUNGCIDE FULL|13-Jun-1989||Propiconazole at 0.125 kg with carbendazim at 0.25 kg and Mancozeb at 1.6 kg in 200 1 on
+R/CS/311|1989|INSCTCDE FON+PIR|26-Jan-1989||Fonofos at 1.4 kg in 200 1 on
+R/CS/311|1989|INSCTCDE FON+PIR|13-Jun-1989||pirimicarb at 0.14 kg in 200 1 on
+R/CS/311|1989|MOLLCIDE METHCARB|1986||Residual effects of molluscicide applied for crop, Methiocarb at 0.22 kg in autumn
+R/CS/311|1989|All plots|07-Sep-1988||Magnesian limestone applied
+R/CS/311|1989|All plots|29-Sep-1988||PK applied
+R/CS/311|1989|All plots|18-Oct-1988||paraquat applied
+R/CS/311|1989|All plots|19-Oct-1988||rotary harrowed, seed sown
+R/CS/311|1989|All plots|22-Oct-1988||Chlortoluron applied
+R/CS/311|1989|All plots|23-Feb-1989||First N applied
+R/CS/311|1989|All plots|15-Apr-1989||second N applied
+R/CS/311|1989|All plots|26-Apr-1989||Metsulfuron-methyl with fluroxypyr applied
+R/CS/311|1989|All plots|8-Aug-1989||combine harvested
+R/CS/311|1989|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Ears of volunteers were counted prior to harvest and components of yield were measured.
+R/CS/311|1990|STRAW BURNT|16-Aug-1989||Burnt and disced
+R/CS/311|1990|STRAW BALED|16-Aug-1989||Baled and removed
+R/CS/311|1990|STRAW CHOPPED|16-Aug-1989||chopped
+R/CS/311|1990|CULTTIME EARLY|16-Aug-1989||cultivated by rotary grubber on
+R/CS/311|1990|CULTTIME LATER|30-Aug-1989||cultivated by rotary grubber on
+R/CS/311|1990|FUNGCIDE FULL|24-Nov-1989||Triadimefon at 0.12 kg, carbendazim at 0.25 kg in 200 1 on
+R/CS/311|1990|FUNGCIDE FULL|9-Apr-1990||Prochloraz at 0.40 kg, carbendazim at 0.15 kg in 200 1 on
+R/CS/311|1990|FUNGCIDE FULL|17-May-1990||Propiconazole at 0.125 kg in 200 1 on
+R/CS/311|1990|FUNGCIDE FULL|14-Jun-1990||Propiconazole at 0.125 kg with carbendazim at 0.25 kg and Mancozeb at 1.6 kg in 200 1 on
+R/CS/311|1990|INSCTCDE CYP+PIR|01-Nov-1989||Cypermethrin at 25 g in 200 1 on
+R/CS/311|1990|INSCTCDE CYP+PIR|14-Jun-1990||Pirimicarb at 0.14 kg in 200 1 on
+R/CS/311|1990|MOLLCIDE METHCARB|06-Oct-1989||Methiocarb at 0.22 kg on
+R/CS/311|1990|All plots|21-Sep-1989||glyphosate applied
+R/CS/311|1990|All plots|05-Oct-1989||rotary harrowed, seed sown 
+R/CS/311|1990|All plots|10-Nov-1989||Chlorotoluron with cyanazine applied
+R/CS/311|1990|All plots|02-Mar-1990||First N applied
+R/CS/311|1990|All plots|12-Apr-1990||second N applied
+R/CS/311|1990|All plots|03-May-1990||Remaining weedkillers applied
+R/CS/311|1990|All plots|11-Aug-1990||combine harvested
+R/CS/311|1990|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Ears of volunteers were counted prior to harvest and components of yield were measured.
+R/CS/311|1991|STRAW BURNT|22-Aug-1990||Burnt and disced
+R/CS/311|1991|STRAW BALED|21-Aug-1990||Baled and removed
+R/CS/311|1991|STRAW CHOPPED|22-Aug-1990||chopped
+R/CS/311|1991|CULLTIME EARLY|23-Aug-1990||cultivated by rotary grubber on
+R/CS/311|1991|CULTTIME LATER|14-Sep-1990||cultivated by rotary grubber on
+R/CS/311|1991|FUNGCIDE FULL|03-Dec-1990||Triadimefon at 0.12 kg, carbendazim at 0.25 kg in 200 1 on
+R/CS/311|1991|FUNGCIDE FULL|12-Apr-1991||Prochloraz at 0.40 kg, carbendazim at 0.15 kg in 200 1 on
+R/CS/311|1991|FUNGCIDE FULL|20-June-1991||Propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 200 1 on
+R/CS/311|1991|INSCTCDE CYP+PIR|06-Nov-1990||Cypermethrin at 25 g in 200 1 on
+R/CS/311|1991|INSCTCDE CYP+PIR|02-Jul-1991||Pirimicarb at 0.14 kg in 200 1 on
+R/CS/311|1991|MOLLCIDE METHCARB|11-Oct-1990||Methiocarb at 0.22 kg on
+R/CS/311|1991|All plots|08-Oct-1990||First glyphosate applied
+R/CS/311|1991|All plots|10-Oct-1990||rotary harrowed, seed sown
+R/CS/311|1991|All plots|02-Nov-1990||Tri-allate applied
+R/CS/311|1991|All plots|13-Nov-1990||Bifenox and chlorotoluron applied
+R/CS/311|1991|All plots|04-Mar-1991||First N applied
+R/CS/311|1991|All plots|05-Apr-1991||second N applied
+R/CS/311|1991|All plots|13-Aug-1991||sections glyphosate applied
+R/CS/311|1991|All plots|20-Aug-1991||combine harvested
+R/CS/311|1991|Note|||Growth was measured and incidence of pests and diseases assessed at intervals during the season. Ears of volunteers were counted prior to harvest and components of yield were measured.

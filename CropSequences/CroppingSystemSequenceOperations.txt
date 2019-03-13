@@ -1,4 +1,4 @@
-R/BEW/1|1995||26-Sep-1994||ploughed and furrow pressed. )||
+R/BEW/1|1995||26-Sep-1994||ploughed and furrow pressed.||
 R/BEW/1|1995||21-Oct-1994||spring cultivated, Punch, recleaned, drilled at 25 seed per m,|B
 R/BEW/1|1995||07-Feb-1995|PHRROMON P, PI1, PI2, PI3| Pheromone applied.|T
 R/BEW/1|1995||04-Apr-1995||Bombardier at 2.0 1 in 200 1.|B
@@ -266,10 +266,10 @@ W/CS/386|1994||26-Jul-1994||combine harvested.
 W/M/1|1995||08-Aug-1994|SOWING BC, BOV CROP BW|Puffin broadcast at 180 kg. 
 W/M/1|1995||08-Aug-1994|SOWING BC, BOV CROP FR|Ember broadcast at 30 kg.|T
 W/M/1|1995||15-Aug-1994||wheat combine harvested, straw cropped.|B
-W/M/1|1995||18-Aug-1994|SOWING DC| disced. : T : 
-W/M/1|1995||18-Aug-1994|SOWING RC| rotary cultivated. : T : 
-W/M/1|1995||18-Aug-1994|SOWING DC, RC, DD, BOV CROP BW| Puffin sown at 180 kg. : T : 
-W/M/1|1995||18-Aug-1994|SOWING DC, RC, DD, BOV CROP FR| Ember sown at 30 kg. : PT : 
+W/M/1|1995||18-Aug-1994|SOWING DC| disced.T
+W/M/1|1995||18-Aug-1994|SOWING RC| rotary cultivated.T
+W/M/1|1995||18-Aug-1994|SOWING DC, RC, DD, BOV CROP BW| Puffin sown at 180 kg.T
+W/M/1|1995||18-Aug-1994|SOWING DC, RC, DD, BOV CROP FR| Ember sown at 30 kg.PT
 W/M/1|1995||18-Aug-1994|SOWING DC, RC, BOV CROP BW, FR| Rolled.|T
 W/M/1|1995||07-Sep-1994||Draza at 5.5 kg.|B
 W/M/1|1995||24-Nov-1994||BOV CROP FR: Draza at 5.5 kg.|T
@@ -292,7 +292,7 @@ R/CS/504|1999||07-Sep-1998|LP|Combination drilled, DIN 20, nitrate, at 50 seed w
 R/CS/504|1999||07-Sep-1998|LP|Spannit at 1.5 1 in 220 1.|T
 R/CS/504|1999||11-Sep-1998|LP|Hardy at 7.5 kg.|T
 R/CS/504|1999||16-Sep-1998|| Hardy at 7.5 kg.|B
-R/CS/504|1999||17-Sep-1998|RAW|tm)Katamaran at 2.0 1 in 200 1.
+R/CS/504|1999||17-Sep-1998|RAW|Katamaran at 2.0 1 in 200 1.
 R/CS/504|1999||17-Sep-1998|RAW|Decis at 250 ml in 200 1.|T
 R/CS/504|1999||21-Sep-1998|WW|Combination drilled, Hereward, tr. beet Gold, at 380 seed' with the Accord drill.|T
 R/CS/504|1999||25-Sep-1998|RAW|34.5% N at 120 kg.|T
@@ -307,101 +307,155 @@ R/CS/504|1999||16-Oct-1998|LP|Decis at 300 ml in 220 1.|7
 R/CS/504|1999||19-Oct-1998|PEW|Opogard 500 SC at 3.4 1 in 220 1.
 R/CS/504|1999||19-Oct-1998|BEW|Gesatop 500 SC at 2.0 1 in 220 1.
 R/CS/504|1999||19-Oct-1998|BEW|Kerb 50 W at 1.7 kg in 220 1.|T
-R/CS/504|1999||04-Dec-1998|RAW|tm)Punch C at 0.4 1 in 200 1. 106|T
-R/CS/504|1999||04-Dec-1998|RAW|tm)Stefes Cypermethrin 2 at 250 ml in 200 1.|T
-R/CS/504|1999||07-Dec-1998|RAW|tm)Laser at 0.5 1 in 200 1. 
+R/CS/504|1999||04-Dec-1998|RAW|Punch C at 0.4 1 in 200 1. 106|T
+R/CS/504|1999||04-Dec-1998|RAW|Stefes Cypermethrin 2 at 250 ml in 200 1.|T
+R/CS/504|1999||07-Dec-1998|RAW|Laser at 0.5 1 in 200 1. 
 R/CS/504|1999||07-Dec-1998|RAW|Cropoil at 2.0 1 in 200 1.|T
 R/CS/504|1999||16-Dec-1998|| Draza at 5.5 kg.|B
 R/CS/504|1999||29-Jan-1999|LNW, LP, PEW|Laser at 1.0 1 in 220 1.
 R/CS/504|1999||29-Jan-1999|LNW, LP, PEW|Cropoil at 2.0 1 in 220 1.|T
 R/CS/504|1999||10-Feb-1999|RAW|34.5% N at 300 kg, northern 5.0 m of (OW) also earthed, in error.|T
-R/CS/504|1999||09-Mar-1999|WW|tm)Isoguard at 1.0 1 in 200 1. : PT: WW : tm)Unite A at 0.125 1 in 200 1. :9 5: WW : tm)Unite B at 1.0 1 in 200 1. 2 : tm)Cropoil at 1.0 1 in 200 1.|T
+R/CS/504|1999||09-Mar-1999|WW|Isoguard at 1.0 1 in 200 1.
+R/CS/504|1999||09-Mar-1999|WW|Unite A at 0.125 1 in 200 1.
+R/CS/504|1999||09-Mar-1999|WW|Unite B at 1.0 1 in 200 1.
+R/CS/504|1999||09-Mar-1999|WW|Cropoil at 1.0 1 in 200 1.|T
 R/CS/504|1999||15-Mar-1999|RAW|Punch C at 0.4 1 in 200 1.|T
 R/CS/504|1999||16-Mar-1999|WW|34.5$ N at 145 kg.|T
-R/CS/504|1999||17-Mar-1999|LP|tm)Folicur at 0.5 1 in 200 1. :": LP : tm)Rovral fallow at 1.0 1 in 200 1.|T
+R/CS/504|1999||17-Mar-1999|LP|Folicur at 0.5 1 in 200 1.
+R/CS/504|1999||17-Mar-1999|LP|Rovral fallow at 1.0 1 in 200 1.|T
 R/CS/504|1999||23-Mar-1999|RAW|34.5% N at 300 kg.|T
-R/CS/504|1999||26-Mar-1999|new : 34.58 N at 348 kg.|T
-R/CS/504|1999||09-Apr-1999|OW + 34.5% N at 145 kg.|T
+R/CS/504|1999||26-Mar-1999|LNW|34.58 N at 348 kg.|T
+R/CS/504|1999||09-Apr-1999|OW|34.5% N at 145 kg.|T
 R/CS/504|1999||23-Apr-1999|WW|34.58 N at 435 kg.|T
-R/CS/504|1999||27-Apr-1999|OW : 34.5% N at 145 kg.|T
-R/CS/504|1999||29-Apr-1999|RAW|tm)Bavistin DP at 1.0 kg in 200 1. + T : RAW : tm)Ronilan FL at 0.5 1 in 200 1. : T : RAW : tm)Hallmark at 100 ml in 200 1.|T
-R/CS/504|1999||30-Apr-1999|new : tm)Ally at 20 g in 200 1. : T : new : tm)Eagle at 30 g in 220 1. : T : few : Compass at 3.0 1 in 220 1.|T
-R/CS/504|1999||19-May-1999|few : tm)Bavistin DF at 1.0 kg in 220 1. : T o: few : tm)Bravo 500 at 2.0 1 in 220 1.|T
-R/CS/504|1999||21-May-1999|OW : tm)BASF 3C Chlormequat 720 at 2.25 1 in 220 1. :7 $00 : tm)Enhance at 50 nl in 220 1.|T
+R/CS/504|1999||27-Apr-1999|OW|34.5% N at 145 kg.|T
+R/CS/504|1999||29-Apr-1999|RAW|Bavistin DP at 1.0 kg in 200 1.
+R/CS/504|1999||29-Apr-1999|RAW|Ronilan FL at 0.5 1 in 200 1.
+R/CS/504|1999||29-Apr-1999|RAW|Hallmark at 100 ml in 200 1.|T
+R/CS/504|1999||30-Apr-1999|LNW|Ally at 20 g in 200 1.
+R/CS/504|1999||30-Apr-1999|LNW|Eagle at 30 g in 220 1.
+R/CS/504|1999||30-Apr-1999|BEW|Compass at 3.0 1 in 220 1.|T
+R/CS/504|1999||19-May-1999|BEW|Bavistin DF at 1.0 kg in 220 1.
+R/CS/504|1999||19-May-1999|BEW|Bravo 500 at 2.0 1 in 220 1.|T
+R/CS/504|1999||21-May-1999|OW|BASF 3C Chlormequat 720 at 2.25 1 in 220 1.
+R/CS/504|1999||19-May-1999|OW|Enhance at 50 nl in 220 1.|T
 R/CS/504|1999||26-May-1999|WW|Opus at 1.0 1 in 220 1.|T
-R/CS/504|1999||01-Jun-1999|OW : Policur at 0.75 1 in 220 1l.|T
-R/CS/504|1999||10-Jun-1999|few : tm)Bavistin DF at 1.0 kg in 220 1. : T: few : tm)Compass at 2.0 1 in 220 1. : 7. : BEN : tm)Sipcam UK Rover 500 at 2.0 1 in 220 1. : T : few : tm)Aphox at 100 g in 220 1. : ? : BEN : tm)Hallmark at 150 ml in 220 1.|T
-R/CS/504|1999||18-Jun-1999|LP|tm)Aphox at 280 g in 200 1. To: LP : tm)Enhance at 50 ml in 200 1.|T
-R/CS/504|1999||25-Jun-1999|few : Compass at 3.0 1 in 220 1. ; 7 : LP : Folicur at 0.75 1 in 220 1.|T
-R/CS/504|1999||07-Jul-1999|RAW|tm)Enhance at 400 ml in 400 1. + T : RAW : tm)Reglone at 3.0 1 in 400 1.|T
-R/CS/504|1999||09-Jul-1999|new : tm)Reglone at 3.0 1 in 400 1. : TT : new : tm)Enhance at 400 ml in 400 1.|T
+R/CS/504|1999||01-Jun-1999|OW|Policur at 0.75 1 in 220 1l.|T
+R/CS/504|1999||10-Jun-1999|BEW|Bavistin DF at 1.0 kg in 220 1.
+R/CS/504|1999||10-Jun-1999|BEW|Compass at 2.0 1 in 220 1.
+R/CS/504|1999||10-Jun-1999|BEW|Sipcam UK Rover 500 at 2.0 1 in 220 1.
+R/CS/504|1999||10-Jun-1999|BEW|Aphox at 100 g in 220 1.
+R/CS/504|1999||10-Jun-1999|BEW|Hallmark at 150 ml in 220 1.|T
+R/CS/504|1999||18-Jun-1999|LP|Aphox at 280 g in 200 1.
+R/CS/504|1999||18-Jun-1999|LP|Enhance at 50 ml in 200 1.|T
+R/CS/504|1999||25-Jun-1999|BEW|Compass at 3.0 1 in 220 1.
+R/CS/504|1999||25-Jun-1999|LP|Folicur at 0.75 1 in 220 1.|T
+R/CS/504|1999||07-Jul-1999|RAW|Enhance at 400 ml in 400 1.
+R/CS/504|1999||07-Jul-1999|RAW|Reglone at 3.0 1 in 400 1.|T
+R/CS/504|1999||09-Jul-1999|LNW|Reglone at 3.0 1 in 400 1.
+R/CS/504|1999||09-Jul-1999|LNW|Enhance at 400 ml in 400 1.|T
 R/CS/504|1999||17-Jul-1999|RAW|combine harvested.|T
 R/CS/504|1999||19-Jul-1989|RAW|barley straw.|T
-R/CS/504|1999||24-Ju1-1999|new : combine harvested.|T
-R/CS/504|1999||31-Jul-1999|WW,OW : combine harvested.|T
-R/CS/504|1999||12-Aug-1999|few : combine harvested.|T
+R/CS/504|1999||24-Ju1-1999|LNW|combine harvested.|T
+R/CS/504|1999||31-Jul-1999|WW,OW|combine harvested.|T
+R/CS/504|1999||12-Aug-1999|BEW|combine harvested.|T
 R/CS/504|1999||26-Aug-1999|LP|combine harvested.|T
-R/CS/504|1999||27-Aug-1999|| barley all remaining straw. Previous crops: w. wheat 1997, w. wheat 1998 note: W. peas failed therefore no yield. 107|B
-R/CS/504|2000||01-Sep-1999|| ploughed started.|B
-R/CS/504|2000||02-Sep-1999|| ploughed completed.|B
-R/CS/504|2000||14-Sep-1999|| disced, rolled.|B
-R/CS/504|2000||15-Sep-1999|| disced.|B
-R/CS/504|2000||17-Sep-1999|| Combination drilled, Hereward, tr. Sibutol at 380 seed, with the Accord drill.|B
-R/CS/504|2000||22-Sep-1999|| Genesis at 5.0 kg.|B
-R/CS/504|2000||26-Oct-1999|| tm)Lexus 50 DF at 20 g in 200 1. : B: : tm)Stomp 400 SC at 2.5 1 in 200 1. :B: ; tm)Cyperkill 10 at 250 ml in 200 1.|B
-R/CS/504|2000||09-Mar-2000|| 34.5% N at 145 kg.|B
-R/CS/504|2000||06-Apr-2000|| tm)Topik at 125 ml in 200 1. 1:35 : tm)Toil at 0.5 1 in 200 1.|B
-R/CS/504|2000||19-Apr-2000|| 34.5% N at 377 kg.|B
-R/CS/504|2000||27-Apr-2000|| Opus at 0.4 1 in 200 1.|B
-R/CS/504|2000||01-May-2000|| Moddus at 0.2 1 in 200 1.|B
-R/CS/504|2000||07-May-2000|| tm)Sypex at 1.0 1 in 200 1. :;Bt : tm)Enhance fallow Foam at 80 ml in 200 1.|B
-R/CS/504|2000||22-May-2000|| Opus at 0.75 1 in 100 1.|B
-R/CS/504|2000||10-Aug-2000|| combine harvested. Previous crops: W. wheat 1998, treatment 1999. note: Plant sampled were taken ín April and June to assess root and stem base diseases. 100|B
-R/CS/505|2000||28-A0g-1999|| ploughed.|B
+R/CS/504|1999||27-Aug-1999|| barley all remaining straw. 
+R/CS/504|1999|||Previous crops:||w. wheat 1997, w. wheat 1998 
+R/CS/504|1999|||Note||W. peas failed therefore no yield. 107|B
+R/CS/504|2000||01-Sep-1999|WW| ploughed started.|B
+R/CS/504|2000||02-Sep-1999|WW| ploughed completed.|B
+R/CS/504|2000||14-Sep-1999|WW| disced, rolled.|B
+R/CS/504|2000||15-Sep-1999|WW| disced.|B
+R/CS/504|2000||17-Sep-1999|WW| Combination drilled, Hereward, tr. Sibutol at 380 seed, with the Accord drill.|B
+R/CS/504|2000||22-Sep-1999|WW| Genesis at 5.0 kg.|B
+R/CS/504|2000||26-Oct-1999|WW| Lexus 50 DF at 20 g in 200 1. 
+R/CS/504|2000||26-Oct-1999|WW|Stomp 400 SC at 2.5 1 in 200 1.
+R/CS/504|2000||26-Oct-1999|WW|Cyperkill 10 at 250 ml in 200 1.|B
+R/CS/504|2000||09-Mar-2000|WW| 34.5% N at 145 kg.|B
+R/CS/504|2000||06-Apr-2000|WW| Topik at 125 ml in 200 1.
+R/CS/504|2000||06-Apr-2000|WW|Toil at 0.5 1 in 200 1.|B
+R/CS/504|2000||19-Apr-2000|WW| 34.5% N at 377 kg.|B
+R/CS/504|2000||27-Apr-2000|WW| Opus at 0.4 1 in 200 1.|B
+R/CS/504|2000||01-May-2000|WW| Moddus at 0.2 1 in 200 1.|B
+R/CS/504|2000||07-May-2000|WW| Sypex at 1.0 1 in 200 1.
+R/CS/504|2000||07-May-2000|WW|Enhance fallow Foam at 80 ml in 200 1.|B
+R/CS/504|2000||22-May-2000|WW| Opus at 0.75 1 in 100 1.|B
+R/CS/504|2000||10-Aug-2000|WW| combine harvested. 
+R/CS/504|2000|||Previous crops||W. wheat 1998, treatment 1999. 
+R/CS/504|2000|||Note||Plant sampled were taken ín April and June to assess root and stem base diseases. 100|B
+R/CS/505|2000||28-Aug-1999|| ploughed.|B
 R/CS/505|2000||01-Sep-1999|RAW|Combination drilled, Apex, tr. Lindex-Plus FS seed Treatment, at 120 seed with the Accord drill.|T
-R/CS/505|2000||03-Sep-1999|RAW|tm)Alpha Trifluralin 48 BC at 1.0 1 in 200 1. : T : RAW : tm)Katamaran at 2.0 1 in 200 1.|T
+R/CS/505|2000||03-Sep-1999|RAW|Alpha Trifluralin 48 BC at 1.0 1 in 200 1.
+R/CS/505|2000||03-Sep-1999|RAW|Katamaran at 2.0 1 in 200 1.|T
 R/CS/505|2000||13-Sep-1999|LP|Combination drilled, DTN 12, tr. Promet and Germipro, at 40 seed* with the Accord drill.|T
 R/CS/505|2000||14-Sep-1999|RAW|PBI Slug Pellets at 8.0 kg.|T
 R/CS/505|2000||17-Sep-1999|WW|Combination drilled, Hereward, tr. Sibutol, at 380 seed with the Accord drill.|T
 R/CS/505|2000||23-Sep-1999|RAW|PBI Slug Pellets at 7.0 kg.|T
 R/CS/505|2000||30-Sep-1999|RAW|Genesis at 5.0 kg.|T
-R/CS/505|2000||06-Oct-1999|new : Combination drilled, Oliver, tr. Prelude 20 LF, at 950 seed with the Accord drill. : T : OW. : Combination drilled, Gerald, tr. Sibutol, at 350 seed' with the Accord drill.|T
-R/CS/505|2000||14-Oct-1999|RAW|tm)Punch C at 0.4 1 in 200 1. : T: RAW : tm)Hallmark with Zeon Technology at 100 ml in 200 1.|T
+R/CS/505|2000||06-Oct-1999|LNW|Combination drilled, Oliver, tr. Prelude 20 LF, at 950 seed with the Accord drill.
+R/CS/505|2000||06-Oct-1999|OW|Combination drilled, Gerald, tr. Sibutol, at 350 seed' with the Accord drill.|T
+R/CS/505|2000||14-Oct-1999|RAW|Punch C at 0.4 1 in 200 1.
+R/CS/505|2000||14-Oct-1999|RAW|Hallmark with Zeon Technology at 100 ml in 200 1.|T
 R/CS/505|2000||19-Oct-1999|RAW|34.5% N at 87 kg.|T
-R/CS/505|2000||28-Oct-1999|few : Drilled, Clipper, recleaned, at 40 seed with the Carrier drill.|T
-R/CS/505|2000||29-Oct-1999|few : Drilled, Victor, tr. Wakil, at 100 seed with the Carrier drill.|T
-R/CS/505|2000||03-Nov-1999|few : tm)Alpha Simazine 50 SC at 2.0 1 in 220 1. tf T : few : tm)Kerb 50 W at 1.5 kg in 220 1. s; T 5: OW,WW : tm)Cyperkill 10 at 250 ml in 220 1. : T : OW,WW : tm)Lexus Class WSB at 60 g in 220 1.|T
-R/CS/505|2000||18-Nov-1999|new : Eagle at 10 g in 220 1.|T
-R/CS/505|2000||22-Nov-1999|BEW,PEW : PDQ at 3.0 1 in 220 1.|T
+R/CS/505|2000||28-Oct-1999|BEW|Drilled, Clipper, recleaned, at 40 seed with the Carrier drill.|T
+R/CS/505|2000||29-Oct-1999|PEW|Drilled, Victor, tr. Wakil, at 100 seed with the Carrier drill.|T
+R/CS/505|2000||03-Nov-1999|BEW|Alpha Simazine 50 SC at 2.0 1 in 220 1.
+R/CS/505|2000||03-Nov-1999|BEW|Kerb 50 W at 1.5 kg in 220 1.
+R/CS/505|2000||03-Nov-1999|OW,WW|Cyperkill 10 at 250 ml in 220 1.
+R/CS/505|2000||03-Nov-1999|OW,WW|Lexus Class WSB at 60 g in 220 1.|T
+R/CS/505|2000||18-Nov-1999|LNW|Eagle at 10 g in 220 1.|T
+R/CS/505|2000||22-Nov-1999|BEW,PEW|PDQ at 3.0 1 in 220 1.|T
 R/CS/505|2000||25-Nov-1999|LP|Lo-Gran 20 WG at 12 g in 220 1.|T
 R/CS/505|2000||10-Dec-1999|LP|hand weeded.|T
 R/CS/505|2000||14-Dec-1999|LP|Stomp 400 SC at 5.0 1 in 220 1.|T
 R/CS/505|2000||20-Jan-2000|RAW|Punch C at 0.4 1 in 220 1.|T
 R/CS/505|2000||14-Feb-2000|RAW|Sulphan (30% N, 7.6% S) at 166 kg, by hand. 102|T
 R/CS/505|2000||09-Mar-2000|WW|34.5% N at 145 kg.|T
-R/CS/505|2000||13-Mar-2000|new : Eagle at 40 g in 220 1. : T : LNW,LP,PEW : Falcon at 0.3 1 in 220 1.|T
+R/CS/505|2000||13-Mar-2000|LNW|Eagle at 40 g in 220 1.
+R/CS/505|2000||13-Mar-2000|LNW,LP,PEW|Falcon at 0.3 1 in 220 1.|T
 R/CS/505|2000||15-Mar-2000|RAW|Sulphan (30.0% N, 7.6% S) at 433 kg, by hand.|T
-R/CS/505|2000||17-Mar-2000|OF : Orka at 0.5 1 in 200 1.|T
-R/CS/505|2000||01-Apr-2000|new : Eagle at 20 g in 220 1. : T: LP : Lo-Gran 20 WG at 18 g in 220 1.|T
-R/CS/505|2000||19-Apr-2000|OW : 34.5$ N at 145 kg, by hand. : TO: new : 34.58 N at 262 kg, by hand. : TT: WN : 34.5% N at 377 kg, by hand. t+ T : few : Basagran SG at 1.65 kg in 330 1.|T
-R/CS/505|2000||25-Apr-2000|BEW,PEW : hand rogued rape pints.|T
-R/CS/505|2000||28-Apr-2000|WW|tm)Ally at 30 g in 220 1. +P: WW : Starane 2 at 1.0 1 in 220 1. : T : WW. : tm)Punch C at 0.8 1 in 220 1. : T : LP. : tm)Bravo 500 at 0.5 1 in 220 1. : T: LP : tm)Folicur at 0.5 1 in 220 1.|T
-R/CS/505|2000||09-May-2000|RAW|tm)Bavistin DF at 1.0 kg in 100 1. : T : RAW : tm)Hallmark with Zeon Technology at 75 ml in 100 1.|T
-R/CS/505|2000||22-May-2000|WW|Opus at 0.75 1 in 220 1. : T : few : tm)Brevo 500 at 1.0 1 in 220 1. : Tor few : tm)Folicur at 0.5.1 in 220 1. : T : few : tm)Bravo 500 at 2.0 1 in 220 1. : T : few : tm)Ronilan PL at 0.75 1 in 220 1.|T
-R/CS/505|2000||24-May-2000|OW : 27.08 N at 259 kg, by hand.|T
-R/CS/505|2000||16-Jun-2000|OW,WW : Folicur at 0.75 1 in 200 1. i: T : few : tm)Compass at 3.0 1 in 200 1. : T : few : tm)Aphox at 280 g in 200 1.|T
-R/CS/505|2000||04-Jul-2000|LP|tm)Folicur at 0.5 1 in 200 1. : Ti; LP. :; tm)Aphox at 280 g in 200 1. 1 T 1 LP. : tm) Enhance fallow Foam at 50 ml in 200 1.|T
+R/CS/505|2000||17-Mar-2000|OW|Orka at 0.5 1 in 200 1.|T
+R/CS/505|2000||01-Apr-2000|LNW|Eagle at 20 g in 220 1.
+R/CS/505|2000||01-Apr-2000|LP|Lo-Gran 20 WG at 18 g in 220 1.|T
+R/CS/505|2000||19-Apr-2000|OW|34.5$ N at 145 kg, by hand.
+R/CS/505|2000||19-Apr-2000|LNW|34.58 N at 262 kg, by hand.
+R/CS/505|2000||19-Apr-2000|WW|34.5% N at 377 kg, by hand.
+R/CS/505|2000||19-Apr-2000|PEW|Basagran SG at 1.65 kg in 330 1.|T
+R/CS/505|2000||25-Apr-2000|BEW,PEW|hand rogued rape pints.|T
+R/CS/505|2000||28-Apr-2000|WW|Ally at 30 g in 220 1.
+R/CS/505|2000||28-Apr-2000|WW|Starane 2 at 1.0 1 in 220 1.
+R/CS/505|2000||28-Apr-2000|WW|Punch C at 0.8 1 in 220 1.
+R/CS/505|2000||28-Apr-2000|LP|Bravo 500 at 0.5 1 in 220 1.
+R/CS/505|2000||28-Apr-2000|LP|Folicur at 0.5 1 in 220 1.|T
+R/CS/505|2000||09-May-2000|RAW|Bavistin DF at 1.0 kg in 100 1.
+R/CS/505|2000||09-May-2000|RAW|Hallmark with Zeon Technology at 75 ml in 100 1.|T
+R/CS/505|2000||22-May-2000|WW|Opus at 0.75 1 in 220 1.
+R/CS/505|2000||22-May-2000|BEW|Bravo 500 at 1.0 1 in 220 1.
+R/CS/505|2000||22-May-2000|BEW|Folicur at 0.5.1 in 220 1.
+R/CS/505|2000||22-May-2000|PEW|Bravo 500 at 2.0 1 in 220 1.
+R/CS/505|2000||22-May-2000|PEW|Ronilan PL at 0.75 1 in 220 1.|T
+R/CS/505|2000||24-May-2000|OW| 27.08 N at 259 kg, by hand.|T
+R/CS/505|2000||16-Jun-2000|OW,WW|Folicur at 0.75 1 in 200 1.
+R/CS/505|2000||16-Jun-2000|PWW|Compass at 3.0 1 in 200 1.
+R/CS/505|2000||16-Jun-2000|PEW|Aphox at 280 g in 200 1.|T
+R/CS/505|2000||04-Jul-2000|LP|Folicur at 0.5 1 in 200 1.
+R/CS/505|2000||04-Jul-2000|LP|Aphox at 280 g in 200 1.
+R/CS/505|2000||04-Jul-2000|LP|Enhance fallow Foam at 50 ml in 200 1.|T
 R/CS/505|2000||12-Jul-2000|RAW|Azural at 4.0 1 in 200 1.|T
 R/CS/505|2000||23-Jul-2000|RAW|combine harvested.|T
-R/CS/505|2000||25-Jul-2000|RAW|barley straw.|T
-R/CS/505|2000||26-Jul-2000|new : tm)Enhance fallow Foam at 400 ml in 400 1. : Toi new : tm)Reglone at 3.0 1l in 400 1.|T
-R/CS/505|2000||31-Jul-2000|few : combine harvested.|T
-R/CS/505|2000||01-Aug-2000|new : combine harvested.|T
-R/CS/505|2000||02-Aug-2000|ON : combine harvested. : T : LNW,OW,PEW : barley straw.|T
+R/CS/505|2000||25-Jul-2000|RAW|baled straw.|T
+R/CS/505|2000||26-Jul-2000|LNW|Enhance fallow Foam at 400 ml in 400 1.
+R/CS/505|2000||26-Jul-2000|LNW|Reglone at 3.0 1l in 400 1.|T
+R/CS/505|2000||31-Jul-2000|PEW|combine harvested.|T
+R/CS/505|2000||01-Aug-2000|LNW|combine harvested.|T
+R/CS/505|2000||02-Aug-2000|OW|combine harvested.
+R/CS/505|2000||02-Aug-2000|LNW,OW,PEW|baled straw.|T
 R/CS/505|2000||06-Aug-2000|WW|combine harvested.|T
-R/CS/505|2000||13-Aug-2000|WW|barley straw.|T
-R/CS/505|2000||17-Aug-2000|few : combine harvested.|T
-R/CS/505|2000||06-Sep-2000|LP|combine harvested. Previous crops: W. wheat 1998 and 1999. note: wheat sampled were taken in June to assess root and stem base diseases. Soil was sampled after harvest and used in bioassays to measure the take- all infectivity. 103|T
+R/CS/505|2000||13-Aug-2000|WW|baled straw.|T
+R/CS/505|2000||17-Aug-2000|BEW|combine harvested.|T
+R/CS/505|2000||06-Sep-2000|LP|combine harvested. 
+R/CS/505|2000|||Previous crops||: W. wheat 1998 and 1999. 
+R/CS/505|2000|||note||wheat sampled were taken in June to assess root and stem base diseases. Soil was sampled after harvest and used in bioassays to measure the take-all infectivity. 103|T
 R/CS/511|1999||08-Aug-1998|| barley, started.|B
 R/CS/511|1999||09-Aug-1998|| earthed barley, completed.|B
 R/CS/511|1999||20-Aug-1998|| started, started.|B
@@ -409,87 +463,131 @@ R/CS/511|1999||21-Aug-1998|| started, completed.|B
 R/CS/511|1999||29-Aug-1998|| Rolled.|B
 R/CS/511|1999||01-Sep-1998|| ploughed and furrow pressed, started.|B
 R/CS/511|1999||02-Sep-1998|| ploughed and furrow pressed, completed.|B
-R/CS/511|1999||04-Sep-1998|CON : Combination drilled, Apex, tr. Lindex-Plus FS seed Treatment, at 120 seed with the Accord drill. : 7o: IME : Corbinakion drilled at 120 seed' with the Accord drill. :7:LL : Combination drilled at 120 seed' with the Accord drill. :TGS RR : Combination drilled at 120 seed' with the Accord drill.|T
+R/CS/511|1999||04-Sep-1998|CON|Combination drilled, Apex, tr. Lindex-Plus FS seed Treatment, at 120 seed with the Accord drill.
+R/CS/511|1999||04-Sep-1998|IME|Combination drilled at 120 seed' with the Accord drill.
+R/CS/511|1999||04-Sep-1998|LL|Combination drilled at 120 seed' with the Accord drill.
+R/CS/511|1999||04-Sep-1998|RR|Combination drilled at 120 seed' with the Accord drill.|T
 R/CS/511|1999||07-Sep-1998|| Hardy at 7.5 kg.|B
-R/CS/511|1999||18-Sep-1998|| Stefes Cypermethrin 2 at 250 ml in 200 1. $ B3 : Hardy at 7.5 kg. 2€-Sep-98 : B : + 34.5% N at 120 kg.|B
-R/CS/511|1999||28-Sep-1998|CON : Butisan S at 1.5 1 in 200 1.|T
-R/CS/511|1999||09-Oct-1998|IME : Imazamox at 1.75 1 in 200 1.|T
-R/CS/511|1999||11-Nov-1998|RR : Roundup Biactive at 3.0 1 in 200 1. :T: LL : tm)Harvest at 0.6 1 in 200 1. : 7T : LL : tm)Liberty at 2.4 1 in 200 1. : 7: CON : tm)Laser at 0.5 1 in 200 1. : 7? : CON : tm)Cropoil at 2.0 1 in 200 1. DB: : tm)Punch C at 0.4 1 in 200 1. :À: : tm)Stefes Cypermethrin 2 at 250 ml in 200 1.|T
-R/CS/511|1999||13-Nov-1998|R2 IME : tm)Laser at 0.5 1 in 200 1. 111|T
-R/CS/511|1999||13-Nov-1998|R2 IME : tm)Cropoil at 2.0 1 in 200 1.|T
+R/CS/511|1999||18-Sep-1998|| Stefes Cypermethrin 2 at 250 ml in 200 1.
+R/CS/511|1999||18-Sep-1998||Hardy at 7.5 kg.
+R/CS/511|1999||24-Sep-1998||34.5% N at 120 kg.|B
+R/CS/511|1999||28-Sep-1998|CON|Butisan S at 1.5 1 in 200 1.|T
+R/CS/511|1999||09-Oct-1998|IME|Imazamox at 1.75 1 in 200 1.|T
+R/CS/511|1999||11-Nov-1998|RR|Roundup Biactive at 3.0 1 in 200 1.
+R/CS/511|1999||11-Nov-1998|LL|Harvest at 0.6 1 in 200 1.
+R/CS/511|1999||11-Nov-1998|LL|Liberty at 2.4 1 in 200 1.
+R/CS/511|1999||11-Nov-1998|CON|Laser at 0.5 1 in 200 1.
+R/CS/511|1999||11-Nov-1998|CON|Cropoil at 2.0 1 in 200 1
+R/CS/511|1999||11-Nov-1998||Punch C at 0.4 1 in 200 1.
+R/CS/511|1999||11-Nov-1998||Stefes Cypermethrin 2 at 250 ml in 200 1.|T
+R/CS/511|1999||13-Nov-1998|R2 IME|Laser at 0.5 1 in 200 1. 111|T
+R/CS/511|1999||13-Nov-1998|R2 IME|Cropoil at 2.0 1 in 200 1.|T
 R/CS/511|1999||10-Feb-1999|| 34.58 N at 300 kg.|B
 R/CS/511|1999||24-Feb-1999|| Punch C at 0.4 1 in 200 1.|B
 R/CS/511|1999||04-Mar-1999|| 34.5% N at 300 kg.|B
-R/CS/511|1999||16-Apr-1999|| tm)Profol RM at 3.0 kg in 200 1. $3 : tm)Hallmark at 150 ml in 2001.|B
-R/CS/511|1999||29-Apr-1999|| tm)Bavistin DF at 1.0 1 in 200 1. Feb: : tm)Ronilan FL at 0.5 1 in 200 1. eB : tm)Hallmark at 100 ml in 200 1.|B
-R/CS/511|1999||14-Jul-1999|| tm)Reglone at 3.0 1 in 400 1. BOV: : tm)Enhance at 400 ml in 400 1.|B
-R/CS/511|1999||21-Ju1-1999|| combine harvested. t B: : cropped straw. Previous crops: W. wheat 1937, w. oats 1998. note: Because of contractual reasons the yields acre not published in this edition. 112|B
-R/CS/511|2000||24-Jul-1999|R2 : ploughed.|T
+R/CS/511|1999||16-Apr-1999|| Profol RM at 3.0 kg in 200 1. 
+R/CS/511|1999||16-Apr-1999||Hallmark at 150 ml in 2001.|B
+R/CS/511|1999||29-Apr-1999|| Bavistin DF at 1.0 1 in 200 1. 
+R/CS/511|1999||29-Apr-1999||Ronilan FL at 0.5 1 in 200 1.
+R/CS/511|1999||29-Apr-1999||Hallmark at 100 ml in 200 1.|B
+R/CS/511|1999||14-Jul-1999|| Reglone at 3.0 1 in 400 1.
+R/CS/511|1999||14-Jul-1999||Enhance at 400 ml in 400 1.|B
+R/CS/511|1999||21-Ju1-1999||combine harvested.
+R/CS/511|1999||21-Ju1-1999||chopped straw. 
+R/CS/511|1999|||Previous crops||W. wheat 1997, w. oats 1998. 
+R/CS/511|1999|||Note||Because of contractual reasons the yields acre not published in this edition. 112|B
+R/CS/511|2000||24-Jul-1999|R2|ploughed.|T
 R/CS/511|2000||18-Aug-1999|| Triple superphosphate at 580 kg.|B
-R/CS/511|2000||25-Aug-1999|Rl : ploughed.|T
-R/CS/511|2000||06-Sep-1999|R2 : tm)PDQ at 3.0 1 in 200 1. : T : R2 : tm)Enhance fallow Foam at 100 ml in 200 1.|T
-R/CS/511|2000||09-Sep-1999|| Combination drilled, Riband, at 250 seed with the Accord drill. : B: : Rolled.|B
+R/CS/511|2000||25-Aug-1999|Rl|ploughed.|T
+R/CS/511|2000||06-Sep-1999|R2|PDQ at 3.0 1 in 200 1.
+R/CS/511|2000||06-Sep-1999|R2|Enhance fallow Foam at 100 ml in 200 1.|T
+R/CS/511|2000||09-Sep-1999|| Combination drilled, Riband, at 250 seed with the Accord drill.
+R/CS/511|2000||09-Sep-1999||Rolled.|B
 R/CS/511|2000||14-Sep-1999|| PBI Slug Pellets at 8.0 kg.|B
 R/CS/511|2000||15-Oct-1999|| Cyperkill 10 at 250 ml in 200 1.|B
-R/CS/511|2000||03-Nov-1999|| tm)Duplosan at 0.5 1 in 200 1. t Ba : tm)Tolkan Turbo at 2.0 1 in 200 1. : B: : tm)Cyperkill 10 at 250 ml in 200 1.|B
-R/CS/511|2000||14-Dec-1999|| tm)Hawk at 2.5 1 in 200 1. : B: : tm)Cropoil at 1.0 1 in 200 1. Oi-Apr-00 : B : : tm)BASF 3C Chlormequat 720 at 2.0 1 in 200 1. Rt : tm)Moddus at 0.2 1 in 200 1.|B
+R/CS/511|2000||03-Nov-1999|| Duplosan at 0.5 1 in 200 1.
+R/CS/511|2000||03-Nov-1999||Tolkan Turbo at 2.0 1 in 200 1.
+R/CS/511|2000||03-Nov-1999||Cyperkill 10 at 250 ml in 200 1.|B
+R/CS/511|2000||14-Dec-1999|| Hawk at 2.5 1 in 200 1.
+R/CS/511|2000||14-Dec-1999||Cropoil at 1.0 1 in 200 1. 
+R/CS/511|2000||01-Apr-2000||BASF 3C Chlormequat 720 at 2.0 1 in 200 1. 
+R/CS/511|2000||01-Apr-2000||Moddus at 0.2 1 in 200 1.|B
 R/CS/511|2000||24-Apx-2000|| Landmark at 0.5 1 in 100 1.|B
 R/CS/511|2000||27-Apr-2000|| Sulphur Gold (30.08 N, 7.69 S), at 500 kg.|B
-R/CS/511|2000||16-Aug-2000|| combine harvested. Previous crops: W. oats 1998, w. rape 1999. note: (1) Estimates of seed loss from combine harvesting were made ín July and August 1999. Weed Cultivations were assessed in October and March. Rape seed in soil sampled were counted in January and weed biomass was measured in June. (2) Because of contractual reasons the yields acre not published in this edition. 107|B
-R/M/5|1998||26-Aug-1997|ploughed and furrow pressed. Rolled.|B
-R/M/5|1998||27-Aug-1927|CROPCBRM -, A, B, C, D: rotary harrowed, Apex, undressed, drilled at 120 seed per m.|T
-R/M/5|1998||27-Aug-1997|CROPCHEM TR: Salut, undressed, broadcast at 8.8 kg.|T
-R/M/5|1998||03-Oct-1997|Clayton metazachlor at 1.5 1 in 200 1l.|B
-R/M/5|1998||22-Oct-1992|CROPCHEM A: Agral at 1.0 1l in 200 1.|T
-R/M/5|1998||29-Oct-1997|CROPCHEM A: Agral at 1.0 1 in 200 1.|T
-R/M/5|1998||07-Nov-1997|Punch C at 0.4 1 in 200 i.|B
-R/M/5|1998||13-Nov-1997|CROPCHEM A: Agral at 1.0 1 in 200 1.|T
-R/M/5|1998||04-Feb-1998|34.5% N at 290 kg.|B
-R/M/5|1998||17-Feb-1998|Folicux at 0.5 1 in 200 1.|B
-R/M/5|1998||19-Feb-1998|Laser at 0.75 1 with Chiltern Cropoil at 1.0 1 in 100 1.|B
-R/M/5|1998||25-Feb-1998|CROPCHEM A: AJH/8/158 at 50 g in 10.4 1.|T
-R/M/5|1998||02-Mar-1998|34.58 N at 350 kg.|B
-R/M/5|1998||31-Mar-1998|CROPCHEM A: AJH/8/158 at 50 g in 10.4 1.|T
-R/M/5|1998||27-Apr-1998|Ronilan FL at 1.0 1 in 200 1.|B
-R/M/5|1998||16-Jul-1998|Reglone at 3.0 1 with Headland Enhance LF at 400 ml in 400 1.|B
-R/M/5|1998||24-Jul-1998|combine harvested. Previous crops: S. barley 1996, w. wheat 1997. 183|B
-R/M/6|1997||23-Jul-1996|Chalk at 2.5 t.|B
-R/M/6|1997||26-Jul-1996|ploughed and furrow pressed, rolled.|B
-R/M/6|1997||30-Aug-1996|spring cultivated.|B
-R/M/6|1997||30-Aug-1996|CROPCHEM -, A, B, C, D: rotary harrowed, Apex, undressed, drilled at 120 seed per m. : T : CROPCHEM TR: rotary harrowed, Salut, undressed, drilled at 120 seed per m^. : B : Rolled.|T
-R/M/6|1997||24-Sep-1996|CROPCHEM TR: Salut, broadcast at 90 seed per m?.|T
-R/M/6|1997||27-Sep-1996|Irrigated 25 mm.|B
-R/M/6|1997||30-Oct-1996|Butisan S at 1.5 1 in 200 1.|B
-R/M/6|1997||28-Feb-1997|34.58 N at 175 kg.|B
-R/M/6|1997||18-Mar-1997|34.5% N at 350 kg.|B
-R/M/6|1997||09-Jul-1997|Reglone at 3.0 1 with Vassgro Non-ionic at 392 ml in 400 1.|B
-R/M/6|1997||16-Jul-1997|combine harvested. Previous crops: W. wheat 1995, set-aside 1996. note: Plant sampled were taken in December to assess investigation of cabbage stem flea beet. Pollen beet Cultivations were assessed on five occasions in March and April. Raceme sampled were taken in April to assess pollen beet eggs and larvae. Pod sampled were taken in May and June to assess seed weevil and pod ridged eggs and larvae. 155|B
-R/RAW/8|1998||26-Aug-1997|ploughed and furrow pressed. Rolled.|B
-R/RAW/8|1998||27-Aug-1997|rotary harrowed, Apex, undressed, drilled at 120 seed per m. .|B
-R/RAW/8|1998||03-Oct-1997|Clayton Metazachlor at 1.5 1 in 200 1.|B
-R/RAW/8|1998||14-Oct-1997|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||22-Oct-1997|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||27-Oct-1997|PESTCONT U: Metarhizium anísopliae in 10 1.|T
-R/RAW/8|1998||29-Oct-1997|| PESTCONT I: Dec at 500 g in 200 1.||
-R/RAW/8|1998||07-Nov-1997|Punch C at 0.4 1 in 200 1.|B
-R/RAW/8|1998||12-Nov-1997|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||04-Feb-1998|34.5% N at 290 kg.|B
-R/RAW/8|1998||17-Feb-1998|Folicur at 0.5 1 in 200 1.|B
-R/RAW/8|1998||19-Feb-1998|Laser at 0.75 1 with Chiltern Cropoil at 1.0 1 in 100 1.|B
-R/RAW/8|1998||02-Mar-1998|34.5% N at 350 kg.|B
-R/RAW/8|1998||27-Mar-1998|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||02-Apr-1998|PESTCONT I: Dec at 500 g in 200 1.|T
-R/RAW/8|1998||08-Apr-1998|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||17-Apr-1998|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||27-Apr-1998|PESTCONT U: Metarhizium anisopliae in 10 1.|T
-R/RAW/8|1998||16-Jul-1998|Reglone at 3.0 1 with Headland Enhance LF at 400 ml in 400 1.|B
-R/RAW/8|1998||24-Jul-1998|combine harvested. Previous crops: S. barley 1996, w. wheat 1997. 149|B
-W/BES/20|2000||08-Mar-2000|| Flexitined.|B
-W/BES/20|2000||16-Mar-2000|CH : Broadcast chickweed at 200 seed. : T : OA : Broadcast oats at 80 seed. OB: : Combination drilled, Quattro, at 40 seed' with the Accord drill. Rolled.|T
-W/BES/20|2000||19-Apr-2000|| Dec at 250 ml in 200 1.|B
-W/BES/20|2000||03-May-2000|W1SP: Weeded once. : T : W1DP: Weeded twice.|T
-W/BES/20|2000||15-May-2000|NO2,W2DP: Weeded twice.|T
-W/BES/20|2000||20-May-2000|| Hallmark at 150 ml in 200 1. : T :; not : Basagran SG at 1.65 kg in 220 1.|B
+R/CS/511|2000||16-Aug-2000|| combine harvested. 
+R/CS/511|2000|||Previous crops||: W. oats 1998, w. rape 1999. 
+R/CS/511|2000|||note||(1) Estimates of seed loss from combine harvesting were made ín July and August 1999. Weed Cultivations were assessed in October and March. Rape seed in soil sampled were counted in January and weed biomass was measured in June.
+R/CS/511|2000|||note||(2) Because of contractual reasons the yields acre not published in this edition. 107|B
+R/M/5|1998||26-Aug-1997||ploughed and furrow pressed.
+R/M/5|1998||26-Aug-1997||Rolled.|B
+R/M/5|1998||27-Aug-1927|CROPCBRM -, A, B, C, D| rotary harrowed, Apex, undressed, drilled at 120 seed per m.|T
+R/M/5|1998||27-Aug-1997|CROPCHEM TR| Salut, undressed, broadcast at 8.8 kg.|T
+R/M/5|1998||03-Oct-1997||Clayton metazachlor at 1.5 1 in 200 1l.|B
+R/M/5|1998||22-Oct-1992|CROPCHEM A| Agral at 1.0 1l in 200 1.|T
+R/M/5|1998||29-Oct-1997|CROPCHEM A| Agral at 1.0 1 in 200 1.|T
+R/M/5|1998||07-Nov-1997||Punch C at 0.4 1 in 200 i.|B
+R/M/5|1998||13-Nov-1997|CROPCHEM A| Agral at 1.0 1 in 200 1.|T
+R/M/5|1998||04-Feb-1998||34.5% N at 290 kg.|B
+R/M/5|1998||17-Feb-1998||Folicux at 0.5 1 in 200 1.|B
+R/M/5|1998||19-Feb-1998||Laser at 0.75 1 with Chiltern Cropoil at 1.0 1 in 100 1.|B
+R/M/5|1998||25-Feb-1998|CROPCHEM A| AJH/8/158 at 50 g in 10.4 1.|T
+R/M/5|1998||02-Mar-1998||34.58 N at 350 kg.|B
+R/M/5|1998||31-Mar-1998|CROPCHEM A| AJH/8/158 at 50 g in 10.4 1.|T
+R/M/5|1998||27-Apr-1998||Ronilan FL at 1.0 1 in 200 1.|B
+R/M/5|1998||16-Jul-1998||Reglone at 3.0 1 with Headland Enhance LF at 400 ml in 400 1.|B
+R/M/5|1998||24-Jul-1998||combine harvested. 
+R/M/5|1998|||Previous crops||S. barley 1996, w. wheat 1997. 183|B
+R/M/6|1997||23-Jul-1996||Chalk at 2.5 t.|B
+R/M/6|1997||26-Jul-1996||ploughed and furrow pressed
+R/M/6|1997||26-Jul-1996||rolled.|B
+R/M/6|1997||30-Aug-1996||springtine cultivated.|B
+R/M/6|1997||30-Aug-1996|CROPCHEM -, A, B, C, D| rotary harrowed, Apex, undressed, drilled at 120 seed per m.
+R/M/6|1997||30-Aug-1996|CROPCHEM TR| rotary harrowed, Salut, undressed, drilled at 120 seed per m^.
+R/M/6|1997||30-Aug-1996||Rolled.|T
+R/M/6|1997||24-Sep-1996|CROPCHEM TR| Salut, broadcast at 90 seed per m?.|T
+R/M/6|1997||27-Sep-1996||Irrigated 25 mm.|B
+R/M/6|1997||30-Oct-1996||Butisan S at 1.5 1 in 200 1.|B
+R/M/6|1997||28-Feb-1997||34.58 N at 175 kg.|B
+R/M/6|1997||18-Mar-1997||34.5% N at 350 kg.|B
+R/M/6|1997||09-Jul-1997||Reglone at 3.0 1 with Vassgro Non-ionic at 392 ml in 400 1.|B
+R/M/6|1997||16-Jul-1997||combine harvested. 
+R/M/6|1997|||Previous crops|| W. wheat 1995, set-aside 1996. 
+R/M/6|1997|||note||Plant sampled were taken in December to assess investigation of cabbage stem flea beet. Pollen beet Cultivations were assessed on five occasions in March and April. Raceme sampled were taken in April to assess pollen beet eggs and larvae. Pod sampled were taken in May and June to assess seed weevil and pod ridged eggs and larvae. 155|B
+R/RAW/8|1998||26-Aug-1997||ploughed and furrow pressed.
+R/RAW/8|1998||26-Aug-1997||Rolled.|B
+R/RAW/8|1998||27-Aug-1997||rotary harrowed, Apex, undressed, drilled at 120 seed per m. .|B
+R/RAW/8|1998||03-Oct-1997||Clayton Metazachlor at 1.5 1 in 200 1.|B
+R/RAW/8|1998||14-Oct-1997|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||22-Oct-1997|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||27-Oct-1997|PESTCONT U| Metarhizium anísopliae in 10 1.|T
+R/RAW/8|1998||29-Oct-1997| PESTCONT I| Decis at 500 g in 200 1.||
+R/RAW/8|1998||07-Nov-1997||Punch C at 0.4 1 in 200 1.|B
+R/RAW/8|1998||12-Nov-1997|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||04-Feb-1998||34.5% N at 290 kg.|B
+R/RAW/8|1998||17-Feb-1998||Folicur at 0.5 1 in 200 1.|B
+R/RAW/8|1998||19-Feb-1998||Laser at 0.75 1 with Chiltern Cropoil at 1.0 1 in 100 1.|B
+R/RAW/8|1998||02-Mar-1998||34.5% N at 350 kg.|B
+R/RAW/8|1998||27-Mar-1998|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||02-Apr-1998|PESTCONT I| Decis at 500 g in 200 1.|T
+R/RAW/8|1998||08-Apr-1998|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||17-Apr-1998|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||27-Apr-1998|PESTCONT U| Metarhizium anisopliae in 10 1.|T
+R/RAW/8|1998||16-Jul-1998||Reglone at 3.0 1 with Headland Enhance LF at 400 ml in 400 1.|B
+R/RAW/8|1998||24-Jul-1998||combine harvested
+R/RAW/8|1998|||Previous crops||S. barley 1996, w. wheat 1997. 149|B
+W/BES/20|2000||08-Mar-2000||Flexitined.|B
+W/BES/20|2000||16-Mar-2000|CH|Broadcast chickweed at 200 seed.
+W/BES/20|2000||16-Mar-2000|OA|Broadcast oats at 80 seed.
+W/BES/20|2000||16-Mar-2000||Combination drilled, Quattro, at 40 seed' with the Accord drill. Rolled.|T
+W/BES/20|2000||19-Apr-2000|| Decis at 250 ml in 200 1.|B
+W/BES/20|2000||03-May-2000|W1SP| Weeded once.
+W/BES/20|2000||03-May-2000|W1DP| Weeded twice.|T
+W/BES/20|2000||15-May-2000|NO2,W2DP| Weeded twice.|T
+W/BES/20|2000||20-May-2000|| Hallmark at 150 ml in 200 1.
+W/BES/20|2000||20-May-2000|NO1|Basagran SG at 1.65 kg in 220 1.|B
 W/BES/20|2000||11-Jun-2000|| Folio at 2.0 1 in 200 1,|B
-W/BES/20|2000||26-Jun-2000|| tm)Bravo 500 at 1.5 1 in 200 1. :B: : tm)Folicur at 0.5 1l in 200 1. 5B : tm)Aphox at 280 g in 200 1.|B
-W/BES/20|2000||22-Aug-2000|| combine harvested. Previous crops: potatoes and w. rape 1998, w. wheat 1999. 166|B
+W/BES/20|2000||26-Jun-2000|| Bravo 500 at 1.5 1 in 200 1.
+W/BES/20|2000||26-Jun-2000||Folicur at 0.5 1l in 200 1.
+W/BES/20|2000||26-Jun-2000||Aphox at 280 g in 200 1.|B
+W/BES/20|2000||22-Aug-2000|| combine harvested.
+W/BES/20|2000|||Previous crops||potatoes and w. rape 1998, w. wheat 1999. 166|B
