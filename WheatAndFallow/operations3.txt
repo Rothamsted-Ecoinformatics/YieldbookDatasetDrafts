@@ -1,0 +1,162 @@
+RWF3|1992||| wheat plot:|
+RWF3|1992||15-Oct-1991|rotary harrowed twice, Apollo, dressed Fonofos seed Treatment, drilled at 200 kg.|T
+RWF3|1992||17-Oct-1991|Rolled.|T
+RWF3|1992||30-Jul-1992|combine harvested. fallow plot:|T
+RWF3|1992||20-Sep-1991|ploughed, spring cultivated, rolled.|T
+RWF3|1992||15-Jan-1992|Chisel ploughed.|T
+RWF3|1992||18-May-1992|Heavy spring cultivated.|T
+RWF3|1992||25-Jun-1992|cultivated by rotary grubber. grain and STRAW TONNES/HECTARE grain STRAW YIELD 1.19 1.08 MEAN DM$ 85.5 86.4 PLOT AREA HARVESTED 0.04304 21|T
+RWF3|1993||| wheat plot:|
+RWF3|1993||14-Oct-1992|ploughed.|T
+RWF3|1993||19-Oct-1992|rotary harrowed twice, Apollo, dressed Fonofos seed Treatment, drilled at 380 seods per square metre.|T
+RWF3|1993||17-Aug-1993|combine harvested. fallow plot:|T
+RWF3|1993||05-Oct-1992|ploughed.|T
+RWF3|1993||26-May-1993|cultivated by rotary grubber.|T
+RWF3|1993||24-Jun-1993|cultivated by rotary grubber. grain and $TRAW TONNES/HECTARE grain STRAW YIELD 1.65 1.09 MEAN DMt 73.9 77.5 PLOT AREA HARVESTED 0.04304 21|7
+RWF3|1994||| wheat plot:|
+RWF3|1994||20-Oct-1993|ploughed.|T
+RWF3|1994||28-Oct-1993|spring cultivated, rotary harrowed, Apollo, dressed Fonofos seed Treatment, drilled at 380 seed per m'.|T
+RWF3|1994||09-May-1994|all at 30 g with Cheetah per at 3.0 1 and Starane 2 at 0.75 1 in 200 1. : T : Halo at 2.0 1 with new 5C Cycocel at 2.5 1 in 200 1.|T
+RWF3|1994||13-Jun-1994|Halo at 2.0 1 with Mallard 750 EC at 0.5 1 in 200 1.|T
+RWF3|1994||17-Jun-1994|Hostathion at 840 ml in 200 1.|T
+RWF3|1994||22-Aug-1994|combine harvested. fallow plot:|T
+RWF3|1994||20-Oct-1993|ploughed.|T
+RWF3|1994||16-Jun-1994|cultivated by rotary grubber.|T
+RWF3|1994||08-Jul-1994|cultivated by rotary grubber. grain and STRAW TONNES/HECTARE grain STRAW YIELD 1.12 0.39 MEAN DM% 84.1 76.9 PLOT AREA HARVESTED 0.023232 22|T
+RWF3|1995||| wheat plot: ;|
+RWF3|1995||06-Oct-1994|Roundup at 4.0 i in 200 1.|B
+RWF3|1995||16-Nov-1994|spring cultivated.|T
+RWF3|1995||17-Nov-1994|rotary harrowed, Apollo, dressed new Kotol, drilled at 380 seed per m.|T
+RWF3|1995||16-Jun-1995|Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.|T
+RWF3|1995||29-Jun-1995|primicarb 50 DG at 280 g in 200 1.|T
+RWF3|1995||06-Aug-1995|combine harvested. fallow plot:|T
+RWF3|1995||06-Oct-1994|Roundup at 4.0 1 in 200 1.|B
+RWF3|1995||14-Oct-1994|ploughed.|T
+RWF3|1995||31-May-1995|Heavy spring cultivated.|T
+RWF3|1995||09-Jun-1995|cultivated by rotary grubber.|T
+RWF3|1995||17-Jul-1995|spring cultivated. grain and STRAW TONNES/HECTARE grain STRAW YIELD 1.93 0.67 MEAN DM$ 88.0 94.1 PLOT AREA HARVESTED 0.044605 22|T
+RWF3|1996||| wheat plot:|
+RWF3|1996||29-Sep-1995|rotary harrowed, Edward, dressed Fonofos seed Treatment, drilled at 380 seed per nm’.|T
+RWF3|1996||26-Apr-1996|all at 30 g with Cheetah per at 1.25 1 in 200 1.|T
+RWF3|1996||06-Jun-1996|Monicle at 1.0 1 in 320 1.|T
+RWF3|1996||16-Aug-1996|combine harvested. fallow plot:|T
+RWF3|1996||11-Aug-1995|Straw barley.|T
+RWF3|1996||25-Sep-1995|ploughed and furrow pressed. :|T
+RWF3|1996||30-Apr-1996|Heavy spring cultivated.|T
+RWF3|1996||17-Jul-1996|shallow cultivated with thistle-bar. grain and STRAW TONNES/HECTARE grain STRAW YIELD 2.48 1.35 MEAN DM% 86.3 96.3 PLOT AREA HARVESTED 0.023232 24|T
+RWF3|1997||| wheat plot:|
+RWF3|1997||05-Oct-1996|ploughed.|T
+RWF3|1997||16-Oct-1996|Heavy spring cultivated, spring cultivated, Edward, dressed beet Gold and Fonofos seed Treatment, drilled at 380 seed per m*.|T
+RWF3|1997||17-Mar-1997|Topik at 1.25 1 with Sprayprover at 1.0 1 in 200 1.|T
+RWF3|1997||10-Jun-1997|Folicur at 0.5 1 with Mallard 750 EC at 0.3 1 and Winter at 0.5 1 in 300 1. lé-Aug-97 : T : combine harvested. fallow plot:|T
+RWF3|1997||05-Oct-1996|ploughed.|T
+RWF3|1997||15-Apr-1997|Heavy spring cultivated.|T
+RWF3|1997||08-Jul-1997|Thistle barred.|T
+RWF3|1997||14-Aug-1997|Thistle barred. note: A sampled of unground grain and straw was archived. grain and STRAW TONNES/HECTARE grain STRAW YIELD 2.01 1.16 MEAN DM$* 85.7 92.4 PLOT AREA HARVESTED 0.023232 23|T
+RWF3|1998||| wheat plot:|
+RWF3|1998||23-Oct-1997|ploughed.|T
+RWF3|1998||27-Oct-1997|Edward, dressed Anchor and Fonofos seed Treatment, drilled at 380 seed per m.|T
+RWF3|1998||08-May-1998|all at 20 g with Starane 2 at 0.5 1 in 200 1.|T
+RWF3|1998||09-May-1998|Opus at 0.7 1 in 200 1.|T
+RWF3|1998||28-May-1998|Opus at 0.7 1 in 200 1|T
+RWF3|1998||15-Jun-1998|Bavistin DF at 0.5 kg with Policur at 0.5 1 in 100 1.|T
+RWF3|1998||16-Aug-1998|combine harvested. fallow plot:|T
+RWF3|1998||23-Oct-1997|ploughed.|"T
+RWF3|1998||29-Apr-1998|spring cultivated.|T
+RWF3|1998||20-May-1998|Thistle barred.|T
+RWF3|1998||09-Jul-1998|Thistie barred. note: A sampled of unground grain and straw was archived. grain and STRAW TONNES /HECTARE grain STRAW YIELD 1.48 0.57 MEAN DM$ 82.4 83.3 PLOT AREA HARVESTED 0.023232 24|T
+RWF3|1999||| wheat plot:|
+RWF3|1999||07-Oct-1998|ploughed.|T
+RWF3|1999||15-Oct-1998|spring cultivated. rotary harrowed, Edward tr. Sibutol and Evict, drilled at 380 seed per m'.|T
+RWF3|1999||16-Mar-1999|Hawk at 2.0 1 with Panther at 1.25 1 and Cropoil at 1.0 1 in 200 1.|T
+RWF3|1999||01-May-1999|Opus at 0.7 1 in 200 1.|T
+RWF3|1999||01-Jun-1999|Folicur at 1.0 1 with Sipcam UK Rover 500 at 1.0 1 in 100 1.|T
+RWF3|1999||25-Jun-1999|Folicur at 0.25 1 in 100 1.|T
+RWF3|1999||29-Jul-1999|Roundup Biactive at 4.0 1 in 200 1.|T
+RWF3|1999||06-Aug-1999|combine harvested. fallow plot:|T
+RWF3|1999||06-Apr-1999|spring cultivated. grain and STRAW TONNES/HECTARE grain STRAW YIELD 2.14 0.92 MEAN DM& 80.6 79.6 PLOT AREA HARVESTED 0.023232 21|T
+RWF3|2000||| wheat plot:|
+RWF3|2000||12-Sep-1999|ploughed.|T
+RWF3|2000||04-Oct-1999|Flexitined|T
+RWF3|2000||05-Oct-1999|rotary harrowed, Edward, tr. Sibutol, drilled at 380 seed' with the Accord drill.|T
+RWF3|2000||16-Mar-2000|Hawk at 2.5 1 with Tolkan Turbo at 2.0 1 and Cropoil at 1.0 1 in 200 1.|T
+RWF3|2000||09-May-2000|Opus at 0.7 1 in 100 1. :|T
+RWF3|2000||24-May-2000|mustard at 0.8 1 with Folicur at 0.75 1 in 100 1.|T
+RWF3|2000||17-Jul-2000|hand rogued wild oats.|T
+RWF3|2000||12-Aug-2000|combine harvested. fallow plot:|T
+RWF3|2000||16-Mar-2000|spring cultivated.|T
+RWF3|2000||06-Jun-2000|Thistle barred.|T
+RWF3|2000||29-Jun-2000|spring cultivated. grain and STRAW TONNES/HECTARE grain STRAW YIELD 1.62 0.99 MEAN DM% 85.7 72.0 PLOT AREA HARVESTED 0.05064 22|T
+RWF3|2001||20-Oct-2000|: ploughed.|T
+RWF3|2001||26-Oct-2000|: Flexitined. 2l-Jan-01 : T : : ploughed.|T
+RWF3|2001||02-Apr-2001|: Combination drilled, Axona, tr. Sibutol, at 350 seed^ with the Accord drill.|T
+RWF3|2001||15-May-2001|: tm)Ally at 20 g in 100 1. DT : : Starane 2 at 0.5 1l in 100 |.|T
+RWF3|2001||22-May-2001|: Touchdown at 3.0 1 in 200 1.|T
+RWF3|2001||13-Jun-2001|: Folicur at 0.7 1 in 100 1.|T
+RWF3|2001||26-Jul-2001|: rotary harrowed.|T
+RWF3|2001||20-Aug-2001|: Azural at 4.0 1 in 200 1.|T
+RWF3|2001||07-Sep-2001|: combine harvested plot for yield, and discard. DT : : sampled, barley and weighed straw. ÓT : : earthed straw. ll-Sep-01 : T : : barley straw. note: Poor earthed prevented drilling of Winter wheat; spring wheat was sown instead. . Unground grain and straw was archived.|T
+RWF3|2002||04-Oct-2001|: ploughed plot to be fallowed.|T
+RWF3|2002||12-Oct-2001|: ploughed plot to be wheat.|T
+RWF3|2002||13-Oct-2001|. Combination drilled, Edward, tr. Sibutol, at 350 seed? with the Accord 1 drill.|T
+RWF3|2002||11-Dec-2001|: tm)Hawk at 2.0 1 in 200 1. OT : : tm)Tolkan liquid at 1.0 1 in 200 1. : T : . tm) Phase II at 1.0 1 in 200 1.|T
+RWF3|2002||04-Apr-2002|: tm)Opus at 0.4 1 in 100 1. DT : . tm)Twist at 0.6 1 in 100 1. : T :« . tm) BASF 3C Chlormequat 720 at 1.25 1 in 100 1. : T 5 . tm)Moddus at 0.2 1 in 100 1.|T
+RWF3|2002||10-Apr-2002|: Flexitined.|T
+RWF3|2002||31-May-2002|: tm)Opus at 0.5 1 in 200 1. : T 5 . tm)Twist at 0.8 1 in 200 1.|T
+RWF3|2002||27-Jun-2002|: rotary harrowed.|T
+RWF3|2002||04-Jul-2002|: Rogued wild oats.|T
+RWF3|2002||29-Jul-2002|: Rothamsted.|T
+RWF3|2002||13-Aug-2002|. combine harvested, plots for yield. earthed straw. sampled, barley and weighed straw.|T
+RWF3|2002||24-Aug-2002|: carted barley. note: Unground grain and straw was archived.|T
+RWF3|2003||03-Oct-2002|: Chalk applied at 8000 kg/ha, to Western 52m.|T
+RWF3|2003||03-Oct-2002|: ploughed, 25 cm wide furrows.|B
+RWF3|2003||05-Oct-2002|: Rolled.|B
+RWF3|2003||07-Oct-2002|: Combination drilled, Edward, tr. Sibutol, at 400 seed with the Accord drill.|T
+RWF3|2003||08-Oct-2002|: Rolled.|T
+RWF3|2003||17-Feb-2003|: tm)Lexus 50 DF at 20 g in 200 1. : T : tm) Stomp 400 SC at 3.0 1 in 200 1.|T
+RWF3|2003||30-Apr-2003|: spring fallow strip|T
+RWF3|2003||07-May-2003|: tm)Ally at 30 3 in 200 1. not: : Starane 2 at 0.75 1 in 200 1.|T
+RWF3|2003||10-May-2003|: tm)Opus at 0.5 1 in 200 1. DT : : tm)Amistar at 0.6 1l in 200 |.|T
+RWF3|2003||28-May-2003|: tm)Opus at 0.5 1 in 200 1. DT : : tm)Twist at 1.0 1l in 200 1.|T
+RWF3|2003||09-Jun-2003|: rotary harrowed fallow strip.|T
+RWF3|2003||26-Jul-2003|: Touchdown at 4.0 1 in 200 1.|T
+RWF3|2003||06-Aug-2003|: combine harvested, plots for yield.|T
+RWF3|2003||07-Aug-2003|: combine harvested discard. sampled, barley and weighed straw. note: Unground grain and straw was archived.|T
+RWF3|2004||17-Sep-2003|Flexitine|:
+RWF3|2004||26-Sep-2003|30 cm wide furrows.|:
+RWF3|2004||30-Sep-2003|drilled, Edward, tr. Sibutol Secur, at 350 seed with the Accord drill. : : Rolled.|:
+RWF3|2004||16-Dec-2004|500at 4 1 in 200 1 to wheat plot. : : tm)Stomp 400 SC at 2.5 1 in 200 1 to wheat plot.|:
+RWF3|2004||14-Apr-2004|at 30 g in 200 1 to fallow plot. : Oxytril CM at 0.5 1 in 200 1 to fallow plot.|:
+RWF3|2004||13-May-2004|at 0.75 l in 200 1 to wheat plot. : : tm)Moddus at 0.15 1 in 200 1 to wheat plot.|:
+RWF3|2004||07-Jun-2004|at 0.75 1 in 200 1 to wheat plot. : : tm)Twist at 0.75 l1 in 200 1 to wheat plot.|:
+RWF3|2004||02-Sep-2004|harvested, plot for yield.|:
+RWF3|2004||03-Sep-2004|and weighed straw.|:
+RWF3|2004||07-Sep-2004|harvested discard. earthed and barley straw. note: Unground grain and straw was archived.|:
+RWF3|2005||29-Sep-2004|25 cm wide furrows.|:
+RWF3|2005||30-Sep-2004|Cultipressed|:
+RWF3|2005||05-Oct-2004|Flexitined|:
+RWF3|2005||06-Oct-2004|drilled, Edward, tr. Sibutol Secur, at 350 seed with the Accord drill. : : Rolled.|:
+RWF3|2005||25-Nov-2004|at 2.0 1 in 200 1 to wheat plot. : : tm)Alpha IPU 500 at 2.5 1 in 200 1 to wheat plot. : : tm)Nufarm Cropoil at 1.0 1 in 200 L to wheat plot. : : tm)Hallmark with Zeon Technology at 50 ml in 200 L to wheat plot.|:
+RWF3|2005||07-Apr-2005|fallow plot.|:
+RWF3|2005||29-Apr-2005|at 0.75 1 in 200 1 to wheat plot. : . tm)Bravo 500 at 1.0 1 in 200 1 to wheat plot. : . tm)Atlas Chlormequat 700 at 2.25 L in 200 L to wheat plot.|:
+RWF3|2005||03-May-2005|SX at 30 g in 200 1 to wheat plot.|:
+RWF3|2005||13-May-2005|fallow plot.|:
+RWF3|2005||15-May-2005|at 0.75 1 in 200 1 to wheat plot. : . tm)Bravo 500 at 1.0 1 in 200 1 to wheat plot. : . Starane 2 at 0.5 1 in 200 L to wheat plot.|:
+RWF3|2005||31-May-2005|at 0.75 1 in 200 1 to wheat plot. : . tm)Amistar Opti at 1.5 1 in 200 1 to wheat plot.|.
+RWF3|2005||06-Jun-2005|harrowed.|:
+RWF3|2005||12-Jul-2005|harrowed.|:
+RWF3|2005||16-Aug-2005|harvested, plot for yield, earthed straw.|.
+RWF3|2005||17-Aug-2005|and weighed straw. note: Unground grain and straw was archived.|:
+RWF3|2006||29-Sep-2005|25 cm wide furrows.|:
+RWF3|2006||04-Oct-2005|Cultipressed|:
+RWF3|2006||07-Oct-2005|combination drilled, Edward, tr. Sibutol Secur, at 350 seed with the Accord drill, rolled.|:
+RWF3|2006||17-Oct-2005|at 4.0 1 in 200 1 to wheat plot.|:
+RWF3|2006||05-Dec-2005|with Zeon Technology at 50 ml in 200 L to wheat plot.|:
+RWF3|2006||07-Apr-2006|fallow plot.|:
+RWF3|2006||21-Apr-2006|at 0.75 1 in 200 1 to wheat plot. : : tm)Bravo 500 at 1.0 1 in 200 1 to wheat plot. : : tm)Flexity at 0.2 L in 200 L to wheat plot.|:
+RWF3|2006||17-May-2006|harrowed fallow plot.|:
+RWF3|2006||21-May-2005|at 0.75 1 in 200 1 to wheat plot. : : tm) Bravo 500 at 1.0 1 in 200 1 to wheat plot. : : tm)Vivid at 0.4 1 in 200 1 to wheat plot. : : Starane 2 at 0.75 1 in 200 1 to wheat plot. : : tm)Ally Mar SX at 42 g in 200 1 to wheat plot.|:
+RWF3|2006||3-Jun-2006|fallow plot.|:
+RWF3|2006||06-Aug-2006|harvested discard, barley straw.|:
+RWF3|2006||23-Aug-2006|harvested, plot for yield, earthed straw. : : sampled and weighed straw.|:
+RWF3|2006||25-Aug-2006|harvested remaining discard, barley straw. note: Unground grain and straw was archived.|:
