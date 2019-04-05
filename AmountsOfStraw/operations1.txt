@@ -1,0 +1,110 @@
+CS326|1987|great knott|27-Sept-1986||III (R) paraquat applied
+CS326|1987|great knott|29-Sept-1987||Rolled
+CS326|1987|great knott|1-Oct-1987||disced
+CS326|1987|great knott|6-Oct-1987||rotary harrowed, seed sown and harrowed
+CS326|1987|great knott|19-Mar-1987||N applied
+CS326|1987|great knott|18-Apr-1987||N applied
+CS326|1987|great knott|31-Mar-1987||Isoproturon applied
+CS326|1987|great knott|18-Apr-1987||Clopyralid, bromoxynil and mecoprop applied
+CS326|1987|great knott|28-May-1987||propiconazole applied
+CS326|1987|great knott|30-June-1987||propiconazole, carbendazim and maneb applied
+CS326|1987|great knott|19-Aug-1987||combine harvested
+CS326|1987|far field|8-Oct-1986||I (W) rotary cultivated with crumbler attached, seed sown
+CS326|1987|far field|9-Oct-1987||Rolled
+CS326|1987|far field|10-Oct-1987||Tri-allate applied, harrowed
+CS326|1987|far field|31-Mar-1987||N applied
+CS326|1987|far field|16-Apr-1987||N applied
+CS326|1987|far field|17-Apr-1987||Isoproturon, clopyralid, bromoxynil and mecoprop applied
+CS326|1987|far field|5-June-1987||propiconazole and Tridemorph applied
+CS326|1987|far field|30-June-1987||propiconazole, carbendazim and maneb applied
+CS326|1987|far field|7-Sept-1987||combine harvested
+CS326|1988|great knott|29-Sept-1987||III (R) paraquat applied
+CS326|1988|great knott|23-Oct-1988||spring cultivated
+CS326|1988|great knott|24-Oct-1988||seed sown, harrowed
+CS326|1988|great knott|8-Dec-1988||Tri-allate applied
+CS326|1988|great knott|24-Feb-1988||N applied
+CS326|1988|great knott|22-Apr-1988||and
+CS326|1988|great knott|17-Mar-1988||TIsoproturon applied
+CS326|1988|great knott|6-May-1988||Fluroxypyr, prochloraz and carbendazim applied
+CS326|1988|great knott|3-June-1988||propiconazole and Tridemorph applied
+CS326|1988|great knott|23-June-1988||Carbendazim, maneb and propiconazole applied
+CS326|1988|great knott|25-Aug-1988||combine harvested
+CS326|1988|far field|25-Sept-1987||I (W) glyphosate applied
+CS326|1988|far field|3-Oct-1988||Heavy spring- tine cultivated twice to 10 cm
+CS326|1988|far field|22-Oct-1988||glyphosate applied
+CS326|1988|far field|29-Oct-1988||power harrowed with crumbler attached
+CS326|1988|far field|7-Dec-1988||spring- tine cultivated
+CS326|1988|far field|9-Dec-1988||Spike harrowed with crumbler attached, seed sown
+CS326|1988|far field|8-Mar-1988||N applied
+CS326|1988|far field|3-May-1988||and
+CS326|1988|far field|26-Apr-1988||Isoproturon, bromoxynil, ioxynil and mecoprop applied
+CS326|1988|far field|22-June-1988||Fungicide applied
+CS326|1988|far field|16-Aug-1988||glyphosate applied
+CS326|1988|far field|25-Aug-1988||combine harvested
+CS326|1989|great knott|6-Sept-1988||III (R) Magnesian limestone applied
+CS326|1989|great knott|14-Sept-1989||ploughed
+CS326|1989|great knott|29-Sept-1989||PK applied
+CS326|1989|great knott|18-Oct-1989||paraquat applied
+CS326|1989|great knott|19-Oct-1989||rotary harrowed, seed sown, harrowed
+CS326|1989|great knott|29-Oct-1989||Isoproturon applied
+CS326|1989|great knott|21-Feb-1989||N applied
+CS326|1989|great knott|14-Apr-1989||and
+CS326|1989|great knott|15-Apr-1989||demeton-s-methyl and fluroxypyr applied
+CS326|1989|great knott|19-May-1989||Chlorothalonil applied
+CS326|1989|great knott|20-June-1989||propiconazole and Tridemorph applied
+CS326|1989|great knott|5-Aug-1989||combine harvested
+CS326|1989|far field|16-Sept-1988||I (W) PK applied
+CS326|1989|far field|20-Sept-1989||Subsoiled with tines 140 cm apart, 40 cm deep
+CS326|1989|far field|3-Oct-1989||Rolled
+CS326|1989|far field|19-Oct-1989||paraquat applied
+CS326|1989|far field|21-Oct-1989||spring cultivated with crumbler attached, seed sown, harrowed
+CS326|1989|far field|8-Dec-1989||Isoproturon applied
+CS326|1989|far field|8-Mar-1989||N applied
+CS326|1989|far field|28-Apr-1989||and
+CS326|1989|far field|23-May-1989||Chlorothalonil applied
+CS326|1989|far field|22-June-1989||propiconazole and Tridemorph applied
+CS326|1989|far field|4-Aug-1989||combine harvested
+CS326|1990|great knott|22-Aug-1989||III (R) ploughed
+CS326|1990|great knott|2-Oct-1990||paraquat and wetting agent applied
+CS326|1990|great knott|4-Oct-1990||rotary harrowed
+CS326|1990|great knott|5-Oct-1990||seed sown
+CS326|1990|great knott|6-Oct-1990||Harrowed and rolled
+CS326|1990|great knott|22-Nov-1990||chlortoluron and cyanazine applied
+CS326|1990|great knott|23-Feb-1990||Isoproturon applied
+CS326|1990|great knott|2-Mar-1990||N applied
+CS326|1990|great knott|12-Apr-1990||and
+CS326|1990|great knott|30-Apr-1990||Fluroxypyr and fenoxaprop-ethyl applied
+CS326|1990|great knott|31-May-1990||Fungicide applied
+CS326|1990|great knott|13-Aug-1990||combine harvested
+CS326|1990|far field|30-Aug-1989||I (W) Heavy-tine cultivated
+CS326|1990|far field|21-Sept-1990||and il Sept. rotary cultivated
+CS326|1990|far field|6-Oct-1990||Subsoiled with vibrating tines 50 cm apart and 40 cm deep, glyphosate applied
+CS326|1990|far field|7-Oct-1990||rotary harrowed with crumbler attached, seed sown
+CS326|1990|far field|11-Dec-1990||Isoproturon and isoxaben applied
+CS326|1990|far field|23-Feb-1990||N applied
+CS326|1990|far field|5-Apr-1990||and
+CS326|1990|far field|24-Apr-1990||demeton-s-methyl applied
+CS326|1990|far field|22-May-1990||Fungicide applied
+CS326|1990|far field|6-Aug-1990||combine harvested
+CS326|1991|great knott|24-Aug-1990||III (R) ploughed and rolled
+CS326|1991|great knott|8-Oct-1991||glyphosate applied
+CS326|1991|great knott|12-Oct-1991||rotary harrowed, seed sown and harrowed
+CS326|1991|great knott|15-Oct-1991||Rolled
+CS326|1991|great knott|2-Nov-1991||Tri-allate applied
+CS326|1991|great knott|15-Nov-1991||Isoproturon and pendimethalin applied
+CS326|1991|great knott|4-Mar-1991||WN applied
+CS326|1991|great knott|3-Apr-1991||and
+CS326|1991|great knott|12-Apr-1991||P and K applied
+CS326|1991|great knott|24-Apr-1991||Fenpropimorph applied
+CS326|1991|great knott|11-June-1991||propiconazole applied
+CS326|1991|great knott|21-Aug-1991||combine harvested
+CS326|1991|far field|23-Aug-1991||I (W) Magnesian limestone applied
+CS326|1991|far field|11-Sept-1991||glyphosate applied
+CS326|1991|far field|24-Sept-1991||disced twice
+CS326|1991|far field|2-Oct-1991||Tri-allate applied, rotary harrowed, seed sown
+CS326|1991|far field|27-Nov-1991||Pendimethalin, isoproturon and deltamethrin applied
+CS326|1991|far field|15-Mar-1991||N applied
+CS326|1991|far field|17-Apr-1991||and
+CS326|1991|far field|24-Apr-1991||Fenpropimorph applied
+CS326|1991|far field|20-June-1991||Fenpropimorph, chlorothalonil and flutriafol applied
+CS326|1991|far field|22-Aug-1991||combine harvested

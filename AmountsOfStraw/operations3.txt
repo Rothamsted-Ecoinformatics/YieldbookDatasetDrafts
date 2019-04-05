@@ -1,0 +1,454 @@
+CS326|2007|16-Aug-06|a|great knott|Baled remove straw|None|None
+CS326|2007|06-Sep-06|p|great knott|Azural 3.00|V200|Vha
+CS326|2007|12-Oct-06|a|great knott|Load straw normal 22.14 kg/plot|None|None
+CS326|2007|12-Oct-06|a|great knott|Load Straw - 2 x Normal 44.28 kg/plot|None|None
+CS326|2007|12-Oct-06|a|great knott|Load Straw - 4 x Normal 89.12 kg/piot|None|None
+CS326|2007|19-Oct-06|a|great knott|Plough/ E|None|None
+CS326|2007|29-Oc-06|a|great knott|Combination Drilled|None|None
+CS326|2007|29-Oc-06|s|great knott|Hereward tr Redigo Twin « Deter|350.00|seeds/m*
+CS326|2007|03-Nov-06|p|great knott|Ice 4.00|200|Vha
+CS326|2007|07-Nov-06|p|great knott|Decoy Wetex|5.00|kg/ha
+CS326|2007|04-Dec-06|p|great knott|Entice|7.00|kg/ha
+CS326|2007|16-Mar-07|f|great knott|Double Top|148.00|kg/ha
+CS326|2007|05-Apr-07|p|great knott|Hallmark with Zeon Technology 50.00|mU200|l/ha
+CS326|2007|11-Apr-07|p|great knott|Pacifica 0.50|kg/200|l/ha
+CS326|2007|11-Apr-07|p|great knott|Biopower 1.00|V200|l/ha
+CS326|2007|19-Apr-07|p|great knott|Clean Crop Wanderer 1.00|U200|Vha
+CS326|2007|19-Apr-07|p|great knott|Splice 1.00|200|Vha
+CS326|2007|26-Ap-07|f|great knott|Nitraprill|435.00|kg/ha
+CS326|2007|22-May-07|p|great knott|Amistar Opti 1.25|200|Vha
+CS326|2007|22-May-07|p|great knott|Landgold Epoxiconazole 0.60|V200|l/ha
+CS326|2007|27-Aug-06|a|far field|Baled, remove straw|None|None
+CS326|2007|26-Sep-06|p|far field|Azural 4.00|V200|Vha
+CS326|2007|30-Sep-06|f|far field|Muriate of Potash|200.00|kg/ha
+CS326|2007|01-Oct-06|(|far field|Triple Superphosphate|300.00|kg/ha
+CS326|2007|18-Oct-06|a|far field|Load Straw normal 15.40 kg/plot|None|None
+CS326|2007|18-Oct-06|a|far field|Load straw Normal x 2 30.80 kg/plot|None|None
+CS326|2007|18-Oct-06|a|far field|Load straw Normal x 4 61.60 kg/plot|None|None
+CS326|2007|19-Oct-06|a|far field|Topped to chop straw|None|None
+CS326|2007|20-Oct-06|a|far field|Plough/NW|None|None
+CS326|2007|29-Oct-06|a|far field|Power Harrowed|None|None
+CS326|2007|29-Oct-06|a|far field|Accord Drilled|None|None
+CS326|2007|29-Oct-06|s|far field|Hereward tr Redigo Twin +Deter|375.00|seeds/m?
+CS326|2007|19-Dec-06|p|far field|Hallmark with Zeon Technology 50.00 
+CS326|2007|15-Mar-07|f|far field|Double Top 148.00 kg/ha|ml/200|l/ha
+CS326|2007|27-Mar-07|p|far field|Pacifica 0.50|k9/200|l/ha
+CS326|2007|27-Mar-07|p|far field|Biopower 1.00 
+CS326|2007|20-Apr-07|p|far field|Splice 1.00 V/200 Vha|200|l/ha
+CS326|2007|27-Mar-07|p|far field|Jupital 1.00|1/200|Vha
+CS326|2007|02-May-07|t|far field|Double Top|518.00|kg/ha
+CS326|2007|20-May-07|p|far field|Opus 0.75|V200|ha
+CS326|2007|20-May-07|p|far field|Vivid 0.40|200|Vha
+CS326|2007|20-May-07|p|far field|Bravo 500 1.00|200|Vha
+CS326|2007|20-May-07|p|far field|Sedema Manganese Sulphate 5.00|k9/200|l/ha
+CS326|2007|05-Sep-07|a|far field|Combine harvest, plots for yield|None|None
+CS326|2007|05-Sep-07|a|far field|Swath straw|None|None
+CS326|2008|3-Sep-07|a|great knott|Load straw normal 10.68 kg/plot|None|None
+CS326|2008|3-Sep-07|a|great knott|Load straw 2 x normal 21.36 kg/plot|None|None
+CS326|2008|3-Sep-07|a|great knott|Load straw 4 x normal 42.72 kg/plot|None|None
+CS326|2008|3-Sep-07|a|great knott|Baled - plots|None|None
+CS326|2008|29-Sep-07|a|great knott|Ploughw|None|None
+CS326|2008|13-Oct-07|a|great knott|Combination Drilled|None|None
+CS326|2008|13-Oct-07|s|great knott|Hereward tr beret gold|350.00|seeds/m?
+CS326|2008|14-Oct-07|a|great knott|Rolled|None|None
+CS326|2008|15-Oct-07|p|great knott|Decoy Wetex|7.00|kg/ha
+CS326|2008|18-Oct-07|p|great knott|Liberator 0.60|1/200|Uha
+CS326|2008|18-Oct-07|p|great knott|Alpha Trifluralin 48 EC 2.00|1/200|Vha
+CS326|2008|17-Nov-07|p|great knott|Stomp 400 SC 3.30|1/200|Vha
+CS326|2008|17-Nov-07|p|great knott|Arelon 500 2.00|200|Vha
+CS326|2008|17-Nov-07|p|great knott|Hallmark with Zeon Technology 50.00|ml/200|ha
+CS326|2008|18-Mar-08|f|great knott|Double Top|148.00|kg/ha
+CS326|2008|18-Apr-08|f|great knott|Nitraprill|460.00|kg/ha
+CS326|2008|5-May-08|p|great knott|Manganese Sulphate 32% Premium 5.00|kg/200|I/ha
+CS326|2008|9-May-08|p|great knott|Deuce 1.00|1/150|Vha
+CS326|2008|9-May-08|p|great knott|Bravo 500 0.75|1/150|Uha
+CS326|2008|9-May-08|p|great knott|Flexity 0.20|150|Vha
+CS326|2008|9-May-08|p|great knott|BASF 3C Chlormequat 720 1.00|1/150|Uha
+CS326|2008|19-May-08|p|great knott|Ally Max SX 42.00|9/200|Wha
+CS326|2008|19-May-08|p|great knott|Starane 2 0.75|1/200|Vha
+CS326|2008|31-May-08|p|great knott|Amistar Opti 125|200|Vha
+CS326|2008|31-May-08|p|great knott|Opus Team 1.00|1/200|Vha
+CS326|2008|17-Jun-08|a|great knott|Mow / Rotavate paths|None|None
+CS326|2008|27-Aug-08|a|great knott|Combine harvest, plots for yield|None|None
+CS326|2008|27-Aug-08|a|great knott|Swath straw|None|None
+CS326|2008|27-Aug-08|a|great knott|Sample, bale and weigh straw|None|None
+CS326|2008|7-Sep-07|a|far field|Load straw, normal 12.00 kg/plot|None|None
+CS326|2008|7-Sep-07|a|far field|Load straw, 2 x normal 24.00 kg/plot|None|None
+CS326|2008|7-Sep-07|a|far field|Load straw, 4 x normal 48.00 kg/plot|None|None
+CS326|2008|1-Oct-07|p|far field|Azural 2.00|1/200|Uha
+CS326|2008|9-Oct-07|a|far field|Plough/NW|None|None
+CS326|2008|24-Oct-07|a|far field|Power Harrowed|None|None
+CS326|2008|26-Oct-07|a|far field|Accord Drilled|None|None
+CS326|2008|26-Oct-07|s|far field|Hereward tr beret gold 350.00|—|seeds/m?
+CS326|2008|27-Oct-07|a|far field|Rolled|None|None
+CS326|2008|26-Nov-07|p|far field|Avadex Excel 15G|15.00|kg/ha
+CS326|2008|13-Dec-07|p|far field|Stomp 400 SC 3.30|1/200|Uha
+CS326|2008|13-Dec-07|p|far field|Arelon 500 1.00|1/200|/ha
+CS326|2008|13-Dec-07|p|far field|Hallmark with Zeon Technology 50.00|mv200|l/ha
+CS326|2008|5-Mar-08|1|far field|Double Top|133.00|kg/ha
+CS326|2008|2-May-08|p|far field|Pacifica 0.50|kg/200|I/ha
+CS326|2008|2-May-08|p|far field|Biopower 1.00|1/200|Uha
+CS326|2008|2-May-08|p|far field|Deuce 1.00|200|Vha
+CS326|2008|2-May-08|p|far field|Bravo 500 1.00|1/200|Vha
+CS326|2008|2-May-08|p|far field|Flexity 0.20|1/200|Uha
+CS326|2008|10-May-08|f|far field|Double Top|533.00|kg/ha
+CS326|2008|5-Jun-08|p|far field|Amistar Opti 1.25|200|Vha
+CS326|2008|5-Jun-08|p|far field|Opus 1.00 1 Manganese Sulphate 5.00 kg/200 l/ha|1/200|/ha
+CS326|2008|15-Sep-08|a|far field|Combine harvest, plots for yield|None|None
+CS326|2008|15-Sep-08|a|far field|Swath straw|None|None
+CS326|2009|28-Aug-08|a|great knott|Load straw Normal plots 24.30 kg/plot|None|None
+CS326|2009|28-Aug-08|a|great knott|Load straw x 2 Plots 48.60 kg/plot|None|None
+CS326|2009|28-Aug-08|a|great knott|Load straw x 4 Plots 97.20 kg/plot|None|None
+CS326|2009|28-Aug-08|a|great knott|Topped to chop straw|None|None
+CS326|2009|12-Sep-08|p|great knott|Dow Agrosciences Glyphosate 360 2.00|1/200|Vha
+CS326|2009|02-Oct-08|a|great knott|Plougl/ E|None|None
+CS326|2009|04-Oct-08|a|great knott|Cultipressed|None|None
+CS326|2009|16-Oct-08|a|great knott|Combination Drilled|None|None
+CS326|2009|16-Oct-08|s|great knott|Hereward tr Anchor|350.00|seeds/m2
+CS326|2009|22-0c-08|p|great knott|Liberator 0.60|1/200|l/ha
+CS326|2009|24-Oct-08|p|great knott|Decoy Wetex|7.00|kg/ha
+CS326|2009|20-Nov-08|p|great knott|Karan|5.00|kg/ha
+CS326|2009|27-Nov-08|p|great knott|Avadex Excel 15G|15.00|kg/ha
+CS326|2009|10-Dec-08|p|great knott|Alpha Pendimethalin 330 EC|4.00|l/ha
+CS326|2009|10-Dec-08|p|great knott|Arelon 500|3.00|l/ha
+CS326|2009|10-Dec-08|p|great knott|Hallmark with Zeon Technology|50.00|mi
+CS326|2009|03-Mar-09|D|great knott|Top|185.00|kg/ha
+CS326|2009|14-Apr-09|p|great knott|Pacifica|0.40|kg/ha
+CS326|2009|14-Apr-09|p|great knott|Biopower|1.00|Vha
+CS326|2009|02-May-09|p|great knott|Splice|1.00|l/ha
+CS326|2009|02-May-09|p|great knott|Bravo 500|1.00|Vha
+CS326|2009|02-May-09|p|great knott|Talius|0.13|Vha
+CS326|2009|02-May-09|p|great knott|BASF 3C Chlormequat 720 
+CS326|2009|04-May-09|p|Ally Max SX 42.00 g/ha|2.25|l/ha
+CS326|2009|02-May-09|p|great knott|Agriguard Fluroxypyr 
+CS326|2009|14-May-09||Nitram 14500  kg/ha|0.75|l/ha
+CS326|2009|28-May-09|p|great knott|Brutus P Amistar Opti 1.25 l/ha|1.50|l/ha
+CS326|2009|25-Jun-09|a|great knott|Mow / Rotavate paths|None|None
+CS326|2009|13-Aug-09|a|great knott|Combine harvest discards|None|None
+CS326|2009|15-Aug-09|a|great knott|Combine harvest, plots for yield|None|None
+CS326|2009|15-Aug-09|a|great knott|Sample, bale and weigh straw|None|None
+CS326|2009|19-Aug-09|a|great knott|Sample, bale and weigh straw|None|None
+CS326|2009|16-Sep-08|a|far field|Load straw Normal plots 17.31 kg/plot|None|None
+CS326|2009|16-Sep-08|a|far field|Load straw x 2 Plots 34.63 kg/plot|None|None
+CS326|2009|16-Sep-08|a|far field|Load straw x 4 Plots 69.25 kg/plot|None|None
+CS326|2009|25-Sep-08|a|far field|Topped to chop straw|None|None
+CS326|2009|14-Oct-08|a|far field|Plough’ NW|None|None
+CS326|2009|14-Oct-08|a|far field|Power Harrowed|None|None
+CS326|2009|14-Oct-08|a|far field|Accord Drilled|None|None
+CS326|2009|14-Oct-08|s|far field|Hereward tr Anchor|350.00|seeds/m2
+CS326|2009|14-Oct-08|a|far field|Rolled 1.00|None|None
+CS326|2009|11-Dec-08|p|far field|Avadex Excel 15G|15.00|kg/ha
+CS326|2009|11-Mar-09|f|far field|Double Top|185.00|kg/ha
+CS326|2009|20-Apr-09|p|far field|Pacifica|0.50|kg/ha
+CS326|2009|20-Apr-09|p|far field|Biopower|1.00|Vha
+CS326|2009|29-Apr-09|N|far field||145.00|kg/ha
+CS326|2009|10-May-09|p|far field|Cherokee|1.25|l/ha
+CS326|2009|10-May-09|p|far field|Cycocel|2.25|l/ha
+CS326|2009|10-May-09|p|far field|Headiand Manganese 500 1,00 L in|200|l/ha
+CS326|2009|03-Jun-09|p|far field|Opus 0.80 Lin|200|Vha
+CS326|2009|03-Jun-09|p|far field|Amistar 1.00 L in|200|l/ha
+CS326|2009|05-Jun-09|(|far field|Nitram|116.00|kg/ha
+CS326|2009|24-Aug-09|a|far field|Combine harvest, plots for yield|None|None
+CS326|2010|19-Aug-09|a|great knott|_ Load straw|None|None
+CS326|2010|11-Sep-09|p|great knott|— Nufosate Ace - on stubble|1.50|Vha
+CS326|2010|05-Oct-09|a|great knott|Combination Drilled $ Hereward - At 350 seeds per m2 145.00 kg/ha|None|None
+CS326|2010|05-Oct-09|p|great knott| Liberator - 200 It water|0.60|Vha
+CS326|2010|12-Mar-10|—|great knott|f Double top|185.00|kg/ha
+CS326|2010|08-Apr-10|—|great knott|p — Unix - 146 It water|1.00|Vha
+CS326|2010|08-Apr-10|p|great knott| Unix- 146 t water|1.00|Vha
+CS326|2010|08-Apr-10|p|great knott|Cherokee - 146 It water|1.00|Vha
+CS326|2010|08-Apr-10|p|great knott|Cherokee - 146 It water|1.00|Vha
+CS326|2010|15-Apr-10|f|great knott|Nitram|232.00|kg/ha
+CS326|2010|17-Apr-10|p|great knott|Pacifica - Winter wheat only (146 It water)|0.50|kg/ha
+CS326|2010|17-Apr-10|p|great knott| Biopower - Started (146 It water)|1.00|Vha
+CS326|2010|05-May-10|p|great knott|Bravo 500|1.00|l/ha
+CS326|2010|05-May-10|p|great knott|Splice|1.00|Wha
+CS326|2010|05-May-10|p|great knott|Tracker|1.00|Vha
+CS326|2010|05-May-10|p|great knott|Talius|0.13|Vha
+CS326|2010|05-May-10|p|great knott|Talius|0.13|Vha
+CS326|2010|05-May-10|p|great knott| Agriguard Chlormequat 720|2.25|Vha
+CS326|2010|05-May-10|p|great knott| Chlormequat 3C|2.25|l/ha
+CS326|2010|10-May-10|a|great knott|. Mow/ Rotavate paths|None|None
+CS326|2010|18-May-10|f|great knott|— Nitram|174.00|kg/ha
+CS326|2010|19-May-10|p|great knott| AllyMax SX|42.00|gha
+CS326|2010|19-May-10|p|great knott|Tomahawk|1.00|Vha
+CS326|2010|31-May-10|p|great knott|Comet 200 - 200 It water|0.60|vha
+CS326|2010|31-May-10|p|great knott|Opus - 200 It water|0.60|Vha
+CS326|2010|07-Jun-10|a|great knott| Cutpaths|None|None
+CS326|2010|17-Jun-10|a|great knott|Cut paths|None|None
+CS326|2010|14-Jul-10|a|great knott| Mow/Rotavate paths|None|None
+CS326|2010|31-Aug-10|a|great knott|Combine harvest, plots for yield|None|None
+CS326|2010|31-Aug-10|a|great knott|Sample, bale and weigh straw|None|None
+CS326|2010|01-Sep-10|a|great knott|Sample, bale and weigh straw|None|None
+CS326|2010|04-Sep-10|a|great knott| Baled|None|None
+CS326|2010|01-Oct-09|a|far field|Combination Drilled|None|None
+CS326|2010|01-Oct-09|a|far field|| Rolled S  Hereward - At 350 seeds per m2|None|None
+CS326|2010|10-Dec-09|p|far field|Atlantis - 200 l/ha water|400.00|g/ha
+CS326|2010|10-Dec-09|p|far field|Stomp 400 SC - 200 Vha water|3.00|liha
+CS326|2010|10-Dec-09|p|far field| Biopower - 200 l/ha water 1.00 DLE|None|None
+CS326|2010|18-Mar-10|1|far field|Double Top|185.00|kg/ha
+CS326|2010|10-Apr-10|p|far field|Atlantis WG - 200 It water|0.40|Ivha
+CS326|2010|10-Apr-10|p|far field| Biopower - 200 It water|1.00|Iiha
+CS326|2010|15-Apr-10|1|far field| Nitram - Winter wheat|232.00|kg/ha
+CS326|2010|17-May-10|1|far field| Nitram 34.595|115.00|kg/ha
+CS326|2010|02-Jun-10|p|far field| Opus-200!lt water|0.60|Vha
+CS326|2010|02-Jun-10|p|far field|Comet - 200 lt water 0.6 Vna|None|None
+CS326|2010|06-Sep-10|a|far field| Cutharvest strips, weighed and sampled|None|None
+CS326|2010|06-Sep-10|a|far field|Swath straw|None|None
+CS326|2010|13-Sep-10|a|far field|Sample, bale and weigh straw|None|None
+CS326|2011|04-Sept-10|a|great knott|Load straw|None|None
+CS326|2011|13-Sep-10|a|great knott|Lime - Applied by contractors|4|Uha
+CS326|2011|20-Sep-10|a|great knott|Reaper|3|l/ha
+CS326|2011|21-Sep-10|a|great knott| Ploughing started 22-Sep.10 a  Ploughing completed|None|None
+CS326|2011|11-Oct-10|a|great knott|— Cultipressed|None|None
+CS326|2011|15-Oct-10|a|great knott| Drilled Hereward trt Redigo Deter - 350 seeds/m?|158|kg/ha
+CS326|2011|16-Oct-10|a|great knott|— Rolled|None|None
+CS326|2011|17-Oc-10|p|great knott|Sprayed Regatta - water volume = 200 l/ha|0.6|Vha
+CS326|2011|13-Dec-10|p|great knott|Spread Avadex Excel 15 G|15|kg/ha
+CS326|2011|09-Mar-11|f|great knott|Applied Double Top Fertilizer -|133|kg/ha
+CS326|2011|29-Mar-11|p|great knott|— Sprayed Cherokee in118 | water|1.25|l/ha
+CS326|2011|08-Apr-11|f|great knott|— Applied Nitram Feriliser|262|kg/ha
+CS326|2011|21-Ap-11|p|great knott|— Sprayed Opus, Bravo 500 1.0 Vha and Agriguard Chlormequat - Wheat only. In — 2.25 Vha 200 | water|0.8|Vha
+CS326|2011|06-May-11|p|great knott|Sprayed Bravo 500, Tracker, 1.0 l/ha Agriguard Chlormequat 720 2.25 l/ha and Justice in 200 | water. Wheat only 0.25 l/ha|1.0|Vha
+CS326|2011|10-May-11|f|great knott|— Applied Nitram|261|kg/ha
+CS326|2011|11-May-11|a|great knott|Cut paths|None|None
+CS326|2011|20-May-11|=|great knott|Sprayed Opus Comet 200 0.6 Vha and Bravo 500 1.0 Vha|0.8|Vha
+CS326|2011|23-May-11.|a|great knott|Cut paths|None|None
+CS326|2011|08-Jun-11|a|great knott| Cutpaths|None|None
+CS326|2011|27-Jun-11|a|great knott| Outpaths|None|None
+CS326|2011|26-Jul-11|^|great knott| Cutpaths|None|None
+CS326|2011|16-Aug-11|a|great knott|Combined for yields|None|None
+CS326|2011|10-Oct-10|a|far field|Straw treatment applied, chopped and spread, rate 1 = 15.3 kg.|None|None
+CS326|2011|16-Oct-10|a|far field|Ploughed with 3 furrow Ransome at 14”.|None|None
+CS326|2011|18-Oct-10|s|far field|Combination Drilled Hereward, dressed Beret Gold. Cambridge Rolled- 350 seeds/m?.|None|None
+CS326|2011|03-Mar-11|f|far field|Broadcast Double Top|185|kg/ha
+CS326|2011|26-Mar-11|p|far field|Sprayed Atlantis WG + Bio Power. Atlantis 0.4 kg/ha with Biopower in 200 | water. 1.0 Vha|None|None
+CS326|2011|28-Mar-11|p|far field|Sprayed wheat with Cherokee and Manganese in 200 | water. 1.5 Vha|1.25|Vha
+CS326|2011|18-Apr-11|f|far field|Broadcast 34.5 %N Nitram.|262|kg/ha
+CS326|2011|11-May-11|p|far field|Sprayed Ally Max SX with Gala with Opus 0.75 Vha and Bravo 500 in 200 | water 1.0 Vha|42|g/ha
+CS326|2011|16-May-11|f|far field|Broadcast Nitram, 34.5%N.|116|kg/ha
+CS326|2011|20-May-11|p|far field|Sprayed Comet with Opus 0.8 Vha and Bravo 500 in 200 | water. 1.0 Vha|06|Vha
+CS326|2011|01-Sep-11|a|far field|Combined for yield|None|None
+CS326|2012|17-Aug-11|a|great knott|Straw applied to treatments, as per plan - :|None|None
+CS326|2012|30-Aug-11|p|great knott|Sprayed Statis 360 water volume = 200 It/ha (Sprayed 1.5 stubble prior to primary cultivations)|Ivha|Vha
+CS326|2012|15-Sep-11|»|great knott|Sprayed Symbol water volume = 200 It/ha (Stubble 1.5 glyphosate prior to primary cultivations)|Ilvha|Vha
+CS326|2012|17-Sep-11|a|great knott| Ploughed - started .|None|None
+CS326|2012|19-Sep-11|a|great knott| Ploughed - finished .|None|None
+CS326|2012|20-Sep-11|a|great knott| Cultipressed .|None|None
+CS326|2012|07-Oct-11|s|great knott| Orilled Hereward trt Beret Gold|350|seeds/m*
+CS326|2012|13-Oct-11|p|great knott|XSprayed Liberator « Cinder in 200l/ha of water CiQ2.0|Li@0.6|Vha
+CS326|2012|28-Nov-11|p|great knott|Sprayed Hallmark with Zeon Technology in 200Vha of — 50 ml/na water|None|None
+CS326|2012|29-Feb-12|p|great knott|Sprayed Pacifica and Bio-Power in 150 l/ha of water B@1.0 vha|P@0.4*|*kg/ha
+CS326|2012|15-Mar-12|p|great knott|Sprayed Cherokee SE and Justice in 200 l/ha of water + Ju@0.125|Ch@1.0|Vha
+CS326|2012|16-Apr-12|a|great knott|— Mowed Paths :|None|None
+CS326|2012|23-Apr-12.|p|great knott|Sprayed Bravo 500, Tracker, Agriguard and Starane2 in 200Vha of water Tr@0.8 Ag2.25 $10.50|Br@1.0|vha
+CS326|2012|06-May-12|p|great knott| Sprayed Ally Max in 200I/ha of water|42|g/ha
+CS326|2012|16-May-12|a|great knott| Cutpaths -|None|None
+CS326|2012|17-May-12|f|great knott|Applied Nitram|262|kg/ha
+CS326|2012|22-May-12|p|great knott| Sprayed Topik and Adigor To(Q90.125 AdQ1.0||l/ha
+CS326|2012|23-May-12|p|great knott| Sprayed Comet, Bravo 500 and Opus 8r@1.0 Op@0.8|Co@0.6|Vha
+CS326|2012|13-Jun-12|x|great knott|p Sprayed w/ Amistar and Prosaro in 100I/ha of water Am@0.3 Pro@0.7||Vha
+CS326|2012|15-Jun-12|a|great knott| Cutpaths .|None|None
+CS326|2012|09-Ju-12|a|great knott|Topped/Cut Paths -|None|None
+CS326|2012|30-Jul-12|a|great knott|Paths Cut .|None|None
+CS326|2012|23-Aug-12|a|great knott|Plots harvested, straw weighed and baled. -|None|None
+CS326|2012|19-Sep-12|a|great knott| SubSoiled :|None|None
+CS326|2012|20-Sep-12|a|great knott| Ploughed .|None|None
+CS326|2012|13-Oct-12.|S|great knott|MOP onto Stubble|227|kg/ha
+CS326|2012|08-Sep-11|a|far field|Straw applied to treatments, as per plan - :|None|None
+CS326|2012|15-Sep-11.|p|far field|Sprayed Symbol (glyphosate) on 326 area, ex rye area and 12m headland around whole field|3.0|l/ha
+CS326|2012|23-Sep-11|a|far field| Ploughed, soil thrown west|None|None
+CS326|2012|10-Oct-11.|s|far field|Drilled Hereward trt Redigo Deter|350|seeds/m*
+CS326|2012|11-Oct-11.|a|far field|Cambridge Rolled. -|None|None
+CS326|2012|11-Oct-11.|a|far field|Rolled -|None|None
+CS326|2012|11-Oct-11|a|far field|Errected rabbit netting .|None|None
+CS326|2012|17-Nov-11.|p|far field|Sprayed Sherman, Tawny and Seal Z in 200l/ha of water TaQ2.0 "mlha Se@s0*|Sh@2.5|ha
+CS326|2012|28-Mar-12|f|far field|Double Top applied @ 148 kg/ha= 40 kg/ha N|148|kg/ha
+CS326|2012|29-Mar-12|p|far field|Spray Cherokee|1.25|Vha
+CS326|2012|29-Mar-12|p|far field|Spray Pacifica + biopower - headland only and 4 tramlines from beans and triangle E of ww1250. Bi@* "kg/ha 1.0|SpQ04|Vha
+CS326|2012|10-May-12|1|far field| Nitram|203|kg/ha
+CS326|2012|13-May-12|p|far field|Spray fungicide T1 - Ignite + Bravo 500+ Chlormequat+ Mn in 200 Vha of water Br@1.0 Ch@2.0 Mn@2.0|g@1.0|Wha
+CS326|2012|24-May-12|f|far field| Nitram applied as per plan|203|kg/ha
+CS326|2012|06-Sep-12|a|far field|Combined Plots .|None|None
+CS326|2013|23-Aug-12|a|great knott| Baled and weighed straw See above|None|None
+CS326|2013|20-Sep-12|a|great knott| Ploughed|None|None
+CS326|2013|11-Oct-12|s|great knott| Orilled w/Crusoe dr Redigo Deter|145|kg/ha
+CS326|2013|13-Oct-12.|f|great knott|Spread MOP|227|kg/ha
+CS326|2013|13-Oct-12.|p|great knott|Sprayed Liberator EW|06|Vha
+CS326|2013|18-Oct-12|p|great knott|Spread Slug Pellets - Gusto|6|kg/ha
+CS326|2013|25-Apr-13|f|great knott|— Applied Nitram (second N application)|261|kg/ha
+CS326|2013|07-May-13|p|great knott|Sprayed Kingdom, Bravo and Cycocel Brav@1.0 Vha Cyco@2.0 Vha|King@1.25|Vha
+CS326|2013|05-Jun-13|p|great knott|sprayed refine max, ignite, comet, hatchet ign@1.2 com@0.4 l/ha hat@0.75 Vha Vha|ret(75|g/ha
+CS326|2013|13-Jun-13.|a|great knott|Cut Paths e v|None|None
+CS326|2013|18-Ju-13|^|great knott| CutPaths — -—|None|None
+CS326|2013|13-Aug-13.|a|great knott|Sampo - Harvested plots — —|None|None
+CS326|2013|13-Aug-13.|a|great knott|Baled weighed and sampled plots — - The first and third split N applications of Nitram were 148 and 261 kg/ha, but the application dates were not recorded.|None|None
+CS326|2013|07-Sept-12|a|far field|Straw weighed See above|None|None
+CS326|2013|20-Sep-12|a|far field| Ploughed all plots mE —|None|None
+CS326|2013|27-Oct-12|s|far field|Drilled Crusoe trt Redigo Deter 400||seeds/m?
+CS326|2013|20-Feb-13|s|far field| Orilled Crusoe trt Redigo Deter, re-drilled trial 500||seeds/m*
+CS326|2013|19-Apr-13|f|far field|— Applied Double Top Fertilizer|148|kg/ha
+CS326|2013|09-May-13.|f|far field|Applied Nitram|203|kg/ha
+CS326|2013|16-May-13|p|far field| Sprayed Atlantis + Hadron + Biopower in 150 Itha water Had@0.6 kg/ha Bio@1.0 Vha|At(90.4|kg/ha
+CS326|2013|31-May-13|f|far field|— Applied Nitram|203|kg/ha
+CS326|2013|10-Jun-13|p|far field|Sprayed Bassoon and Gemstone Ba0.4 1.0 Vha|Ge|Vha
+CS326|2013|05-Jul-13.|p|far field|Sprayed Ally Max, Ignite, Comet and Hatchet Al Xtra in 200 It/ha water volume. lg 1.1 Co Vha 0.25 Ha Vha Wha 0.75|42|g/ha
+CS326|2013|02-Sep-13|a|far field|Cut plots for yield v —|None|None
+CS326|2014|13-Aug-13|a|great knott|Straw baled, sampled and loaded on plots See above .|None|None
+CS326|2014|02-Oct-13|s|great knott|Drilled var Crusoe - exp site and immediate surrounds|350|seeds/m*
+CS326|2014|03-Oct-13|a|great knott|Power-harrowed - Exp site and immediate surrounds . .|None|None
+CS326|2014|05-Oct-13|a|great knott|Rolled . :|None|None
+CS326|2014|05-Oct-13|p|great knott|Sprayed liberator + Defy def@2.0 l/ha|lib@0.6|Vha
+CS326|2014|15-Oct-13|p|great knott|Applied Major Slug Pellets|4|kg/ha
+CS326|2014|02-Dec-13|p|great knott|Sprayed Hallmark|50|mi/ha
+CS326|2014|07-Mar-14|f|great knott|Applied Double Top Fertilizer (1* N application)|148|kg/ha
+CS326|2014|29-Mar-14|p|great knott|Sprayed Artemis, Bravo 500, Moddus and BASF 3C 720 — Bra@1 vha Mod@ 150 mi/ha BASF@1.25 Wha|Art?|Vha
+CS326|2014|01-Apr-14.|f|great knott|Applied Nitram Fertilizer (2 N application)|261|kg/ha
+CS326|2014|23-Apr-14|f|great knott|Applied Nitram (3° N application)|261|kg/ha
+CS326|2014|25-Apr-14|p|great knott|Sprayed Ally Max, Kindom, Bravo 500 and Hatchet Xtra king@1.25 Vha bra@1.0 Vha Hatc@1.0 Vha|ally@30|g/ha
+CS326|2014|16-May-14.|p|great knott|Sprayed Vortex|1.5|Vha
+CS326|2014|20-Jun-14|a|great knott|Cut Paths with Iseki and mower - -|None|None
+CS326|2014|05-Sep-14|a|great knott|Sampo -Harvested All Plots for Grain Yield . .|None|None
+CS326|2014|08-Sep-14|a|great knott|Sampled, Baled and Weighed Straw - All plots with - - conventional baler|None|None
+CS326|2014|10-Sep-14|a|great knott|Baled and Removed all straw swath - -|None|None
+CS326|2014|11-Sep-13|a|far field|Straw loaded See above -|None|None
+CS326|2014|13-Sep-13|a|far field|Plough . .|None|None
+CS326|2014|20-Sep-13|s|far field|Drilled var. Crusoe trt Redigo Deter|400|seeds/m?
+CS326|2014|20-Sep-13|a|far field|Power harrowed . -|None|None
+CS326|2014|22-Sep-13.|a|far field|Rolled . .|None|None
+CS326|2014|26-Sep-13|a|far field|Put up Rabbit Fencing - -|None|None
+CS326|2014|30-Sep-13|p|far field|Sprayed Crystal|4|Vha
+CS326|2014|30-Sep-13|p|far field|Sprayed Hurricane|0.1|Vha
+CS326|2014|30-Sep-13|p|far field|Sprayed Dictate|0.2|Vha
+CS326|2014|18-Nov-13|p|far field|Sprayed Hallmark with Zeon Technology 28.-Mar14 f Applied Double Top Fertilizer (1* N application) 148 kg/ha|50|ml/ha
+CS326|2014|01-Apr-14|p|far field|Sprayed Sprinter in 147 l/ha water volume|15|l/ha
+CS326|2014|15-Apr-14|p|far field|Sprayed BASF 3C in 200 l/ha water volume.|1.25|Vha
+CS326|2014|16-Apr-14|p|far field|Sprayed Moddus in 200 l/ha water volume.|0.2|Vha
+CS326|2014|17-Apr-14|p|far field|Sprayed Kingdom in 200 Vha water volume.|1.25|Vha
+CS326|2014|18-Apr-14|p|far field|Sprayed Bravo 500 in 200 l/ha water volume.|1|Vha
+CS326|2014|19-Apr-14|p|far field|Sprayed Hunter in 200 /ha water volume.|1|Vha
+CS326|2014|16-Apr-14|f|far field|Applied Nitram (2” N application)|203|kg/ha
+CS326|2014|07-May-14|f|far field|Applied Nitram (3° N application)|203|kg/ha
+CS326|2014|21-May-14|p|far field|Sprayed Vortex in 150 Vha water volume.|15|Vha
+CS326|2014|06-Jun-14|p|far field|Sprayed Cello in 150 l/ha water volume.|0.55|Vha
+CS326|2014|06-Jun-14|P|far field|Sprayed Amistar in 150 l/ha water volume.|0.25|l/ha
+CS326|2014|06-Jun-14|p|far field|Sprayed Hallmark in 150 Vha water volume.|40|Vha
+CS326|2014|24-Aug-14|a|far field|Combined plots for yield . -|None|None
+CS326|2014|06-Sep-14|a|far field|Straw weights done - -|None|None
+CS326|2014|11-Sep-14|p|far field|Sprayed Firebrand in 200 V/ha water volume. Problem with "Auto control” on sprayer, switched to manual.|1|Vha
+CS326|2014|12-Sep-14|p|far field|Sprayed Samurai in 200 /ha water volume. Problem with "Auto control” on sprayer, switched to manual.|4|Vha
+CS326|2014|02-Oct-14|p|far field|Sprayed Gallup 360 in 200l/ha water volume|4|Vha
+CS326|2015|11/09/2014|a|great knott|Loaded Straw by hand onto plots 4, 7, 11, 14 See above|None|None
+CS326|2015|11/09/2014|a|great knott|Loaded Straw by hand onto plots 2. 6, 10, 13 See above|None|None
+CS326|2015|11/09/2014|a|great knott|Loaded Straw by hand onto plots 3, 5, 9, 16 See above|None|None
+CS326|2015|01/10/2014|s|great knott|Drilled Crusoe trt Redigo Deter|325|seeds/m*
+CS326|2015|03/10/2014|p|great knott|Sprayed Liberator|06|vVha
+CS326|2015|03/10/2014|p|great knott|Sprayed Anthem|24|Vha
+CS326|2015|29/10/2014|p|great knott|Applied TOS Major Slug Pellets|5|kg/ha
+CS326|2015|25/11/2014|p|great knott|Sprayed Hallmark + Pixie|50|mlha
+CS326|2015|25/11/2014|p|great knott|Sprayed Hallmark + Pixie|125|Vha
+CS326|2015|12/03/2015|f|great knott|Applied DoubleTop (27 %N) Fertilizer|148|kg/ha
+CS326|2015|23/03/2015|p|great knott|Sprayed Chex onto Winter Wheat|250|mlha
+CS326|2015|23/03/2015|9|great knott|Sprayed Pacifica onto Winter Wheat|500|mlha
+CS326|2015|23/03/2015|p|great knott|Sprayed Bio Power onto Winter Wheat|1|vha
+CS326|2015|27/03/2015|p|great knott|Sprayed Artemis 1 Una|None|None
+CS326|2015|27/03/2015|p|great knott|Sprayed Bravo 500|1|Vha
+CS326|2015|27/03/2015|p|great knott|Sprayed BASF 3C, Chlormequat 750|125|ha
+CS326|2015|27/03/2015|p|great knott|Sprayed Moddus|150|mlha
+CS326|2015|31/03/2015|||great knott|Applied Nitram (34.5 %N) Fertiliser to Winter Wheat|262|kg/ha
+CS326|2015|22/04/2015|p|great knott|Sprayed Kingdom|1.25|kg/ha
+CS326|2015|22/04/2015|p|great knott|Sprayed Balear720|700|kg/ha
+CS326|2015|30/04/2015|f|great knott|Applied Nitram (34.5 %N)|26|kg/ha
+CS326|2015|22/05/2015|p|great knott|Sprayed Ally Max|30|gm/ha
+CS326|2015|22/05/2015|p|great knott|Sprayed Envoy|750|mlha
+CS326|2015|22/05/2015|p|great knott|Sprayod Bravo500 1 Va|None|None
+CS326|2015|12/06/2015|p|great knott|Sprayed Cello|550|mlha
+CS326|2015|04/08/2015|a|great knott|Harvested surrounds of trial area - Swathed Straw, D ready to be removed.|None|None
+CS326|2015|05/08/2015|a|great knott|Harvested all plots for yield - Sampo - Swathed Dc Straw to be baled|None|None
+CS326|2015|05/08/2015|a|great knott|Sampled, Baled and Weighed all plots on trial - 7 conventional baled.|None|None
+CS326|2015|05/08/2015|a|great knott|Loaded Straw onto plots 4, 7, 11, 14|17.87|kg/ha
+CS326|2015|05/08/2015|a|great knott|Loaded Straw onto plots 2, 6, 10, 13|35.74|kg/ha
+CS326|2015|05/08/2015|a|great knott|Loaded Straw onto plots 3, 5, 9, 16|71.4|kg/ha
+CS326|2015|05/08/2015|a|great knott|Topped all plots with topper 9 to condition straw 7 for ploughing|None|None
+CS326|2015|27/10/2014|a|far field|= Spring tined ee|None|None
+CS326|2015|28/10/2014|s|far field| Orilled Crusoe trt Redigo Deter|400|seeds/m?
+CS326|2015|28/10/2014|a|far field|Rolled|None|None
+CS326|2015|25/11/2014|p|far field|Sprayed Hallmark in 200 l/ha water volume 2511/2014 p Sprayed Movon in 200 Vha water volume 035 Wha|50|mi/ha
+CS326|2015|25/11/2014|p|far field|Sprayed Sienna in 200 Vha water volume 2 Vna 26/032015 1 Applied Double Top Fertilizer (27% N) 148 kg/ha|None|None
+CS326|2015|07/04/2015|p|far field|Sprayed Chex in 200 l/ha water volume|0.25|wha
+CS326|2015|07/04/2015|p|far field|Sprayed Pacifica in 200 l/ha water volume 5 Wa|None|None
+CS326|2015|07/04/2015|p|far field|Sprayed Bio Power in 200lt/ha water volume|1|wha
+CS326|2015|13/04/2005|p|far field|Sprayed Artemis in 131 Vha water volume 1 Vna|None|None
+CS326|2015|13/04/2015|p|far field|Sprayed Bravo 500 in 131 l/ha water volume|1|Vha
+CS326|2015|13/04/2005|p|far field|Sprayed BASF 3C, Chlormequat 750 in 131 I/ha water volume 1304/2015 p Sprayed Moddus in 131 ha water volume 015 Vha 1304/2015 p Sprayed Sprinter in 131 l/ha water volume 2 tha|1.25|Wha
+CS326|2015|14/04/2015|!|far field|— Applied Nitram (34.5% N)|203|kg/ha
+CS326|2015|01/05/2015|t|far field|Applied Nitram (34.5% N)|203|kg/ha
+CS326|2015|11/08/2015|p|far field|Sprayed Cello|09|wha
+CS326|2015|11/05/2015|p|far field|Sprayed Balear 720 in 131 l/ha water volume|07|Vha
+CS326|2015|20/05/2005|a|far field| Cutpaths 30/05'2015 p Sprayed Bassoon in 131 l/ha water volume 0.75 Wha|None|None
+CS326|2015|30/05/2015|p|far field|Sprayed Envoy in 131 Vha water volume|0.75|Wha
+CS326|2015|30/05/2015|p|far field|Sprayed Crescent in 131 W/ha water volume 075 Vna|None|None
+CS326|2015|11/09/2015|a|far field|Combined plots for yield Dc|None|None
+CS326|2016|05/08/2015|a|great knott|_ Loaded Straw onto plots 4, 7, 11, 14|17.87|kg/ha
+CS326|2016|05/08/2015|^|great knott|LoadedStraw onto plots 2, 6, 10, 13|35.74|kg/ha
+CS326|2016|05/08/2015|a|great knott|LoadedStraw onto plots 3, 5, 9, 16|71.4|kg/ha
+CS326|2016|05/08/2015|a|great knott|Topped all plots with topper 9 to condition straw|None|None
+CS326|2016|05/08/2015|f|great knott|ploughing - -|None|None
+CS326|2016|06/09/2015|p|great knott|Sprayed Samurai|1.00|It/ha
+CS326|2016|06/09/2015|p|great knott|Sprayed Firebrand|2.00|It/ha
+CS326|2016|15/09/2015|a|great knott|_ Ploughed; Thrown West|None|None
+CS326|2016|28/09/2015|a|great knott| Cultipressed|None|None
+CS326|2016|05/10/2015|s|great knott|Drilled Crusoe dr Redigo|350.00|seeds/m?
+CS326|2016|05/10/2015|a|great knott|_ Ring Rolled|None|None
+CS326|2016|09/10/2015|p|great knott|Sprayed Liberator|600.00|ml/ha
+CS326|2016|12/11/2015|p|great knott|Sprayed Hallmark|40.00|mi/ha
+CS326|2016|08/03/2016|f|great knott|Applied Double Top Fertilizer (27% N); Applied with Kuhn Aerospreader|148.00|kg/ha
+CS326|2016|01/04/2016|f|great knott|Applied Nitram (34.5% N)|260.00|kg/ha
+CS326|2016|05/04/2016|p|great knott|Sprayed 3C Chlormequat 750|1.25|It/ha
+CS326|2016|05/04/2016|p|great knott|Sprayed Moddus 200.00||ml/ha
+CS326|2016|05/04/2016|p|great knott|SprayedSavannah|500.00|mi/ha
+CS326|2016|05/04/2016|p|great knott|Sprayed Bravo 500|1.00|It/ha
+CS326|2016|08/04/2016|p|great knott|Sprayed Moddus|150.00|ml/ha
+CS326|2016|08/04/2016|p|great knott|Sprayed 3C Chlormequat750,|1.25|It/ha
+CS326|2016|08/04/2016|p|great knott|Sprayed Odin|500.00|ml/ha
+CS326|2016|08/04/2016|p|great knott|Sprayed Mirage 40ec|500.00|mi/ha
+CS326|2016|08/04/2016|p|great knott|Sprayed Bravo500|1.00|It/ha
+CS326|2016|14/04/2016|f|great knott|Applied MOP; Applied to wheat only|250.00|kg/ha
+CS326|2016|14/04/2016|f|great knott|Applied TSP|298.00|kg/ha
+CS326|2016|25/04/2016|f|great knott|Applied Nitram (34.596 N)|260.00|kg/ha
+CS326|2016|04/05/2016|p|great knott|Sprayed Ally Max|20.00|g/ha
+CS326|2016|04/05/2016|p|great knott|Sprayed Keystone 800.00||ml/ha
+CS326|2016|04/05/2016|p|great knott|Sprayed Balear 720 700.00||ml/ha
+CS326|2016|25/05/2016|p|great knott|Sprayed Vortex|1.50|It/ha
+CS326|2016|25/05/2016|p|great knott|SprayedSpiggot|250.00|ml/ha
+CS326|2016|25/05/2016|p|great knott|Sprayed Hatchet Xtra 750.00||ml/ha
+CS326|2016|08/07/2016|p|great knott|Sprayed Cello|550.00|mi/ha
+CS326|2016|08/07/2016|p|great knott|Sprayed Hallmark|50.00|ml/ha
+CS326|2016|05/10/2015|a|far field|Topped straw|None|None
+CS326|2016|07/10/2015|a|far field| Ploughed; Thrown north west|None|None
+CS326|2016|08/10/2015|a|far field| Springtyne|None|None
+CS326|2016|16/10/2015|s|far field| Orilled Crusoe dr Redigo Deter|375.00|Seeds/m2
+CS326|2016|17/10/2015|a|far field|Rolled|None|None
+CS326|2016|31/10/2015|p|far field| Sprayed Liberator (in 200 It/ha water volume.)|0.60|It/ha
+CS326|2016|03/11/2015|p|far field| Sprayed Sprinter (in 200 It/ha water volume.)|2.00|It/ha
+CS326|2016|03/11/2015|p|far field| Sprayed Hallmark (in 200 It/ha water volume.)|40.00|ml/ha
+CS326|2016|26/02/2016|f|far field|Applied Double Top Fertilizer|148.00|kg/ha
+CS326|2016|31/03/2016|p|far field|Sprayed Chex (in 150 It/ha water volume.)|0.25|It/ha
+CS326|2016|31/03/2016|p|far field| Sprayed Pacifica (in 150 It/ha water volume.)|0.50|kg/ha
+CS326|2016|31/03/2016|p|far field| Sprayed Bio Power (in 150 It/ha water volume.)|1.00|It/ha
+CS326|2016|04/04/2016|f|far field|Applied Nitram (34.5% N) Fertiliser|203.00|kg/ha
+CS326|2016|05/04/2016|p|far field| Sprayed Sprinter (in 150 It/ha water volume.)|2.00|It/ha
+CS326|2016|05/04/2016|p|far field| Sprayed Toledo (in 150 It/ha water volume.)|0.30||t/ha
+CS326|2016|05/04/2016|p|far field| Sprayed Bravo 500 (in 150 It/ha water volume.) 1.00||It/ha
+CS326|2016|05/04/2016|p|far field|Sprayed Moddu (in 150 It/ha water volume.) 0.10||It/ha
+CS326|2016|05/04/2016|p|far field|Sprayed Chlormequat (in 150 It/ha water volume.)|1.25|It/ha
+CS326|2016|29/04/2016|f|far field|Applied Nitram (34.5% N) Fertiliser|203.00|kg/ha
+CS326|2016|04/05/2016|p|far field| Sprayed Sprinter (in 150 It/ha water volume.)|2.00|It/ha
+CS326|2016|04/05/2016|p|far field| Sprayed Keystone (in 150 It/ha water volume.) 0.80||It/ha
+CS326|2016|04/05/2016|p|far field| Sprayed Balear 720 (in 150 It/ha water volume.)|0.70|It/ha
+CS326|2016|24/05/2016|p|far field| Sprayed Sprinter (in 150 It/ha water volume.)|2.00|It/ha
+CS326|2016|24/05/2016|p|far field| Sprayed Vortex (in 150 It/ha water volume.)|1.50|It/ha
+CS326|2016|09/06/2016|p|far field| Sprayed Cello (in 150 It/ha water volume.)|0.60|It/ha
+CS326|2016|09/06/2016|p|far field| Sprayed Cyflamid (in 150 It/ha water volume.)|0.15|It/ha
+CS326|2016|09/06/2016|p|far field| Sprayed Hallmark (in 150 It/ha water volume.)|50.00|ml/ha
+CS326|2016|13/08/2016|a|far field|Combined|None|None
