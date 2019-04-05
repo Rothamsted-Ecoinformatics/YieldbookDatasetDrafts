@@ -1,8 +1,160 @@
 Operation Id,experiment,year,cropped section,new start date,new end date,operation,operation type,Amount,Units
+,Broadbalk,1929,cropped plots,09/10/1928,,seed sown,,,
+,Broadbalk,1929,cropped plots,09/08/1929,,harvest,,,
+,Broadbalk,1929,cropped plots,17/08/1929,,carted,,,
+,Broadbalk,1930,all plots,05/09/1929,06/09/1929,tractor cultivated across,,,
+,Broadbalk,1930,all plots,20/09/1929,,tractor cultivated across with thistle bar attached,,,
+,Broadbalk,1930,all plots,01/10/1929,08/10/1929,ploughed,,,
+,Broadbalk,1930,all plots,16/10/1929,,harrowed in seed,,,
+,Broadbalk,1930,Sections I and II,21/02/1930,,chain harrowed,,,
+,Broadbalk,1930,Sections I and II,23/04/1930,,harrowed across,,,
+,Broadbalk,1930,all plots,29/04/1930,,harrowed across,,,
+,Broadbalk,1930,Sections I and II,02/05/1930,,chain harrowed across,,,
+,Broadbalk,1930,"Sections III, IV, V",02/05/1930,,tooth harrowed lengthwise,,,
+,Broadbalk,1930,cropped plots,15/10/1929,,seed sown,,,
+,Broadbalk,1930,cropped plots,18/08/1930,,harvest,,,
+,Broadbalk,1930,cropped plots,27/08/1930,30/08/1930,carted,,,
+,Broadbalk,1931,all plots,30/08/1930,01/09/1930,tractor cultivated,,,
+,Broadbalk,1931,all plots,02/10/1930,07/10/1930,tractor ploughed,,,
+,Broadbalk,1931,all plots,15/10/1930,,tractor disc harrowed followed by drag harrow,,,
+,Broadbalk,1931,cropped sections,16/10/1930,,harrowed in seed,,,
+,Broadbalk,1931,cropped sections,16/10/1930,,seed sown,,,
+,Broadbalk,1931,cropped sections,17/08/1931,18/08/1931,harvest,,,
+,Broadbalk,1931,cropped sections,27/08/1931,29/08/1931,carted,,,
+,Broadbalk,1932,all plots,29/08/1931,15/09/1931,ploughed,,,
+,Broadbalk,1932,all plots,21/09/1931,26/09/1931,tractor cultivated with disc and tooth harrows,,,
+,Broadbalk,1932,all plots,10/10/1931,12/10/1931,cultivate with thistle bar attached,,,
+,Broadbalk,1932,all plots,15/10/1931,,harrowed,,,
+,Broadbalk,1932,all plots,25/02/1931,,harrowed,,,
+,Broadbalk,1932,cropped sections,13/10/1931,,seed sown,,,
+,Broadbalk,1932,cropped sections,09/08/1932,10/08/1932,harvest,,,
+,Broadbalk,1932,cropped sections,16/08/1932,18/08/1932,carted,,,
+,Broadbalk,1933,all plots,19/08/1932,05/09/1932,ploughed,,,
+,Broadbalk,1933,all plots,15/09/1932,16/09/1932,cultivated,,,
+,Broadbalk,1933,cropped sections,17/10/1932,,harrowed,,,
+,Broadbalk,1933,cropped sections,08/05/1933,,harrowed,,,
+,Broadbalk,1933,cropped sections,17/10/1932,,seed sown,,,
+,Broadbalk,1933,cropped sections,10/10/1932,11/10/1932,manures applied,,,
+,Broadbalk,1933,cropped sections,29/03/1933,30/05/1933,manures applied,,,
+,Broadbalk,1933,cropped sections,22/05/1933,,manures applied,,,
+,Broadbalk,1933,cropped sections,27/07/1933,28/07/1933,harvested,,,
+,Broadbalk,1933,fallow sections,24/04/1933,25/04/1933,ploughed,,,
+,Broadbalk,1933,fallow sections,07/07/1933,10/07/1933,ploughed,,,
+,Broadbalk,1933,fallow sections,29/03/1933,12/04/1933,cultivated,,,
+,Broadbalk,1933,fallow sections,15/09/1932,,harrowed,,,
+,Broadbalk,1933,fallow sections,15/06/1933,,harrowed,,,
+,Broadbalk,1933,fallow sections,10/05/1933,,rolled,,,
+,Broadbalk,1933,fallow sections,02/06/1933,,rolled,,,
+,Broadbalk,1934,all plots,08/08/1933,12/08/1933,ploughed,,,
+,Broadbalk,1934,all plots,09/10/1933,,harrowed,,,
+,Broadbalk,1934,cropped sections,12/10/1933,14/10/1933,harrowed,,,
+,Broadbalk,1934,cropped sections,05/04/1934,06/04/1934,harrowed,,,
+,Broadbalk,1934,cropped sections,12/10/1933,13/10/1934,seed sown,,,
+,Broadbalk,1934,cropped sections,09/10/1933,,harrowed,,,
+,Broadbalk,1934,cropped sections,12/10/1933,,harrowed,,,
+,Broadbalk,1934,cropped sections,03/04/1934,,harrowed,,,
+,Broadbalk,1934,cropped sections,27/04/1934,,harrowed,,,
+,Broadbalk,1934,cropped sections,01/08/1934,03/08/1934,harvested,,,
+,Broadbalk,1934,fallow sections,10/05/1934,,ploughed,,,
+,Broadbalk,1934,fallow sections,16/07/1934,17/07/1934,ploughed,,,
+,Broadbalk,1934,fallow sections,15/08/1934,21/08/1934,ploughed,,,
+,Broadbalk,1934,fallow sections,12/10/1933,,harrowed,,,
+,Broadbalk,1934,fallow sections,24/02/1934,,harrowed,,,
+,Broadbalk,1934,fallow sections,05/04/1934,06/04/1934,harrowed,,,
+,Broadbalk,1934,fallow sections,14/07/1934,,harrowed,,,
+,Broadbalk,1934,fallow sections,20/04/1934,,cultivated,,,
+,Broadbalk,1934,fallow sections,16/06/1934,,cultivated,,,
+,Broadbalk,1934,fallow sections,18/06/1934,,cultivated,,,
+,Broadbalk,1934,fallow sections,25/06/1934,,cultivated,,,
+,Broadbalk,1934,fallow sections,22/06/1934,,rolled,,,
+,Broadbalk,1934,fallow sections,29/06/1934,,rolled,,,
+,Broadbalk,1935,fallow sections,15/08/1934,21/08/1934,rolled,,,
+,Broadbalk,1935,all plots,20/09/1934,25/09/1934,ploughed,,,
+,Broadbalk,1935,all plots,15/08/1934,21/08/1934,ploughed,,,
+,Broadbalk,1935,cropped sections,20/10/1934,24/10/1934,harrowed,,,
+,Broadbalk,1935,cropped sections,23/10/1934,24/10/1934,seed sown,,,
+,Broadbalk,1935,cropped sections,27/03/1935,28/03/1935,manures applied,,,
+,Broadbalk,1935,cropped sections,18/10/1934,19/10/1934,manures applied,,,
+,Broadbalk,1935,cropped sections,03/05/1935,,manures applied,,,
+,Broadbalk,1935,cropped sections,06/08/1935,08/08/1935,harvested,,,
+,Broadbalk,1935,fallow sections,22/07/1935,,ploughed,,,
+,Broadbalk,1935,fallow sections,03/10/1935,14/10/1935,ploughed,,,
+,Broadbalk,1935,fallow sections,20/10/1934,23/10/1934,harrowed,,,
+,Broadbalk,1935,fallow sections,11/03/1935,,cultivated,,,
+,Broadbalk,1935,fallow sections,23/04/1935,,cultivated,,,
+,Broadbalk,1935,fallow sections,01/05/1935,,cultivated,,,
+,Broadbalk,1935,fallow sections,29/05/1935,,cultivated,,,
+,Broadbalk,1935,fallow sections,04/07/1935,,cultivated,,,
+,Broadbalk,1936,all plots,19/08/1935,22/08/1935,ploughed,,,
+,Broadbalk,1936,all plots,02/10/1935,14/10/1935,ploughed,,,
+,Broadbalk,1936,cropped sections,07/10/1935,08/10/1935,dung applied,,,
+,Broadbalk,1936,all plots,26/09/1935,27/09/1935,harrowed,,,
+,Broadbalk,1936,all plots,31/10/1935,,harrowed,,,
+,Broadbalk,1936,cropped sections,07/11/1935,,harrowed,,,
+,Broadbalk,1936,cropped sections,27/11/1935,,harrowed,,,
+,Broadbalk,1936,cropped sections,20/03/1936,,harrowed,,,
+,Broadbalk,1936,cropped sections,06/04/1936,,harrowed,,,
+,Broadbalk,1936,cropped sections,06/05/1936,,harrowed,,,
+,Broadbalk,1936,all plots,26/10/1935,,springtine harrowed,,,
+,Broadbalk,1936,cropped sections,27/11/1935,,springtine harrowed,,,
+,Broadbalk,1936,cropped sections,30/10/1935,,rolled,,,
+,Broadbalk,1936,cropped sections,06/05/1936,,rolled,,,
+,Broadbalk,1936,cropped sections,28/10/1935,29/10/1935,manures applied,,,
+,Broadbalk,1936,cropped sections,06/11/1935,,manures applied,,,
+,Broadbalk,1936,cropped sections,15/04/1936,,manures applied,,,
+,Broadbalk,1936,cropped sections,06/05/1936,,manures applied,,,
+,Broadbalk,1936,cropped sections,06/11/1935,27/11/1935,seed sown,,,
+,Broadbalk,1936,cropped sections,21/08/1936,22/08/1936,harvested,,,
+,Broadbalk,1936,fallow sections,15/04/1936,,ploughed,,,
+,Broadbalk,1936,fallow sections,22/07/1936,,ploughed,,,
+,Broadbalk,1936,fallow sections,10/08/1936,,harrowed,,,
+,Broadbalk,1936,fallow sections,30/05/1936,,cultivated,,,
+,Broadbalk,1936,fallow sections,29/06/1936,,cultivated,,,
+,Broadbalk,1936,fallow sections,10/08/1936,,cultivated,,,
+,Broadbalk,1937,all plots,15/09/1936,24/09/1936,ploughed,,,
+,Broadbalk,1937,cropped sections,23/09/1936,,dung applied,,,
+,Broadbalk,1937,all plots,08/10/1936,,cultivated,,,
+,Broadbalk,1937,all plots,15/10/1936,,tractor spring-tine harrowed,,,
+,Broadbalk,1937,all plots,16/10/1936,,tractor disc harrowed dung plots,,,
+,Broadbalk,1937,cropped sections,17/10/1936,,springtine harrowed,,,
+,Broadbalk,1937,cropped sections,20/10/1936,21/10/1936,harrowed,,,
+,Broadbalk,1937,cropped sections,06/10/1936,07/10/1936,manures applied,,,
+,Broadbalk,1937,cropped sections,01/05/1937,02/05/1937,manures applied,,,
+,Broadbalk,1937,cropped sections,10/05/1937,,manures applied,,,
+,Broadbalk,1937,cropped sections,20/10/1936,21/10/1936,seed sown,,,
+,Broadbalk,1937,cropped sections,09/08/1937,11/08/1937,harvested,,,
+,Broadbalk,1937,fallow sections,17/10/1936,,tractor rolled and harrowed then spring-tine harrowed,,,
+,Broadbalk,1937,fallow sections,02/04/1937,27/04/1937,springtine harrowed,,,
+,Broadbalk,1937,fallow sections,10/05/1937,,ploughed,,,
+,Broadbalk,1937,fallow sections,27/05/1937,,cultivated,,,
+,Broadbalk,1937,fallow sections,06/08/1937,,cultivated,,,
+,Broadbalk,1937,fallow sections,10/05/1937,,Nitrate of soda applied to plot 16,,,
+,Broadbalk,1938,all plots,06/09/1937,29/09/1937,ploughed,,,
+,Broadbalk,1938,cropped sections,22/09/1937,,dung applied,,,
+,Broadbalk,1938,cropped sections,14/10/1937,16/10/1937,cultivated,,,
+,Broadbalk,1938,cropped sections,04/11/1937,06/11/1937,harrowed,,,
+,Broadbalk,1938,cropped sections,15/03/1938,,harrowed,,,
+,Broadbalk,1938,cropped sections,19/10/1937,,springtine harrowed,,,
+,Broadbalk,1938,all plots,19/10/1937,,rolled,,,
+,Broadbalk,1938,cropped sections,04/11/1937,06/11/1937,seed sown,,,
+,Broadbalk,1938,cropped sections,16/03/1938,,rolled,,,
+,Broadbalk,1938,cropped sections,12/10/1937,14/10/1937,manures applied,,,
+,Broadbalk,1938,cropped sections,11/03/1938,,manures applied,,,
+,Broadbalk,1938,cropped sections,07/04/1938,,manures applied,,,
+,Broadbalk,1938,cropped sections,05/08/1938,,harvested,,,
+,Broadbalk,1938,fallow sections,07/06/1938,11/06/1938,ploughed,,,
+,Broadbalk,1938,fallow sections,14/10/1937,16/10/1937,cultivated,,,
+,Broadbalk,1938,fallow sections,19/10/1937,,springtine harrowed,,,
+,Broadbalk,1938,fallow sections,05/03/1938,,springtine harrowed,,,
+,Broadbalk,1938,fallow sections,02/04/1938,,springtine harrowed,,,
+,Broadbalk,1938,fallow sections,05/05/1938,,springtine harrowed,,,
+,Broadbalk,1938,fallow sections,15/08/1938,,springtine harrowed,,,
+,Broadbalk,1938,fallow sections,05/05/1938,,rolled,,,
 RBK00001,Broadbalk,1948,cropped sections,22/09/1947,24/09/1947,Ploughed,,,
 RBK00002,Broadbalk,1948,cropped sections,24/09/1947,,Dung applied,,,
 RBK00003,Broadbalk,1948,cropped sections,13/10/1947,15/10/1947,Artificials applied,,,
-RBK00004,Broadbalk,1948,cropped sections,22/10/1947,,Rolled and springtine harrowed,,,
+RBK00004,Broadbalk,1948,cropped sections,22/10/1947,,rolled,,,
+,Broadbalk,1948,cropped sections,22/10/1947,,springtine harrowed,,,
 RBK00005,Broadbalk,1948,cropped sections,23/10/1947,,Tooth harrowed,,,
 RBK00006,Broadbalk,1948,cropped sections,24/10/1947,25/10/1947,Seed drilled,,,
 RBK00007,Broadbalk,1948,cropped sections,25/10/1947,,Harrowed in,,,
@@ -1607,7 +1759,7 @@ RBK01605,Broadbalk,2002,forage maize,11/09/2002,,"cut all disced maize. cut samp
 RBK01606,Broadbalk,2002,forage maize,02/10/2002,,topped stalks ready for ploughing Countryside Stewardship Scheme Margins,T,,
 RBK01607,Broadbalk,2002,winter oats,24/08/2001,,"straw baled, sections 2",T,,
 RBK01608,Broadbalk,2002,winter oats,27/09/2001,,"Combination drilled, Gerald, tr. Sibutol, at 350 seeds/m2 with the Accord drill",:,,
-RBK01609,Broadbalk,2002,winter oats,01/11/2001,,Lexus Class oats,,60.00,g/200 l/ha
+RBK01609,Broadbalk,2002,winter oats,01/11/2001,,Lexus Class oats,,60,g/200 l/ha
 RBK01610,Broadbalk,2002,winter oats,01/11/2001,,Hallmark with Zeon technology at 40 ml in 200 1,B,,
 RBK01611,Broadbalk,2002,winter oats,01/06/2002,,"Opera at 1.0 l in 200 l, excluding sections 6",T,,
 RBK01612,Broadbalk,2002,winter oats,14/08/2002,,combine harvested discards to allow straw weights to be taken,,,
@@ -1692,7 +1844,7 @@ RBK01690,Broadbalk,2003,winter wheat,31/05/2003,None,Starane 2 at 1.0 l in 200 l
 RBK01691,Broadbalk,2003,winter wheat,04/08/2003,None,"Combine harvested, all discards to open up plots",,,
 RBK01692,Broadbalk,2003,winter wheat,05/08/2003,None,Combine harvested plots for yield. Swathed straw,,,
 RBK01693,Broadbalk,2003,winter wheat,08/08/2003,None,Baled remaining straw,,,
-RBK01694,Broadbalk,2004,all sections,22 06/04,None,Rotavated paths,,,
+RBK01694,Broadbalk,2004,all sections,23 1/2,None,Rotavated paths,,,
 RBK01695,Broadbalk,2004,all sections,03/09/2003,None,Rolled (excluding section 0),,,
 RBK01696,Broadbalk,2004,all sections,03/09/2003,None,Harvest at 3.0 l in 200 L (excluding section 0 & 8),,,
 RBK01697,Broadbalk,2004,all sections,23/09/2003,None,"K* Muriate of potash at 181 kg, strip 14",,,
@@ -1822,7 +1974,7 @@ RBK01820,Broadbalk,2006,Note,,None,"Note: Samples of wheat and oat grain and str
 RBK01821,Broadbalk,2006,winter oats,11/10/2005,None,"Combination drilled, Gerald, tr. Sibutol, at 350 seeds/m2 with the Accord drill",,,
 RBK01822,Broadbalk,2006,winter oats,11/10/2005,None,Rolled,,,
 RBK01823,Broadbalk,2006,winter oats,27/10/2005,None,Decoy Wetex at 5.0 kg,,,
-RBK01824,Broadbalk,2006,winter oats,14/11/2005,None,Lexus Class oats,,60.00,g/200 l/ha
+RBK01824,Broadbalk,2006,winter oats,14/11/2005,None,Lexus Class oats,,60,g/200 l/ha
 RBK01825,Broadbalk,2006,winter oats,14/11/2005,None,Hallmark with Zeon Technology at 50 ml in 200 l,,,
 RBK01826,Broadbalk,2006,winter oats,21/12/2005,None,Decoy Wetex at 5.0 kg,,,
 RBK01827,Broadbalk,2006,winter oats,12/05/2006,None,Ally Max SX at 42 g in 200 l,,,
@@ -1857,7 +2009,7 @@ RBK01855,Broadbalk,2006,winter wheat,23/08/2006,None,"Combine harvested plots fo
 RBK01856,Broadbalk,2006,winter wheat,25/08/2006,None,"Combine harvested discards, swath and baled straw",,,
 RBK01857,Broadbalk,2007,all sections,05/09/2006,,"Weedazol-TL Sections 0, 1, 2, 4, 6, 7 & 9",p,20,l200 l/ha
 RBK01858,Broadbalk,2007,all sections,28/09/2006,,Topped Section 8 1.00,a,,
-RBK01859,Broadbalk,2007,all sections,04/10/2006,,"Farm Yard Manure Strips 21, 22, excluding section 2",f,35.00,t/ha
+RBK01859,Broadbalk,2007,all sections,04/10/2006,,"Farm Yard Manure Strips 21, 22, excluding section 2",f,35,t/ha
 RBK01860,Broadbalk,2007,all sections,09/10/2006,,"Triple Superphosphate, strips 11, 13, 14, 17 & 18",f,171,kg/ha
 RBK01861,Broadbalk,2007,all sections,09/10/2006,,Muriate of Potash - strip 14,f,181,kg/ha
 RBK01862,Broadbalk,2007,all sections,14/10/2006,,Plough/S,a,,
@@ -1878,7 +2030,7 @@ RBK01876,Broadbalk,2007,all sections,25/06/2007,,Mow / Rotavate paths - down pat
 RBK01877,Broadbalk,2007,all sections,26/07/2007,,Mow / Rotavate paths,a,,
 RBK01878,Broadbalk,2007,all sections,10/08/2007,,Rogue wild oats / thistles / weeds,—,,
 RBK01879,Broadbalk,2007,all sections,10/09/2007,,Remove rabbit fence Cropped sections:,a,,
-RBK01880,Broadbalk,2007,forage maize,21/04/2007,,"Clinic Ace - section 3, pre Maize",p,4.00,l200 l/ha
+RBK01880,Broadbalk,2007,forage maize,21/04/2007,,"Clinic Ace - section 3, pre Maize",p,4,l200 l/ha
 RBK01881,Broadbalk,2007,forage maize,01/05/2007,,Flexitined maize plots,a,,
 RBK01882,Broadbalk,2007,forage maize,02/05/2007,,"Maize N and 1st N Nitraprill plot 063, maize",f,139,kg/ha
 RBK01883,Broadbalk,2007,forage maize,02/05/2007,,"Maize N and 1st N Nitraprill Plots 073, 123, 173, 183, 193, maize",f,278,kg/ha
@@ -1894,7 +2046,7 @@ RBK01892,Broadbalk,2007,forage maize,06/06/2007,,"2nd split N Nitraprill Plot 19
 RBK01893,Broadbalk,2007,forage maize,06/06/2007,,"2nd split N Nitraprill Plot 183, maize",f,278,kg/ha
 RBK01894,Broadbalk,2007,forage maize,06/06/2007,,"2nd split N Nitraprill Plot 123, maize",f,417,kg/ha
 RBK01895,Broadbalk,2007,forage maize,06/06/2007,,"2nd split N Nitraprill Plot 173, maize",f,556,kg/ha
-RBK01896,Broadbalk,2007,forage maize,14/06/2007,,Samson maize plots,p,1.50,l/200 l/ha
+RBK01896,Broadbalk,2007,forage maize,14/06/2007,,Samson maize plots,p,1.5,l/200 l/ha
 RBK01897,Broadbalk,2007,forage maize,19/06/2007,,Callisto maize plots,p,0.75,l/200 l/ha
 RBK01898,Broadbalk,2007,forage maize,18/09/2007,,"Cut harvest strips, weighed and sampled",a,,
 RBK01899,Broadbalk,2007,forage maize,25/09/2007,,Cut maize discards,a,,
@@ -1905,20 +2057,20 @@ RBK01903,Broadbalk,2007,wilderness,25/09/2007,,"Topped wilderness, middle sectio
 RBK01904,Broadbalk,2007,winter oats,02/11/2006,,Combination drilled oat plots,à,,
 RBK01905,Broadbalk,2007,winter oats,02/11/2006,,Gerald r Baytan Secure,s,350,seeds/m2
 RBK01906,Broadbalk,2007,winter oats,04/12/2006,,Decoy Wetex excluding section 3,s,7,kg/ha
-RBK01907,Broadbalk,2007,winter oats,19/12/2006,,Lexus Class oats,p,60.00,g/200 l/ha
+RBK01907,Broadbalk,2007,winter oats,19/12/2006,,Lexus Class oats,p,60,g/200 l/ha
 RBK01908,Broadbalk,2007,winter oats,19/12/2006,,Hallmark with Zeon Technology oats,p,50,ml/200 l/ha
 RBK01909,Broadbalk,2007,winter oats,09/05/2007,,Ally Max SX wheat and oats excluding section 8,p,42,l/200 l/ha
 RBK01910,Broadbalk,2007,winter oats,09/05/2007,,Starane 2 wheat and oats excluding section 0.75 8,p,200,l/ha
-RBK01911,Broadbalk,2007,winter oats,24/05/2007,,Amistar - oats,p,0.60,l/200 l/ha
+RBK01911,Broadbalk,2007,winter oats,24/05/2007,,Amistar - oats,p,0.6,l/200 l/ha
 RBK01912,Broadbalk,2007,winter oats,24/05/2007,,Flexity - oats 0.20,p,200,l/ha
 RBK01913,Broadbalk,2007,winter oats,06/08/2007,,Combine harvest plots for yield and swath straw - oats,a,,
 RBK01914,Broadbalk,2007,winter oats,08/08/2007,,"Sampled, baled and weighed straw - Oats",a,,
 RBK01915,Broadbalk,2007,winter wheat,01/11/2006,,"Combination drilled wheat plots, Hereward tr Redigo Twin & Deter 350.00 seeds/m2",a,,
-RBK01916,Broadbalk,2007,winter wheat,03/11/2006,,"Ice Sections 0, 1, 4, 5, 6, 7 & 9",p,4.0,l200 l/ha
+RBK01916,Broadbalk,2007,winter wheat,03/11/2006,,"Ice Sections 0, 1, 4, 5, 6, 7 & 9",p,4,l200 l/ha
 RBK01917,Broadbalk,2007,winter wheat,04/12/2006,,Decoy Wetex excluding section 3,p,7,kg/ha
 RBK01918,Broadbalk,2007,winter wheat,14/03/2007,,"Nitraprill Wheat strips 12, 17, 18, 19",f,139,kg/ha
-RBK01919,Broadbalk,2007,winter wheat,23/04/2007,,Clean Crop Wanderer all wheat except section 6,p,1.00,l/200 l/ha
-RBK01920,Broadbalk,2007,winter wheat,23/04/2007,,Deuce all wheat except section 6,p,1.00,l/200 l/ha
+RBK01919,Broadbalk,2007,winter wheat,23/04/2007,,Clean Crop Wanderer all wheat except section 6,p,1,l/200 l/ha
+RBK01920,Broadbalk,2007,winter wheat,23/04/2007,,Deuce all wheat except section 6,p,1,l/200 l/ha
 RBK01921,Broadbalk,2007,winter wheat,24/04/2007,,"Nitraprill strips 6, 19, wheat",f,139,kg/ha
 RBK01922,Broadbalk,2007,winter wheat,24/04/2007,,"Nitraprill strips 21, 8, 12, wheat",f,417,kg/ha
 RBK01923,Broadbalk,2007,winter wheat,24/04/2007,,"Nitraprill strips 1, 9, 10, 11, 13, 14, 17, 20, wheat",f,556,kg/ha
@@ -1940,7 +2092,7 @@ RBK01938,Broadbalk,2007,winter wheat,28/08/2007,,"Sample, bale and weigh straw s
 RBK01939,Broadbalk,2007,winter wheat,29/08/2007,,Combine harvest discards and swath straw,a,,
 RBK01940,Broadbalk,2007,winter wheat,29/08/2007,,"Chopped straw, section 0",a,,
 RBK01941,Broadbalk,2007,winter wheat,02/09/2007,,Baled remaining wheat straw,a,,
-RBK01942,Broadbalk,2008,all sections,13/09/2007,,"Weedazol-TL sections 0-3, 4-7, 9",p,20.00,l/200 l/ha
+RBK01942,Broadbalk,2008,all sections,13/09/2007,,"Weedazol-TL sections 0-3, 4-7, 9",p,20,l/200 l/ha
 RBK01943,Broadbalk,2008,all sections,01/10/2007,,Muriate of Potash - strip 14,1,181,kg/ha
 RBK01944,Broadbalk,2008,all sections,01/10/2007,,"Triple Superphosphate, strips 11, 13, 14, 17 & 18",1,171,kg/ha
 RBK01945,Broadbalk,2008,all sections,05/10/2007,,"Chalk - Plots 080, 071, 161, 012, 082. 162, 134. 154, 115, 145, 126, 136, 196, 097, 167, 068, 108, 168, 198, 129, 169",f,2,t/ha
@@ -1958,14 +2110,14 @@ RBK01956,Broadbalk,2008,all sections,02/06/2008,,Mow / Rotavate paths,a,,
 RBK01957,Broadbalk,2008,all sections,05/06/2008,,Mow / Rotavate paths,a,,
 RBK01958,Broadbalk,2008,all sections,17/06/2008,,Mow / Rotavate paths,a,,
 RBK01959,Broadbalk,2008,all sections,25/07/2008,,Rogue wild oats / thistles / weeds - 4 wild oats found,a,,
-RBK01960,Broadbalk,2008,all sections,08/09/2008,,Weedazol-TL all except sections 3 & 8,p,20.00,l/290 l/ha
+RBK01960,Broadbalk,2008,all sections,08/09/2008,,Weedazol-TL all except sections 3 & 8,p,20,l/290 l/ha
 RBK01961,Broadbalk,2008,fallow section 8,22/04/2008,,Flexitined section 8,a,,
 RBK01962,Broadbalk,2008,fallow section 8,02/06/2008,,Ploughed Section 8,a,,
 RBK01963,Broadbalk,2008,fallow section 8,14/07/2008,,"Flexitined - Section 8, and fallow discards",—,,
 RBK01964,Broadbalk,2008,fallow section 8,16/07/2008,,"Flexitined - Section 8, and fallow discards",—,,
 RBK01965,Broadbalk,2008,fallow section 8,21/07/2008,,"a Power harrowed - Section 8, and fallow discards",—,,
 RBK01966,Broadbalk,2008,fallow section 8,03/09/2008,,Plough section 8,a,,
-RBK01967,Broadbalk,2008,forage maize,15/04/2008,,Azural maize plots,—,4.00,l/ha
+RBK01967,Broadbalk,2008,forage maize,15/04/2008,,Azural maize plots,—,4,l/ha
 RBK01968,Broadbalk,2008,forage maize,08/05/2008,,"Nitraprill maize, strip 6",f,139,kg/ha
 RBK01969,Broadbalk,2008,forage maize,08/05/2008,,"Nitraprill maize. strips 21, 8",1,417,kg/ha
 RBK01970,Broadbalk,2008,forage maize,08/05/2008,,"Nitraprill maize, strip 15",f,696,kg/ha
@@ -1979,8 +2131,8 @@ RBK01977,Broadbalk,2008,forage maize,06/06/2008,,Nitraprill Maize plot 192,f,139
 RBK01978,Broadbalk,2008,forage maize,06/06/2008,,Nitraprill Maize plot 182,f,278,kg/ha
 RBK01979,Broadbalk,2008,forage maize,06/06/2008,,Nitraprill Maize plot 172,f,556,kg/ha
 RBK01980,Broadbalk,2008,forage maize,06/06/2008,,Nitraprill Maize plot 122,,417,kg/ha
-RBK01981,Broadbalk,2008,forage maize,24/06/2008,,Samson - maize 1.50,p,1.50,l/200 l/ha
-RBK01982,Broadbalk,2008,forage maize,29/06/2008,,Callisto - maize,p,1.00,l/200 l/ha
+RBK01981,Broadbalk,2008,forage maize,24/06/2008,,Samson - maize 1.50,p,1.5,l/200 l/ha
+RBK01982,Broadbalk,2008,forage maize,29/06/2008,,Callisto - maize,p,1,l/200 l/ha
 RBK01983,Broadbalk,2008,forage maize,23/09/2008,,Forage harvest maize discards,a,,
 RBK01984,Broadbalk,2008,forage maize,23/09/2008,,"Cut harvest strips, weighed and sampled - Maize plots",,,
 RBK01985,Broadbalk,2008,wilderness,28/05/2008,,"Topped wilderness, middle section",a,,
@@ -1993,8 +2145,8 @@ RBK01991,Broadbalk,2008,winter oats,16/11/2007,,"Huron, wheat and oat plots",,5,
 RBK01992,Broadbalk,2008,winter oats,14/12/2007,,Lexus Class oats,p,60,g/200 l/ha
 RBK01993,Broadbalk,2008,winter oats,14/12/2007,,Hallmark with Zeon Technology oats,p,50,ml/200 l/ha
 RBK01994,Broadbalk,2008,winter oats,21/05/2008,,Ally Max SX Oats,p,42,g/200 l/ha
-RBK01995,Broadbalk,2008,winter oats,21/05/2008,,Duplosan KV oats,p,1.50,l/200 l/ha
-RBK01996,Broadbalk,2008,winter oats,14/06/2008,,Flexity Oats section 7,p,0.20,l/200 l/ha
+RBK01995,Broadbalk,2008,winter oats,21/05/2008,,Duplosan KV oats,p,1.5,l/200 l/ha
+RBK01996,Broadbalk,2008,winter oats,14/06/2008,,Flexity Oats section 7,p,0.2,l/200 l/ha
 RBK01997,Broadbalk,2008,winter oats,16/08/2008,,"Combine harvest, plots for yield - Oats",a,,
 RBK01998,Broadbalk,2008,winter oats,16/08/2008,,Swath straw - Oats,a,,
 RBK01999,Broadbalk,2008,winter oats,16/08/2008,,Combine harvest discards - Oats,a,,
@@ -2003,24 +2155,24 @@ RBK02001,Broadbalk,2008,winter wheat,29/08/2007,,"Chopped straw, section 0",a,,
 RBK02002,Broadbalk,2008,winter wheat,15/10/2007,,Combination Drilled S Hereward tr redigo twin & deter 400.00 seeds/m2,a,,
 RBK02003,Broadbalk,2008,winter wheat,17/10/2007,,Decoy Wotex wheat plots,p,7,kg/ha
 RBK02004,Broadbalk,2008,winter wheat,31/10/2007,,Liberator wheat sections,p,0.6,l/200 l/ha
-RBK02005,Broadbalk,2008,winter wheat,31/10/2007,,"Alpha Trifluralin 48 EC, wheat sections",p,2.00,l/200 l/ha
+RBK02005,Broadbalk,2008,winter wheat,31/10/2007,,"Alpha Trifluralin 48 EC, wheat sections",p,2,l/200 l/ha
 RBK02006,Broadbalk,2008,winter wheat,16/11/2007,,"Huron, wheat and oat plots",p,5,kg/ha
 RBK02007,Broadbalk,2008,winter wheat,17/11/2007,,Stomp 400 SC wheat plots,p,3.3,l/200 l/ha
-RBK02008,Broadbalk,2008,winter wheat,17/11/2007,,Arelon 500 wheat plots,p,2.00,l/200 l/ha
-RBK02009,Broadbalk,2008,winter wheat,17/11/2007,,Hallmark with Zeon Technology wheat plots,p,50.00,ml/200 l/ha
+RBK02008,Broadbalk,2008,winter wheat,17/11/2007,,Arelon 500 wheat plots,p,2,l/200 l/ha
+RBK02009,Broadbalk,2008,winter wheat,17/11/2007,,Hallmark with Zeon Technology wheat plots,p,50,ml/200 l/ha
 RBK02010,Broadbalk,2008,winter wheat,18/03/2008,,"Nitraprill Wheat strips 12, 17, 18, 19",1,139,kg/ha
 RBK02011,Broadbalk,2008,winter wheat,17/04/2008,,"Nitraprill - Wheat, strip 16",1,835,kg/ha
-RBK02012,Broadbalk,2008,winter wheat,08/05/2008,,Deuce wheat excluding section 6,p,1.00,l/150 l/ha
+RBK02012,Broadbalk,2008,winter wheat,08/05/2008,,Deuce wheat excluding section 6,p,1,l/150 l/ha
 RBK02013,Broadbalk,2008,winter wheat,08/05/2008,,Bravo 500 wheat excluding section 6,p,0.75,l/150 l/ha
-RBK02014,Broadbalk,2008,winter wheat,08/05/2008,,Flexity wheat excluding section 6,p,0.20,l/150 l/ha
-RBK02015,Broadbalk,2008,winter wheat,08/05/2008,,BASF 3C Chloremquat 720 - wheat excluding section 6,p,1.00,l/150 l/ha
-RBK02016,Broadbalk,2008,winter wheat,15/05/2008,,"Nitraprill Wheat strips 12, 17, 18, 19",1,139.00,kg/ha
-RBK02017,Broadbalk,2008,winter wheat,21/05/2008,,Ally Max SX Wheat,p,42.00,g/200 l/ha
+RBK02014,Broadbalk,2008,winter wheat,08/05/2008,,Flexity wheat excluding section 6,p,0.2,l/150 l/ha
+RBK02015,Broadbalk,2008,winter wheat,08/05/2008,,BASF 3C Chloremquat 720 - wheat excluding section 6,p,1,l/150 l/ha
+RBK02016,Broadbalk,2008,winter wheat,15/05/2008,,"Nitraprill Wheat strips 12, 17, 18, 19",1,139,kg/ha
+RBK02017,Broadbalk,2008,winter wheat,21/05/2008,,Ally Max SX Wheat,p,42,g/200 l/ha
 RBK02018,Broadbalk,2008,winter wheat,21/05/2008,,Starane 2 wheat,p,0.75,l/200 l/ha
 RBK02019,Broadbalk,2008,winter wheat,05/06/2008,,Amistar Opti Wheat excluding section 6,p,1.25,l/200 l/ha
 RBK02020,Broadbalk,2008,winter wheat,05/06/2008,,Opus wheat excluding section 6,p,0.6,l/200 l/ha
-RBK02021,Broadbalk,2008,winter wheat,23/06/2008,,Amistar - Wheat excluding section 6,p,0.50,l/200 l/ha
-RBK02022,Broadbalk,2008,winter wheat,23/06/2008,,Icon - wheat excluding section 6,p,0.50,l/200 l/ha
+RBK02021,Broadbalk,2008,winter wheat,23/06/2008,,Amistar - Wheat excluding section 6,p,0.5,l/200 l/ha
+RBK02022,Broadbalk,2008,winter wheat,23/06/2008,,Icon - wheat excluding section 6,p,0.5,l/200 l/ha
 RBK02023,Broadbalk,2008,winter wheat,25/08/2008,,Combine harvest discards,a,,
 RBK02024,Broadbalk,2008,winter wheat,25/08/2008,,Swath straw,a,,
 RBK02025,Broadbalk,2008,winter wheat,25/08/2008,,Baled,a,,
@@ -2076,15 +2228,15 @@ RBK02074,Broadbalk,2009,winter oats,17/10/2008,,Combination drilled,a,,
 RBK02075,Broadbalk,2009,winter oats,17/10/2008,,Gerald tr Beret Gold - oats,s,400,seeds/m2
 RBK02076,Broadbalk,2009,winter oats,27/10/2008,,Allure - wheat and oats,p,7.5,kg/ha
 RBK02077,Broadbalk,2009,winter oats,20/11/2008,,Karan - wheat and oats,p,5,kg/ha
-RBK02078,Broadbalk,2009,winter oats,15/12/2008,,Lexus Class oats,p,60.00,g/200 l/ha
+RBK02078,Broadbalk,2009,winter oats,15/12/2008,,Lexus Class oats,p,60,g/200 l/ha
 RBK02079,Broadbalk,2009,winter oats,15/12/2008,,Hallmark with Zeon Technology - oats only,p,50,ml/ha
-RBK02080,Broadbalk,2009,winter oats,22/05/2009,,Ally Max SX,p,42.00,g/ha
+RBK02080,Broadbalk,2009,winter oats,22/05/2009,,Ally Max SX,p,42,g/ha
 RBK02081,Broadbalk,2009,winter oats,22/05/2009,,Duplosan KV,p,150,ha
 RBK02082,Broadbalk,2009,winter oats,22/05/2009,,Headland Charge,p,1.5,l/ha
 RBK02083,Broadbalk,2009,winter oats,22/05/2009,,Amistar,p,0.6,l/ha
 RBK02084,Broadbalk,2009,winter oats,22/05/2009,,Flexity,p,0.2,l/ha
 RBK02085,Broadbalk,2009,winter wheat,17/10/2008,,Combination drilled Hereward tr Redigo Deter - wheat sections 400.00 seeds/m2,—,,
-RBK02086,Broadbalk,2009,winter wheat,18/10/2008,,Liberator wheat excluding section 8,—,0.60,l/200 l/ha
+RBK02086,Broadbalk,2009,winter wheat,18/10/2008,,Liberator wheat excluding section 8,—,0.6,l/200 l/ha
 RBK02087,Broadbalk,2009,winter wheat,27/10/2008,,p Allure - wheat and oats,—,7.5,kg/ha
 RBK02088,Broadbalk,2009,winter wheat,20/11/2008,,Karan - wheat and oats,p,5,kg/ha
 RBK02089,Broadbalk,2009,winter wheat,10/12/2008,,Stomp 400 SC. Sprayed all wheat excluding section 8,p,3.3,l/ha
@@ -2141,7 +2293,7 @@ RBK02139,Broadbalk,2010,all sections,17/06/2010,,a Cut paths,,,
 RBK02140,Broadbalk,2010,all sections,17/06/2010,,Rotavated down paths - Finished,,,
 RBK02141,Broadbalk,2010,all sections,09/07/2010,,"a Other operation, see note - pulled wild oats 103 in total",,,
 RBK02142,Broadbalk,2010,all sections,14/07/2010,,Mow / Rotavate paths,,,
-RBK02143,Broadbalk,2010,forage maize,09/04/2010,,Rosate 36 - Maize section only (200 It water),,4.00,l/ha
+RBK02143,Broadbalk,2010,forage maize,09/04/2010,,Rosate 36 - Maize section only (200 It water),,4,l/ha
 RBK02144,Broadbalk,2010,forage maize,26/04/2010,,Nodet Drilled S Hudson - Maize section only 10.20 seeds/m2,,,
 RBK02145,Broadbalk,2010,forage maize,26/04/2010,,Flexi Tined - Maize area,,,
 RBK02146,Broadbalk,2010,forage maize,26/04/2010,,Power harrowed - Maize area,,,
@@ -2165,7 +2317,7 @@ RBK02163,Broadbalk,2010,winter oats,20/05/2010,,Starane 2 - Section 5,,,
 RBK02164,Broadbalk,2010,winter oats,03/08/2010,,"Combine harvest, plots for yield - Section 5 only",,,
 RBK02165,Broadbalk,2010,winter oats,03/08/2010,,Baled - Section 5 only,,,
 RBK02166,Broadbalk,2010,winter oats,03/08/2010,,"Cut harvest strips, weighed and sampled - Section 5 only",,,
-RBK02167,Broadbalk,2010,winter wheat,13/10/2009,,Combination Drilled Hereward - At 350 seeds/m2,,141.00,kg/ha
+RBK02167,Broadbalk,2010,winter wheat,13/10/2009,,Combination Drilled Hereward - At 350 seeds/m2,,141,kg/ha
 RBK02168,Broadbalk,2010,winter wheat,14/10/2009,,Rolled,,,
 RBK02169,Broadbalk,2010,winter wheat,15/10/2009,,Liberator - 200 It water (Wheat only and not section 8),,0.6,l/ha
 RBK02170,Broadbalk,2010,winter wheat,10/12/2009,,Lexus Class,,60,g/ha
@@ -2314,13 +2466,13 @@ RBK02312,Broadbalk,2012,winter oats,20/08/2012,,Harvested - Cut and Chopped -,,,
 RBK02313,Broadbalk,2012,winter oats,23/08/2012,,"Sampled, baled and weighed straw",,,
 RBK02314,Broadbalk,2012,winter wheat,11/10/2011,,Drilled Hereward trt Redigo Deter 350,,,seeds/m2
 RBK02315,Broadbalk,2012,winter wheat,15/03/2012,,"Applied Nitram on plots 12, 17, 18 and 19. wheat only",,139,kg/ha
-RBK02316,Broadbalk,2012,winter wheat,21/03/2012,,"Sprayed Cherokee SE, 200 l/ha, Sections 0, 1, 9, 4, 5, 7 & 8",,1.0,l/ha
+RBK02316,Broadbalk,2012,winter wheat,21/03/2012,,"Sprayed Cherokee SE, 200 l/ha, Sections 0, 1, 9, 4, 5, 7 & 8",,1,l/ha
 RBK02317,Broadbalk,2012,winter wheat,21/03/2012,,"Sprayed Justice SV 200 l/ha, Sections 0, 1, 9, 4, 5, 7 & 8",,0.125,l/ha
 RBK02318,Broadbalk,2012,winter wheat,02/04/2012,,"Applied Kieserite on plots:- 5, 6, 7, 8, 9, 11, 12, 15, 116, 17, 18, 19 and 20",,80,kg/ha
 RBK02319,Broadbalk,2012,winter wheat,02/04/2012,,"Applied Sulphate of Potash on plots: 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20",,,
 RBK02320,Broadbalk,2012,winter wheat,17/04/2012,,"Applied Nitram Fertiliser onto plots 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 and 20",,217,kg/ha
 RBK02321,Broadbalk,2012,winter wheat,17/04/2012,,Applied Nitram Feriliser onto plot - 2.1 only,,417,kg/ha
-RBK02322,Broadbalk,2012,winter wheat,13/05/2012,,"Sprayed Bravo 500, sections, 0, 1, 9, 4, 5, 7 & 8",,1.0,l/ha
+RBK02322,Broadbalk,2012,winter wheat,13/05/2012,,"Sprayed Bravo 500, sections, 0, 1, 9, 4, 5, 7 & 8",,1,l/ha
 RBK02323,Broadbalk,2012,winter wheat,13/05/2012,,"Sprayed Ally Max and wetter, sections 0, 1, 9, 4, 5, 7 & 8",,42,g/ha
 RBK02324,Broadbalk,2012,winter wheat,13/05/2012,,"sprayed Starane and wetter, sections 0, 1, 9, 4, 5, 7 & 8",,0.5,l/ha
 RBK02325,Broadbalk,2012,winter wheat,13/05/2012,,"sprayed Topik and wetter, sections 0, 1, 9, 4, 5, 7 & 8",,0.1256,l/ha
