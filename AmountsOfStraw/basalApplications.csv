@@ -1,0 +1,64 @@
+experiment,year,site,type,treatment
+CS326,1987,great knott,manures,nitram at 130 kg followed by 590 kg
+CS326,1987,great knott,weedkiller,paraquat at 0.60 kg ion in 200 l
+CS326,1987,great knott,weedkiller,isoproturon at 2.5 kg in 200 l
+CS326,1987,great knott,weedkiller,"clopyralid at 0.05 kg, bromoxynil at 0.24 kg with mecoprop at 1.8 kg in 200 l"
+CS326,1987,great knott,fungicide,propiconazole at 0.12 kg in 200 l
+CS326,1987,great knott,fungicide,propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 l
+CS326,1987,far field,manures,nitram at 120 kg followed by 600 kg
+CS326,1987,far field,weedkiller,tri-allate as 'avadex bw' at 4.2 l in 250 l
+CS326,1987,far field,weedkiller,"isoproturon at 2.0 kg with clopyralid at 0.07 kg, bromoxynil at 0.34 kg and mecoprop at 2.5 kg in 240 l,"
+CS326,1987,far field,fungicide,propiconazole at 0.12 kg with tridemorph at 0.52 kg in 200 l
+CS326,1987,far field,fungicide,propiconazole at 0.12 kg with carbendazim and maneb as septal at 2.5 kg in 200 l
+CS326,1988,great knott,manures,nitram at 116 kg followed by 580 kg
+CS326,1988,great knott,weedkiller,paraquat at 0.60 kg ion in 200 l
+CS326,1988,great knott,weedkiller,tri-allate at 2.2 kg
+CS326,1988,great knott,weedkiller,isoproturon at 2.1 kg in 200 l
+CS326,1988,great knott,weedkiller,fluroxypyr at 0.20 kg in 200 l applied with the prochloraz and carbendazim
+CS326,1988,great knott,fungicide,prochloraz at 0.40 kg and carbendazim at 0.15 kg
+CS326,1988,great knott,fungicide,propiconazole at 0.12 kg and tridemorph at 0.25 kg in 200 l
+CS326,1988,great knott,fungicide,"carbendazim at 0.25 kg, maneb at 1.6 kg with propiconazole at 0.12 kg in 200 l"
+CS326,1988,far field,manures,nitram at 116 kg followed by 580 kg
+CS326,1988,far field,weedkiller,"glyphosate at 1.1 kg in 200 l, followed by 0.27 kg in 200 l, followed by 1.1 kg in 200 l"
+CS326,1988,far field,weedkiller,"isoproturon at 2.1 kg with bromoxynil at 0.20 kg, ioxynil at 0.20 kg and mecoprop at 1.6 kg in 220 l"
+CS326,1988,far field,fungicide,propiconazole at 0.12 kg with tridemorph at 0.25 kg in 220 l
+CS326,1989,great knott,manures,magnesian limestone at 5.0 t.
+CS326,1989,great knott,manures,(0:18:36) at 920 kg
+CS326,1989,great knott,manures,nitram at 120 kg followed by 580 kg
+CS326,1989,great knott,weedkiller,paraquat at 0.60 kg ion in 200 l
+CS326,1989,great knott,weedkiller,isoproturon at 2.5 kg in 200 l
+CS326,1989,great knott,weedkiller,metsulfuron-methyl at 6.0 g with fluroxypyr at 0.15 kg in 200 l
+CS326,1989,great knott,fungicide,chlorothalonil at 1.0 kg in 200 l
+CS326,1989,great knott,fungicide,propiconazole at 0.12 kg with tridemorph at 0.52 kg in 200 l
+CS326,1989,far field,manures,(0:18:36) at 920 kg
+CS326,1989,far field,manures,nitram at 120 kg
+CS326,1989,far field,weedkiller,glyphosate at 1.1 kg in 220 l
+CS326,1989,far field,weedkiller,paraquat at 0.80 kg ion in 220 l
+CS326,1989,far field,weedkiller,isoproturon at 1.5 kg in 220 l
+CS326,1989,far field,fungicide,chlorothalonil at 1.0 kg in 220 l
+CS326,1989,far field,fungicide,propiconazole at 0.12 kg with tridemorph at 0.52 kg in 220 l
+CS326,1990,great knott,manures,nitram at 120 kg followed by 580 kg
+CS326,1990,great knott,weedkiller,"paraquat at 0.40 kg ion with a wetting agent, 'enhance' at 100 ml, in 200 l"
+CS326,1990,great knott,weedkiller,chlortoluron at 3.0 kg with cyanazine at 0.75 kg in 400 l
+CS326,1990,great knott,weedkiller,isoproturon at 2.1 kg in 200 l
+CS326,1990,great knott,weedkiller,fluroxypyr at 0.20 kg with fenoxaprop-ethyl at 0.18 kg in 200 l
+CS326,1990,great knott,fungicide,chlorothalonil at 1.0 kg with propiconazole at 0.12 kg in 200 l
+CS326,1990,far field,manures,nitram at 120 kg followed by 560 kg
+CS326,1990,far field,weedkiller,glyphosate at 0.36 kg in 220 l
+CS326,1990,far field,weedkiller,isoproturon at 1.5 kg with isoxaben at 75 g in 220 l
+CS326,1990,far field,weedkiller,metsulfuron-methyl at 6.0 g with fluroxypyr at 0.15 kg in 200 l
+CS326,1990,far field,fungicide,chlorothalonil at 0.50 kg with propiconazole at 0.12 kg in 300 l
+CS326,1991,great knott,manures,nitram at 120 kg followed by 580 kg
+CS326,1991,great knott,manures,(0:16:36) at 1040 kg
+CS326,1991,great knott,weedkiller,glyphosate at 0.27 kg in 200 l
+CS326,1991,great knott,weedkiller,tri-allate at 2.2 kg
+CS326,1991,great knott,weedkiller,isoproturon at 1.3 kg and pendimethalin at 1.3 kg in 200 l
+CS326,1991,great knott,fungicide,fenpropimorph at 0.38 kg in 200 l
+CS326,1991,great knott,fungicide,propiconazole at 0.25 kg in 200 l
+CS326,1991,far field,manures,magnesian limestone at 7.5 t.
+CS326,1991,far field,manures,nitram at 120 kg followed by 580 kg
+CS326,1991,far field,weedkiller,glyphosate at 0.27 kg in 220 l
+CS326,1991,far field,weedkiller,tri-allate at 1.7 kg in 220 l
+CS326,1991,far field,weedkiller,pendimethalin at 1.3 kg with isoproturon at 1.2 kg applied with the insecticide in 220 l
+CS326,1991,far field,fungicide,fenpropimorph at 0.38 kg in 210 l and on a second occasion with chlorothalonil at 0.49 kg and flutriafol at 78 g
+CS326,1991,far field,insecticide,deltamethrin at 5.0 g
