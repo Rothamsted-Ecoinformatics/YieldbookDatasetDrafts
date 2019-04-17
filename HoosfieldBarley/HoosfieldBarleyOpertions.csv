@@ -1,0 +1,1391 @@
+ID,Experiment,year,section,start date,end date,operation,flag,plots,amount,unit,operation type,water,water unit,tank mixture,method,variety,dressing,machine,original operation
+1,Hoosfield,1930,all plots,19/02/1930,,cultivated,1,,,,tillage process,,,,,,,,cultivated
+2,Hoosfield,1930,all plots,20/02/1930,21/02/1930,cultivated across,1,,,,tillage process,,,,,,,,cultivated across
+3,Hoosfield,1930,all plots,03/03/1930,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+4,Hoosfield,1930,all plots,03/03/1930,04/03/1930,spring-tine harrowed followed by tooth harrow across,1,,,,tillage process,,,,,,,,spring-tine harrowed followed by tooth harrow across
+5,Hoosfield,1930,all plots,06/03/1930,,rolled,1,,,,tillage process,,,,,,,,rolled
+6,Hoosfield,1930,all plots,06/03/1930,,drag harrowed and spike harrowed,1,,,,tillage process,,,,,,,,drag harrowed and spike harrowed
+7,Hoosfield,1930,all plots,06/03/1930,,seed sown,0,,,,seeding process,,,,,Spratt Archer,,,seed sown
+8,Hoosfield,1930,all plots,06/03/1930,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+9,Hoosfield,1930,all plots,07/03/1930,,harrowed in,1,,,,tillage process,,,,,,,,harrowed in
+10,Hoosfield,1930,all plots,01/05/1930,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+11,Hoosfield,1930,all plots,22/05/1930,09/07/1930,hand hoe on various dates,1,,,,pest destruction process,,,,,,,,hand hoe on various dates
+12,Hoosfield,1930,all plots,22/05/1930,09/07/1930,horse hoe on various dates,1,,,,pest destruction process,,,,,,,,horse hoe on various dates
+13,Hoosfield,1930,all plots,21/08/1930,,harvested,1,,,,harvesting process,,,,,,,,harvest
+14,Hoosfield,1930,all plots,01/09/1930,,harvested,1,,,,harvesting process,,,,,,,,harvest
+15,Hoosfield,1930,all plots,08/09/1930,09/09/1930,carted,1,,,,grain removal process,,,,,,,,carted
+16,Hoosfield,1931,all plots,15/09/1930,,cultivated,1,,,,tillage process,,,,,,,,cultivated
+17,Hoosfield,1931,all plots,07/03/1931,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+18,Hoosfield,1931,all plots,07/03/1931,,ploughed in,1,,,,tillage process,,,,,,,,ploughed in
+19,Hoosfield,1931,all plots,16/03/1931,,harrowed,1,excluding 7.1 and 7.2,,,tillage process,,,,,,,,harrowed
+20,Hoosfield,1931,all plots,17/03/1931,,seed sown,0,,,,seeding process,,,,,Spratt Archer,,,seed sown
+21,Hoosfield,1931,all plots,17/03/1931,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+22,Hoosfield,1931,all plots,18/03/1931,,harrowed in,1,,,,tillage process,,,,,,,,harrowed in
+23,Hoosfield,1931,all plots,11/05/1931,23/07/1931,hand hoe on various dates,1,,,,pest destruction process,,,,,,,,hand hoe on various dates
+24,Hoosfield,1931,all plots,11/05/1931,23/07/1931,horse hoe on various dates,1,,,,pest destruction process,,,,,,,,horse hoe on various dates
+25,Hoosfield,1931,all plots,28/08/1931,29/08/1931,harvested,1,,,,harvesting process,,,,,,,,harvest
+26,Hoosfield,1931,all plots,24/09/1931,25/09/1931,carted,1,,,,grain removal process,,,,,,,,carted
+27,Hoosfield,1932,all plots,05/01/1932,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+28,Hoosfield,1912,all plots,,,fallow year to control weeds. No details of cultivations,1,,,,comment,,,,,,,,fallow year to control weeds. No details of cultivations
+29,Hoosfield,1932,all plots,08/03/1932,,tractor cultivated with disc and tooth harrow,1,,,,tillage process,,,,,,,,tractor cultivated with disc and tooth harrow
+30,Hoosfield,1932,all plots,19/05/1932,25/07/1932,hand hoe on various dates,1,,,,pest destruction process,,,,,,,,hand hoe on various dates
+31,Hoosfield,1932,all plots,19/05/1932,25/07/1932,horse hoe on various dates,1,,,,pest destruction process,,,,,,,,horse hoe on various dates
+32,Hoosfield,1932,all plots,09/03/1932,10/03/1932,seed sown,0,,,,seeding process,,,,,Spratt Archer,,,seed sown
+33,Hoosfield,1932,all plots,09/03/1932,10/03/1932,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+34,Hoosfield,1932,all plots,23/08/1932,,harvested,1,,,,harvesting process,,,,,,,,harvest
+35,Hoosfield,1932,all plots,02/09/1932,,carted,1,,,,grain removal process,,,,,,,,carted
+36,Hoosfield,1933,all plots,,,fallow year to control weeds. No details of cultivations,1,,,,comment,,,,,,,,fallow year to control weeds. No details of cultivations
+37,Hoosfield,1934,all plots,02/02/1934,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+38,Hoosfield,1934,all plots,27/03/1934,28/03/1934,harrowed,1,,,,tillage process,,,,,,,,harrowed
+39,Hoosfield,1934,all plots,27/03/1934,28/03/1934,rolled,1,,,,tillage process,,,,,,,,rolled
+40,Hoosfield,1934,all plots,29/01/1934,,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+41,Hoosfield,1934,all plots,26/03/1934,27/03/1934,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+42,Hoosfield,1934,all plots,27/03/1934,28/03/1934,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+43,Hoosfield,1934,all plots,09/08/1934,10/08/1934,harvested,1,,,,harvesting process,,,,,,,,harvested
+44,Hoosfield,1935,all plots,05/09/1934,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+45,Hoosfield,1935,all plots,08/01/1935,22/01/1935,ploughed,1,,,,tillage process,,,,,,,,ploughed
+46,Hoosfield,1935,all plots,06/03/1935,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+47,Hoosfield,1935,all plots,08/03/1935,09/03/1935,harrowed,1,,,,tillage process,,,,,,,,harrowed
+48,Hoosfield,1935,all plots,08/05/1935,,rolled,1,,,,tillage process,,,,,,,,rolled
+49,Hoosfield,1935,all plots,08/01/1935,22/01/1935,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+50,Hoosfield,1935,all plots,04/03/1935,05/03/1935,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+51,Hoosfield,1935,all plots,08/03/1935,09/03/1935,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+52,Hoosfield,1935,all plots,14/08/1935,,harvested,1,,,,harvesting process,,,,,,,,harvested
+53,Hoosfield,1936,all plots,28/08/1935,29/08/1935,shallow ploughed,1,,,,tillage process,,,,,,,,shallow ploughed
+54,Hoosfield,1936,all plots,20/01/1936,24/01/1936,ploughed,1,,,,tillage process,,,,,,,,ploughed
+55,Hoosfield,1936,all plots,20/01/1936,24/01/1936,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied and ploughed in
+55,Hoosfield,1936,all plots,20/01/1936,24/01/1936,ploughed in,1,,,,tillage process,,,,,,,,
+56,Hoosfield,1936,all plots,16/03/1936,,spring-tine harrowed,1,,,,tillage process,,,,,,,,spring-tine harrowed
+57,Hoosfield,1936,all plots,17/03/1936,,rolled,1,,,,tillage process,,,,,,,,rolled
+58,Hoosfield,1936,all plots,26/04/1936,,hand hoed,1,,,,pest destruction process,,,,,,,,hand hoed
+59,Hoosfield,1936,all plots,10/03/1936,11/03/1936,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+60,Hoosfield,1936,all plots,17/03/1936,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+61,Hoosfield,1936,all plots,17/08/1936,,harvested,1,,,,harvesting process,,,,,,,,harvested
+62,Hoosfield,1937,all plots,11/09/1936,12/09/1936,shallow ploughed,1,,,,tillage process,,,,,,,,shallow ploughed
+63,Hoosfield,1937,all plots,03/12/1936,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+64,Hoosfield,1937,all plots,04/12/1936,21/12/1936,ploughed,1,,,,tillage process,,,,,,,,ploughed
+65,Hoosfield,1937,all plots,30/03/1937,,spring-tine harrowed,1,,,,tillage process,,,,,,,,spring-tine harrowed
+66,Hoosfield,1937,all plots,31/03/1937,,cultivated,1,,,,tillage process,,,,,,,,cultivated
+67,Hoosfield,1937,all plots,01/04/1937,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+68,Hoosfield,1937,all plots,01/04/1937,,rolled,1,,,,tillage process,,,,,,,,rolled
+69,Hoosfield,1937,all plots,12/04/1937,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+70,Hoosfield,1937,all plots,18/05/1937,,rolled,1,,,,tillage process,,,,,,,,rolled
+71,Hoosfield,1937,all plots,04/06/1937,05/06/1937,hand weeded,1,,,,hand picking process,,,,,,,,hand weeded
+72,Hoosfield,1937,all plots,25/03/1937,26/03/1937,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+73,Hoosfield,1937,all plots,07/04/1937,,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+74,Hoosfield,1937,all plots,07/04/1937,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+75,Hoosfield,1937,all plots,12/04/1937,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+76,Hoosfield,1937,all plots,04/09/1937,,harvested,1,,,,harvesting process,,,,,,,,harvested
+77,Hoosfield,1938,all plots,01/01/1938,25/01/1938,ploughed,1,,,,tillage process,,,,,,,,ploughed
+78,Hoosfield,1938,all plots,04/01/1938,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+79,Hoosfield,1938,all plots,01/10/1937,04/10/1937,cultivated,1,,,,tillage process,,,,,,,,cultivated
+80,Hoosfield,1938,all plots,25/02/1938,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+81,Hoosfield,1938,all plots,23/02/1938,,cultivated,1,,,,tillage process,,,,,,,,cultivated
+82,Hoosfield,1938,all plots,25/02/1938,,spring-tine harrowed,1,,,,tillage process,,,,,,,,spring-tine harrowed
+83,Hoosfield,1938,all plots,25/02/1938,,rolled,1,,,,tillage process,,,,,,,,rolled
+84,Hoosfield,1938,all plots,08/04/1938,,rolled,1,,,,tillage process,,,,,,,,rolled
+85,Hoosfield,1938,all plots,08/02/1938,09/02/1938,manures applied,1,,,,agronomic fertilization process,,,,,,,,manures applied
+86,Hoosfield,1938,all plots,25/02/1938,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+87,Hoosfield,1938,all plots,04/08/1938,,harvested,1,,,,harvesting process,,,,,,,,harvested
+88,Hoosfield,1939,all plots,10/03/1939,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+89,Hoosfield,1939,all plots,25/08/1939,,harvested,1,,,,harvesting process,,,,,,,,harvested
+90,Hoosfield,1940,all plots,12/03/1940,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+91,Hoosfield,1940,all plots,06/08/1940,,harvested,1,,,,harvesting process,,,,,,,,harvested
+92,Hoosfield,1941,all plots,17/03/1941,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+93,Hoosfield,1941,all plots,25/08/1941,,harvested,1,,,,harvesting process,,,,,,,,harvested
+94,Hoosfield,1942,all plots,29/03/1942,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+95,Hoosfield,1942,all plots,15/08/1942,,harvested,1,,,,harvesting process,,,,,,,,harvested
+96,Hoosfield,1943,all plots,,,fallow year to control weeds. No details of cultivations,1,,,,comment,,,,,,,,fallow year to control weeds. No details of cultivations
+97,Hoosfield,1944,all plots,29/03/1944,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+98,Hoosfield,1944,all plots,18/08/1944,,harvested,1,,,,harvesting process,,,,,,,,harvested
+99,Hoosfield,1944,all plots,,,DNOC given in late May or June to check broad leaved weeds. Hand pulling of wild oats regularly carried out (https://doi.org/10.23637/ERADOC-1-145),1,,,,comment,,,,,,,,DNOC given in late May or June to check broad leaved weeds. Hand pulling of wild oats regularly carried out (https://doi.org/10.23637/ERADOC-1-145)
+100,Hoosfield,1945,all plots,09/03/1945,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+101,Hoosfield,1945,all plots,08/08/1945,,harvested,1,,,,harvesting process,,,,,,,,harvested
+102,Hoosfield,1945,all plots,,,DNOC given in late May or June to check broad leaved weeds. Hand pulling of wild oats regularly carried out (https://doi.org/10.23637/ERADOC-1-145),1,,,,comment,,,,,,,,DNOC given in late May or June to check broad leaved weeds. Hand pulling of wild oats regularly carried out (https://doi.org/10.23637/ERADOC-1-145)
+103,Hoosfield,1946,all plots,25/03/1946,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+104,Hoosfield,1946,all plots,23/08/1946,,harvested,1,,,,harvesting process,,,,,,,,harvested
+105,Hoosfield,1946,all plots,,,DNOC given in late May or June to check broad leaved weeds. Hand pulling of wild oats regularly carried out (https://doi.org/10.23637/ERADOC-1-145),1,,,,comment,,,,,,,,DNOC given in late May or June to check broad leaved weeds. Hand pulling of wild oats regularly carried out (https://doi.org/10.23637/ERADOC-1-145)
+106,Hoosfield,1947,all plots,17/04/1947,,seed sown,0,,,,seeding process,,,,,Plumage Archer,,,seed sown
+107,Hoosfield,1947,all plots,19/08/1947,,harvested,1,,,,harvesting process,,,,,,,,harvested
+108,Hoosfield,1948,all plots,18/09/1947,20/09/1947,shallow ploughed,1,,,,tillage process,,,,,,,,shallow ploughed
+109,Hoosfield,1948,all plots,22/11/1947,28/11/1947,ploughed,1,,,,tillage process,,,,,,,,ploughed
+110,Hoosfield,1948,all plots,24/11/1947,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+111,Hoosfield,1948,all plots,01/03/1948,05/03/1948,spring-tine harrowed,1,,,,tillage process,,,,,,,,spring-tine harrowed
+112,Hoosfield,1948,all plots,10/03/1948,11/03/1948,Artificials applied,1,,,,agronomic fertilization process,,,,,,,,Artificials applied
+113,Hoosfield,1948,all plots,27/03/1948,,thistles cleared,1,,,,pest control process,,,,,,,,thistles cleared
+114,Hoosfield,1948,all plots,30/03/1948,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+115,Hoosfield,1948,all plots,31/03/1948,,seed drilled,0,,,,seeding process,,,,,,,,seed drilled
+116,Hoosfield,1948,all plots,06/04/1948,,harrowed in,1,,,,tillage process,,,,,,,,harrowed in
+117,Hoosfield,1948,all plots,10/04/1948,,rolled,1,,,,tillage process,,,,,,,,rolled
+118,Hoosfield,1948,all plots,05/07/1948,14/07/1948,Wild oats hand pulled,1,,,,hand picking process,,,,,,,,Wild oats hand pulled
+119,Hoosfield,1948,all plots,30/07/1948,10/08/1948,Wild oats hand pulled,1,,,,hand picking process,,,,,,,,Wild oats hand pulled
+120,Hoosfield,1948,all plots,09/08/1948,,Wild oats scythed,1,,,,pest control process,,,,,,,,Wild oats scythed
+121,Hoosfield,1948,all plots,30/08/1948,,harvested,1,,,,harvesting process,,,,,,,,harvested
+122,Hoosfield,1948,all plots,30/09/1047,,spring-tine harrowed,1,,,,tillage process,,,,,,,,spring-tine harrowed
+123,Hoosfield,1948,Note,,,"On plots 50, 5A and 5C, sections badly infected with wild oats were scythed out and discarded. On all other plots the full area was harvested",1,,,,comment,,,,,,,,"On plots 50, 5A and 5C, sections badly infected with wild oats were scythed out and discarded. On all other plots the full area was harvested"
+124,Hoosfield,1949,all plots,11/09/1948,25/09/1948,ploughed,1,,,,tillage process,,,,,,,,ploughed
+125,Hoosfield,1949,all plots,24/09/1948,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+126,Hoosfield,1949,all plots,25/09/1948,,ploughed in,1,,,,tillage process,,,,,,,,ploughed in
+127,Hoosfield,1949,all plots,20/12/1948,30/12/1948,Reploughed,1,,,,tillage process,,,,,,,,Reploughed
+128,Hoosfield,1949,all plots,18/02/1949,,spring-tine harrowed,1,,,,tillage process,,,,,,,,spring-tine harrowed
+129,Hoosfield,1949,all plots,23/03/1949,,thistles cut,1,,,,pest control process,,,,,,,,thistles cut
+130,Hoosfield,1949,all plots,24/03/1949,,seed drilled,0,,,,seeding process,,,,,Plumage Archer,,,seed drilled
+131,Hoosfield,1949,all plots,24/03/1949,,harrowed in,1,,,,tillage process,,,,,,,,harrowed in
+132,Hoosfield,1949,all plots,31/03/1949,,Ring rolled,1,,,,tillage process,,,,,,,,Ring rolled
+133,Hoosfield,1949,all plots,13/05/1949,,Denocate to kill off weeds,1,,,,chemical pest control process,,,,sprayed,,,,sprayed with Denocate to kill off weeds
+134,Hoosfield,1949,all plots,18/07/1949,28/07/1949,Wild oats hand pulled various days,1,,,,hand picking process,,,,,,,,Wild oats hand pulled various days
+135,Hoosfield,1949,all plots,11/08/1949,,harvested,1,,,,harvesting process,,,,,,,,harvested
+137,Hoosfield,1950,all plots,24/08/1949,26/08/1949,ploughed,1,,,,tillage process,,,,,,,,ploughed
+138,Hoosfield,1950,all plots,12/10/1949,,springtined,1,,,,tillage process,,,,,,,,springtined
+139,Hoosfield,1950,all plots,05/11/1949,,springtined,1,,,,tillage process,,,,,,,,springtined
+140,Hoosfield,1950,all plots,02/12/1949,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+141,Hoosfield,1950,all plots,16/03/1950,20/03/1950,applied all fertilizers except silicate of soda,1,,,,agronomic fertilization process,,,,,,,,applied all fertilizers except silicate of soda
+142,Hoosfield,1950,all plots,21/03/1950,,springtined,1,,,,tillage process,,,,,,,,springtined
+143,Hoosfield,1950,all plots,24/03/1950,,springtined,1,,,,tillage process,,,,,,,,springtined
+144,Hoosfield,1950,all plots,24/03/1950,,harrowed,1,,,,tillage process,,,,,,,,harrowed
+145,Hoosfield,1950,all plots,24/03/1950,,seed drilled,0,,,,seeding process,,,,,Plumage Archer,,,seed drilled
+146,Hoosfield,1950,all plots,25/03/1950,,harrowed in,1,,,,tillage process,,,,,,,,harrowed in
+147,Hoosfield,1950,all plots,27/03/1950,,rolled,1,,,,tillage process,,,,,,,,rolled
+148,Hoosfield,1950,all plots,20/04/1950,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+149,Hoosfield,1950,all plots,26/05/1950,,thistles cut,1,,,,pest control process,,,,,,,,thistles cut
+150,Hoosfield,1950,all plots,30/05/1950,,D.N.O.C applied,1,,,,chemical pest control process,,,,,,,,D.N.O.C applied
+151,Hoosfield,1950,all plots,14/08/1950,16/08/1950,harvested,1,,,,harvesting process,,,,,,,,harvested
+153,Hoosfield,1951,all plots,04/09/1950,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+154,Hoosfield,1951,all plots,01/02/1951,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+155,Hoosfield,1951,all plots,21/04/1951,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+156,Hoosfield,1951,all plots,25/04/1951,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+157,Hoosfield,1951,all plots,26/06/1951,,D.N.O.C,1,,1,gallons/acre,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C 1 gallon per acre
+158,Hoosfield,1951,all plots,11/09/1951,,harvested,1,,,,harvesting process,,,,,,,,harvested
+160,HoosfieldBarley,1952,All plots,21/09/1951,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+161,HoosfieldBarley,1952,All plots,18/12/1951,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+162,HoosfieldBarley,1952,All plots,19/12/1951,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+163,HoosfieldBarley,1952,All plots,27/02/1952,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+164,HoosfieldBarley,1952,All plots,29/02/1952,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+165,HoosfieldBarley,1952,All plots,09/05/1952,,D.N.O.C,1,,1,gallons/acre,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C 1 gallon per acre
+166,HoosfieldBarley,1952,All plots,01/08/1952,,harvested,1,,,,harvesting process,,,,,,,,harvested
+167,HoosfieldBarley,1952,Note,,,"Owing to a very heavy infestation by Wild Osts (Avena Fatua) the major part of each plot was cut, earthed green before the oats ripened. The remainder (generally 1/25 - 1/50 acre) was left to ripen, the yields shown are measured from these small areas",1,,,,comment,,,,,,,,"Owing to a very heavy infestation by Wild Osts (Avena Fatua) the major part of each plot was cut, earthed green before the oats ripened. The remainder (generally 1/25 - 1/50 acre) was left to ripen, the yields shown are measured from these small areas"
+170,HoosfieldBarley,1953,All plots,19/09/1952,,etc: ploughed,1,,,,tillage process,,,,,,,,etc: ploughed
+171,HoosfieldBarley,1953,All plots,23/09/1952,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied and ploughed in
+171,HoosfieldBarley,1953,All plots,23/09/1952,,ploughed in,1,,,,tillage process,,,,,,,,
+172,HoosfieldBarley,1953,All plots,03/03/1953,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+173,HoosfieldBarley,1953,All plots,09/04/1953,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+174,HoosfieldBarley,1953,All plots,26/05/1953,,D.N.O.C,1,,,,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C
+176,Hoosfield,1953,Note,,,"Owing to the very heavy infestation with Wild Oats (Avena Fatua the whole crop was cut, carted green before the oats ripened. No yields therefore were recorded",1,,,,comment,,,,,,,,"Owing to the very heavy infestation with Wild Oats (Avena Fatua the whole crop was cut, carted green before the oats ripened. No yields therefore were recorded"
+177,HoosfieldBarley,1954,All plots,11/08/1953,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+178,HoosfieldBarley,1954,All plots,24/11/1953,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+179,HoosfieldBarley,1954,All plots,25/11/1953,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+180,HoosfieldBarley,1954,All plots,07/04/1954,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+181,Hoosfield,1954,all plots,07/04/1954,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+182,HoosfieldBarley,1954,All plots,03/06/1954,,D.N.O.C,1,,,,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C
+183,HoosfieldBarley,1954,All plots,25/07/1954,,cut and discarded crop,1,plots 5A,,,harvesting process,,,,,,,,cut and discarded crop on plots 5A
+184,HoosfieldBarley,1954,All plots,18/08/1954,,cut and discarded crop,1,"parts of plots 1C, 2C, 1N, 2N",,,harvesting process,,,,,,,,"cut, discarded crop on parts of plots 1C, 2C, 1N, 2N"
+185,Hoosfield,1954,all plots,18/08/1954,,cut and discarded crop,1,parts of plots 3A and 4A,,,harvesting process,,,,,,,,cut and discarded parts of plots 3A and 4A
+186,HoosfieldBarley,1954,All plots,16/09/1954,,harvested,1,,,,harvesting process,,,,,,,,harvested
+188,Hoosfield,1954,Notes,,,"Wild oats were, pulled during July. Pre-harvest cut were made to deal with wild not infestations on parts of plots 1C, 2C, 1N, 2N, 5A and to remove before harvest areas of crop still green on plots 3A, 4A.",1,,,,comment,,,,,,,,"Wild oats were, pulled during July. Pre-harvest cut were made to deal with wild not infestations on parts of plots 1C, 2C, 1N, 2N, 5A and to remove before harvest areas of crop still green on plots 3A, 4A."
+189,HoosfieldBarley,1955,All plots,27/09/1954,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+190,HoosfieldBarley,1955,All plots,06/11/1954,18/11/1954,part of ground chalk applied,1,"to strips 3, 4",,,liming process,,,,,,,,"part of ground chalk applied to strips 3, 4"
+191,HoosfieldBarley,1955,All plots,15/11/1954,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+192,HoosfieldBarley,1955,All plots,27/12/1954,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+193,HoosfieldBarley,1955,All plots,17/03/1955,,Remainder of ground chalk applied,1,"to strips 3, 4, compensating dressing applied to series A, C",,,liming process,,,,,,,,"Remainder of ground chalk applied to strips 3, 4, compensating dressing applied to series A, C"
+194,HoosfieldBarley,1955,All plots,05/04/1955,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+195,HoosfieldBarley,1955,All plots,07/04/1955,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+196,HoosfieldBarley,1955,All plots,24/05/1955,,D.N.C. (active substance),1,,8,lb/acre,chemical pest control process,80,gallons/acre,,sprayed,,,,sprayed with 8 lb D.N.C. (active substance) in 80 gallons per acre
+197,HoosfieldBarley,1955,All plots,25/07/1955,,cut and discarded crop,1,"areas of plots in series N, AA, AAS, C, plots 5A, 50 leaving 16 rows per plot",,,harvesting process,,,,,,,,"cut, discarded areas of plots in series N, AA, AAS, C, plots 5A, 50 leaving 16 rows per plot"
+198,HoosfieldBarley,1955,All plots,18/08/1955,,harvested,1,,,,harvesting process,,,,,,,,harvested
+200,HoosfieldBarley,1956,All plots,08/09/1955,,harvested,1,,,,harvesting process,,,,,,,,harvested
+201,HoosfieldBarley,1956,All plots,16/10/1955,19/10/1955,dung applied,1,,,,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+201,HoosfieldBarley,1956,All plots,16/10/1955,19/10/1955,ploughed,1,,,,tillage process,,,,,,,,
+202,HoosfieldBarley,1956,All plots,24/03/1956,26/03/1956,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+203,HoosfieldBarley,1956,All plots,03/04/1956,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+204,HoosfieldBarley,1956,All plots,28/05/1956,,D.N.O.C,1,,3,lb/acre,chemical pest control process,80,gallons/acre,,sprayed,,,,sprayed with 3 lb INOC in 80 gallons per acre
+206,HoosfieldBarley,1957,All plots,13/10/1956,20/10/1956,ploughed,1,,,,tillage process,,,,,,,,ploughed
+207,HoosfieldBarley,1957,All plots,18/01/1957,,dung applied,1,,,,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+207,HoosfieldBarley,1957,All plots,18/01/1957,,ploughed,1,,,,tillage process,,,,,,,,
+208,HoosfieldBarley,1957,All plots,04/04/1957,05/04/1957,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+209,HoosfieldBarley,1957,All plots,06/04/1957,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+210,HoosfieldBarley,1957,All plots,29/05/1957,,MCPA,1,,2,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with MCPA at 2 pints in 40 gallons per ecre
+211,HoosfieldBarley,1957,All plots,29/08/1957,30/08/1957,harvested,1,,,,harvesting process,,,,,,,,harvested
+213,HoosfieldBarley,1958,All plots,09/09/1957,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+214,HoosfieldBarley,1958,All plots,09/09/1957,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+215,HoosfieldBarley,1958,All plots,22/11/1957,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+216,HoosfieldBarley,1958,All plots,25/11/1957,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+217,HoosfieldBarley,1958,All plots,17/04/1958,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+218,HoosfieldBarley,1958,All plots,21/04/1958,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+219,HoosfieldBarley,1958,All plots,28/05/1958,,CMPP,1,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with CMPP at 6 pints in 40 gallons per acre
+221,Hoosfield,1958,Note,,,"In 1958 the plots were combine harvested for the first time, a single cut being made down the centre of each plot (including plots 1N and 5 - 0 for the full length except on strips 1, 3 where five combine cuts were taken per plot, weighed separately. The yields shown were estimated from the totals of these cuts",1,,,,comment,,,,,,,,"In 1958 the plots were combine harvested for the first time, a single cut being made down the centre of each plot (including plots 1N and 5 - 0 for the full length except on strips 1, 3 where five combine cuts were taken per plot, weighed separately. The "
+222,HoosfieldBarley,1959,All plots,20/09/1958,,"2,4-D ester on stubble",1,,1.75,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre on stubble"
+223,HoosfieldBarley,1959,All plots,28/11/1958,06/12/1958,ploughed,1,,,,tillage process,,,,,,,,ploughed
+224,HoosfieldBarley,1959,All plots,05/12/1958,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+225,HoosfieldBarley,1959,All plots,30/03/1959,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+226,HoosfieldBarley,1959,All plots,02/04/1959,,seed drilled,0,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+227,HoosfieldBarley,1959,All plots,26/05/1959,,MCPA,1,,6.5,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with MCPA at 6.5 pints (30% potassium salt) in 40 gallons per acre
+228,HoosfieldBarley,1959,All plots,18/08/1959,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+230,Hoosfield,1959,Note,,,"In 1959 the plots were harvested by taking a single combine cut down the centre of each plot (including plots 1N and 5 - 0) for the full length except on strips 1, 3, 4 where five combine cuts were taken per plot and weighed seperately, the yields shown being estimated from the totals of these cuts. One cut only was taken from plot 5 - A situated at the south side to avoid couch grass (Agropyron repens)",1,,,,comment,,,,,,,,"In 1959 the plots were harvested by taking a single combine cut down the centre of each plot (including plots 1N and 5 - 0) for the full length except on strips 1, 3, 4 where five combine cuts were taken per plot and weighed seperately, the yields shown b"
+231,HoosfieldBarley,1960,All plots,26/08/1959,,dalapon,1,"part of plots 5A, 4C, 5.0 ",8,lb/acre,chemical pest control process,20,gallons/acre,,sprayed,,,,"sprayed part of plots 5A, 4C, 5.0 with dalapon at 8 lb in 20 gallons per acre"
+232,HoosfieldBarley,1960,All plots,27/08/1959,,"2,4-D ester",1,,1.75,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"all plots sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre"
+233,HoosfieldBarley,1960,All plots,05/09/1959,,combined,1,,,,harvesting process,,,,,,,,combined
+234,HoosfieldBarley,1960,All plots,07/09/1959,,Quinquenniel chalk supplement applied,1,"to series A, C, plot 5A",,,liming process,,,,,,,,"Quinquenniel chalk supplement applied to series A, C, plot 5A"
+235,HoosfieldBarley,1960,All plots,20/11/1959,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+236,HoosfieldBarley,1960,All plots,07/04/1960,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+237,HoosfieldBarley,1960,All plots,24/05/1960,,MCPA,1,"Strips 1, 2, 3 ",6.5,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Strips 1, 2, 3 sprayed with MCPA at 6.5 pints (30% potassium salt) in 40 gallons per acre"
+239,Hoosfield,1960,All plots,20/11/1959,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+240,Hoosfield,1960,All plots,04/04/1960,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+241,Hoosfield,1960,Notes,,,"In 1960 on strips 1, 2, 3, 4 the number of row spaces was reduced from 98 to 96 and yields estimated from 4 combine cuts per plot. On strip 6 there were 72 row spaces instead of 74 and yields estimated from 3 combine cuts per plot. On strip 7 yields were estimated from 2 combine cuts per plot. Manures were applied to the full plot areas as hitherto",1,,,,comment,,,,,,,,"In 1960 on strips 1, 2, 3, 4 the number of row spaces was reduced from 98 to 96 and yields estimated from 4 combine cuts per plot. On strip 6 there were 72 row spaces instead of 74 and yields estimated from 3 combine cuts per plot. On strip 7 yields were "
+242,Hoosfield,1960,Notes,,,"On plots showing uneven growth, straw heights were recorded for all cuts; on the remainder one weight only was taken from a cut chosen at random.",1,,,,comment,,,,,,,,"On plots showing uneven growth, straw heights were recorded for all cuts; on the remainder one weight only was taken from a cut chosen at random."
+243,Hoosfield,1960,selected plots,07/09/1959,,dalapon,1,"part of plots 5A, 4C, 5.0",4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed part of plots 5A, 4C, 5.0 with dalapon at 4 lb in 40 gallons per acre"
+244,Hoosfield,1960,selected plots,24/05/1960,,CMPP,1,"strips 4, 6, 7 ",6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"strips 4, 6, 7 sprayed with CMPP at 6 pints in 40 gallons per acre"
+245,HoosfieldBarley,1961,All plots,24/09/1960,,dalapon,1,,10,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 10 lb in 40 gallons per acre
+246,HoosfieldBarley,1961,All plots,11/10/1960,,dalapon,1,,5,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 5 lb in 40 gallons per acre
+247,HoosfieldBarley,1961,All plots,12/12/1960,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+248,HoosfieldBarley,1961,All plots,13/12/1960,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+249,HoosfieldBarley,1961,All plots,28/03/1961,,Minerals applied,1,,,,agronomic fertilization process,,,,,,,,Minerals applied
+250,HoosfieldBarley,1961,All plots,04/04/1961,,applied N,1,,,,agronomic fertilization process,,,,,,,,Nitrogen fertilizers applied
+251,HoosfieldBarley,1961,All plots,12/04/1961,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+252,HoosfieldBarley,1961,All plots,19/05/1961,,MCPA,1,"Strips 1, 2, 3 ",6.5,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Strips 1, 2, 3 sprayed with MCPA at 6.5 pints in 40 gallons per acre"
+253,HoosfieldBarley,1961,All plots,28/08/1961,,combined,1,,,,harvesting process,,,,,,,,combined
+255,Hoosfield,1961,selected plots,19/05/1961,,CMPP,1,"strips 4, 6, 7 ",6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"strips 4, 6, 7 sprayed with CMPP at 6 pints in 40 gallons per acre"
+256,HoosfieldBarley,1962,All plots,05/09/1961,,"2,4-D ester",1,,1.75,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"all plots sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre"
+257,HoosfieldBarley,1962,All plots,08/09/1961,,dalapon,1,"Plot 1N, parts of plots 2C, 4C 5-0, 5A ",8,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Plot 1N, parts of plots 2C, 4C 5-0, 5A sprayed with dalapon at 8 lb in 40 gallons per acre"
+258,HoosfieldBarley,1962,All plots,08/09/1961,,dalapon. Areas sprayed on 08/09/1961 and 11/09/1961 resprayed.,1,,4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,Areas sprayed on 08/09/1961 and 11/09/1961 resprayed with dalapon at 4 lb in 40 gallons per acre
+259,HoosfieldBarley,1962,All plots,11/09/1961,,"sprayed by hand, with dalapon",1,"Patches on 2N, 2C, 3C, 4C ",8,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Patches on 2N, 2C, 3C, 4C sprayed by hand, with dalapon at 8 lb in 40 gallons per acre"
+260,HoosfieldBarley,1962,All plots,14/09/1961,,combined,1,,,,harvesting process,,,,,,,,combined
+261,HoosfieldBarley,1962,All plots,31/10/1961,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+262,HoosfieldBarley,1962,All plots,31/10/1961,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+263,HoosfieldBarley,1962,All plots,27/03/1962,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+264,HoosfieldBarley,1962,All plots,11/04/1962,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+265,HoosfieldBarley,1962,All plots,04/06/1962,,MCPA / MBA,1,,4,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with MCPA / MBA at 4 pints in 40 gallons per acre
+267,HoosfieldBarley,1963,All plots,27/09/1962,,dalapon,1,,7.4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 7.4 lb in 40 gallons per acre
+268,HoosfieldBarley,1963,All plots,16/10/1962,,dalapon,1,,3.7,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 3.7 lb in 40 gallons per acre
+269,HoosfieldBarley,1963,All plots,09/03/1963,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+270,HoosfieldBarley,1963,All plots,25/03/1963,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+271,HoosfieldBarley,1963,All plots,24/04/1963,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+272,Hoosfield,1963,all plots,24/04/1963,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+273,HoosfieldBarley,1963,All plots,11/06/1963,,"mecoprop / 2,4-D",1,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D at 6 pints in 40 gallons per acre"
+274,HoosfieldBarley,1963,All plots,17/09/1963,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+276,HoosfieldBarley,1964,All plots,07/10/1963,,dalapon (as Dowpon),1,,8,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon (Dowpon at 8 lb in 40 gals)
+277,HoosfieldBarley,1964,All plots,21/10/1963,,dalapon (as Dowpon),1,,4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon (Dowpon at 4 lb in 40 gals)
+278,HoosfieldBarley,1964,All plots,02/11/1963,,dung applied,1,,,,agronomic fertilization process,,,,,,,,dung applied
+279,HoosfieldBarley,1964,All plots,04/11/1963,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+280,HoosfieldBarley,1964,All plots,09/04/1964,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+281,HoosfieldBarley,1964,All plots,10/04/1964,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+281,HoosfieldBarley,1964,All plots,10/04/1964,,seed drilled,0,,2.75,bushels/acre,seeding process,,,,,Maris Badger,,,
+282,HoosfieldBarley,1964,All plots,28/05/1964,,"mecoprop / 2,4-D (as Methoxone extra)",1,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D (Methoxone extra at 6 pints in 40 gals)"
+283,HoosfieldBarley,1964,All plots,31/08/1964,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+284,Hoosfield,1964,Note,,,"The plots are now split lengthways for a comparison of 2 varieties - Plumage Archer (PA) and Maris Badger (MB). For Maris Piper the rates of application of sulphate or ammonia, nitrate of soda and castor meal are doubled (each supplying 86 lb N). Rates of application of other fertilisers and dung are unchanged",1,,,,comment,,,,,,,,"The plots are now split lengthways for a comparison of 2 varieties - Plumage Archer (PA) and Maris Badger (MB). For Maris Piper the rates of application of sulphate or ammonia, nitrate of soda and castor meal are doubled (each supplying 86 lb N). Rates of"
+285,HoosfieldBarley,1965,All plots,26/09/1964,,Quinquenniel chalk supplement applied,1,"to series A, C, plot 5A",,,liming process,,,,,,,,"Quinquenniel chalk supplement applied to series A, C, plot 5A"
+286,HoosfieldBarley,1965,All plots,03/11/1964,,dung applied,1,,,,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+286,HoosfieldBarley,1965,All plots,03/11/1964,,ploughed,1,,,,tillage process,,,,,,,,
+287,HoosfieldBarley,1965,All plots,01/04/1965,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+288,Hoosfield,1965,All plots,01/04/1965,,seed drilled,0,,160,lb/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+288,Hoosfield,1965,All plots,01/04/1965,,seed drilled,0,,160,lb/acre,seeding process,,,,,Maris Badger,,,
+289,HoosfieldBarley,1965,All plots,14/05/1965,,"mecoprop / 2,4-D (as Methoxone extra)",1,,6,pints/acre,chemical pest control process,34,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D (Methoxone extra at 6 pints in 34 gals)"
+290,HoosfieldBarley,1965,All plots,20/05/1965,,applied nitrate of soda,1,plot 4AAS,,,agronomic fertilization process,,,,,,,,nitrate of soda applied to plot 4AAS
+291,HoosfieldBarley,1965,All plots,09/09/1965,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+292,HoosfieldBarley,1965,Note,None,,The appearance of the crop in early May indicated that plot 4AAS had not received seedbed nitrogen and that plot 4AA had received a double dressing in error. Plot 4AAS was therefore top dressed with the correct dressing on May 20th,1,,,,comment,,,,,,,,The appearance of the crop in early May indicated that plot 4AAS had not received seedbed nitrogen and that plot 4AA had received a double dressing in error. Plot 4AAS was therefore top dressed with the correct dressing on May 20th
+293,HoosfieldBarley,1965,Note,,,Estimates of Eyespot (Cercosporella herpotrichoides and take-all (Ophiobolus graminis) were made.,1,,,,comment,,,,,,,,Estimates of Eyespot (Cercosporella herpotrichoides and take-all (Ophiobolus graminis) were made.
+294,HoosfieldBarley,1966,All plots,04/10/1965,,aminotriazole,1,,4,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,sprayed with aminotriazole at 4 lb and ammonia thiocyanate at 3.7 lb in 40 gals
+294,HoosfieldBarley,1966,All plots,04/10/1965,,ammonia thiocyanate,1,,3.7,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,
+295,HoosfieldBarley,1966,All plots,01/11/1965,,dung applied,1,,,,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+295,HoosfieldBarley,1966,All plots,01/11/1965,,ploughed,1,,,,tillage process,,,,,,,,
+296,HoosfieldBarley,1966,All plots,17/03/1966,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+297,HoosfieldBarley,1966,All plots,18/03/1966,,seed drilled,0,,155,lb/acre,seeding process,,,,,Plumage Archer,,,seed drilled
+297,HoosfieldBarley,1966,All plots,18/03/1966,,seed drilled,0,,155,lb/acre,seeding process,,,,,Maris Badger,,,
+298,HoosfieldBarley,1966,All plots,27/05/1966,,"mecoprop / 2,4-D (as Methoxone extra)",1,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D (Methoxone extra at 6 pints in 40 gals)"
+299,HoosfieldBarley,1966,All plots,26/08/1966,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+300,HoosfieldBarley,1966,Note,,,Estimates of Eyespot (Cercosporella herpotrichoides and take-all (Ophiobolus graminis) were made.,1,,,,comment,,,,,,,,Estimates of Eyespot (Cercosporella herpotrichoides and take-all (Ophiobolus graminis) were made.
+301,HoosfieldBarley,1967,All plots,16/09/1966,,aminotriazole,1,,4,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,sprayed with aminotriazole at 4 lb and ammonia thiocyanate at 3.7 lb in 40 gals
+301,HoosfieldBarley,1967,All plots,16/09/1966,,ammonia thiocyanate,1,,3.7,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,
+302,HoosfieldBarley,1967,All plots,19/10/1966,,dung applied,1,,,,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+302,HoosfieldBarley,1967,All plots,19/10/1966,,ploughed,1,,,,tillage process,,,,,,,,
+303,HoosfieldBarley,1967,All plots,31/03/1967,,rotary cultivated,1,,,,tillage process,,,,,,,,rotary cultivated
+304,HoosfieldBarley,1967,All plots,19/05/1967,02/06/1967,rotary cultivated,1,,,,tillage process,,,,,,,,rotary cultivated
+305,HoosfieldBarley,1967,All plots,09/06/1967,,applied castor meal,1,,,,agronomic fertilization process,,,,,,,,Castor meal applied
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk,1,"1AX, 2AX, 3AX, 4AX, 5AX",651,lb/acre,liming process,,,,,,,,Ground chalk applied - see book for plot rates
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk,1,"1AY, 2AY, 3AY, 4AY, 5AY",1952,lb/acre,liming process,,,,,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk,1,"1C, 2C, 3C, 4C",813,lb/acre,liming process,,,,,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk as corrective liming,1,"1N, 1C, 4C, 4A, 7-1",23,cwt/acre,liming process,,,,,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk as corrective liming,1,"6-1, 6-2, 5A, 2C",46,cwt/acre,liming process,,,,,,,,
+307,HoosfieldBarley,1967,All plots,03/07/1967,,Deep-tine cultivated,1,,,,tillage process,,,,,,,,Deep-tine cultivated
+308,HoosfieldBarley,1967,All plots,26/07/1967,,rotary cultivated,1,,,,tillage process,,,,,,,,rotary cultivated
+309,Hoosfield,1968,all plots,05/10/1967,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, Na, Mg applied"
+309,Hoosfield,1968,all plots,05/10/1967,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+309,Hoosfield,1968,all plots,05/10/1967,,applied Na,1,,,,agronomic fertilization process,,,,,,,,
+309,Hoosfield,1968,all plots,05/10/1967,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+310,Hoosfield,1968,All plots,06/10/1967,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+311,Hoosfield,1968,all plots,06/10/1967,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+312,Hoosfield,1968,all plots,06/10/1967,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+313,Hoosfield,1968,barley,04/03/1968,,seed drilled,0,,140,lb/acre,seeding process,,,,,Maris Badger,,,Seed drilled at 140 lb
+314,Hoosfield,1968,barley,25/03/1968,,applied Nitrochalk,1,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+315,Hoosfield,1968,barley,14/05/1968,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,,4,pints/acre,chemical pest control process,33,gallons/acre,,,,,,weedkiller
+316,Hoosfield,1968,barley,22/08/1968,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+317,Hoosfield,1968,beans,04/03/1968,,seed drilled,0,,200,lb/acre,seeding process,,,,,Maris Bead,innoculated with Rhizobium,,seed drilled
+318,Hoosfield,1968,beans,05/03/1968,,simazine,1,,1,lb/acre,chemical pest control process,33,gallons/acre,,,,,,weedkiller
+319,Hoosfield,1968,beans,21/06/1968,,phorate,1,,1.04,lb/acre,chemical pest control process,,,,,,,,insecticide
+320,Hoosfield,1968,beans,13/09/1968,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+321,Hoosfield,1968,potatoes,26/03/1968,,applied Nitrochalk,1,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+322,Hoosfield,1968,Potatoes,01/04/1968,,plots rotary cultivated,1,,,,tillage process,,,,,,,,"Plots rotary cultivated, potatoes machine planted"
+322,Hoosfield,1968,Potatoes,01/04/1968,,potatoes machine planted,0,,,,seeding process,,,,,Majestic,,,
+323,Hoosfield,1968,potatoes,20/05/1968,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+324,Hoosfield,1968,potatoes,28/05/1968,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+325,Hoosfield,1968,potatoes,03/07/1968,,mancozeb,1,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,fungicide
+326,Hoosfield,1968,potatoes,19/07/1968,,mancozeb,1,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,fungicide
+327,Hoosfield,1968,potatoes,19/07/1968,,demeton-s-methyl,1,,3.5,oz/acre,chemical pest control process,,,,,,,,insecticide
+328,Hoosfield,1968,potatoes,05/08/1968,,mancozeb,1,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,fungicide
+329,Hoosfield,1968,potatoes,30/08/1968,,BOV applied,1,,,,chemical pest control process,,,,,,,,BOV applied
+330,Hoosfield,1968,potatoes,13/09/1968,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+331,Hoosfield,1968,potatoes,23/09/1968,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+332,Hoosfield,1969,All plots,04/12/1968,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+333,Hoosfield,1969,All plots,05/12/1968,06/12/1968,ploughed,1,,,,tillage process,,,,,,,,ploughed
+334,Hoosfield,1969,all plots,06/12/1968,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+335,Hoosfield,1969,barley,05/09/1968,,paraquat,1,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+336,Hoosfield,1969,barley,24/03/1969,,seed drilled,0,,140,lb/acre,seeding process,,,,,,,,seed drilled
+337,Hoosfield,1969,barley,01/04/1969,,applied Nitrochalk,1,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+338,Hoosfield,1969,barley,20/05/1969,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,,4,pints/acre,chemical pest control process,20,gallons/acre,,,,,,MCPA / mecoprop / dicamba applied
+339,Hoosfield,1969,Barley,22/08/1969,,combine harvested large combine plots,1,,,,harvesting process,,,,,,,,combine harvested large combine plots
+340,Hoosfield,1969,barley,23/08/1969,,combine harvested small combine plots,1,,,,harvesting process,,,,,,,,combine harvested small combine plots
+341,Hoosfield,1969,beans,24/03/1969,,seed drilled,0,,200,lb/acre,seeding process,,,,,,,,seed drilled
+342,Hoosfield,1969,beans,19/05/1969,,demeton-s-methyl,1,,3.5,oz/acre,chemical pest control process,37,gallons/acre,,,,,,insecticide
+343,Hoosfield,1969,beans,10/09/1969,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+344,Hoosfield,1969,potatoes,05/09/1968,,paraquat,1,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+345,Hoosfield,1969,potatoes,09/04/1969,,applied Nitrochalk,1,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+346,Hoosfield,1969,Potatoes,10/04/1969,,plots rotary cultivated,1,,,,tillage process,,,,,,,,"Plots rotary cultivated, potatoes machine planted"
+346,Hoosfield,1969,Potatoes,10/04/1969,,potatoes machine planted,0,,,,seeding process,,,,,,,,
+347,Hoosfield,1969,potatoes,12/05/1969,,paraquat,1,,0.375,lb/acre,chemical pest control process,37,gallons/acre,,,,,,"linuron, paraquat applied"
+348,Hoosfield,1969,potatoes,18/06/1969,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+349,Hoosfield,1969,potatoes,23/06/1969,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+350,Hoosfield,1969,potatoes,15/07/1969,,mancozeb,1,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,Mancozeb applied
+351,Hoosfield,1969,potatoes,04/08/1969,,mancozeb,1,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,Mancozeb applied
+352,Hoosfield,1969,potatoes,04/08/1969,,demeton-s-methyl,1,,3.5,oz/acre,chemical pest control process,,,,,,,,insecticide
+353,Hoosfield,1969,potatoes,22/08/1969,,mancozeb,1,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,Mancozeb applied
+354,Hoosfield,1969,potatoes,02/10/1969,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+355,Hoosfield,1969,potatoes,03/10/1969,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+356,Hoosfield,1970,All plots,22/10/1969,,fertilizers applied,1,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+357,Hoosfield,1970,All plots,10/11/1969,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+358,Hoosfield,1970,All plots,11/11/1969,12/11/1969,ploughed,1,,,,tillage process,,,,,,,,ploughed
+359,Hoosfield,1970,barley,17/09/1969,,paraquat,1,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+360,Hoosfield,1970,barley,20/03/1970,,seed drilled,0,,140,lb/acre,seeding process,,,,,Julia,,,seed drilled
+361,Hoosfield,1970,barley,09/04/1970,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+362,Hoosfield,1970,barley,26/05/1970,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,,4,pints/acre,chemical pest control process,20,gallons/acre,,,,,,MCPA / mecoprop / dicamba applied
+363,Hoosfield,1970,barley,18/08/1970,,combine harvested small combine plots,1,,,,harvesting process,,,,,,,,combine harvested small combine plots
+364,Hoosfield,1970,barley,25/08/1970,,combine harvested large combine plots,1,,,,harvesting process,,,,,,,,combine harvested large combine plots
+366,Hoosfield,1970,beans,21/03/1970,,seed drilled,0,,200,lb/acre,seeding process,,,,,,,,seed drilled
+367,Hoosfield,1970,beans,18/06/1970,,demeton-s-methyl,1,,3.5,oz/acre,chemical pest control process,40,gallons/acre,,,,,,insecticide
+368,Hoosfield,1970,beans,02/09/1970,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+369,Hoosfield,1970,potatoes,17/09/1969,,paraquat,1,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+370,Hoosfield,1970,potatoes,29/04/1970,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+371,Hoosfield,1970,Potatoes,30/04/1970,,plots rotary cultivated,1,,,,tillage process,,,,,,,,"Plots rotary cultivated, potatoes machine planted"
+371,Hoosfield,1970,Potatoes,30/04/1970,,potatoes machine planted,0,,,,seeding process,,,,,,,,
+372,Hoosfield,1970,potatoes,23/05/1970,,linuron,1,,1,lb/acre,chemical pest control process,39,gallons/acre,,,,,,linuron applied
+373,Hoosfield,1970,potatoes,30/06/1970,,"Grubbed, rotary ridged",1,,,,tillage process,,,,,,,,"Grubbed, rotary ridged"
+374,Hoosfield,1970,potatoes,29/07/1970,,mancozeb,1,,1.2,lb/acre,chemical pest control process,40,gallons/acre,,,,,,fungicide
+375,Hoosfield,1970,potatoes,29/07/1970,,demeton-s-methyl,1,,3.5,oz/acre,chemical pest control process,,,1,,,,,insecticide
+376,Hoosfield,1970,potatoes,14/08/1970,,mancozeb,1,,1.2,lb/acre,chemical pest control process,40,gallons/acre,,,,,,fungicide
+377,Hoosfield,1970,potatoes,03/09/1970,,undiluted BOV,1,,15,gallons/acre,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 15 gals
+378,Hoosfield,1970,potatoes,15/09/1970,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+379,Hoosfield,1971,All plots,16/10/1970,,"fertilizers, except N, applied",1,,,,agronomic fertilization process,,,,,,,,"fertilizers, except N, applied"
+380,Hoosfield,1971,All plots,21/10/1970,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+381,Hoosfield,1971,All plots,22/10/1970,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+382,Hoosfield,1971,barley,24/02/1971,,seed drilled,0,,157,kg/ha,seeding process,,,,,Julia,,,seed drilled
+383,Hoosfield,1971,All plots,23/03/1971,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+384,Hoosfield,1971,All plots,10/05/1971,,"ioxynil octanoate, bromoxynil octanoate and the iso-octyl ester of dichlorprop (Oxytril P)",1,,1.4,l/ha,chemical pest control process,225,l/ha,,,,,,Oxytril P applied
+385,Hoosfield,1971,All plots,18/08/1971,,combine harvested small combine plots,1,,,,harvesting process,,,,,,,,combine harvested small combine plots
+386,Hoosfield,1971,barley,19/09/1970,,paraquat,1,,0.28,kg/ha,chemical pest control process,225,l/ha,,,,,,paraquat applied
+387,Hoosfield,1971,Barley,11/08/1971,,combine harvested large combine plots,1,,,,harvesting process,,,,,,,,combine harvested large combine plots
+389,Hoosfield,1971,beans,19/09/1970,,paraquat,1,,0.28,kg/ha,chemical pest control process,225,l/ha,,,,,,paraquat applied
+390,Hoosfield,1971,beans,24/02/1971,,seed drilled,0,,224,kg/ha,seeding process,,,,,Maris Bead,,,seed drilled
+391,Hoosfield,1971,beans,01/07/1971,,demeton-s-methyl,1,,245,g/ha,chemical pest control process,427,l/ha,,,,,,insecticide
+392,Hoosfield,1971,beans,02/09/1971,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+394,Hoosfield,1971,potatoes,19/09/1970,,paraquat,1,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+395,Hoosfield,1971,potatoes,02/04/1971,,applied N,1,,,,agronomic fertilization process,,,,,,,,"N applied, plots rotary cultivated, potatoes machine planted"
+395,Hoosfield,1971,potatoes,02/04/1971,,plots rotary cultivated,1,,,,tillage process,,,,,,,,
+395,Hoosfield,1971,potatoes,02/04/1971,,potatoes machine planted,0,,,,seeding process,,,,,King Edward,,,
+396,Hoosfield,1971,potatoes,15/04/1971,,linuron,1,,1.68,kg/ha,chemical pest control process,427,l/ha,,,,,,linuron applied
+397,Hoosfield,1971,potatoes,03/06/1971,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+398,Hoosfield,1971,potatoes,04/06/1971,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+399,Hoosfield,1971,potatoes,13/08/1971,,mancozeb,1,,1.34,kg/ha,chemical pest control process,438,l/ha,,,,,,fungicide
+400,Hoosfield,1971,potatoes,08/09/1971,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+401,Hoosfield,1971,potatoes,15/09/1971,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+403,Hoosfield,1972,All plots,22/09/1971,,"fertilizers, except N, applied",1,,,,agronomic fertilization process,,,,,,,,"fertilizers, except N, applied"
+404,Hoosfield,1972,All plots,05/11/1971,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+405,Hoosfield,1972,All plots,06/11/1971,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+406,Hoosfield,1972,All plots,17/04/1972,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+407,Hoosfield,1972,barley,09/09/1971,,paraquat,1,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+408,Hoosfield,1972,barley,15/03/1972,,seed drilled,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed drilled
+409,Hoosfield,1972,barley,18/05/1972,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,,5.6,l/ha,chemical pest control process,220,l/ha,,,,,,Banlene Plus applied
+410,Hoosfield,1972,barley,23/08/1972,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+411,Hoosfield,1972,beans,16/03/1972,,seed drilled,0,,220,kg/ha,seeding process,,,,,,,,seed drilled
+412,Hoosfield,1972,beans,17/06/1972,,phorate,1,,1.1,kg/ha,chemical pest control process,,,,,,,,insecticide
+413,Hoosfield,1972,beans,27/09/1972,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+414,Hoosfield,1972,potatoes,09/09/1971,,paraquat,1,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+415,Hoosfield,1972,Potatoes,19/04/1972,,plots rotary cultivated,1,,,,tillage process,,,,,,,,"Plots rotary cultivated, potatoes machine planted"
+415,Hoosfield,1972,Potatoes,19/04/1972,,potatoes machine planted,0,,,,seeding process,,,,,"King Edward, Rothamsted once grown chitted seed",,,
+416,Hoosfield,1972,potatoes,17/05/1972,,linuron,1,,1.1,kg/ha,chemical pest control process,450,l/ha,,,,,,"linuron, paraquat applied"
+417,Hoosfield,1972,potatoes,14/06/1972,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+418,Hoosfield,1972,potatoes,15/06/1972,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+419,Hoosfield,1972,potatoes,11/07/1972,,mancozeb,1,,1.4,kg/ha,chemical pest control process,440,l/ha,,,,,,fungicide
+420,Hoosfield,1972,potatoes,21/07/1972,,mancozeb,1,,1.4,kg/ha,chemical pest control process,440,l/ha,,,,,,fungicide
+421,Hoosfield,1972,potatoes,21/07/1972,,demeton-s-methyl,1,,0.25,kg/ha,chemical pest control process,440,l/ha,,,,,,insecticide
+422,Hoosfield,1972,potatoes,10/08/1972,,mancozeb,1,,1.4,kg/ha,chemical pest control process,440,l/ha,,,,,,fungicide
+423,Hoosfield,1972,potatoes,16/09/1972,,undiluted BOV,1,,110,l/ha,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 110 l
+424,Hoosfield,1972,potatoes,20/09/1972,,undiluted BOV,1,,200,l/ha,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 200 l
+425,Hoosfield,1972,potatoes,28/09/1972,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+426,Hoosfield,1973,All plots,01/11/1972,,"fertilizers, except N, applied",1,,,,agronomic fertilization process,,,,,,,,"fertilizers, except N, applied"
+427,Hoosfield,1973,All plots,03/11/1972,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+428,Hoosfield,1973,All plots,06/11/1972,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+429,Hoosfield,1973,All plots,22/03/1973,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+430,Hoosfield,1973,barley,08/03/1973,,seed sown,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown
+431,Hoosfield,1973,barley,11/05/1973,15/05/1973,"dicamba, mecoprop and MCPA as 'Tetralex Plus'",1,,7.0,l/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+432,Hoosfield,1973,barley,10/08/1973,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+433,Hoosfield,1973,beans,08/03/1973,,seed sown,0,,220,kg/ha,seeding process,,,,,Maris Bead,,,seed sown
+434,Hoosfield,1973,beans,08/06/1973,,demeton-s-methyl,1,,0.25,kg/ha,chemical pest control process,370,l/ha,,,,,,insecticide
+435,Hoosfield,1973,beans,03/09/1973,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+436,Hoosfield,1973,potatoes,06/04/1973,,potatoes planted,0,,,,seeding process,,,,,"King Edward, Rothamsted once grown",,,potatoes planted
+437,Hoosfield,1973,potatoes,15/05/1973,,linuron,1,,1.1,kg/ha,chemical pest control process,450,l/ha,,,,,,weedkiller
+438,Hoosfield,1973,potatoes,02/07/1973,,mancozeb,1,,1.35,kg/ha,chemical pest control process,370,l/ha,,,,,,fungicide
+439,Hoosfield,1973,potatoes,02/07/1973,,demeton-s-methyl,1,,0.25,kg/ha,chemical pest control process,370,l/ha,,,,,,insecticide
+440,Hoosfield,1973,potatoes,18/07/1973,,mancozeb,1,,1.35,kg/ha,chemical pest control process,370,l/ha,,,,,,fungicide
+441,Hoosfield,1973,potatoes,09/08/1973,,mancozeb,1,,1.35,kg/ha,chemical pest control process,370,l/ha,,,,,,fungicide
+442,Hoosfield,1973,potatoes,31/08/1973,,Haulm mechanically destroyed,1,,220,l/ha,residue management process,,,,sprayed,,,,"Haulm destroyed mechanically, sprayed with undiluted BOV at 220 l"
+442,Hoosfield,1973,potatoes,31/08/1973,,undiluted BOV,1,,,,chemical pest control process,,,,,,,,
+443,Hoosfield,1973,potatoes,26/09/1973,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+444,Hoosfield,1974,All plots,02/10/1973,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+445,Hoosfield,1974,All plots,24/10/1973,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, Mg applied"
+445,Hoosfield,1974,All plots,24/10/1973,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+446,Hoosfield,1974,all plots,29/10/1973,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+447,Hoosfield,1974,All plots,19/11/1973,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+448,Hoosfield,1974,All plots,21/11/1973,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+449,Hoosfield,1974,All plots,08/04/1974,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+450,Hoosfield,1974,barley,17/09/1973,,paraquat,1,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+451,Hoosfield,1974,barley,21/11/1973,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+452,Hoosfield,1974,barley,08/03/1974,,springtine cultivated twice,1,,,,tillage process,,,,,,,,springtine cultivated twice
+453,Hoosfield,1974,barley,26/03/1974,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+453,Hoosfield,1974,barley,26/03/1974,,seed sown,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,
+454,Hoosfield,1974,barley,21/05/1974,,"dicamba, mecoprop and MCPA as 'Tetralex Plus'",1,,7.0,l/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+455,Hoosfield,1974,barley,31/08/1974,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+456,Hoosfield,1974,beans,08/03/1974,,springtine cultivated twice,1,,,,tillage process,,,,,,,,springtine cultivated twice
+457,Hoosfield,1974,beans,27/03/1974,,seed sown,0,,220,kg/ha,seeding process,,,,,Maris Bead,,,seed sown and springtine cultivated
+457,Hoosfield,1974,beans,27/03/1974,,springtine cultivated,1,,,,tillage process,,,,,,,,
+458,Hoosfield,1974,beans,13/06/1974,,demeton-s-methyl,1,,0.25,kg/ha,chemical pest control process,220,l/ha,,,,,,insecticide
+459,Hoosfield,1974,beans,24/09/1974,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+460,Hoosfield,1974,potatoes,17/09/1973,,paraquat,1,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+461,Hoosfield,1974,potatoes,08/03/1974,,springtine cultivated twice,1,,,,tillage process,,,,,,,,springtine cultivated twice
+462,Hoosfield,1974,potatoes,17/04/1974,,rotary cultivated,1,,,,tillage process,,,,,,,,"rotary cultivated, seed machine planted"
+462,Hoosfield,1974,potatoes,17/04/1974,,seed machine planted,0,,,,seeding process,,,,,King Edward,,,
+463,Hoosfield,1974,potatoes,17/05/1974,,linuron,1,,1.2,kg/ha,chemical pest control process,450,l/ha,,,,,,"linuron, paraquat applied"
+464,Hoosfield,1974,potatoes,19/06/1974,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+465,Hoosfield,1974,potatoes,01/07/1974,,mancozeb,1,,1.35,kg/ha,chemical pest control process,450,l/ha,,,,,,fungicide
+466,Hoosfield,1974,potatoes,01/07/1974,,demeton-s-methyl,1,,0.25,kg/ha,chemical pest control process,,,,,,,,insecticide
+467,Hoosfield,1974,potatoes,02/08/1974,,mancozeb,1,,1.35,kg/ha,chemical pest control process,450,l/ha,,,,,,fungicide
+468,Hoosfield,1974,potatoes,10/09/1974,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+469,Hoosfield,1974,potatoes,16/09/1974,,undiluted BOV,1,,200,l/ha,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 200 l
+470,Hoosfield,1974,potatoes,04/11/1974,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+471,Hoosfield,1975,All plots,25/11/1974,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+472,Hoosfield,1975,All plots,08/01/1975,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, silicate of soda, FYM applied"
+472,Hoosfield,1975,All plots,08/01/1975,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+472,Hoosfield,1975,All plots,08/01/1975,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,
+473,Hoosfield,1975,All plots,10/01/1975,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+474,Hoosfield,1975,All plots,10/02/1975,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+475,Hoosfield,1975,All plots,24/02/1975,,springtine cultivated twice,1,,,,tillage process,,,,,,,,springtine cultivated twice
+476,Hoosfield,1975,barley,25/02/1975,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+476,Hoosfield,1975,barley,25/02/1975,,seed sown,0,,160,kg/ha,seeding process,,,,,Julia,,,
+477,Hoosfield,1975,barley,29/04/1975,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+478,Hoosfield,1975,barley,20/05/1975,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,,5.6,l/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+479,Hoosfield,1975,barley,07/08/1975,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+480,Hoosfield,1975,beans,25/03/1975,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+480,Hoosfield,1975,beans,25/03/1975,,seed sown,0,,220,kg/ha,seeding process,,,,,Minor,,,
+481,Hoosfield,1975,beans,16/05/1975,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+482,Hoosfield,1975,beans,24/06/1975,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+483,Hoosfield,1975,beans,09/07/1975,,demeton-s-methyl,1,,0.25,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+484,Hoosfield,1975,beans,29/08/1975,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+485,Hoosfield,1975,potatoes,29/04/1975,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+486,Hoosfield,1975,potatoes,07/05/1975,,Spike rotary cultivated,1,,,,tillage process,,,,,,,,"Spike rotary cultivated, seed machine planted"
+486,Hoosfield,1975,potatoes,07/05/1975,,seed machine planted,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,
+487,Hoosfield,1975,potatoes,13/05/1975,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+488,Hoosfield,1975,potatoes,04/06/1975,,linuron,1,,1.1,kg/ha,chemical pest control process,450,l/ha,,,,,,"linuron, paraquat applied"
+489,Hoosfield,1975,potatoes,27/06/1975,,demeton-s-methyl,1,,0.95,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+490,Hoosfield,1975,potatoes,27/06/1975,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+491,Hoosfield,1975,potatoes,18/07/1975,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+492,Hoosfield,1975,potatoes,21/07/1975,,mancozeb,1,,1.3,kg/ha,chemical pest control process,,,,,,,,fungicide
+493,Hoosfield,1975,potatoes,21/07/1975,,demeton-s-methyl,1,,0.95,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+494,Hoosfield,1975,potatoes,16/09/1975,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+495,Hoosfield,1975,potatoes,19/09/1975,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+496,Hoosfield,1976,All plots,01/10/1975,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K applied"
+496,Hoosfield,1976,All plots,01/10/1975,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+497,Hoosfield,1976,All plots,02/10/1975,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+498,Hoosfield,1976,All plots,06/10/1975,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+499,Hoosfield,1976,All plots,15/10/1975,,heavy springtine cultivated,1,,,,tillage process,,,,,,,,heavy springtine cultivated
+500,Hoosfield,1976,All plots,13/11/1975,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+501,Hoosfield,1976,All plots,17/11/1975,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+502,Hoosfield,1976,All plots,27/02/1976,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+503,Hoosfield,1976,barley,14/10/1975,,heavy springtine cultivated,1,except 'Form of N 1852-1966 N and C' plots and 'extra' plots,,,tillage process,,,,,,,,heavy springtine cultivated (except 'Form of N 1852-1966 N and C' plots and 'extra' plots)
+504,Hoosfield,1976,barley,01/03/1976,,seed sown,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown
+505,Hoosfield,1976,barley,26/03/1976,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+506,Hoosfield,1976,barley,14/05/1976,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,to all remaining plots,5.6,l/ha,chemical pest control process,220,l/ha,,,,,,Banlene Plus applied
+507,Hoosfield,1976,barley,25/05/1976,,"dicamba, mecoprop and MCPA as 'Tetralex Plus'",1,to 'Form of N 1852-1966 N and C' plots,7.0,l/ha,chemical pest control process,220,l/ha,,,,,,Tetralex Plus applied
+508,Hoosfield,1976,barley,22/07/1976,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+509,Hoosfield,1976,beans,04/03/1976,,seed sown,0,,220,kg/ha,seeding process,,,,,Minden,,,seed sown
+510,Hoosfield,1976,beans,27/04/1976,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+511,Hoosfield,1976,beans,24/05/1976,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+512,Hoosfield,1976,beans,21/07/1976,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+513,Hoosfield,1976,potatoes,26/03/1976,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+514,Hoosfield,1976,potatoes,29/03/1976,,Spike rotary cultivated,1,,,,tillage process,,,,,,,,"Spike rotary cultivated, seed machine planted"
+514,Hoosfield,1976,potatoes,29/03/1976,,seed machine planted,0,,,,seeding process,,,,,Pentland Crown.,,,
+515,Hoosfield,1976,potatoes,30/03/1976,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+516,Hoosfield,1976,potatoes,05/05/1976,,linuron,1,,1.2,kg/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+517,Hoosfield,1976,potatoes,17/06/1976,,primicarb,1,,0.14,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+518,Hoosfield,1976,potatoes,21/06/1976,,"Grubbed, rotary ridged",1,,,,tillage process,,,,,,,,"Grubbed, rotary ridged"
+519,Hoosfield,1976,potatoes,28/07/1976,,mancozeb,1,,1.5,kg/ha,chemical pest control process,450,l/ha,,,,,,fungicide
+520,Hoosfield,1976,potatoes,23/09/1976,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+521,Hoosfield,1976,potatoes,28/09/1976,,diquat,1,,0.6,kg/ha,chemical pest control process,220,l/ha,,,,,,Haulm desiccant applied
+522,Hoosfield,1976,potatoes,21/10/1976,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+523,Hoosfield,1977,All plots,25/10/1976,,applied P,1,,,,agronomic fertilization process,,,,,,,,"all plots P, K, Mg, silicate of soda applied"
+523,Hoosfield,1977,All plots,25/10/1976,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+523,Hoosfield,1977,All plots,25/10/1976,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+523,Hoosfield,1977,All plots,25/10/1976,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+524,Hoosfield,1977,All plots,26/10/1976,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+525,Hoosfield,1977,All plots,28/10/1976,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+526,Hoosfield,1977,All plots,07/03/1977,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+527,Hoosfield,1977,barley,08/03/1977,,seed sown,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown
+528,Hoosfield,1977,barley,14/04/1977,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+529,Hoosfield,1977,barley,24/05/1977,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",1,,4.9,l/ha,chemical pest control process,220,l/ha,,,,,,spring weedkillers applied
+530,Hoosfield,1977,barley,06/08/1977,,diquat,1,"in Autumn to manures C--RTN, CP-RTN, C-KRTN and CPKRIN plots only",0.59,kg/ha,chemical pest control process,450,l/ha,,,,,,weedkiller
+531,Hoosfield,1977,barley,23/08/1977,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+532,Hoosfield,1977,beans,09/03/1977,,seed sown,0,,220,kg/ha,seeding process,,,,,Minden,,,seed sown
+533,Hoosfield,1977,beans,18/05/1977,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+534,Hoosfield,1977,beans,19/07/1977,,primicarb,1,,0.14,kg/ha,chemical pest control process,280,l/ha,,,,,,insecticide
+535,Hoosfield,1977,beans,21/09/1977,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+536,Hoosfield,1977,potatoes,06/09/1976,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+537,Hoosfield,1977,potatoes,14/04/1977,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+538,Hoosfield,1977,potatoes,19/04/1977,,Spike rotary cultivated,1,,,,tillage process,,,,,,,,"Spike rotary cultivated, potatoes planted"
+538,Hoosfield,1977,potatoes,19/04/1977,,potatoes planted,0,,,,seeding process,,,,,Pentland Crown.,,,
+539,Hoosfield,1977,potatoes,21/04/1977,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+540,Hoosfield,1977,potatoes,26/05/1977,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+541,Hoosfield,1977,potatoes,28/05/1977,,linuron,1,,1.2,kg/ha,chemical pest control process,340,l/ha,,,,,,weedkiller
+542,Hoosfield,1977,potatoes,21/06/1977,,grubbed,1,,,,harvesting process,,,,,,,,grubbed
+543,Hoosfield,1977,potatoes,22/06/1977,,rotary ridged,1,,,,tillage process,,,,,,,,rotary ridged
+544,Hoosfield,1977,potatoes,23/06/1977,,mancozeb,1,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+545,Hoosfield,1977,potatoes,05/07/1977,,mancozeb,1,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+546,Hoosfield,1977,potatoes,26/07/1977,,mancozeb,1,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+547,Hoosfield,1977,potatoes,26/07/1977,,primicarb,1,,0.14,kg/ha,chemical pest control process,330,l/ha,,,,,,insecticide
+548,Hoosfield,1977,potatoes,10/08/1977,,mancozeb,1,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+549,Hoosfield,1977,potatoes,10/08/1977,,primicarb,1,,0.14,kg/ha,chemical pest control process,330,l/ha,,,,,,insecticide
+550,Hoosfield,1977,potatoes,03/10/1977,,Haulm mechanically destroyed,1,,,,residue management process,,,,,,,,Haulm mechanically destroyed
+551,Hoosfield,1977,potatoes,03/11/1977,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+552,Hoosfield,1978,All plots,13/12/1977,,autumn manures applied,1,,,,agronomic fertilization process,,,,,,,,autumn manures applied
+553,Hoosfield,1978,All plots,14/12/1977,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+554,Hoosfield,1978,All plots,10/03/1978,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+555,Hoosfield,1978,barley,09/09/1977,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+556,Hoosfield,1978,barley,10/10/1977,,glyphosate,1,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,glyphosate applied
+557,Hoosfield,1978,barley,22/03/1978,,seed sown,0,"except 'Form of N 1852-1966, N, C' plots and 'extra' plots",160,kg/ha,seeding process,,,,,Julia,ethirimol,,"seed sown (except 'Form of N 1852-1966, N, C' plots and 'extra' plots)"
+558,Hoosfield,1978,barley,30/03/1978,,seed sown on remaining plots,0,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown on remaining plots
+559,Hoosfield,1978,barley,17/05/1978,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+560,Hoosfield,1978,barley,23/05/1978,,ioxynil,1,"except 'Form of N 1852-1966, N, C' plots and 'extra' plots",0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,"ioxynil, mecoprop, tridemorph applied to all plots except 'Form of N 1852-1966, N, C' plots and 'extra' plots"
+560,Hoosfield,1978,barley,23/05/1978,,mecoprop,1,,1.6,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+560,Hoosfield,1978,barley,23/05/1978,,tridemorph,1,,0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+561,Hoosfield,1978,barley,26/05/1978,,ioxynil,1,remaining plots sprayed,0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,Remaining plots sprayed
+561,Hoosfield,1978,barley,26/05/1978,,mecoprop,1,remaining plots sprayed,1.6,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+561,Hoosfield,1978,barley,26/05/1978,,tridemorph,1,remaining plots sprayed,0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+562,Hoosfield,1978,beans,30/03/1978,,seed sown,0,,,,seeding process,,,,,Pentland Crown.,,,seed sown
+563,Hoosfield,1978,beans,19/05/1978,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+564,Hoosfield,1978,beans,08/06/1978,,Tractor hoed,1,,,,mechanical pest destruction process,,,,,,,,Tractor hoed
+565,Hoosfield,1978,beans,07/07/1978,,primicarb,1,,0.14,kg/ha,chemical pest control process,220,l/ha,,,,,,insecticide
+566,Hoosfield,1978,beans,25/09/1978,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+567,Hoosfield,1978,potatoes,10/10/1977,,glyphosate,1,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,glyphosate applied
+568,Hoosfield,1978,potatoes,11/10/1977,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+569,Hoosfield,1978,potatoes,11/05/1978,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+570,Hoosfield,1978,potatoes,12/05/1978,,Spike rotary cultivated,1,,,,tillage process,,,,,,,,"Spike rotary cultivated, potatoes planted"
+570,Hoosfield,1978,potatoes,12/05/1978,,potatoes planted,0,,220,kg/ha,seeding process,,,,,Minden,,,
+571,Hoosfield,1978,potatoes,15/05/1978,,linuron,1,,1.1,kg/ha,chemical pest control process,220,l/ha,,,,,,linuron applied
+572,Hoosfield,1978,potatoes,19/06/1978,,"Grubbed, rotary ridged",1,,,,tillage process,,,,,,,,"Grubbed, rotary ridged"
+573,Hoosfield,1978,potatoes,05/07/1978,,mancozeb,1,,1.3,kg/ha,chemical pest control process,220,l/ha,,,,,,Mancozeb applied
+574,Hoosfield,1978,potatoes,17/07/1978,,mancozeb,1,,1.3,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,"Mancozeb, pirimicarb applied"
+574,Hoosfield,1978,potatoes,17/07/1978,,primicarb,1,,0.14,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+575,Hoosfield,1978,potatoes,04/08/1978,,mancozeb,1,,1.3,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,"Mancozeb, pirimicarb applied"
+575,Hoosfield,1978,potatoes,04/08/1978,,primicarb,1,,0.14,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+576,Hoosfield,1978,potatoes,17/08/1978,,Fentin acetate and mancozeb as 'Fennite A',1,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,Fennite A applied
+577,Hoosfield,1978,potatoes,08/09/1978,,Fentin acetate and mancozeb as 'Fennite A',1,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,Fennite A applied
+578,Hoosfield,1978,potatoes,26/10/1978,,Lifted,1,,,,harvesting process,,,,,,,,Lifted
+579,Hoosfield,1979,All plots,13/11/1978,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, Na applied"
+579,Hoosfield,1979,All plots,13/11/1978,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+579,Hoosfield,1979,All plots,13/11/1978,,applied Na,1,,,,agronomic fertilization process,,,,,,,,
+580,Hoosfield,1979,All plots,20/11/1978,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+581,Hoosfield,1979,All plots,23/11/1978,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+582,Hoosfield,1979,All plots,24/11/1978,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+583,Hoosfield,1979,All plots,06/04/1979,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+583,Hoosfield,1979,All plots,06/04/1979,,seed sown,0,,160,kg/ha,seeding process,,,,,Julia,,,
+584,Hoosfield,1979,All plots,18/05/1979,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+585,Hoosfield,1979,All plots,19/05/1979,,"mecoprop, bromoxynil and ioxynil as 'Brittox'",1,,3.5,kg/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+586,Hoosfield,1979,All plots,18/06/1979,,tridemorph,1,,0.53,kg/ha,chemical pest control process,220,l/ha,,,,,,fungicide
+587,Hoosfield,1979,All plots,27/08/1979,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+588,Hoosfield,1980,All plots,01/09/1979,,paraquat,1,,0.84,kg/ha,chemical pest control process,250,l/ha,,,,,,paraquat applied
+589,Hoosfield,1980,All plots,07/10/1979,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+590,Hoosfield,1980,All plots,01/12/1979,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+590,Hoosfield,1980,All plots,01/12/1979,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+590,Hoosfield,1980,All plots,01/12/1979,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+591,Hoosfield,1980,All plots,03/12/1979,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+591,Hoosfield,1980,All plots,03/12/1979,,ploughed,1,,,,tillage process,,,,,,,,
+592,Hoosfield,1980,All plots,17/02/1980,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+592,Hoosfield,1980,All plots,17/02/1980,,seed sown,0,,160,kg/ha,seeding process,,,,,Georgie,,,
+593,Hoosfield,1980,All plots,16/04/1980,,applied N,1,,,,agronomic fertilization process,,,,,,,,MW applied
+594,Hoosfield,1980,All plots,12/05/1980,,"mecoprop, bromoxynil and ioxynil as 'Brittox'",1,,2.5,l/ha,chemical pest control process,250,l/ha,1,sprayed,,,,Brittox applied
+594,Hoosfield,1980,All plots,12/05/1980,,tridemorph,1,,0.53,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+595,Hoosfield,1980,All plots,18/08/1980,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+596,Hoosfield,1981,all plots,01/09/1980,,paraquat,1,,0.84,kg/ha,chemical pest control process,250,l/ha,,,,,,paraquat applied
+597,Hoosfield,1981,all plots,07/10/1980,,applied chalk,1,,,,liming process,,,,,,,,chalk
+598,Hoosfield,1981,all plots,01/12/1980,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K and silicate of soda applied"
+598,Hoosfield,1981,all plots,01/12/1980,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+598,Hoosfield,1981,all plots,01/12/1980,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+599,Hoosfield,1981,all plots,03/12/1980,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+600,Hoosfield,1981,all plots,03/12/1980,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+601,Hoosfield,1981,all plots,17/02/1981,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+602,Hoosfield,1981,all plots,17/02/1981,,seed sown,0,,160,kg/ha,seeding process,,,,,Georgie,,,seed sown
+603,Hoosfield,1981,all plots,21/04/1981,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+604,Hoosfield,1981,all plots,12/05/1981,,"mecoprop, bromoxynil and ioxynil as 'Brittox'",1,,2.5,l/ha,chemical pest control process,250,l/ha,1,sprayed,,,,Brittox applied
+604,Hoosfield,1981,all plots,12/05/1981,,tridemorph,1,,0.53,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+605,Hoosfield,1981,all plots,17/08/1981,18/08/1981,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+606,Hoosfield,1982,All plots,04/11/1981,,glyphosate applied,1,"to 'Form of N 1852-1966, N, C' plots",,,chemical pest control process,,,,,,,,"glyphosate applied to 'Form of N 1852-1966, N, C' plots"
+607,Hoosfield,1982,All plots,12/11/1981,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K applied"
+607,Hoosfield,1982,All plots,12/11/1981,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+608,Hoosfield,1982,All plots,13/11/1981,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+609,Hoosfield,1982,All plots,17/11/1981,,applied chalk,1,,,,liming process,,,,,,,,chalk
+610,Hoosfield,1982,All plots,18/11/1981,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+611,Hoosfield,1982,All plots,19/11/1981,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+612,Hoosfield,1982,All plots,28/03/1982,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+613,Hoosfield,1982,All plots,29/03/1982,,seed sown,0,,160,kg/ha,seeding process,,,,,Georgie,ethirimol,,seed sown
+614,Hoosfield,1982,All plots,05/05/1982,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+615,Hoosfield,1982,All plots,17/05/1982,,"dicamba, mecoprop and MCPA as 'Poly-Farmon'",1,,5.0,l/ha,chemical pest control process,250,l/ha,,,,,,weedkiller
+616,Hoosfield,1982,All plots,17/05/1982,,tridemorph,1,,0.53,kg/ha,chemical pest control process,,,,,,,,fungicide
+617,Hoosfield,1982,All plots,16/08/1982,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+618,Hoosfield,1983,All plots,27/10/1982,,glyphosate,1,,1.4,kg/ha,chemical pest control process,120,l/ha,,,,,,glyphosate applied
+619,Hoosfield,1983,All plots,08/11/1982,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, Mg and silicate of soda applied"
+619,Hoosfield,1983,All plots,08/11/1982,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+619,Hoosfield,1983,All plots,08/11/1982,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+619,Hoosfield,1983,All plots,08/11/1982,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+620,Hoosfield,1983,All plots,24/11/1982,,applied chalk,1,,,,liming process,,,,,,,,"Chalk, FYM applied"
+620,Hoosfield,1983,All plots,24/11/1982,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,
+621,Hoosfield,1983,All plots,25/11/1982,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+622,Hoosfield,1983,All plots,08/03/1983,,springtine cultivated twice,1,,,,tillage process,,,,,,,,springtine cultivated twice
+623,Hoosfield,1983,All plots,09/03/1983,,seed sown,0,,160,kg/ha,seeding process,,,,,Georgie,ethirimol,,seed sown
+624,Hoosfield,1983,All plots,23/05/1983,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+625,Hoosfield,1983,All plots,24/05/1983,,"dicamba, mecoprop and MCPA as 'Herrisol'",1,,5.0,l/ha,chemical pest control process,250,l/ha,,,,,,weedkiller
+626,Hoosfield,1983,All plots,21/06/1983,,tridemorph,1,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+627,Hoosfield,1983,All plots,09/08/1983,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+628,Hoosfield,1984,All plots,14/09/1983,,applied chalk,1,,,,liming process,,,,,,,,chalk
+629,Hoosfield,1984,All plots,15/11/1983,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+629,Hoosfield,1984,All plots,15/11/1983,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+629,Hoosfield,1984,All plots,15/11/1983,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+630,Hoosfield,1984,All plots,16/11/1983,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+630,Hoosfield,1984,All plots,16/11/1983,,ploughed,1,,,,tillage process,,,,,,,,
+631,Hoosfield,1984,All plots,07/03/1984,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+632,Hoosfield,1984,All plots,08/03/1984,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,seed sown
+633,Hoosfield,1984,All plots,16/04/1984,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+634,Hoosfield,1984,All plots,16/05/1984,,"3,6-dichloropicolinic acid",1,,0.05,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,weedkiller
+634,Hoosfield,1984,All plots,16/05/1984,,bromoxynil,1,,0.24,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+634,Hoosfield,1984,All plots,16/05/1984,,mecoprop (as 'CMPP',1,,3,l/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+635,Hoosfield,1984,All plots,16/05/1984,,tridemorph,1,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+636,Hoosfield,1984,All plots,18/08/1984,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+637,Hoosfield,1985,All plots,01/10/1984,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+638,Hoosfield,1985,All plots,30/10/1984,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+639,Hoosfield,1985,All plots,02/11/1984,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+640,Hoosfield,1985,All plots,26/11/1984,,applied K,1,,,,agronomic fertilization process,,,,,,,,K applied
+641,Hoosfield,1985,All plots,27/11/1984,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+641,Hoosfield,1985,All plots,27/11/1984,,ploughed,1,,,,tillage process,,,,,,,,
+642,Hoosfield,1985,All plots,12/03/1985,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+643,Hoosfield,1985,All plots,13/03/1985,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+643,Hoosfield,1985,All plots,13/03/1985,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
+644,Hoosfield,1985,All plots,22/04/1985,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+645,Hoosfield,1985,All plots,09/05/1985,,clopyralid,1,,0.05,kg/ha,chemical pest control process,500,l/ha,1,sprayed,,,,weedkiller
+645,Hoosfield,1985,All plots,09/05/1985,,bromoxynil octanoate,1,,0.24,kg/ha,chemical pest control process,500,l/ha,1,sprayed,,,,
+645,Hoosfield,1985,All plots,09/05/1985,,mecoprop,1,,1.7,kg/ha,chemical pest control process,500,l/ha,1,sprayed,,,,
+646,Hoosfield,1985,All plots,09/05/1985,,tridemorph,1,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+647,Hoosfield,1985,All plots,23/08/1985,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+648,Hoosfield,1986,All plots,18/11/1985,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,"Silicate of soda, P, Mg applied"
+648,Hoosfield,1986,All plots,18/11/1985,,applied P,1,,,,agronomic fertilization process,,,,,,,,
+648,Hoosfield,1986,All plots,18/11/1985,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+649,Hoosfield,1986,All plots,20/11/1985,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, FYM applied"
+649,Hoosfield,1986,All plots,20/11/1985,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,
+650,Hoosfield,1986,All plots,21/11/1985,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+651,Hoosfield,1986,All plots,17/03/1986,,springtine cultivated twice,1,,,,tillage process,,,,,,,,"springtine cultivated twice, seed sown"
+651,Hoosfield,1986,All plots,17/03/1986,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
+652,Hoosfield,1986,All plots,12/05/1986,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+653,Hoosfield,1986,All plots,16/05/1986,,clopyralid,1,,0.07,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,weedkiller
+653,Hoosfield,1986,All plots,16/05/1986,,bromoxynil octanoate,1,,0.34,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+653,Hoosfield,1986,All plots,16/05/1986,,mecoprop,1,,2.5,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+654,Hoosfield,1986,All plots,16/05/1986,,tridemorph,1,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+655,Hoosfield,1986,All plots,29/08/1986,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+656,Hoosfield,1987,All plots,06/11/1986,,glyphosate,1,,1.4,kg/ha,chemical pest control process,200,l/ha,,,,,,glyphosate applied
+657,Hoosfield,1987,All plots,28/11/1986,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+657,Hoosfield,1987,All plots,28/11/1986,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+657,Hoosfield,1987,All plots,28/11/1986,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+658,Hoosfield,1987,All plots,02/12/1986,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+658,Hoosfield,1987,All plots,02/12/1986,,ploughed,1,,,,tillage process,,,,,,,,
+659,Hoosfield,1987,All plots,16/03/1987,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, seed sown"
+659,Hoosfield,1987,All plots,16/03/1987,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
+660,Hoosfield,1987,All plots,24/04/1987,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+661,Hoosfield,1987,All plots,05/05/1987,,clopyralid,1,,0.07,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Remaining weedkillers applied
+661,Hoosfield,1987,All plots,05/05/1987,,bromoxynil,1,,0.34,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+661,Hoosfield,1987,All plots,05/05/1987,,mecoprop,1,,2.5,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+662,Hoosfield,1987,All plots,29/05/1987,,tridemorph,1,,0.52,kg/ha,chemical pest control process,200,l/ha,,,,,,fungicide
+663,Hoosfield,1987,All plots,21/08/1987,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+664,Hoosfield,1988,All plots,11/01/1988,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+664,Hoosfield,1988,All plots,11/01/1988,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+664,Hoosfield,1988,All plots,11/01/1988,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+665,Hoosfield,1988,All plots,15/01/1988,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+665,Hoosfield,1988,All plots,15/01/1988,,ploughed,1,,,,tillage process,,,,,,,,
+666,Hoosfield,1988,All plots,22/02/1988,,springtine cultivated,1,,,,tillage process,,,,,,,,"springtine cultivated, rotary harrowed, seed sown"
+666,Hoosfield,1988,All plots,22/02/1988,,rotary harrowed,1,,,,tillage process,,,,,,,,
+666,Hoosfield,1988,All plots,22/02/1988,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
+667,Hoosfield,1988,All plots,12/04/1988,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+668,Hoosfield,1988,All plots,10/05/1988,,mecoprop,1,,2.4,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,weedkiller
+668,Hoosfield,1988,All plots,10/05/1988,,clopyralid,1,,0.05,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+668,Hoosfield,1988,All plots,10/05/1988,,bromoxynil,1,,0.24,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+669,Hoosfield,1988,All plots,20/05/1988,,propiconazole,1,,0.12,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,fungicide
+669,Hoosfield,1988,All plots,20/05/1988,,tridemorph,1,,0.25,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+670,Hoosfield,1988,All plots,17/06/1988,,propiconazole,1,,0.12,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,fungicide
+670,Hoosfield,1988,All plots,17/06/1988,,tridemorph,1,,0.25,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+671,Hoosfield,1988,All plots,15/08/1988,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+672,Hoosfield,1989,All plots,02/10/1988,,glyphosate,1,,1.4,kg/ha,chemical pest control process,200,l/ha,,,,,,glyphosate applied
+673,Hoosfield,1989,All plots,28/11/1988,,applied chalk,1,,2.5,t/ha,liming process,,,,,,,,chalk
+674,Hoosfield,1989,All plots,07/12/1988,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda applied
+675,Hoosfield,1989,All plots,08/12/1988,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, Mg applied"
+675,Hoosfield,1989,All plots,08/12/1988,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+676,Hoosfield,1989,All plots,09/12/1988,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+677,Hoosfield,1989,All plots,13/12/1988,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+677,Hoosfield,1989,All plots,13/12/1988,,ploughed,1,,,,tillage process,,,,,,,,
+678,Hoosfield,1989,All plots,07/02/1989,,springtine cultivated twice,1,,,,tillage process,,,,,,,,"springtine cultivated twice, seed sown"
+678,Hoosfield,1989,All plots,07/02/1989,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,flutriafol ethirimol and thiabendazole,,
+679,Hoosfield,1989,All plots,31/03/1989,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+680,Hoosfield,1989,All plots,09/05/1989,,mecoprop,1,,1.6,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Remaining weedkillers applied
+680,Hoosfield,1989,All plots,09/05/1989,,ioxynil,1,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+680,Hoosfield,1989,All plots,09/05/1989,,bromoxynil,1,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+681,Hoosfield,1989,All plots,09/06/1989,,propiconazole,1,,0.12,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,fungicide
+681,Hoosfield,1989,All plots,09/06/1989,,fenpropimorph,1,,0.75,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+682,Hoosfield,1989,All plots,01/08/1989,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+683,Hoosfield,1990,All plots,02/10/1989,,glyphosate,1,,1.4,kg/ha,chemical pest control process,200,l/ha,,,,,,glyphosate applied
+684,Hoosfield,1990,All plots,29/11/1989,,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, silicate of soda applied"
+684,Hoosfield,1990,All plots,29/11/1989,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,
+685,Hoosfield,1990,All plots,30/11/1989,,applied K,1,,,,agronomic fertilization process,,,,,,,,K applied
+686,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,1,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+687,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,1,"to plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+688,Hoosfield,2016,All plots,23/05/2016,,Refine Max,1,,75,g/ha,chemical pest control process,,,,sprayed,,,,sprayed Refine Max
+689,Hoosfield,2016,All plots,23/05/2016,,Hatchet Xtra,1,,750,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hatchet Xtra
+690,Hoosfield,2016,All plots,23/05/2016,,Kingdom,1,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom
+691,Hoosfield,2016,All plots,24/05/2016,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+692,Hoosfield,2016,All plots,26/07/2016,,pulled wild oats from plots (36) and surrounds,1,,,,hand picking process,,,,,,,,pulled wild oats from plots (36) and surrounds
+693,Hoosfield,2016,All plots,23/08/2016,,Mopped Up remaining crop,1,,,,harvesting process,,,,,,,,Mopped Up remaining crop
+694,Hoosfield,2016,All plots,24/08/2016,,harvested,1,,,,harvesting process,,,,,,,Sampo,Sampo harvested All Plots
+695,Hoosfield,2016,all plots,25/08/2016,,Combined with Tucano Harvester all leftover crop,1,,,,harvesting process,,,,,,,,Combined with Tucano Harvester all leftover crop
+696,Hoosfield,2017,All plots,11/10/2016,,ploughed - thrown south,1,,,,tillage process,,,,,,,,"ploughed, thrown south"
+697,Hoosfield,2017,All plots,15/10/2016,,Buffalo Elite,1,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Buffalo Elite
+698,Hoosfield,2017,All plots,15/10/2016,,Samurai,1,,3,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+699,Hoosfield,2017,All plots,31/10/2016,,applied Sulphate of potash,1,"Plots 634 - 631, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141",217,kg/ha,agronomic fertilization process,,,,,,,,"applied Sulphate of potash to Plots 141 - 144, 241 - 244, 311 - 344, 411 - 444, 551 - 582, 631 - 634"
+700,Hoosfield,2017,All plots,31/10/2016,,applied Kieserite,1,"plots 634, 533, 632, 631",233,kg/ha,agronomic fertilization process,,,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+701,Hoosfield,2017,All plots,31/10/2016,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+702,Hoosfield,2017,All plots,08/11/2016,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+703,Hoosfield,2017,All plots,10/11/2016,,applied FYM,1,"plots 734, 733, 732, 731, 724, 723, 722, 721",35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+704,Hoosfield,2017,All plots,07/03/2017,,Buffalo Elite,1,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Buffalo Elite
+705,Hoosfield,2017,All plots,07/03/2017,,Samurai,1,,3,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+706,Hoosfield,2017,All plots,12/03/2017,,Cousin combi Harrowed,1,,,,tillage process,,,,,,,,Cousin combi Harrowed
+707,Hoosfield,2017,All plots,15/03/2017,,drilled,0,,350,seeds/m2,seeding process,,,,,"KWS Irina,",Raxil Star,,"drilled KWS Irina, dressed With Raxil Star"
+708,Hoosfield,2017,All plots,17/03/2017,,Ring rolled,1,,,,tillage process,,,,,,,,Ring rolled
+709,Hoosfield,2017,All plots,12/05/2017,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+710,Hoosfield,2017,All plots,22/05/2017,,Hallmark,1,,50,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hallmark
+711,Hoosfield,2017,All plots,23/05/2017,,applied Nitrochalk (27% N),1,"to Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",48,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) to Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+712,Hoosfield,2017,All plots,23/05/2017,,applied Nitrochalk (27% N),1,"to Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) to Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+713,Hoosfield,2017,All plots,23/05/2017,,applied Nitrochalk (27% N),1,"to Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) to Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+714,Hoosfield,2017,All plots,24/05/2017,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+715,Hoosfield,2017,All plots,24/05/2017,,applied Nitram,1,"Series AA (except 621 - 624, 721 - 724), C and Strip 5",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram to Series AA (except 621 to 624, 721 to 724), C and Strip 5"
+716,Hoosfield,2017,All plots,30/05/2017,,Refine Max,1,,75,g/ha,chemical pest control process,,,,sprayed,,,,sprayed Refine Max
+717,Hoosfield,2017,All plots,30/05/2017,,Kingdom,1,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom
+718,Hoosfield,2017,All plots,30/05/2017,,Hurler,1,,700,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hurler
+719,Hoosfield,2017,All plots,14/07/2017,,Cut paths,1,,,,mowing process,,,,,,,,Cut paths
+720,Hoosfield,2017,All plots,28/07/2017,,Pulled 7 Wild Oats from within plots,1,,,,hand picking process,,,,,,,,Pulled 7 Wild Oats from within plots
+721,Hoosfield,2017,All plots,29/08/2017,,harvested plots for yield,1,,,,harvesting process,,,,,,,,harvested plots for yield & baled all discard and remaining swaths
+721,Hoosfield,2017,All plots,29/08/2017,,baled all discard and remaining swaths,1,,,,baling process,,,,,,,,
+722,Hoosfield,1990,All plots,04/12/1989,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+723,Hoosfield,1990,All plots,06/12/1989,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+724,Hoosfield,1990,All plots,05/03/1990,,springtine cultivated three times,1,,,,tillage process,,,,,,,,"springtine cultivated three times, seed sown"
+724,Hoosfield,1990,All plots,05/03/1990,,seed sown,0,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
+725,Hoosfield,1990,All plots,10/04/1990,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+726,Hoosfield,1990,All plots,10/05/1990,,demeton-s-methyl,1,,0.24,kg/ha,chemical pest control process,200,l/ha,,,,,,insecticide
+727,Hoosfield,1990,All plots,14/05/1990,,mecoprop,1,,1.6,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Remaining weedkillers applied with the Fungicide
+727,Hoosfield,1990,All plots,14/05/1990,,bromoxynil,1,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+727,Hoosfield,1990,All plots,14/05/1990,,ioxynil,1,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+727,Hoosfield,1990,All plots,14/05/1990,,fenpropimorph,1,,0.75,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+728,Hoosfield,1990,All plots,06/08/1990,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+729,Hoosfield,1992,All plots,15/10/1991,,applied chalk,1,,2.9,t/ha,liming process,,,,,,,,Chalk applied at 2.9 t.
+730,Hoosfield,1992,All plots,07/12/1991,,String CT,1,,2.0,l/ha,chemical pest control process,200,l/ha,,,,,,String CT at 2.0 l in 200 l
+731,Hoosfield,1992,All plots,11/12/1991,,applied silicate of soda,1,,,,agronomic fertilization process,,,,,,,,Silicate of soda and kieserite applied.
+731,Hoosfield,1992,All plots,11/12/1991,,applied Kieserite,1,,,,agronomic fertilization process,,,,,,,,
+732,Hoosfield,1992,All plots,12/12/1991,,applied P,1,,,,agronomic fertilization process,,,,,,,,P and K applied
+732,Hoosfield,1992,All plots,12/12/1991,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+733,Hoosfield,1992,All plots,06/01/1992,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+734,Hoosfield,1992,All plots,13/01/1992,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+735,Hoosfield,1992,All plots,25/02/1992,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+736,Hoosfield,1992,All plots,26/02/1992,,drilled,0,,150,kg/ha,seeding process,,,,,"Alexis,",Baytan,,"drilled Alexis, dressed Baytan"
+737,Hoosfield,1992,all plots,26/02/1992,,rolled,1,,,,tillage process,,,,,,,,rolled
+738,Hoosfield,1992,all plots,26/02/1992,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+739,Hoosfield,1992,All plots,06/05/1992,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+740,Hoosfield,1992,All plots,15/05/1992,,Deloxil,1,,1.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,"Deloxil at 1.0 l, Duplosan New System CMPP at 2.0 l and Calixin at 0.70 l in 200 l"
+740,Hoosfield,1992,All plots,15/05/1992,,Duplosan New System CMPP,1,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+740,Hoosfield,1992,All plots,15/05/1992,,Calixin,1,,0.70,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+741,Hoosfield,1992,All plots,09/06/1992,,Calixin,1,,0.50,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Calixin at 0.50 l and Radar at 0.50 l in 200 l
+741,Hoosfield,1992,All plots,09/06/1992,,Radar,1,,0.50,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+742,Hoosfield,1992,All plots,05/08/1992,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+743,Hoosfield,1993,All plots,06/07/1992,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+744,Hoosfield,1993,All plots,21/12/1992,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si and K applied.
+744,Hoosfield,1993,All plots,21/12/1992,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+745,Hoosfield,1993,All plots,22/12/1992,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+746,Hoosfield,1993,All plots,19/01/1993,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+747,Hoosfield,1993,All plots,20/01/1993,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+748,Hoosfield,1993,All plots,03/03/1993,,"heavy springtine cultivated, twice.",1,,,,tillage process,,,,,,,,"heavy springtine cultivated, twice."
+749,Hoosfield,1993,All plots,04/03/1993,,drilled,0,,350,seeds/m2,seeding process,,,,,"Alexis,",Baytan,,"drilled Alexis, dressed Baytan"
+750,Hoosfield,1993,all plots,04/03/1993,,rolled,1,,,,tillage process,,,,,,,,rolled
+751,Hoosfield,1993,all plots,04/03/1993,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+752,Hoosfield,1993,All plots,30/04/1993,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+753,Hoosfield,1993,All plots,13/05/1993,,Ally,1,,30,g/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Ally at 30 g and Starane 2 at 1.0 l in 200 l
+753,Hoosfield,1993,All plots,13/05/1993,,Starane 2,1,,1.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+754,Hoosfield,1993,All plots,08/06/1993,,Alto 100 SL,1,,0.80,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Alto 100 SL at 0.80 l and Derosal WDG at 0.31 kg in 200 l
+754,Hoosfield,1993,All plots,08/06/1993,,Derosal WDG,1,,0.31,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+755,Hoosfield,1993,All plots,14/08/1993,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+756,Hoosfield,1994,All plots,19/11/1993,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+757,Hoosfield,1994,All plots,22/11/1993,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si and K applied.
+757,Hoosfield,1994,All plots,22/11/1993,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+758,Hoosfield,1994,All plots,15/12/1993,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+759,Hoosfield,1994,All plots,16/12/1993,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+760,Hoosfield,1994,All plots,14/03/1994,,drilled,0,,350,seeds/m2,seeding process,,,,,"Alexis,",Baytan,,"drilled Alexis, dressed Baytan"
+761,Hoosfield,1994,all plots,14/03/1994,,rolled,1,,,,tillage process,,,,,,,,rolled
+762,Hoosfield,1994,all plots,14/03/1994,,springtine cultivated twice,1,,,,tillage process,,,,,,,,springtine cultivated twice
+763,Hoosfield,1994,all plots,14/03/1994,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+764,Hoosfield,1994,All plots,27/04/1994,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+765,Hoosfield,1994,All plots,27/05/1994,,Duplosan New System CMPP,1,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Duplosan New System CMPP at 2.0 l with Vindex at 1.4 l in 200 l
+765,Hoosfield,1994,All plots,27/05/1994,,Vindex,1,,1.4,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+766,Hoosfield,1994,All plots,23/06/1994,,Derosal WDG,1,,312,g/ha,chemical pest control process,260,l/ha,,,,,,Derosal WDG at 312 g with Dorin at 1.0 l in 260 l
+767,Hoosfield,1994,All plots,09/08/1994,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+768,Hoosfield,1995,All plots,08/08/1994,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+769,Hoosfield,1995,All plots,03/11/1994,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+770,Hoosfield,1995,All plots,07/11/1994,,applied K,1,,,,agronomic fertilization process,,,,,,,,K applied
+771,Hoosfield,1995,All plots,08/11/1994,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,Mg applied.
+772,Hoosfield,1995,All plots,10/11/1994,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si applied.
+773,Hoosfield,1995,All plots,15/11/1994,,Stubble topped.,1,,,,mowing process,,,,,,,,Stubble topped.
+774,Hoosfield,1995,All plots,15/12/1994,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,Farmyard manure applied
+775,Hoosfield,1995,All plots,22/12/1994,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+776,Hoosfield,1995,All plots,16/03/1995,,drilled,0,,350,seeds/m2,seeding process,,,,,"Alexis,",Baytan,,"drilled Alexis, dressed Baytan"
+777,Hoosfield,1995,all plots,16/03/1995,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+778,Hoosfield,1995,all plots,16/03/1995,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+779,Hoosfield,1995,All plots,04/05/1995,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+780,Hoosfield,1995,All plots,23/05/1995,,Duplosan New System CMPP,1,,1.5,l/ha,chemical pest control process,260,l/ha,,,,,,Duplosan New System CMPP at 1.5 l with Vindex at 1.4 l in 260 l
+781,Hoosfield,1995,All plots,08/08/1995,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+782,Hoosfield,1996,All plots,06/08/1995,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+783,Hoosfield,1996,All plots,02/11/1995,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+784,Hoosfield,1996,All plots,08/11/1995,,applied K,1,,,,agronomic fertilization process,,,,,,,,K applied
+785,Hoosfield,1996,All plots,11/12/1995,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si applied.
+786,Hoosfield,1996,All plots,14/12/1995,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,Farmyard manure applied
+787,Hoosfield,1996,All plots,19/12/1995,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+788,Hoosfield,1996,All plots,15/03/1996,,drilled,0,,350,seeds/m2,seeding process,,,,,"Cooper,",Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
+789,Hoosfield,1996,All plots,15/03/1996,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+790,Hoosfield,1996,All plots,15/03/1996,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+791,Hoosfield,1996,All plots,18/03/1996,,rolled,1,,,,tillage process,,,,,,,,rolled
+792,Hoosfield,1996,All plots,30/04/1996,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+793,Hoosfield,1996,All plots,02/06/1996,,Duplosan New System CMPP,1,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Duplosan New System CMPP at 2.0 l with Vindex at 1.4 l in 200 l
+793,Hoosfield,1996,All plots,02/06/1996,,Vindex,1,,1.4,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+794,Hoosfield,1996,All plots,11/07/1996,,Pulled wild oats by hand.,1,,,,hand picking process,,,,,,,,Pulled wild oats by hand.
+795,Hoosfield,1996,All plots,22/08/1996,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+796,Hoosfield,1997,All plots,02/09/1996,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+797,Hoosfield,1997,All plots,26/11/1996,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+798,Hoosfield,1997,All plots,04/12/1996,,applied K,1,,,,agronomic fertilization process,,,,,,,,K applied
+799,Hoosfield,1997,All plots,05/12/1996,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si applied.
+800,Hoosfield,1997,All plots,17/12/1996,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,Farmyard manure applied
+801,Hoosfield,1997,All plots,19/12/1996,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+802,Hoosfield,1997,All plots,10/03/1997,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+803,Hoosfield,1997,All plots,11/03/1997,,drilled,0,,350,seeds/m2,seeding process,,,,,"Cooper,",Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
+804,Hoosfield,1997,all plots,11/03/1997,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+805,Hoosfield,1997,All plots,12/03/1997,,rolled,1,,,,tillage process,,,,,,,,rolled
+806,Hoosfield,1997,All plots,24/04/1997,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+807,Hoosfield,1997,All plots,22/05/1997,,MSS Optica,1,,2.0,l/ha,chemical pest control process,300,l/ha,1,sprayed,,,,MSS Optica at 2.0 l with Vindex at 1.0 l in 300 l
+807,Hoosfield,1997,All plots,22/05/1997,,Vindex,1,,1.0,l/ha,chemical pest control process,300,l/ha,1,sprayed,,,,
+808,Hoosfield,1997,All plots,01/07/1997,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+809,Hoosfield,1997,All plots,22/07/1997,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+810,Hoosfield,1997,All plots,22/08/1997,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+811,Hoosfield,1998,All plots,21/08/1997,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+812,Hoosfield,1998,All plots,13/11/1997,,Alpha Glyphogan,1,,1.5,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Alpha Glyphogan at 1.5 l with Vassgro Non Ionic at 250 ml in 200 l
+812,Hoosfield,1998,All plots,13/11/1997,,Vassgro Non Ionic,1,,250,ml/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+813,Hoosfield,1998,All plots,26/11/1997,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si applied.
+814,Hoosfield,1998,All plots,03/12/1997,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+815,Hoosfield,1998,All plots,06/01/1998,,applied K,1,,,,agronomic fertilization process,,,,,,,,K and Mg applied.
+815,Hoosfield,1998,All plots,06/01/1998,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+816,Hoosfield,1998,All plots,13/01/1998,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,Farmyard manure applied
+817,Hoosfield,1998,All plots,14/01/1998,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+818,Hoosfield,1998,All plots,04/02/1998,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+819,Hoosfield,1998,All plots,05/02/1998,,drilled,0,,350,seeds/m2,seeding process,,,,,"Cooper,",Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
+820,Hoosfield,1998,all plots,05/02/1998,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+821,Hoosfield,1998,All plots,23/03/1998,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+822,Hoosfield,1998,All plots,08/05/1998,,Ally,1,,20,g/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Ally at 20 g with MSS Optica at 2.0 l in 200 l
+822,Hoosfield,1998,All plots,08/05/1998,,MSS Optica,1,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+823,Hoosfield,1998,All plots,07/07/1998,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+824,Hoosfield,1998,All plots,10/08/1998,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+825,Hoosfield,1998,All plots,08/05/1998,,Bavistin DF,1,,0.5,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Bavistin DF at 0.5 kg with Opus at 0.3 l in 200 l
+825,Hoosfield,1998,All plots,08/05/1998,,Opus,1,,0.3,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+826,Hoosfield,1999,All plots,08/02/1939,,springtine cultivated,1,,,,tillage process,,,,,,,,springtine cultivated
+827,Hoosfield,1999,All plots,17/11/1998,,Roundup,1,,2.0,l/ha,chemical pest control process,200,l/ha,,,,,,Roundup at 2.0 l in 200 l
+828,Hoosfield,1999,All plots,06/01/1999,,applied P,1,,,,agronomic fertilization process,,,,,,,,P and K applied
+828,Hoosfield,1999,All plots,06/01/1999,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+829,Hoosfield,1999,All plots,07/01/1999,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,Farmyard manure and Si applied
+829,Hoosfield,1999,All plots,07/01/1999,,applied Si,1,,,,agronomic fertilization process,,,,,,,,
+830,Hoosfield,1999,All plots,11/01/1999,12/01/1999,ploughed,1,,,,tillage process,,,,,,,,ploughed
+831,Hoosfield,1999,All plots,12/02/1999,,rotary harrowed,1,,,,tillage process,,,,,,,,rotary harrowed
+832,Hoosfield,1999,All plots,12/02/1999,,drilled,0,,350,seeds/m2,seeding process,,,,,"Cooper,",Raxil S,,"drilled Cooper, dressed Raxil S"
+833,Hoosfield,1999,All plots,30/04/1999,,applied N,1,,,,agronomic fertilization process,,,,,,,,N applied
+834,Hoosfield,1999,All plots,06/05/1999,,Punch C,1,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Punch C at 0.4 l in 200 l
+835,Hoosfield,1999,All plots,15/05/1999,,Ally,1,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g with Duplosan at 1.0 l in 200 l
+836,Hoosfield,1999,All plots,01/06/1999,,Punch C,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Punch C at 0.5 l in 200 l
+837,Hoosfield,1999,All plots,14/07/1999,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+838,Hoosfield,1999,All plots,29/07/1999,,Roundup Biactive,1,,4.0,l/ha,chemical pest control process,200,l/ha,,,,,,Roundup Biactive at 4.0 l in 200 l
+839,Hoosfield,1999,All plots,24/08/1999,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+840,Hoosfield,2000,All plots,08/12/1999,,applied P,1,,,,agronomic fertilization process,,,,,,,,P and K applied
+840,Hoosfield,2000,All plots,08/12/1999,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+841,Hoosfield,2000,All plots,12/12/1999,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+842,Hoosfield,2000,All plots,14/12/1999,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si applied.
+843,Hoosfield,2000,All plots,15/12/1999,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,Farmyard manure applied
+844,Hoosfield,2000,All plots,06/03/2000,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+845,Hoosfield,2000,All plots,07/03/2000,,rolled,1,,,,tillage process,,,,,,,,rolled
+846,Hoosfield,2000,All plots,10/05/2000,,applied N (27% N),1,,,,agronomic fertilization process,,,,,,,,N treatments applied as 27% N
+847,Hoosfield,2000,All plots,24/05/2000,,Opus,1,,0.3,l/ha,chemical pest control process,100,l/ha,1,sprayed,,,,Opus at 0.3 l with Unix at 0.5 kg in 100 l
+847,Hoosfield,2000,All plots,24/05/2000,,Unix,1,,0.5,kg/ha,chemical pest control process,100,l/ha,1,sprayed,,,,
+848,Hoosfield,2000,All plots,03/06/2000,,Ally,1,,30,g/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Ally at 30 g with Duplosan at 1.0 l in 200 l
+848,Hoosfield,2000,All plots,03/06/2000,,Duplosan,1,,1.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+849,Hoosfield,2000,All plots,20/06/2000,,Opus,1,,0.3,l/ha,chemical pest control process,200,l/ha,,,,,,Opus at 0.3 l in 200 l
+850,Hoosfield,2000,All plots,17/07/2000,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+851,Hoosfield,2000,All plots,24/08/2000,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvested
+852,Hoosfield,2000,Notes,,,Samples of grazing and straw were taken for chemical analysis. Unground grazing and straw samples from selected treatments were archived.,1,,,,comment,,,,,,,,Samples of grazing and straw were taken for chemical analysis. Unground grazing and straw samples from selected treatments were archived.
+853,Hoosfield,2001,All plots,02/01/2001,05/01/2001,applied P,1,,,,agronomic fertilization process,,,,,,,,"P, P2, K and Mg applied. K and Mg completed 05-Jan-01."
+853,Hoosfield,2001,All plots,02/01/2001,,applied P2,1,,,,agronomic fertilization process,,,,,,,,
+853,Hoosfield,2001,All plots,02/01/2001,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+853,Hoosfield,2001,All plots,02/01/2001,05/01/2001,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+853,Hoosfield,2001,All plots,02/01/2001,05/01/2001,applied K,1,,,,agronomic fertilization process,,,,,,,,
+854,Hoosfield,2001,All plots,03/01/2001,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM and Si applied.
+854,Hoosfield,2001,All plots,03/01/2001,,applied Si,1,,,,agronomic fertilization process,,,,,,,,
+855,Hoosfield,2001,All plots,08/01/2001,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+856,Hoosfield,2001,All plots,30/03/2001,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+857,Hoosfield,2001,All plots,19/05/2001,,Ally,1,,20,g/ha,chemical pest control process,100,l/ha,,,,,,Ally at 20 g in 100 l
+858,Hoosfield,2001,All plots,21/05/2001,,applied N (27.5% N),1,by hand,,,agronomic fertilization process,,,,,,,,N (27.5% N) applied by hand
+859,Hoosfield,2001,All plots,11/06/2001,,Opus,1,,0.4,l/ha,chemical pest control process,100,l/ha,,,,,,Opus at 0.4 l in 100 l
+860,Hoosfield,2001,All plots,02/07/2001,,Folicur,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Folicur at 0.5 l in 200 l
+861,Hoosfield,2001,All plots,06/09/2001,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,"combine harvested, plots for yield, sampled and weighed straw, swathed straw"
+861,Hoosfield,2001,All plots,06/09/2001,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,
+861,Hoosfield,2001,All plots,06/09/2001,,swathed straw,1,,,,swathing process,,,,,,,,
+862,Hoosfield,2001,All plots,07/09/2001,,"combine harvested remaining plots for yield, and discards",1,,,,harvesting process,,,,,,,,"combine harvested remaining plots for yield, and discards. sampled and weighed straw. Swathed straw."
+862,Hoosfield,2001,All plots,07/09/2001,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,
+862,Hoosfield,2001,All plots,07/09/2001,,swathed straw,1,,,,swathing process,,,,,,,,
+863,Hoosfield,2001,All plots,11/09/2001,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+864,Hoosfield,2001,All plots,19/05/2001,,Starane 2,1,,0.5,l/ha,chemical pest control process,100,l/ha,,,,,,Starane 2 at 0.5 l in 100 l
+865,Hoosfield,2002,All plots,13/12/2001,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, P and P2 applied."
+865,Hoosfield,2002,All plots,13/12/2001,,applied P,1,,,,agronomic fertilization process,,,,,,,,
+865,Hoosfield,2002,All plots,13/12/2001,,applied P2,1,,,,agronomic fertilization process,,,,,,,,
+866,Hoosfield,2002,All plots,19/12/2001,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,"FYM, Si and MG2 applied."
+866,Hoosfield,2002,All plots,19/12/2001,,applied Si,1,,,,agronomic fertilization process,,,,,,,,
+866,Hoosfield,2002,All plots,19/12/2001,,applied MG2,1,,,,agronomic fertilization process,,,,,,,,
+867,Hoosfield,2002,All plots,20/12/2001,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+868,Hoosfield,2002,All plots,18/02/2002,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+869,Hoosfield,2002,All plots,19/04/2002,,sprayed paths,1,,,,chemical pest control process,,,,sprayed,,,,sprayed paths
+870,Hoosfield,2002,All plots,25/04/2002,,applied N (27.5% N),1,by hand,,,agronomic fertilization process,,,,,,,,N (27.5% N) applied by hand
+871,Hoosfield,2002,All plots,03/05/2002,,Ally,1,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g in 200 l
+872,Hoosfield,2002,All plots,03/05/2002,,Duplosan KV,1,,1.0,l/ha,chemical pest control process,200,l/ha,,,,,,Duplosan KV at 1.0 l in 200 l
+873,Hoosfield,2002,All plots,03/05/2002,,Amistar,1,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Amistar at 0.4 l in 200 l
+874,Hoosfield,2002,All plots,03/05/2002,,Unix,1,,0.5,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.5 kg in 200 l
+875,Hoosfield,2002,All plots,04/07/2002,,"Rogued wild oats, 3 plants.",1,,,,hand picking process,,,,,,,,"Rogued wild oats, 3 pints."
+876,Hoosfield,2002,All plots,07/08/2002,,Roundup Biactive,1,,3.0,l/ha,chemical pest control process,200,l/ha,,,,,,Roundup Biactive at 3.0 l in 200 l.
+877,Hoosfield,2002,All plots,27/08/2002,28/08/2002,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield. Swathed straw and baled O&E's
+877,Hoosfield,2002,All plots,27/08/2002,28/08/2002,Swathed straw O&E's,1,,,,swathing process,,,,,,,,
+877,Hoosfield,2002,All plots,27/08/2002,28/08/2002,baled O&E's,1,,,,baling process,,,,,,,,
+878,Hoosfield,2002,All plots,28/08/2002,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,"sampled, baled and weighed straw. Swathed straw."
+878,Hoosfield,2002,All plots,28/08/2002,,baled straw,1,,,,baling process,,,,,,,,
+878,Hoosfield,2002,All plots,28/08/2002,,swathed straw,1,,,,swathing process,,,,,,,,
+879,Hoosfield,2002,All plots,02/09/2002,,combine harvested all remaining barley,1,,,,harvesting process,,,,,,,,combine harvested all remaining barley. Swathed and baled straw.
+879,Hoosfield,2002,All plots,02/09/2002,,swathed straw,1,,,,swathing process,,,,,,,,
+879,Hoosfield,2002,All plots,02/09/2002,,baled straw,1,,,,baling process,,,,,,,,
+880,Hoosfield,2002,All plots,03/09/2002,,Carted bales.,1,,,,residue removal process,,,,,,,,Carted bales.
+881,Hoosfield,2003,All plots,10/01/2002,,ploughed 25 cm wide furrow.,1,,,,tillage process,,,,,,,,ploughed 25 cm wide furrow.
+882,Hoosfield,2003,All plots,08/01/2003,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, K*, P2, Si, Mg ( to plot 63) applied."
+882,Hoosfield,2003,All plots,08/01/2003,,applied K*,1,,,,agronomic fertilization process,,,,,,,,
+882,Hoosfield,2003,All plots,08/01/2003,,applied P2,1,,,,agronomic fertilization process,,,,,,,,
+882,Hoosfield,2003,All plots,08/01/2003,,applied Si,1,,,,agronomic fertilization process,,,,,,,,
+882,Hoosfield,2003,All plots,08/01/2003,,applied Mg,1,plot 63,,,agronomic fertilization process,,,,,,,,
+883,Hoosfield,2003,All plots,09/01/2003,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+884,Hoosfield,2003,All plots,20/02/2003,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+885,Hoosfield,2003,All plots,21/03/2003,,rolled,1,,,,tillage process,,,,,,,,rolled
+886,Hoosfield,2003,All plots,31/03/2003,,sprayed paths,1,,,,chemical pest control process,,,,sprayed,,,,sprayed paths
+887,Hoosfield,2003,All plots,03/04/2003,,applied N (27.5% N),1,by hand,,,agronomic fertilization process,,,,,,,,N (27.5% N) applied by hand
+888,Hoosfield,2003,All plots,22/04/2003,,Ally,1,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g in 200 l
+889,Hoosfield,2003,All plots,22/04/2003,,Oxytril CM,1,,0.75,l/ha,chemical pest control process,200,l/ha,,,,,,Oxytril CM at 0.75 1 in 200 l.
+890,Hoosfield,2003,All plots,11/05/2003,,Opus,1,,0.25,l/ha,chemical pest control process,200,l/ha,,,,,,Opus at 0.25 l in 200 l
+891,Hoosfield,2003,All plots,11/05/2003,,Unix,1,,0.4,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.4 kg in 200 l
+892,Hoosfield,2003,All plots,11/05/2003,,Amistar,1,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Amistar at 0.4 l in 200 l
+893,Hoosfield,2003,All plots,08/06/2003,,Acanto,1,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto at 0.4 l in 200 l
+894,Hoosfield,2003,All plots,08/06/2003,,Opus,1,,0.25,l/ha,chemical pest control process,200,l/ha,,,,,,Opus at 0.25 l in 200 l
+895,Hoosfield,2003,All plots,02/07/2003,,rogued wild oats.,1,,,,hand picking process,,,,,,,,rogued wild oats.
+896,Hoosfield,2003,All plots,26/07/2003,,Touchdown,1,,4.0,l/ha,chemical pest control process,200,l/ha,,,,,,Touchdown at 4.0 l in 200 l
+897,Hoosfield,2003,All plots,04/08/2003,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+898,Hoosfield,2003,All plots,04/08/2003,,combine harvested discards,1,,,,harvesting process,,,,,,,,combine harvested discards
+899,Hoosfield,2003,All plots,04/08/2003,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,sampled and weighed straw.
+900,Hoosfield,2003,All plots,07/08/2003,,combine harvested all remaining barley,1,,,,harvesting process,,,,,,,,combine harvested all remaining barley.
+901,Hoosfield,2003,All plots,07/08/2003,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+902,Hoosfield,2004,All plots,27/11/2003,,applied K,1,,,,agronomic fertilization process,,,,,,,,"K, K*, Si, Mg ( to plot 63) applied."
+902,Hoosfield,2004,All plots,27/11/2003,,applied K*,1,,,,agronomic fertilization process,,,,,,,,
+902,Hoosfield,2004,All plots,27/11/2003,,applied Si,1,,,,agronomic fertilization process,,,,,,,,
+902,Hoosfield,2004,All plots,27/11/2003,,applied Mg,1,plot 63,,,agronomic fertilization process,,,,,,,,
+903,Hoosfield,2004,All plots,28/11/2003,,applied P,1,,,,agronomic fertilization process,,,,,,,,P applied
+904,Hoosfield,2004,All plots,10/12/2003,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+905,Hoosfield,2004,All plots,10/12/2003,,ploughed 30 cm wide furrow.,1,,,,tillage process,,,,,,,,ploughed 30 cm wide furrow.
+906,Hoosfield,2004,All plots,12/02/2004,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+907,Hoosfield,2004,All plots,21/02/2004,,rolled,1,,,,tillage process,,,,,,,,rolled
+908,Hoosfield,2004,All plots,01/03/2004,,Avadex Excel 15G,1,,15,kg/ha,chemical pest control process,,,,,,,,Avadex Excel 15G at 15 kg.
+909,Hoosfield,2004,All plots,14/04/2004,,Ally,1,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g in 200 l
+910,Hoosfield,2004,All plots,14/04/2004,,Oxytril CM,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Oxytril CM at 0.5 l in 200 l
+911,Hoosfield,2004,All plots,20/04/2004,,applied N (27% N),1,,,,agronomic fertilization process,,,,,,,,N (27% N).
+912,Hoosfield,2004,All plots,26/04/2004,,Acanto,1,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto at 0.4 l in 200 l
+913,Hoosfield,2004,All plots,26/04/2004,,Unix,1,,0.4,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.4 kg in 200 l
+914,Hoosfield,2004,All plots,06/08/2004,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+915,Hoosfield,2004,All plots,06/08/2004,,combine harvested discards,1,,,,harvesting process,,,,,,,,combine harvested discards
+916,Hoosfield,2004,All plots,06/08/2004,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,sampled and weighed straw.
+917,Hoosfield,2004,All plots,01/09/2004,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+918,Hoosfield,2005,All plots,18/10/2004,,glyphosate 360,1,,3.0,l/ha,chemical pest control process,200,l/ha,,,,,,glyphosate 360 at 3.0 l in 200 l
+919,Hoosfield,2005,All plots,04/11/2004,,applied P,1,plot 63,,,agronomic fertilization process,,,,,,,,"P, K, Mg ( to plot 63) applied."
+919,Hoosfield,2005,All plots,04/11/2004,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+919,Hoosfield,2005,All plots,04/11/2004,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+920,Hoosfield,2005,All plots,05/11/2004,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM and Si applied.
+920,Hoosfield,2005,All plots,05/11/2004,,applied Si,1,,,,agronomic fertilization process,,,,,,,,
+921,Hoosfield,2005,All plots,05/11/2004,,ploughed 25 cm wide furrow.,1,,,,tillage process,,,,,,,,ploughed 25 cm wide furrow.
+922,Hoosfield,2005,All plots,19/02/2005,,combination drilled,0,,375,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+923,Hoosfield,2005,all plots,19/02/2005,,springtined,1,,,,tillage process,,,,,,,,springtined
+924,Hoosfield,2005,All plots,21/04/2005,,applied N (27% N),1,"to Main plots (old series O, A)",,,agronomic fertilization process,,,,,,,,"N (27% N) to Main plots (old series O, A)."
+925,Hoosfield,2005,All plots,22/04/2005,,applied N (34.5% N) to remainder,1,,,,agronomic fertilization process,,,,,,,,N (34.5% N) to remainder
+926,Hoosfield,2005,All plots,15/05/2005,,Corbel,1,,0.75,l/ha,chemical pest control process,200,l/ha,,,,,,Corbel at 0.75 l in 200 l
+927,Hoosfield,2005,All plots,15/05/2005,,Fandango,1,,1.0,l/ha,chemical pest control process,200,l/ha,,,,,,Fandango at 1.0 l in 200 l
+928,Hoosfield,2005,All plots,15/05/2005,,Harmony M SX,1,,100,g/ha,chemical pest control process,200,l/ha,,,,,,Harmony M SX at 100 g in 200 l
+929,Hoosfield,2005,All plots,11/07/2005,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+930,Hoosfield,2005,All plots,30/08/2005,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+931,Hoosfield,2005,All plots,30/08/2005,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,sampled and weighed straw.
+932,Hoosfield,2005,All plots,01/09/2005,,combine harvested discards,1,,,,harvesting process,,,,,,,,"combine harvested discards, swathed straw."
+932,Hoosfield,2005,All plots,01/09/2005,,swathed straw,1,,,,swathing process,,,,,,,,
+933,Hoosfield,2005,All plots,02/09/2005,,baled straw,1,,,,baling process,,,,,,,,Straw baled
+934,Hoosfield,2006,All plots,09/09/2005,,Weedazol-TL,1,series O only,20.0,l/ha,chemical pest control process,200,l/ha,,,,,,"Weedazol-TL at 20.0 l in 200 l, series O only."
+935,Hoosfield,2006,All plots,16/11/2005,,applied P,1,plot 63,,,agronomic fertilization process,,,,,,,,"P, K, Mg ( to plot 63) applied."
+935,Hoosfield,2006,All plots,16/11/2005,,applied K,1,,,,agronomic fertilization process,,,,,,,,
+935,Hoosfield,2006,All plots,16/11/2005,,applied Mg,1,,,,agronomic fertilization process,,,,,,,,
+936,Hoosfield,2006,All plots,17/11/2005,,applied Si,1,,,,agronomic fertilization process,,,,,,,,Si applied.
+937,Hoosfield,2006,All plots,21/11/2005,,applied FYM,1,,,,agronomic fertilization process,,,,,,,,FYM applied
+938,Hoosfield,2006,All plots,23/11/2005,,ploughed 25 cm wide furrow.,1,,,,tillage process,,,,,,,,ploughed 25 cm wide furrow.
+939,Hoosfield,2006,All plots,03/02/2006,,combination drilled,0,,375,seeds/m2,seeding process,,,,,Optic,Raxil Pro,Accord drill,"combination drilled, Optic, dressed Raxil Pro, with the Accord drill"
+940,Hoosfield,2006,all plots,03/02/2006,,rolled,1,,,,tillage process,,,,,,,,rolled
+941,Hoosfield,2006,all plots,03/02/2006,,cultipressed,1,,,,tillage process,,,,,,,,cultipressed
+942,Hoosfield,2006,All plots,25/04/2006,,applied N (27% N),1,"to Main plots (old series O, A) and plots 6 and 7 series AA",,,agronomic fertilization process,,,,,,,,"N (27% N) to Main plots (old series O, A) and plots 6 and 7 series AA."
+943,Hoosfield,2006,All plots,26/04/2006,,applied N (34.5% N) to remainder,1,,,,agronomic fertilization process,,,,,,,,N (34.5% N) to remainder
+944,Hoosfield,2006,All plots,17/05/2006,,Acanto,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto at 0.5 l in 200 l
+945,Hoosfield,2006,All plots,17/05/2006,,Unix,1,,0.5,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.5 kg in 200 l
+946,Hoosfield,2006,All plots,17/05/2006,,Quantum SX,1,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Quantum SX at 30 g in 200 l
+947,Hoosfield,2006,All plots,17/05/2006,,Duplosan KV,1,,2.3,l/ha,chemical pest control process,200,l/ha,,,,,,Duplosan KV at 2.3 l in 200 l
+948,Hoosfield,2006,All plots,16/06/2006,,Fandango,1,,1.25,l/ha,chemical pest control process,200,l/ha,,,,,,Fandango at 1.25 l in 200 l
+949,Hoosfield,2006,All plots,17/07/2006,,hand rogued wild oats.,1,,,,hand picking process,,,,,,,,hand rogued wild oats.
+950,Hoosfield,2006,All plots,11/08/2006,,combine harvested discards,1,,,,harvesting process,,,,,,,,"combine harvested discards, swathed straw, baled."
+950,Hoosfield,2006,All plots,11/08/2006,,swathed straw,1,,,,swathing process,,,,,,,,
+950,Hoosfield,2006,All plots,11/08/2006,,baled straw,1,,,,baling process,,,,,,,,
+951,Hoosfield,2006,All plots,16/08/2006,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+952,Hoosfield,2006,All plots,16/08/2006,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,"sampled and weighed straw, baled straw."
+952,Hoosfield,2006,All plots,16/08/2006,,baled straw,1,,,,baling process,,,,,,,,
+953,Hoosfield,2006,All plots,16/08/2006,,combine harvested remaining discards,1,,,,harvesting process,,,,,,,,"combine harvested remaining discards, swathed straw. baled straw."
+953,Hoosfield,2006,All plots,16/08/2006,,swathed straw,1,,,,swathing process,,,,,,,,
+953,Hoosfield,2006,All plots,16/08/2006,,baled straw,1,,,,baling process,,,,,,,,
+954,Hoosfield,2006,All plots,17/11/2006,,Azural,1,,2.0,l/ha,chemical pest control process,200,l/ha,,,,,,Azural at 2.0 l in 200 l
+955,Hoosfield,2007,All plots,25/09/2006,,Weedazol-TL,1,,20,l/ha,chemical pest control process,200,l/ha,,,,,,Weedazol-TL
+956,Hoosfield,2007,All plots,13/11/2006,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+957,Hoosfield,2007,All plots,13/11/2006,,applied Sulphate of potash,1,"Plots 141 - 144, 241 - 244, 311 - 444, 551 - 582, 631 - 634",217,kg/ha,agronomic fertilization process,,,,,,,,"Sulphate of Potash - Plots 141 - 144, 241 - 244, 311 - 444, 551 - 582, 631 - 634"
+958,Hoosfield,2007,All plots,13/11/2006,,applied Kieserite,1,plots 631 - 634,223,kg/ha,agronomic fertilization process,,,,,,,,Kieserite - Plots 631 - 634
+959,Hoosfield,2007,All plots,14/11/2006,,applied silicate of soda,1,"Plots 132 - 433. applied to plots 131 - 431, 134 - 434 in error",450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of Soda Plots 132 - 433. applied to plots 131 - 431, 134 - 434 in error"
+960,Hoosfield,2007,All plots,20/11/2006,,applied FYM,1,"plots 721, 722, 723, 724, 731, 732, 733, 734",35,t/ha,agronomic fertilization process,,,,,,,,"Farm Yard Manure - plots 721, 722, 723, 724, 731, 732, 733, 734"
+961,Hoosfield,2007,All plots,22/11/2006,,ploughed - thrown north,1,,,,tillage process,,,,,,,,"ploughed, thrown north"
+962,Hoosfield,2007,All plots,02/02/2007,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Optic,Raxil Pro,,"Optic, dressed Raxil Pro"
+963,Hoosfield,2007,All plots,07/02/2007,,rolled,1,,,,tillage process,,,,,,,,rolled
+964,Hoosfield,2007,All plots,05/04/2007,,applied Nitrochalk,1,"plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",175,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+965,Hoosfield,2007,All plots,05/04/2007,,applied Nitrochalk,1,"plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",349,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+966,Hoosfield,2007,All plots,05/04/2007,,applied Nitrochalk,1,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+967,Hoosfield,2007,All plots,10/04/2007,,applied Nitrochalk,1,"series 5, C and AA, and O&E's",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - series 5, C and AA, and O&E's"
+968,Hoosfield,2007,All plots,17/05/2007,,Fandango,1,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Fandango
+969,Hoosfield,2007,All plots,17/05/2007,,Flexity,1,,0.3,l/ha,chemical pest control process,200,l/ha,,,,,,Flexity
+970,Hoosfield,2007,All plots,17/05/2007,,Alpha Briotril Plus 19/19,1,,1.5,l/ha,chemical pest control process,200,l/ha,,,,,,Alpha Briotril Plus 19/19
+971,Hoosfield,2007,All plots,17/05/2007,,Optica,1,,2,l/ha,chemical pest control process,200,l/ha,,,,,,Optica
+972,Hoosfield,2007,All plots,02/06/2007,,Amistar Opti,1,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Amistar Opti
+973,Hoosfield,2007,All plots,02/06/2007,,Corbel,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Corbel
+974,Hoosfield,2007,All plots,26/06/2007,,Rogue wild oats / thistles / weeds plants on plots 38 plants,1,,,,hand picking process,,,,,,,,Rogue wild oats / thistles / weeds plants on plots 38 plants
+975,Hoosfield,2007,All plots,03/09/2007,04/09/2007,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,"combine harvest, plots for yield and swath straw"
+975,Hoosfield,1967,,,,Fallow year,1,,,,comment,,,,,,,,
+975,Hoosfield,2007,All plots,03/09/2007,04/09/2007,swathed straw,1,,,,swathing process,,,,,,,,
+976,Hoosfield,2007,All plots,03/09/2007,,combine harvested discards,1,,,,harvesting process,,,,,,,,combine harvest discards
+977,Hoosfield,2007,All plots,03/09/2007,,baled straw,1,,,,baling process,,,,,,,,baled
+978,Hoosfield,2007,All plots,04/09/2007,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+979,Hoosfield,1967,,,,The Quinquennial chalk dressing was discontinued. Plots chalk and corrective chalk received as indicated in the operations data. No mineral fertilizers or nitrogen were applied,1,,,,chemical pest control process,,,,,,,,straw
+980,Hoosfield,2007,All plots,04/09/2007,,swathed straw,1,,,,swathing process,,,,,,,,"Swath, sample, bale and weigh straw"
+980,Hoosfield,2007,All plots,04/09/2007,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,
+980,Hoosfield,2007,All plots,04/09/2007,,baled straw,1,,,,baling process,,,,,,,,
+981,Hoosfield,2007,All plots,12/09/2007,,Row up straw on headland,1,,,,swathing process,,,,,,,,Row up straw on headland
+982,Hoosfield,2008,All plots,13/09/2007,,Weedazol-TL,1,,20,l/ha,chemical pest control process,200,l/ha,,,,,,Weedazol-TL
+983,Hoosfield,2008,All plots,07/10/2007,,applied chalk,1,"excluding plots 11 - 13, 21 - 23",4,t/ha,liming process,,,,,,,,"Chalk whole experiment excluding plots 11 - 13, 21 - 23"
+984,Hoosfield,2008,All plots,26/11/2007,,applied Sulphate of potash,1,"Plots 31 - 34, 41 - 44, 55, 56, 63",217,kg/ha,agronomic fertilization process,,,,,,,,"Sulphate of Potash - Plots 31 - 34, 41 - 44, 55, 56, 63"
+985,Hoosfield,2008,All plots,26/11/2007,,applied Sulphate of potash,1,"Plots 14, 24, 57, 58",434,kg/ha,agronomic fertilization process,,,,,,,,"Sulphate of Potash - Plots 14, 24, 57, 58"
+986,Hoosfield,2008,All plots,29/11/2007,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of Soda, Plots 132, 133, 232, 233, 332, 333, 432, 433"
+987,Hoosfield,2008,All plots,04/03/2008,,springtined,1,,,,tillage process,,,,,,,,springtined
+989,Hoosfield,2008,All plots,16/04/2008,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+990,Hoosfield,2008,All plots,28/04/2008,,applied Nitrochalk,1,"plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",175,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+991,Hoosfield,2008,All plots,28/04/2008,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+992,Hoosfield,2008,All plots,06/05/2008,,applied Nitrochalk,1,"plots 131 - 444, 551 - 582, all O&E's",537,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 131 - 444, 551 - 582, all O&E's"
+993,Hoosfield,2008,All plots,20/05/2008,,Harmony M SX,1,,100,g/ha,chemical pest control process,200,l/ha,,,,,,Harmony M SX
+994,Hoosfield,2008,All plots,20/05/2008,,Duplosan KV,1,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Duplosan KV
+995,Hoosfield,2008,All plots,20/05/2008,,Acanto Prima,1,,1.25,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto Prima
+996,Hoosfield,2008,All plots,09/06/2008,,Acanto,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto
+997,Hoosfield,2008,All plots,09/06/2008,,Unix,1,,0.5,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix
+998,Hoosfield,2008,All plots,25/07/2008,,"Rogue wild oats / thistles / weeds, 610 plants pulled from plots",1,,,,hand picking process,,,,,,,,"Rogue wild oats / thistles / weeds, 610 plants pulled from plots"
+999,Hoosfield,2008,All plots,04/08/2008,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+1000,Hoosfield,2008,All plots,08/08/2008,,Glyphogan,1,,3,l/ha,chemical pest control process,200,l/ha,,,,,,Glyphogan
+1001,Hoosfield,2008,All plots,27/08/2008,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+1002,Hoosfield,2008,All plots,27/08/2008,,swathed straw,1,,,,swathing process,,,,,,,,Swath straw
+1003,Hoosfield,2008,All plots,27/08/2008,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,"sample, bale and weigh straw"
+1003,Hoosfield,2008,All plots,27/08/2008,,baled straw,1,,,,baling process,,,,,,,,
+1004,Hoosfield,2008,All plots,04/12/2007,,ploughed - thrown south,1,,,,tillage process,,,,,,,,"ploughed, thrown south"
+1005,Hoosfield,2008,All plots,04/03/2008,,combination drilled,0,,350,seeds/m2,seeding process,,,,,Tipple,Raxil Pro,,"Tipple, dressed Raxil Pro"
+1006,Hoosfield,2008,All plots,08/09/2008,,Weedazol-TL,1,,20,l/ha,chemical pest control process,290,l/ha,,,,,,Weedazol-TL
+1007,Hoosfield,2008,selected plots,26/11/2007,,applied Kieserite,1,Plot 63,233,kg/ha,agronomic fertilization process,,,,,,,,"Kieserite, Plot 63"
+1008,Hoosfield,2008,selected plots,26/11/2007,,applied Triple Superphosphate,1,Plot 63,215,kg/ha,agronomic fertilization process,,,,,,,,Triple Superphosphate - Plot 63
+1009,Hoosfield,2008,selected plots,29/11/2007,,applied FYM,1,"plots 721, 722, 723, 724, 731, 732, 733, 734",35,t/ha,agronomic fertilization process,,,,,,,,"Farm Yard Manure - plots 721, 722, 723, 724, 731, 732, 733, 734"
+1010,Hoosfield,2008,selected plots,28/04/2008,,applied Nitrochalk,1,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",349,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1011,Hoosfield,2008,selected plots,28/04/2008,,applied Nitrochalk,1,"plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1012,Hoosfield,2009,All plots,12/11/2008,,applied Sulphate of potash,1,"Plots 311 - 414, 321 - 424, 331 - 634, 142 - 444 (excluding 241), 551 - 582",217,kg/ha,agronomic fertilization process,,,,,,,,"Sulphate of Potash - Plots 311 - 414, 321 - 424, 331 - 634, 142 - 444 (excluding 241), 551 - 582"
+1013,Hoosfield,2009,All plots,12/11/2008,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1014,Hoosfield,2009,All plots,12/11/2008,,applied Kieserite,1,plots 631 - 634,233,kg/ha,agronomic fertilization process,,,,,,,,Kieserite - Plots 631 - 634
+1015,Hoosfield,2009,All plots,14/11/2008,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of Soda, Plots 132, 133, 232, 233, 332, 333, 432, 433"
+1016,Hoosfield,2009,All plots,10/12/2008,,applied FYM,1,"plots 721, 722, 723, 724, 731, 732, 733, 734",35,l/ha,agronomic fertilization process,,,,,,,,"Farm Yard Manure - plots 721, 722, 723, 724, 731, 732, 733, 734"
+1017,Hoosfield,2009,All plots,11/12/2008,,ploughed - thrown north,1,,,,tillage process,,,,,,,,"ploughed, thrown north"
+1018,Hoosfield,2009,All plots,25/02/2009,,springtined,1,,,,tillage process,,,,,,,,springtined
+1019,Hoosfield,2009,All plots,25/02/2009,,combination drilled,0,,,,seeding process,,,,,Tipple,Raxil pro,,"combination drilled Tipple, dressed Raxil pro"
+1020,Hoosfield,2009,All plots,27/02/2009,,rolled,1,,,,tillage process,,,,,,,,rolled
+1021,Hoosfield,2009,All plots,14/04/2009,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+1022,Hoosfield,2009,All plots,15/04/2009,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+1023,Hoosfield,2009,All plots,22/04/2009,,applied Nitrochalk,1,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",175,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1024,Hoosfield,2009,All plots,23/04/2009,,Nitram,1,"Series AA, C and strip 5, headlands and O&E's",420,kg/ha,agronomic fertilization process,,,,,,,,"Nitram - Series AA, C and strip 5, headlands and O&E's"
+1025,Hoosfield,2009,All plots,20/05/2009,,Headland Charge,1,,1.5,l/ha,chemical pest control process,,,,,,,,Headland Charge
+1026,Hoosfield,2009,All plots,20/05/2009,,Duplosan KV,1,,1.5,l/ha,chemical pest control process,,,,,,,,Duplosan KV
+1027,Hoosfield,2009,All plots,20/05/2009,,Harmony M SX,1,,100,g/ha,chemical pest control process,,,,,,,,Harmony M SX
+1028,Hoosfield,2009,All plots,20/05/2009,,Fandango,1,,1,l/ha,chemical pest control process,,,,,,,,Fandango
+1029,Hoosfield,2009,All plots,20/05/2009,,Flexity,1,,0.2,l/ha,chemical pest control process,,,,,,,,Flexity
+1030,Hoosfield,2009,All plots,01/06/2009,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+1031,Hoosfield,2009,All plots,04/06/2009,,Amistar Opti,1,,1,l/ha,chemical pest control process,,,,,,,,Amistar Opti
+1032,Hoosfield,2009,All plots,04/06/2009,,Proline,1,,0.3,l/ha,chemical pest control process,,,,,,,,Proline
+1033,Hoosfield,2009,All plots,25/06/2009,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+1034,Hoosfield,2009,All plots,29/06/2009,,Mow / Rotavate paths,1,,,,tillage process,,,,,,,,Mow / Rotavate paths
+1035,Hoosfield,2009,All plots,06/07/2009,,Rogue wild oats / thistles / weeds 221 wild oats pulled,1,,,,hand picking process,,,,,,,,Rogue wild oats / thistles / weeds 221 wild oats pulled
+1036,Hoosfield,2009,All plots,06/07/2009,,Topped headlands,1,,,,mowing process,,,,,,,,Topped headlands
+1037,Hoosfield,2009,All plots,12/08/2009,,Cut paths,1,,,,mowing process,,,,,,,,Cut paths
+1038,Hoosfield,2009,All plots,13/08/2009,,combine harvested discards,1,,,,harvesting process,,,,,,,,combine harvest discards
+1039,Hoosfield,2009,All plots,13/08/2009,,baled straw,1,,,,baling process,,,,,,,,baled
+1040,Hoosfield,2009,All plots,15/08/2009,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+1041,Hoosfield,2009,All plots,16/08/2009,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,"sample, bale and weigh straw"
+1041,Hoosfield,2009,All plots,16/08/2009,,baled straw,1,,,,baling process,,,,,,,,
+1042,Hoosfield,2009,All plots,27/08/2009,,Weedazol-TL,1,,20,l/ha,chemical pest control process,,,,,,,,Weedazol-TL
+1043,Hoosfield,2009,selected plots,22/04/2009,,applied Nitrochalk,1,"Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",349,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1044,Hoosfield,2009,selected plots,22/04/2009,,applied Nitrochalk,1,"plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1045,Hoosfield,2010,All plots,10/12/2009,,applied Triple Superphosphate,1,,215,kg/ha,agronomic fertilization process,,,,,,,,Triple Superphosphate
+1046,Hoosfield,2010,all plots,10/12/2009,,applied Kieserite,1,,233,kg/ha,agronomic fertilization process,,,,,,,,Kieserite
+1047,Hoosfield,2010,all plots,10/12/2009,,applied Potassium Sulphate,1,,217,kg/ha,agronomic fertilization process,,,,,,,,Potassium Sulphate
+1048,Hoosfield,2010,All plots,16/12/2009,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,FYM
+1049,Hoosfield,2010,All plots,17/12/2009,,ploughed,1,,,,tillage process,,,,,,,,plough
+1050,Hoosfield,2010,All plots,09/03/2010,,springtined,1,,,,tillage process,,,,,,,,springtined
+1051,Hoosfield,2010,All plots,11/03/2010,,combination drilled (170 kg/ha),0,,350,seeds/m2,seeding process,,,,,Tipple,,,Tipple - 170 kg/ha
+1052,Hoosfield,2010,All plots,11/03/2010,,rolled,1,,,,tillage process,,,,,,,,rolled
+1054,Hoosfield,2010,All plots,15/04/2010,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1055,Hoosfield,2010,All plots,20/04/2010,,Nitrochalk,1,main plots as indicated on plan,,,agronomic fertilization process,,,,,,,,Nitrochalk to the main plots as indicated on the plan
+1056,Hoosfield,2010,All plots,23/04/2010,,"Nitram Silicate Test, P Test, headlands & O&E's",1,,420,kg/ha,agronomic fertilization process,,,,,,,,"Nitram Silicate Test, P Test, headlands & O&E's"
+1057,Hoosfield,2010,All plots,12/05/2010,,Rotavate,1,,,,tillage process,,,,,,,,Rotavate
+1058,Hoosfield,2010,All plots,24/05/2010,25/05/2010,Kestral,1,,0.5,l/ha,chemical pest control process,,,,,,,,Kestral
+1059,Hoosfield,2010,All plots,24/05/2010,25/05/2010,Jenton,1,,0.5,l/ha,chemical pest control process,,,,,,,,Jenton
+1060,Hoosfield,2010,All plots,24/05/2010,25/05/2010,Bravo 500,1,,1,l/ha,chemical pest control process,,,,,,,,Bravo 500
+1061,Hoosfield,2010,All plots,26/05/2010,,Harmony M SX,1,,100,g/ha,chemical pest control process,200,l/ha,,,,,,Harmony M SX - 200 It water
+1062,Hoosfield,2010,All plots,28/05/2010,,Dow Shield,1,,0.35,l/ha,chemical pest control process,200,l/ha,,,,,,Dow Shield - 200 It water
+1063,Hoosfield,2010,All plots,04/06/2010,,Axial,1,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Axial - 200 l water
+1064,Hoosfield,2010,All plots,04/06/2010,,Adigor,1,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Adigor - 200 It water
+1065,Hoosfield,2010,All plots,16/06/2010,,Bravo 500,1,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Bravo 500 - 200 It water
+1066,Hoosfield,2010,All plots,16/06/2010,,Mobius,1,,0.43,l/ha,chemical pest control process,200,l/ha,,,,,,Mobius - 200 It water
+1067,Hoosfield,2010,All plots,16/06/2010,,Standon Fenpropimorph 750,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Standon Fenpropimorph 750 - 200 It water
+1068,Hoosfield,2010,All plots,16/06/2010,,Corbel,1,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Corbel - 200 It water
+1069,Hoosfield,2010,All plots,18/06/2010,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1070,Hoosfield,2010,All plots,09/07/2010,,"pulled wild oats, none found",1,,,,hand picking process,,,,,,,,"pulled wild oats, none found"
+1071,Hoosfield,2010,All plots,31/08/2010,,combine harvested plots for yield.,1,,,,harvesting process,,,,,,,,combine harvested plots for yield.
+1072,Hoosfield,2010,All plots,31/08/2010,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,"sample, bale and weigh straw"
+1072,Hoosfield,2010,All plots,31/08/2010,,baled straw,1,,,,baling process,,,,,,,,
+1073,Hoosfield,2010,All plots,05/09/2010,,combine harvested,1,,,,harvesting process,,,,,,,,combine harvest
+1074,Hoosfield,2010,All plots,09/09/2010,,baled straw,1,,,,baling process,,,,,,,,baled
+1075,Hoosfield,2010,All plots,22/09/2010,,removed bales,1,,,,residue removal process,,,,,,,,removed bales
+1076,Hoosfield,2011,All plots,13/09/2010,,Weedazol-TL,1,,20,l/ha,chemical pest control process,296,l/ha,,,,,,Weedazol-TL
+1077,Hoosfield,2011,All plots,25/10/2010,,applied FYM,1,"plots 721, 722, 723, 724, 731, 732, 733, 734 (Used 3600 kg)",35,t/ha,agronomic fertilization process,,,,,,,,"Spread FYM - Spread according to plan on plots 721, 722, 723, 724, 731, 732, 733, 734 (Used 3600 kg)"
+1078,Hoosfield,2011,All plots,25/10/2010,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1079,Hoosfield,2011,all plots,25/10/2010,,applied Sulphate of potash,1,,217,kg/ha,agronomic fertilization process,,,,,,,,Applied Sulphate of Potash - Applied according to plan
+1080,Hoosfield,2011,All plots,26/10/2010,,applied Kieserite,1,"plots 634, 533, 632, 631",233,kg/ha,agronomic fertilization process,,,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1081,Hoosfield,2011,All plots,01/11/2010,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1082,Hoosfield,2011,All plots,03/11/2010,04/11/2010,ploughed,1,,,,tillage process,,,,,,,,ploughed
+1083,Hoosfield,2011,All plots,07/02/2011,,drilled (189 kg/ha),0,,350,seeds/m2,seeding process,,,,,Tipple,Beret Multi,,drilled Tipple Sp. Barley trt Beret Multi - 189 kg/ha
+1084,Hoosfield,2011,All plots,07/02/2011,,springtined,1,,,,tillage process,,,,,,,,springtined
+1085,Hoosfield,2011,All plots,06/04/2011,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1086,Hoosfield,2011,All plots,13/04/2011,,applied Nitrochalk,1,,,,agronomic fertilization process,,,,,,,,applied Nitrochalk to N treatments
+1087,Hoosfield,2011,All plots,13/04/2011,,applied Nitram,1,"Series AA, C and 5 only",420,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram - Series AA, C and 5 only"
+1088,Hoosfield,2011,All plots,09/05/2011,,Chimera,1,,140,g/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Chimera
+1089,Hoosfield,2011,All plots,09/05/2011,,Acanto Prima,1,,1.6,kg/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Acanto Prima
+1090,Hoosfield,2011,all plots,09/05/2011,,Harmony M SX,1,,100,g/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Harmony M SX
+1091,Hoosfield,2011,All plots,31/05/2011,,Mobius,1,,0.43,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Mobius
+1092,Hoosfield,2011,all plots,31/05/2011,,Corbel,1,,0.5,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Corbel
+1093,Hoosfield,2011,all plots,31/05/2011,,Bravo 500,1,,1,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Bravo 500
+1094,Hoosfield,2011,All plots,10/06/2011,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1095,Hoosfield,2011,All plots,06/07/2011,,Pulled wild oats - 97 in plot area,1,,,,hand picking process,,,,,,,,Pulled wild oats - 97 in plot area
+1096,Hoosfield,2011,All plots,12/07/2011,,Pulled wild oats - 21 pulled,1,,,,hand picking process,,,,,,,,Pulled wild oats - 21 pulled
+1097,Hoosfield,2011,All plots,23/07/2011,,Statis 360,1,,3,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Statis 360
+1098,Hoosfield,2011,All plots,09/08/2011,,combined O&E's - O&E's only to open out trial ready for yield harvest,1,,,,harvesting process,,,,,,,,combined O&E's - O&E's only to open out trial ready for yield harvest
+1099,Hoosfield,2011,All plots,09/08/2011,,baled straw - baled to remove straw,1,,,,baling process,,,,,,,,baled straw - baled to remove straw
+1100,Hoosfield,2011,All plots,10/08/2011,,Plots combined for yields,1,,,,harvesting process,,,,,,,,Plots combined for yields
+1101,Hoosfield,2011,All plots,10/08/2011,,Straw weights,1,,,,other,,,,,,,,Straw weights
+1102,Hoosfield,2011,All plots,10/08/2011,,combined. Cleared the remaining crop after yields done,1,,,,harvesting process,,,,,,,,combined. Cleared the remaining crop after yields done
+1103,Hoosfield,2011,All plots,10/08/2011,,baled straw,1,,,,baling process,,,,,,,,baled and removed straw
+1103,Hoosfield,2011,All plots,10/08/2011,,removed straw,1,,,,residue removal process,,,,,,,,
+1104,Hoosfield,2011,all plots,22/08/2011,,Combined O&E's,1,,,,harvesting process,,,,,,,,Combined O&E's
+1105,Hoosfield,2012,All plots,14/09/2011,,Weedazol,1,,20,l/ha,chemical pest control process,250,l/ha,,sprayed,,,,sprayed Weedazol in water
+1106,Hoosfield,2012,All plots,24/11/2011,,applied Kieserite,1,"plots 634, 533, 632, 631",233,kg/ha,agronomic fertilization process,,,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1107,Hoosfield,2012,All plots,24/11/2011,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1108,Hoosfield,2012,All plots,24/11/2011,,applied Sulphate of potash,1,,217,kg/ha,agronomic fertilization process,,,,,,,,applied Sulphate of Potash as per plan.
+1109,Hoosfield,2012,All plots,28/11/2011,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1110,Hoosfield,2012,All plots,29/11/2011,,ploughed - thrown south,1,,,,tillage process,,,,,,,,"ploughed, soil thrown south."
+1111,Hoosfield,2012,All plots,29/12/2011,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1112,Hoosfield,2012,All plots,27/02/2012,,drilled,0,,164,kg/ha,seeding process,,,,,Tipple,Beret Multi,,drilled Tipple Sp. Barley tr Beret Multi
+1113,Hoosfield,2012,All plots,27/02/2012,,Flexitined,1,,,,tillage process,,,,,,,,Flexitined
+1114,Hoosfield,2012,All plots,01/03/2012,,rolled,1,,,,tillage process,,,,,,,,rolled Finished
+1115,Hoosfield,2012,All plots,01/03/2012,,Kula,1,,3.3,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Kula
+1116,Hoosfield,2012,All plots,12/04/2012,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1117,Hoosfield,2012,All plots,23/04/2012,,applied Nitrochalk,1,"by hand, to Plots 11, 12, 21, 22, 31, 32, 41, 42, 61, 62, 63, 71, 72, 73 (Main Plots)","0, 48, 96, 144",kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk applied by hand, to Plots 11, 12, 21, 22, 31, 32, 41, 42, 61, 62, 63, 71, 72, 73 (Main Plots)"
+1118,Hoosfield,2012,All plots,10/05/2012,,applied Nitram,1,"by hand to Plots 13, 23, 33, 43, 44, 34, 24, 14, 55, 56, 57, 58 (Silicate & P Test Plots)",144,kg/ha,agronomic fertilization process,,,,,,,,"Nitram applied by hand to Plots 13, 23, 33, 43, 44, 34, 24, 14, 55, 56, 57, 58 (Silicate & P Test Plots)"
+1119,Hoosfield,2012,All plots,16/05/2012,,applied Nitram,1,surrounding areas.,417,kg/ha,agronomic fertilization process,,,,,,,,Nitram applied to surrounding areas.
+1120,Hoosfield,2012,spring barley,22/05/2012,,Amistar,1,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Spring Barley with Amistar
+1121,Hoosfield,2012,All plots,10/06/2012,,Jenton,1,,1.5,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Jenton
+1122,Hoosfield,2012,All plots,14/06/2012,,Pull up Wild Oats - discards only,1,,,,hand picking process,,,,,,,,Pull up Wild Oats - discards only
+1123,Hoosfield,2012,All plots,04/07/2012,,Picking Wild Oats - 24 plants picked from plots,1,,,,hand picking process,,,,,,,,Picking Wild Oats - 24 plants picked from plots
+1124,Hoosfield,2012,All plots,06/08/2012,,Cut paths,1,,,,mowing process,,,,,,,,Cut paths
+1125,Hoosfield,2012,All plots,24/08/2012,,harvested O&E's,1,,,,harvesting process,,,,,,,,harvested O&E's
+1126,Hoosfield,2012,All plots,31/08/2012,,harvested,1,,,,harvesting process,,,,,,,,harvested
+1127,Hoosfield,2012,All plots,03/09/2012,,sampled and weighed straw,1,,,,sample collection process,,,,,,,,"sampled, weighed and baled."
+1127,Hoosfield,2012,All plots,03/09/2012,,baled straw,1,,,,baling process,,,,,,,,
+1128,Hoosfield,2012,All plots,19/09/2012,,Stubble rolled,1,,,,tillage process,,,,,,,,Stubble rolled
+1129,Hoosfield,2012,All plots,20/09/2012,,Weedazol EW,1,,20,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Whole field w/ Weedazol EW
+1130,Hoosfield,2012,All plots,28/09/2012,,applied Sulphate of potash,1,"plots 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5",217,kg/ha,agronomic fertilization process,,,,,,,,"Spread Sulphate of Potash as on sheet to plots 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5"
+1131,Hoosfield,2012,All plots,28/09/2012,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"Spread Fert Triple superphosphate as on sheet, sections 631 - 634"
+1132,Hoosfield,2012,All plots,01/10/2012,,applied silicate of soda,1,"plots 432 - 132, 433 - 133",450,kg/ha,agronomic fertilization process,,,,,,,,"Spread Soda Silicate onto plots 432 - 132, 433 - 133"
+1133,Hoosfield,2012,All plots,03/10/2012,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1134,Hoosfield,2012,All plots,01/03/2012,,Stomp 400,1,,2,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Stomp 400
+1135,Hoosfield,2012,spring barley,22/05/2012,,Corbel,1,,0.25,l/ha,chemical pest control process,,,,sprayed,,,,Sprayed Spring Barley with Corbel
+1136,Hoosfield,2012,spring barley,22/05/2012,,Duplosan,1,,2,l/ha,chemical pest control process,,,,sprayed,,,,Sprayed Spring Barley with Duplosan
+1137,Hoosfield,2012,All plots,28/09/2012,,applied Kieserite,1,plots 631 - 634,233,kg/ha,agronomic fertilization process,,,,,,,,Spread Kieserite as on sheet sections 631 - 634
+1138,Hoosfield,2012,All plots,08/10/2012,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+1139,Hoosfield,2013,All plots,20/09/2012,,Weedazol EW,1,,20,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Whole field w/ Weedazol EW
+1140,Hoosfield,2013,All plots,28/09/2012,,applied Sulphate of potash,1,"plots 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5",217,kg/ha,agronomic fertilization process,,,,,,,,"Spread Fert Sulphate of potash as on sheet 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5"
+1141,Hoosfield,2013,All plots,28/09/2012,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"Spread Fert Triple superphosphate as on sheet, sections 631 - 634"
+1142,Hoosfield,2013,all plots,28/09/2012,,applied Kieserite,1,plots 631 - 634,233,kg/ha,agronomic fertilization process,,,,,,,,Spread Kieserite as on sheet sections 631 - 634
+1143,Hoosfield,2013,All plots,01/10/2012,,applied silicate of soda,1,"plots 432 - 132, 433 - 133",450,kg/ha,agronomic fertilization process,,,,,,,,"Spread Soda Silicate onto plots 432 - 132, 433 - 133"
+1144,Hoosfield,2013,All plots,03/10/2012,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1145,Hoosfield,2013,All plots,08/10/2012,,ploughed,1,,,,tillage process,,,,,,,,ploughed
+1146,Hoosfield,2013,All plots,01/03/2013,,drilled,0,,350,seeds/m2,seeding process,,,,,Tipple,,,Driling W Barley var Tipple
+1147,Hoosfield,2013,All plots,04/03/2013,,Ring rolled,1,,,,tillage process,,,,,,,,Ring rolled
+1148,Hoosfield,2013,All plots,30/04/2013,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1149,Hoosfield,2013,All plots,01/05/2013,,applied Nitrochalk,1,,178,kg/ha,agronomic fertilization process,,,,,,,,"N as Nitrochalk Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1150,Hoosfield,2013,All plots,01/05/2013,,applied Nitram,1,"Plots: Series AA old plots, Series C and Strip 5, as per plan",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram - Plots: Series AA old plots, Series C and Strip 5, as per plan"
+1151,Hoosfield,2013,all plots,01/05/2013,,applied Nitrochalk,1,"Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",356,kg/ha,agronomic fertilization process,,,,,,,,"N as Nitro-chalk - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1152,Hoosfield,2013,all plots,01/05/2013,,applied Nitrochalk,1,"plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",533,kg/ha,agronomic fertilization process,,,,,,,,"N as Nitro-chalk - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1153,Hoosfield,2013,All plots,02/06/2013,,Mobius,1,,0.6,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Mobius
+1154,Hoosfield,2013,All plots,26/06/2013,,Mobius,1,,4,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Mobius
+1155,Hoosfield,2013,All plots,09/07/2013,,"Cut, Cultivated Paths",1,,,,tillage process,,,,,,,,"Cut, Cultivated Paths"
+1156,Hoosfield,2013,All plots,10/07/2013,,"Pulling Wild Oats, 7 in plots",1,,,,hand picking process,,,,,,,,"Pulling Wild Oats, 7 in plots"
+1157,Hoosfield,2013,All plots,12/08/2013,,harvested (opened up exp),1,,,,harvesting process,,,,,,,Claas,Claas - harvested (opened up exp)
+1158,Hoosfield,2013,All plots,27/08/2013,,harvested discards O&E's,1,,,,harvesting process,,,,,,,Claas,Claas harvested discards O&E's
+1159,Hoosfield,2013,All plots,27/08/2013,,harvested plots for yield,1,,,,harvesting process,,,,,,,Sampo,Sampo harvested for yield all plots
+1160,Hoosfield,2013,All plots,28/08/2013,,baled straw,1,,,,baling process,,,,,,,,baled sampled and weighed all plots
+1160,Hoosfield,2013,All plots,28/08/2013,,sampled and weighed all plots,1,,,,sample collection process,,,,,,,,
+1161,Hoosfield,2013,All plots,02/06/2013,,Clyfamid,1,,0.125,l/ha,chemical pest control process,,,,sprayed,,,,Sprayed Clyfamid
+1162,Hoosfield,2013,All plots,20/08/2013,,harvested opened up and cut O&E's,1,,,,harvesting process,,,,,,,Claas,Claas harvested opened up and cut O&E's
+1163,Hoosfield,2014,All plots,08/10/2013,,Weedazol,1,surrounds only,2,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Weedazol surrounds only
+1164,Hoosfield,2014,All plots,24/10/2013,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1165,Hoosfield,2014,All plots,24/10/2013,,applied Sulphate of potash,1,"Plots 634 - 631, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141",217,kg/ha,agronomic fertilization process,,,,,,,,"applied Sulphate of potash - Plots 634 - 631, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141"
+1166,Hoosfield,2014,All plots,24/10/2013,,applied Kieserite,1,"plots 634, 533, 632, 631",233,kg/ha,agronomic fertilization process,,,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1167,Hoosfield,2014,All plots,03/12/2013,,applied chalk,1,"Plots 734 - 711, 634 - 611, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141",4,t/ha,liming process,,,,,,,,"applied Chalk - Plots 734 - 711, 634 - 611, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141"
+1168,Hoosfield,2014,All plots,03/12/2013,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1169,Hoosfield,2014,All plots,04/12/2013,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1170,Hoosfield,2014,All plots,06/12/2013,09/12/2013,ploughed - thrown south,1,,,,tillage process,,,,,,,,"ploughing, thrown south"
+1171,Hoosfield,2014,All plots,10/03/2014,,Flexitined ploughed ground - drill prep,1,,,,tillage process,,,,,,,,Flexitined ploughed ground - drill prep
+1172,Hoosfield,2014,All plots,12/03/2014,,Power-harrowed - All site and all Plots,1,,,,tillage process,,,,,,,,Power-harrowed - All site and all Plots
+1173,Hoosfield,2014,All plots,14/03/2014,,rolled,1,,,,tillage process,,,,,,,,rolled
+1174,Hoosfield,2014,All plots,14/03/2014,,Crystal - pre emergent,1,,2,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Crystal - pre emergent
+1175,Hoosfield,2014,all plots,14/03/2014,,drilled,0,,350,seeds/m2,seeding process,,,,,Tipple,,,Drilled Spring Barley - var. Tipple
+1176,Hoosfield,2014,All plots,29/04/2014,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1177,Hoosfield,2014,All plots,30/04/2014,,applied Nitrochalk,1,"by hand - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",48,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk by hand - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1178,Hoosfield,2014,All plots,30/04/2014,,applied Nitrochalk,1,"by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1179,Hoosfield,2014,All plots,30/04/2014,,applied Nitrochalk,1,"by hand - Plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk by hand - Plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+1180,Hoosfield,2014,All plots,30/04/2014,,applied Nitram @ 35% N,1,"Plots 131 - 134, 141 - 144, 231 - 234, 241 - 244, 331 - 334, 341 - 344, 431 - 434, 441 - 444, 551 - 582",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram @ 35% N - Plots 131 - 134, 141 - 144, 231 - 234, 241 - 244, 331 - 334, 341 - 344, 431 - 434, 441 - 444, 551 - 582"
+1181,Hoosfield,2014,all plots,30/04/2014,,applied Nitrochalk,1,"by hand - Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",0,kg/ha,agronomic fertilization process,,,,,,,,"Applied Nitrochalk by hand - Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1182,Hoosfield,2014,barley,18/06/2014,,Mobius,1,,400,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Mobius - Sp Barley only
+1183,Hoosfield,2014,All plots,10/07/2014,,Removed wild oats from trial - 46 in total,1,,,,pest removal process,,,,,,,,Removed wild oats from trial - 46 in total
+1184,Hoosfield,2014,All plots,05/09/2014,,Cut discard areas,1,,,,baling process,,,,,,,,Cut discard areas and baled straw with Class round baler; removed grain and straw.
+1184,Hoosfield,2014,All plots,05/09/2014,,baled straw with Class round baler,1,,,,baling process,,,,,,,,
+1184,Hoosfield,2014,All plots,05/09/2014,,removed grain and straw.,1,,,,residue removal process,,,,,,,,
+1185,Hoosfield,2014,All plots,06/09/2014,,harvested all plots for grain yields,1,,,,harvesting process,,,,,,,Sampo,Sampo harvested all plots for grain yields
+1186,Hoosfield,2014,all plots,08/09/2014,,baled straw,1,,,,baling process,,,,,,,,Baled and weighed straw for yields
+1186,Hoosfield,2014,all plots,08/09/2014,,weighed straw for yields,1,,,,sample collection process,,,,,,,,
+1187,Hoosfield,2015,All plots,10/11/2014,,"Samurai - total kill, volunteers and weeds",1,,3,l/ha,chemical pest control process,,,,sprayed,,,,"sprayed Samurai - total kill, volunteers and weeds"
+1188,Hoosfield,2015,All plots,10/11/2014,,"Fire Brand - total kill, volunteers and weeds",1,,1,l/ha,chemical pest control process,,,,sprayed,,,,"sprayed Fire Brand - total kill, volunteers and weeds"
+1189,Hoosfield,2015,All plots,25/11/2014,,applied Kieserite,1,"plots 634, 533, 632, 631",233,kg/ha,agronomic fertilization process,,,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1190,Hoosfield,2015,All plots,25/11/2014,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1191,Hoosfield,2015,All plots,09/12/2014,,applied Sulphate of potash,1,"all series C, strip 5 and plots 311 - 334, 411 - 434, 631 - 634",217,kg/ha,agronomic fertilization process,,,,,,,,"applied Sulphate of potash onto all series C, strip 5 and plots 311 - 334, 411 - 434, 631 - 634"
+1192,Hoosfield,2015,All plots,16/12/2014,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1193,Hoosfield,2015,All plots,16/12/2014,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1194,Hoosfield,2015,All plots,18/12/2014,,ploughed - thrown north,1,,,,tillage process,,,,,,,,"ploughed, thrown north"
+1195,Hoosfield,2015,All plots,05/03/2015,,springtined all ground,1,,,,tillage process,,,,,,,,springtined all ground
+1196,Hoosfield,2015,All plots,05/03/2015,,Samurai,1,,2.5,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+1197,Hoosfield,2015,All plots,05/03/2015,,Firebrand,1,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Firebrand
+1198,Hoosfield,2015,All plots,06/03/2015,,drilled,0,,350,seeds/m2,seeding process,,,,,Tipple,,,drilled Tipple Barley
+1199,Hoosfield,2015,All plots,06/03/2015,,rolled,1,,,,tillage process,,,,,,,,rolled Al Site
+1200,Hoosfield,2015,All plots,12/05/2015,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1201,Hoosfield,2015,All plots,13/05/2015,,applied Nitram @ 34.5% N,1,"Old Series 5, Series C and Series AA (except plots 6 and 7)",144,kg/ha,agronomic fertilization process,,,,,,,,"applied N treatments (34.5% N) to Old Series 5, Series C and Series AA plots (except plots 6 and 7)"
+1202,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),1,"by hand to plots 112, 123, 212, 23, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",0,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 112, 123, 212, 23, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1203,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),1,"by hand to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",480,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1204,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),1,"by hand to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+1205,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),1,"by hand to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1206,Hoosfield,2015,barley,13/05/2015,,Kingdom,1,,1.5,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom onto Barley
+1207,Hoosfield,2015,barley,13/05/2015,,Bravo 500,1,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Bravo 500 onto Barley
+1208,Hoosfield,2015,All plots,03/06/2015,,rotavated paths,1,,,,tillage process,,,,,,,,rotavated paths
+1209,Hoosfield,2015,barley,15/06/2015,,Kingdom,1,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom onto Barley
+1210,Hoosfield,2015,All plots,17/06/2015,,rotavated paths,1,,,,tillage process,,,,,,,,Rotavated all paths
+1211,Hoosfield,2015,barley,19/06/2015,,Axial,1,,460,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Axial onto Barley
+1212,Hoosfield,2015,barley,19/06/2015,,Adigor,1,,460,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Adigor onto Barley
+1213,Hoosfield,2015,All plots,22/07/2015,,pulled 2 wild oats from plots and surrounds,1,,,,hand picking process,,,,,,,,pulled 2 wild oats from plots and surrounds
+1214,Hoosfield,2015,All plots,02/09/2015,,harvested commercial O&E's,1,,,,harvesting process,,,,,,,,harvested commercial O&E's
+1215,Hoosfield,2015,All plots,07/09/2015,,harvested All Barley Plots for Grain Yield,1,,,,harvesting process,,,,,,,,harvested All Barley Plots for Grain Yield
+1216,Hoosfield,2015,All plots,08/09/2015,,baled all swath on field,1,,,,baling process,,,,,,,,baled all swath on field
+1217,Hoosfield,2015,All plots,09/09/2015,,Removed bales from commercial area,1,,,,residue removal process,,,,,,,,Removed bales from commercial area
+1218,Hoosfield,2015,All plots,09/09/2015,,baled straw,1,,,,baling process,,,,,,,,baled sampled and weighed all plots
+1218,Hoosfield,2015,All plots,09/09/2015,,sampled and weighed all plots,1,,,,sample collection process,,,,,,,,
+1219,Hoosfield,2015,All plots,07/09/2015,,Removed round bales from field,1,,,,residue removal process,,,,,,,,Removed round bales from field
+1220,Hoosfield,2016,All plots,28/10/2015,,applied Triple Superphosphate,1,"plots 634, 633, 632, 631",215,kg/ha,agronomic fertilization process,,,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1221,Hoosfield,2016,All plots,28/10/2015,,applied Kieserite,1,"plots 634, 533, 632, 631",233,kg/ha,agronomic fertilization process,,,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1222,Hoosfield,2016,All plots,29/10/2015,,applied Sulphate of potash,1,"plots 634 - 631, 561 - 311, 551 - 411, 571 - 241, 581 - 141",217,kg/ha,agronomic fertilization process,,,,,,,,"applied Sulphate of potash onto plots 634 - 631, 561 - 311, 551 - 411, 571 - 241, 581 - 141"
+1223,Hoosfield,2016,All plots,23/11/2015,,Firebrand,1,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Firebrand
+1224,Hoosfield,2016,All plots,23/11/2015,,Samurai,1,,3,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+1225,Hoosfield,2016,All plots,26/11/2015,,applied FYM,1,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1226,Hoosfield,2016,All plots,26/11/2015,,applied silicate of soda,1,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1227,Hoosfield,2016,All plots,03/12/2015,,ploughed - thrown south,1,,,,tillage process,,,,,,,,"ploughed, thrown south"
+1228,Hoosfield,2016,All plots,17/02/2016,,combination Harrowed all Site and surrounds,1,,,,tillage process,,,,,,,,combination Harrowed all Site and surrounds
+1229,Hoosfield,2016,All plots,29/02/2016,,drilled,0,,350,seeds/m2,seeding process,,,,,"KWS Irina,",Raxil Star,,"drilled KWS Irina, dressed Raxil Star"
+1230,Hoosfield,2016,All plots,19/04/2016,,Hallmark with Zeon Technology,1,,50,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hallmark with Zeon Technology
+1231,Hoosfield,2016,All plots,21/04/2016,,Marked out and rotavated all paths,1,,,,tillage process,,,,,,,,Marked out and rotavated all paths
+1232,Hoosfield,2016,All plots,05/05/2016,,applied Nitram @ 34.5% N,1,"Old Series 5, Series C and Series AA (except plots 6 and 7)",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram @ 34.5% N to Old Series 5, Series C and Series AA (except plots 6 and 7)"
+1233,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,1,"by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",0,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1234,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,1,"plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",48,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
