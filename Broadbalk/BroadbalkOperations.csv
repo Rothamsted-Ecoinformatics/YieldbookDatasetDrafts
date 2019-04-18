@@ -1,5 +1,6 @@
 experiment,year,cropped section,new start date,new end date,operation,sections,method,operation type,Amount,Units,water,water unit,variety,dressing,machine,orig_operation
-Broadbalk,1929,cropped plots,09/10/1928,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1929,cropped plots,09/10/1928,,seed sown,,,seeding process,,,,,"Squarehead's Master
+",,,seed sown
 Broadbalk,1929,cropped plots,09/08/1929,,harvested,,,harvesting process,,,,,,,,harvest
 Broadbalk,1929,cropped plots,17/08/1929,,carted,,,residue removal process,,,,,,,,carted
 Broadbalk,1930,all plots,05/09/1929,06/09/1929,tractor cultivated across,,,tillage process,,,,,,,,tractor cultivated across
@@ -11,14 +12,14 @@ Broadbalk,1930,Sections I and II,23/04/1930,,harrowed across,,,tillage process,,
 Broadbalk,1930,all plots,29/04/1930,,harrowed across,,,tillage process,,,,,,,,harrowed across
 Broadbalk,1930,Sections I and II,02/05/1930,,chain harrowed across,,,tillage process,,,,,,,,chain harrowed across
 Broadbalk,1930,"Sections III, IV, V",02/05/1930,,tooth harrowed lengthwise,,,tillage process,,,,,,,,tooth harrowed lengthwise
-Broadbalk,1930,cropped plots,15/10/1929,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1930,cropped plots,15/10/1929,,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1930,cropped plots,18/08/1930,,harvested,,,harvesting process,,,,,,,,harvest
 Broadbalk,1930,cropped plots,27/08/1930,30/08/1930,carted,,,residue removal process,,,,,,,,carted
 Broadbalk,1931,all plots,30/08/1930,01/09/1930,tractor cultivated,,,tillage process,,,,,,,,tractor cultivated
 Broadbalk,1931,all plots,02/10/1930,07/10/1930,tractor ploughed,,,tillage process,,,,,,,,tractor ploughed
 Broadbalk,1931,all plots,15/10/1930,,tractor disc harrowed followed by drag harrow,,,tillage process,,,,,,,,tractor disc harrowed followed by drag harrow
 Broadbalk,1931,cropped sections,16/10/1930,,harrowed in seed,,,tillage process,,,,,,,,harrowed in seed
-Broadbalk,1931,cropped sections,16/10/1930,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1931,cropped sections,16/10/1930,,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1931,cropped sections,17/08/1931,18/08/1931,harvested,,,harvesting process,,,,,,,,harvest
 Broadbalk,1931,cropped sections,27/08/1931,29/08/1931,carted,,,residue removal process,,,,,,,,carted
 Broadbalk,1932,all plots,29/08/1931,15/09/1931,ploughed,,,tillage process,,,,,,,,ploughed
@@ -26,14 +27,14 @@ Broadbalk,1932,all plots,21/09/1931,26/09/1931,tractor cultivated with disc and 
 Broadbalk,1932,all plots,10/10/1931,12/10/1931,cultivated with thistle bar attached,,,tillage process,,,,,,,,cultivate with thistle bar attached
 Broadbalk,1932,all plots,15/10/1931,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1932,all plots,25/02/1931,,harrowed,,,tillage process,,,,,,,,harrowed
-Broadbalk,1932,cropped sections,13/10/1931,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1932,cropped sections,13/10/1931,,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1932,cropped sections,09/08/1932,10/08/1932,harvested,,,harvesting process,,,,,,,,harvest
 Broadbalk,1932,cropped sections,16/08/1932,18/08/1932,carted,,,residue removal process,,,,,,,,carted
 Broadbalk,1933,all plots,19/08/1932,05/09/1932,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1933,all plots,15/09/1932,16/09/1932,cultivated,,,tillage process,,,,,,,,cultivated
 Broadbalk,1933,cropped sections,17/10/1932,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1933,cropped sections,08/05/1933,,harrowed,,,tillage process,,,,,,,,harrowed
-Broadbalk,1933,cropped sections,17/10/1932,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1933,cropped sections,17/10/1932,,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1933,cropped sections,10/10/1932,11/10/1932,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1933,cropped sections,29/03/1933,30/05/1933,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1933,cropped sections,22/05/1933,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
@@ -49,7 +50,7 @@ Broadbalk,1934,all plots,08/08/1933,12/08/1933,ploughed,,,tillage process,,,,,,,
 Broadbalk,1934,all plots,09/10/1933,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1934,cropped sections,12/10/1933,14/10/1933,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1934,cropped sections,05/04/1934,06/04/1934,harrowed,,,tillage process,,,,,,,,harrowed
-Broadbalk,1934,cropped sections,12/10/1933,13/10/1934,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1934,cropped sections,12/10/1933,13/10/1934,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1934,cropped sections,09/10/1933,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1934,cropped sections,12/10/1933,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1934,cropped sections,03/04/1934,,harrowed,,,tillage process,,,,,,,,harrowed
@@ -72,7 +73,7 @@ Broadbalk,1935,fallow sections,15/08/1934,21/08/1934,rolled,,,tillage process,,,
 Broadbalk,1935,all plots,20/09/1934,25/09/1934,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1935,all plots,15/08/1934,21/08/1934,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1935,cropped sections,20/10/1934,24/10/1934,harrowed,,,tillage process,,,,,,,,harrowed
-Broadbalk,1935,cropped sections,23/10/1934,24/10/1934,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1935,cropped sections,23/10/1934,24/10/1934,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1935,cropped sections,27/03/1935,28/03/1935,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1935,cropped sections,18/10/1934,19/10/1934,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1935,cropped sections,03/05/1935,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
@@ -103,7 +104,7 @@ Broadbalk,1936,cropped sections,28/10/1935,29/10/1935,manures applied,,,agronomi
 Broadbalk,1936,cropped sections,06/11/1935,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1936,cropped sections,15/04/1936,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1936,cropped sections,06/05/1936,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
-Broadbalk,1936,cropped sections,06/11/1935,27/11/1935,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1936,cropped sections,06/11/1935,27/11/1935,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1936,cropped sections,21/08/1936,22/08/1936,harvested,,,harvesting process,,,,,,,,harvested
 Broadbalk,1936,fallow sections,15/04/1936,,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1936,fallow sections,22/07/1936,,ploughed,,,tillage process,,,,,,,,ploughed
@@ -121,7 +122,7 @@ Broadbalk,1937,cropped sections,20/10/1936,21/10/1936,harrowed,,,tillage process
 Broadbalk,1937,cropped sections,06/10/1936,07/10/1936,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1937,cropped sections,01/05/1937,02/05/1937,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1937,cropped sections,10/05/1937,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
-Broadbalk,1937,cropped sections,20/10/1936,21/10/1936,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1937,cropped sections,20/10/1936,21/10/1936,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1937,cropped sections,09/08/1937,11/08/1937,harvested,,,harvesting process,,,,,,,,harvested
 Broadbalk,1937,fallow sections,17/10/1936,,tractor rolled and harrowed then springtine harrowed,,,tillage process,,,,,,,,tractor rolled and harrowed then spring-tine harrowed
 Broadbalk,1937,fallow sections,02/04/1937,27/04/1937,springtine harrowed,,,tillage process,,,,,,,,springtine harrowed
@@ -136,7 +137,7 @@ Broadbalk,1938,cropped sections,04/11/1937,06/11/1937,harrowed,,,tillage process
 Broadbalk,1938,cropped sections,15/03/1938,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1938,cropped sections,19/10/1937,,springtine harrowed,,,tillage process,,,,,,,,springtine harrowed
 Broadbalk,1938,all plots,19/10/1937,,rolled,,,tillage process,,,,,,,,rolled
-Broadbalk,1938,cropped sections,04/11/1937,06/11/1937,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1938,cropped sections,04/11/1937,06/11/1937,seed sown,,,seeding process,,,,,Red Standard,,,seed sown
 Broadbalk,1938,cropped sections,16/03/1938,,rolled,,,tillage process,,,,,,,,rolled
 Broadbalk,1938,cropped sections,12/10/1937,14/10/1937,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
 Broadbalk,1938,cropped sections,11/03/1938,,manures applied,,,agronomic fertilization process,,,,,,,,manures applied
@@ -156,7 +157,7 @@ Broadbalk,1948,cropped sections,13/10/1947,15/10/1947,Artificials applied,,,agro
 Broadbalk,1948,cropped sections,22/10/1947,,rolled,,,tillage process,,,,,,,,rolled
 Broadbalk,1948,cropped sections,22/10/1947,,springtine harrowed,,,tillage process,,,,,,,,springtine harrowed
 Broadbalk,1948,cropped sections,23/10/1947,,Tooth harrowed,,,tillage process,,,,,,,,Tooth harrowed
-Broadbalk,1948,cropped sections,24/10/1947,25/10/1947,seed drilled,,,seeding process,,,,,,,,seed drilled
+Broadbalk,1948,cropped sections,24/10/1947,25/10/1947,seed drilled,,,seeding process,,,,,Squarehead's Master 13/4,,,seed drilled
 Broadbalk,1948,cropped sections,25/10/1947,,harrowed in seed,,,tillage process,,,,,,,,Harrowed in
 Broadbalk,1948,cropped sections,12/04/1948,,harrowed,,,tillage process,,,,,,,,harrowed
 Broadbalk,1948,cropped sections,20/04/1948,,ring rolled,,,tillage process,,,,,,,,Ring rolled
@@ -180,7 +181,7 @@ Broadbalk,1949,cropped sections,02/09/1948,16/09/1948,ploughed,,,tillage process
 Broadbalk,1949,cropped sections,11/09/1948,12/09/1948,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1949,cropped sections,22/10/1948,,springtine harrowed,,,tillage process,,,,,,,,springtine harrowed
 Broadbalk,1949,cropped sections,11/11/1948,,harrowed,,,tillage process,,,,,,,,harrowed
-Broadbalk,1949,cropped sections,11/11/1948,13/11/1948,seed drilled,,,seeding process,,,,,,,,seed drilled
+Broadbalk,1949,cropped sections,11/11/1948,13/11/1948,seed drilled,,,seeding process,,,,,Squarehead's Master 13/4,,,seed drilled
 Broadbalk,1949,cropped sections,11/11/1948,15/11/1948,Artificials applied,,,agronomic fertilization process,,,,,,,,Artificials applied
 Broadbalk,1949,cropped sections,13/11/1948,15/11/1948,harrowed in seed,,,tillage process,,,,,,,,Harrowed in
 Broadbalk,1949,cropped sections,14/04/1949,,harrowed,,,tillage process,,,,,,,,harrowed
@@ -204,7 +205,7 @@ Broadbalk,1949,fallow sections,20/07/1949,,Ring rolled and Harrowed,,,tillage pr
 Broadbalk,1950,cropped sections,24/08/1949,29/08/1949,ploughed,except dung plots,,tillage process,,,,,,,,Ploughed all except dung plots
 Broadbalk,1950,cropped sections,05/09/1949,06/09/1949,Dung applied and ploughed in,,,tillage process,,,,,,,,Dung applied and ploughed in
 Broadbalk,1950,cropped sections,05/09/1949,08/09/1949,harrowed,,,tillage process,,,,,,,,"Harrowed, seed drilled and harrowed twice"
-Broadbalk,1950,cropped sections,05/09/1949,08/09/1949,seed drilled,,,seeding process,,,,,,,,
+Broadbalk,1950,cropped sections,05/09/1949,08/09/1949,seed drilled,,,seeding process,,,,,Squarehead's Master 13/4,,,
 Broadbalk,1950,cropped sections,05/09/1949,,harrowed twice,,,tillage process,,,,,,,,
 Broadbalk,1950,cropped sections,15/10/1949,01/11/1949,springtine harrowed,,,tillage process,,,,,,,,springtine harrowed
 Broadbalk,1950,cropped sections,03/11/1949,04/11/1949,Artificials applied,,,agronomic fertilization process,,,,,,,,Artificials applied
@@ -231,7 +232,7 @@ Broadbalk,1950,fallow sections,11/08/1950,,ring rolled,,,tillage process,,,,,,,,
 Broadbalk,1951,cropped sections,24/08/1950,,ploughed,except dung plots,,tillage process,,,,,,,,Ploughed all except dung plots
 Broadbalk,1951,cropped sections,08/09/1950,,Dung applied and ploughed in,,,tillage process,,,,,,,,Dung applied and ploughed in
 Broadbalk,1951,cropped sections,23/10/1950,,Autumn application of artificials,,,agronomic fertilization process,,,,,,,,Autumn application of artificials
-Broadbalk,1951,cropped sections,25/10/1950,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1951,cropped sections,25/10/1950,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1951,cropped sections,11/04/1951,,spring N applied,,,agronomic fertilization process,,,,,,,,Spring application of nitrogenous fertilisers
 Broadbalk,1951,cropped sections,08/05/1951,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1951,cropped sections,21/08/1951,,harvested,,,harvesting process,,,,,,,,harvested
@@ -241,7 +242,7 @@ Broadbalk,1951,fallow sections,09/07/1951,,ploughed,,,tillage process,,,,,,,,plo
 Broadbalk,1952,cropped sections,07/09/1951,,dung applied,,,agronomic fertilization process,,,,,,,,"Dung applied, ploughed all plots"
 Broadbalk,1952,cropped sections,07/09/1951,,ploughed,,,tillage process,,,,,,,,
 Broadbalk,1952,cropped sections,22/10/1951,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1952,cropped sections,05/11/1951,,seed drilled,,,seeding process,3.25,bushels/acre,,,,,,seed drilled at 3.25 bushels per acre
+Broadbalk,1952,cropped sections,05/11/1951,,seed drilled,,,seeding process,3.25,bushels/acre,,,Squarehead's Master 13/4,,,seed drilled at 3.25 bushels per acre
 Broadbalk,1952,cropped sections,21/04/1952,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1952,cropped sections,13/05/1952,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1952,cropped sections,22/08/1952,,harvested,,,harvesting process,,,,,,,,harvested
@@ -253,7 +254,7 @@ Broadbalk,1952,fallow sections,27/08/1952,,ploughed,,,tillage process,,,,,,,,plo
 Broadbalk,1953,cropped sections,03/09/1952,,dung applied,,,agronomic fertilization process,,,,,,,,"Dung applied, ploughed all plots"
 Broadbalk,1953,cropped sections,03/09/1952,,ploughed,,,tillage process,,,,,,,,
 Broadbalk,1953,cropped sections,11/11/1952,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1953,cropped sections,12/11/1952,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1953,cropped sections,12/11/1952,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1953,cropped sections,25/04/1953,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1953,cropped sections,13/05/1953,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1953,cropped sections,25/08/1953,,harvested,,,harvesting process,,,,,,,,harvested
@@ -264,7 +265,7 @@ Broadbalk,1953,fallow sections,10/06/1953,,ploughed,,,tillage process,,,,,,,,plo
 Broadbalk,1954,cropped sections,16/09/1953,,dung applied,,,agronomic fertilization process,,,,,,,,"Dung applied, ploughed all plots"
 Broadbalk,1954,cropped sections,16/09/1953,,ploughed,,,tillage process,,,,,,,,
 Broadbalk,1954,cropped sections,21/10/1953,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1954,cropped sections,23/10/1953,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1954,cropped sections,23/10/1953,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1954,cropped sections,22/04/1954,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1954,cropped sections,11/05/1954,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1954,cropped sections,30/08/1954,,harvested,,,harvesting process,,,,,,,,harvested
@@ -278,7 +279,7 @@ Broadbalk,1955,cropped sections,20/10/1954,, ground chalk applied ,"to ammonia s
 Broadbalk,1955,cropped sections,21/10/1954,,dung applied,,,agronomic fertilization process,,,,,,,,"Dung applied, ploughed all plots"
 Broadbalk,1955,cropped sections,21/10/1954,,ploughed,,,tillage process,,,,,,,,
 Broadbalk,1955,cropped sections,05/11/1954,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1955,cropped sections,06/12/1954,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1955,cropped sections,06/12/1954,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1955,cropped sections,16/05/1955,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1955,cropped sections,01/06/1955,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1955,cropped sections,19/08/1955,,harvested,,,harvesting process,,,,,,,,harvested
@@ -292,7 +293,7 @@ Broadbalk,1956,cropped sections,06/09/1955,, ground chalk applied ,,,liming proc
 Broadbalk,1956,cropped sections,06/09/1955,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1956,cropped sections,07/09/1955,14/09/1955,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1956,cropped sections,29/09/1955,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1956,cropped sections,02/11/1955,,seed drilled,,,seeding process,2.75,bushels/acre,,,,,,seed drilled at 2.75 bushels per acre
+Broadbalk,1956,cropped sections,02/11/1955,,seed drilled,,,seeding process,2.75,bushels/acre,,,Squarehead's Master 13/4,,,seed drilled at 2.75 bushels per acre
 Broadbalk,1956,cropped sections,02/05/1956,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1956,cropped sections,09/05/1956,10/05/1956,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1956,cropped sections,,,variety: Squareheads Master 13/4,,,variety,,,,,,,,variety: Squareheads Master 13/4
@@ -311,7 +312,7 @@ Broadbalk,1957,cropped sections,28/09/1956,08/10/1956,ploughed,,,tillage process
 Broadbalk,1957,cropped sections,29/09/1956,, ground chalk applied ,,,liming process,,,,,,,,Ground chalk applied
 Broadbalk,1957,cropped sections,04/10/1956,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1957,cropped sections,29/10/1956,06/11/1956,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1957,cropped sections,07/11/1956,12/11/1956,seed drilled,,,seeding process,2.75,bushels/acre,,,,,,seed drilled at 2.75 bushels per acre
+Broadbalk,1957,cropped sections,07/11/1956,12/11/1956,seed drilled,,,seeding process,2.75,bushels/acre,,,Squarehead's Master 13/4,,,seed drilled at 2.75 bushels per acre
 Broadbalk,1957,cropped sections,29/04/1957,30/04/1957,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1957,cropped sections,07/05/1957,,MCPA,sections 1A under continuous wheat,sprayed,chemical pest control process,3,pints/acre,80,gallons/acre,,,,sections 1A under continuous wheat sprayed with MCPA at 3 pints in 80 gallons per acre
 Broadbalk,1957,cropped sections,16/05/1957,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
@@ -342,7 +343,7 @@ Broadbalk,1958,fallow sections,03/09/1957,17/09/1957,ploughed,V,,tillage process
 Broadbalk,1958,fallow sections,07/05/1958,09/05/1958,ploughed,V,,tillage process,,,,,,,,(V) ploughed
 Broadbalk,1958,fallow sections,29/07/1958,31/07/1958,ploughed,V,,tillage process,,,,,,,,(V) ploughed
 Broadbalk,1958,fallow sections,,,"On a few plots, estimate was made of the chaff, cavings, dust, etc, not picked up by the baler",,,comment,,,,,,,,"On a few plots, estimate was made of the chaff, cavings, dust, etc, not picked up by the baler"
-Broadbalk,1958,winter wheat,20/11/1957,,seed drilled,,,seeding process,2.75,bushels/acre,,,,,,seed drilled at 2.75 bushels per acre
+Broadbalk,1958,winter wheat,20/11/1957,,seed drilled,,,seeding process,2.75,bushels/acre,,,Squarehead's Master 13/4,,,seed drilled at 2.75 bushels per acre
 Broadbalk Wilderness,1959,all plots,09/12/1958,,Shrubs grubbed out,,,shrub grubbing process,,,,,,,,Shrubs grubbed out
 Broadbalk Wilderness,1959,all plots,20/04/1959,,part mown,,,mowing process,,,,,,,,part mown
 Broadbalk Wilderness,1959,all plots,12/05/1959,,part mown,,,mowing process,,,,,,,,part mown
@@ -353,7 +354,7 @@ Broadbalk,1959,cropped sections,22/09/1958,, ground chalk applied ,,,liming proc
 Broadbalk,1959,cropped sections,20/10/1958,11/11/1958,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1959,cropped sections,10/11/1958,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1959,cropped sections,04/12/1958,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1959,cropped sections,08/12/1958,,seed drilled,,,seeding process,2.75,bushels/acre,,,,,,seed drilled at 2.75 bushels per acre
+Broadbalk,1959,cropped sections,08/12/1958,,seed drilled,,,seeding process,2.75,bushels/acre,,,Squarehead's Master 13/4,,,seed drilled at 2.75 bushels per acre
 Broadbalk,1959,cropped sections,05/01/1959,,"variety: Squareheads Master 13/4, Note: Owing to weather conditions plot 2 was sown on 05/01/1959",,,variety,,,,,,,,"variety: Squareheads Master 13/4, Note: Owing to weather conditions plot 2 was sown on 05/01/1959"
 Broadbalk,1959,cropped sections,27/04/1959,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1959,cropped sections,06/05/1959,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
@@ -377,7 +378,7 @@ Broadbalk,1960,cropped sections,08/09/1959,,2-4-D ester,sections IA,sprayed,chem
 Broadbalk,1960,cropped sections,21/09/1959,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1960,cropped sections,21/09/1959,28/09/1959,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1960,cropped sections,07/10/1959,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1960,cropped sections,19/10/1959,,seed drilled,,,seeding process,2.75,bushels/acre,,,,,,seed drilled at 2.75 bushels per acre
+Broadbalk,1960,cropped sections,19/10/1959,,seed drilled,,,seeding process,2.75,bushels/acre,,,Squarehead's Master 13/4,,,seed drilled at 2.75 bushels per acre
 Broadbalk,1960,cropped sections,04/04/1960,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1960,cropped sections,28/04/1960,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1960,cropped sections,28/04/1960,,CMPP,sections IA,sprayed,chemical pest control process,6,pints/acre,40,gallons/acre,,,,sections IA sprayed with CMPP at 6 pints in 40 gallons per acre
@@ -399,7 +400,7 @@ Broadbalk,1961,cropped sections,01/10/1960,, ground chalk applied ,,,liming proc
 Broadbalk,1961,cropped sections,04/10/1960,,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1961,cropped sections,10/10/1960,,Dung applied and ploughed in,,,tillage process,,,,,,,,"Dung applied, ploughed in"
 Broadbalk,1961,cropped sections,17/01/1961,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1961,cropped sections,18/01/1961,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1961,cropped sections,18/01/1961,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1961,cropped sections,17/04/1961,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1961,cropped sections,03/05/1961,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1961,cropped sections,05/05/1961,,MCPA/TBA,sections IA,sprayed,chemical pest control process,4,pints/acre,40,gallons/acre,,,,sections IA sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
@@ -421,7 +422,7 @@ Broadbalk,1962,cropped sections,07/09/1961,, ground chalk applied ,,,liming proc
 Broadbalk,1962,cropped sections,07/09/1961,,ploughed,,,tillage process,,,,,,,,
 Broadbalk,1962,cropped sections,15/09/1962,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1962,cropped sections,29/09/1961,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1962,cropped sections,01/11/1961,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1962,cropped sections,01/11/1961,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1962,cropped sections,17/04/1962,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1962,cropped sections,24/04/1962,,MCPA/TBA,sections IA,sprayed,chemical pest control process,4,pints/acre,40,gallons/acre,,,,sections IA sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
 Broadbalk,1962,cropped sections,04/05/1962,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
@@ -434,7 +435,7 @@ Broadbalk,1963,cropped sections,27/09/1962,, ground chalk applied ,,,liming proc
 Broadbalk,1963,cropped sections,27/09/1962,05/10/1962,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1963,cropped sections,04/10/1962,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1963,cropped sections,23/10/1962,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1963,cropped sections,30/11/1962,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1963,cropped sections,30/11/1962,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1963,cropped sections,24/04/1963,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1963,cropped sections,06/05/1963,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1963,cropped sections,16/05/1963,,mecoprop ; 2-4-D,sections IA and VB,sprayed,chemical pest control process,7,pints/acre,40,gallons/acre,,,,"sections IA and VB sprayed with mecoprop/2,4-D at 7 pints in 40 gallons per acre"
@@ -464,7 +465,7 @@ Broadbalk,1964,cropped sections,01/10/1963,,Normal annual dressing of ground cha
 Broadbalk,1964,cropped sections,02/10/1963,,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1964,cropped sections,11/10/1963,, ground chalk applied ,sections VA (remainder of 5 ton dressing),,liming process,,,,,,,,Ground chalk applied to sections VA (remainder of 5 ton dressing
 Broadbalk,1964,cropped sections,15/10/1963,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1964,cropped sections,30/11/1963,,seed drilled,,,seeding process,3,bushels/acre,,,,,,Seed drilled at 3 bushels per acre
+Broadbalk,1964,cropped sections,30/11/1963,,seed drilled,,,seeding process,3,bushels/acre,,,Squarehead's Master 13/4,,,Seed drilled at 3 bushels per acre
 Broadbalk,1964,cropped sections,13/04/1964,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1964,cropped sections,17/04/1964,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1964,cropped sections,07/05/1964,,dicamba ; MCPA as Banlene,all sections except VA,sprayed,chemical pest control process,4,pints/acre,40,gallons/acre,,,,all sections except VA sprayed with dicamba / MCPA ('Banlene' at 4 pints in 40 gals)
@@ -488,7 +489,7 @@ Broadbalk,1965,cropped sections,09/09/1964,, ground chalk applied ,,,liming proc
 Broadbalk,1965,cropped sections,09/10/1964,14/10/1964,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1965,cropped sections,13/10/1964,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1965,cropped sections,19/10/1964,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1965,cropped sections,26/10/1964,,seed drilled,,,seeding process,180,lb/acre,,,,,,seed drilled at 180 lb
+Broadbalk,1965,cropped sections,26/10/1964,,seed drilled,,,seeding process,180,lb/acre,,,Squarehead's Master 13/4,,,seed drilled at 180 lb
 Broadbalk,1965,cropped sections,26/04/1965,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1965,cropped sections,10/05/1965,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1965,cropped sections,11/05/1965,,MCPA,(except Section 5A),sprayed,chemical pest control process,1.13,lb/acre,34,gallons/acre,,,,"sprayed (except Section 5A) with MCPA at 1.13 1b, dicamba at 0.08 lb in 34 gals"
@@ -517,7 +518,7 @@ Broadbalk,1966,cropped sections,07/10/1965,, ground chalk applied ,,,liming proc
 Broadbalk,1966,cropped sections,28/10/1965,,dung applied,,,agronomic fertilization process,,,,,,,,dung applied
 Broadbalk,1966,cropped sections,29/10/1965,01/11/1965,ploughed,,,tillage process,,,,,,,,ploughed
 Broadbalk,1966,cropped sections,15/11/1965,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
-Broadbalk,1966,cropped sections,07/01/1966,,seed drilled,,,seeding process,187,lb/acre,,,,,,seed drilled at 187 lb
+Broadbalk,1966,cropped sections,07/01/1966,,seed drilled,,,seeding process,187,lb/acre,,,Squarehead's Master 13/4,,,seed drilled at 187 lb
 Broadbalk,1966,cropped sections,02/05/1966,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1966,cropped sections,16/05/1966,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1966,cropped sections,16/05/1966,,Ioxynil ; mecoprop as Actril C,excluding VA,sprayed,chemical pest control process,6,pints/acre,,,,,,"sprayed with Ioxynil/mecoprop (Actril C at 6 pints in ho gals), all sections except VA"
@@ -547,7 +548,7 @@ Broadbalk,1967,cropped sections,12/10/1966,,ploughed,,,tillage process,,,,,,,,pl
 Broadbalk,1967,cropped sections,14/10/1966,,Dung applied and ploughed in,,,tillage process,,,,,,,,"Dung applied, ploughed in"
 Broadbalk,1967,cropped sections,02/11/1966,,autumn fertilizers applied,,,agronomic fertilization process,,,,,,,,autumn fertilizers applied
 Broadbalk,1967,cropped sections,03/11/1966,,rotary cultivated,,,tillage process,,,,,,,,"rotary cultivated, seed drilled at 185 lb"
-Broadbalk,1967,cropped sections,03/11/1966,,seed drilled,,,seeding process,185,lb/acre,,,,,,
+Broadbalk,1967,cropped sections,03/11/1966,,seed drilled,,,seeding process,185,lb/acre,,,Squarehead's Master 13/4,,,
 Broadbalk,1967,cropped sections,19/04/1967,,spring fertilizers applied,,,agronomic fertilization process,,,,,,,,spring fertilizers applied
 Broadbalk,1967,cropped sections,27/04/1967,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,,,,,,,,Second dressing of nitrate of soda applied to plot 16
 Broadbalk,1967,cropped sections,01/05/1967,,Ioxynil ; mecoprop as Actril C,all sections except Va,sprayed,chemical pest control process,6,pints/acre,20,gallons/acre,,,,all sections except Va sprayed with ioxynil/mecoprop (Actril C at 6 pints in 20 gals)
@@ -591,7 +592,7 @@ Broadbalk Wilderness,1968,grazed meadow,24/08/1968,,grass topped,,,mowing proces
 Broadbalk Wilderness,1968,grazed meadow,18/09/1968,24/09/1968,Grazed by sheep,,,regulation of grazing,,,,,,,,Grazed by sheep
 Broadbalk Wilderness,1968,grazed meadow,10/10/1968,16/10/1968,Grazed by sheep,,,regulation of grazing,,,,,,,,Grazed by sheep
 Broadbalk Wilderness,1968,grazed meadow,18/10/1968,,grass topped,,,mowing process,,,,,,,,grass topped
-Broadbalk,1968,potatoes,29/04/1968,,machine planted,,,plant transplanting process,,,,,,,,machine planted
+Broadbalk,1968,potatoes,29/04/1968,,machine planted,,,plant transplanting process,,,,,Majestic,Irish A chitted,,machine planted
 Broadbalk,1968,potatoes,20/05/1968,,grubbed,,,harvesting process,,,,,,,,grubbed
 Broadbalk,1968,potatoes,28/05/1968,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1968,potatoes,19/06/1968,,"Grubbed, then rotary ridged",,,tillage process,,,,,,,,"Grubbed, then rotary ridged"
@@ -606,11 +607,11 @@ Broadbalk,1968,section 00,21/09/1967,,rotary cultivated,,,tillage process,,,,,,,
 Broadbalk,1968,section 00,27/09/1967,,Methyl bromide,,,chemical pest control process,,,,,,,,Methyl bromide
 Broadbalk,1968,section 00,25/08/1968,,combine harvested,section 00,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1968,spring beans,06/09/1968,,combine harvested,,,harvesting process,,,,,,,,combine harvested
-Broadbalk,1968,spring beans,04/03/1968,,seed drilled,,,seeding process,200,lb/acre,,,,,,seed drilled at 200 lb
+Broadbalk,1968,spring beans,04/03/1968,,seed drilled,,,seeding process,200,lb/acre,,,Maris Bead,,,seed drilled at 200 lb
 Broadbalk,1968,spring beans,05/03/1968,,simazine,,sprayed,chemical pest control process,1,lb/acre,33,gallons/acre,,,,sprayed with simazine at 1 lb in 33 gals
 Broadbalk,1968,spring beans,26/03/1968,,Nitro-chalk applied,,,agronomic fertilization process,,,,,,,,Nitro-chalk applied
 Broadbalk,1968,spring beans,22/06/1968,,phorate,,granules,chemical pest control process,1.04,lb/acre,,,,,,1.04 lb phorate  in granules
-Broadbalk,1968,winter wheat,07/12/1967,,seed drilled,,,seeding process,180,lb/acre,,,,,,seed drilled at 180 lb
+Broadbalk,1968,winter wheat,07/12/1967,,seed drilled,,,seeding process,180,lb/acre,,,Capelle Desprez,,,seed drilled at 180 lb
 Broadbalk,1968,winter wheat,10/04/1968,,Nitro-chalk applied (plot 20 omitted in error),,,liming process,,,,,,,,'Nitrochalk' applied (plot 20 omitted in error)
 Broadbalk,1968,winter wheat,04/05/1968,,Ioxynil,"all sections except 8, 9",sprayed,chemical pest control process,9,oz/acre,20,gallons/acre,,,,"all sections except 8, 9 sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals"
 Broadbalk,1968,winter wheat,04/05/1968,,mecoprop,"all sections except 8, 9",sprayed,chemical pest control process,27,oz/acre,20,gallons/acre,,,,
@@ -629,7 +630,7 @@ Broadbalk Wilderness,1969,grazed meadow,27/10/1969,31/10/1969,Grazed by sheep,,,
 Broadbalk Wilderness,1969,grazed meadow,31/09/1968,,Grazed by sheep,,,regulation of grazing,,,,,,,,Grazed by sheep
 Broadbalk,1969,potatoes,05/09/1968,,Paraquat,,,chemical pest control process,0.375,lb/acre ion,37,gallons/acre,,,,Paraquat
 Broadbalk,1969,potatoes,09/04/1969,,Nitro-chalk applied,,,agronomic fertilization process,,,,,,,,Nitro-chalk applied
-Broadbalk,1969,potatoes,10/04/1969,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1969,potatoes,10/04/1969,,machine planted,,,plant transplanting process,,,,,King Edward,once grown chitted from Rothamsted farm. Paracrinkle virus free,,potatoes machine planted
 Broadbalk,1969,potatoes,12/05/1969,,Linuron,,,chemical pest control process,0.75,lb/acre ion,37,gallons/acre,,,,Linuron
 Broadbalk,1969,potatoes,12/05/1969,,Paraquat,,,chemical pest control process,0.375,lb/acre ion,37,gallons/acre,,,,Paraquat
 Broadbalk,1969,potatoes,18/06/1969,,grubbed,,,harvesting process,,,,,,,,grubbed
@@ -641,7 +642,7 @@ Broadbalk,1969,potatoes,22/08/1969,,Mancozeb,,,chemical pest control process,1.2
 Broadbalk,1969,potatoes,20/09/1969,,"Haulm destroyed mechanically (except treatments N2, NOP, NOPNa, R, where Haulm disced early)",,,haulm destruction process,,,,,,,,"Haulm destroyed mechanically (except treatments N2, NOP, NOPNa, R, where Haulm disced early)"
 Broadbalk,1969,potatoes,25/09/1969,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1969,spring beans,10/09/1969,,combine harvested,,,harvesting process,,,,,,,,combine harvested
-Broadbalk,1969,spring beans,24/03/1969,,seed drilled,,,seeding process,200,lb/acre,,,,,,seed drilled at 200 lb
+Broadbalk,1969,spring beans,24/03/1969,,seed drilled,,,seeding process,200,lb/acre,,,Maris Bead,,,seed drilled at 200 lb
 Broadbalk,1969,spring beans,09/04/1969,,Nitro-chalk applied,,,agronomic fertilization process,,,,,,,,Nitro-chalk applied
 Broadbalk,1969,spring beans,19/06/1969,,demeton-s-methyl,,,chemical pest control process,3.5,oz/acre,37,gallons/acre,,,,demeton-s-methyl at 3.5 oz in 37 gals
 Broadbalk Wilderness,1969,ungrazed meadow,23/01/1968,,topped with rotary grass cutter,,,mowing process,,,,,,,,topped with rotary grass cutter
@@ -651,7 +652,7 @@ Broadbalk,1969,all sections,04/10/1968,,FYM applied,,,agronomic fertilization pr
 Broadbalk,1969,all sections,04/10/1968,,FYM applied,,,agronomic fertilization process,,,,,,,,FYM applied
 Broadbalk,1969,fallow sections,05/09/1968,,weedkiller,,,chemical pest control process,,,,,,,,weedkiller
 Broadbalk,1969,fallow sections,13/05/1969,,ploughed second time,,,tillage process,,,,,,,,ploughed second time
-Broadbalk,1969,fallow sections,08/07/1969,,ploughed third time,,,tillage process,,,,,,,,Ploughed third+Ã¢Ã�?Ã‡Ãœ+Ã©-Ã¡time
+Broadbalk,1969,fallow sections,08/07/1969,,ploughed third time,,,tillage process,,,,,,,,Ploughed third+ÃƒÂ¢Ãƒâ€?Ãƒâ€¡ÃƒÅ“+ÃƒÂ©-ÃƒÂ¡time
 Broadbalk Wilderness,1969,grazed meadow,17/04/1969,25/04/1969,Grazed by sheep,,,regulation of grazing,,,,,,,,Grazed by sheep
 Broadbalk Wilderness,1969,grazed meadow,25/04/1969,,grass topped,,,mowing process,,,,,,,,grass topped
 Broadbalk Wilderness,1969,grazed meadow,13/05/1969,20/05/1969,Grazed by sheep,,,regulation of grazing,,,,,,,,Grazed by sheep
@@ -660,7 +661,7 @@ Broadbalk Wilderness,1969,grazed meadow,05/06/1969,10/06/1969,Grazed by sheep,,,
 Broadbalk Wilderness,1969,grazed meadow,09/06/1969,,grass topped,,,mowing process,,,,,,,,grass topped
 Broadbalk Wilderness,1969,grazed meadow,27/06/1969,,Grazed by sheep,,,regulation of grazing,,,,,,,,Grazed by sheep
 Broadbalk,1969,winter wheat,05/09/1968,10/09/1968,Paraquat,except 6 (following fallow) and 8 (no weedkiller).,,chemical pest control process,0.75,lb/acre ion,20,gallons/acre,,,,Paraquat
-Broadbalk,1969,winter wheat,17/10/1968,,seed drilled,,,seeding process,180,lb/acre,,,,,,seed drilled at 180 lb
+Broadbalk,1969,winter wheat,17/10/1968,,seed drilled,,,seeding process,180,lb/acre,,,Capelle Desprez,,,seed drilled at 180 lb
 Broadbalk,1969,winter wheat,18/10/1968,,Terbutryne ; related triazines as Prebane,except 8,,chemical pest control process,4,lb/acre,25,gallons/acre,,,,"Terbutryne and related triazines, as Prebane' at 4 1b in 25 gals"
 Broadbalk,1969,winter wheat,17/04/1969,,Nitro-chalk applied,,,agronomic fertilization process,,,,,,,,Nitro-chalk applied
 Broadbalk,1969,winter wheat,01/05/1969,,MCPA ; mecoprop ; dicamba,,,chemical pest control process,,,,,,,,"MCPA, mecoprop, dicamba"
@@ -688,7 +689,7 @@ Broadbalk Wilderness,1970,grazed meadow,19/10/1970,,Grazed by sheep,,,regulation
 Broadbalk,1970,potatoes,12/09/1969,,rotary cultivated,,,tillage process,,,,,,,,rotary cultivated
 Broadbalk,1970,potatoes,17/04/1970,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1970,potatoes,30/04/1970,,rotary cultivated,,,tillage process,,,,,,,,Plots rotary cultivated
-Broadbalk,1970,potatoes,30/04/1970,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1970,potatoes,30/04/1970,,machine planted,,,plant transplanting process,,,,,King Edward,,,potatoes machine planted
 Broadbalk,1970,potatoes,20/05/1970,,Paraquat,,,chemical pest control process,0.375,lb/acre ion,20,gallons/acre,,,,Paraquat
 Broadbalk,1970,potatoes,30/06/1970,,"grubbed, rotary ridged","except 1, 21, 22, 7, 8, 9, 13, 15",,tillage process,,,,,,,,"all plots except 1, 21, 22, 7, 8, 9, 13, 15 grubbed, rotary ridged"
 Broadbalk,1970,potatoes,29/07/1970,,Mancozeb,,,chemical pest control process,1.2,lb/acre,40,gallons/acre,,,,mancozeb at 1.2 1b in 40 gals
@@ -697,14 +698,14 @@ Broadbalk,1970,potatoes,14/08/1970,,Mancozeb,,,chemical pest control process,1.2
 Broadbalk,1970,potatoes,03/09/1970,,undiluted BOV,,sprayed,chemical pest control process,150,gallons/acre,,,,,,sprayed with undiluted BOV at 150 gals
 Broadbalk,1970,potatoes,15/09/1970,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1970,spring beans,02/09/1969,,combine harvested,,,harvesting process,,,,,,,,combine harvested
-Broadbalk,1970,spring beans,21/03/1970,,seed drilled,,,seeding process,200,lb/acre,,,,,,seed drilled at 200 lb
+Broadbalk,1970,spring beans,21/03/1970,,seed drilled,,,seeding process,200,lb/acre,,,Maris Bead,,,seed drilled at 200 lb
 Broadbalk,1970,spring beans,17/04/1970,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1970,spring beans,19/06/1970,,demeton-s-methyl,,,chemical pest control process,3.5,oz/acre,40,gallons/acre,,,,"demeton-s-methyl at 3.5 oz in 4O gals,"
 Broadbalk Wilderness,1970,ungrazed meadow,27/10/1969,,topped with rotary grass cutter,,,mowing process,,,,,,,,topped with rotary grass cutter
 Broadbalk,1970,winter wheat,12/09/1969,,rotary cultivated,,,tillage process,,,,,,,,rotary cultivated
 Broadbalk,1970,winter wheat,13/10/1969,,"all plots rotary cultivated second time. Plots 15, 16, 17, 18 & 19, Sections 0 and 1 rotary cultivated third time",,,tillage process,,,,,,,,"all plots rotary cultivated second time, plots 15, 16, 17, 18 & 19. Sections 0 and 1 rotary cultivated third time"
-Broadbalk,1970,winter wheat,15/10/1969,,seed drilled,,,seeding process,180,lb/acre,,,,,,seed drilled at 180 lb
-Broadbalk,1970,winter wheat,17/10/1969,,Terbutryne ; related triazines as Prebane,except 8 (no weedkiller).,,chemical pest control process,4,lb/acre,40,gallons/acre,,,,Terbutryne and related triazines as Prebane at 4 lb ÃƒÂ­n 20 gals
+Broadbalk,1970,winter wheat,15/10/1969,,seed drilled,,,seeding process,180,lb/acre,,,Cappelle Desprez,,,seed drilled at 180 lb
+Broadbalk,1970,winter wheat,17/10/1969,,Terbutryne ; related triazines as Prebane,except 8 (no weedkiller).,,chemical pest control process,4,lb/acre,40,gallons/acre,,,,Terbutryne and related triazines as Prebane at 4 lb ÃƒÆ’Ã‚Â­n 20 gals
 Broadbalk,1970,winter wheat,30/04/1970,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1970,winter wheat,06/05/1970,,Dicamba ; mecoprop ; MCPA as Banlene Plus,except 8,,chemical pest control process,4,pints/acre,20,gallons/acre,,,,"MCPA, mecoprop and Dicamba as 'Banlene Plus' at 4 pints in 20 gals"
 Broadbalk,1970,winter wheat,27/08/1970,,combine harvested,,,harvesting process,,,,,,,,combine harvested
@@ -723,7 +724,7 @@ Broadbalk Wilderness,1971,grazed meadow,22/09/1971,,grass topped,,,mowing proces
 Broadbalk,1971,potatoes,04/02/1971,,Paraquat,,,chemical pest control process,0.42 kg ion,kg/ha,427,l/ha,,,,Paraquat
 Broadbalk,1971,potatoes,02/04/1971,,N applied,,,agronomic fertilization process,,,,,,,,"WN applied, plots rotary cultivated"
 Broadbalk,1971,potatoes,02/04/1971,,rotary cultivated,,,tillage process,,,,,,,,
-Broadbalk,1971,potatoes,03/04/1971,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1971,potatoes,03/04/1971,,machine planted,,,plant transplanting process,,,,,King Edward,,,potatoes machine planted
 Broadbalk,1971,potatoes,08/05/1971,,Linuron,,,chemical pest control process,0.84 kg,kg/ha,427,l/ha,,,,Linuron
 Broadbalk,1971,potatoes,08/05/1971,,Paraquat,,,chemical pest control process,0.42 kg ion,kg/ha,427,l/ha,,,,Paraquat
 Broadbalk,1971,potatoes,03/06/1971,,grubbed,"Plots 01, 21, 22",,harvesting process,,,,,,,,"Plots 0l, 21, 22 grubbed"
@@ -737,11 +738,11 @@ Broadbalk,1971,potatoes,26/09/1971,08/09/1971,Haulm mechanically destroyed,,,hau
 Broadbalk,1971,spring beans,02/09/1970,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1971,spring beans,04/02/1971,,Paraquat,,,chemical pest control process,"0,56 kg ion",kg/ha,225,l/ha,,,,Paraquat
 Broadbalk,1971,spring beans,24/02/1971,,N applied,,,agronomic fertilization process,,,,,,,,N applied
-Broadbalk,1971,spring beans,25/02/1971,,seed drilled,,,seeding process,224,kg/ha,,,,,,seed drilled at 224 kg
+Broadbalk,1971,spring beans,25/02/1971,,seed drilled,,,seeding process,220,kg/ha,,,Maris Bead,,,seed drilled at 224 kg
 Broadbalk,1971,spring beans,01/07/1971,,demeton-s-methyl,,,chemical pest control process,245,g/ha,438,l/ha,,,,"demeton-s-methyl at 245 g in 438 1,"
 Broadbalk Wilderness,1971,ungrazed meadow,23/10/1970,,topped with rotary grass cutter,,,mowing process,,,,,,,,topped with rotary grass cutter
 Broadbalk,1971,winter wheat,11/09/1970,,Paraquat,sections 0 only,,chemical pest control process,0.84 kg ion,kg/ha,225,l/ha,,,,Paraquat
-Broadbalk,1971,winter wheat,09/10/1970,,seed drilled,,,seeding process,202,kg/ha,,,,,,seed drilled at 202 kg
+Broadbalk,1971,winter wheat,09/10/1970,,seed drilled,,,seeding process,220,kg/ha,,,Cappelle Desprez,,,seed drilled at 202 kg
 Broadbalk,1971,winter wheat,10/10/1970,,Terbutryne ; related triazines as Prebane,,,chemical pest control process,4.48,kg/ha,225,l/ha,,,,Terbutryne and related triazines as Prebane at 4.48 kg in 225 l
 Broadbalk,1971,winter wheat,08/04/1971,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1971,winter wheat,15/04/1971,,Dicamba ; mecoprop ; MCPA as Banlene Plus,except 8,,chemical pest control process,5.6,l/ha,220,l/ha,,,,"MCPA, mecoprop and Dicamba as 'Banlene Plus' at 5.6 l in 220 l"
@@ -773,7 +774,7 @@ Broadbalk,1972,potatoes,10/09/1971,,ammonium thiocyanate,,,chemical pest control
 Broadbalk,1972,potatoes,16/09/1971,,undiluted BOV,,sprayed,chemical pest control process,150,l/ha,,,,,,sprayed with undiluted BOV at 150 l
 Broadbalk,1972,potatoes,18/04/1972,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1972,potatoes,19/04/1972,,rotary cultivated,,,tillage process,,,,,,,,Plots rotary cultivated
-Broadbalk,1972,potatoes,19/04/1972,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1972,potatoes,19/04/1972,,machine planted,,,plant transplanting process,,,,,King Edward,,,potatoes machine planted
 Broadbalk,1972,potatoes,17/05/1972,,Linuron,(except sections 8),sprayed,chemical pest control process,0.84,kg/ha,440,l/ha,,,,"sprayed with linuron, paraquat"
 Broadbalk,1972,potatoes,17/05/1972,,Paraquat,(except sections 8),sprayed,chemical pest control process,0.42,kg/ha,440,l/ha,,,,
 Broadbalk,1972,potatoes,14/06/1972,,grubbed,,,harvesting process,,,,,,,,grubbed
@@ -785,14 +786,14 @@ Broadbalk,1972,potatoes,10/08/1972,,Mancozeb,,,chemical pest control process,1.4
 Broadbalk,1972,potatoes,28/09/1972,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1972,spring beans,27/09/1971,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1972,spring beans,16/03/1972,,N applied,,,agronomic fertilization process,,,,,,,,N applied
-Broadbalk,1972,spring beans,16/03/1972,,seed drilled,,,seeding process,,,,,,,,seed drilled
+Broadbalk,1972,spring beans,16/03/1972,,seed drilled,,,seeding process,220,kg/ha,,,Maris Bead,,,seed drilled
 Broadbalk,1972,spring beans,17/06/1972,,phorate,,granules,chemical pest control process,1.1,kg/ha,,,,,,"phorate at 1.1 kg applied as granules,"
 Broadbalk,1972,spring beans,05/08/1972,,demeton-s-methyl,,,chemical pest control process,245,g/ha,438,l/ha,,,,"demeton-s-methyl at 245 g in 438 1,"
 Broadbalk Wilderness,1972,ungrazed meadow,17/11/1971,,topped with rotary grass cutter,,,mowing process,,,,,,,,topped with rotary grass cutter
 Broadbalk,1972,winter wheat,01/09/1972,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1972,winter wheat,10/09/1971,,aminotriazole,not applied to sections 6,,chemical pest control process,l.5,kg/ha,220,l/ha,,,,aminotriazole at l.5 kg plus ammonium thiocyanate at 4.2 kg in 220 l
 Broadbalk,1972,winter wheat,10/09/1971,,ammonium thiocyanate,not applied to sections 6,,chemical pest control process,4.2,kg/ha,,,,,,
-Broadbalk,1972,winter wheat,22/10/1971,,seed drilled,,,seeding process,,,,,,,,seed drilled
+Broadbalk,1972,winter wheat,22/10/1971,,seed drilled,,,seeding process,200,kg/ha,,,Cappelle Desprez,dieldrin,,seed drilled
 Broadbalk,1972,winter wheat,25/10/1971,,Terbutryne ; related triazines as Prebane,,,chemical pest control process,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
 Broadbalk,1972,winter wheat,18/04/1972,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1972,winter wheat,27/04/1972,,Dicamba ; mecoprop ; MCPA as Banlene Plus,except 8,,chemical pest control process,5.6,l/ha,220,l/ha,,,,"MCPA, mecoprop and Dicamba as 'Banlene Plus' at 5.6 l in 220 l"
@@ -802,7 +803,7 @@ Broadbalk,1973,all sections,11/10/1972,,FYM applied,,,agronomic fertilization pr
 Broadbalk,1973,fallow sections,16/05/1973,,ploughed second time,,,tillage process,,,,,,,,ploughed second time
 Broadbalk,1973,fallow sections,09/07/1973,,ploughed third time,,,tillage process,,,,,,,,ploughed third time
 Broadbalk,1973,potatoes,06/04/1973,,N applied,,,agronomic fertilization process,,,,,,,,N applied
-Broadbalk,1973,potatoes,06/04/1973,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1973,potatoes,06/04/1973,,machine planted,,,plant transplanting process,,,,,King Edward,,,potatoes machine planted
 Broadbalk,1973,potatoes,11/05/1973,,Linuron,,,chemical pest control process,"3,8 kg",kg/ha,450,l/ha,,,,Linuron
 Broadbalk,1973,potatoes,11/05/1973,,Paraquat,,,chemical pest control process,0.42 kg ion,kg/ha,450,l/ha,,,,Paraquat
 Broadbalk,1973,potatoes,02/07/1973,,Mancozeb,,,chemical pest control process,1.35,kg/ha,370,l/ha,,,,mancozeb at 1.35 kg in 370 l
@@ -814,11 +815,11 @@ Broadbalk,1973,potatoes,31/08/1973,,undiluted BOV,,sprayed,chemical pest control
 Broadbalk,1973,potatoes,31/08/1973,,Haulm mechanically destroyed,,,haulm destruction process,,,,,,,,Haulm mechanically destroyed
 Broadbalk,1973,potatoes,31/08/1973,,undiluted BOV,,sprayed,chemical pest control process,220,l/ha,,,,,,sprayed with undiluted BOV at 220 l
 Broadbalk,1973,potatoes,25/09/1973,,lifted,,,harvesting process,,,,,,,,lifted
-Broadbalk,1973,spring beans,09/03/1973,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1973,spring beans,09/03/1973,,seed sown,,,seeding process,220,kg/ha,,,Maris Bead,,,seed sown
 Broadbalk,1973,spring beans,21/03/1973,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1973,spring beans,08/06/1973,,demeton-s-methyl,,,chemical pest control process,0.25,kg/ha,370,l/ha,,,,demeton-s-methyl at 0.25 kg in 370 1.
 Broadbalk,1973,spring beans,03/09/1973,,combine harvested,,,harvesting process,,,,,,,,combine harvested
-Broadbalk,1973,winter wheat,17/10/1972,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1973,winter wheat,17/10/1972,,seed sown,,,seeding process,200,kg/ha,,,Cappelle Desprez,dieldrin,,seed sown
 Broadbalk,1973,winter wheat,20/10/1972,,Terbutryne ; related triazines as Prebane,,,chemical pest control process,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
 Broadbalk,1973,winter wheat,13/04/1973,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1973,winter wheat,26/04/1973,,Dicamba; mecoprop ; MCPA Tetralex Plus,,,chemical pest control process,9.1,l/ha,290,l/ha,,,,"Dicamba, mecoprop and MCPA Tetralex Plus' at 9.1 1 in 290 1)."
@@ -835,7 +836,7 @@ Broadbalk,1974,fallow sections,08/08/1974,,springtine cultivated,,,tillage proce
 Broadbalk,1974,potatoes,11/04/1974,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1974,potatoes,16/04/1974,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1974,potatoes,17/04/1974,,rotary cultivated,,,tillage process,,,,,,,,rotary cultivated
-Broadbalk,1974,potatoes,17/04/1974,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1974,potatoes,17/04/1974,,machine planted,,,plant transplanting process,,,,,King Edward,,,potatoes machine planted
 Broadbalk,1974,potatoes,17/05/1974,,Linuron,,,chemical pest control process,1.2 kg,kg/ha,450,l/ha,,,,Linuron
 Broadbalk,1974,potatoes,17/05/1974,,Paraquat,,,chemical pest control process,0.42,kg/ha,450,l/ha,,,,Paraquat
 Broadbalk,1974,potatoes,19/06/1974,,grubbed,,,harvesting process,,,,,,,,grubbed
@@ -853,13 +854,13 @@ Broadbalk,1974,spring beans,27/09/1973,,springtine cultivated,,,tillage process,
 Broadbalk,1974,spring beans,08/03/1974,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1974,spring beans,09/03/1974,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1974,spring beans,27/03/1974,,power harrowed,,,tillage process,,,,,,,,"Power harrowed, seed sown and spring-tine cultivated"
-Broadbalk,1974,spring beans,27/03/1974,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1974,spring beans,27/03/1974,,seed sown,,,seeding process,220,kg/ha,,,Maris Bead,,,
 Broadbalk,1974,spring beans,27/03/1974,,springtine cultivated,,,tillage process,,,,,,,,
 Broadbalk,1974,spring beans,13/06/1974,,demeton-s-methyl,,,chemical pest control process,0.25,kg/ha,450,l/ha,,,,demeton-s-methyl at 0.25 kg in 450 l
 Broadbalk,1974,winter wheat,12/09/1973,,aminotriazole plus ammonium thiocyanate as Weedazol,sections 0 and 9,,chemical pest control process,22.5,l/ha,220,l/ha,,,,aminotriazole plus ammonium thiocyanate as Weedazol at 22.5 1 in 220 1.
 Broadbalk,1974,winter wheat,13/10/1973,,disced,,,tillage process,,,,,,,,disced
 Broadbalk,1974,winter wheat,18/10/1973,,power harrowed,,,tillage process,,,,,,,,"Power harrowed, seed sown"
-Broadbalk,1974,winter wheat,18/10/1973,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1974,winter wheat,18/10/1973,,seed sown,,,seeding process,200,kg/ha,,,Cappelle Desprez,dieldrin,,
 Broadbalk,1974,winter wheat,22/10/1973,,Terbutryne ; related triazines as Prebane,"sections 0,1, 3, 4, 5 and 9",,chemical pest control process,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
 Broadbalk,1974,winter wheat,11/04/1974,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1974,winter wheat,18/04/1974,,Dicamba ; mecoprop ; MCPA as Banlene Plus,,,chemical pest control process,5.6,l/ha,220,l/ha,,,,Dicamba with mecoprop and MCPA as 'Banlene Plus' at 5.6 l in 220 l
@@ -877,7 +878,7 @@ Broadbalk,1975,potatoes,06/11/1974,,rotary harrowed,,,tillage process,,,,,,,,rot
 Broadbalk,1975,potatoes,01/05/1975,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1975,potatoes,05/05/1975,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1975,potatoes,07/05/1975,,Spike rotary cultivated,,,tillage process,,,,,,,,Spike rotary cultivated
-Broadbalk,1975,potatoes,07/05/1975,,planted,,,plant transplanting process,,,,,,,,planted
+Broadbalk,1975,potatoes,07/05/1975,,planted,,,plant transplanting process,,,,,King Edward,,,planted
 Broadbalk,1975,potatoes,12/05/1975,,grubbed,,,harvesting process,,,,,,,,grubbed
 Broadbalk,1975,potatoes,04/06/1975,,Linuron,,,chemical pest control process,1.1 kg,kg/ha,450,l/ha,,,,Linuron
 Broadbalk,1975,potatoes,04/06/1975,,Paraquat,,,chemical pest control process,0.42 kg ion,kg/ha,450,l/ha,,,,Paraquat
@@ -891,14 +892,14 @@ Broadbalk,1975,potatoes,19/09/1975,,Haulm mechanically destroyed on remaining pl
 Broadbalk,1975,potatoes,19/09/1975,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1975,spring beans,04/03/1975,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1975,spring beans,25/03/1975,,rotary cultivated,,,tillage process,,,,,,,,"rotary cultivated, seed sown and spring-tine cultivated"
-Broadbalk,1975,spring beans,25/03/1975,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1975,spring beans,25/03/1975,,seed sown,,,seeding process,220,kg/ha,,,Minor,,,
 Broadbalk,1975,spring beans,25/03/1975,,springtine cultivated,,,tillage process,,,,,,,,
 Broadbalk,1975,spring beans,21/05/1975,,Tractor hoed twice,,,mechanical pest destruction process,,,,,,,,Tractor hoed twice
 Broadbalk,1975,spring beans,24/06/1975,,Tractor hoed once,,,mechanical pest destruction process,,,,,,,,Tractor hoed once
 Broadbalk,1975,spring beans,09/07/1975,,demeton-s-methyl,,,chemical pest control process,0.25,kg/ha,450,l/ha,,,,demeton-s-methyl at 0.25 kg in 450 l
 Broadbalk,1975,spring beans,29/08/1975,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1975,winter wheat,06/11/1974,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1975,winter wheat,07/11/1974,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1975,winter wheat,07/11/1974,,seed sown,,,seeding process,200,kg/ha,,,Cappelle Desprez,dieldrin,,seed sown
 Broadbalk,1975,winter wheat,22/04/1975,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1975,winter wheat,09/05/1975,,Ioxynil with mecoprop as Actril C,"except sections 8,",sprayed,chemical pest control process,7.7,l/ha,220,l/ha,,,,ioxynil with mecoprop 'Actril C' at 7.7 1 in 220 1)
 Broadbalk,1975,winter wheat,09/05/1975,,mecoprop Actril C,"except sections 8,",sprayed,chemical pest control process,7.7,l/ha,220,l/ha,,,,
@@ -919,7 +920,7 @@ Broadbalk,1976,potatoes,09/12/1975,,Deep-tine cultivated,,,tillage process,,,,,,
 Broadbalk,1976,potatoes,22/03/1976,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1976,potatoes,25/03/1976,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1976,potatoes,29/03/1976,,rotary cultivated,,,tillage process,,,,,,,,rotary cultivated
-Broadbalk,1976,potatoes,29/03/1976,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1976,potatoes,29/03/1976,,machine planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes machine planted
 Broadbalk,1976,potatoes,30/03/1976,,grubbed,,,harvesting process,,,,,,,,grubbed
 Broadbalk,1976,potatoes,05/05/1976,,Linuron,,,chemical pest control process,1.2 kg,kg/ha,220,l/ha,,,,Linuron
 Broadbalk,1976,potatoes,17/06/1976,,Pirimicarb,,,chemical pest control process,0.14,kg/ha,450,l/ha,,,,Pirimicarb at 0.14 kg in 450 l
@@ -929,7 +930,7 @@ Broadbalk,1976,potatoes,13/09/1976,,Haulm mechanically destroyed,,,haulm destruc
 Broadbalk,1976,potatoes,24/09/1976,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1976,spring beans,09/12/1975,,Deep-tine cultivated,,,tillage process,,,,,,,,Deep-tine cultivated
 Broadbalk,1976,spring beans,27/02/1976,,N applied,,,agronomic fertilization process,,,,,,,,N applied
-Broadbalk,1976,spring beans,04/03/1976,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1976,spring beans,04/03/1976,,seed sown,,,seeding process,220,kg/ha,,,Minden,,,seed sown
 Broadbalk,1976,spring beans,05/03/1976,,heavy springtine cultivated,,,tillage process,,,,,,,,Heavy spring-tine cultivated
 Broadbalk,1976,spring beans,27/04/1976,,Tractor hoed,,,mechanical pest destruction process,,,,,,,,Tractor hoed
 Broadbalk,1976,spring beans,25/05/1976,,Tractor hoed,,,mechanical pest destruction process,,,,,,,,Tractor hoed
@@ -939,7 +940,7 @@ Broadbalk,1976,winter wheat,29/09/1975,,Chalk applied,,,liming process,,,,,,,,Ch
 Broadbalk,1976,winter wheat,14/10/1975,,rotary harrowed,"sections 5, 6, 7, 8, 9",,tillage process,,,,,,,,"rotary harrowed sections 5, 6, 7, 8, 9"
 Broadbalk,1976,winter wheat,14/10/1975,,springtine cultivated,"sections 0, 1",,tillage process,,,,,,,,"spring-tine cultivated and rotary harrowed twice sections 0, 1"
 Broadbalk,1976,winter wheat,14/10/1975,,rotary harrowed twice,"sections 0, 1",,tillage process,,,,,,,,
-Broadbalk,1976,winter wheat,16/10/1975,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1976,winter wheat,16/10/1975,,seed sown,,,seeding process,,kg/ha,,,Cappelle Desprez,,,seed sown
 Broadbalk,1976,winter wheat,18/10/1975,,Terbutryne ; related triazines as Prebane,"Sections 0, 1, 5, 6, 7 and 9",,chemical pest control process,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
 Broadbalk,1976,winter wheat,31/03/1976,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1976,winter wheat,08/04/1976,,Dimethoate,section 9,,chemical pest control process,0.11,kg/ha,220,l/ha,,,,Dimethoate at 0.11 kg in 220 l
@@ -962,7 +963,7 @@ Broadbalk,1977,potatoes,06/09/1976,,Chalk applied,,,liming process,,,,,,,,Chalk 
 Broadbalk,1977,potatoes,18/04/1977,,springtine cultivated,,,tillage process,,,,,,,,"Spring-tine cultivated, N applied"
 Broadbalk,1977,potatoes,18/04/1977,,N applied,,,agronomic fertilization process,,,,,,,,
 Broadbalk,1977,potatoes,19/04/1977,,Spike rotary cultivated,,,tillage process,,,,,,,,Spike rotary cultivated
-Broadbalk,1977,potatoes,19/04/1977,,machine planted,,,plant transplanting process,,,,,,,,potatoes machine planted
+Broadbalk,1977,potatoes,19/04/1977,,machine planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes machine planted
 Broadbalk,1977,potatoes,21/04/1977,,grubbed,,,harvesting process,,,,,,,,grubbed
 Broadbalk,1977,potatoes,23/05/1977,,Linuron,,,chemical pest control process,1.3,kg/ha,340,l/ha,,,,Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 340 1.
 Broadbalk,1977,potatoes,21/06/1977,,grubbed,,,harvesting process,,,,,,,,grubbed
@@ -978,7 +979,7 @@ Broadbalk,1977,potatoes,14/09/1977,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1977,spring beans,15/09/1977,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1977,spring beans,07/03/1977,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1977,spring beans,09/03/1977,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1977,spring beans,10/03/1977,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1977,spring beans,10/03/1977,,seed sown,,,seeding process,220,kg/ha,,,Minden,,,seed sown
 Broadbalk,1977,spring beans,18/05/1977,,Tractor hoed,,,mechanical pest destruction process,,,,,,,,Tractor hoed
 Broadbalk,1977,spring beans,19/07/1977,,Pirimicarb,,,chemical pest control process,0.14,kg/ha,280,l/ha,,,,primicarb at 0.14 kg in 280 1.
 Broadbalk,1977,winter wheat,06/09/1976,,glyphosate,"Sections 0, 1 and 9",,chemical pest control process,1.7,kg/ha,220,l/ha,,,,glyphosate at 1.7 kg in 220 l
@@ -1014,7 +1015,7 @@ Broadbalk,1978,potatoes,31/03/1978,,heavy springtine cultivated,,,tillage proces
 Broadbalk,1978,potatoes,25/04/1978,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1978,potatoes,08/05/1978,,Paraquat,,,chemical pest control process,0.84 kg ion,kg/ha,220,l/ha,,,,Paraquat
 Broadbalk,1978,potatoes,09/05/1978,,Spike rotary cultivated,,,tillage process,,,,,,,,Spike rotary cultivated
-Broadbalk,1978,potatoes,09/05/1978,,planted,,,plant transplanting process,,,,,,,,planted
+Broadbalk,1978,potatoes,09/05/1978,,planted,,,plant transplanting process,,,,,Pentland Crown,,,planted
 Broadbalk,1978,potatoes,15/05/1978,,Linuron,,,chemical pest control process,1.1 kg,kg/ha,220,l/ha,,,,Linuron
 Broadbalk,1978,potatoes,26/06/1978,,Grubbed and rotary ridged,,,tillage process,,,,,,,,Grubbed and rotary ridged
 Broadbalk,1978,potatoes,05/07/1978,,Mancozeb,,,chemical pest control process,1.3,kg/ha,220,l/ha,,,,mancozeb at 1.3 kg in 220 l.
@@ -1030,14 +1031,14 @@ Broadbalk,1978,spring beans,22/09/1978,,combine harvested,,,harvesting process,,
 Broadbalk,1978,spring beans,09/03/1978,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1978,spring beans,10/03/1978,,N applied,,,agronomic fertilization process,,,,,,,,"N applied, rotary harrowed, seed sown"
 Broadbalk,1978,spring beans,10/03/1978,,rotary harrowed,,,tillage process,,,,,,,,
-Broadbalk,1978,spring beans,10/03/1978,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1978,spring beans,10/03/1978,,seed sown,,,seeding process,200,kg/ha,,,Minden,,,
 Broadbalk,1978,spring beans,19/05/1978,,Tractor hoed twice,,,mechanical pest destruction process,,,,,,,,Tractor hoed twice
 Broadbalk,1978,spring beans,08/06/1978,,Tractor hoed twice,,,mechanical pest destruction process,,,,,,,,Tractor hoed twice
 Broadbalk,1978,spring beans,07/07/1978,,Pirimicarb,,,chemical pest control process,0.14,kg/ha,220,l/ha,,,,primicarb at 0.14 kg in 220 1.
 Broadbalk,1978,spring beans,19/09/1978,,Haulm desiccant applied,,,residue management process,,,,,,,,Haulm desiccant applied
 Broadbalk,1978,winter wheat,19/09/1977,,Chalk applied,,,liming process,,,,,,,,Chalk applied
 Broadbalk,1978,winter wheat,17/10/1977,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1978,winter wheat,19/10/1977,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1978,winter wheat,19/10/1977,,seed sown,,,seeding process,200,kg/ha,,,Cappelle Desprez,chlorfenvinphos,,seed sown
 Broadbalk,1978,winter wheat,24/10/1977,,Terbutryne,,,chemical pest control process,2.8,kg/ha,220,l/ha,,,,Terbutryne at 2.8 kg in 220 1.
 Broadbalk,1978,winter wheat,30/03/1978,,Omethoate,section 6,,chemical pest control process,0.65,kg/ha,220,l/ha,,,,Omethoate at 0.65 kg in 220 1.
 Broadbalk,1978,winter wheat,08/05/1978,,N applied,,,agronomic fertilization process,,,,,,,,N
@@ -1063,7 +1064,7 @@ Broadbalk,1979,fallow sections,23/05/1979,,ploughed twice,,,tillage process,,,,,
 Broadbalk,1979,fallow sections,14/06/1979,,Heavy springtine cultivated twice,,,tillage process,,,,,,,,Heavy spring-tine cultivated twice
 Broadbalk,1979,fallow sections,10/07/1979,,ploughed twice,,,tillage process,,,,,,,,ploughed twice
 Broadbalk,1979,fallow sections,31/07/1979,,Heavy springtine cultivated twice,,,tillage process,,,,,,,,Heavy spring-tine cultivated twice
-Broadbalk,1979,potatoes,14/05/1979,,planted,,,plant transplanting process,,,,,,,,planted
+Broadbalk,1979,potatoes,14/05/1979,,planted,,,plant transplanting process,,,,,Pentland Crown,,,planted
 Broadbalk,1979,potatoes,18/05/1979,,grubbed twice,,,harvesting process,,,,,,,,Grubbed twice
 Broadbalk,1979,potatoes,30/05/1979,,Linuron,,,chemical pest control process,1.1 kg,kg/ha,220,l/ha,,,,Linuron
 Broadbalk,1979,potatoes,26/06/1979,,Mancozeb,,,chemical pest control process,1.4,kg/ha,220,l/ha,,,,Mancozeb at 1.4 kg in 220 l
@@ -1101,7 +1102,7 @@ Broadbalk,1980,potatoes,25/01/1980,,Chisel ploughed,,,tillage process,,,,,,,,Chi
 Broadbalk,1980,potatoes,17/04/1980,,springtine cultivated,,,tillage process,,,,,,,,"Spring-tine cultivated, N applied"
 Broadbalk,1980,potatoes,17/04/1980,,N applied,,,agronomic fertilization process,,,,,,,,
 Broadbalk,1980,potatoes,18/04/1980,,Spike rotary cultivated,,,tillage process,,,,,,,,Spike rotary cultivated
-Broadbalk,1980,potatoes,18/04/1980,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1980,potatoes,18/04/1980,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1980,potatoes,25/04/1980,,grubbed,,,harvesting process,,,,,,,,grubbed
 Broadbalk,1980,potatoes,02/05/1980,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1980,potatoes,19/05/1980,,Linuron,,,chemical pest control process,1.1 kg,kg/ha,900,l/ha,,,,Linuron
@@ -1151,7 +1152,7 @@ Broadbalk,1981,potatoes,16/01/1981,,Chisel ploughed,,,tillage process,,,,,,,,Chi
 Broadbalk,1981,potatoes,16/04/1981,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1981,potatoes,17/04/1981,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1981,potatoes,13/05/1981,,Spike rotary cultivated,,,tillage process,,,,,,,,Spike rotary cultivated
-Broadbalk,1981,potatoes,13/05/1981,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1981,potatoes,13/05/1981,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1981,potatoes,01/06/1981,,Linuron,,,chemical pest control process,1.1 kg,kg/ha,250,l/ha,,,,Linuron
 Broadbalk,1981,potatoes,23/06/1981,,Mancozeb,,,chemical pest control process,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
 Broadbalk,1981,potatoes,23/06/1981,,Pirimicarb,,,chemical pest control process,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
@@ -1178,7 +1179,7 @@ Broadbalk,1982,fallow sections,28/07/1982,,rotary harrowed,,,tillage process,,,,
 Broadbalk,1982,potatoes,16/04/1982,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1982,potatoes,17/04/1982,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1982,potatoes,20/04/1982,,Spike rotary cultivated,,,tillage process,,,,,,,,Spike rotary cultivated
-Broadbalk,1982,potatoes,20/04/1982,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1982,potatoes,20/04/1982,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1982,potatoes,10/05/1982,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1982,potatoes,17/05/1982,,Paraquat,,,chemical pest control process,0.5 kg ion,kg/ha,350,l/ha,,,,Paraquat
 Broadbalk,1982,potatoes,14/06/1982,,Mancozeb,,,chemical pest control process,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
@@ -1197,7 +1198,7 @@ Broadbalk,1982,potatoes,21/08/1982,,Haulm mechanically destroyed,,,haulm destruc
 Broadbalk,1982,potatoes,24/08/1982,,BOV,,,chemical pest control process,220,l/ha,,,,,,BOV at 220 l
 Broadbalk,1982,potatoes,13/09/1982,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1982,winter wheat,14/10/1981,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1982,winter wheat,16/10/1981,,seed sown,,,seeding process,,,,,,,,seed sown
+Broadbalk,1982,winter wheat,16/10/1981,,seed sown,,,seeding process,200,kg/ha,,,Flanders,,,seed sown
 Broadbalk,1982,winter wheat,17/10/1981,,chlortoluron,not applied to sections 8,,chemical pest control process,5.6,l/ha,250,l/ha,,,,chlortoluron at 5.6 l in 250 l
 Broadbalk,1982,winter wheat,15/04/1982,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1982,winter wheat,16/04/1982,,mecoprop ; bromoxynil ; ioxynil as Brittox,,,chemical pest control process,3.5,l/ha,250,l/ha,,,,"mecoprop, bromoxynil and ioxynil as 'Brittox' at 3.5 1) in 250 1."
@@ -1215,7 +1216,7 @@ Broadbalk,1983,cropped sections,16/09/1982,,autumn N applied, plot 18,,agronomic
 Broadbalk,1983,cropped sections,04/11/1982,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, seed sown"
 Broadbalk,1983,cropped sections,04/11/1982,,seed sown,,,seeding process,,,,,,,,
 Broadbalk,1983,cropped sections,15/04/1983,,spring N applied,,,agronomic fertilization process,,,,,,,,spring N applied
-Broadbalk,1983,winter wheat,16/04/1983,,mecoprop ; bromoxynil ; ioxynil as Brittox,not applied to sections 8,sprayed,chemical pest control process,3.5,l/ha,250,l/ha,,,,"mecoprop, bromoxynil and ioxynil as 'Brittox' at 3.5 1) with isoproturÃƒÂ³n at 2.1 kg in 250 1."
+Broadbalk,1983,winter wheat,16/04/1983,,mecoprop ; bromoxynil ; ioxynil as Brittox,not applied to sections 8,sprayed,chemical pest control process,3.5,l/ha,250,l/ha,,,,"mecoprop, bromoxynil and ioxynil as 'Brittox' at 3.5 1) with isoproturÃƒÆ’Ã‚Â³n at 2.1 kg in 250 1."
 Broadbalk,1983,winter wheat,16/04/1983,,Isoproturon,not applied to sections 8,sprayed,chemical pest control process,2.1,kg/ha,250,l/ha,,,,
 Broadbalk,1983,winter wheat,26/05/1983,,Propiconazole,,,chemical pest control process,0.12,kg/ha,250,l/ha,,,,propiconazole at 0.12 kg in 250 l
 Broadbalk,1983,winter wheat,30/06/1983,,Propiconazole,,,chemical pest control process,0.12,kg/ha,500,l/ha,,,,propiconazole at 0.12 kg in 500 l
@@ -1231,7 +1232,7 @@ Broadbalk,1983,potatoes,10/02/1983,,Chisel ploughed,,,tillage process,,,,,,,,Chi
 Broadbalk,1983,potatoes,05/05/1983,,N applied,,,agronomic fertilization process,,,,,,,,"N applied, heavy spring-tine cultivated"
 Broadbalk,1983,potatoes,05/05/1983,,heavy springtine cultivated,,,tillage process,,,,,,,,
 Broadbalk,1983,potatoes,10/05/1983,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1983,potatoes,10/05/1983,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1983,potatoes,10/05/1983,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1983,potatoes,26/05/1983,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1983,potatoes,03/06/1983,,Paraquat,,,chemical pest control process,0.56 kg ion,kg/ha,500,l/ha,,,,Paraquat
 Broadbalk,1983,potatoes,22/06/1983,,Mancozeb,,,chemical pest control process,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
@@ -1273,7 +1274,7 @@ Broadbalk,1984,potatoes,03/09/1983,,Haulm mechanically destroyed,,,haulm destruc
 Broadbalk,1984,potatoes,13/12/1983,,Chisel ploughed,,,tillage process,,,,,,,,Chisel ploughed
 Broadbalk,1984,potatoes,03/04/1984,,N applied,,,agronomic fertilization process,,,,,,,,N applied
 Broadbalk,1984,potatoes,04/04/1984,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1984,potatoes,04/04/1984,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1984,potatoes,04/04/1984,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1984,potatoes,10/04/1984,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1984,potatoes,03/05/1984,,Paraquat,,,chemical pest control process,0.50 kg ion,kg/ha,500,l/ha,,,,Paraquat
 Broadbalk,1984,potatoes,19/06/1984,,Fentin hydroxide,,,chemical pest control process,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
@@ -1296,7 +1297,7 @@ Broadbalk,1985,fallow sections,15/07/1985,,ploughed,,,tillage process,,,,,,,,plo
 Broadbalk,1985,fallow sections,02/08/1985,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1985,potatoes,03/09/1984,,Haulm mechanically destroyed,,,haulm destruction process,,,,,,,,Haulm mechanically destroyed
 Broadbalk,1985,potatoes,05/09/1984,,Haulm desiccant applied,,,residue management process,,,,,,,,Haulm desiccant applied
-Broadbalk,1985,potatoes,24/04/1985,,planted,,,plant transplanting process,,,,,,,,planted
+Broadbalk,1985,potatoes,24/04/1985,,planted,,,plant transplanting process,,,,,Pentland Crown,,,planted
 Broadbalk,1985,potatoes,17/05/1985,,Paraquat,,,chemical pest control process,0.50 kg ion,kg/ha,500,l/ha,,,,Paraquat
 Broadbalk,1985,potatoes,20/06/1985,,Mancozeb,,,chemical pest control process,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
 Broadbalk,1985,potatoes,03/07/1985,,Mancozeb,,,chemical pest control process,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
@@ -1310,7 +1311,7 @@ Broadbalk,1985,winter wheat,06/09/1985,,combine harvested,,,harvesting process,,
 Broadbalk,1985,winter wheat,08/09/1984,,Chalk,"sections 1, 2, 3",,liming process,,,,,,,,"Chalk to sections 1, 2, 3"
 Broadbalk,1985,winter wheat,28/09/1984,,autumn N applied,,,agronomic fertilization process,,,,,,,,autumn N treatments applied
 Broadbalk,1985,winter wheat,31/10/1984,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, seed sown"
-Broadbalk,1985,winter wheat,31/10/1984,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1985,winter wheat,31/10/1984,,seed sown,,,seeding process,190,kg/ha,,,Brimstone,,,
 Broadbalk,1985,winter wheat,10/04/1985,,Isoproturon,(except sections 8),sprayed,chemical pest control process,2,kg/ha,200,l/ha,,,,"Isoproturon at 2.0 kg with mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg in 200 1."
 Broadbalk,1985,winter wheat,10/04/1985,,mecoprop,(except sections 8),sprayed,chemical pest control process,1.6,kg/ha,200,l/ha,,,,
 Broadbalk,1985,winter wheat,10/04/1985,,bromoxynil,(except sections 8),sprayed,chemical pest control process,0.2,kg/ha,200,l/ha,,,,
@@ -1339,7 +1340,7 @@ Broadbalk,1986,fallow sections,04/07/1986,,cultivated with thistle bar attached,
 Broadbalk,1986,fallow sections,28/07/1986,,springtine cultivated,,,tillage process,,,,,,,,Spring-tine cultivated
 Broadbalk,1986,fallow sections,22/08/1986,,cultivated with thistle bar attached,,,tillage process,,,,,,,,cultivated with thistle bar
 Broadbalk,1986,potatoes,15/09/1985,,Haulm mechanically destroyed,,,haulm destruction process,,,,,,,,Haulm mechanically destroyed
-Broadbalk,1986,potatoes,07/05/1986,,planted,,,plant transplanting process,,,,,,,,planted
+Broadbalk,1986,potatoes,07/05/1986,,planted,,,plant transplanting process,,,,,Pentland Crown,,,planted
 Broadbalk,1986,potatoes,30/05/1986,,Linuron,,,chemical pest control process,1.3 kg,kg/ha,500,l/ha,,,,Linuron
 Broadbalk,1986,potatoes,30/06/1986,,Mancozeb,,,chemical pest control process,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
 Broadbalk,1986,potatoes,14/07/1986,,Mancozeb,,,chemical pest control process,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
@@ -1352,7 +1353,7 @@ Broadbalk,1986,winter wheat,02/09/1986,,combine harvested,,,harvesting process,,
 Broadbalk,1986,winter wheat,19/09/1985,,Chalk,"sections 6, 7, 8, 9",,liming process,,,,,,,,"Chalk to sections 6, 7, 8, 9"
 Broadbalk,1986,winter wheat,23/09/1985,,autumn N applied,,,agronomic fertilization process,,,,,,,,autumn N treatments applied
 Broadbalk,1986,winter wheat,03/10/1985,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, seed sown"
-Broadbalk,1986,winter wheat,03/10/1985,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1986,winter wheat,03/10/1985,,seed sown,,,seeding process,200,kg/ha,,,Brimstone,,,
 Broadbalk,1986,winter wheat,31/10/1985,,Chlorfenvinphos,(to sections 4 only),,chemical pest control process,1,kg/ha,200,l/ha,,,,Chlorfenvinphos at 1.0 kg in 200 1.
 Broadbalk,1986,winter wheat,28/04/1986,,Isoproturon,(except sections 8),sprayed,chemical pest control process,2,kg/ha,200,l/ha,,,,"Isoproturon at 2.0 kg with clopyralid at 0.07 kg, bromoxynil octanoate at 0.34 kg and mecoprop at 2.5 kg in 200 1."
 Broadbalk,1986,winter wheat,28/04/1986,,clopyralid,(except sections 8),sprayed,chemical pest control process,0.07,kg/ha,200,l/ha,,,,
@@ -1382,7 +1383,7 @@ Broadbalk,1987,potatoes,04/09/1986,,Haulm desiccant applied,,,residue management
 Broadbalk,1987,potatoes,17/02/1987,,heavy springtine cultivated,,,tillage process,,,,,,,,Heavy spring-tine cultivated
 Broadbalk,1987,potatoes,14/04/1987,,N applied,,,agronomic fertilization process,,,,,,,,N treatments applied
 Broadbalk,1987,potatoes,16/04/1987,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1987,potatoes,16/04/1987,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1987,potatoes,16/04/1987,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1987,potatoes,27/04/1987,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1987,potatoes,30/04/1987,,Linuron,,,chemical pest control process,1.6 kg,kg/ha,500,l/ha,,,,Linuron
 Broadbalk,1987,potatoes,24/06/1987,,Mancozeb,,,chemical pest control process,1.4,kg/ha,,,,,,mancozeb at 1.4 kg 200 1
@@ -1396,7 +1397,7 @@ Broadbalk,1987,winter wheat,05/09/1986,,straw chopped,section 0,,residue managem
 Broadbalk,1987,winter wheat,08/09/1987,,combine harvested,,,harvesting process,,,,,,,,combine harvested
 Broadbalk,1987,winter wheat,26/09/1986,,Chalk," sections 0, 4, 5",,liming process,,,,,,,,"Chalk applied sections 0, 4, 5"
 Broadbalk,1987,winter wheat,10/10/1986,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, seed sown"
-Broadbalk,1987,winter wheat,10/10/1986,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1987,winter wheat,10/10/1986,,seed sown Brimstone $ SM,,,seeding process,190,kg/ha,,,Brimstone,fonofos,,
 Broadbalk,1987,winter wheat,17/10/1986,,Methabenzthiazuron,(except sections 8),,chemical pest control process,3.2,kg/ha,200,l/ha,,,,Methabenzthiazuron at 3.2 kg in 200 l.
 Broadbalk,1987,winter wheat,14/04/1987,,N applied,,,agronomic fertilization process,,,,,,,,N treatments applied
 Broadbalk,1987,winter wheat,15/04/1987,,clopyralid,(except sections 8),sprayed,chemical pest control process,0.07,kg/ha,200,l/ha,,,,"Clopyralid at 0.07 kg, bromoxynil at 0,34 kg and mecoprop at 2.5 kg in 200 1."
@@ -1424,7 +1425,7 @@ Broadbalk,1988,potatoes,05/09/1987,,Haulm mechanically destroyed,,,haulm destruc
 Broadbalk,1988,potatoes,07/04/1988,,N applied,,,agronomic fertilization process,,,,,,,,N treatments applied
 Broadbalk,1988,potatoes,08/04/1988,,heavy springtine cultivated,,,tillage process,,,,,,,,Heavy spring-tine cultivated% rotary harrowed
 Broadbalk,1988,potatoes,08/04/1988,,rotary harrowed,,,tillage process,,,,,,,,
-Broadbalk,1988,potatoes,08/04/1988,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1988,potatoes,08/04/1988,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1988,potatoes,25/04/1988,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1988,potatoes,05/05/1988,,Linuron,,,chemical pest control process,1.6 kg,kg/ha,260,l/ha,,,,Linuron
 Broadbalk,1988,potatoes,15/06/1988,,Mancozeb,,,chemical pest control process,1.4,kg/ha,,,,,,mancozeb at 1.4 kg
@@ -1443,9 +1444,9 @@ Broadbalk,1988,winter wheat,06/09/1988,,combine harvested squareheads master,,,h
 Broadbalk,1988,winter wheat,09/09/1987,,straw chopped,section 0,,residue management process,,,,,,,,Straw chopped sections 0
 Broadbalk,1988,winter wheat,28/09/1987,,autumn N applied,,,agronomic fertilization process,,,,,,,,autumn N treatments applied
 Broadbalk,1988,winter wheat,05/11/1987,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, Brimstone seed sown"
-Broadbalk,1988,winter wheat,05/11/1987,,Brimstone seed sown,,,seeding process,,,,,,,,
+Broadbalk,1988,winter wheat,05/11/1987,,Brimstone seed sown,,,seeding process,180,kg/ha,,,Brimstone,fonofos,,
 Broadbalk,1988,winter wheat,06/11/1987,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, Squareheads Master seed sown"
-Broadbalk,1988,winter wheat,06/11/1987,,Squareheads Master seed sown,,,seeding process,,,,,,,,
+Broadbalk,1988,winter wheat,06/11/1987,,Squareheads Master seed sown,,,seeding process,180,kg/ha,,,Squarehead's Master,,,
 Broadbalk,1988,winter wheat,08/04/1988,,spring N applied,,,agronomic fertilization process,,,,,,,,spring N treatments applied
 Broadbalk,1988,winter wheat,26/04/1988,,Fluroxypyr,(except to sections 6),sprayed,chemical pest control process,0.2,kg/ha,200,l/ha,,,,Fluroxypyr at 0.20 kg with clopyralid at 0.07 kg and bromoxynil at 0.34 kg in 200 1.
 Broadbalk,1988,winter wheat,26/04/1988,,clopyralid,(except to sections 6),sprayed,chemical pest control process,0.07,kg/ha,200,l/ha,,,,
@@ -1474,7 +1475,7 @@ Broadbalk,1989,potatoes,05/09/1988,,Haulm mechanically destroyed,,,haulm destruc
 Broadbalk,1989,potatoes,29/03/1989,,Deep-tine cultivated,,,tillage process,,,,,,,,Deep-tine cultivated
 Broadbalk,1989,potatoes,18/04/1989,,N applied,,,agronomic fertilization process,,,,,,,,N treatments applied
 Broadbalk,1989,potatoes,24/04/1989,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1989,potatoes,24/04/1989,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1989,potatoes,24/04/1989,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1989,potatoes,25/05/1989,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1989,potatoes,31/05/1989,,Metribuzin,,,chemical pest control process,1,kg/ha,300,l/ha,,,,Metribuzin at 1.0 kg in 300 1.
 Broadbalk,1989,potatoes,03/07/1989,,Mancozeb,,,chemical pest control process,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
@@ -1487,9 +1488,9 @@ Broadbalk,1989,winter wheat,20/09/1988,,glyphosate,"(except to sections 2, 8)",,
 Broadbalk,1989,winter wheat,07/10/1988,,autumn N applied,,,agronomic fertilization process,,,,,,,,autumn N treatments applied
 Broadbalk,1989,winter wheat,11/10/1988,,Chalk," sections 1, 3",,liming process,,,,,,,,"Chalk applied sections 1, 3"
 Broadbalk,1989,winter wheat,26/10/1988,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, Brimstone seed sown"
-Broadbalk,1989,winter wheat,26/10/1988,,Brimstone seed sown,,,seeding process,,,,,,,,
+Broadbalk,1989,winter wheat,26/10/1988,,Brimstone seed sown,,,seeding process,180,kg/ha,,,Brimstone,fonofos,,
 Broadbalk,1989,winter wheat,27/10/1988,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, Squareheads Master seed sown"
-Broadbalk,1989,winter wheat,27/10/1988,,Squareheads Master seed sown,,,seeding process,,,,,,,,
+Broadbalk,1989,winter wheat,27/10/1988,,Squareheads Master seed sown,,,seeding process,180,kg/ha,,,Squarehead's Master,,,
 Broadbalk,1989,winter wheat,15/11/1988,,Isoproturon,,,chemical pest control process,2.5,kg/ha,200,l/ha,,,,Isoproturon at 2.5 kg in 200 1
 Broadbalk,1989,winter wheat,18/04/1989,,spring N applied,,,agronomic fertilization process,,,,,,,,spring N treatments applied
 Broadbalk,1989,winter wheat,19/04/1989,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat chloride at 1.6 kg in 200 1.
@@ -1522,7 +1523,7 @@ Broadbalk,1990,potatoes,06/09/1989,,Haulm mechanically destroyed,,,haulm destruc
 Broadbalk,1990,potatoes,24/11/1989,,Deep-tine cultivated,,,tillage process,,,,,,,,Deep-tine cultivated
 Broadbalk,1990,potatoes,05/04/1990,,N applied,,,tillage process,,,,,,,,N treatments applied
 Broadbalk,1990,potatoes,05/04/1990,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1990,potatoes,05/04/1990,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1990,potatoes,05/04/1990,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1990,potatoes,05/04/1990,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1990,potatoes,06/04/1990,,Linuron,,,chemical pest control process,1.6 kg,kg/ha,200,l/ha,,,,Linuron
 Broadbalk,1990,potatoes,15/06/1990,,maneb,,,chemical pest control process,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 ml.
@@ -1540,7 +1541,7 @@ Broadbalk,1990,potatoes,21/09/1990,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1990,winter wheat,13/09/1989,,Chalk," sections 2, 8",,liming process,,,,,,,,"Chalk applied sections 2, 8"
 Broadbalk,1990,winter wheat,15/09/1989,,autumn N applied,,,agronomic fertilization process,,,,,,,,autumn N treatments applied
 Broadbalk,1990,winter wheat,11/10/1989,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, all seed sown"
-Broadbalk,1990,winter wheat,11/10/1989,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1990,winter wheat,11/10/1989,,seed sown Brimstone $ SM,,,seeding process,180,kg/ha,,,Brimstone,fonofos,,
 Broadbalk,1990,winter wheat,17/11/1989,,Isoproturon,(except to sections 8),sprayed,chemical pest control process,1.7,kg/ha,200,l/ha,,,,Isoproturon at 1.7 kg with mecoprop at 2.0 kg in 200 1 (
 Broadbalk,1990,winter wheat,17/11/1989,,mecoprop,(except to sections 8),sprayed,chemical pest control process,2,kg/ha,200,l/ha,,,,
 Broadbalk,1990,winter wheat,09/04/1990,,spring N applied,,,agronomic fertilization process,,,,,,,,spring N treatments applied
@@ -1574,7 +1575,7 @@ Broadbalk,1991,potatoes,14/12/1990,,Deep-tine cultivated,,,tillage process,,,,,,
 Broadbalk,1991,potatoes,09/04/1991,,N applied,,,agronomic fertilization process,,,,,,,,N treatments applied
 Broadbalk,1991,potatoes,16/04/1991,,heavy springtine cultivated,,,tillage process,,,,,,,,Heavy spring-tine cultivated
 Broadbalk,1991,potatoes,17/04/1991,,rotary harrowed,,,tillage process,,,,,,,,rotary harrowed
-Broadbalk,1991,potatoes,17/04/1991,,planted,,,plant transplanting process,,,,,,,,potatoes planted
+Broadbalk,1991,potatoes,17/04/1991,,planted,,,plant transplanting process,,,,,Pentland Crown,,,potatoes planted
 Broadbalk,1991,potatoes,09/05/1991,,rotary ridged,,,tillage process,,,,,,,,rotary ridged
 Broadbalk,1991,potatoes,21/05/1991,,Linuron,,,chemical pest control process,1.6 kg,kg/ha,200,l/ha,,,,Linuron
 Broadbalk,1991,potatoes,01/07/1991,,maneb,,,chemical pest control process,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 l
@@ -1595,7 +1596,7 @@ Broadbalk,1991,potatoes,24/09/1991,,lifted,,,harvesting process,,,,,,,,lifted
 Broadbalk,1991,winter wheat,27/09/1990,,Chalk," sections 7, 9",,liming process,,,,,,,,"Chalk applied sections 7, 9"
 Broadbalk,1991,winter wheat,02/10/1990,,autumn N applied,,,agronomic fertilization process,,,,,,,,autumn N treatments applied
 Broadbalk,1991,winter wheat,16/10/1990,,rotary harrowed,,,tillage process,,,,,,,,"rotary harrowed, seed sown"
-Broadbalk,1991,winter wheat,16/10/1990,,seed sown,,,seeding process,,,,,,,,
+Broadbalk,1991,winter wheat,16/10/1990,,seed sown,,,seeding process,180,kg/ha,,,Apollo,,,
 Broadbalk,1991,winter wheat,21/11/1990,,Diflufenican,(except to sections 8),,chemical pest control process,0.12,kg/ha,200,l/ha,,,,Diflufenican at 0.12 kg in 200 l
 Broadbalk,1991,winter wheat,21/11/1990,,Isoproturon,(except sections 6),,chemical pest control process,2.2,kg/ha,200,l/ha,,,,isoproturon at 2.2 kg in 200 1
 Broadbalk,1991,winter wheat,09/04/1991,,spring N applied,,,agronomic fertilization process,,,,,,,,spring N treatments applied
