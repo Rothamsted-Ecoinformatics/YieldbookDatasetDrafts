@@ -1,0 +1,71 @@
+year,experiment,start date,end date,operation,plot,type
+1978,R/CS/216,28/09/1977,,farm subsoiler treatments applied,FARM 0,tillage process
+1978,R/CS/216,29/09/1977,,N.C.A.E. subsoiler treatments,"NCAE PK, NCAE 0",tillage process
+1978,R/CS/216,13/10/1977,,Wye double digger treatments,"WYE PK, WYE 0",tillage process
+1978,R/CS/216,28/11/1977,,all treatments except Wye double digger ploughed,,tillage process
+1978,R/CS/216,11/03/1978,,rotary harrowed,,tillage process
+1978,R/CS/216,21/08/1978,,combine harvested,,harvesting process
+1978,W/CS/216,28/09/1977,,N.C.A.E. subsoiler treatments,NCAE PK; NCAE 0,tillage process
+1978,W/CS/216,30/09/1977,,farm subsoiler treatments applied,FARM 0,tillage process
+1978,W/CS/216,13/10/1977,,Wye double digger treatments,"WYE PK, NCAE PK",tillage process
+1978,W/CS/216,31/10/1977,,all treatments except Wye double digger ploughed,,tillage process
+1978,W/CS/216,09/03/1977,,spring-tine cultivated,,tillage process
+1978,W/CS/216,09/03/1978,,spring-tine cultivated with crumbler attached,,tillage process
+1978,W/CS/216,18/08/1978,,combine harvested,,harvesting process
+1979,R/CS/216,16/11/1978,,ploughed,,tillage process
+1979,R/CS/216,20/04/1979,,heavy spring-tine cultivated,,tillage process
+1979,R/CS/216,21/04/1979,,rotary harrowed,,tillage process
+1979,R/CS/216,21/09/1979,,combine harvested,,harvesting process
+1979,W/CS/216,13/09/1978,,heavy spring-tine cultivated,,tillage process
+1979,W/CS/216,16/11/1978,,ploughed,,tillage process
+1979,W/CS/216,16/04/1979,,spring-tine cultivated with crumbler attached,,tillage process
+1979,W/CS/216,10/09/1979,,combine harvested,,harvesting process
+1980,R/CS/216,12/10/1979,,Winged subsoiler treatment applied,,tillage process
+1980,R/CS/216,17/10/1979,,farm subsoiler treatments applied,,tillage process
+1980,R/CS/216,29/10/1979,,Chisel ploughed (except winged subsoiler plots,,tillage process
+1980,R/CS/216,03/03/1980,,spring-tine cultivated,,tillage process
+1980,R/CS/216,18/08/1980,,combine harvested,,harvesting process
+1980,W/CS/216,12/10/1979,,Winged subsoiler treatment applied,,tillage process
+1980,W/CS/216,20/10/1979,,farm subsoiler treatments applied,,tillage process
+1980,W/CS/216,24/10/1979,,Deep-tine cultivated 23 cm deep (except winged subsoiler plots,,tillage process
+1980,W/CS/216,29/02/1980,,heavy spring-tine cultivated,,tillage process
+1980,W/CS/216,04/03/1980,,rotary cultivated,,tillage process
+1980,W/CS/216,19/08/1980,,combine harvested,,harvesting process
+1981,R/CS/216,12/12/1980,,ploughed,,tillage process
+1981,R/CS/216,13/04/1981,,rotary harrowed,,tillage process
+1981,R/CS/216,02/09/1981,,combine harvested,,harvesting process
+1981,W/CS/216,30/10/1980,,ploughed,,tillage process
+1981,W/CS/216,27/02/1981,,spring-tine cultivated with crumbler attached,,tillage process
+1981,W/CS/216,03/08/1981,,combine harvested,,harvesting process
+1982,R/CS/216,27/11/1981,,ploughed,,tillage process
+1982,R/CS/216,03/04/1982,,spring-tine cultivated,,tillage process
+1982,R/CS/216,13/08/1982,,combine harvested,,harvesting process
+1982,W/CS/216,13/11/1981,,ploughed,,tillage process
+1982,W/CS/216,25/03/1982,,heavy spring-tine cultivated,,tillage process
+1982,W/CS/216,26/03/1982,,spring-tine cultivated with crumbler attached,,tillage process
+1982,W/CS/216,10/08/1982,,combine harvested,,harvesting process
+1983,R/CS/216,14/09/1982,,ploughed,,tillage process
+1983,R/CS/216,14/03/1983,,spring-tine cultivated,,tillage process
+1983,R/CS/216,17/03/1983,,rotary harrowed,,tillage process
+1983,R/CS/216,08/08/1983,,combine harvested,,harvesting process
+1983,W/CS/216,24/08/1982,,disced,,tillage process
+1983,W/CS/216,06/10/1982,,ploughed,,tillage process
+1983,W/CS/216,07/03/1983,,spring-tine cultivated,,tillage process
+1983,W/CS/216,09/03/1983,,spring-tine cultivated with crumbler attached,,tillage process
+1983,W/CS/216,06/08/1983,,combine harvested,,harvesting process
+1984,R/CS/216,10/10/1984,,ploughed,,tillage process
+1984,R/CS/216,19/03/1984,,spring-tine cultivated twice,,tillage process
+1984,R/CS/216,17/08/1984,,combine harvested,,harvesting process
+1984,W/CS/216,15/11/1984,,ploughed,,tillage process
+1984,W/CS/216,09/03/1984,,spring-tine cultivated,,tillage process
+1984,W/CS/216,09/03/1984,,spring-tine cultivated with crumbler attached,,tillage process
+1984,W/CS/216,15/08/1984,,combine harvested,,harvesting process
+1985,R/CS/216,08/10/1984,,ploughed,,tillage process
+1985,R/CS/216,18/03/1985,,spring-tine cultivated,,tillage process
+1985,R/CS/216,18/03/1985,,spring-tine cultivated second stroke,,tillage process
+1985,R/CS/216,21/03/1985,,Rolled,,tillage process
+1985,R/CS/216,23/08/1985,,combine harvested,,harvesting process
+1985,W/CS/216,17/09/1984,,disced,,tillage process
+1985,W/CS/216,04/12/1984,,ploughed,,tillage process
+1985,W/CS/216,14/03/1985,,spring-tine cultivated,,tillage process
+1985,W/CS/216,29/08/1985,,combine harvested,,harvesting process
