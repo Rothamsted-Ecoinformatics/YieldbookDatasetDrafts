@@ -1,0 +1,985 @@
+experiment,year,cropped section,new start date,new end date,operation,sections,method,operation type,flag,intensity,Amount,Units,water,water unit,variety,dressing,machine,orig_operation
+Broadbalk,1955,cropped sections,28/09/1954,10/09t/1954,ground chalk applied,lower half of sections V;,,liming process,3,,,,,,,,,Ground chalk applied to lower half of sections V;
+Broadbalk,1955,cropped sections,20/10/1954,,ground chalk applied,"to ammonia sulphate, castor meal plots",,liming process,3,,,,,,,,,"Ground chalk applied to ammonia sulphate, castor meal plots"
+Broadbalk,1956,cropped sections,06/09/1955,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk
+Broadbalk,1957,cropped sections,29/09/1956,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1957,cropped sections,07/05/1957,,MCPA,sections 1A under continuous wheat,sprayed,chemical pest control process,3,,3,pints/acre,80,gallons/acre,,,,sections 1A under continuous wheat sprayed with MCPA at 3 pints in 80 gallons per acre
+Broadbalk,1958,cropped sections,09/09/1957,16/09/1957,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1958,cropped sections,30/04/1958,,CMPP,sections 44 under continuous wheat,sprayed,chemical pest control process,3,,6,pints/acre,40,gallons/acre,,,,sections 44 under continuous wheat sprayed with CMPP at 6 pints in 40 gallons per acre
+Broadbalk,1959,cropped sections,22/09/1958,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1959,cropped sections,12/05/1959,,MCPA/TBA,sections IA under continuous wheat,sprayed,chemical pest control process,3,,4,pints/acre,40,gallons/acre,,,,sections IA under continuous wheat sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+Broadbalk,1960,cropped sections,04/09/1959,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1960,cropped sections,08/09/1959,,2-4-D ester,sections IA,sprayed,chemical pest control process,3,,12,pints/acre,40,gallons/acre,,,,"sections IA sprayed with 2,4-D ester at 12 pints in 40 gallons per acre"
+Broadbalk,1960,cropped sections,28/04/1960,,CMPP,sections IA,sprayed,chemical pest control process,3,,6,pints/acre,40,gallons/acre,,,,sections IA sprayed with CMPP at 6 pints in 40 gallons per acre
+Broadbalk,1961,cropped sections,01/10/1960,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1961,cropped sections,05/05/1961,,MCPA/TBA,sections IA,sprayed,chemical pest control process,3,,4,pints/acre,40,gallons/acre,,,,sections IA sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+Broadbalk,1962,cropped sections,07/09/1961,,ground chalk applied,,,liming process,3,,,,,,,,,
+Broadbalk,1962,cropped sections,24/04/1962,,MCPA/TBA,sections IA,sprayed,chemical pest control process,3,,4,pints/acre,40,gallons/acre,,,,sections IA sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+Broadbalk,1963,cropped sections,27/09/1962,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1963,cropped sections,16/05/1963,,"mecoprop, 2-4-D",sections IA and VB,sprayed,chemical pest control process,3,,7,pints/acre,40,gallons/acre,,,,"sections IA and VB sprayed with mecoprop/2,4-D at 7 pints in 40 gallons per acre"
+Broadbalk,1964,cropped sections,19/09/1963,,ground chalk applied,sections VA (first half of 5 ton dressing),,liming process,3,,,,,,,,,Ground chalk applied to sections VA (first half of 5 ton dressing
+Broadbalk,1964,cropped sections,23/09/1963,,ground chalk applied," plot 19, sections IV at 5 tons",,liming process,3,,,,,,,,,"Ground chalk applied to plot 19, sections IV at 5 tons"
+Broadbalk,1964,cropped sections,23/09/1963,,normal annual dressing of ground chalk applied to plots,,,liming process,3,,,,,,,,,Normal annual dressing of ground chalk applied to plots
+Broadbalk,1964,cropped sections,01/10/1963,,normal annual dressing of ground chalk applied to plots,,,liming process,3,,,,,,,,,Normal annual dressing of ground chalk applied to plots
+Broadbalk,1964,cropped sections,11/10/1963,,ground chalk applied,sections VA (remainder of 5 ton dressing),,liming process,3,,,,,,,,,Ground chalk applied to sections VA (remainder of 5 ton dressing
+Broadbalk,1964,cropped sections,07/05/1964,,"dicamba, MCPA as Banlene",all sections except VA,sprayed,chemical pest control process,3,,4,pints/acre,40,gallons/acre,,,,all sections except VA sprayed with dicamba / MCPA ('Banlene' at 4 pints in 40 gals)
+Broadbalk,1965,cropped sections,09/09/1964,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1965,cropped sections,11/05/1965,,MCPA,(except Section 5A),sprayed,chemical pest control process,3,,1.13,lb/acre,34,gallons/acre,,,,"sprayed (except Section 5A) with MCPA at 1.13 1b, dicamba at 0.08 lb in 34 gals"
+Broadbalk,1965,cropped sections,11/05/1965,,dicamba,(except Section 5A),sprayed,chemical pest control process,3,,0.08,lb/acre,34,gallons/acre,,,,
+Broadbalk,1966,cropped sections,04/10/1965,,aminotriazole,"sections IA all plots), plot 20 sections IB and II)",sprayed,chemical pest control process,3,,4,lb/acre,34,gallons/acre,,,,"sections IA all plots), plot 20 sections IB and II) sprayed with aminotriazole at 4 lb, ammonia thiocyanate at 3.7 lb"
+Broadbalk,1966,cropped sections,04/10/1965,,ammonium thiocyanate,"sections IA all plots), plot 20 sections IB and II)",sprayed,chemical pest control process,3,,3.7,lb/acre,34,gallons/acre,,,,
+Broadbalk,1966,cropped sections,07/10/1965,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1966,cropped sections,16/05/1966,,"ioxynil, mecoprop as Actril C",excluding VA,sprayed,chemical pest control process,3,,6,pints/acre,,,,,,"sprayed with Ioxynil/mecoprop (Actril C at 6 pints in ho gals), all sections except VA"
+Broadbalk,1967,cropped sections,16/09/1966,,aminotriazole,"sections IA,",sprayed,chemical pest control process,3,,1,lb/acre,40,gallons/acre,,,,"sections IA, sprayed with aminotriazole at 1 lb, ammonia thiocyanate at 3.7 lb in 40 gals"
+Broadbalk,1967,cropped sections,16/09/1966,,ammonium thiocyanate,"sections IA,",sprayed,chemical pest control process,3,,3.7,lb/acre,40,gallons/acre,,,,
+Broadbalk,1967,cropped sections,21/09/1966,,ground chalk applied,,,liming process,3,,,,,,,,,Ground chalk applied
+Broadbalk,1967,cropped sections,01/05/1967,,"ioxynil, mecoprop as Actril C",all sections except Va,sprayed,chemical pest control process,3,,6,pints/acre,20,gallons/acre,,,,all sections except Va sprayed with ioxynil/mecoprop (Actril C at 6 pints in 20 gals)
+Broadbalk,1968,all sections,11/09/1967,,ground chalk applied (including extra chalking),,,liming process,3,,,,,,,,,Ground chalk applied (including extra chalking)
+Broadbalk,1968,potatoes,04/07/1968,,Mancozeb,,sprayed,chemical pest control process,3,,1.2,lb/acre,37,gallons/acre,,,,sprayed with Mancozeb at 1.2 lb in 37 gals
+Broadbalk,1968,potatoes,19/07/1968,,Mancozeb,"sections IA,",sprayed,chemical pest control process,3,,1.2,lb/acre,37,gallons/acre,,,,"sprayed with Mancozeb at 1.2 lb, demeton-s-methyl at 3.5 oz in 37 gals"
+Broadbalk,1968,potatoes,19/07/1968,,demeton-s-methyl,"sections IA,",sprayed,chemical pest control process,3,,3.5,oz/acre,37,gallons/acre,,,,
+Broadbalk,1968,potatoes,05/08/1968,,Mancozeb,,sprayed,chemical pest control process,3,,1.2,lb/acre,37,gallons/acre,,,,sprayed with Mancozeb at 1.2 lb in 37 gals
+Broadbalk,1968,potatoes,31/08/1968,,undiluted BOV,,sprayed,chemical pest control process,3,,20,gallons/acre,,,,,,sprayed with undiluted BOV at 20 gals
+Broadbalk,1968,section 00,27/09/1967,,Methyl bromide,,,chemical pest control process,3,,,,,,,,,Methyl bromide
+Broadbalk,1968,spring beans,05/03/1968,,simazine,,sprayed,chemical pest control process,3,,1,lb/acre,33,gallons/acre,,,,sprayed with simazine at 1 lb in 33 gals
+Broadbalk,1968,spring beans,22/06/1968,,phorate,,granules,chemical pest control process,3,,1.04,lb/acre,,,,,,1.04 lb phorate  in granules
+Broadbalk,1968,winter wheat,04/05/1968,,Ioxynil,"all sections except 8, 9",sprayed,chemical pest control process,3,,9,oz/acre,20,gallons/acre,,,,"all sections except 8, 9 sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals"
+Broadbalk,1968,winter wheat,04/05/1968,,mecoprop,"all sections except 8, 9",sprayed,chemical pest control process,3,,27,oz/acre,20,gallons/acre,,,,
+Broadbalk,1968,winter wheat,06/05/1968,,Ioxynil,sections 9,sprayed,chemical pest control process,3,,9,oz/acre,20,gallons/acre,,,,"sections 9 sprayed with toxynil at 9 oz, mecoprop at 27 oz in 20 gals, sections 5 sprayed with ioxynil at 7.5 oz, mecoprop at 22.5 oz in 20 gals, sections 0, 1, 3, 4 sprayed with ioxynil at 6 oz, mecoprop at 18 oz in 20 gals"
+Broadbalk,1968,winter wheat,06/05/1968,,mecoprop,sections 9,sprayed,chemical pest control process,3,,27,oz/acre,20,gallons/acre,,,,
+Broadbalk,1968,winter wheat,06/05/1968,,Ioxynil,sections 5,sprayed,chemical pest control process,3,,7.5,oz/acre,20,gallons/acre,,,,"sections 9 sprayed with toxynil at 9 oz, mecoprop at 27 oz in 20 gals, sections 5 sprayed with ioxynil at 7.5 oz, mecoprop at 22.5 oz in 20 gals, sections 0, 1, 3, 4 sprayed with ioxynil at 6 oz, mecoprop at 18 oz in 20 gals"
+Broadbalk,1968,winter wheat,06/05/1968,,mecoprop,sections 5,sprayed,chemical pest control process,3,,22.5,oz/acre,20,gallons/acre,,,,
+Broadbalk,1968,winter wheat,06/05/1968,,"Ioxynil, respray was applied because of rain during spring on 4th May","sections 0, 1, 3, 4",sprayed,chemical pest control process,3,,6,oz/acre,20,gallons/acre,,,,"sections 9 sprayed with toxynil at 9 oz, mecoprop at 27 oz in 20 gals, sections 5 sprayed with ioxynil at 7.5 oz, mecoprop at 22.5 oz in 20 gals, sections 0, 1, 3, 4 sprayed with ioxynil at 6 oz, mecoprop at 18 oz in 20 gals"
+Broadbalk,1968,winter wheat,06/05/1968,,"mecoprop, respray was applied because of rain during spring on 4th May","sections 0, 1, 3, 4",sprayed,chemical pest control process,3,,18,oz/acre,20,gallons/acre,,,,
+Broadbalk,1969,potatoes,05/09/1968,,Paraquat,,,chemical pest control process,3,,0.375,lb/acre ion,37,gallons/acre,,,,Paraquat
+Broadbalk,1969,potatoes,12/05/1969,,Linuron,,,chemical pest control process,3,,0.75,lb/acre ion,37,gallons/acre,,,,Linuron
+Broadbalk,1969,potatoes,12/05/1969,,Paraquat,,,chemical pest control process,3,,0.375,lb/acre ion,37,gallons/acre,,,,Paraquat
+Broadbalk,1969,potatoes,15/07/1969,,Mancozeb,,,chemical pest control process,3,,1.2,lb/acre,37,gallons/acre,,,,mancozeb at 1.2 1b in 37 gals
+Broadbalk,1969,potatoes,04/08/1969,,Mancozeb,,,chemical pest control process,3,,1.2,lb/acre,37,gallons/acre,,,,mancozeb at 1.2 1b in 37 gals
+Broadbalk,1969,potatoes,04/08/1969,,demeton-s-methyl,,,chemical pest control process,3,,3.5,oz/acre,,,,,,demeton-s-methyl at 3.5 oz
+Broadbalk,1969,potatoes,22/08/1969,,Mancozeb,,,chemical pest control process,3,,1.2,lb/acre,37,gallons/acre,,,,mancozeb at 1.2 1b in 37 gals
+Broadbalk,1969,spring beans,19/06/1969,,demeton-s-methyl,,,chemical pest control process,3,,3.5,oz/acre,37,gallons/acre,,,,demeton-s-methyl at 3.5 oz in 37 gals
+Broadbalk,1969,fallow sections,05/09/1968,,weedkiller,,,chemical pest control process,3,,,,,,,,,weedkiller
+Broadbalk,1969,winter wheat,05/09/1968,10/09/1968,Paraquat,except 6 (following fallow) and 8 (no weedkiller).,,chemical pest control process,3,,0.75,lb/acre ion,20,gallons/acre,,,,Paraquat
+Broadbalk,1969,winter wheat,18/10/1968,,"Terbutryne, related triazines as Prebane",except 8,,chemical pest control process,3,,4,lb/acre,25,gallons/acre,,,,"Terbutryne and related triazines, as Prebane' at 4 1b in 25 gals"
+Broadbalk,1969,winter wheat,01/05/1969,,"MCPA, mecoprop, dicamba",,,chemical pest control process,3,,,,,,,,,"MCPA, mecoprop, dicamba"
+Broadbalk,1970,potatoes,20/05/1970,,Paraquat,,,chemical pest control process,3,,0.375,lb/acre ion,20,gallons/acre,,,,Paraquat
+Broadbalk,1970,potatoes,29/07/1970,,Mancozeb,,,chemical pest control process,3,,1.2,lb/acre,40,gallons/acre,,,,mancozeb at 1.2 1b in 40 gals
+Broadbalk,1970,potatoes,29/07/1970,,demeton-s-methyl,,,chemical pest control process,3,,3.5,oz/acre,,,,,,demeton-s-methyl at 3.5 oz
+Broadbalk,1970,potatoes,14/08/1970,,Mancozeb,,,chemical pest control process,3,,1.2,lb/acre,40,gallons/acre,,,,mancozeb at 1.2 1b in 40 gals
+Broadbalk,1970,potatoes,03/09/1970,,undiluted BOV,,sprayed,chemical pest control process,3,,150,gallons/acre,,,,,,sprayed with undiluted BOV at 150 gals
+Broadbalk,1970,spring beans,19/06/1970,,demeton-s-methyl,,,chemical pest control process,3,,3.5,oz/acre,40,gallons/acre,,,,"demeton-s-methyl at 3.5 oz in 4O gals,"
+Broadbalk,1970,winter wheat,17/10/1969,,"Terbutryne, related triazines as Prebane",except 8 (no weedkiller).,,chemical pest control process,3,,4,lb/acre,40,gallons/acre,,,,Terbutryne and related triazines as Prebane at 4 lb ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­n 20 gals
+Broadbalk,1970,winter wheat,06/05/1970,,"dicamba, mecoprop, MCPA as Banlene Plus",except 8,,chemical pest control process,3,,4,pints/acre,20,gallons/acre,,,,"MCPA, mecoprop and Dicamba as 'Banlene Plus' at 4 pints in 20 gals"
+Broadbalk,1971,potatoes,04/02/1971,,Paraquat,,,chemical pest control process,3,,0.42 kg ion,kg/ha,427,l/ha,,,,Paraquat
+Broadbalk,1971,potatoes,08/05/1971,,Linuron,,,chemical pest control process,3,,0.84 kg,kg/ha,427,l/ha,,,,Linuron
+Broadbalk,1971,potatoes,08/05/1971,,Paraquat,,,chemical pest control process,3,,0.42 kg ion,kg/ha,427,l/ha,,,,Paraquat
+Broadbalk,1971,potatoes,23/06/1971,,Mancozeb,,,chemical pest control process,3,,1.34,kg/ha,438,l/ha,,,,mancozeb at 1.34 kg in 438 1
+Broadbalk,1971,potatoes,16/08/1971,,Mancozeb,,,chemical pest control process,3,,1.34,kg/ha,438,l/ha,,,,mancozeb at 1.34 kg in 438 1
+Broadbalk,1971,spring beans,04/02/1971,,Paraquat,,,chemical pest control process,3,,"0,56 kg ion",kg/ha,225,l/ha,,,,Paraquat
+Broadbalk,1971,spring beans,01/07/1971,,demeton-s-methyl,,,chemical pest control process,3,,245,g/ha,438,l/ha,,,,"demeton-s-methyl at 245 g in 438 1,"
+Broadbalk,1971,winter wheat,11/09/1970,,Paraquat,sections 0 only,,chemical pest control process,3,,0.84 kg ion,kg/ha,225,l/ha,,,,Paraquat
+Broadbalk,1971,winter wheat,10/10/1970,,"Terbutryne, related triazines as Prebane",,,chemical pest control process,3,,4.48,kg/ha,225,l/ha,,,,Terbutryne and related triazines as Prebane at 4.48 kg in 225 l
+Broadbalk,1971,winter wheat,15/04/1971,,"dicamba, mecoprop, MCPA as Banlene Plus",except 8,,chemical pest control process,3,,5.6,l/ha,220,l/ha,,,,"MCPA, mecoprop and Dicamba as 'Banlene Plus' at 5.6 l in 220 l"
+Broadbalk,1972,fallow sections,10/09/1971,,aminotriazole,sections 5,,chemical pest control process,3,,4.5,kg/ha,220,l/ha,,,,"aminotriazole at 4,5 kg plus ammonium thiocyanate at 4,2 kg in 220 1."
+Broadbalk,1972,fallow sections,10/09/1971,,ammonium thiocyanate,section 5,,chemical pest control process,3,,4.2,kg/ha,220,l/ha,,,,
+Broadbalk,1972,potatoes,10/09/1971,,aminotriazole,,,chemical pest control process,3,,4.5,kg/ha,220,l/ha,,,,"aminotriazole at 4,5 kg plus ammonium thiocyanate at 4,2 kg in 220 1."
+Broadbalk,1972,potatoes,10/09/1971,,ammonium thiocyanate,,,chemical pest control process,3,,4.2,kg/ha,220,l/ha,,,,
+Broadbalk,1972,potatoes,16/09/1971,,undiluted BOV,,sprayed,chemical pest control process,3,,150,l/ha,,,,,,sprayed with undiluted BOV at 150 l
+Broadbalk,1972,potatoes,17/05/1972,,Linuron,(except sections 8),sprayed,chemical pest control process,3,,0.84,kg/ha,440,l/ha,,,,"sprayed with linuron, paraquat"
+Broadbalk,1972,potatoes,17/05/1972,,Paraquat,(except sections 8),sprayed,chemical pest control process,3,,0.42,kg/ha,440,l/ha,,,,
+Broadbalk,1972,potatoes,12/07/1972,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,440,l/ha,,,,mancozeb at 1.4 kg in 440
+Broadbalk,1972,potatoes,21/07/1972,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,440,l/ha,,,,mancozeb at 1.4 kg in 440
+Broadbalk,1972,potatoes,21/07/1972,,phorate,,granules,chemical pest control process,3,,1.1,kg/ha,,,,,,"phorate at 1.1 kg applied as granules,"
+Broadbalk,1972,potatoes,10/08/1972,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,440,l/ha,,,,mancozeb at 1.4 kg in 440
+Broadbalk,1972,spring beans,17/06/1972,,phorate,,granules,chemical pest control process,3,,1.1,kg/ha,,,,,,"phorate at 1.1 kg applied as granules,"
+Broadbalk,1972,spring beans,05/08/1972,,demeton-s-methyl,,,chemical pest control process,3,,245,g/ha,438,l/ha,,,,"demeton-s-methyl at 245 g in 438 1,"
+Broadbalk,1972,winter wheat,10/09/1971,,aminotriazole,not applied to sections 6,,chemical pest control process,3,,l.5,kg/ha,220,l/ha,,,,aminotriazole at l.5 kg plus ammonium thiocyanate at 4.2 kg in 220 l
+Broadbalk,1972,winter wheat,10/09/1971,,ammonium thiocyanate,not applied to sections 6,,chemical pest control process,3,,4.2,kg/ha,,,,,,
+Broadbalk,1972,winter wheat,25/10/1971,,"Terbutryne, related triazines as Prebane",,,chemical pest control process,3,,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
+Broadbalk,1972,winter wheat,27/04/1972,,"dicamba, mecoprop, MCPA as Banlene Plus",except 8,,chemical pest control process,3,,5.6,l/ha,220,l/ha,,,,"MCPA, mecoprop and Dicamba as 'Banlene Plus' at 5.6 l in 220 l"
+Broadbalk,1973,potatoes,11/05/1973,,Linuron,,,chemical pest control process,3,,"3,8 kg",kg/ha,450,l/ha,,,,Linuron
+Broadbalk,1973,potatoes,11/05/1973,,Paraquat,,,chemical pest control process,3,,0.42 kg ion,kg/ha,450,l/ha,,,,Paraquat
+Broadbalk,1973,potatoes,02/07/1973,,Mancozeb,,,chemical pest control process,3,,1.35,kg/ha,370,l/ha,,,,mancozeb at 1.35 kg in 370 l
+Broadbalk,1973,potatoes,02/07/1973,,demeton-s-methyl,applied to ends of plots,,chemical pest control process,3,,0.25,kg/ha,440,l/ha,,,,demeton-s-methyl at 0.25 kg in 440 1 applied to ends of plots.
+Broadbalk,1973,potatoes,24/07/1973,,Mancozeb,,,chemical pest control process,3,,1.35,kg/ha,370,l/ha,,,,mancozeb at 1.35 kg in 370 l
+Broadbalk,1973,potatoes,09/08/1973,,Mancozeb,,,chemical pest control process,3,,1.35,kg/ha,370,l/ha,,,,mancozeb at 1.35 kg in 370 l
+Broadbalk,1973,potatoes,31/08/1973,,undiluted BOV,,sprayed,chemical pest control process,3,,220,l/ha,,,,,,sprayed with undiluted BOV at 220 l
+Broadbalk,1973,potatoes,31/08/1973,,undiluted BOV,,sprayed,chemical pest control process,3,,220,l/ha,,,,,,sprayed with undiluted BOV at 220 l
+Broadbalk,1973,spring beans,08/06/1973,,demeton-s-methyl,,,chemical pest control process,3,,0.25,kg/ha,370,l/ha,,,,demeton-s-methyl at 0.25 kg in 370 1.
+Broadbalk,1973,winter wheat,20/10/1972,,"Terbutryne, related triazines as Prebane",,,chemical pest control process,3,,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
+Broadbalk,1973,winter wheat,26/04/1973,,"dicamba, mecoprop, MCPA as Tetralex Plus",,,chemical pest control process,3,,9.1,l/ha,290,l/ha,,,,"Dicamba, mecoprop and MCPA Tetralex Plus' at 9.1 1 in 290 1)."
+Broadbalk,1974,potatoes,17/05/1974,,Linuron,,,chemical pest control process,3,,1.2 kg,kg/ha,450,l/ha,,,,Linuron
+Broadbalk,1974,potatoes,17/05/1974,,Paraquat,,,chemical pest control process,3,,0.42,kg/ha,450,l/ha,,,,Paraquat
+Broadbalk,1974,potatoes,11/07/1974,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,450,l/ha,,,,Mancozeb at 1.3 kg in 450 l
+Broadbalk,1974,potatoes,11/07/1974,,demeton-s-methyl,,,chemical pest control process,3,,0.25,kg/ha,,,,,,demeton-s-methyl at 0.25 kg
+Broadbalk,1974,potatoes,02/08/1974,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,450,l/ha,,,,Mancozeb at 1.3 kg in 450 l
+Broadbalk,1974,spring beans,13/06/1974,,demeton-s-methyl,,,chemical pest control process,3,,0.25,kg/ha,450,l/ha,,,,demeton-s-methyl at 0.25 kg in 450 l
+Broadbalk,1974,winter wheat,12/09/1973,,"aminotriazole, ammonium thiocyanate as Weedazol",sections 0 and 9,,chemical pest control process,3,,22.5,l/ha,220,l/ha,,,,aminotriazole plus ammonium thiocyanate as Weedazol at 22.5 1 in 220 1.
+Broadbalk,1974,winter wheat,22/10/1973,,"Terbutryne, related triazines as Prebane","sections 0,1, 3, 4, 5 and 9",,chemical pest control process,3,,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
+Broadbalk,1974,winter wheat,18/04/1974,,"dicamba, mecoprop, MCPA as Banlene Plus",,,chemical pest control process,3,,5.6,l/ha,220,l/ha,,,,Dicamba with mecoprop and MCPA as 'Banlene Plus' at 5.6 l in 220 l
+Broadbalk,1975,potatoes,04/06/1975,,Linuron,,,chemical pest control process,3,,1.1 kg,kg/ha,450,l/ha,,,,Linuron
+Broadbalk,1975,potatoes,04/06/1975,,Paraquat,,,chemical pest control process,3,,0.42 kg ion,kg/ha,450,l/ha,,,,Paraquat
+Broadbalk,1975,potatoes,27/06/1975,,demeton-s-methyl,,,chemical pest control process,3,,0.25,kg/ha,450,l/ha,,,,demeton-s-methyl at 0.25 kg in 450 1 on two occasions.
+Broadbalk,1975,potatoes,21/07/1975,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,,,,,,mancozeb at 1.3 kg
+Broadbalk,1975,potatoes,21/07/1975,,demeton-s-methyl,,,chemical pest control process,3,,0.25,kg/ha,450,l/ha,,,,demeton-s-methyl at 0.25 kg in 450 1 on two occasions.
+Broadbalk,1975,spring beans,09/07/1975,,demeton-s-methyl,,,chemical pest control process,3,,0.25,kg/ha,450,l/ha,,,,demeton-s-methyl at 0.25 kg in 450 l
+Broadbalk,1975,winter wheat,09/05/1975,,"ioxynil, mecoprop as Actril C","except sections 8,",sprayed,chemical pest control process,3,,7.7,l/ha,220,l/ha,,,,ioxynil with mecoprop 'Actril C' at 7.7 1 in 220 1)
+Broadbalk,1975,winter wheat,09/05/1975,,mecoprop Actril C,"except sections 8,",sprayed,chemical pest control process,3,,7.7,l/ha,220,l/ha,,,,
+Broadbalk,1976,fallow sections,29/09/1975,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1976,potatoes,29/09/1975,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1976,potatoes,05/05/1976,,Linuron,,,chemical pest control process,3,,1.2 kg,kg/ha,220,l/ha,,,,Linuron
+Broadbalk,1976,potatoes,17/06/1976,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,450,l/ha,,,,Pirimicarb at 0.14 kg in 450 l
+Broadbalk,1976,potatoes,28/07/1976,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,450,l/ha,,,,Mancozeb at 1.3 kg in 450 l
+Broadbalk,1976,winter wheat,24/09/1975,,glyphosate,"Sections 0, 1 and 9",,chemical pest control process,3,,1.7,kg/ha,220,l/ha,,,,glyphosate at 1.7 kg in 220 l
+Broadbalk,1976,winter wheat,29/09/1975,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1976,winter wheat,18/10/1975,,"Terbutryne, related triazines as Prebane","Sections 0, 1, 5, 6, 7 and 9",,chemical pest control process,3,,4.5,kg/ha,220,l/ha,,,,Terbutryne and related triazines as 'Prebane' at 4.5 kg in 220 l
+Broadbalk,1976,winter wheat,08/04/1976,,Dimethoate,section 9,,chemical pest control process,3,,0.11,kg/ha,220,l/ha,,,,Dimethoate at 0.11 kg in 220 l
+Broadbalk,1976,winter wheat,29/04/1976,,"dicamba, mecoprop, MCPA as Banlene Plus",,,chemical pest control process,3,,5.6,l/ha,220,l/ha,,,,Dicamba with mecoprop and MCPA as 'Banlene Plus' at 5.6 l in 220 l
+Broadbalk,1976,winter wheat,24/06/1976,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,220,l/ha,,,,Pirimicarb at 0.14 kg in 220 l.
+Broadbalk,1977,fallow sections,06/09/1976,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1977,potatoes,06/09/1976,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1977,potatoes,23/05/1977,,Linuron,,,chemical pest control process,3,,1.3,kg/ha,340,l/ha,,,,Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 340 1.
+Broadbalk,1977,potatoes,23/06/1977,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,340,l/ha,,,,mancozeb at 1.3 kg in 340 1.
+Broadbalk,1977,potatoes,05/07/1977,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,340,l/ha,,,,mancozeb at 1.3 kg in 340 1.
+Broadbalk,1977,potatoes,26/07/1977,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,340,l/ha,,,,mancozeb at 1.3 kg in 340 1.
+Broadbalk,1977,potatoes,26/07/1977,,Pirimicarb,"except sections 8,",sprayed,chemical pest control process,3,,0.14,kg/ha,220,l/ha,,,,primicarb at 0.14 kg applied with the Fungicide.
+Broadbalk,1977,potatoes,10/08/1977,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,340,l/ha,,,,mancozeb at 1.3 kg in 340 1.
+Broadbalk,1977,potatoes,10/08/1977,,Pirimicarb,"except sections 8,",sprayed,chemical pest control process,3,,0.14,kg/ha,220,l/ha,,,,primicarb at 0.14 kg applied with the Fungicide.
+Broadbalk,1977,spring beans,19/07/1977,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,280,l/ha,,,,primicarb at 0.14 kg in 280 1.
+Broadbalk,1977,winter wheat,06/09/1976,,glyphosate,"Sections 0, 1 and 9",,chemical pest control process,3,,1.7,kg/ha,220,l/ha,,,,glyphosate at 1.7 kg in 220 l
+Broadbalk,1977,winter wheat,07/09/1976,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1977,winter wheat,10/05/1977,,Ioxynil," sections 3, 4, 5, 9",sprayed,chemical pest control process,3,,0.53,kg/ha,220,l/ha,,,,ioxynil at 0.53 kg with mecoprop at 1.6 kg in 220 1 applied in spring.
+Broadbalk,1977,winter wheat,10/05/1977,,mecoprop," sections 3, 4, 5, 9",sprayed,chemical pest control process,3,,1.6,kg/ha,220,l/ha,,,,
+Broadbalk,1977,winter wheat,23/05/1977,,Ioxynil," sections 0, 1",sprayed,chemical pest control process,3,,0.53,kg/ha,220,l/ha,,,,ioxynil at 0.53 kg with mecoprop at 1.6 kg in 220 1 applied in spring.
+Broadbalk,1977,winter wheat,23/05/1977,,mecoprop," sections 0, 1",sprayed,chemical pest control process,3,,1.6,kg/ha,220,l/ha,,,,
+Broadbalk,1977,winter wheat,12/07/1977,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,280,l/ha,,,,primicarb at 0.14 kg in 280 1.
+Broadbalk,1977,winter wheat,06/08/1977,,Diquat,sections 4,,chemical pest control process,3,,0.59,kg/ha,450,l/ha,,,,Diquat at 0.59 kg ion in 450 1.
+Broadbalk,1978,fallow sections,20/09/1977,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1978,fallow sections,08/05/1978,,Paraquat,,,chemical pest control process,3,,0.84 kg ion,kg/ha,220,l/ha,,,,Paraquat
+Broadbalk,1978,potatoes,20/09/1977,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1978,potatoes,08/05/1978,,Paraquat,,,chemical pest control process,3,,0.84 kg ion,kg/ha,220,l/ha,,,,Paraquat
+Broadbalk,1978,potatoes,15/05/1978,,Linuron,,,chemical pest control process,3,,1.1 kg,kg/ha,220,l/ha,,,,Linuron
+Broadbalk,1978,potatoes,05/07/1978,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,220,l/ha,,,,mancozeb at 1.3 kg in 220 l.
+Broadbalk,1978,potatoes,18/07/1978,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,220,l/ha,,,,mancozeb at 1.3 kg in 220 l.
+Broadbalk,1978,potatoes,18/07/1978,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,220,l/ha,,,,primicarb at 0.14 kg in 220 1.
+Broadbalk,1978,potatoes,04/08/1978,,Mancozeb,,,chemical pest control process,3,,1.3,kg/ha,220,l/ha,,,,mancozeb at 1.3 kg in 220 l.
+Broadbalk,1978,potatoes,04/08/1978,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,220,l/ha,,,,primicarb at 0.14 kg in 220 1.
+Broadbalk,1978,potatoes,17/08/1978,,"fentin acetate, maneb as Fennite A"," sections 0, 1",sprayed,chemical pest control process,3,,1.7,kg/ha,220,l/ha,,,,Fentin acetate and maneb as Fennite A at 1.7 kg in 220 1.
+Broadbalk,1978,potatoes,17/08/1978,,maneb as Fennite A," sections 0, 1",sprayed,chemical pest control process,3,,1.7,kg/ha,220,l/ha,,,,
+Broadbalk,1978,spring beans,07/07/1978,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,220,l/ha,,,,primicarb at 0.14 kg in 220 1.
+Broadbalk,1978,spring beans,19/09/1978,,Haulm desiccant applied,,,residue management process,3,,,,,,,,,Haulm desiccant applied
+Broadbalk,1978,winter wheat,19/09/1977,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1978,winter wheat,24/10/1977,,Terbutryne,,,chemical pest control process,3,,2.8,kg/ha,220,l/ha,,,,Terbutryne at 2.8 kg in 220 1.
+Broadbalk,1978,winter wheat,30/03/1978,,Omethoate,section 6,,chemical pest control process,3,,0.65,kg/ha,220,l/ha,,,,Omethoate at 0.65 kg in 220 1.
+Broadbalk,1978,winter wheat,08/05/1978,,"dicamba, mecoprop, MCPA as Banlene Plus",,,chemical pest control process,3,,4.9,l/ha,220,l/ha,,,,Dicamba with mecoprop and MCPA as 'Banlene Plus' at 4.9 1 in 220 l
+Broadbalk,1979,winter wheat,22/09/1978,,glyphosate,"0, 1, 6 and 9 only",,chemical pest control process,3,,1.5,kg/ha,220,l/ha,,,,glyphosate at 1.5 kg in 220 l
+Broadbalk,1979,cropped sections,03/10/1978,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1979,winter wheat,12/10/1978,,chlortoluron,,,chemical pest control process,3,,3.6,kg/ha,220,l/ha,,,,chlortoluron at 3.6 kg in 220 1
+Broadbalk,1979,winter wheat,09/05/1979,,"dicamba, mecoprop, MCPA as Banlene Plus",,,chemical pest control process,3,,4.2,kg/ha,220,l/ha,,,,Dicamba with mecoprop and MCPA as 'Banlene Plus' at 4.2 kg in 220 1
+Broadbalk,1979,winter wheat,27/06/1979,,triadimefon,,,chemical pest control process,3,,0.13,kg/ha,220,l/ha,,,,triadimefon at 0.13 kg in 220 1l.
+Broadbalk,1979,fallow sections,03/10/1978,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1979,potatoes,30/05/1979,,Linuron,,,chemical pest control process,3,,1.1 kg,kg/ha,220,l/ha,,,,Linuron
+Broadbalk,1979,potatoes,26/06/1979,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,220,l/ha,,,,Mancozeb at 1.4 kg in 220 l
+Broadbalk,1979,potatoes,26/06/1979,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1979,potatoes,20/07/1979,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1979,potatoes,20/07/1979,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,220,l/ha,,,,Mancozeb at 1.4 kg in 220 l
+Broadbalk,1979,potatoes,03/08/1979,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,220,l/ha,,,,Mancozeb at 1.4 kg in 220 l
+Broadbalk,1979,potatoes,15/08/1979,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,220,l/ha,,,,Mancozeb at 1.4 kg in 220 l
+Broadbalk,1980,all sections,19/09/1979,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1980,winter wheat,08/10/1979,,chlortoluron,,,chemical pest control process,3,,5.6,kg/ha,220,l/ha,,,,chlortoluron at 5.6 kg in 220 1.
+Broadbalk,1980,winter wheat,29/02/1980,,Omethoate as Folimat,section 3,,chemical pest control process,3,,1.1,l/ha,220,l/ha,,,,Omethoate as 'Folimat' at 1.1 l in 220 1
+Broadbalk,1980,winter wheat,10/04/1980,,"dicamba, mecoprop, MCPA as Banlene Plus",,,chemical pest control process,3,,5,l/ha,250,l/ha,,,,Dicamba with mecoprop and MCPA as 'Banlene Plus' at 5.0 1 in 250 l.
+Broadbalk,1980,winter wheat,03/06/1980,,triadimefon,,,chemical pest control process,3,,0.13,kg/ha,250,l/ha,,,,triadimefon at 0.13 kg in 250 1.
+Broadbalk,1980,winter wheat,23/06/1980,,demeton-s-methyl,,,chemical pest control process,3,,0.24,kg/ha,250,l/ha,,,,demeton-s-methyl at 0.24 kg in 250 1.
+Broadbalk,1980,potatoes,19/05/1980,,Linuron,,,chemical pest control process,3,,1.1 kg,kg/ha,900,l/ha,,,,Linuron
+Broadbalk,1980,potatoes,18/06/1980,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1980,potatoes,18/06/1980,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1980,potatoes,30/06/1980,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1980,potatoes,30/06/1980,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1980,potatoes,11/07/1980,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1980,potatoes,11/07/1980,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1980,potatoes,24/07/1980,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1980,potatoes,24/07/1980,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1980,potatoes,05/08/1980,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1980,potatoes,05/08/1980,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1980,potatoes,18/08/1980,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1981,winter wheat,02/09/1980,,glyphosate,section 9,,chemical pest control process,3,,1.5,l/ha,250,l/ha,,,,glyphosate at 1.5 1 in 250 1.
+Broadbalk,1981,winter wheat,03/10/1980,,chlortoluron,not applied to sections 8,,chemical pest control process,3,,5.6,l/ha,250,l/ha,,,,chlortoluron at 5.6 l in 250 l
+Broadbalk,1981,winter wheat,21/04/1981,,"mecoprop, bromoxynil, ioxynil as Brittox",,,chemical pest control process,3,,3.7,l/ha,250,l/ha,,,,mecoprop with bromoxynil and ioxynil as 'Brittox' at 3.7 1) in 250 1.
+Broadbalk,1981,winter wheat,05/05/1981,,Prochloraz,,,chemical pest control process,3,,0.4,l/ha,250,l/ha,,,,Prochloraz at 0.4 l in 250 l.
+Broadbalk,1981,winter wheat,19/06/1981,,Prochloraz,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.4,l/ha,250,l/ha,,,,Prochloraz at 0.4 l with maneb at 1.2 kg and zineb at 0.13 kg in 250 l
+Broadbalk,1981,winter wheat,19/06/1981,,maneb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,1.2,kg/ha,250,l/ha,,,,
+Broadbalk,1981,winter wheat,19/06/1981,,zineb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.13,kg/ha,250,l/ha,,,,
+Broadbalk,1981,winter wheat,22/06/1981,,Prochloraz,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.4,l/ha,250,l/ha,,,,Prochloraz at 0.4 l with maneb at 1.2 kg and zineb at 0.13 kg in 250 l
+Broadbalk,1981,winter wheat,22/06/1981,,maneb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,1.2,kg/ha,250,l/ha,,,,
+Broadbalk,1981,winter wheat,22/06/1981,,zineb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.13,kg/ha,250,l/ha,,,,
+Broadbalk,1981,fallow sections,04/09/1980,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1981,potatoes,01/06/1981,,Linuron,,,chemical pest control process,3,,1.1 kg,kg/ha,250,l/ha,,,,Linuron
+Broadbalk,1981,potatoes,23/06/1981,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1981,potatoes,23/06/1981,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1981,potatoes,01/07/1981,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1981,potatoes,01/07/1981,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1981,potatoes,13/07/1981,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1981,potatoes,13/07/1981,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1981,potatoes,27/07/1981,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1981,potatoes,27/07/1981,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1981,potatoes,11/08/1981,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1981,potatoes,11/08/1981,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1981,potatoes,25/08/1981,,BOV,,,chemical pest control process,3,,170,l/ha,,,,,,BOV at 170 l
+Broadbalk,1982,fallow sections,11/09/1981,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1982,potatoes,17/05/1982,,Paraquat,,,chemical pest control process,3,,0.5 kg ion,kg/ha,350,l/ha,,,,Paraquat
+Broadbalk,1982,potatoes,14/06/1982,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1982,potatoes,14/06/1982,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1982,potatoes,30/06/1982,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1982,potatoes,30/06/1982,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1982,potatoes,12/07/1982,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1982,potatoes,26/07/1982,,ofurace,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.12,kg/ha,250,l/ha,,,,ofurace at 0.12 kg and maneb at 1.2 kg in 250 l
+Broadbalk,1982,potatoes,26/07/1982,,maneb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,1.2,kg/ha,250,l/ha,,,,
+Broadbalk,1982,potatoes,26/07/1982,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1982,potatoes,26/07/1982,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1982,potatoes,09/08/1982,,ofurace,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.12,kg/ha,250,l/ha,,,,ofurace at 0.12 kg and maneb at 1.2 kg in 250 l
+Broadbalk,1982,potatoes,09/08/1982,,maneb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,1.2,kg/ha,250,l/ha,,,,
+Broadbalk,1982,potatoes,09/08/1982,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1982,potatoes,24/08/1982,,BOV,,,chemical pest control process,3,,220,l/ha,,,,,,BOV at 220 l
+Broadbalk,1982,winter wheat,17/10/1981,,chlortoluron,not applied to sections 8,,chemical pest control process,3,,5.6,l/ha,250,l/ha,,,,chlortoluron at 5.6 l in 250 l
+Broadbalk,1982,winter wheat,16/04/1982,,"mecoprop, bromoxynil, ioxynil as Brittox",,,chemical pest control process,3,,3.5,l/ha,250,l/ha,,,,"mecoprop, bromoxynil and ioxynil as 'Brittox' at 3.5 1) in 250 1."
+Broadbalk,1982,winter wheat,26/05/1982,,Propiconazole,,,chemical pest control process,3,,0.12,kg/ha,250,l/ha,,,,propiconazole at 0.12 kg in 250 l
+Broadbalk,1982,winter wheat,17/06/1982,,Propiconazole,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.12,kg/ha,250,l/ha,,,,propiconazole at 0.12 kg with pirimicarb at 0.14 kg in 250 l
+Broadbalk,1982,winter wheat,17/06/1982,,Pirimicarb,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.14,kg/ha,250,l/ha,,,,
+Broadbalk,1982,winter wheat,10/08/1982,,glyphosate,"Plots 03, 05 and 06, sections 0,1,5,6 and 7 and plot 05, sections 9",,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,glyphosate at 1.4 kg in 250 1.
+Broadbalk,1983,cropped sections,02/09/1982,,chalk applied,"sections 6, 8, 9",,liming process,3,,,,,,,,,"W. wheat Chalk to sections 6, 8, 9"
+Broadbalk,1983,winter wheat,16/04/1983,,"mecoprop, bromoxynil, ioxynil as Brittox",not applied to sections 8,sprayed,chemical pest control process,3,,3.5,l/ha,250,l/ha,,,,"mecoprop, bromoxynil and ioxynil as 'Brittox' at 3.5 1) with isoproturÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n at 2.1 kg in 250 1."
+Broadbalk,1983,winter wheat,16/04/1983,,Isoproturon,not applied to sections 8,sprayed,chemical pest control process,3,,2.1,kg/ha,250,l/ha,,,,
+Broadbalk,1983,winter wheat,26/05/1983,,Propiconazole,,,chemical pest control process,3,,0.12,kg/ha,250,l/ha,,,,propiconazole at 0.12 kg in 250 l
+Broadbalk,1983,winter wheat,30/06/1983,,Propiconazole,,,chemical pest control process,3,,0.12,kg/ha,500,l/ha,,,,propiconazole at 0.12 kg in 500 l
+Broadbalk,1983,fallow sections,02/09/1982,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1983,potatoes,03/06/1983,,Paraquat,,,chemical pest control process,3,,0.56 kg ion,kg/ha,500,l/ha,,,,Paraquat
+Broadbalk,1983,potatoes,22/06/1983,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,250,l/ha,,,,mancozeb at 1.4 kg in 250 l
+Broadbalk,1983,potatoes,01/07/1983,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg in 250 1 on five occasions with the insecticide on the first four.
+Broadbalk,1983,potatoes,01/07/1983,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1983,potatoes,08/07/1983,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg in 250 1 on five occasions with the insecticide on the first four.
+Broadbalk,1983,potatoes,08/07/1983,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1983,potatoes,18/07/1983,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg in 250 1 on five occasions with the insecticide on the first four.
+Broadbalk,1983,potatoes,18/07/1983,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1983,potatoes,28/07/1983,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg in 250 1 on five occasions with the insecticide on the first four.
+Broadbalk,1983,potatoes,28/07/1983,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1983,potatoes,11/08/1983,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg in 250 1 on five occasions with the insecticide on the first four.
+Broadbalk,1984,winter wheat,01/12/1983,,chlortoluron,(except sections 8),,chemical pest control process,3,,3.5,kg/ha,250,l/ha,,,,chlortoluron at 3.5 kg in 250 1.
+Broadbalk,1984,winter wheat,10/04/1984,,Cyanazine,(except sections 8),sprayed,chemical pest control process,3,,0.3,l/ha,250,l/ha,,,,Cyanazine and mecoprop
+Broadbalk,1984,winter wheat,10/04/1984,,mecoprop,(except sections 8),sprayed,chemical pest control process,3,,2,l/ha,250,l/ha,,,,
+Broadbalk,1984,winter wheat,11/06/1984,,Propiconazole,,,chemical pest control process,3,,0.25,kg/ha,250,l/ha,,,,propiconazole at 0.25 kg in 250 1.
+Broadbalk,1984,winter wheat,28/06/1984,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,500,l/ha,,,,primicarb at 0.14 kg in 500 1
+Broadbalk,1984,cropped sections,31/08/1984,,chalk applied,"sections 0, 5",,liming process,3,,,,,,,,,"W. wheat Chalk to sections 0, 5"
+Broadbalk,1984,fallow sections,31/08/1984,,chalk applied,,,liming process,3,,,,,,,,,Chalk applied
+Broadbalk,1984,potatoes,03/05/1984,,Paraquat,,,chemical pest control process,3,,0.50 kg ion,kg/ha,500,l/ha,,,,Paraquat
+Broadbalk,1984,potatoes,19/06/1984,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,250,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
+Broadbalk,1984,potatoes,19/06/1984,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1984,potatoes,03/07/1984,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
+Broadbalk,1984,potatoes,16/07/1984,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
+Broadbalk,1984,potatoes,16/07/1984,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1984,potatoes,30/07/1984,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
+Broadbalk,1984,potatoes,13/08/1984,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
+Broadbalk,1984,potatoes,28/08/1984,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg on seix occasions the first in 250 l and the remainder in 200 l. applied with the insecticide on the first and third occasions
+Broadbalk,1985,potatoes,05/09/1984,,Haulm desiccant applied,,,residue management process,3,,,,,,,,,Haulm desiccant applied
+Broadbalk,1985,potatoes,17/05/1985,,Paraquat,,,chemical pest control process,3,,0.50 kg ion,kg/ha,500,l/ha,,,,Paraquat
+Broadbalk,1985,potatoes,20/06/1985,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1985,potatoes,03/07/1985,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1985,potatoes,03/07/1985,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,primicarb at 0.14 kg on two occasions.
+Broadbalk,1985,potatoes,23/07/1985,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1985,potatoes,23/07/1985,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,primicarb at 0.14 kg on two occasions.
+Broadbalk,1985,potatoes,06/08/1985,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1985,potatoes,21/08/1985,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg in 200 l
+Broadbalk,1985,winter wheat,08/09/1984,,chalk applied,"sections 1, 2, 3",,liming process,3,,,,,,,,,"Chalk to sections 1, 2, 3"
+Broadbalk,1985,winter wheat,10/04/1985,,Isoproturon,(except sections 8),sprayed,chemical pest control process,3,,2,kg/ha,200,l/ha,,,,"Isoproturon at 2.0 kg with mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg in 200 1."
+Broadbalk,1985,winter wheat,10/04/1985,,mecoprop,(except sections 8),sprayed,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,10/04/1985,,bromoxynil,(except sections 8),sprayed,chemical pest control process,3,,0.2,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,10/04/1985,,Ioxynil,(except sections 8),sprayed,chemical pest control process,3,,0.2,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,19/04/1985,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat at 1.3 kg. in 200 l
+Broadbalk,1985,winter wheat,19/04/1985,,carbendazim,(except to sections 6),sprayed,chemical pest control process,3,,0.15,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,19/04/1985,,Chlormequat,(except to sections 6),sprayed,chemical pest control process,3,,1.3,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,14/06/1985,,Fenpropimorph,(except sections 6),sprayed,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,Fenpropimorph at 0.75 kg with captafol at 1.3 kg in 200 l.
+Broadbalk,1985,winter wheat,14/06/1985,,captafol,(except sections 6),sprayed,chemical pest control process,3,,1.3,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,14/06/1985,,Fenpropimorph,(except sections 6),sprayed,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,Fenpropimorph at 0.75 kg with captafol at 1.3 kg in 200 l.
+Broadbalk,1985,winter wheat,14/06/1985,,captafol,(except sections 6),sprayed,chemical pest control process,3,,1.3,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,02/07/1985,,Propiconazole,(except sections 6),sprayed,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg with carbendazim and maneb and 'Septal' at 2.5 kg in 200 l
+Broadbalk,1985,winter wheat,02/07/1985,,"carbendazim, maneb as Septal",(except sections 6),sprayed,chemical pest control process,3,,2.5,kg/ha,200,l/ha,,,,
+Broadbalk,1985,winter wheat,17/07/1985,,Pirimicarb,(except sections 6),,chemical pest control process,3,,0.14,kg/ha,200,l/ha,,,,primicarb at 0.14 kg in 200 1.
+Broadbalk,1986,potatoes,12/08/1986,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,200,l/ha,,,,primicarb at 0.14 kg in 200 l
+Broadbalk,1986,potatoes,30/05/1986,,Linuron,,,chemical pest control process,3,,1.3 kg,kg/ha,500,l/ha,,,,Linuron
+Broadbalk,1986,potatoes,30/06/1986,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1986,potatoes,14/07/1986,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1986,potatoes,28/07/1986,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,500,l/ha,,,,mancozeb at 1.4 kg in 500 l
+Broadbalk,1986,potatoes,12/08/1986,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1986,potatoes,12/08/1986,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,200,l/ha,,,,primicarb at 0.14 kg in 200 l
+Broadbalk,1986,potatoes,29/08/1986,,Haulm desiccant applied,,,residue management process,3,,,,,,,,,Haulm desiccant applied
+Broadbalk,1986,winter wheat,19/09/1985,,chalk applied,"sections 6, 7, 8, 9",,liming process,3,,,,,,,,,"Chalk to sections 6, 7, 8, 9"
+Broadbalk,1986,winter wheat,31/10/1985,,Chlorfenvinphos,(to sections 4 only),,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,Chlorfenvinphos at 1.0 kg in 200 1.
+Broadbalk,1986,winter wheat,28/04/1986,,Isoproturon,(except sections 8),sprayed,chemical pest control process,3,,2,kg/ha,200,l/ha,,,,"Isoproturon at 2.0 kg with clopyralid at 0.07 kg, bromoxynil octanoate at 0.34 kg and mecoprop at 2.5 kg in 200 1."
+Broadbalk,1986,winter wheat,28/04/1986,,clopyralid,(except sections 8),sprayed,chemical pest control process,3,,0.07,kg/ha,200,l/ha,,,,
+Broadbalk,1986,winter wheat,28/04/1986,,bromoxynil octanoate,(except sections 8),sprayed,chemical pest control process,3,,0.34,kg/ha,200,l/ha,,,,
+Broadbalk,1986,winter wheat,28/04/1986,,mecoprop,(except sections 8),sprayed,chemical pest control process,3,,2.5,kg/ha,200,l/ha,,,,
+Broadbalk,1986,winter wheat,01/05/1986,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat chloride at 1.3 kg in 200 l
+Broadbalk,1986,winter wheat,01/05/1986,,carbendazim,(except to sections 6),sprayed,chemical pest control process,3,,0.15,kg/ha,200,l/ha,,,,
+Broadbalk,1986,winter wheat,01/05/1986,,Chlormequat chloride,(except to sections 6),sprayed,chemical pest control process,3,,1.3,kg/ha,200,l/ha,,,,
+Broadbalk,1986,winter wheat,16/06/1986,,captafol,(except sections 6),,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,captafol at 1.4 kg in 200 1.
+Broadbalk,1986,winter wheat,16/06/1986,,Fenpropimorph,(except sections 6),,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,Fenpropimorph at 0.75 kg in 200 1.
+Broadbalk,1986,winter wheat,01/07/1986,,Propiconazole,(except sections 6),sprayed,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg with carbendazim and maneb as 'Septal' at 2.5 kg in 200 l
+Broadbalk,1986,winter wheat,01/07/1986,,"carbendazim, maneb as Septal",(except sections 6),sprayed,chemical pest control process,3,,2.5,kg/ha,200,l/ha,,,,
+Broadbalk,1987,fallow sections,22/06/1987,,glyphosate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 1 on two occasions.
+Broadbalk,1987,fallow sections,17/08/1987,,glyphosate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 1 on two occasions.
+Broadbalk,1987,potatoes,04/09/1986,,Haulm desiccant applied,,,residue management process,3,,,,,,,,,Haulm desiccant applied
+Broadbalk,1987,potatoes,30/04/1987,,Linuron,,,chemical pest control process,3,,1.6 kg,kg/ha,500,l/ha,,,,Linuron
+Broadbalk,1987,potatoes,24/06/1987,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg 200 1
+Broadbalk,1987,potatoes,08/07/1987,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg 200 1
+Broadbalk,1987,potatoes,08/07/1987,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1987,potatoes,28/07/1987,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg 200 1
+Broadbalk,1987,potatoes,10/08/1987,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg 200 1
+Broadbalk,1987,potatoes,28/08/1987,,Fentin hydroxide,,,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.28 kg in 200 l
+Broadbalk,1987,winter wheat,26/09/1986,,chalk applied," sections 0, 4, 5",,liming process,3,,,,,,,,,"Chalk applied sections 0, 4, 5"
+Broadbalk,1987,winter wheat,17/10/1986,,Methabenzthiazuron,(except sections 8),,chemical pest control process,3,,3.2,kg/ha,200,l/ha,,,,Methabenzthiazuron at 3.2 kg in 200 l.
+Broadbalk,1987,winter wheat,15/04/1987,,clopyralid,(except sections 8),sprayed,chemical pest control process,3,,0.07,kg/ha,200,l/ha,,,,"Clopyralid at 0.07 kg, bromoxynil at 0,34 kg and mecoprop at 2.5 kg in 200 1."
+Broadbalk,1987,winter wheat,15/04/1987,,bromoxynil,(except sections 8),sprayed,chemical pest control process,3,,0.34,kg/ha,200,l/ha,,,,
+Broadbalk,1987,winter wheat,15/04/1987,,mecoprop,(except sections 8),sprayed,chemical pest control process,3,,2.5,kg/ha,200,l/ha,,,,
+Broadbalk,1987,winter wheat,06/05/1987,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat chloride at 1.3 kg in 200 l
+Broadbalk,1987,winter wheat,06/05/1987,,carbendazim,(except to sections 6),sprayed,chemical pest control process,3,,0.15,kg/ha,200,l/ha,,,,
+Broadbalk,1987,winter wheat,06/05/1987,,Chlormequat chloride,(except to sections 6),sprayed,chemical pest control process,3,,1.3,kg/ha,200,l/ha,,,,
+Broadbalk,1987,winter wheat,16/06/1987,,Chlorothalonil,(except to sections 6),,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,Chlorothalonil at 1.0 kg in 200 l
+Broadbalk,1987,winter wheat,16/06/1987,,Fenpropimorph,(except sections 6),,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,fenpropimorph at 0.75 kg in 200 l
+Broadbalk,1987,winter wheat,10/07/1987,,Propiconazole,(except sections 6),,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg in 200 l
+Broadbalk,1987,winter wheat,10/07/1987,,carbendazim,(except sections 6),,chemical pest control process,3,,0.25,kg/ha,200,l/ha,,,,carbendazim at 0.25 kg in 200 l
+Broadbalk,1987,winter wheat,10/07/1987,,maneb,(except sections 6),,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,maneb at 1.6 kg in 200 l
+Broadbalk,1988,winter wheat,06/05/1988,,Diclofop-methyl,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,1.1,kg/ha,260,l/ha,,,,Diclofop-methyl at 1.1 kg with fluroxypyr at 0.15 kg in 260 1.
+Broadbalk,1988,winter wheat,06/05/1988,,Fluroxypyr,"sections 0,1,2,3 and plots 01,21,22 and 03 of sections 5 and 6",sprayed,chemical pest control process,3,,0.15,kg/ha,260,l/ha,,,,
+Broadbalk,1988,potatoes,05/05/1988,,Linuron,,,chemical pest control process,3,,1.6 kg,kg/ha,260,l/ha,,,,Linuron
+Broadbalk,1988,potatoes,15/06/1988,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg
+Broadbalk,1988,potatoes,15/06/1988,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1988,potatoes,30/06/1988,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg
+Broadbalk,1988,potatoes,30/06/1988,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1988,potatoes,08/07/1988,,Manganese zinc ethylene bisdithiocarbamate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,Manganese zinc ethylene bisdithiocarbamate at 1.4 kg in 200 1.
+Broadbalk,1988,potatoes,18/07/1988,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg
+Broadbalk,1988,potatoes,01/08/1988,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg
+Broadbalk,1988,potatoes,15/08/1988,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,,,,,,mancozeb at 1.4 kg
+Broadbalk,1988,potatoes,30/08/1988,,Fentin hydroxide,,,chemical pest control process,3,,0.27,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.27 kg in 200 1.
+Broadbalk,1988,winter wheat,26/04/1988,,Fluroxypyr,(except to sections 6),sprayed,chemical pest control process,3,,0.2,kg/ha,200,l/ha,,,,Fluroxypyr at 0.20 kg with clopyralid at 0.07 kg and bromoxynil at 0.34 kg in 200 1.
+Broadbalk,1988,winter wheat,26/04/1988,,clopyralid,(except to sections 6),sprayed,chemical pest control process,3,,0.07,kg/ha,200,l/ha,,,,
+Broadbalk,1988,winter wheat,26/04/1988,,bromoxynil,(except to sections 6),sprayed,chemical pest control process,3,,0.34,kg/ha,200,l/ha,,,,
+Broadbalk,1988,winter wheat,06/05/1988,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat chloride at 1.3 kg in 200 l
+Broadbalk,1988,winter wheat,06/05/1988,,carbendazim,(except to sections 6),sprayed,chemical pest control process,3,,0.15,kg/ha,200,l/ha,,,,
+Broadbalk,1988,winter wheat,06/05/1988,,Chlormequat chloride,(except to sections 6),sprayed,chemical pest control process,3,,1.3,kg/ha,200,l/ha,,,,
+Broadbalk,1988,winter wheat,06/06/1988,,Propiconazole,(except to sections 6),sprayed,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,Propiconazole with tridemorph and pirimicarb
+Broadbalk,1988,winter wheat,06/06/1988,,tridemorph,(except to sections 6),sprayed,chemical pest control process,3,,0.25,kg/ha,200,l/ha,,,,
+Broadbalk,1988,winter wheat,06/06/1988,,Pirimicarb,(except to sections 6),sprayed,chemical pest control process,3,,0.14,kg/ha,200,l/ha,,,,
+Broadbalk,1988,winter wheat,23/06/1988,,Propiconazole,(except to sections 6),,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg in 200 l
+Broadbalk,1988,winter wheat,23/06/1988,,maneb,(except to sections 6),,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,maneb at 1.6 kg in 200 l
+Broadbalk,1988,winter wheat,23/06/1988,,carbendazim,(except to sections 6),,chemical pest control process,3,,0.25,kg/ha,200,l/ha,,,,carbendazim at 0.25 kg in 200 l
+Broadbalk,1989,potatoes,17/07/1989,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1989,fallow sections,20/09/1988,,glyphosate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1989,potatoes,31/05/1989,,Metribuzin,,,chemical pest control process,3,,1,kg/ha,300,l/ha,,,,Metribuzin at 1.0 kg in 300 1.
+Broadbalk,1989,potatoes,03/07/1989,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1989,potatoes,28/07/1989,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1989,potatoes,14/08/1989,,Mancozeb,,,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,mancozeb at 1.0 kg in 200 l
+Broadbalk,1989,potatoes,30/08/1989,,Fentin hydroxide,,,chemical pest control process,3,,0.27,kg/ha,260,l/ha,,,,"Fentin hydroxide at 0.27 kg in 260 1,"
+Broadbalk,1989,winter wheat,20/09/1988,,glyphosate,"(except to sections 2, 8)",,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1989,winter wheat,11/10/1988,,chalk applied," sections 1, 3",,liming process,3,,,,,,,,,"Chalk applied sections 1, 3"
+Broadbalk,1989,winter wheat,15/11/1988,,Isoproturon,,,chemical pest control process,3,,2.5,kg/ha,200,l/ha,,,,Isoproturon at 2.5 kg in 200 1
+Broadbalk,1989,winter wheat,19/04/1989,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat chloride at 1.6 kg in 200 1.
+Broadbalk,1989,winter wheat,19/04/1989,,carbendazim,(except to sections 6),sprayed,chemical pest control process,3,,0.15,kg/ha,200,l/ha,,,,
+Broadbalk,1989,winter wheat,19/04/1989,,Chlormequat chloride,(except to sections 6),sprayed,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,
+Broadbalk,1989,winter wheat,05/05/1989,,mecoprop,(except to sections 8),sprayed,chemical pest control process,3,,2.2,kg/ha,200,l/ha,,,,"mecoprop at 2.2 kg, bromoxynil at 0.28 kg and ioxynil at 0.28 kg with isoproturon at 2.1 kg in 200 1 ("
+Broadbalk,1989,winter wheat,05/05/1989,,bromoxynil,(except to sections 8),sprayed,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,
+Broadbalk,1989,winter wheat,05/05/1989,,Ioxynil,(except to sections 8),sprayed,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,
+Broadbalk,1989,winter wheat,05/05/1989,,Isoproturon,(except to sections 8),sprayed,chemical pest control process,3,,2.1,kg/ha,200,l/ha,,,,
+Broadbalk,1989,winter wheat,31/05/1989,,Fenpropimorph,(except to sections 6),,chemical pest control process,3,,0.56,kg/ha,200,l/ha,,,,Fenpropimorph at 0.56 kg in 200 l
+Broadbalk,1989,winter wheat,31/05/1989,,Chlorothalonil,(except sections 6),,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,chlorothalonil at 0.75 kg in 200 1.
+Broadbalk,1989,winter wheat,20/06/1989,,Propiconazole,(except sections 6),,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg in 200 l
+Broadbalk,1989,winter wheat,20/06/1989,,carbendazim,(except sections 6),,chemical pest control process,3,,0.25,kg/ha,200,l/ha,,,,carbendazim at 0.25 kg in 200 l
+Broadbalk,1989,winter wheat,20/06/1989,,maneb,(except sections 6),,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,maneb at 1.6 kg in 200 l
+Broadbalk,1990,fallow sections,29/08/1990,,glyphosate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1990,potatoes,06/04/1990,,Linuron,,,chemical pest control process,3,,1.6 kg,kg/ha,200,l/ha,,,,Linuron
+Broadbalk,1990,potatoes,15/06/1990,,maneb,,,chemical pest control process,3,,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 ml.
+Broadbalk,1990,potatoes,15/06/1990,,zinc oxide,,,chemical pest control process,3,,0.022,kg/ha,200,l/ha,,,,zinc oxide at 0.022 kg in 200 1
+Broadbalk,1990,potatoes,15/06/1990,,demeton-s-methyl,,,chemical pest control process,3,,0.24,kg/ha,200,l/ha,,,,demeton-s-methyl at 0.24 kg in 200 1.
+Broadbalk,1990,potatoes,29/06/1990,,Mancozeb,,,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,mancozeb at 1.0 kg in 200 l
+Broadbalk,1990,potatoes,13/07/1990,,Mancozeb,,,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,mancozeb at 1.0 kg in 200 l
+Broadbalk,1990,potatoes,27/07/1990,,maneb,,,chemical pest control process,3,,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 l
+Broadbalk,1990,potatoes,27/07/1990,,zinc oxide,,,chemical pest control process,3,,0.022,kg/ha,200,l/ha,,,,zinc oxide at 0.022 kg in 200 l
+Broadbalk,1990,potatoes,27/07/1990,,wetting agent Bond,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,wetting agent Bond at 0.20 l in 200 l
+Broadbalk,1990,potatoes,13/08/1990,,Fentin hydroxide,,,chemical pest control process,3,,0.27,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.27 kg in 200 1 on two occasions.
+Broadbalk,1990,potatoes,28/08/1990,,Fentin hydroxide,,,chemical pest control process,3,,0.27,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.27 kg in 200 1 on two occasions.
+Broadbalk,1990,potatoes,29/08/1990,,glyphosate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1990,winter wheat,13/09/1989,,chalk applied," sections 2, 8",,liming process,3,,,,,,,,,"Chalk applied sections 2, 8"
+Broadbalk,1990,winter wheat,17/11/1989,,Isoproturon,(except to sections 8),sprayed,chemical pest control process,3,,1.7,kg/ha,200,l/ha,,,,Isoproturon at 1.7 kg with mecoprop at 2.0 kg in 200 1 (
+Broadbalk,1990,winter wheat,17/11/1989,,mecoprop,(except to sections 8),sprayed,chemical pest control process,3,,2,kg/ha,200,l/ha,,,,
+Broadbalk,1990,winter wheat,24/04/1990,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg with Chlormequat chloride at 1.6 kg in 200 l
+Broadbalk,1990,winter wheat,24/04/1990,,Chlormequat chloride,(except to sections 6),sprayed,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,
+Broadbalk,1990,winter wheat,25/04/1990,,mecoprop," sections 0, 1, 2, 3 and separately to sections 6, 7, 9",sprayed,chemical pest control process,3,,2.2,kg/ha,200,l/ha,,,,"mecoprop at 2.2 kg, bromoxynil at 0.28 kg and ioxynil at 0.28 kg in 200 1"
+Broadbalk,1990,winter wheat,25/04/1990,,bromoxynil," sections 0, 1, 2, 3 and separately to sections 6, 7, 9",sprayed,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,
+Broadbalk,1990,winter wheat,25/04/1990,,Ioxynil," sections 0, 1, 2, 3 and separately to sections 6, 7, 9",sprayed,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,
+Broadbalk,1990,winter wheat,17/05/1990,,Chlorothalonil,(except to sections 8),,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,Chlorothalonil at 1.0 kg in 200 l
+Broadbalk,1990,winter wheat,17/05/1990,,Fenpropimorph,(except sections 6),,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,fenpropimorph at 0.75 kg in 200 l
+Broadbalk,1990,winter wheat,14/06/1990,,Propiconazole,(except to sections 6),,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg in 200 l
+Broadbalk,1990,winter wheat,14/06/1990,,maneb,(except to sections 6),,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,maneb at 1.6 kg in 200 l
+Broadbalk,1990,winter wheat,14/06/1990,,carbendazim,(except to sections 6),,chemical pest control process,3,,0.25,kg/ha,200,l/ha,,,,carbendazim at 0.25 kg in 200 l
+Broadbalk,1990,winter wheat,29/08/1990,,glyphosate,"(except to sections 7, 8)",,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1991,fallow sections,12/07/1991,,glyphosate," sections 0, 1, 2, 3 and separately to sections 6, 7, 9",sprayed,chemical pest control process,3,,2.2,kg/ha,200,l/ha,,,,glyphosate at 2.2 kg with a wetting agent MAFF Adjuvant no. 0004 at 2.9 l at 150 l
+Broadbalk,1991,fallow sections,12/07/1991,,wetting agent MAFF Adjuvant no. 0004," sections 0, 1, 2, 3 and separately to sections 6, 7, 9",sprayed,chemical pest control process,3,,2.9,l/ha,200,l/ha,,,,
+Broadbalk,1991,potatoes,11/09/1990,,glyphosate,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1991,potatoes,21/05/1991,,Linuron,,,chemical pest control process,3,,1.6 kg,kg/ha,200,l/ha,,,,Linuron
+Broadbalk,1991,potatoes,01/07/1991,,maneb,,,chemical pest control process,3,,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 l
+Broadbalk,1991,potatoes,01/07/1991,,zinc oxide,,,chemical pest control process,3,,22,g/ha,200,l/ha,,,,zinc oxide at 22 g in 200 1
+Broadbalk,1991,potatoes,01/07/1991,,wetting agent Bond,,,chemical pest control process,3,,0.2,l/ha,,,,,,"wetting agent, 'Bond' at 0.20 1"
+Broadbalk,1991,potatoes,10/07/1991,,maneb,,,chemical pest control process,3,,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 l
+Broadbalk,1991,potatoes,10/07/1991,,zinc oxide,,,chemical pest control process,3,,22,g/ha,200,l/ha,,,,zinc oxide at 22 g in 200 1
+Broadbalk,1991,potatoes,10/07/1991,,Pirimicarb,,,chemical pest control process,3,,0.14,kg/ha,,,,,,pirimicarb at 0.14 kg
+Broadbalk,1991,potatoes,22/07/1991,,maneb,,,chemical pest control process,3,,0.96,kg/ha,200,l/ha,,,,maneb at 0.96 kg in 200 l
+Broadbalk,1991,potatoes,22/07/1991,,zinc oxide,,,chemical pest control process,3,,22,g/ha,200,l/ha,,,,zinc oxide at 22 g in 200 1
+Broadbalk,1991,potatoes,22/07/1991,,wetting agent Bond,,,chemical pest control process,3,,0.2,l/ha,,,,,,"wetting agent, 'Bond' at 0.20 1"
+Broadbalk,1991,potatoes,01/08/1991,,Mancozeb,,,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,mancozeb at 1.4 kg in 200 l
+Broadbalk,1991,potatoes,01/08/1991,,wetting agent Bond,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,wetting agent Bond at 0.20 l in 200 l
+Broadbalk,1991,potatoes,12/08/1991,,Fentin hydroxide,,,chemical pest control process,3,,0.27,kg/ha,200,l/ha,,,,Fentin hydroxide at 0.27 kg in 200 l
+Broadbalk,1991,potatoes,12/08/1991,,wetting agent Nu-film P,,,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,"wetting agent, 'Nu-film P' at 0.18 1, in 200 1."
+Broadbalk,1991,winter wheat,27/09/1990,,chalk applied," sections 7, 9",,liming process,3,,,,,,,,,"Chalk applied sections 7, 9"
+Broadbalk,1991,winter wheat,21/11/1990,,Diflufenican,(except to sections 8),,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,Diflufenican at 0.12 kg in 200 l
+Broadbalk,1991,winter wheat,21/11/1990,,Isoproturon,(except sections 6),,chemical pest control process,3,,2.2,kg/ha,200,l/ha,,,,isoproturon at 2.2 kg in 200 1
+Broadbalk,1991,winter wheat,24/04/1991,,Prochloraz,(except to sections 6),sprayed,chemical pest control process,3,,0.4,kg/ha,200,l/ha,,,,Prochloraz at 0.40 kg with Chlormequat chloride at 1.6 kg in 200 l
+Broadbalk,1991,winter wheat,24/04/1991,,Chlormequat chloride,(except to sections 6),sprayed,chemical pest control process,3,,1.6,kg/ha,200,l/ha,,,,
+Broadbalk,1991,winter wheat,20/06/1991,,Propiconazole,(except to sections 6),sprayed,chemical pest control process,3,,0.12,kg/ha,200,l/ha,,,,propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 200 1.
+Broadbalk,1991,winter wheat,20/06/1991,,Chlorothalonil,(except to sections 6),sprayed,chemical pest control process,3,,0.5,kg/ha,200,l/ha,,,,
+Broadbalk,1991,winter wheat,02/07/1991,,Fenpropimorph,(except to sections 6),,chemical pest control process,3,,0.75,kg/ha,200,l/ha,,,,Fenpropimorph at 0.75 kg in 200 1.
+Broadbalk,1991,winter wheat,12/08/1991,,glyphosate,(except to sections 8),sprayed,chemical pest control process,3,,2.2,kg/ha,200,l/ha,,,,glyphosate at 2.2 kg with a wetting agent MAFF Adjuvant no. 0004 at 2.9 l at 150 l
+Broadbalk,1991,winter wheat,12/08/1991,,wetting agent MAFF Adjuvant no. 0004,(except to sections 8),sprayed,chemical pest control process,3,,2.9,l/ha,200,l/ha,,,,
+Broadbalk,1991,winter wheat,23/08/1991,,glyphosate,"(except to sections 4, 8)",,chemical pest control process,3,,1.4,kg/ha,200,l/ha,,,,glyphosate at 1.4 kg in 200 l
+Broadbalk,1992,potatoes,13/05/1992,,Rotalin,,,chemical pest control process,3,,5.5,l/ha,400,l/ha,,,,Rotalin at 5.5 l in 400 l
+Broadbalk,1992,potatoes,22/06/1992,,Manex,(except to sections 8),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Manex at 2.0 l with Nu Pilm P at 0.18 l in 200 l
+Broadbalk,1992,potatoes,22/06/1992,,Nu Pilm P,(except to sections 8),sprayed,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,08/07/1992,,Manex,(except to sections 8),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Manex at 2.0 l and Aphox at 0.28 kg with Nu Film P at 0.18 l in 200 l
+Broadbalk,1992,potatoes,08/07/1992,,Aphox,(except to sections 8),sprayed,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,08/07/1992,,Nu Pilm P,(except to sections 8),sprayed,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,16/07/1992,,Manex,(except to sections 8),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Manex at 2.0 l with Nu Pilm P at 0.18 l in 200 l
+Broadbalk,1992,potatoes,16/07/1992,,Nu Pilm P,(except to sections 8),sprayed,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,28/07/1992,,Manex,(except to sections 8),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Manex at 2.0 l with Nu Pilm P at 0.18 l in 200 l
+Broadbalk,1992,potatoes,28/07/1992,,Nu Pilm P,(except to sections 8),sprayed,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,17/08/1992,,Chiltern Super-Tin 4L,(except to sections 8),sprayed,chemical pest control process,3,,0.56,l/ha,200,l/ha,,,,Chiltern Super-Tin 4L at 0.56 l with Nu Film P at 0.18 l in 200 l
+Broadbalk,1992,potatoes,17/08/1992,,Nu Pilm P,(except to sections 8),sprayed,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,29/08/1992,,Chiltern Super-Tin 4L,(except to sections 8),sprayed,chemical pest control process,3,,0.56,l/ha,200,l/ha,,,,Chiltern Super-Tin 4L at 0.56 l with Nu Film P at 0.18 l in 200 l
+Broadbalk,1992,potatoes,29/08/1992,,Nu Pilm P,(except to sections 8),sprayed,chemical pest control process,3,,0.18,l/ha,200,l/ha,,,,
+Broadbalk,1992,potatoes,10/09/1992,,Reglone,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Reglone at 4.0 l in 200 1
+Broadbalk,1992,winter wheat,09/10/1991,,chalk applied,,,liming process,3,,2.9,t/ha,,,,,,Chalk applied at 2.9 t sections 4 and 6
+Broadbalk,1992,winter wheat,06/12/1991,,Stomp 400,(except sections 8),sprayed,chemical pest control process,3,,3.3,l/ha,200,l/ha,,,,Stomp 400 at 3.3 l and Stefes IPU at 2.5 l in 200 l
+Broadbalk,1992,winter wheat,06/12/1991,,Stefes IPU,(except sections 8),sprayed,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,
+Broadbalk,1992,winter wheat,14/05/1992,,Sportak 45,(except sections 6),sprayed,chemical pest control process,3,,0.9,l/ha,200,l/ha,,,,"Sportak 45 at 0.90 1, Calixin at 0.50 l and Tripart Brevis at 2.25 l in 200 l"
+Broadbalk,1992,winter wheat,14/05/1992,,Tripart Brevis,(except sections 6),sprayed,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,
+Broadbalk,1992,winter wheat,09/06/1992,,Chiltern Ole,(except sections 6),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Chiltern Ole at 2.0 l and Mistral at 1.0 l in 200 l
+Broadbalk,1992,winter wheat,09/06/1992,,Mistral,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1992,winter wheat,23/06/1992,,Radar,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,Radar at 0.50 l and Mistral at 0.50 l in 200 l
+Broadbalk,1992,winter wheat,23/06/1992,,Mistral,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1992,winter wheat,28/06/1992,,Roundup,(except sections 8),sprayed,chemical pest control process,3,,6,l/ha,150,l/ha,,,,Roundup at 6.0 l with High Trees Mixture B at 2.9 l in 150 l
+Broadbalk,1992,winter wheat,28/06/1992,,High Trees Mixture B,(except sections 8),sprayed,chemical pest control process,3,,2.9,l/ha,150,l/ha,,,,
+Broadbalk,1993,potatoes,19/05/1993,,Rotalin,,,chemical pest control process,3,,5.5,l/ha,200,l/ha,,,,Rotalin at 5.5 l in 200 l
+Broadbalk,1993,potatoes,22/06/1993,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.25 l
+Broadbalk,1993,potatoes,22/06/1993,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1993,potatoes,08/07/1993,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.25 l
+Broadbalk,1993,potatoes,08/07/1993,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1993,potatoes,22/07/1993,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.25 l
+Broadbalk,1993,potatoes,22/07/1993,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1993,potatoes,06/08/1993,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.25 l
+Broadbalk,1993,potatoes,06/08/1993,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1993,potatoes,25/08/1993,,Chiltern Super-Tin 4L,(except sections 8),sprayed,chemical pest control process,3,,0.56,l/ha,200,l/ha,,,,Chiltern Super-Tin 4L at 0.56 l with Intracrop BLA at 0.20 l in 200 l
+Broadbalk,1993,potatoes,25/08/1993,,Intracrop BLA,(except sections 8),sprayed,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,
+Broadbalk,1993,potatoes,15/09/1993,,Stefes Diquat,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Stefes Diquat at 4.0 l in 200 1
+Broadbalk,1993,winter wheat,22/04/1993,,Astix,(except sections 8),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Astix at 2.0 l and Oxytril CM at 1.5 l in 200 l
+Broadbalk,1993,winter wheat,22/04/1993,,Oxytril CM,(except sections 8),sprayed,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,
+Broadbalk,1993,winter wheat,06/05/1993,,Mistral,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Mistral at 1.0 l, Sportak 45 at 0.90 l and Tripart Brevis at 2.25 l in 200 l"
+Broadbalk,1993,winter wheat,06/05/1993,,Tripart Brevis,(except sections 6),sprayed,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,
+Broadbalk,1993,winter wheat,10/05/1993,,Cheetah R,(except sections 8),,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,Cheetah R at 2.5 l in 200 l
+Broadbalk,1993,winter wheat,04/06/1993,,Starane 2,(except sections 8),,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Starane 2 at 1.5 l in 200 l
+Broadbalk,1993,winter wheat,04/06/1993,,Bombardier,(except sections 6),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Bombardier at 2.0 l and Mistral at 1.0 l in 200 l
+Broadbalk,1993,winter wheat,04/06/1993,,Mistral,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1993,winter wheat,22/06/1993,,Corbel,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Corbel at 1.0 l and Radar at 0.50 l in 200 l
+Broadbalk,1993,winter wheat,22/06/1993,,Radar,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1993,winter wheat,04/08/1993,,Roundup,(except sections 8),sprayed,chemical pest control process,3,,6,l/ha,150,l/ha,,,,Roundup at 6.0 l with High Trees Mixture B at 2.9 l in 150 l
+Broadbalk,1993,winter wheat,04/08/1993,,High Trees Mixture B,(except sections 8),sprayed,chemical pest control process,3,,2.9,l/ha,150,l/ha,,,,
+Broadbalk,1994,potatoes,23/05/1994,,Farmon PDQ,(except sections 8),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Farmon PDQ at 2.0 l with Rotalin at 5.0 l in 200 l
+Broadbalk,1994,potatoes,23/05/1994,,Rotalin,(except sections 8),sprayed,chemical pest control process,3,,5,l/ha,200,l/ha,,,,
+Broadbalk,1994,potatoes,23/06/1994,,Dithane 945,(except sections 8),sprayed,chemical pest control process,3,,1.7,kg/ha,200,l/ha,,,,Dithane 945 at 1.7 kg with Intracrop BLA at 0.2 l in 200 l
+Broadbalk,1994,potatoes,23/06/1994,,Intracrop BLA,(except sections 8),sprayed,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,
+Broadbalk,1994,potatoes,07/07/1994,,Dithane 945,(except sections 8),sprayed,chemical pest control process,3,,1.7,kg/ha,200,l/ha,,,,Dithane 945 at 1.7 kg with Pirimicarb 50 DG at 0.28 kg and Intracrop BLA at 0.2 l in 200 l
+Broadbalk,1994,potatoes,07/07/1994,,Pirimicarb 50 DG,(except sections 8),sprayed,chemical pest control process,3,,0.28,kg/ha,200,l/ha,,,,
+Broadbalk,1994,potatoes,07/07/1994,,Intracrop BLA,(except sections 8),sprayed,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,
+Broadbalk,1994,potatoes,25/07/1994,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.5 l
+Broadbalk,1994,potatoes,25/07/1994,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1994,potatoes,15/08/1994,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.5 l
+Broadbalk,1994,potatoes,15/08/1994,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1994,potatoes,30/08/1994,,Ashlade Mancozeb FL,,,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,Ashlade Mancozeb FL at 2.5 l
+Broadbalk,1994,potatoes,30/08/1994,,Intracrop BLA,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Intracrop BLA at 0.2 l
+Broadbalk,1994,potatoes,26/09/1994,,Chiltern Super-Tin 4L,(except sections 8),sprayed,chemical pest control process,3,,560,ml/ha,200,l/ha,,,,Chiltern Super-Tin 4L at 560 ml with Reglone at 4.0 l in 200 l
+Broadbalk,1994,potatoes,26/09/1994,,Reglone,(except sections 8),sprayed,chemical pest control process,3,,4,l/ha,200,l/ha,,,,
+Broadbalk,1994,winter wheat,21/12/1993,,Draza,(except sections 6),,chemical pest control process,3,,5.5,kg/ha,,,,,,"Draza at 5.5 kg,"
+Broadbalk,1994,winter wheat,09/05/1994,,Ally,(except sections 8),sprayed,chemical pest control process,3,,30,g/ha,200,l/ha,,,,Ally at 30 g with Cheetah Super at 3.0 l and Starane 2 at 0.75 l in 200 l
+Broadbalk,1994,winter wheat,09/05/1994,,Cheetah Super,(except sections 8),sprayed,chemical pest control process,3,,3,l/ha,200,l/ha,,,,
+Broadbalk,1994,winter wheat,09/05/1994,,Starane 2,(except sections 8),sprayed,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,
+Broadbalk,1994,winter wheat,09/05/1994,,Sportak 45,(except sections 6),sprayed,chemical pest control process,3,,0.7,l/ha,200,l/ha,,,,"Sportak 45 at 0.7 1 with Standen Tridemorph at 0.5 1 and new 5C Cycocel at 2.5 l in 200 l, ."
+Broadbalk,1994,winter wheat,09/05/1994,,Standen Tridemorph,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1994,winter wheat,09/05/1994,,New 5C Cycocel,(except sections 6),sprayed,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,
+Broadbalk,1994,winter wheat,13/06/1994,,Starane 2,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Starane 2 at 1.5 l in 200 l
+Broadbalk,1994,winter wheat,13/06/1994,,Halo,(except sections 6),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Halo at 2.0 l with Mallard 750 EC at 1.0 l in 200 l
+Broadbalk,1994,winter wheat,13/06/1994,,Mallard 750 EC,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1994,winter wheat,15/06/1994,,Hostathion,(except sections 6),,chemical pest control process,3,,840,ml/ha,200,l/ha,,,,Hostathion at 840 ml in 200 l
+Broadbalk,1994,winter wheat,28/06/1994,,Delsene M power,(except sections 6),sprayed,chemical pest control process,3,,2.5,kg/ha,200,l/ha,,,,Delsene M power at 2.5 kg with Mistral at 0.5 l in 200 l
+Broadbalk,1994,winter wheat,28/06/1994,,Mistral,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1995,potatoes,01/06/1995,,Basagran,,,chemical pest control process,3,,3,l/ha,400,l/ha,,,,Basagran at 3.0 l in 400 1
+Broadbalk,1995,potatoes,20/06/1995,,Ashlade Mancozeb Flowable,,,chemical pest control process,3,,2.75,l/ha,200,l/ha,,,,Ashlade Mancozeb Flowable at 2.75 l
+Broadbalk,1995,potatoes,30/06/1995,,Ashlade Mancozeb Flowable,,,chemical pest control process,3,,2.75,l/ha,200,l/ha,,,,Ashlade Mancozeb Flowable at 2.75 l
+Broadbalk,1995,potatoes,19/07/1995,,Ashlade Mancozeb Flowable,,,chemical pest control process,3,,2.75,l/ha,300,l/ha,,,,Ashlade Mancozeb Flowable at 2.75 l
+Broadbalk,1995,potatoes,01/08/1995,,Ashlade Mancozeb Flowable,,,chemical pest control process,3,,2.75,l/ha,300,l/ha,,,,Ashlade Mancozeb Flowable at 2.75 l
+Broadbalk,1995,potatoes,14/08/1995,,Super-Tin 4L,(except sections 6),sprayed,chemical pest control process,3,,560,ml/ha,200,l/ha,,,,Super-Tin 4L at 560 ml with Intracrop BLA at 200 ml in 200 l
+Broadbalk,1995,potatoes,14/08/1995,,Intracrop BLA,(except sections 6),sprayed,chemical pest control process,3,,200,ml/ha,200,l/ha,,,,
+Broadbalk,1995,winter wheat,21/03/1995,,Stefes IPU,(except sections 8),sprayed,chemical pest control process,3,,3,l/ha,200,l/ha,,,,Stefes IPU at 3.0 l with Stomp 400 at 3.3 l in 200 l
+Broadbalk,1995,winter wheat,21/03/1995,,Stomp 400,(except sections 8),sprayed,chemical pest control process,3,,3.3,l/ha,200,l/ha,,,,
+Broadbalk,1995,winter wheat,28/04/1995,,Halo,(except sections 6),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Halo at 2.0 l with Mallard 750 EC at 0.5 l and New 5C Cycocel at 2.8 l in 200 l
+Broadbalk,1995,winter wheat,28/04/1995,,Mallard 750 EC,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1995,winter wheat,28/04/1995,,New 5C Cycocel,(except sections 6),sprayed,chemical pest control process,3,,2.8,l/ha,200,l/ha,,,,
+Broadbalk,1995,winter wheat,19/06/1995,,String,(except sections 6),,chemical pest control process,3,,1.5,l/ha,300,l/ha,,,,spring at 1.5 l in 300 l
+Broadbalk,1995,winter wheat,05/07/1995,,Pirimicarb 50 DG,(except sections 6),,chemical pest control process,3,,280,g/ha,200,l/ha,,,,Pirimicarb 50 DG at 280 g in 200 l
+Broadbalk,1995,winter wheat,27/07/1995,,Roundup,(except sections 8),sprayed,chemical pest control process,3,,6,l/ha,150,l/ha,,,,Roundup at 6.0 l with Mixture B at 2.94 l in 150 l
+Broadbalk,1995,winter wheat,27/07/1995,,Mixture B,(except sections 8),sprayed,chemical pest control process,3,,2.94,l/ha,150,l/ha,,,,
+Broadbalk,1996,potatoes,04/06/1996,,Campbells Linuron 45% Flowable,,,chemical pest control process,3,,5,l/ha,320,l/ha,,,,Campbells Linuron 45% Plowable at 5.0 l in 320 l
+Broadbalk,1996,potatoes,05/07/1996,,Clayton Turret,,,chemical pest control process,3,,2,l/ha,260,l/ha,,,,Clayton Turret at 2.0 l in 260 l
+Broadbalk,1996,potatoes,22/07/1996,,Clayton Turret,,,chemical pest control process,3,,2,l/ha,300,l/ha,,,,Clayton Turret at 2.0 l in 300 l
+Broadbalk,1996,potatoes,02/08/1996,,Clayton Turret,,,chemical pest control process,3,,2,l/ha,400,l/ha,,,,Clayton Turret at 2.0 l in 400 l
+Broadbalk,1996,potatoes,15/08/1996,,Shirlan,,,chemical pest control process,3,,0.3,l/ha,390,l/ha,,,,Shirlan at 0.3 l in 390 1
+Broadbalk,1996,potatoes,02/09/1996,,Shirlan,,,chemical pest control process,3,,0.3,l/ha,260,l/ha,,,,Shirlan at 0.3 l in 260 1
+Broadbalk,1996,winter oats,13/10/1995,,Tribunil,,,chemical pest control process,3,,2.25,kg/ha,200,l/ha,,,,Tribunil at 2.25 kg in 200 1
+Broadbalk,1996,winter oats,30/05/1996,,Tilt 250 EC,(except sections 8),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,Tilt 250 EC at 0.5 l with Barclay Holdup at 2.3 l and Vassgro Spreader 200 ml in 200 l
+Broadbalk,1996,winter oats,30/05/1996,,Barclay Holdup,(except sections 8),sprayed,chemical pest control process,3,,2.3,l/ha,200,l/ha,,,,
+Broadbalk,1996,winter oats,30/05/1996,,Vassgro Spreader,(except sections 8),sprayed,chemical pest control process,3,,200,ml/ha,200,l/ha,,,,
+Broadbalk,1996,winter wheat,26/04/1996,,Ally,(except sections 8),sprayed,chemical pest control process,3,,30,g/ha,200,l/ha,,,,Ally at 30 g with Cheetah per at 1.25 l in 200 l
+Broadbalk,1996,winter wheat,26/04/1996,,Cheetah Super,(except sections 8),sprayed,chemical pest control process,3,,1.25,l/ha,200,l/ha,,,,
+Broadbalk,1996,winter wheat,26/04/1996,,Barclay Eyetak,(except sections 6),,chemical pest control process,3,,0.9,l/ha,200,l/ha,,,,Barclay Eyetak at 0.9 l in 200 l
+Broadbalk,1996,winter wheat,29/04/1996,,Barclay Holdup,(except sections 6),,chemical pest control process,3,,2.3,l/ha,200,l/ha,,,,Barclay Holdup at 2.3 l in 200 l
+Broadbalk,1996,winter wheat,07/06/1996,,Alto 100 SL,(except sections 6),sprayed,chemical pest control process,3,,0.6,l/ha,320,l/ha,,,,Alto 100 SL at 0.6 l with Mallard 750 EC at 0.4 l in 320 l
+Broadbalk,1996,winter wheat,07/06/1996,,Mallard 750 EC,(except sections 6),sprayed,chemical pest control process,3,,0.4,l/ha,320,l/ha,,,,
+Broadbalk,1997,winter oats,17/10/1996,,Tribunil,,,chemical pest control process,3,,2.25,kg/ha,200,l/ha,,,,Tribunil at 2.25 kg in 200 1
+Broadbalk,1997,winter oats,16/04/1997,,Scythe LC,(except sections 6),sprayed,chemical pest control process,3,,3,l/ha,200,l/ha,,,,Scythe LC at 3.0 l with Vassgro Non-ionic at 200 ml in 200 l
+Broadbalk,1997,winter oats,16/04/1997,,Vassgro Non-ionic,(except sections 6),sprayed,chemical pest control process,3,,200,ml/ha,200,l/ha,,,,
+Broadbalk,1997,winter oats,22/05/1997,,Radar,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,300,l/ha,,,,Radar at 0.5 l with Stefes CCC 700 at 2.3 l in 300 1
+Broadbalk,1997,winter oats,22/05/1997,,Stefes CCC 700,(except sections 6),sprayed,chemical pest control process,3,,2.3,l/ha,300,l/ha,,,,
+Broadbalk,1997,winter oats,09/06/1997,,Barclay Mutiny,,,chemical pest control process,3,,1.5,l/ha,300,l/ha,,,,Barclay Mutiny at 1.5 l in 300 l
+Broadbalk,1997,winter wheat,02/04/1997,,Topik,(except sections 8),sprayed,chemical pest control process,3,,125,ml/ha,200,l/ha,,,,Topik at 125 ml with Sprayprover at 1.0 l in 200 l
+Broadbalk,1997,winter wheat,02/04/1997,,Sprayprover,(except sections 8),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1997,winter wheat,10/04/1997,,MSS Optica,(except sections 8),,chemical pest control process,3,,2.5,l/ha,300,l/ha,,,,MSS Optica at 2.5 l in 300 l
+Broadbalk,1997,winter wheat,10/04/1997,,Barclay Holdup,(except sections 6),,chemical pest control process,3,,2.3,l/ha,300,l/ha,,,,Barclay Holdup at 2.3 1 in 300 1 .
+Broadbalk,1997,winter wheat,01/05/1997,,Barclay Eyetak,(except sections 6),,chemical pest control process,3,,0.9,l/ha,200,l/ha,,,,Barclay Eyetak at 0.9 l in 200 l
+Broadbalk,1997,winter wheat,29/05/1997,,Starane 2,(except sections 8),,chemical pest control process,3,,6.5,l/ha,300,l/ha,,,,Starane 2 at 6.5 l in 300 l
+Broadbalk,1997,winter wheat,30/05/1997,,Folicur,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,300,l/ha,,,,Policur at 0.5 l with Winter at 0.5 l in 300 l
+Broadbalk,1997,winter wheat,30/05/1997,,Winter,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,300,l/ha,,,,
+Broadbalk,1998,forage maize,23/03/1998,,Gramoxone 100,(except sections 6),sprayed,chemical pest control process,3,,3,l/ha,260,l/ha,,,,Gramoxone 100 at 3.0 l with Luxan Non-ionic wetter at 0.1 l in 260 l
+Broadbalk,1998,forage maize,23/03/1998,,Luxan Non-ionic wetter,(except sections 6),sprayed,chemical pest control process,3,,0.1,l/ha,260,l/ha,,,,
+Broadbalk,1998,forage maize,12/06/1998,,Barclay Mutiny,,,chemical pest control process,3,,2.4,l/ha,200,l/ha,,,,Barclay Mutiny at 2.4 l in 200 l
+Broadbalk,1998,winter oats,08/05/1998,,Ally,(except sections 6),sprayed,chemical pest control process,3,,20,g/ha,200,l/ha,,,,Ally at 20 g with Starane 2 at 0.5 l in 200 l
+Broadbalk,1998,winter oats,08/05/1998,,Starane 2,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1998,winter oats,03/07/1998,,Mistral,,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Mistral at 1.0 2 in 2001
+Broadbalk,1998,winter wheat,05/02/1998,,Amazon,(except sections 8),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Amazon at 1.0 l with Chiltern Cropoil at 1.0 l in 200 l
+Broadbalk,1998,winter wheat,05/02/1998,,Chiltern Cropoil,(except sections 8),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1998,winter wheat,08/05/1998,,Ally,(except sections 8),sprayed,chemical pest control process,3,,20,g/ha,200,l/ha,,,,Ally at 20 g with Starane 2 at 0.5 l in 200 l
+Broadbalk,1998,winter wheat,08/05/1998,,Starane 2,(except sections 8),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,1998,winter wheat,08/05/1998,,Opus,(except sections 6),,chemical pest control process,3,,0.7,l/ha,200,l/ha,,,,Opus at 0.7 l in 200 l
+Broadbalk,1998,winter wheat,01/06/1998,,Opus,(except sections 6),,chemical pest control process,3,,0.7,l/ha,200,l/ha,,,,Opus at 0.7 l in 200 l
+Broadbalk,1998,winter wheat,17/06/1998,,Bavistin DF,(except sections 6),sprayed,chemical pest control process,3,,0.5,kg/ha,100,l/ha,,,,Bavistin DF at 0.5 kg with Opus at 0.4 l in 100 l
+Broadbalk,1998,winter wheat,17/06/1998,,Opus,(except sections 6),sprayed,chemical pest control process,3,,0.4,l/ha,100,l/ha,,,,
+Broadbalk,1999,all sections,30/10/1998,,Decoy,,,chemical pest control process,3,,8,kg/ha,,,,,,Decoy at 8.0 kg
+Broadbalk,1999,forage maize,11/03/1999,,Isogard,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Isogard at 1.0 l with Unite A at 0.125 l, Unite B at 1.0 l and Cropoil at 1.0 l in 200 l"
+Broadbalk,1999,forage maize,11/03/1999,,Unite A,(except sections 6),sprayed,chemical pest control process,3,,0.125,l/ha,200,l/ha,,,,
+Broadbalk,1999,forage maize,11/03/1999,,Cropoil,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1999,forage maize,01/05/1999,,Sting BOV,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Sting BOV at 4.0 l in 200 l
+Broadbalk,1999,forage maize,05/07/1999,,Barclay Mutiny,,,chemical pest control process,3,,2.4,l/ha,200,l/ha,,,,Barclay Mutiny at 2.4 l in 200 l
+Broadbalk,1999,winter oats,11/03/1999,,Isogard,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Isogard at 1.0 l with Unite A at 0.125 l, Unite B at 1.0 l and Cropoil at 1.0 l in 200 l"
+Broadbalk,1999,winter oats,11/03/1999,,Unite A,(except sections 6),sprayed,chemical pest control process,3,,0.125,l/ha,200,l/ha,,,,
+Broadbalk,1999,winter oats,11/03/1999,,Cropoil,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1999,winter oats,14/05/1999,,Ally,,,chemical pest control process,3,,30,g/ha,200,l/ha,,,,Ally at 30 g in 200 l
+Broadbalk,1999,winter oats,05/07/1999,,Corbel,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Corbel at 0.75 l in 200 l
+Broadbalk,1999,winter wheat,11/03/1999,,Isogard,(except sections 8),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Isogard at 1.0 l with Unite A at 0.125 l, Unite B at 1.0 l and Cropoil at 1.0 l in 200 l"
+Broadbalk,1999,winter wheat,11/03/1999,,Unite A,(except sections 8),sprayed,chemical pest control process,3,,0.125,l/ha,200,l/ha,,,,
+Broadbalk,1999,winter wheat,11/03/1999,,Cropoil,(except sections 8),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,1999,winter wheat,15/04/1999,,Opus,(except sections 6),,chemical pest control process,3,,0.7,l/ha,200,l/ha,,,,Opus at 0.7 l in 200 l
+Broadbalk,1999,winter wheat,14/05/1999,,Ally,(except sections 6),,chemical pest control process,3,,30,g/ha,200,l/ha,,,,Ally at 30 g in 200 l
+Broadbalk,1999,winter wheat,27/05/1999,,Opus,(except sections 6),sprayed,chemical pest control process,3,,0.75,l/ha,100,l/ha,,,,Opus at 0.75 l and Sipcam UK Rover 500 at 1.0 l in 100 l
+Broadbalk,1999,winter wheat,27/05/1999,,Sipcam UK Rover 500,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,100,l/ha,,,,
+Broadbalk,1999,winter wheat,18/06/1999,,Folicur,(except sections 6),,chemical pest control process,3,,0.25,l/ha,100,l/ha,,,,Folicur at 0.25 l in 100 l
+Broadbalk,1999,winter wheat,05/07/1999,,Corbel,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Corbel at 0.75 l in 200 l
+Broadbalk,1999,winter wheat,23/07/1999,,Alpha glyphosate,(except sections 6),,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Alpha glyphosate at 4.0 l in 200 l
+Broadbalk,2000,forage maize,01/05/2000,,Sting BOV,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Sting BOV at 4.0 l in 200 l
+Broadbalk,2000,forage maize,07/05/2000,,Sting BOV,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Sting BOV at 4.0 l in 200 l
+Broadbalk,2000,forage maize,26/06/2000,,Barclay Mutiny,,,chemical pest control process,3,,2.4,l/ha,200,l/ha,,,,Barclay Mutiny at 2.4 l in 200 l
+Broadbalk,2000,winter oats,15/11/1999,,Lexus 50 DF,(except sections 6),sprayed,chemical pest control process,3,,20,g/ha,200,l/ha,,,,Lexus 50 DF at 20 g with Toppel 10 at 250 ml in 200 1
+Broadbalk,2000,winter oats,15/11/1999,,Toppel 10,(except sections 6),sprayed,chemical pest control process,3,,250,ml/ha,200,l/ha,,,,
+Broadbalk,2000,winter oats,11/03/2000,,Orka,,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,Orka at 0.5 l in 200 l
+Broadbalk,2000,winter wheat,13/03/2000,,Hawk,(except sections 6),sprayed,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,"Hawk at 2.5 l with Tolkan Turbo at 2.0 1, and Cropoil at 1.0 l in 200 l"
+Broadbalk,2000,winter wheat,13/03/2000,,Tolkan Turbo,(except sections 6),sprayed,chemical pest control process,3,,2,l/ha,200,l/ha,,,,
+Broadbalk,2000,winter wheat,13/03/2000,,Cropoil,(except sections 6),sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,
+Broadbalk,2000,winter wheat,09/05/2000,,Opus,(except sections 6),sprayed,chemical pest control process,3,,0.5,l/ha,100,l/ha,,,,Opus at 0.5 l with Unix at 0.5 kg in 100 l
+Broadbalk,2000,winter wheat,09/05/2000,,Unix,(except sections 6),sprayed,chemical pest control process,3,,0.5,kg/ha,100,l/ha,,,,
+Broadbalk,2000,winter wheat,12/05/2000,,Ally,(except section 8),sprayed,chemical pest control process,3,,30,g/ha,200,l/ha,,,,Ally at 30 g with Starane 2 at 0.5 l in 200 l
+Broadbalk,2000,winter wheat,12/05/2000,,Starane 2,(except section 8),sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,
+Broadbalk,2000,winter wheat,22/05/2000,,Folicur,(except sections 6),,chemical pest control process,3,,0.75,l/ha,100,l/ha,,,,Folicur at 0.75 l in 100 l
+Broadbalk,2001,all sections,12/09/2001,,Sting ECO,excluding  section 8,,chemical pest control process,3,,4,l/ha,100,l/ha,,,,"Sting ECO at 4.0 l in 100 l,"
+Broadbalk,2001,forage maize,21/05/2001,,Sting ECO,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Sting ECO at 4.0 l in 200 l
+Broadbalk,2001,forage maize,03/07/2001,,Mutiny,,,chemical pest control process,3,,2.4,l/ha,200,l/ha,,,,Mutiny at 2.4 l in 200 l
+Broadbalk,2001,spring oats,15/05/2001,,Ally,,,chemical pest control process,3,,20,g/ha,100,l/ha,,,,Ally at 20 g in 100 l
+Broadbalk,2001,spring oats,15/05/2001,,Starane 2,,,chemical pest control process,3,,0.5,l/ha,100,l/ha,,,,Starane 2 0.5 l in 100 l
+Broadbalk,2001,spring oats,10/08/2001,11/08/2001,Azural,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,"Azural at 4.0 l in 200 l, wheat and oats only"
+Broadbalk,2001,winter wheat,04/05/2001,,Topik,,,chemical pest control process,3,,250,ml/ha,100,l/ha,,,,Topik at 250 ml in 100 l
+Broadbalk,2001,winter wheat,15/05/2001,,Ally,,,chemical pest control process,3,,20,g/ha,100,l/ha,,,,Ally at 20 g in 100 l
+Broadbalk,2001,winter wheat,15/05/2001,,Starane 2,,,chemical pest control process,3,,0.5,l/ha,100,l/ha,,,,Starane 2 at 0.5 l in 100 l
+Broadbalk,2001,winter wheat,06/06/2001,,Opus,excluding  sections 6,,chemical pest control process,3,,0.7,l/ha,100,l/ha,,,,"Opus at 0.7 l in 100 l,"
+Broadbalk,2001,winter wheat,02/07/2001,,Folicur,excluding  sections 6,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,"Folicur at 0.5 l in 200 l,"
+Broadbalk,2001,winter wheat,10/08/2001,11/08/2001,Azural,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,"Azural at 4.0 l in 200 l, wheat and oats only"
+Broadbalk,2002,forage maize,25/03/2002,,Sting ECO,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Sting ECO at 4.0 l in 200 l
+Broadbalk,2002,forage maize,19/06/2002,,Barclay Mutiny,,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Barclay Mutiny at 0.6 l in 200 l
+Broadbalk,2002,forage maize,19/06/2002,,Lentagran WP,,,chemical pest control process,3,,1.5,kg/ha,200,l/ha,,,,Lentagran WP at 1.5 kg in 200 1
+Broadbalk,2002,winter oats,01/11/2001,,Lexus Class,,,chemical pest control process,3,,60,g/ha,,,,,,Lexus Class oats
+Broadbalk,2002,winter oats,01/11/2001,,Hallmark with Zeon Technology,,,chemical pest control process,3,,40,ml/ha,200,l/ha,,,,Hallmark with Zeon technology at 40 ml in 200 1
+Broadbalk,2002,winter oats,01/06/2002,,Opera,excluding  sections 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Opera at 1.0 l in 200 l,"
+Broadbalk,2002,winter wheat,11/10/2001,,Avadex Excel 15 G,excluding  sections 8,,chemical pest control process,3,,15,kg/ha,,,,,,"Avadex Excel 15 G at 15.0 kg,"
+Broadbalk,2002,winter wheat,02/11/2001,,Lexus 50 DF,excluding  sections 8,,chemical pest control process,3,,20,g/ha,200,l/ha,,,,"Lexus 50 DF at 20 g in 200 1,"
+Broadbalk,2002,winter wheat,02/11/2001,,Stomp 400 SC,excluding  sections 8,,chemical pest control process,3,,3,l/ha,200,l/ha,,,,"Stomp 400 SC at 3.0 l in 200 l,"
+Broadbalk,2002,winter wheat,15/11/2001,,Hallmark with Zeon Technology,excluding section 6,,chemical pest control process,3,,25,ml/ha,200,l/ha,,,,"Hallmark with Zeon technology at 25 ml in 200 l, not sections 6"
+Broadbalk,2002,winter wheat,03/04/2002,,Topik,excluding  sections 8,,chemical pest control process,3,,0.125,l/ha,100,l/ha,,,,"Topik at 0.125 l in 100 1,"
+Broadbalk,2002,winter wheat,03/04/2002,,Phase II,excluding  sections 8,,chemical pest control process,3,,1,l/ha,100,l/ha,,,,"Phase II at 1.0 l in 100 1,"
+Broadbalk,2002,winter wheat,04/04/2002,,Opus,excluding  sections 6,,chemical pest control process,3,,0.4,l/ha,100,l/ha,,,,"Opus at 0.4 l in 100 1,"
+Broadbalk,2002,winter wheat,04/04/2002,,Twist,excluding  sections 6,,chemical pest control process,3,,0.6,l/ha,100,l/ha,,,,"Twist at 0.6 l in 100 1,"
+Broadbalk,2002,winter wheat,04/04/2002,,BASF 3C Chloremquat 720,excluding  sections 6,,chemical pest control process,3,,1.25,l/ha,100,l/ha,,,,"BASF 3C chloremquat 720 at 1.25 l in 100 l,"
+Broadbalk,2002,winter wheat,04/04/2002,,Moddus,excluding  sections 6,,chemical pest control process,3,,0.2,l/ha,100,l/ha,,,,"Moddus at 0.2 l in 100 1,"
+Broadbalk,2002,winter wheat,01/06/2002,,Opera,excluding  sections 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Opera at 1.0 l in 200 l,"
+Broadbalk,2003,all sections,20/09/2002,None,Clean Crop Egret,(excluding section 0 and 8),,chemical pest control process,3,,4,l/ha,100,l/ha,,,,Clean Crop Egret at 4.0 l in 100 l
+Broadbalk,2003,all sections,20/09/2002,None,Mixture B,,,chemical pest control process,3,,2,l/ha,100,l/ha,,,,Mixture B at 2.0 l in 100 l. and 8)
+Broadbalk,2003,all sections,31/03/2003,None,Paths sprayed,,sprayed,chemical pest control process,3,,,,,,,,,Paths sprayed
+Broadbalk,2003,forage maize,11/04/2003,None,Sting ECO,,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,Sting ECO at 4.0 l in 200 l
+Broadbalk,2003,forage maize,17/06/2003,None,Barclay Mutiny,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Barclay Mutiny at 1.5 l in 200 l
+Broadbalk,2003,forage maize,17/06/2003,None,Lentagran WP,,,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Lentagran WP at 2.0 l in 200 l
+Broadbalk,2003,Section 0,03/06/2003,None,Touchdown,,,chemical pest control process,3,,3,l/ha,,,,,,Touchdown at 3.0 l/ha to plots not being used for CS/595 Control of Equisetum
+Broadbalk,2003,Section 0,09/06/2003,None,Treatments to CS/595,,,chemical pest control process,3,,,,,,,,,Treatments  to CS/595
+Broadbalk,2003,winter oats,18/11/2002,None,Lexus Class WSB,,,chemical pest control process,3,,60,g/ha,200,l/ha,,,,Lexus Class WSB at 60 g in 200 l
+Broadbalk,2003,winter oats,18/11/2002,None,Hallmark with Zeon Technology,,,chemical pest control process,3,,25,ml/ha,,,,,,Hallmark with Zeon technology at 25 ml at 200 l
+Broadbalk,2003,winter oats,29/05/2003,None,Landmark,,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Landmark at 1.0 l in 200 l
+Broadbalk,2003,winter wheat,07/10/2002,None,Ice,excluding  Section 8,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,"Ice at 4.0 l in 200 l,"
+Broadbalk,2003,winter wheat,17/03/2003,None,Harmony M,excluding  Section 8,,chemical pest control process,3,,75,g/ha,200,l/ha,,,,"Harmony M at 75 g in 200 l,"
+Broadbalk,2003,winter wheat,09/05/2003,None,Opera,excluding  Section 6,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Opera at 1.5 l in 200 l
+Broadbalk,2003,winter wheat,29/05/2003,None,Landmark,excluding  Section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Landmark at 1.0 l in 200 l
+Broadbalk,2003,winter wheat,31/05/2003,None,Starane 2,,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Starane 2 at 1.0 l in 200 l
+Broadbalk,2004,all sections,03/09/2003,None,harvest,(excluding section 0 & 8),,chemical pest control process,3,,3,l/ha,200,l/ha,,,,Harvest at 3.0 l in 200 L (excluding section 0 & 8)
+Broadbalk,2004,forage maize,09/04/2004,None,Glydate,,,chemical pest control process,3,,3,l/ha,200,l/ha,,,,Glydate at 3.0 l in 200 l
+Broadbalk,2004,forage maize,22/06/2004,None,Samson,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Samson at 1.5 l in 200 l
+Broadbalk,2004,Section 0,06/07/2004,None,Weedazol-TL,to plots not being used for CS/595 Control of Equisetum,,chemical pest control process,3,,30,l/ha,200,l/ha,,,,Weedazol-TL at 30 l in 200 l to plots not being used for CS/595 Control of Equisetum
+Broadbalk,2004,Section 0,06/07/2004,None,Treatments to CS/595,,,chemical pest control process,3,,,,,,,,,Treatments  to CS/595
+Broadbalk,2004,Section 0,09/09/2004,None,Treatments to CS/595,,,chemical pest control process,3,,,,,,,,,Treatments  to CS/595
+Broadbalk,2004,winter oats,05/12/2003,None,Lexus Class WSB,,,chemical pest control process,3,,60,g/ha,200,l/ha,,,,Lexus Class WSB at 60 g in 200 l
+Broadbalk,2004,winter oats,05/12/2003,None,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology at 50 ml in 200 l
+Broadbalk,2004,winter oats,06/05/2004,None,Ally,,,chemical pest control process,3,,30,g/ha,200,l/ha,,,,Ally at 30 g in 200 l
+Broadbalk,2004,winter oats,06/05/2004,None,Starane 2,,,chemical pest control process,3,,0.7,l/ha,200,l/ha,,,,Starane 2 at 0.7 l in 200 l
+Broadbalk,2004,winter oats,13/05/2004,None,Landmark,,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Landmark at 1.0 l in 200 l
+Broadbalk,2004,winter wheat,05/12/2003,None,Lexus Class WSB,excluding  section 8,,chemical pest control process,3,,60,g/ha,200,l/ha,,,,Lexus Class WSB at 60 g in 200 l
+Broadbalk,2004,winter wheat,05/12/2003,None,Hallmark with Zeon Technology,excluding  section 8,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology at 50 ml in 200 l
+Broadbalk,2004,winter wheat,18/12/2003,None,Arelon 500,excluding  section 8,,chemical pest control process,3,,3.5,l/ha,200,l/ha,,,,"Arelon 500 at 3.5 l in 200 l,"
+Broadbalk,2004,winter wheat,09/04/2004,None,Topik,excluding  section 8,,chemical pest control process,3,,3.5,l/ha,200,l/ha,,,,"Topik at 3.5 l in 200 l,"
+Broadbalk,2004,winter wheat,09/04/2004,None,Amber,excluding  section 8,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,"Amber at 0.5 l in 200 l,"
+Broadbalk,2004,winter wheat,06/05/2004,None,Ally,excluding  section 8,,chemical pest control process,3,,30,g/ha,200,l/ha,,,,"Ally at 30 g in 200 1,"
+Broadbalk,2004,winter wheat,06/05/2004,None,Starane 2,excluding  section 8,,chemical pest control process,3,,0.7,l/ha,200,l/ha,,,,Starane 2 at 0.7 l in 200 l
+Broadbalk,2004,winter wheat,13/05/2004,None,Landmark,excluding  Section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Landmark at 1.0 l in 200 l
+Broadbalk,2004,winter wheat,10/06/2004,None,Opera,excluding  sections 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Opera at 1.0 l in 200 l,"
+Broadbalk,2004,winter wheat,10/06/2004,None,Hallmark with Zeon Technology,excluding  section 6,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology at 50 ml in 200 l
+Broadbalk,2005,all sections,25/09/2004,None,Weedazol-TL,"(excluding Sections 8 and plots 03, 05 and 09 on section 0)",,chemical pest control process,3,,30,l/ha,200,l/ha,,,,Weedazol-TL at 30 l in 200 L
+Broadbalk,2005,forage maize,11/05/2005,None,Samson,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Samson at 1.5 l in 200 l
+Broadbalk,2005,winter oats,20/11/2004,None,Lupus,,,chemical pest control process,3,,5,kg/ha,,,,,,Lupus at 5 kg
+Broadbalk,2005,winter oats,14/12/2004,None,Lexus Class WSB,,,chemical pest control process,3,,60,g/ha,200,l/ha,,,,Lexus Class WSB at 60 g in 200 l
+Broadbalk,2005,winter oats,20/04/2005,None,Harmony M SX,,,chemical pest control process,3,,100,g/ha,200,l/ha,,,,Harmony M SX at 100 g in 200 l
+Broadbalk,2005,winter oats,20/04/2005,None,Duplosan KV,excluding  Section 8,,chemical pest control process,3,,1.6,l/ha,200,l/ha,,,,"Duplosan KV at 1.6 l in 200 l,"
+Broadbalk,2005,winter oats,11/05/2005,None,Corbel,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Corbel at 0.75 l in 200 l
+Broadbalk,2005,winter oats,15/05/2005,None,Starane 2,,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,Starane 2 at 0.5 l in 200 l
+Broadbalk,2005,winter wheat,20/11/2004,None,Lupus,,,chemical pest control process,3,,5,kg/ha,,,,,,Lupus at 5 kg
+Broadbalk,2005,winter wheat,14/01/2005,None,Hawk,excluding  section 8,,chemical pest control process,3,,2,l/ha,200,l/ha,,,,"Hawk at 2.0 l in 200 l,"
+Broadbalk,2005,winter wheat,14/01/2005,None,Amber,excluding  Section 8,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Amber at 1.0 in 200 l,"
+Broadbalk,2005,winter wheat,14/01/2005,None,Tolkan liquid,excluding section 8 ,,chemical pest control process,3,,2.5,l/ha,200,l/ha,,,,"Tolkan liquid at 2.5 l in 200 l, exlcuding section 8"
+Broadbalk,2005,winter wheat,20/04/2005,None,Harmony M SX,excluding  Section 8,,chemical pest control process,3,,100,g/ha,200,l/ha,,,,Harmony M SX at 100 g in 200 l
+Broadbalk,2005,winter wheat,20/04/2005,None,Duplosan KV,excluding  Section 8,,chemical pest control process,3,,1.6,l/ha,200,l/ha,,,,"Duplosan KV at 1.6 l in 200 l,"
+Broadbalk,2005,winter wheat,15/05/2005,None,Starane 2,excluding  section 8,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,"Starane 2 0.5 l in 200 l,"
+Broadbalk,2005,winter wheat,15/05/2005,None,Bravo 500,excluding  Section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Bravo 500 at 1.0 l in 200 I
+Broadbalk,2005,winter wheat,15/05/2005,None,Opus,excluding  Section 6,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,"Opus at 0.75 l in 200 l,"
+Broadbalk,2005,winter wheat,31/05/2005,None,Opus,excluding  Section 6,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,"Opus at 0.75 l in 200 l,"
+Broadbalk,2005,winter wheat,31/05/2005,None,Amistar Opti,excluding  Section 6,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,"Amistar Opti at 1.5 l in 200 l,"
+Broadbalk,2005,winter wheat,31/05/2005,None,Corbel,excluding  Section 6,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,"Corbel at 0.6 l in 200 l,"
+Broadbalk,2006,all sections,27/08/2005,None,Weedazol-TL,(excluding Sections 4 and 8),,chemical pest control process,3,,20,l/ha,200,l/ha,,,,Weedazol-TL at 20 l in 200 L
+Broadbalk,2006,forage maize,26/04/2006,,Azural,,,chemical pest control process,3,,3,l/ha,200,l/ha,,,,Azural at 3.0 l in 200 l
+Broadbalk,2006,forage maize,08/06/2006,None,Samson,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Samson at 1.5 l in 200 l
+Broadbalk,2006,winter oats,27/10/2005,None,Decoy Wetex,,,chemical pest control process,3,,5,kg/ha,,,,,,Decoy Wetex at 5.0 kg
+Broadbalk,2006,winter oats,14/11/2005,None,Lexus Class,,,chemical pest control process,3,,60,g/ha,,,,,,Lexus Class oats
+Broadbalk,2006,winter oats,14/11/2005,None,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology at 50 ml in 200 l
+Broadbalk,2006,winter oats,21/12/2005,None,Decoy Wetex,,,chemical pest control process,3,,5,kg/ha,,,,,,Decoy Wetex at 5.0 kg
+Broadbalk,2006,winter oats,12/05/2006,None,Ally Max SX,,,chemical pest control process,3,,42,g/ha,200,l/ha,,,,Ally Max SX at 42 g in 200 l
+Broadbalk,2006,winter oats,28/05/2006,None,Starane 2,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Starane 2 at 0.75 l in 200 l
+Broadbalk,2006,winter oats,02/06/2006,None,Amistar,,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Amistar at 0.6 l in 200 l
+Broadbalk,2006,winter oats,02/06/2006,None,Opus,,,chemical pest control process,3,,0.4,l/ha,200,l/ha,,,,Opus at 0.4 l in 200 l
+Broadbalk,2006,winter oats,02/06/2006,None,Flexity,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Flexity at 0.2 l in 200 l
+Broadbalk,2006,winter wheat,14/01/2005,None,IPU 500,excluding Section 8 (2.9m on east end of plot 218 sprayed in error),sprayed,chemical pest control process,3,,5,l/ha,200,l/ha,,,,"IPU 500 at 5.0 l in 200 l, excluding Section 8 (2.9m on east end of plot 218 sprayed in error)"
+Broadbalk,2006,winter wheat,17/10/2005,None,Ice,excluding  Section 8,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,"Ice at 4.0 l in 200 l,"
+Broadbalk,2006,winter wheat,27/10/2005,None,Decoy Wetex,,,chemical pest control process,3,,5,kg/ha,,,,,,Decoy Wetex at 5.0 kg
+Broadbalk,2006,winter wheat,07/12/2005,None,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology at 50 ml in 200 l
+Broadbalk,2006,winter wheat,21/12/2005,None,Decoy Wetex,,,chemical pest control process,3,,5,kg/ha,,,,,,Decoy Wetex at 5.0 kg
+Broadbalk,2006,winter wheat,17/04/2006,None,Bravo 500,excluding  Section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Bravo 500 at 1.0 l in 200 I
+Broadbalk,2006,winter wheat,17/04/2006,None,Flexity,excluding  Section 6,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Flexity at 0.2 l in 200 l
+Broadbalk,2006,winter wheat,17/04/2006,None,Opus,excluding  Section 6,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,"Opus at 0.75 l in 200 l,"
+Broadbalk,2006,winter wheat,12/05/2006,None,Ally Max SX,excluding  Section 8,,chemical pest control process,3,,42,g/ha,200,l/ha,,,,"Ally Max SX at 42 g in 200 1,"
+Broadbalk,2006,winter wheat,28/05/2006,None,Starane 2,excluding  Section 8,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Starane 2 at 0.75 l in 200 l
+Broadbalk,2006,winter wheat,01/06/2006,None,Vivid,excluding  Section 6,,chemical pest control process,3,,0.4,l/ha,200,l/ha,,,,"Vivid at 0.4 l in 200 l,"
+Broadbalk,2006,winter wheat,01/06/2006,None,Bravo 500,excluding  Section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Bravo 500 at 1.0 l in 200 I
+Broadbalk,2006,winter wheat,01/06/2006,None,Opus,excluding  Section 6,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,"Opus at 0.75 l in 200 l,"
+Broadbalk,2007,all sections,05/09/2006,,Weedazol-TL,"sections 0, 1, 2, 4, 6, 7 & 9",,chemical pest control process,3,,20,l/ha,200,l/ha,,,,"Weedazol-TL Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2007,forage maize,21/04/2007,,Clinic Ace,3,,chemical pest control process,3,,4,l/ha,200,l/ha,,,,"Clinic Ace - section 3, pre Maize"
+Broadbalk,2007,forage maize,14/06/2007,,Samson,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Samson maize plots
+Broadbalk,2007,forage maize,19/06/2007,,Callisto,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Callisto maize plots
+Broadbalk,2007,winter oats,04/12/2006,,Decoy Wetex,excluding  section 3,,chemical pest control process,3,,7,kg/ha,,,,,,Decoy Wetex
+Broadbalk,2007,winter oats,19/12/2006,,Lexus Class,,,chemical pest control process,3,,60,g/ha,,,,,,Lexus Class oats
+Broadbalk,2007,winter oats,19/12/2006,,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology oats
+Broadbalk,2007,winter oats,09/05/2007,,Ally Max SX,excluding  section 8,,chemical pest control process,3,,42,l/ha,200,l/ha,,,,Ally Max SX wheat and oats
+Broadbalk,2007,winter oats,09/05/2007,,Starane 2,excluding  section 0.75 8,,chemical pest control process,3,,200,l/ha,,,,,,Starane 2 wheat and oats
+Broadbalk,2007,winter oats,24/05/2007,,Amistar,,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Amistar - oats
+Broadbalk,2007,winter oats,24/05/2007,,Flexity,,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Flexity - oats 0.20
+Broadbalk,2007,winter wheat,03/11/2006,,Ice,"sections 0, 1, 4, 5, 6, 7 & 9",,chemical pest control process,3,,4,l/ha,200,l/ha,,,,"Ice Sections 0, 1, 4, 5, 6, 7 & 9"
+Broadbalk,2007,winter wheat,04/12/2006,,Decoy Wetex,excluding  section 3,,chemical pest control process,3,,7,kg/ha,,,,,,Decoy Wetex
+Broadbalk,2007,winter wheat,23/04/2007,,Clean Crop Wanderer,excluding section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Clean Crop Wanderer all wheat except section 6
+Broadbalk,2007,winter wheat,23/04/2007,,Deuce,excluding section 6,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Deuce all wheat except section 6
+Broadbalk,2007,winter wheat,09/05/2007,,Ally Max SX,excluding  section 8,,chemical pest control process,3,,42,l/ha,200,l/ha,,,,Ally Max SX wheat and oats
+Broadbalk,2007,winter wheat,09/05/2007,,Starane 2,excluding  section 0.75 8,,chemical pest control process,3,,200,l/ha,,,,,,Starane 2 wheat and oats
+Broadbalk,2007,winter wheat,22/05/2007,,Amistar Opti,excluding Section 6,,chemical pest control process,3,,1.25,l/ha,200,l/ha,,,,Amistar Opti wheat excluding Sec 6 125
+Broadbalk,2007,winter wheat,22/05/2007,,Opus,excluding  section 6,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Opus wheat
+Broadbalk,2007,winter wheat,11/06/2007,,Double Top,2 m on W end of plots 225 and 095,,chemical pest control process,3,,40,kgN/ha,,,,,,Double Top 2 m on W end of plots 225 and 095
+Broadbalk,2007,winter wheat,12/06/2007,,Double Top,2 m on W end of plots 225 and 095,,chemical pest control process,3,,40,kgN/ha,,,,,,Double Top 2 m on W end of plots 225 and 095
+Broadbalk,2007,winter wheat,14/06/2007,,Amistar Opti,excluding  section 6,,chemical pest control process,3,,200,l/ha,,,,,,Amistar Opti Wheat
+Broadbalk,2007,winter wheat,14/06/2007,,Landgold Epoxiconazole,excluding  0.40 section 6,,chemical pest control process,3,,200,l/ha,,,,,,"Landgold Epoxiconazole wheat,"
+Broadbalk,2008,all sections,13/09/2007,,Weedazol-TL,"sections 0-3, 4-7, 9",,chemical pest control process,3,,20,l/ha,200,l/ha,,,,"Weedazol-TL sections 0-3, 4-7, 9"
+Broadbalk,2008,all sections,05/10/2007,,chalk applied,"plots 080, 071, 161, 012, 082. 162, 134. 154, 115, 145, 126, 136, 196, 097, 167, 068, 108, 168, 198, 129, 169",,liming process,3,,2,t/ha,,,,,,"Chalk - Plots 080, 071, 161, 012, 082. 162, 134. 154, 115, 145, 126, 136, 196, 097, 167, 068, 108, 168, 198, 129, 169"
+Broadbalk,2008,all sections,05/10/2007,,chalk applied,"plots 150, 081, 125, 135, 155, 195, 076. 106, 116, 156, 067, 077, 107, 127, 078, 088, 118, 128, 079, 089, 109, 119, 139, 199",,liming process,3,,4,t/ha,,,,,,"Chalk - Plots 150, 081, 125, 135, 155, 195, 076. 106, 116, 156, 067, 077, 107, 127, 078, 088, 118, 128, 079, 089, 109, 119, 139, 199"
+Broadbalk,2008,all sections,05/10/2007,,chalk applied,"plots 151, 152, 085, 105, 086, 087, 117, 137, 147, 157, 197, 138, 148, 158, 149, 159",,liming process,3,,6,t/ha,,,,,,"Chalk - Plots 151, 152, 085, 105, 086, 087, 117, 137, 147, 157, 197, 138, 148, 158, 149, 159"
+Broadbalk,2008,all sections,08/09/2008,,Weedazol-TL,excluding sections 3 & 8,,chemical pest control process,3,,20,l/ha,290,l/ha,,,,Weedazol-TL all except sections 3 & 8
+Broadbalk,2008,forage maize,15/04/2008,,Azural,,,chemical pest control process,3,,4,l/ha,,,,,,Azural maize plots
+Broadbalk,2008,forage maize,24/06/2008,,Samson,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Samson - maize 1.50
+Broadbalk,2008,forage maize,29/06/2008,,Callisto,,,chemical pest control process,3,,1,l/ha,200,l/ha,,,,Callisto - maize
+Broadbalk,2008,winter oats,16/11/2007,,Huron,,,chemical pest control process,3,,5,kg/ha,,,,,,"Huron, wheat and oat plots"
+Broadbalk,2008,winter oats,14/12/2007,,Lexus Class,,,chemical pest control process,3,,60,g/ha,,,,,,Lexus Class oats
+Broadbalk,2008,winter oats,14/12/2007,,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology oats
+Broadbalk,2008,winter oats,21/05/2008,,Ally Max SX,,,chemical pest control process,3,,42,g/ha,,,,,,Ally Max SX Oats
+Broadbalk,2008,winter oats,21/05/2008,,Duplosan KV,,,chemical pest control process,3,,1.5,l/ha,200,l/ha,,,,Duplosan KV oats
+Broadbalk,2008,winter oats,14/06/2008,,Flexity,7,,chemical pest control process,3,,0.2,l/ha,200,l/ha,,,,Flexity Oats section 7
+Broadbalk,2008,winter wheat,17/10/2007,,Decoy Wetex,,,chemical pest control process,3,,7,kg/ha,,,,,,Decoy Wotex wheat plots
+Broadbalk,2008,winter wheat,31/10/2007,,Liberator,,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Liberator wheat sections
+Broadbalk,2008,winter wheat,31/10/2007,,Alpha Trifluralin 48 EC,,,chemical pest control process,3,,2,l/ha,200,l/ha,,,,"Alpha Trifluralin 48 EC, wheat sections"
+Broadbalk,2008,winter wheat,16/11/2007,,Huron,,,chemical pest control process,3,,5,kg/ha,,,,,,"Huron, wheat and oat plots"
+Broadbalk,2008,winter wheat,17/11/2007,,Stomp 400 SC,,,chemical pest control process,3,,3.3,l/ha,200,l/ha,,,,Stomp 400 SC wheat plots
+Broadbalk,2008,winter wheat,17/11/2007,,Arelon 500,,,chemical pest control process,3,,2,l/ha,200,l/ha,,,,Arelon 500 wheat plots
+Broadbalk,2008,winter wheat,17/11/2007,,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Hallmark with Zeon Technology wheat plots
+Broadbalk,2008,winter wheat,08/05/2008,,Deuce,excluding  section 6,,chemical pest control process,3,,1,l/ha,150,l/ha,,,,Deuce wheat
+Broadbalk,2008,winter wheat,08/05/2008,,Bravo 500,excluding  section 6,,chemical pest control process,3,,0.75,l/ha,150,l/ha,,,,Bravo 500 wheat
+Broadbalk,2008,winter wheat,08/05/2008,,Flexity,excluding  section 6,,chemical pest control process,3,,0.2,l/ha,150,l/ha,,,,Flexity wheat
+Broadbalk,2008,winter wheat,08/05/2008,,BASF 3C Chloremquat 720,excluding  section 6,,chemical pest control process,3,,1,l/ha,150,l/ha,,,,BASF 3C Chloremquat 720 - wheat
+Broadbalk,2008,winter wheat,21/05/2008,,Ally Max SX,,,chemical pest control process,3,,42,g/ha,,,,,,Ally Max SX Wheat
+Broadbalk,2008,winter wheat,21/05/2008,,Starane 2,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Starane 2 wheat
+Broadbalk,2008,winter wheat,05/06/2008,,Amistar Opti,excluding  section 6,,chemical pest control process,3,,1.25,l/ha,200,l/ha,,,,Amistar Opti Wheat
+Broadbalk,2008,winter wheat,05/06/2008,,Opus,excluding  section 6,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Opus wheat
+Broadbalk,2008,winter wheat,23/06/2008,,Amistar,excluding  section 6,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,Amistar - Wheat
+Broadbalk,2008,winter wheat,23/06/2008,,Icon,excluding  section 6,,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,Icon - wheat
+Broadbalk,2009,all sections,27/08/2009,,Weedazol-TL,excluding sections 3 & 8,,chemical pest control process,3,,20,l/ha,,,,,,Weedazol-TL all except sections 3 & 8
+Broadbalk,2009,forage maize,03/04/2009,,Clipper,,,chemical pest control process,3,,3,l/ha,,,,,,Clipper - maize area only
+Broadbalk,2009,forage maize,13/05/2009,,Samson,7,,chemical pest control process,3,,1,l/ha,,,,,,Samson section 7 only
+Broadbalk,2009,forage maize,15/06/2009,,Callisto,7,,chemical pest control process,3,,0.75,l/ha,,,,,,Callisto section 7 only
+Broadbalk,2009,winter oats,27/10/2008,,Allure,,,chemical pest control process,3,,7.5,kg/ha,,,,,,Allure - wheat and oats
+Broadbalk,2009,winter oats,20/11/2008,,Karan,,,chemical pest control process,3,,5,kg/ha,,,,,,Karan - wheat and oats
+Broadbalk,2009,winter oats,15/12/2008,,Lexus Class,,,chemical pest control process,3,,60,g/ha,,,,,,Lexus Class oats
+Broadbalk,2009,winter oats,15/12/2008,,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,,,,,,Hallmark with Zeon Technology - oats only
+Broadbalk,2009,winter oats,22/05/2009,,Ally Max SX,,,chemical pest control process,3,,42,g/ha,,,,,,Ally Max SX
+Broadbalk,2009,winter oats,22/05/2009,,Duplosan KV,,,chemical pest control process,3,,150,l/ha,,,,,,Duplosan KV
+Broadbalk,2009,winter oats,22/05/2009,,Headland Charge,,,chemical pest control process,3,,1.5,l/ha,,,,,,Headland Charge
+Broadbalk,2009,winter oats,22/05/2009,,Amistar,,,chemical pest control process,3,,0.6,l/ha,,,,,,Amistar
+Broadbalk,2009,winter oats,22/05/2009,,Flexity,,,chemical pest control process,3,,0.2,l/ha,,,,,,Flexity
+Broadbalk,2009,winter wheat,18/10/2008,,Liberator,excluding  section 8,,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Liberator wheat
+Broadbalk,2009,winter wheat,27/10/2008,,Allure,,,chemical pest control process,3,,7.5,kg/ha,,,,,,p Allure - wheat and oats
+Broadbalk,2009,winter wheat,20/11/2008,,Karan,,,chemical pest control process,3,,5,kg/ha,,,,,,Karan - wheat and oats
+Broadbalk,2009,winter wheat,10/12/2008,,Stomp 400 SC,excluding section 8,sprayed,chemical pest control process,3,,3.3,l/ha,,,,,,Stomp 400 SC. Sprayed all wheat excluding section 8
+Broadbalk,2009,winter wheat,10/12/2008,,Arelon 500,excluding section 8,sprayed,chemical pest control process,3,,3,l/ha,,,,,,Arelon 500. Sprayed all wheat excluding section 8
+Broadbalk,2009,winter wheat,10/12/2008,,Hallmark with Zeon Technology,excluding section 8,sprayed,chemical pest control process,3,,50,ml/ha,,,,,,Hallmark with Zeon Technology. Sprayed all wheat excluding section 8
+Broadbalk,2009,winter wheat,29/04/2009,,Cherokee,8,,chemical pest control process,3,,1.25,l/ha,,,,,,Cherokee - to section 8 only
+Broadbalk,2009,winter wheat,10/05/2009,,Cherokee,excluding section 6 and 8,,chemical pest control process,3,,1.25,l/ha,,,,,,"Cherokee - wheat sections only, except section 6 and 8"
+Broadbalk,2009,winter wheat,10/05/2009,,Ally Max SX,excluding section 6 and 8,,chemical pest control process,3,,42,g/ha,,,,,,"Ally Max SX wheat sections only, except section 6 and 8"
+Broadbalk,2009,winter wheat,10/05/2009,,Agriguard Fluroxypyr,excluding section 6 and 8,,chemical pest control process,3,,0.75,l/ha,,,,,,"Agriguard Fluroxypyr - wheat sections only, except section 6 and 8"
+Broadbalk,2009,winter wheat,10/05/2009,,Hurler,excluding section 6 and 8,,chemical pest control process,3,,0.75,l/ha,,,,,,"Hurler wheat sections only, except section 6 and 8"
+Broadbalk,2009,winter wheat,28/05/2009,,Brutus,section 8,,chemical pest control process,3,,1.5,l/ha,,,,,,Brutus wheat + section 8
+Broadbalk,2009,winter wheat,28/05/2009,,Amistar Opti,section 8,,chemical pest control process,3,,1.25,l/ha,,,,,,Amistar Opti wheat + section 8
+Broadbalk,2010,winter wheat,15/10/2009,,Liberator,(Wheat only and not section 8),,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Liberator - 200 It water
+Broadbalk,2010,winter wheat,10/12/2009,,Lexus Class,,,chemical pest control process,3,,60,g/ha,,,,,,Lexus Class
+Broadbalk,2010,winter wheat,10/12/2009,,Hallmark with Zeon Technology,,,chemical pest control process,3,,50,ml/ha,,,,,,Hallmark with Zeon Technology
+Broadbalk,2010,winter wheat,05/05/2010,,Bravo 500,"sections 0, 1, 2, 3, 7, 8 & 9",,chemical pest control process,3,,1,l/ha,,,,,,"Bravo 500 - sections 0, 1, 2, 3, 7, 8 & 9"
+Broadbalk,2010,winter wheat,05/05/2010,,Tracker,"sections 0, 1, 2, 3, 7, 8 & 9",,chemical pest control process,3,,1,l/ha,,,,,,"Tracker - sections 0, 1, 2, 3, 7, 8 & 9"
+Broadbalk,2010,winter wheat,05/05/2010,,Talius -,"sections 0, 1, 2, 3, 7, 8 & 9",,chemical pest control process,3,,0.13,l/ha,,,,,,"Talius - sections 0, 1, 2, 3, 7, 8 & 9"
+Broadbalk,2010,winter wheat,05/05/2010,,Chloremquat 3C,"sections 0, 1, 2, 3, 7, 8 & 9",,chemical pest control process,3,,2.25,l/ha,,,,,,"Chloremquat 3C - sections 0, 1, 2, 3, 7, 8 & 9"
+Broadbalk,2010,winter wheat,20/05/2010,,Starane 2,"sections 0, 1, 2, 3, 6, 7 & 9",,chemical pest control process,3,,1,l/ha,,,,,,"Starane 2 - sections 0, 1, 2, 3, 6, 7 & 9"
+Broadbalk,2010,winter wheat,20/05/2010,,Ally Max SX,"sections 0,1,2,3,6,7 and 9",,chemical pest control process,3,,42,g/ha,,,,,,"Ally Max SX - sections 0,1,2,3,6,7 and 9"
+Broadbalk,2010,winter wheat,02/06/2010,,Comet,"(sections 0, 1, 2, 3, 7, 8, 9)",,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Comet - 200 It water
+Broadbalk,2010,winter wheat,02/06/2010,,Opus,"(sections 0, 1, 2, 3, 7, 8, 9)",,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,Opus - 200 It water
+Broadbalk,2010,forage maize,09/04/2010,,rosate 36,,,chemical pest management process,3,,4,l/ha,200,l/ha,,,,Rosate 36 - Maize section only (200 It water)
+Broadbalk,2010,forage maize,04/06/2010,,Callisto,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,p Callisto - 200 It water maize section only
+Broadbalk,2010,forage maize,04/06/2010,,Samson Extra,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,Samson Extra - 200 It water maize section only
+Broadbalk,2010,winter oats,20/05/2010,,Ally Max 5s,5,,chemical pest control process,3,,,,,,,,,Ally Max 5s - Section 5
+Broadbalk,2010,winter oats,20/05/2010,,Starane 2,5,,chemical pest control process,3,,,,,,,,,Starane 2 - Section 5
+Broadbalk,2011,all sections,01/09/2010,,Weedazol-TL,excluding section 8 and maize section,,chemical pest control process,3,,20,l/ha,296,l/ha,,,,"Weedazol-TL, Not on section 8 or maize section"
+Broadbalk,2011,all sections,01/11/2010,,Regatta,"(Sections 0, 1, 2, 4, 6, 7, 9 only)",sprayed,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,"Sprayed Regatta, Water volume = 200 l/ha (Sections 0, 1, 2, 4, 6, 7, 9 only)"
+Broadbalk,2011,all sections,10/11/2010,,KARAN Slug Pellets,excluding section 5,,chemical pest control process,3,,3,kg/ha,,,,,,"Karan Slug pellets, Not section 5"
+Broadbalk,2011,all sections,23/11/2010,,KARAN Slug Pellets,,,chemical pest control process,3,,2.5,kg/ha,,,,,,Karan Slug pellets
+Broadbalk,2011,all sections,28/07/2011,,Statis 360,"(sections 0, 1, 9, 2, 3, 4, 6, 7 only)",sprayed,chemical pest control process,3,,3+3,l/ha,200,l/ha,,,,"Sprayed Statis 360 + Mixture B, Water volume = 200 l/ha (sections 0, 1, 9, 2, 3, 4, 6, 7 only)"
+Broadbalk,2011,all sections,28/07/2011,,Mixture B,"(sections 0, 1, 9, 2, 3, 4, 6, 7 only)",sprayed,chemical pest control process,3,,3,l/ha,200,l/ha,,,,
+Broadbalk,2011,forage maize,07/04/2011,,Statis 360,,sprayed,chemical pest control process,3,,3,l/ha,200,l/ha,,,,"Sprayed Statis 360, 200 l/ha water. Maize section only"
+Broadbalk,2011,forage maize,24/06/2011,,Callisto,"(Sprayed Maize, section 5, only)",sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,"Sprayed Callisto. water volume - 200 l/ha (Sprayed Maize, section 5, only)"
+Broadbalk,2011,forage maize,24/06/2011,,Samson Extra,"(Sprayed Maize, section 5, only)",sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,"Sprayed Samson Extra. water volume - 200 l/ha (Sprayed Maize, section 5, only)"
+Broadbalk,2011,winter oats,23/11/2010,,Lexus Class,3,sprayed,chemical pest control process,3,,60,g/ha,200,l/ha,,,,"Sprayed Lexus Class + Hallmark with zeon technology, Section 3 (W. oats only). Water volume = 200 l/ha 50 ml/ha"
+Broadbalk,2011,winter oats,23/11/2010,,Hallmark with Zeon Technology,3,sprayed,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,
+Broadbalk,2011,winter oats,12/05/2011,,Amistar,3,sprayed,chemical pest control process,3,,0.5,l/ha,200,l/ha,,,,"Sprayed Amistar, Section 3 only. 200 l/ha water"
+Broadbalk,2011,winter oats,12/05/2011,,Agriguard,3,sprayed,chemical pest control process,3,,1.75,l/ha,200,l/ha,,,,"Sprayed Agriguard, Section 3 only. 200 l/ha water"
+Broadbalk,2011,winter wheat,08/03/2011,,Cherokee,"sections 0, 1, 9, 2, 4, 7, 8",sprayed,chemical pest control process,3,,1.25,l/ha,118,l/ha,,,,"Sprayed Cherokee - Water volume - 118 lt/ha. Applied to sections 0, 1, 9, 2, 4, 7, 8"
+Broadbalk,2011,winter wheat,04/05/2011,,Ally Max,,sprayed,chemical pest control process,3,,42,g/ha,200,l/ha,,,,"Sprayed Ally Max - Sections 0, 1, 2, 3, 4, 6, 7 & 9, 200 l/ha water"
+Broadbalk,2011,winter wheat,04/05/2011,,Starane 2,,,chemical pest control process,3,,0.75,l/ha,200,l/ha,,,,"Starane 2 - Sections 0, 1, 2, 3, 4, 6, 7 and 9, 200 l/ha water"
+Broadbalk,2011,winter wheat,06/05/2011,,Bravo 500,"sections 0, 1, 2, 4, 7, 8 and 9",sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Sprayed Bravo 500 - Sections 0, 1, 2, 4, 7, 8 and 9"
+Broadbalk,2011,winter wheat,06/05/2011,,Agriguard Chloremquat 720,"sections 0, 1, 2, 4, 7, 8 and 9",,chemical pest control process,3,,2.25,l/ha,200,l/ha,,,,"Agriguard Chloremquat 720 - Sections 0, 1, 2, 4, 7, 8 and 9"
+Broadbalk,2011,winter wheat,06/05/2011,,Justice,,,chemical pest control process,3,,0.25,l/ha,200,l/ha,,,,"Justice - Sections 0, 1, 2, 4, 7, 8 and 9, all above in 200 l/ha water"
+Broadbalk,2011,winter wheat,06/05/2011,,Tracker,"sections 0, 1, 2, 4, 7, 8 and 9",,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Tracker - Sections 0, 1, 2, 4, 7, 8 and 9"
+Broadbalk,2011,winter wheat,19/05/2011,,Opus,,sprayed,chemical pest control process,3,,0.8,l/ha,200,l/ha,,,,"Sprayed Opus, sections 0, 1, 2, 4, 7, 8 and 9. 200 I/ha"
+Broadbalk,2011,winter wheat,19/05/2011,,Comet 200,,sprayed,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,"Sprayed Comet 200, sections 0, 1, 2, 4, 7, 8 and 9. 200 I/ha"
+Broadbalk,2011,winter wheat,19/05/2011,,Bravo 500,,sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Sprayed Bravo 500 - Sections 0, 1, 2, 4, 7, 8 and 9. 200 I/ha"
+Broadbalk,2012,all sections,31/08/2011,,Sprayed Weedazol to control equisetum prior to primary cultivations,,,chemical pest control process,3,,20,l/ha,200,l/ha,,,,Sprayed Weedazol - water volume = 200 l/ha (Sprayed to control equisetum prior to primary cultivations)
+Broadbalk,2012,all sections,13/10/2011,,Liberator,"sections 0, 1, 4, 5, 6, 7 and 9 only. Plots 012 and 2.12 sprayed by accident.",sprayed,chemical pest control process,3,,0.6,l/ha,200,l/ha,,,,"Sprayed Liberator - sections 0, 1, 4, 5, 6, 7 and 9 only. Plots 012 and 2.12 sprayed by accident. 200 lt/ha water volume"
+Broadbalk,2012,all sections,23/11/2011,,Seal Z,except section 3,sprayed,chemical pest control process,3,,50,ml/ha,200,l/ha,,,,Sprayed Seal Z - all sections apart from section 3 sprayed. 200 It/ha water volume
+Broadbalk,2012,all sections,01/12/2011,,Lexus Class,,sprayed,chemical pest control process,3,,60,g/ha,200,l/ha,,,,Sprayed Lexus class - section 2 only. 200 l/ha water volume
+Broadbalk,2012,all sections,20/04/2012,,Platform,excluding section 3,sprayed,chemical pest control process,3,,1,kg/ha,200,l/ha,,,,Sprayed Platform - all sections except section 3 200 l/ha
+Broadbalk,2012,all sections,06/08/2012,,Samurai,,sprayed,chemical pest control process,3,,3,l/ha,,,,,,Sprayed Samurai
+Broadbalk,2012,all sections,06/08/2012,,Mixture B,,sprayed,chemical pest control process,3,,4,l/ha,,,,,,Sprayed Mixture B
+Broadbalk,2012,all sections,31/08/2012,,Sprayed Weedazol TL EW 296 sv,"sections 0, 1, 2, 4, 5, 6, 7, 9",,chemical pest control process,3,,20,l/ha,200,l/ha,,,,Sprayed Weedazol - water volume = 200 l/ha (sprayed to control equiestum prior to primary cultivations)
+Broadbalk,2012,forage maize,29/03/2012,,Samurai SL PRE,3,sprayed,chemical pest control process,3,,3,l/ha,,,,,,Sprayed Section 3 - Samurai SL PRE
+Broadbalk,2012,forage maize,20/06/2012,,Samson Extra,3,sprayed,chemical pest control process,3,,0.75,l/ha,,,,,,Sprayed Samson Extra Section 3 only
+Broadbalk,2012,forage maize,20/06/2012,,Callisto 200 sv,3,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Callisto 200 sv Section 3 only
+Broadbalk,2012,winter wheat,21/03/2012,,Cherokee SE,,sprayed,chemical pest control process,3,,1,l/ha,200,l/ha,,,,"Sprayed Cherokee SE, 200 l/ha, Sections 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,21/03/2012,,Justice SV,,sprayed,chemical pest control process,3,,0.125,l/ha,200,l/ha,,,,"Sprayed Justice SV 200 l/ha, Sections 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,13/05/2012,,Bravo 500,"sections, 0, 1, 9, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Bravo 500, sections, 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,13/05/2012,,Ally Max + wetter,"sections 0, 1, 9, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,42,g/ha,,,,,,"Sprayed Ally Max and wetter, sections 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,13/05/2012,,Starane + wetter,"sections 0, 1, 9, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,0.5,l/ha,,,,,,"sprayed Starane and wetter, sections 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,13/05/2012,,Topik + wetter,"sections 0, 1, 9, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,0.1256,l/ha,,,,,,"sprayed Topik and wetter, sections 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,13/05/2012,,Tracker,"sections, 0, 1, 9, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Tracker, sections, 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,13/05/2012,,CCC,"sections, 0, 1, 9, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,2.25,l/ha,,,,,,"Sprayed CCC, sections, 0, 1, 9, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,28/05/2012,,Comet,"sections 0, 1, 9, 2, 4, 5, 7, 8",sprayed,chemical pest control process,3,,0.6,l/ha,,,,,,"Sprayed Comet, sections 0, 1, 9, 2, 4, 5, 7, 8"
+Broadbalk,2012,winter wheat,28/05/2012,,Bravo 500,"sections 0, 1, 9, 2, 4, 5, 7, 8",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Bravo 500, sections 0, 1, 9, 2, 4, 5, 7, 8"
+Broadbalk,2012,winter wheat,28/05/2012,,Opus,"sections 0, 1, 9, 2, 4, 5, 7, 8",sprayed,chemical pest control process,3,,0.8,l/ha,,,,,,"Sprayed Opus, sections 0, 1, 9, 2, 4, 5, 7, 8"
+Broadbalk,2012,winter wheat,12/06/2012,,Amistar,"sections 0, 1, 9, 2, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,0.3,l/ha,,,,,,"Sprayed Amistar, sections 0, 1, 9, 2, 4, 5, 7 & 8"
+Broadbalk,2012,winter wheat,12/06/2012,,Prosaro 100 sv,"sections 0, 1, 9, 2, 4, 5, 7 & 8",sprayed,chemical pest control process,3,,0.7,l/ha,,,,,,"Sprayed Prosaro 100 sv, sections 0, 1, 9, 2, 4, 5, 7 & 8"
+Broadbalk,2013,all sections,03/06/2013,,Refine Max,"sections 0, 1, 3, 4, 5 & 9",sprayed,chemical pest control process,3,,75,g/ha,,,,,,Sprayed Refine Max
+Broadbalk,2013,all sections,03/06/2013,,Competox,"sections 0, 1, 3, 4, 5 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Competox+
+Broadbalk,2013,all sections,03/06/2013,,Kingdom,"sections 0, 1, 3, 4, 5 & 9",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,Sprayed Kingdom
+Broadbalk,2013,all sections,03/06/2013,,Bravo 500,"sections 0, 1, 3, 4, 5 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Bravo 500
+Broadbalk,2013,all sections,04/06/2013,,Refine Max,section 6,sprayed,chemical pest control process,3,,75,g/ha,,,,,,Section 6 Sprayed Refine Max
+Broadbalk,2013,all sections,04/06/2013,,Competox,section 6,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Section 6 Sprayed Competox
+Broadbalk,2013,forage maize,26/06/2013,,Samson,,sprayed,chemical pest control process,3,,0.5,l/ha,,,,,,Sprayed Samson - maize plots only
+Broadbalk,2013,forage maize,26/06/2013,,Callisto,,sprayed,chemical pest control process,3,,0.5,l/ha,,,,,,Sprayed Callisto maize plots only
+Broadbalk,2013,winter oats,02/06/2013,,Foundation,,sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,Sprayed Foundation
+Broadbalk,2013,winter oats,02/06/2013,,Hatchet,,sprayed,chemical pest control process,3,,0.5,l/ha,,,,,,Sprayed Hatchet
+Broadbalk,2013,winter oats,02/06/2013,,Cello,,sprayed,chemical pest control process,3,,0.8,l/ha,,,,,,Sprayed Cello
+Broadbalk,2013,winter wheat,03/06/2013,,Kingdom,,sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,Sprayed Kingdom
+Broadbalk,2013,winter wheat,03/06/2013,,Bravo,,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Bravo
+Broadbalk,2014,all sections,01/10/2013,,chalk applied,"plots 017, 2.27, 057, 066, 067, 068, 070, 071, 076, 078, 079, 081, 085, 086, 089, 095, 098, 105, 108, 115, 116, 118, 125, 126, 135, 136, 145, 146, 150, 153, 169, 172, 177, 178, 179, 196, 199 - Not Section 4",,liming process,3,,2,t/ha,,,,,,"Applied Chalk - Plots 017, 2.27, 057, 066, 067, 068, 070, 071, 076, 078, 079, 081, 085, 086, 089, 095, 098, 105, 108, 115, 116, 118, 125, 126, 135, 136, 145, 146, 150, 153, 169, 172, 177, 178, 179, 196, 199 - Not Section 4"
+Broadbalk,2014,all sections,01/10/2013,,chalk applied,"plots 012, 077, 080, 082, 087, 088, 097, 106, 109, 119, 128, 129, 138, 139, 147, 148, 149, 151, 155, 156, 158, 159, 167, 168, 197, 198 - Not Section 4",,liming process,3,,4,l/ha,,,,,,"Applied Chalk - Plots 012, 077, 080, 082, 087, 088, 097, 106, 109, 119, 128, 129, 138, 139, 147, 148, 149, 151, 155, 156, 158, 159, 167, 168, 197, 198 - Not Section 4"
+Broadbalk,2014,all sections,01/10/2013,,chalk applied,"plots 107, 117, 127, 137, 152, 157, 162 - Not Section 4",,liming process,3,,6,t/ha,,,,,,"Applied Chalk - Plots 107, 117, 127, 137, 152, 157, 162 - Not Section 4"
+Broadbalk,2014,all sections,30/04/2014,,Kingdom,"excluding sections 8, 4 or 7",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,"Sprayed Kingdom - not sections 8, 4 or 7"
+Broadbalk,2014,all sections,30/04/2014,,Bravo 500,"excluding sections 8, 4 or T",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Bravo 500 - not sections 8, 4 or T"
+Broadbalk,2014,all sections,15/05/2014,,Hatchet Xtra,"excluding sections 8, 4 or 7",sprayed,chemical pest control process,3,,700,ml/ha,,,,,,"Sprayed Hatchet Xtra - not sections 8, 4 or 7"
+Broadbalk,2014,all sections,06/06/2014,,Cello,"excluding section 4, 6, 7",sprayed,chemical pest control process,3,,1.1,l/ha,,,,,,"Sprayed Cello Section 4, 6 + 7 not Sprayed"
+Broadbalk,2014,forage maize,10/04/2014,,Samurai,,sprayed,chemical pest control process,3,,3,l/ha,,,,,,Sprayed Samurai - Maize section only
+Broadbalk,2014,forage maize,10/04/2014,,Firebrand,,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Firebrand - Maize section only
+Broadbalk,2014,forage maize,02/06/2014,,KARAN Slug Pellets,section 7,,chemical pest control process,3,,5,kg/ha,,,,,,Applied KARAN Slug Pellets
+Broadbalk,2014,forage maize,19/06/2014,,Samson Extra 6%,,sprayed,chemical pest control process,3,,500,ml/ha,,,,,,Sprayed Samson Extra 6% - Maize only
+Broadbalk,2014,forage maize,19/06/2014,,Callisto,,sprayed,chemical pest control process,3,,750,ml/ha,,,,,,Sprayed Callisto - Maize only
+Broadbalk,2014,winter oats,26/11/2013,,Lexus Millenium,,sprayed,chemical pest control process,3,,100,g/ha,,,,,,Sprayed Lexus Millenium - Oats only
+Broadbalk,2014,winter oats,26/11/2013,,Hallmark,,sprayed,chemical pest control process,3,,50,ml/ha,,,,,,Sprayed Hallmark - Oats only
+Broadbalk,2014,winter wheat,27/11/2013,,Major Slug Pellets,,,chemical pest control process,3,,4,kg/ha,,,,,,Major Slug Pellets
+Broadbalk,2014,winter wheat,27/11/2013,,Hallmark,excluding section 8,sprayed,chemical pest control process,3,,50,ml/ha,,,,,,Sprayed Hallmark - All wheats but not section 8
+Broadbalk,2014,winter wheat,27/11/2013,,Liberator,excluding section 8,sprayed,chemical pest control process,3,,600,ml/ha,,,,,,Sprayed Liberator - All wheats but not section 8
+Broadbalk,2014,winter wheat,27/11/2013,,Stomp,excluding section 8,sprayed,chemical pest control process,3,,17,l/ha,,,,,,Sprayed Stomp - All wheats but not section 8
+Broadbalk,2014,winter wheat,27/11/2013,,Hallmark,8,sprayed,chemical pest control process,3,,50,ml/ha,,,,,,Sprayed Hallmark - Section 8 only
+Broadbalk,2015,all sections,05/09/2014,,Weedazol,"sections 1, 2, 3, 4, 5, 6 & 9 only",sprayed,chemical pest control process,3,,20,l/ha,,,,,,"Sprayed Weedazol to sections 1, 2, 3, 4, 5, 6 & 9 only"
+Broadbalk,2015,all sections,06/11/2014,,Firebrand,,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Firebrand - strips 2.20 & 2.10 only
+Broadbalk,2015,all sections,06/11/2014,,Samurai,strips 2.20 & 2.10 only,sprayed,chemical pest control process,3,,,,,,,,,Sprayed Samurai - strips 2.20 & 2.10 only
+Broadbalk,2015,all sections,05/03/2015,,Samurai,8,sprayed,chemical pest control process,3,,25,l/ha,,,,,,Sprayed Samurai - not section 8
+Broadbalk,2015,all sections,05/03/2015,,Firebrand,excluding section 8,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Firebrand - not section &
+Broadbalk,2015,all sections,13/05/2015,,BASF Chloremquat 750,"excluding sections 4, 6 or 8",sprayed,chemical pest control process,3,,2,l/ha,,,,,,"Sprayed BASF Chloremquat 750 - all sections - not sections 4, 6 or 8"
+Broadbalk,2015,all sections,13/05/2015,,Kingdom,"excluding sections 4, 6 or 8",sprayed,chemical pest control process,3,,15,l/ha,,,,,,"Sprayed Kingdom - all sections - not sections 4, 6 or 8"
+Broadbalk,2015,all sections,13/05/2015,,Foundation,"excluding sections 4, 6 or 8",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,"Sprayed Foundation - all sections - not sections 4, 6 or 8"
+Broadbalk,2015,all sections,13/05/2015,,BASF Chloremquat 750,6,sprayed,chemical pest control process,3,,2,l/ha,,,,,,Sprayed BASF Chloremquat 750 - section 6 only
+Broadbalk,2015,all sections,13/05/2015,,Foundation,6,sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,Sprayed Foundation - section 6 only
+Broadbalk,2015,all sections,13/05/2015,,BASF Chloremquat 750,"sections 0, 1, 2, 3, 5, 7 & 9",sprayed,chemical pest control process,3,,2,l/ha,,,,,,"Sprayed BASF Chloremquat 750 - sections 0, 1, 2, 3, 5, 7 & 9"
+Broadbalk,2015,all sections,13/05/2015,,Kingdom,"sections 0, 1, 2, 3, 5, 7 & 9",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,"Sprayed Kingdom - sections 0, 1, 2, 3, 5, 7 & 9"
+Broadbalk,2015,all sections,13/05/2015,,Foundation,"sections 0, 1, 2, 3, 5, 7, & 9",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,"Sprayed Foundation - sections 0, 1, 2, 3, 5, 7, & 9"
+Broadbalk,2015,all sections,13/05/2015,,Foundation,6,sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,Sprayed Foundation - section 6 only
+Broadbalk,2015,all sections,21/05/2015,,Kingdom,Western End of plot 109,sprayed,chemical pest control process,3,,15,l/ha,,,,,,Sprayed Kingdom - Western End of plot 109
+Broadbalk,2015,all sections,16/06/2015,,Sprayod Ally Max -,"sections, 0, 1, 2, 3, 5, 7 & 9",,chemical pest control process,3,,30,g/ha,,,,,,"Sprayod Ally Max - sections, 0, 1, 2, 3, 5, 7 & 9"
+Broadbalk,2015,all sections,16/06/2015,,Capalo,"sections, 0, 1, 2, 3, 5, 7 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Capalo - sections, 0, 1, 2, 3, 5, 7 & 9"
+Broadbalk,2015,all sections,16/06/2015,,Gemstone,"sections, 0, 1, 2, 3, 5, 7 & 9",sprayed,chemical pest control process,3,,120,ml/ha,,,,,,"Sprayed Gemstone - sections, 0, 1, 2, 3, 5, 7 & 9"
+Broadbalk,2015,all sections,16/06/2015,,Jenton,"sections, 0, 1, 2, 3, 5, 7 & 9",sprayed,chemical pest control process,3,,100,ml/ha,,,,,,"Sprayed Jenton - sections, 0, 1, 2, 3, 5, 7 & 9"
+Broadbalk,2015,all sections,16/06/2015,,Ally Max,6,sprayed,chemical pest control process,3,,30,g/ha,,,,,,Sprayed Ally Max - section 6 only
+Broadbalk,2015,forage maize,17/06/2015,,Samson Extra,4,sprayed,chemical pest control process,3,,500,ml/ha,,,,,,Sprayed Samson Extra - section 4 only
+Broadbalk,2015,forage maize,17/06/2015,,Samson Callisto,4,sprayed,chemical pest control process,3,,750,ml/ha,,,,,,Sprayed Samson Callisto - section 4 only
+Broadbalk,2015,spring wheat,13/05/2015,,BASF Chloremquat 750,6,sprayed,chemical pest control process,3,,2,l/ha,,,,,,Sprayed BASF Chloremquat 750 - section 6 only
+Broadbalk,2015,spring wheat,21/05/2015,,BASF 3C Chloremquat 750,Western End of plot 109,sprayed,chemical pest control process,3,,2,l/ha,,,,,,Sprayed BASF 3C Chloremquat 750 - Western End of plot 109
+Broadbalk,2016,forage maize,19/04/2016,,Firebrand,5,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Firebrand - Section 5 only
+Broadbalk,2016,winter oats,12/11/2015,,TDS Major,section 3,,chemical pest control process,3,,5,kg/ha,,,,,,TDS Major
+Broadbalk,2016,winter oats,12/11/2015,,TDS Major,section 3,,chemical pest control process,3,,5,kg/ha,,,,,,TDS Major
+Broadbalk,2016,winter oats,21/12/2015,,Excalibur,3,sprayed,chemical pest control process,3,,180,g/ha,200,l/ha,,,,
+Broadbalk,2016,winter oats,21/12/2015,,Hallmark,3,sprayed,chemical pest control process,3,,40,ml/ha,200,l/ha,,,,
+Broadbalk,2016,winter oats,27/04/2016,,Ally Max,,sprayed,chemical pest control process,3,,30,g/ha,,,,,,Sprayed Ally Max
+Broadbalk,2016,winter oats,27/04/2016,,BASF 3C Chloremquat 750,,sprayed,chemical pest control process,3,,2,l/ha,,,,,,Sprayed BASF 3C Chloremquat 750
+Broadbalk,2016,winter oats,27/04/2016,,Cello,,sprayed,chemical pest control process,3,,800,ml/ha,,,,,,Sprayed Cello
+Broadbalk,2016,winter oats,27/04/2016,,Hurler,,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Hurer
+Broadbalk,2016,winter oats,06/06/2016,,Folicur,sections 3 only,sprayed,chemical pest control process,3,,750,ml/ha,,,,,,Sprayed Folicur - Sections 3 only
+Broadbalk,2016,winter wheat,19/10/2015,,Liberator,"sections 0, 1, 2, 4, 6, 7 & 9",sprayed,chemical pest control process,3,,0.6,l/ha,,,,,,"Sprayed WW - Liberator - Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2016,winter wheat,19/10/2015,,Stomp Aqua,"sections 0, 1, 2, 4, 6, 7 & 9",sprayed,chemical pest control process,3,,1.75,l/ha,,,,,,"Sprayed WW Stomp Aqua - Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2016,winter wheat,12/11/2015,,TDS Major,"Sections 0, 1, 2, 4, 6, 7 & 9",,chemical pest control process,3,,5,kg/ha,,,,,,Applied TDS Major
+Broadbalk,2016,winter wheat,13/04/2016,,Sofuyod Moddus -,"sections 0, 1, 2, 4, 7, & 9",,chemical pest control process,3,,150,ml/ha,,,,,,"Sofuyod Moddus - Sections 0, 1, 2, 4, 7, & 9"
+Broadbalk,2016,winter wheat,13/04/2016,,3C Chloremquat 750,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,"Sprayed 3C Chloremquat 750 - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,13/04/2016,,Odin,"sections 0, 1, 2, 4,7 & 9",sprayed,chemical pest control process,3,,500,ml/ha,,,,,,"Sprayed Odin - Sections 0, 1, 2, 4,7 & 9"
+Broadbalk,2016,winter wheat,13/04/2016,,Mirage 40ec,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,500,ml/ha,,,,,,"Sprayed Mirage 40ec - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,13/04/2016,,Bravo 500,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Bravo 500 - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,13/04/2016,,Moddus,6,sprayed,chemical pest control process,3,,150,ml/ha,,,,,,Sprayed Moddus - Section 6 only
+Broadbalk,2016,winter wheat,13/04/2016,,3C Chloremquat 750,6,sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,Sprayed 3C Chloremquat 750 - Section 6 only
+Broadbalk,2016,winter wheat,30/04/2016,,Chex,"sections 0, 1, 2, 4, 6, 7 & 9",sprayed,chemical pest control process,3,,250,ml/ha,,,,,,"Sprayed Chex - Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2016,winter wheat,30/04/2016,,Pacifica,"sections 0, 1, 2, 4, 6, 7 & 9 only",sprayed,chemical pest control process,3,,500,ml/ha,,,,,,"Sprayed Pacifica - Sections 0, 1, 2, 4, 6, 7 & 9 only"
+Broadbalk,2016,winter wheat,30/04/2016,,Bio Power,"sections 0, 1, 2, 4, 6, 7 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Bio Power - Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2016,winter wheat,12/05/2016,,Keystone,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,800,ml/ha,,,,,,"Sprayed Keystone - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,12/05/2016,,Balear 720,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,700,ml/ha,,,,,,"Sprayed Balear 720 - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,03/06/2016,,Vortex,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,909,ml/ha,,,,,,"Sprayed Vortex - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,03/06/2016,,Bassoon,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,600,ml/ha,,,,,,"Sprayed Bassoon - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2016,winter wheat,10/07/2016,,Cello,"sections 0, 1, 2, 4, 7 & 9",sprayed,chemical pest control process,3,,550,ml/ha,,,,,,"Sprayed Cello - Sections 0, 1, 2, 4, 7 & 9"
+Broadbalk,2017,all sections,13/10/2016,,Liberator,,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Liberator
+Broadbalk,2017,all sections,13/10/2016,,Defy,,sprayed,chemical pest control process,3,,3,l/ha,,,,,,Sprayed Defy
+Broadbalk,2017,all sections,08/11/2016,,Major Slug Pellets,,,chemical pest control process,3,,5,kg/ha,,,,,,Major Slug Pellets
+Broadbalk,2017,all sections,15/03/2017,,Pacifica,"sections 0, 1, 4, 5, 6, 7 & 9 only",sprayed,chemical pest control process,3,,500,g/ha,,,,,,"Sprayed Pacifica - Sections 0, 1, 4, 5, 6, 7 & 9 only"
+Broadbalk,2017,all sections,15/03/2017,,Chex,"sections 0, 1, 2, 4, 6, 7 & 9",sprayed,chemical pest control process,3,,250,ml/ha,,,,,,"Sprayed Chex - Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2017,all sections,15/03/2017,,Bio Power,"sections 0, 1, 2, 4, 6, 7 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Bio Power - Sections 0, 1, 2, 4, 6, 7 & 9"
+Broadbalk,2017,all sections,05/04/2017,,Artemis,"sections 0, 1, 4, 5, 7, 8 & 9 only",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed Artemis - Sections 0, 1, 4, 5, 7, 8 & 9 only"
+Broadbalk,2017,all sections,05/04/2017,,Claw500,"sections 0, 1, 4, 5, 7, 8 & 9 only",sprayed,chemical pest control process,3,,51,l/ha,,,,,,"Sprayed Claw500 - Sections 0, 1, 4, 5, 7, 8 & 9 only"
+Broadbalk,2017,all sections,05/04/2017,,Moddus,"sections 0, 1, 4, 5, 7, 8 & 9 only",sprayed,chemical pest control process,3,,1.25,ml/ha,,,,,,"Sprayed Moddus - Sections 0, 1, 4, 5, 7, 8 & 9 only"
+Broadbalk,2017,all sections,05/04/2017,,3C Chloremquat 750,"sections 0, 1, 4, 5, 7, 8 & 9 only",sprayed,chemical pest control process,3,,1.25,l/ha,,,,,,"Sprayed 3C Chloremquat 750 - Sections 0, 1, 4, 5, 7, 8 & 9 only"
+Broadbalk,2017,all sections,25/04/2017,,Keystone,"sections 0, 1, 4, 5, 7, 8 & 9",sprayed,chemical pest control process,3,,600,ml/ha,,,,,,"Sprayed Keystone - Sections 0, 1, 4, 5, 7, 8 & 9"
+Broadbalk,2017,all sections,25/04/2017,,Epic,"sections 0, 1, 4, 5, 7, 8 & 9",sprayed,chemical pest control process,3,,400,ml/ha,,,,,,"Sprayed Epic - Sections 0, 1, 4, 5, 7, 8 & 9"
+Broadbalk,2017,all sections,25/04/2017,,Balear 720,"sections 0, 1, 4, 5, 7, 8 & 9",sprayed,chemical pest control process,3,,700,ml/ha,,,,,,"Sprayed Balear 720 - Sections 0, 1, 4, 5, 7, 8 & 9"
+Broadbalk,2017,all sections,25/05/2017,,Cortez,"sections, 0, 1, 4, 5, 7, 8 & 9",sprayed,chemical pest control process,3,,350,ml/ha,,,,,,"Sprayed, Cortez - sections, 0, 1, 4, 5, 7, 8 & 9"
+Broadbalk,2017,all sections,25/05/2017,,Vortex,"sections, 0, 1, 4, 5, 7, 8 & 9",sprayed,chemical pest control process,3,,1,l/ha,,,,,,"Sprayed, Vortex - sections, 0, 1, 4, 5, 7, 8 & 9"
+Broadbalk,2017,forage maize,12/06/2017,,Samson Extra,3,sprayed,chemical pest control process,3,,750,ml/ha,,,,,,Sprayed Samson Extra Section 3 only
+Broadbalk,2017,forage maize,12/06/2017,,Callisto,3,sprayed,chemical pest control process,3,,2,l/ha,,,,,,Sprayed Callisto - Section 3 only
+Broadbalk,2017,winter oats,08/11/2016,,Excalibur,,sprayed,chemical pest control process,3,,180,g/ha,,,,,,Sprayed Excalibur - Section 2 only
+Broadbalk,2017,winter oats,08/11/2016,,Hallmark,,sprayed,chemical pest control process,3,,50,ml/ha,,,,,,Sprayed Hallmark - Section 2 only
+Broadbalk,2017,winter oats,10/05/2017,,Cyflamid,,sprayed,chemical pest control process,3,,150,ml/ha,,,,,,Sprayed Cyflamid - Section 2 only
+Broadbalk,2017,winter oats,10/05/2017,,Envoy,,sprayed,chemical pest control process,3,,1,l/ha,,,,,,Sprayed Envoy - Section 2 only
+Broadbalk,2017,winter oats,10/05/2017,,Stabilan,,sprayed,chemical pest control process,3,,2,l/ha,,,,,,Sprayed Stabilan - Section 2 only

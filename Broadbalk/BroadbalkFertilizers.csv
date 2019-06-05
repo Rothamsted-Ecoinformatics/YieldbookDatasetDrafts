@@ -1,0 +1,652 @@
+experiment,year,cropped section,new start date,new end date,operation,sections,method,operation type,flag,intensity,Amount,Units,water,water unit,variety,dressing,machine,orig_operation
+Broadbalk,1933,cropped sections,10/10/1932,11/10/1932,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1933,cropped sections,29/03/1933,30/05/1933,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1933,cropped sections,22/05/1933,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1935,cropped sections,27/03/1935,28/03/1935,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1935,cropped sections,18/10/1934,19/10/1934,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1935,cropped sections,03/05/1935,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1936,cropped sections,07/10/1935,08/10/1935,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1936,cropped sections,28/10/1935,29/10/1935,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1936,cropped sections,06/11/1935,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1936,cropped sections,15/04/1936,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1936,cropped sections,06/05/1936,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1937,cropped sections,23/09/1936,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1937,cropped sections,06/10/1936,07/10/1936,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1937,cropped sections,01/05/1937,02/05/1937,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1937,cropped sections,10/05/1937,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1937,fallow sections,10/05/1937,,Nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Nitrate of soda applied to plot 16
+Broadbalk,1938,cropped sections,22/09/1937,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1938,cropped sections,12/10/1937,14/10/1937,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1938,cropped sections,11/03/1938,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1938,cropped sections,07/04/1938,,manures applied,,,agronomic fertilization process,4,,,,,,,,,manures applied
+Broadbalk,1948,cropped sections,24/09/1947,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1948,cropped sections,13/10/1947,15/10/1947,Artificials applied,,,agronomic fertilization process,4,,,,,,,,,Artificials applied
+Broadbalk,1948,cropped sections,27/04/1948,28/04/1948,N applied,,,agronomic fertilization process,4,,,,,,,,,Nitrogenous fertilisers applied
+Broadbalk,1948,cropped sections,07/05/1948,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1949,cropped sections,11/09/1948,12/09/1948,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1949,cropped sections,11/11/1948,15/11/1948,Artificials applied,,,agronomic fertilization process,4,,,,,,,,,Artificials applied
+Broadbalk,1949,cropped sections,27/04/1949,,N applied,,,agronomic fertilization process,4,,,,,,,,,Nitrogenous fertilisers applied
+Broadbalk,1949,cropped sections,23/05/1949,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1950,cropped sections,05/09/1949,06/09/1949,dung applied,,,agronomic fertilization process,4,,,,,,,,,Dung applied and ploughed in
+Broadbalk,1950,cropped sections,03/11/1949,04/11/1949,Artificials applied,,,agronomic fertilization process,4,,,,,,,,,Artificials applied
+Broadbalk,1950,cropped sections,20/04/1950,,N applied,,,agronomic fertilization process,4,,,,,,,,,Nitrogenous fertilisers applied
+Broadbalk,1950,cropped sections,04/05/1950,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1951,cropped sections,08/09/1950,,dung applied,,,agronomic fertilization process,4,,,,,,,,,Dung applied and ploughed in
+Broadbalk,1951,cropped sections,23/10/1950,,Autumn application of artificials,,,agronomic fertilization process,4,,,,,,,,,Autumn application of artificials
+Broadbalk,1951,cropped sections,11/04/1951,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,Spring application of nitrogenous fertilisers
+Broadbalk,1951,cropped sections,08/05/1951,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1952,cropped sections,07/09/1951,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung applied, ploughed all plots"
+Broadbalk,1952,cropped sections,22/10/1951,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1952,cropped sections,21/04/1952,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1952,cropped sections,13/05/1952,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1953,cropped sections,03/09/1952,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung applied, ploughed all plots"
+Broadbalk,1953,cropped sections,11/11/1952,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1953,cropped sections,25/04/1953,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1953,cropped sections,13/05/1953,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1954,cropped sections,16/09/1953,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung applied, ploughed all plots"
+Broadbalk,1954,cropped sections,21/10/1953,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1954,cropped sections,22/04/1954,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1954,cropped sections,11/05/1954,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1955,cropped sections,21/10/1954,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung applied, ploughed all plots"
+Broadbalk,1955,cropped sections,05/11/1954,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1955,cropped sections,16/05/1955,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1955,cropped sections,01/06/1955,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1956,cropped sections,06/09/1955,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1956,cropped sections,29/09/1955,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1956,cropped sections,02/05/1956,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1956,cropped sections,09/05/1956,10/05/1956,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1957,cropped sections,04/10/1956,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1957,cropped sections,29/10/1956,06/11/1956,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1957,cropped sections,29/04/1957,30/04/1957,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1957,cropped sections,16/05/1957,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1958,cropped sections,04/09/1957,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1958,cropped sections,20/11/1957,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1958,cropped sections,30/04/1958,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1958,cropped sections,15/05/1958,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1959,cropped sections,10/11/1958,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1959,cropped sections,04/12/1958,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1959,cropped sections,27/04/1959,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1959,cropped sections,06/05/1959,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1960,cropped sections,21/09/1959,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1960,cropped sections,07/10/1959,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1960,cropped sections,04/04/1960,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1960,cropped sections,28/04/1960,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1961,cropped sections,10/10/1960,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung applied, ploughed in"
+Broadbalk,1961,cropped sections,17/01/1961,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1961,cropped sections,17/04/1961,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1961,cropped sections,03/05/1961,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1962,cropped sections,07/09/1961,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung, ground chalk applied, all plots ploughed"
+Broadbalk,1962,cropped sections,29/09/1961,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1962,cropped sections,17/04/1962,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1962,cropped sections,04/05/1962,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1963,cropped sections,04/10/1962,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1963,cropped sections,23/10/1962,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1963,cropped sections,24/04/1963,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1963,cropped sections,06/05/1963,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1964,cropped sections,24/09/1963,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1964,cropped sections,15/10/1963,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1964,cropped sections,13/04/1964,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1964,cropped sections,17/04/1964,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1965,cropped sections,13/10/1964,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1965,cropped sections,19/10/1964,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1965,cropped sections,26/04/1965,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1965,cropped sections,10/05/1965,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1966,cropped sections,28/10/1965,,dung applied,,,agronomic fertilization process,4,,,,,,,,,dung applied
+Broadbalk,1966,cropped sections,15/11/1965,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1966,cropped sections,02/05/1966,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1966,cropped sections,16/05/1966,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1967,cropped sections,14/10/1966,,dung applied,,,agronomic fertilization process,4,,,,,,,,,"Dung applied, ploughed in"
+Broadbalk,1967,cropped sections,02/11/1966,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1967,cropped sections,19/04/1967,,spring fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,spring fertilizers applied
+Broadbalk,1967,cropped sections,27/04/1967,,Second dressing of nitrate of soda, plot 16,,agronomic fertilization process,4,,,,,,,,,Second dressing of nitrate of soda applied to plot 16
+Broadbalk,1968,all sections,18/09/1967,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1968,all sections,19/09/1967,,autumn fertilizers applied,"Plots 1, 3",,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1968,spring beans,26/03/1968,,Nitro-chalk applied,,,agronomic fertilization process,4,,,,,,,,,Nitro-chalk applied
+Broadbalk,1968,winter wheat,10/04/1968,,nitro-chalk applied (plot 20 omitted in error),,,agronomic fertilization process,4,,,,,,,,,'Nitrochalk' applied (plot 20 omitted in error)
+Broadbalk,1968,winter wheat,17/06/1968,,Nitro-chalk applied, plot 20,sprayed,agronomic fertilization process,4,,,,,,,,,"The second sprayed was applied because of rain during spring on 4th May, Nitro-chalk' applied to plot 20"
+Broadbalk,1969,potatoes,09/04/1969,,Nitro-chalk applied,,,agronomic fertilization process,4,,,,,,,,,Nitro-chalk applied
+Broadbalk,1969,spring beans,09/04/1969,,Nitro-chalk applied,,,agronomic fertilization process,4,,,,,,,,,Nitro-chalk applied
+Broadbalk,1969,all sections,25/09/1968,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1969,all sections,04/10/1968,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1969,all sections,04/10/1968,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1969,winter wheat,17/04/1969,,Nitro-chalk applied,,,agronomic fertilization process,4,,,,,,,,,Nitro-chalk applied
+Broadbalk,1970,all sections,29/09/1969,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1970,all sections,01/10/1969,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1970,potatoes,17/04/1970,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1970,spring beans,17/04/1970,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1970,winter wheat,30/04/1970,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1971,all plots,18/09/1970,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1971,all plots,22/09/1970,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1971,potatoes,02/04/1971,,N applied,,,agronomic fertilization process,4,,,,,,,,,"WN applied, plots rotary cultivated"
+Broadbalk,1971,spring beans,24/02/1971,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1971,winter wheat,08/04/1971,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1972,all plots,21/09/1971,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1972,all plots,29/09/1971,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1972,potatoes,18/04/1972,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1972,spring beans,16/03/1972,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1972,winter wheat,18/04/1972,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1973,all sections,03/10/1972,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1973,all sections,11/10/1972,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1973,potatoes,06/04/1973,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1973,spring beans,21/03/1973,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1973,winter wheat,13/04/1973,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1974,all sections,04/10/1973,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,autumn fertilizers applied
+Broadbalk,1974,all sections,05/10/1973,,castor meal,,,agronomic fertilization process,4,,,,,,,,,Castor meal applied
+Broadbalk,1974,all sections,09/10/1973,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1974,potatoes,16/04/1974,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1974,spring beans,08/03/1974,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1974,winter wheat,11/04/1974,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1975,all sections,21/10/1974,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,Superphosphate applied
+Broadbalk,1975,all sections,24/10/1974,,Other autumn fertilisers,,,agronomic fertilization process,4,,,,,,,,,Other autumn fertilisers and castor meal applied
+Broadbalk,1975,all sections,24/10/1974,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1975,all sections,04/11/1974,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1975,potatoes,05/05/1975,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1975,spring beans,04/03/1975,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1975,winter wheat,22/04/1975,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1976,all sections,30/09/1975,,autumn fertilizers applied,,,agronomic fertilization process,4,,,,,,,,,"autumn fertilizers, castor meal applied"
+Broadbalk,1976,all sections,30/09/1975,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1976,all sections,09/10/1975,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1976,potatoes,25/03/1976,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1976,spring beans,27/02/1976,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1976,winter wheat,31/03/1976,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1977,all sections,05/10/1976,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"Sulphate of potash, superphosphate applied"
+Broadbalk,1977,all sections,05/10/1976,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1977,all sections,08/10/1976,,kieserite,,,agronomic fertilization process,4,,,,,,,,,"Kieserite, sulphate of soda, castor meal applied"
+Broadbalk,1977,all sections,08/10/1976,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1977,all sections,08/10/1976,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1977,all sections,11/10/1976,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1977,all sections,08/10/1976,,Sulphate of soda applied,,,agronomic fertilization process,4,,,,,,,,,Sulphate of soda applied
+Broadbalk,1977,all sections,08/10/1976,,kieserite,,,agronomic fertilization process,4,,,,,,,,,Kieserite applied
+Broadbalk,1977,all sections,08/10/1976,,castor meal,,,agronomic fertilization process,4,,,,,,,,,Castor meal applied
+Broadbalk,1977,potatoes,18/04/1977,,N applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1977,potatoes,22/06/1977,,rotary ridged,FYM plots,,agronomic fertilization process,4,,,,,,,,,FYM plots rotary ridged
+Broadbalk,1977,spring beans,07/03/1977,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1977,winter wheat,18/04/1977,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1978,all sections,22/09/1977,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,"Superphosphate, sulphate of soda, kieserite,, castor meal applied"
+Broadbalk,1978,all sections,22/09/1977,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1978,all sections,22/09/1977,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1978,all sections,22/09/1977,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1978,all sections,23/09/1977,,Applied Sulphate of Potash,,,agronomic fertilization process,4,,,,,,,,,Sulphate of potash applied
+Broadbalk,1978,all sections,04/10/1977,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1978,potatoes,25/04/1978,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1978,spring beans,10/03/1978,,N applied,,,agronomic fertilization process,4,,,,,,,,,"N applied, rotary harrowed, seed sown"
+Broadbalk,1978,winter wheat,08/05/1978,,N applied,,,agronomic fertilization process,4,,,,,,,,,N
+Broadbalk,1979,all sections,02/10/1978,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"Sulphate of potash, sulphate of soda, kieserite, castor meal applied"
+Broadbalk,1979,all sections,02/10/1978,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1979,all sections,02/10/1978,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1979,all sections,02/10/1978,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1979,all sections,03/10/1978,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,Superphosphate applied
+Broadbalk,1979,all sections,04/10/1978,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1979,cropped sections,03/05/1979,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1980,all sections,24/09/1979,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"Sulphate of potash, sulphate of soda,, kieserite applied"
+Broadbalk,1980,all sections,24/09/1979,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1980,all sections,24/09/1979,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1980,all sections,25/09/1979,,castor meal,,,agronomic fertilization process,4,,,,,,,,,Castor meal and superphosphate applied
+Broadbalk,1980,all sections,25/09/1979,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1980,all sections,26/09/1979,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1980,cropped sections,10/04/1980,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1980,potatoes,17/04/1980,,N applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1981,all sections,08/09/1980,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,"Superphosphate, sulphate of potash, sulphate of soda, kieserite, castor meal applied"
+Broadbalk,1981,all sections,08/09/1980,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1981,all sections,08/09/1980,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1981,all sections,08/09/1980,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1981,all sections,08/09/1980,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1981,all sections,10/09/1980,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1981,cropped sections,15/04/1981,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1981,potatoes,17/04/1981,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1982,potatoes,17/04/1982,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1982,winter wheat,15/04/1982,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1983,all sections,16/09/1982,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,"Superphosphate, sulphate of potash, sulphate of soda, kieserite, castor meal applied"
+Broadbalk,1983,all sections,16/09/1982,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1983,all sections,16/09/1982,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1983,all sections,16/09/1982,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1983,all sections,16/09/1982,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1983,all sections,20/09/1982,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,"FYM applied, ploughed"
+Broadbalk,1983,cropped sections,16/09/1982,,autumn N applied, plot 18,,agronomic fertilization process,4,,,,,,,,,autumn N applied to plot 18
+Broadbalk,1983,cropped sections,15/04/1983,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N applied
+Broadbalk,1983,potatoes,05/05/1983,,N applied,,,agronomic fertilization process,4,,,,,,,,,"N applied, heavy spring-tine cultivated"
+Broadbalk,1984,all sections,06/09/1983,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"Sulphate of potash, sulphate of soda, kieserite, castor meal applied"
+Broadbalk,1984,all sections,06/09/1983,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1984,all sections,06/09/1983,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1984,all sections,06/09/1983,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1984,all sections,07/09/1983,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,Superphosphate applied
+Broadbalk,1984,all sections,08/09/1983,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1984,cropped sections,07/09/1983,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N applied
+Broadbalk,1984,cropped sections,13/04/1984,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N applied
+Broadbalk,1984,potatoes,03/04/1984,,N applied,,,agronomic fertilization process,4,,,,,,,,,N applied
+Broadbalk,1985,all sections,18/09/1984,,kieserite,,,agronomic fertilization process,4,,,,,,,,,"Kieserite, sulphate of soda, castor meal applied"
+Broadbalk,1985,all sections,18/09/1984,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1985,all sections,18/09/1984,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1985,all sections,28/09/1984,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"Sulphate of potash, superphosphate applied"
+Broadbalk,1985,all sections,28/09/1984,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1985,all sections,01/10/1984,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,"FYM applied, ploughed"
+Broadbalk,1985,winter wheat,28/09/1984,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1985,winter wheat,18/04/1985,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1986,all sections,23/09/1985,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,"Superphosphate, sulphate of potash, sulphate of soda, castor meal applied"
+Broadbalk,1986,all sections,23/09/1985,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1986,all sections,23/09/1985,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1986,all sections,23/09/1985,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1986,all sections,24/09/1985,,kieserite,,,agronomic fertilization process,4,,,,,,,,,Kieserite applied
+Broadbalk,1986,all sections,25/09/1985,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1986,winter wheat,23/09/1985,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1986,winter wheat,02/05/1986,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1987,all sections,19/09/1986,,kieserite,,,agronomic fertilization process,4,,,,,,,,,"Kieserite, sulphate of soda, castor meal applied"
+Broadbalk,1987,all sections,19/09/1986,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1987,all sections,19/09/1986,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1987,all sections,22/09/1986,,Applied Sulphate of Potash,,,agronomic fertilization process,4,,,,,,,,,Sulphate of potash applied
+Broadbalk,1987,all sections,06/10/1986,,superphosphate,,,agronomic fertilization process,4,,,,,,,,,Superphosphate applied
+Broadbalk,1987,all sections,08/10/1986,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1987,potatoes,14/04/1987,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1987,winter wheat,14/04/1987,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1988,all sections,28/09/1987,,triple superphosphate,,,agronomic fertilization process,4,,,,,,,,,"Triple superphosphate, sulphate of potash, sulphate of soda, kieserite, castor meal, FYM applied"
+Broadbalk,1988,all sections,28/09/1987,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1988,all sections,28/09/1987,,sulphate of soda,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1988,all sections,28/09/1987,,kieserite,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1988,all sections,28/09/1987,,castor meal,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1988,all sections,28/09/1987,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1988,potatoes,07/04/1988,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1988,winter wheat,28/09/1987,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1988,winter wheat,08/04/1988,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1989,all sections,26/09/1988,,P applied," plots 17, 18",,agronomic fertilization process,4,,,,,,,,,"P applied to plots 17, 18"
+Broadbalk,1989,all sections,05/10/1988,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"K, Na, Mg applied"
+Broadbalk,1989,all sections,05/10/1988,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1989,all sections,05/10/1988,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1989,all sections,07/10/1988,,P applied to remaining plots,,,agronomic fertilization process,4,,,,,,,,,P applied to remaining plots
+Broadbalk,1989,all sections,14/10/1988,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,"FYM applied, ploughed"
+Broadbalk,1989,potatoes,18/04/1989,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1989,winter wheat,07/10/1988,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1989,winter wheat,18/04/1989,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1990,all sections,14/09/1989,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"K, Na, Mg applied"
+Broadbalk,1990,all sections,14/09/1989,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1990,all sections,14/09/1989,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1990,all sections,15/09/1989,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1990,all sections,27/09/1989,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1990,potatoes,05/04/1990,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1990,winter wheat,15/09/1989,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1990,winter wheat,09/04/1990,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1991,all sections,01/10/1990,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"K, Na, Mg applied"
+Broadbalk,1991,all sections,01/10/1990,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1991,all sections,01/10/1990,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1991,all sections,02/10/1990,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1991,all sections,09/10/1990,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,"FYM applied, ploughed, furrow pressed"
+Broadbalk,1991,potatoes,09/04/1991,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1991,winter wheat,02/10/1990,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1991,winter wheat,09/04/1991,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1992,all sections,30/09/1991,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1992,all sections,07/10/1991,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"K, Na and Mg applied"
+Broadbalk,1992,all sections,07/10/1991,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1992,all sections,07/10/1991,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1992,all sections,09/10/1991,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1992,potatoes,10/04/1992,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1992,winter wheat,10/10/1991,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1992,winter wheat,10/04/1992,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1993,all sections,08/10/1992,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1993,all sections,13/10/1992,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"K, Na and Mg applied"
+Broadbalk,1993,all sections,13/10/1992,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1993,all sections,13/10/1992,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1993,all sections,14/10/1992,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1993,potatoes,20/04/1993,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1993,winter wheat,08/10/1992,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1993,winter wheat,20/04/1993,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1994,all sections,21/10/1993,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1994,all sections,25/10/1993,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,"K, Na and Mg applied"
+Broadbalk,1994,all sections,25/10/1993,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1994,all sections,25/10/1993,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1994,all sections,26/10/1993,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,1994,potatoes,18/04/1994,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1994,winter wheat,21/10/1993,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1994,winter wheat,18/04/1994,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1995,all sections,10/10/1994,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,Mg and Na applied
+Broadbalk,1995,all sections,10/10/1994,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1995,all sections,11/10/1994,,P applied,,,agronomic fertilization process,4,,,,,,,,,P and K applied
+Broadbalk,1995,all sections,11/10/1994,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1995,all sections,13/10/1994,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1995,potatoes,11/04/1995,,N applied,,,agronomic fertilization process,4,,,,,,,,,N treatments applied
+Broadbalk,1995,winter wheat,12/10/1994,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1995,winter wheat,11/04/1995,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1996,all sections,18/09/1995,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1996,all sections,21/09/1995,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,Mg and Na applied
+Broadbalk,1996,all sections,21/09/1995,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1996,all sections,22/09/1995,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,K applied
+Broadbalk,1996,potatoes,26/09/1995,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1996,potatoes,17/04/1996,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1996,winter wheat,22/09/1995,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1996,winter wheat,26/09/1995,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1996,winter wheat,17/04/1996,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1997,all sections,25/09/1996,,P applied,,,agronomic fertilization process,4,,,,,,,,,"P, K, Na and Mg applied"
+Broadbalk,1997,all sections,25/09/1996,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1997,all sections,25/09/1996,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1997,all sections,25/09/1996,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1997,winter oats,27/09/1996,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1997,winter wheat,26/09/1996,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N treatments applied
+Broadbalk,1997,winter wheat,27/09/1996,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1997,winter wheat,11/04/1997,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1998,all sections,13/10/1997,,P applied,,,agronomic fertilization process,4,,,,,,,,,"P, K, Na and Mg applied"
+Broadbalk,1998,all sections,13/10/1997,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1998,all sections,13/10/1997,,Na applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1998,all sections,13/10/1997,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1998,forage maize,14/10/1997,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1998,forage maize,07/05/1998,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,"spring N treatments applied, rotary harrowed, Hudson, dressed Mesurol at 11 seeds/m2"
+Broadbalk,1998,winter wheat,14/10/1997,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure and autumn N treatments applied
+Broadbalk,1998,winter wheat,14/10/1997,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1998,winter wheat,24/03/1998,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,1999,all sections,22/09/1998,,P applied,,,agronomic fertilization process,4,,,,,,,,,P applied
+Broadbalk,1999,all sections,23/09/1998,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,K and Mg applied
+Broadbalk,1999,all sections,23/09/1998,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,1999,all sections,24/09/1998,,Na applied,,,agronomic fertilization process,4,,,,,,,,,Na applied
+Broadbalk,1999,forage maize,05/05/1999,,N applied,,,agronomic fertilization process,4,,,,,,,,,"N treatments applied. Flexitined three times, rotary harrowed, Hudson, tr. Mesurol, drilled at 11 seed/m2 with the Nodis Gougis Drill"
+Broadbalk,1999,winter wheat,23/09/1998,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N applied
+Broadbalk,1999,winter wheat,25/09/1998,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,1999,winter wheat,01/04/1999,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,2000,all sections,23/09/1999,,P applied,,,agronomic fertilization process,4,,,,,,,,,PK and Mg applied
+Broadbalk,2000,all sections,23/09/1999,,K sulphate of potash,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,2000,all sections,23/09/1999,,Mg applied,,,agronomic fertilization process,4,,,,,,,,,
+Broadbalk,2000,all sections,24/09/1999,,Na applied,,,agronomic fertilization process,4,,,,,,,,,Na applied
+Broadbalk,2000,forage maize,24/09/1999,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,2000,forage maize,16/05/2000,,N applied,,,agronomic fertilization process,4,,,,,,,,,"N treatments applied. Flexitined twice, rotary harrowed, Hudson, tr. Mesurol, drilled at 10.2 seeds/m2 with the not Gougis drill"
+Broadbalk,2000,winter wheat,23/09/1999,,autumn N applied,,,agronomic fertilization process,4,,,,,,,,,autumn N applied
+Broadbalk,2000,winter wheat,24/09/1999,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,Farmyard manure applied
+Broadbalk,2000,winter wheat,28/04/2000,,spring N applied,,,agronomic fertilization process,4,,,,,,,,,spring N treatments applied
+Broadbalk,2001,all sections,02/10/2000,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"TSP at 171 kg strips 11, 13, 14, 17 & 18"
+Broadbalk,2001,all sections,04/10/2000,,FYM applied,"strips 2.1 & 2.2, not oat sections",,agronomic fertilization process,4,,35.8,tonnes,,,,,,"FYM at 35.8 tonnes strips 2.1 & 2.2, not oat sections"
+Broadbalk,2001,all sections,04/10/2000,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"Muriate of potash at 181 kg, strip 14"
+Broadbalk,2001,all sections,04/10/2000,,K sulphate of potash,strip 12,,agronomic fertilization process,4,,1518,kg/ha,,,,,,Sulphate of Potash at 1518 kg strip 12
+Broadbalk,2001,all sections,04/10/2000,,K sulphate of potash,"strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2001,all sections,04/10/2000,,kieserite,strip 12,,agronomic fertilization process,4,,160,kg/ha,,,,,,"Kieserite at 160 kg, strip 12"
+Broadbalk,2001,all sections,04/10/2000,,kieserite,"strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Kieserite at 80 kg strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2001,forage maize,31/05/2001,,Main N and 1st split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 1st split N applied
+Broadbalk,2001,forage maize,25/06/2001,,Post-emergence N applied,,,agronomic fertilization process,4,,,,,,,,,Post-emergence N applied
+Broadbalk,2001,winter wheat,26/03/2001,,"1st split N applied as Nitram, 34.5% N",,,agronomic fertilization process,4,,,,,,,,,1st split N applied
+Broadbalk,2001,winter wheat,04/05/2001,,Main N and 2nd split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 2nd split N applied
+Broadbalk,2001,winter wheat,31/05/2001,,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,,,,,,,,3rd split N applied
+Broadbalk,2002,all sections,12/09/2001,,FYM applied,"strips 2.1 & 2.2, not oat sections",,agronomic fertilization process,4,,35,tonnes,,,,,,"FYM at 35.0 tonnes, strips 2.1 & 2.2 not oat section"
+Broadbalk,2002,all sections,12/09/2001,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"Muriate of potash at 181 kg, strip 14"
+Broadbalk,2002,all sections,12/09/2001,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"TSP at 171 kg strips 11, 13, 14, 17 & 18"
+Broadbalk,2002,all sections,07/03/2002,,K sulphate of potash,"strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2002,all sections,07/03/2002,,K sulphate of potash,strip 12,,agronomic fertilization process,4,,434,kg/ha,,,,,,"Sulphate of potash at 434 kg, strip 12"
+Broadbalk,2002,all sections,08/03/2002,,kieserite,"strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Kieserite at 80 kg strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, & 20"
+Broadbalk,2002,all sections,08/03/2002,,kieserite,strip 12,,agronomic fertilization process,4,,160,kg/ha,,,,,,"Kieserite at 160 kg, strip 12"
+Broadbalk,2002,forage maize,02/05/2002,,Main N and 1st split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 1st split N applied
+Broadbalk,2002,forage maize,23/05/2002,,2nd split N applied as Nitram 34.5% N,,,agronomic fertilization process,4,,,,,,,,,2nd split N applied
+Broadbalk,2002,winter wheat,26/03/2002,,1st split N applied (33 kg N over in error),,,agronomic fertilization process,4,,,,,,,,,1st split N applied (33 kg N over in error)
+Broadbalk,2002,winter wheat,24/04/2002,,Main N (except plot 2.1) and 2nd split N applied (33 kg N less to split N plots to balance error),,,agronomic fertilization process,4,,,,,,,,,Main N (except plot 2.1) and 2nd split N applied (33 kg N less to split N plots to balance error)
+Broadbalk,2002,winter wheat,25/04/2002,,N applied,strip 2.1,,agronomic fertilization process,4,,,,,,,,,N applied to strip 2.1
+Broadbalk,2002,winter wheat,23/05/2002,,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,,,,,,,,3rd split N applied
+Broadbalk,2003,all sections,01/10/2002,None,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"K* Muriate of potash at 181 kg, strip 14"
+Broadbalk,2003,all sections,01/10/2002,None,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"P TSP at 171 kg, strips 11, 13, 14, 17 & 18"
+Broadbalk,2003,all sections,02/10/2002,None,FYM applied,"strips 2.1 & 2.2 excluding section 0, 7",,agronomic fertilization process,4,,35,tonnes,,,,,,"FYM at 35.0 tonnes, strips 2.1 & 2.2, not to Section 0 or 7. Ploughed 25 cm furrows. Power harrowed"
+Broadbalk,2003,all sections,19/02/2003,None,kieserite,"strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, & 20"
+Broadbalk,2003,all sections,19/02/2003,None,kieserite,strip 12,,agronomic fertilization process,4,,160,kg/ha,,,,,,"Kieserite at 160 kg, strip 12"
+Broadbalk,2003,all sections,20/02/2003,None,K sulphate of potash,"strips 5, 6, 7, 8, 9, 11, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 11, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2003,all sections,20/02/2003,None,K2 Sulphate of potash,strip 12,,agronomic fertilization process,4,,434,kg/ha,,,,,,"K2 Sulphate of potash at 434 kg, strip 12"
+Broadbalk,2003,forage maize,07/05/2003,None,Main N and 1st split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 1st split N applied
+Broadbalk,2003,forage maize,12/06/2003,None,2nd split N applied as Nitram 34.5% N,,,agronomic fertilization process,4,,,,,,,,,2nd split N applied
+Broadbalk,2003,winter wheat,12/03/2003,None,"1st split N applied as Nitram, 34.5% N",,,agronomic fertilization process,4,,,,,,,,,1st split N applied
+Broadbalk,2003,winter wheat,15/04/2003,None,Main N and 2nd split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 2nd split N applied
+Broadbalk,2003,winter wheat,07/05/2003,None,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,,,,,,,,3rd split N applied
+Broadbalk,2004,all sections,23/09/2003,None,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"K* Muriate of potash at 181 kg, strip 14"
+Broadbalk,2004,all sections,23/09/2003,None,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,170,kg/ha,,,,,,"TSP at 170 kg, strips 11, 13, 14, 17 & 18"
+Broadbalk,2004,all sections,25/09/2003,None,FYM applied,"strips. 2.1 & 2.2 excluding section 0, 8",,agronomic fertilization process,4,,35,tonnes,,,,,,FYM at 35.0 tonnes; strips. 2.1 & 2.2 not to section 0 or 8
+Broadbalk,2004,all sections,23/02/2004,None,MG Kieserite,"strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, & 20"
+Broadbalk,2004,all sections,23/02/2004,None,MG2 Kieserite,strip 12,,agronomic fertilization process,4,,160,kg/ha,,,,,,"MG2 Kieserite at 160 kg, strip 12"
+Broadbalk,2004,all sections,23/02/2004,None,K sulphate of potash,"strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2004,all sections,23/02/2004,None,K sulphate of potash,strip 12,,agronomic fertilization process,4,,434,kg/ha,,,,,,"Sulphate of potash at 434 kg, strip 12"
+Broadbalk,2004,forage maize,13/05/2003,None,Main N and 1st split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 1st split N applied
+Broadbalk,2004,forage maize,17/06/2004,None,2nd split N applied as Nitram 34.5% N,,,agronomic fertilization process,4,,,,,,,,,2nd split N applied
+Broadbalk,2004,winter wheat,17/03/2004,None,"1st split N applied as Nitram, 34.5% N",,,agronomic fertilization process,4,,,,,,,,,1st split N applied
+Broadbalk,2004,winter wheat,07/05/2004,None,Main N and 2nd split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 2nd split N applied
+Broadbalk,2004,winter wheat,25/05/2004,None,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,,,,,,,,3rd split N applied
+Broadbalk,2005,all sections,13/10/2004,None,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"K* Muriate of potash at 181 kg, strip 14"
+Broadbalk,2005,all sections,13/10/2004,None,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,170,kg/ha,,,,,,"TSP at 170 kg, strips 11, 13, 14, 17 & 18"
+Broadbalk,2005,all sections,18/10/2004,None,FYM applied,strips 2.1 & 2.2 not to section 5,,agronomic fertilization process,4,,35,tonnes,,,,,,"FYM at 35.0 tonnes, strips 2.1 & 2.2 not to section 5"
+Broadbalk,2005,all sections,15/03/2005,None,MG Kieserite,"strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2005,all sections,15/03/2005,None,MG2 Kieserite,strip 12,,agronomic fertilization process,4,,160,kg/ha,,,,,,"MG2 Kieserite at 160 kg, strip 12"
+Broadbalk,2005,all sections,15/03/2005,None,K sulphate of potash,"strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2005,all sections,15/03/2005,None,K2 Sulphate of potash,strip 12,,agronomic fertilization process,4,,434,kg/ha,,,,,,"K2 Sulphate of potash at 434 kg, strip 12"
+Broadbalk,2005,forage maize,29/04/2005,None,Main N and 1st split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 1st split N applied
+Broadbalk,2005,forage maize,10/05/2005,None,2nd split N applied as Nitram 34.5% N,,,agronomic fertilization process,4,,,,,,,,,2nd split N applied
+Broadbalk,2005,winter wheat,07/03/2005,None,"1st split N applied as Nitram, 34.5% N",,,agronomic fertilization process,4,,,,,,,,,1st split N applied
+Broadbalk,2005,winter wheat,14/04/2005,None,Main N and 2nd split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 2nd split N applied
+Broadbalk,2005,winter wheat,10/05/2005,None,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,,,,,,,,3rd split N applied
+Broadbalk,2006,all sections,27/09/2005,None,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"P TSP at 171 kg, strips 11, 13, 14, 17 & 18"
+Broadbalk,2006,all sections,28/09/2005,None,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"K* Muriate of potash at 181 kg, strip 14"
+Broadbalk,2006,all sections,28/09/2005,None,FYM applied,"strips 2.1 & 2.2, not to Section 3",,agronomic fertilization process,4,,35,tonnes,,,,,,"FYM at 35.0 tonnes, strips 2.1 & 2.2, not to Section 3"
+Broadbalk,2006,all sections,13/03/2006,None,MG Kieserite,"strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2006,all sections,13/03/2006,None,K sulphate of potash,"strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 & 20"
+Broadbalk,2006,forage maize,10/05/2006,None,Main N and 1st split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 1st split N applied
+Broadbalk,2006,forage maize,05/06/2006,None,2nd split N applied as Nitram 34.5% N,,,agronomic fertilization process,4,,,,,,,,,2nd split N applied
+Broadbalk,2006,winter wheat,13/03/2006,None,"1st split N applied as Nitram, 34.5% N",,,agronomic fertilization process,4,,,,,,,,,1st split N applied
+Broadbalk,2006,winter wheat,20/04/2006,None,Main N and 2nd split N applied,,,agronomic fertilization process,4,,,,,,,,,Main N and 2nd split N applied
+Broadbalk,2006,winter wheat,17/05/2006,None,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,,,,,,,,3rd split N applied
+Broadbalk,2007,all sections,04/10/2006,,FYM applied,"Strips 21, 22, excluding section 2",,agronomic fertilization process,4,,35,t/ha,,,,,,"Farm Yard Manure Strips 21, 22, excluding section 2"
+Broadbalk,2007,all sections,09/10/2006,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Triple Superphosphate, strips 11, 13, 14, 17 & 18"
+Broadbalk,2007,all sections,09/10/2006,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,Muriate of Potash - strip 14
+Broadbalk,2007,all sections,12/03/2007,,K sulphate of potash,"strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Sulphate of Potash - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20"
+Broadbalk,2007,all sections,14/03/2007,,kieserite,"Strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, 20,  section 9 in error",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Kieserite Strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, 20, strip 10 section 9 in error"
+Broadbalk,2007,forage maize,02/05/2007,,Main N and 1st split N as Nitraprill,plot 063,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Maize N and 1st N Nitraprill plot 063, maize"
+Broadbalk,2007,forage maize,02/05/2007,,Main N and 1st split N as Nitraprill,"plots 073, 123, 173, 183, 193",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Maize N and 1st N Nitraprill Plots 073, 123, 173, 183, 193, maize"
+Broadbalk,2007,forage maize,02/05/2007,,Main N and 1st split N as Nitraprill,"plots 213, 083",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Maize N and 1st N Nitraprill Plots 213, 083,"
+Broadbalk,2007,forage maize,02/05/2007,,Main N and 1st split N as Nitraprill,"plots 013, 093, 103, 113, 133, 143",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Maize N and 1st N Nitraprill Plots 013, 093, 103, 113, 133, 143, maize"
+Broadbalk,2007,forage maize,02/05/2007,,Main N and 1st split N as Nitraprill,plot 153,,agronomic fertilization process,4,,696,kg/ha,,,,,,Maize N and 1st N Nitraprill Plot 153
+Broadbalk,2007,forage maize,02/05/2007,,Main N and 1st split N as Nitraprill,plot 163,,agronomic fertilization process,4,,835,kg/ha,,,,,,"Maize N and 1st N Nitraprill Plot 163, maize"
+Broadbalk,2007,forage maize,06/06/2007,,2nd split N Nitraprill,"plot 193, maize",,agronomic fertilization process,4,,139,kg/ha,,,,,,"2nd split N Nitraprill Plot 193, maize"
+Broadbalk,2007,forage maize,06/06/2007,,2nd split N Nitraprill,"plot 183, maize",,agronomic fertilization process,4,,278,kg/ha,,,,,,"2nd split N Nitraprill Plot 183, maize"
+Broadbalk,2007,forage maize,06/06/2007,,2nd split N Nitraprill,"plot 123, maize",,agronomic fertilization process,4,,417,kg/ha,,,,,,"2nd split N Nitraprill Plot 123, maize"
+Broadbalk,2007,forage maize,06/06/2007,,2nd split N Nitraprill,"plot 173, maize",,agronomic fertilization process,4,,556,kg/ha,,,,,,"2nd split N Nitraprill Plot 173, maize"
+Broadbalk,2007,winter wheat,14/03/2007,,Nitraprill applied,"strips 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill Wheat strips 12, 17, 18, 19"
+Broadbalk,2007,winter wheat,24/04/2007,,Nitraprill applied,"strips 6, 19,",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill strips 6, 19, wheat"
+Broadbalk,2007,winter wheat,24/04/2007,,Nitraprill applied,"strips 21, 8, 12,",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Nitraprill strips 21, 8, 12, wheat"
+Broadbalk,2007,winter wheat,24/04/2007,,Nitraprill applied,"strips 1, 9, 10, 11, 13, 14, 17, 20,",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Nitraprill strips 1, 9, 10, 11, 13, 14, 17, 20, wheat"
+Broadbalk,2007,winter wheat,24/04/2007,,Nitraprill applied,"strips 7, 18,",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Nitraprill strips 7, 18, wheat"
+Broadbalk,2007,winter wheat,22/05/2007,,Nitraprill applied,"strips 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill Wheat strips 12, 17, 18, 19"
+Broadbalk,2008,all sections,01/10/2007,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,Muriate of Potash - strip 14
+Broadbalk,2008,all sections,01/10/2007,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Triple Superphosphate, strips 11, 13, 14, 17 & 18"
+Broadbalk,2008,all sections,10/10/2007,,FYM applied,"Strips 21 & 22, excluding section 7",,agronomic fertilization process,4,,35,l/ha,,,,,,"Farmyard manure, Strips 21 & 22, excluding section 7"
+Broadbalk,2008,all sections,04/04/2008,,K sulphate of potash,"strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Sulphate of Potash - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20"
+Broadbalk,2008,all sections,04/04/2008,,kieserite,"strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Kieserite - strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, 20"
+Broadbalk,2008,forage maize,08/05/2008,,Nitraprill applied,strip 6,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill maize, strip 6"
+Broadbalk,2008,forage maize,08/05/2008,,Nitraprill applied,"strips 21, 8",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Nitraprill maize. strips 21, 8"
+Broadbalk,2008,forage maize,08/05/2008,,Nitraprill applied,strip 15,,agronomic fertilization process,4,,696,kg/ha,,,,,,"Nitraprill maize, strip 15"
+Broadbalk,2008,forage maize,08/05/2008,,Nitraprill applied,"strips 7, 12, 17, 18, 19",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Nitraprill maize, strips 7, 12, 17, 18, 19"
+Broadbalk,2008,forage maize,08/05/2008,,Nitraprill applied,"strips 1, 9, 10, 11, 13, 14",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Nitraprill maize, strips 1, 9, 10, 11, 13, 14"
+Broadbalk,2008,forage maize,08/05/2008,,Nitraprill applied,strip 16,,agronomic fertilization process,4,,835,kg/ha,,,,,,"Nitraprill maize, strip 16"
+Broadbalk,2008,forage maize,06/06/2008,,Nitraprill applied,plot 192,,agronomic fertilization process,4,,139,kg/ha,,,,,,Nitraprill Maize plot 192
+Broadbalk,2008,forage maize,06/06/2008,,Nitraprill applied,plot 182,,agronomic fertilization process,4,,278,kg/ha,,,,,,Nitraprill Maize plot 182
+Broadbalk,2008,forage maize,06/06/2008,,Nitraprill applied,plot 172,,agronomic fertilization process,4,,556,kg/ha,,,,,,Nitraprill Maize plot 172
+Broadbalk,2008,forage maize,06/06/2008,,Nitraprill applied,plot 122,,agronomic fertilization process,4,,417,kg/ha,,,,,,Nitraprill Maize plot 122
+Broadbalk,2008,winter wheat,18/03/2008,,Nitraprill applied,"strips 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill Wheat strips 12, 17, 18, 19"
+Broadbalk,2008,winter wheat,17/04/2008,,Nitraprill applied,strip 16,,agronomic fertilization process,4,,835,kg/ha,,,,,,"Nitraprill - Wheat, strip 16"
+Broadbalk,2008,winter wheat,15/05/2008,,Nitraprill applied,"strips 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill Wheat strips 12, 17, 18, 19"
+Broadbalk,2009,all sections,29/09/2008,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,170,kg/ha,,,,,,"Triple Superphosphate, strips 11, 13, 14, 17 & 18"
+Broadbalk,2009,all sections,30/09/2008,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,Muriate of Potash - strip 14
+Broadbalk,2009,all sections,02/10/2008,,FYM applied,strips 21 and 22 excluding section 4,,agronomic fertilization process,4,,35,t/ha,,,,,,Farm Yard Manure - strips 21 and 22 excluding section 4
+Broadbalk,2009,all sections,24/03/2009,,K sulphate of potash,"strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Sulphate of Potash - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20"
+Broadbalk,2009,all sections,25/03/2009,,kieserite,"strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, and 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Kieserite - strips 5, 6, 7, 8,9, 11, 12, 15, 16, 17, 18, 19, and 20"
+Broadbalk,2009,forage maize,13/05/2009,,Nitram applied,maize. strip 6,,agronomic fertilization process,4,,139,kg/ha,,,,,,Nitram - maize. strip 6
+Broadbalk,2009,forage maize,13/05/2009,,"Nitram applied. Note, plot 197 had 556 kg/ha. i.e. 278 kg/ha over and plot 187 had 417 kg/ha i.e 139 kg/ha over","strips 7, 12, 17, 18, 19",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Nitram - maize strips 7, 12, 17, 18 and 19. Note, plot 197 had 556 kg/ha. i.e. 278 kg/ha over and plot 187 had 417 kg/ha i.e 139 kg/ha over"
+Broadbalk,2009,forage maize,13/05/2009,,Nitram applied,"maize, strips 2.1 and 8",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Nitram - maize, strips 2.1 and 8"
+Broadbalk,2009,forage maize,13/05/2009,,Nitram applied,"maize, strips 1, 9, 10, 11, 13 and 14",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Nitram - maize, strips 1, 9, 10, 11, 13 and 14"
+Broadbalk,2009,forage maize,13/05/2009,,Nitram applied,"maize, strip 16",,agronomic fertilization process,4,,835,kg/ha,,,,,,"Nitram - maize, strip 16"
+Broadbalk,2009,forage maize,13/05/2009,,Nitram applied,"maize, strip 15",,agronomic fertilization process,4,,696,kg/ha,,,,,,"Nitram - maize, strip 15 696.00 kg/ha"
+Broadbalk,2009,forage maize,25/06/2009,,"Nitram. Maize, Plot 187 received 139 kg/ha extra on 13/05/2009 so a reduced amount was applied to this plot to ensure correct amount applied overall. Plot 197 having already received more than the total required did not receive any further N",,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitram - maize, Plot 187 received 139 kg/ha extra on 13/05/2009 so a reduced amount was applied to this plot to ensure correct amount applied overall. Plot 197 having already received more than the total required did not receive any further N"
+Broadbalk,2009,forage maize,13/05/2010,,Nitram applied,Strip 18 except plot 187,,agronomic fertilization process,4,,278,kg/ha,,,,,,Nitram - Strip 18 except plot 187
+Broadbalk,2009,forage maize,13/05/2010,,Nitram applied,Strip 12,,agronomic fertilization process,4,,41700,kg/ha,,,,,,Nitram - Strip 12
+Broadbalk,2009,forage maize,13/05/2010,,Nitram applied,strip 17,,agronomic fertilization process,4,,556,kg/ha,,,,,,Nitram- Strip 17
+Broadbalk,2009,winter wheat,09/03/2009,,Nitraprill applied,"strips 12, 17, 18 and 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitraprill - wheat, strips 12, 17, 18 and 19"
+Broadbalk,2009,winter wheat,21/04/2009,,Nitram applied,"wheat, strips 19 and 6",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitram - wheat, strips 19 and 6"
+Broadbalk,2009,winter wheat,21/04/2009,,Nitram applied,"wheat, strips 1, 9, 10, 11, 13, 14, 17 and. 20",,agronomic fertilization process,4,,696,kg/ha,,,,,,"Nitram - wheat, strips 1, 9, 10, 11, 13, 14, 17 and. 20"
+Broadbalk,2009,winter wheat,21/04/2009,,Nitram applied,"wheat, strips 15",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Nitram - wheat, strips 15"
+Broadbalk,2009,winter wheat,21/04/2009,,Nitram applied,"wheat, strip 16",,agronomic fertilization process,4,,835,kg/ha,,,,,,"Nitram - wheat, strip 16"
+Broadbalk,2009,winter wheat,13/05/2009,,Nitram applied,"wheat, strips 12, 17, 18 and 19",,agronomic fertilization process,4,,0.75,kg/ha,,,,,,"Nitram - wheat, strips 12, 17, 18 and 19"
+Broadbalk,2009,winter wheat,21/04/2010,,Nitram applied,"wheat, strips 7 and 18",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Nitram - wheat, strips 7 and 18"
+Broadbalk,2010,winter wheat,19/03/2010,,Nitram applied,"strips 12, 17, 18 & 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitram - strips 12, 17, 18 & 19"
+Broadbalk,2010,winter wheat,20/04/2010,,Nitram applied,"strips 1, 2.1 and 16",,agronomic fertilization process,4,,,,,,,,,"Nitram - strips 1, 2.1 and 16-20"
+Broadbalk,2010,winter wheat,17/05/2010,,Nitram applied,"Strip 12, 17, 18, 19 WW only",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitram - Strip 12, 17, 18, 19 WW only"
+Broadbalk,2010,all sections,14/09/2009,,triple superphosphate,"plots 110-119, 130-149, 170-180",,agronomic fertilization process,4,,171,kg/ha,,,,,,"TSP - Plots 110-119, 130-149, 170-180"
+Broadbalk,2010,all sections,14/09/2009,,Spread fertiliser,,,agronomic fertilization process,4,,,,,,,,,Spread fertiliser
+Broadbalk,2010,all sections,14/09/2009,,triple superphosphate,plots 140-149,,agronomic fertilization process,4,,181,kg/ha,,,,,,TSP - Plots 140-149
+Broadbalk,2010,all sections,17/09/2009,,FYM applied,,,agronomic fertilization process,4,,,,,,,,,FYM applied
+Broadbalk,2010,all sections,17/09/2009,,FYM applied,Plots 2.10-2.20 (not oats in section 5 plots 2.15 and 2.25),,agronomic fertilization process,4,,35,l/ha,,,,,,FYM - Plots 2.10-2.20 (not oats in section 5 plots 2.15 and 2.25)
+Broadbalk,2010,all sections,06/04/2010,,Potassium Sulphate applied,"strip 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20, all sections",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Potassium Sulphate - strip 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20 on all sections"
+Broadbalk,2010,forage maize,27/04/2010,,Nitram applied,"strips 12, 17, 18 & 19",,agronomic fertilization process,4,,,,,,,,,"Nitram - strips 12, 17, 18 & 19"
+Broadbalk,2010,forage maize,07/06/2010,,Nitram applied,plot 194,,agronomic fertilization process,4,,139,kg/ha,,,,,,Nitram - plot 194
+Broadbalk,2010,forage maize,07/06/2010,,Nitram applied,plot 184,,agronomic fertilization process,4,,278,kg/ha,,,,,,Nitram - plot 184
+Broadbalk,2010,forage maize,07/06/2010,,Nitram applied,plot 124,,agronomic fertilization process,4,,417,kg/ha,,,,,,Nitram - plot 124
+Broadbalk,2010,forage maize,07/06/2010,,Nitram applied,plot 174,,agronomic fertilization process,4,,556,kg/ha,,,,,,Nitram - plot 174
+Broadbalk,2011,all sections,07/10/2010,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Triple Superphosphate, strips 11, 13, 14, 17 & 18"
+Broadbalk,2011,all sections,07/10/2010,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,"Muriate of Potash, On strip 14"
+Broadbalk,2011,all sections,08/10/2010,,FYM applied,Strips 2.2 and 2.1 excluding section 3 (W. oats),,agronomic fertilization process,4,,35,t/ha,,,,,,"Applied FYM, All sections apart from section 3 (W. oats) of Strips 2.2 and 2.1"
+Broadbalk,2011,all sections,05/04/2011,,"Applied Sulphate of Potash, and 20 (treatment)","strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Applied Sulphate of Potash, strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20 (treatment)"
+Broadbalk,2011,all sections,06/04/2011,,kieserite,"strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Applied Kieserite, strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20 only (treatment)"
+Broadbalk,2011,forage maize,03/05/2011,,Nitram applied,plot 065 only,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram, Plot 065 only"
+Broadbalk,2011,forage maize,03/05/2011,,Nitram applied,"plots 075, 125, 175, 185 and 195",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram, Plots 075, 125, 175, 185 and 195"
+Broadbalk,2011,forage maize,03/05/2011,,Nitram applied,plots 2.15 and 085,,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram, Plots 2.15 and 085"
+Broadbalk,2011,forage maize,03/05/2011,,Nitram applied,"plots 015, 095, 105, 115, 135 and 145",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram, Plots 015, 095, 105, 115, 135 and 145"
+Broadbalk,2011,forage maize,03/05/2011,,Nitram applied,plot 155,,agronomic fertilization process,4,,696,kg/ha,,,,,,"Applied Nitram, Plot 155"
+Broadbalk,2011,forage maize,03/05/2011,,Nitram applied,plot 165,,agronomic fertilization process,4,,835,kg/ha,,,,,,"Applied Nitram, Plot 165"
+Broadbalk,2011,forage maize,12/05/2011,,Nitram applied,"Sections 12, 17, 18 and 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram, Sections 12, 17, 18 and 19"
+Broadbalk,2011,forage maize,28/06/2011,,Nitram applied,plot 195,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram, Plot 195"
+Broadbalk,2011,forage maize,28/06/2011,,Nitram applied,plot 185,,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram, Plot 185"
+Broadbalk,2011,forage maize,28/06/2011,,Nitram applied,plot 125,,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram, Plot 125"
+Broadbalk,2011,forage maize,28/06/2011,,Nitram applied,plot 175,,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram, Plot 175"
+Broadbalk,2011,winter wheat,15/03/2011,,Applied Nitram Fertliser - 48 kg/ha N,"strips 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram Fertliser - 48 kg/ha N. Applied to strips 12, 17, 18, 19"
+Broadbalk,2011,winter wheat,13/04/2011,,Nitram applied,wheat only. Strips 6 and 18,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram - wheat only. Strips 6 and 18
+Broadbalk,2011,winter wheat,13/04/2011,,Nitram applied,Wheat only. Strips 7 and 19,,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram - Wheat only. Strips 7 and 19
+Broadbalk,2011,winter wheat,13/04/2011,,Nitram applied,Wheat only. Strips 8 and 12; N3 to strip 2.1,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram - Wheat only. Strips 8 and 12; N3 to strip 2.1
+Broadbalk,2011,winter wheat,13/04/2011,,Nitram applied,"Wheat only. Strips 9, 10, 11, 13, 14, 17 and 20; N4 to Strip 1",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram - Wheat only. Strips 9, 10, 11, 13, 14, 17 and 20; N4 to Strip 1"
+Broadbalk,2011,winter wheat,13/04/2011,,Nitram applied,Wheat only. Strip 15,,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram - Wheat only. Strip 15
+Broadbalk,2011,winter wheat,13/04/2011,,Nitram applied,Wheat only. Strip 16,,agronomic fertilization process,4,,835,kg/ha,,,,,,Applied Nitram - Wheat only. Strip 16
+Broadbalk,2011,winter wheat,12/05/2011,,Nitram applied,"Sections 12, 17, 18 and 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram, Sections 12, 17, 18 and 19"
+Broadbalk,2012,all sections,27/09/2011,,K* muriate of potash,plots 140-149,,agronomic fertilization process,4,,181,kg/ha,,,,,,Applied Muriate of Potash Plots 140-149
+Broadbalk,2012,all sections,27/09/2011,,triple superphosphate,plots 170-189 & 130-149 & 110-119,,agronomic fertilization process,4,,171,kg/ha,,,,,,Applied Triple Super Phosphate - plots 170-189 & 130-149 & 110-119
+Broadbalk,2012,all sections,28/09/2011,,FYM applied,strip 2.1 & 2.2 (not section 2 oats),,agronomic fertilization process,4,,35,t/ha,,,,,,Applied FYM - to strip 2.1 & 2.2 (not section 2 oats)
+Broadbalk,2012,all sections,28/09/2012,,triple superphosphate,sections spread on to: 110 - 119 130 - 139 140 - 149 170 - 179 180 - 189,,agronomic fertilization process,4,,171,kg/ha,,,,,,Spread Fert TSP as on sheet - sections spread on to: 110 - 119 130 - 139 140 - 149 170 - 179 180 - 189
+Broadbalk,2012,all sections,03/10/2012,,FYM applied,Strip 2.1 and 2.2 but not section 7,,agronomic fertilization process,4,,,,,,,,,"Applied FYM to Strip 2.1 and 2.2 but not section 7, as per plan"
+Broadbalk,2012,forage maize,14/06/2012,,"Nitram applied, by hand",193,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Nitram Applied by hand; plots 193, 183, 193 @ 139 kg/ha 173 and 123 183 @ 287 173 @ 278 123 @ 417"
+Broadbalk,2012,forage maize,14/06/2012,,"Nitram applied, by hand",183,,agronomic fertilization process,4,,287,kg/ha,,,,,,
+Broadbalk,2012,forage maize,14/06/2012,,"Nitram applied, by hand",173,,agronomic fertilization process,4,,278,kg/ha,,,,,,
+Broadbalk,2012,forage maize,14/06/2012,,"Nitram applied, by hand",123,,agronomic fertilization process,4,,417,kg/ha,,,,,,
+Broadbalk,2012,winter wheat,15/03/2012,,Nitram applied,"plots 12, 17, 18 and 19. wheat only",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram on plots 12, 17, 18 and 19. wheat only"
+Broadbalk,2012,winter wheat,02/04/2012,,kieserite,"plots:- 5, 6, 7, 8, 9, 11, 12, 15, 116, 17, 18, 19 and 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Applied Kieserite on plots:- 5, 6, 7, 8, 9, 11, 12, 15, 116, 17, 18, 19 and 20"
+Broadbalk,2012,winter wheat,02/04/2012,,Applied Sulphate of Potash,"plots: 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20",,agronomic fertilization process,4,,,,,,,,,"Applied Sulphate of Potash on plots: 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20"
+Broadbalk,2012,winter wheat,17/04/2012,,Nitram applied,"plots 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 and 20",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Applied Nitram Fertiliser onto plots 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 and 20"
+Broadbalk,2012,winter wheat,17/04/2012,,Nitram applied,onto plot - 2.1,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram Feriliser onto plot - 2.1 only
+Broadbalk,2012,winter wheat,22/05/2012,,"3rd split N applied as Nitram, 34.5% N","strips 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied 3rd N Treatment on sections 12, 17, 18 and 19 wheat only"
+Broadbalk,2013,all sections,28/09/2012,,triple superphosphate,"plots 110 - 119, 130 - 139, 140 - 149, 170 - 179 and 180 - 189 on all sections",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Applied Triple Super Phosphate to plots 110 - 119, 130 - 139, 140 - 149, 170 - 179 and 180 - 189 on all sections"
+Broadbalk,2013,all sections,28/09/2012,,K* muriate of potash,Plots: 140 - 149,,agronomic fertilization process,4,,181,kg/ha,,,,,,Spread Fertilizer MOP as on sheet onto Plots: 140 - 149
+Broadbalk,2013,all sections,03/10/2012,,FYM applied,strip 2.1 and 2.2 (not section 7 oats),,agronomic fertilization process,4,,35,t/ha,,,,,,Applied fresh FYM to strip 2.1 and 2.2 (not section 7 oats)
+Broadbalk,2013,all sections,11/03/2013,,kieserite,,,agronomic fertilization process,4,,80,kg/ha,,,,,,Kieserite applied
+Broadbalk,2013,all sections,12/03/2013,,Applied Sulphate of Potash,,,agronomic fertilization process,4,,217,kg/ha,,,,,,Sulphate of potash applied
+Broadbalk,2013,forage maize,21/05/2013,,Applied Nitram (pre-emergent) to Maize,strip 6,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram-N fert (pre-emergent) to Maize plots 1, 139 2.1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19. 417 kg/ha 556 696 kg/ha 835 kg/ha kg/ha kg/ha"
+Broadbalk,2013,forage maize,21/05/2013,,Applied Nitram (pre-emergent) to Maize,"strips 2.1, 7, 12, 17, 18, 19",,agronomic fertilization process,4,,278,kg/ha,,,,,,
+Broadbalk,2013,forage maize,21/05/2013,,Applied Nitram (pre-emergent) to Maize,strip 8,,agronomic fertilization process,4,,417,kg/ha,,,,,,
+Broadbalk,2013,forage maize,21/05/2013,,Applied Nitram (pre-emergent) to Maize,"strip 1, 9, 10, 11, 13, 14, 20",,agronomic fertilization process,4,,556,kg/ha,,,,,,
+Broadbalk,2013,forage maize,21/05/2013,,Applied Nitram (pre-emergent) to Maize,strip 15,,agronomic fertilization process,4,,696,kg/ha,,,,,,
+Broadbalk,2013,forage maize,21/05/2013,,Applied Nitram (pre-emergent) to Maize,strip 16,,agronomic fertilization process,4,,835,kg/ha,,,,,,
+Broadbalk,2013,forage maize,10/06/2013,,Applied Nitram (post-emergent) to Maize,strip 19,,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram-N fert (post-emergent) to Maize plots 1 2.1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19. 139, 278, 417, 556, 696, 835 kg/ha"
+Broadbalk,2013,forage maize,10/06/2013,,Applied Nitram (post-emergent) to Maize,strip 18,,agronomic fertilization process,4,,278,kg/ha,,,,,,
+Broadbalk,2013,forage maize,10/06/2013,,Applied Nitram (post-emergent) to Maize,strip 12,,agronomic fertilization process,4,,417,kg/ha,,,,,,
+Broadbalk,2013,forage maize,10/06/2013,,Applied Nitram (post-emergent) to Maize,strip 17,,agronomic fertilization process,4,,556,kg/ha,,,,,,
+Broadbalk,2013,winter wheat,12/03/2013,,Nitram applied,"plots - 12, 17, 18 and 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram on plots - 12, 17, 18 and 19"
+Broadbalk,2013,winter wheat,24/04/2013,,Nitram applied,"strips 6, 12, 17, 18, 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram on plots, 1, 2.1, 139 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19. 417 kg/ha 556 kg/ha 696 835 kg/ha kg/ha kg/ha"
+Broadbalk,2013,winter wheat,24/04/2013,,Nitram applied,"strips 2.1, 7",,agronomic fertilization process,4,,278,kg/ha,,,,,,
+Broadbalk,2013,winter wheat,24/04/2013,,Nitram applied,strip 8,,agronomic fertilization process,4,,417,kg/ha,,,,,,
+Broadbalk,2013,winter wheat,24/04/2013,,Nitram applied,"strips 1, 9, 10, 11, 13, 14, 20",,agronomic fertilization process,4,,556,kg/ha,,,,,,
+Broadbalk,2013,winter wheat,24/04/2013,,Nitram applied,strip 15,,agronomic fertilization process,4,,696,kg/ha,,,,,,
+Broadbalk,2013,winter wheat,24/04/2013,,Nitram applied,strip 16,,agronomic fertilization process,4,,835,kg/ha,,,,,,
+Broadbalk,2013,winter wheat,21/05/2013,,Nitram applied,"plots 12, 17, 18 and 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram to WW on plots 12, 17, 18 and 19"
+Broadbalk,2014,all sections,30/09/2013,,K* muriate of potash,plots 140-149,,agronomic fertilization process,4,,181,kg/ha,,,,,,Spread MOP on plots 140-149
+Broadbalk,2014,all sections,30/09/2013,,triple superphosphate,"plots 180-189, 170-179, 140-149, 130-139, 110-119",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Applied TSP - Plots 180-189, 170-179, 140-149, 130-139, 110-119"
+Broadbalk,2014,all sections,02/10/2013,,FYM applied,plots 2.20-2.29 and 2.10- 2.19 - Not Section 4,,agronomic fertilization process,4,,35,t/ha,,,,,,Applied FYM to plots 2.20-2.29 and 2.10- 2.19 - Not Section 4
+Broadbalk,2014,all sections,04/10/2013,,FYM applied,plots 2.20-2.29 and 2.10- 2.19 - Not Section 4,,agronomic fertilization process,4,,35,t/ha,,,,,,Applied FYM to plots 2.20-2.29 and 2.10- 2.19 - Not Section 4
+Broadbalk,2014,all sections,03/04/2014,,Applied Nitram @ 35% N,strip 15 but not in sections in 4 or 7,,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram @ 35%N - To strip 15 but not in sections in 4 or 7
+Broadbalk,2014,all sections,03/04/2014,,Applied Nitram @ 35% N,strip 16 but not in sections in 4 or 7,,agronomic fertilization process,4,,835,kg/ha,,,,,,Applied Nitram @ 35%N - To strip 16 but not in sections in 4 or 7
+Broadbalk,2014,all sections,04/04/2014,,Applied Nitram @ 35% N,strip 2.1 but not in sections in 4 or 7,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 35%N - To strip 2.1 but not in sections in 4 or 7
+Broadbalk,2014,all sections,09/04/2014,,kieserite,"Not to plots in strips 01, 2.1, 2.2, 03, 10, 13, 14",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Applied Kieserite Treatments - Not to plots in strips 01, 2.1, 2.2, 03, 10, 13, 14"
+Broadbalk,2014,all sections,09/04/2014,,Applied Sulphate of Potash,"Excluding plots in strips 01, 2.1, 2.2, 03, 10, 11, 14",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Applied SOP - Not to plots in strips 01, 2.1, 2.2, 03, 10, 11, 14"
+Broadbalk,2014,all sections,13/05/2014,,Applied Nitram @ 35% N,strip 12 but not in sections 4 or 7,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 35%N - To plots in strip 12 but not in sections in 4 or 7
+Broadbalk,2014,all sections,13/05/2014,,Applied Nitram @ 35% N,strip 17 but not in sections in 4 or 7,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 35%N - To plots in strip 17 but not in sections in 4 or 7
+Broadbalk,2014,all sections,13/05/2014,,Applied Nitram @ 35% N,strip 19 but not in sections in 4 or 7,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 35%N - To plots in strip 19 but not in sections in 4 or 7
+Broadbalk,2014,forage maize,20/05/2014,,Applied Nitram @ 35% N,"strip 06, section 7",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in strip 06, section 7"
+Broadbalk,2014,forage maize,20/05/2014,,Applied Nitram @ 34.5% N,"To plots in Strips 07, 12, 17, 18, 19, section 7",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in Strips 07, 12, 17, 18, 19, section 7"
+Broadbalk,2014,forage maize,20/05/2014,,Applied Nitram @ 34.5% N,"plots in Strips 2.1, 08, section 7",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in Strips 2.1, 08, section 7"
+Broadbalk,2014,forage maize,20/05/2014,,Applied Nitram @ 35% N,"strips 01, 09, 10, 11, 13, 14, in section 7",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in strips 01, 09, 10, 11, 13, 14, section 7"
+Broadbalk,2014,forage maize,20/05/2014,,Applied Nitram @ 35% N,"strip 15, section 7",,agronomic fertilization process,4,,696,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in strip 15, section 7"
+Broadbalk,2014,forage maize,20/05/2014,,Applied Nitram @ 35% N,"strip 16, section 7",,agronomic fertilization process,4,,835,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in strip 16, section 7"
+Broadbalk,2014,forage maize,16/06/2014,,Applied Nitram @ 35% N,"strip 12, section 7",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in strip 12, section 7"
+Broadbalk,2014,forage maize,16/06/2014,,Applied Nitram @ 34.5% N,"plots in Strips 07, 12, 17, 18, 19, section 7",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in Strips 07, 12, 17, 18, 19, section 7"
+Broadbalk,2014,forage maize,16/06/2014,,Applied Nitram @ 35% N,"strip 19, section 7",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 35%N - To plots in strip 19, section 7"
+Broadbalk,2014,winter wheat,10/03/2014,,Applied Nitram @ 35% N,"strips 12, 17, 18, 19 but not in sections in 4 or 7",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 35%N - To strips 12, 17, 18, 19 but not in sections in 4 or 7"
+Broadbalk,2014,winter wheat,03/04/2014,,Applied Nitram @ 35% N,strips 6 and 19 but not in sections in 4 or 7,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 35%N - To strips 6 and 19 but not in sections in 4 or 7
+Broadbalk,2014,winter wheat,03/04/2014,,Applied Nitram @ 35% N,strips 7 and 18 but not in sections in 4 or 7,,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram @ 35%N - To strips 7 and 18 but not in sections in 4 or 7
+Broadbalk,2014,winter wheat,03/04/2014,,Applied Nitram @ 35% N,strips 8 and 12 but not in sections in 4 or 7,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 35%N - To strips 8 and 12 but not in sections in 4 or 7
+Broadbalk,2014,winter wheat,03/04/2014,,Applied Nitram @ 35% N,"strips 01, 09, 10, 11, 13, 14, 17, 20 but not in sections 4 or 7",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 35%N - To strips 01, 09, 10, 11, 13, 14, 17, 20 but not in"
+Broadbalk,2014,winter wheat,13/05/2014,,Applied Nitram @ 35% N,strip 18 but not in sections in 4 or 7,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 35%N - To plots in strip 18 but not in sections in 4 or 7
+Broadbalk,2015,all sections,02/10/2014,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Applied TSP - strips 11, 13, 14, 17 & 18 all sections"
+Broadbalk,2015,all sections,02/10/2014,,K* muriate of potash,Strip 14; All Sections,,agronomic fertilization process,4,,181,kg/ha,,,,,,Applied MOP Fertiliser - Strip 14; All Sections
+Broadbalk,2015,all sections,03/10/2014,,FYM applied,plots 2.20-2.29 and 2.10-2.19 - Not Section 5,,agronomic fertilization process,4,,35,l/ha,,,,,,Applied FYM to plots 2.20-2.29 and 2.10-2.19 - Not Section 5
+Broadbalk,2015,all sections,16/04/2015,,kieserite,"all sections, strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20,",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Applied Kieserite Fertiliser - to strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20, all sections"
+Broadbalk,2015,all sections,16/04/2015,,Applied Sulphate of Potash,"strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 & 20,",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Applied SOP - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 & 20, all sections"
+Broadbalk,2015,all sections,17/04/2015,,Applied Nitram @ 34.5% N,"strips 7 and 18 - not sections 4, 5, 8",,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strips 7 and 18 - not
+Broadbalk,2015,all sections,17/04/2015,,Applied Nitram @ 34.5% N,"strips 8 and 12 - not sections 4, 5, 8",,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strips 8 and 12 - not
+Broadbalk,2015,all sections,17/04/2015,,Applied Nitram @ 34.5% N,"strips 1, 9, 10, 11, 13, 14, 17, 20 not sections in 4, 5 or 8",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 34.5%N - To strips 1, 9, 10, 11, 13, 14, 17, 20 - not sections in 4, 5 or 8"
+Broadbalk,2015,all sections,17/04/2015,,Applied Nitram @ 34.5% N,"strip 15 - not sections 4, 5, 8",,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strip 15 - not
+Broadbalk,2015,all sections,17/04/2015,,Applied Nitram @ 34.5% N,"strip 16 not sections in 4, 5 or 8",,agronomic fertilization process,4,,835,kg/ha,,,,,,"Applied Nitram @ 34.5%N - To strip 16 - not sections in 4, 5 or 8"
+Broadbalk,2015,all sections,08/05/2015,,Applied Nitram @ 34.5% N,"strips 12, 17, 18 & 19 not sections 4, 5 or 8",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 34.5%N - strips 12, 17, 18 & 19 - not sections 4, 5 or 8"
+Broadbalk,2015,forage maize,08/05/2015,,Applied Nitram @ 34.5% N,strips 6 and 19 - section 4 only,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strips 6 and 19 - section 4 only
+Broadbalk,2015,forage maize,08/05/2015,,Applied Nitram @ 34.5% N,strips 7 and 18 - section 4 only,,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strips 7 and 18 - section 4 only
+Broadbalk,2015,forage maize,08/05/2015,,Applied Nitram @ 34.5% N,strips 8 and 12 - section 4 only,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strips 8 and 12 - section 4 only
+Broadbalk,2015,forage maize,08/05/2015,,Applied Nitram @ 34.5% N,strip 15 section 4 only,,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strip 15 - section 4 only
+Broadbalk,2015,forage maize,08/05/2015,,Applied Nitram @ 34.5% N,strip 16 section 4 only,,agronomic fertilization process,4,,835,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strip 16 - section 4 only
+Broadbalk,2015,forage maize,22/05/2015,,Applied Nitram @ 34.5% N,plot 194,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - plot 194
+Broadbalk,2015,forage maize,22/05/2015,,Applied Nitram @ 34.5% N,plot 184,,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram @ 34.5%N - plot 184
+Broadbalk,2015,forage maize,22/05/2015,,Applied Nitram @ 34.5% N,plot 174,,agronomic fertilization process,4,,556,kg/ha,,,,,,Applied Nitram @ 34.5%N - plot 174
+Broadbalk,2015,forage maize,22/05/2015,,Applied Nitram @ 34.5% N,plot 124,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 34.5%N - plot 124
+Broadbalk,2015,spring wheat,09/04/2015,,Applied Nitram @ 35% N,"strips 12, 17, 18, 19 but not in sections in 4, 5 or 8",,agronomic fertilization process,4,,139,kg/ha,,,,,,"applied Nitram @ 35%N - To strips 12, 17, 18, 19 but not in sections in 4, 5 or 8"
+Broadbalk,2015,spring wheat,17/04/2015,,Applied Nitram @ 34.5% N,"strips 6 and 19 - not sections 3, 5, 8",,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - To strips 6 and 19 - not
+Broadbalk,2016,all sections,01/10/2015,,K* muriate of potash,Strip 14; All Sections,,agronomic fertilization process,4,,181,kg/ha,,,,,,Applied MOP Fertiliser - Strip 14; All Sections
+Broadbalk,2016,all sections,01/10/2015,,FYM applied,Strips 2.2 and 2.1; All Sections except Section 3,,agronomic fertilization process,4,,35,t/ha,,,,,,Applied FYM - Strips 2.2 and 2.1; All Sections except Section 3
+Broadbalk,2016,all sections,01/10/2015,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Applied TSP - strips 11, 13, 14, 17 & 18"
+Broadbalk,2016,all sections,11/04/2016,,Applied Sulphate of Potash,"strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 & 20,",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Applied SOP - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 & 20, all sections"
+Broadbalk,2016,all sections,13/04/2016,,kieserite,"Strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20; All Sections",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Applied Kieserite Fertiliser - Strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20; All Sections"
+Broadbalk,2016,forage maize,17/05/2016,,Applied Nitram @ 34.5% N,plot 065 Section 5 only,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 065
+Broadbalk,2016,forage maize,17/05/2016,,Applied Nitram @ 34.5% N,"plot 075, 125, 175, 185, 195 Section 5 only",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Section 5 only - Plot 075, 125, 175, 185, 195"
+Broadbalk,2016,forage maize,17/05/2016,,Applied Nitram @ 34.5% N,"plot 085, 215 Section 5 only (plot 215 applied by hand)",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Section 5 only - Plot 085, 215 (plot 215 applied by hand)"
+Broadbalk,2016,forage maize,17/05/2016,,Applied Nitram @ 34.5% N,"plot 095, 105, 115, 135, 145 Section 5 only - ",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Section 5 only - Plot 095, 105, 115, 135, 145"
+Broadbalk,2016,forage maize,17/05/2016,,Applied Nitram @ 34.5% N,plot 155 Section 5 only - ,,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 155
+Broadbalk,2016,forage maize,17/05/2016,,Applied Nitram @ 34.5% N,plot 165 Section 5 only - ,,agronomic fertilization process,4,,835,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 165
+Broadbalk,2016,forage maize,07/06/2016,,Applied Nitram @ 34.5% N,plot 195 Section 5 only - ,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 195
+Broadbalk,2016,forage maize,07/06/2016,,Applied Nitram @ 34.5% N,plot 185 Section 5 only - ,,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 185
+Broadbalk,2016,forage maize,07/06/2016,,Applied Nitram @ 34.5% N,plot 175 Section 5 only - ,,agronomic fertilization process,4,,556,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 175
+Broadbalk,2016,forage maize,07/06/2016,,Applied Nitram @ 34.5% N,plot 125 Section 5 only - ,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 34.5%N - Section 5 only - Plot 125
+Broadbalk,2016,winter wheat,21/03/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strips 12, 17, 18 & 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strips 12, 17, 18 & 19"
+Broadbalk,2016,winter wheat,07/04/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strips 7, 18",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strips 7, 18"
+Broadbalk,2016,winter wheat,07/04/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strips 2.1, 8, 12",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strips 2.1, 8, 12"
+Broadbalk,2016,winter wheat,07/04/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strips 1, 9, 10, 11, 13, 14, 17",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strips 1, 9, 10, 11, 13, 14, 17"
+Broadbalk,2016,winter wheat,07/04/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strip 15",,agronomic fertilization process,4,,696,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strip 15"
+Broadbalk,2016,winter wheat,07/04/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strip 16",,agronomic fertilization process,4,,835,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strip 16"
+Broadbalk,2016,winter wheat,05/05/2016,,Applied Nitram @ 34.5% N,"Sections 0, 1, 2, 4, 6, 7 & 9; Strips 12, 17, 18 & 19",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 & 9; Strips 12, 17, 18 & 19"
+Broadbalk,2017,all sections,26/09/2016,,triple superphosphate,"strips 11, 13, 14, 17 & 18",,agronomic fertilization process,4,,171,kg/ha,,,,,,"Applied TSP - strips 11, 13, 14, 17 & 18"
+Broadbalk,2017,all sections,26/09/2016,,K* muriate of potash,strip 14,,agronomic fertilization process,4,,181,kg/ha,,,,,,Applied MOP - to strip 14
+Broadbalk,2017,all sections,14/03/2017,,Applied Nitram @ 34.5% N,"strips 12, 17, 18 & 19 excluding Sections 2 and 3",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to strips 12, 17, 18 & 19 excluding Sections 2 and 3"
+Broadbalk,2017,all sections,21/03/2017,,kieserite,"all sections, strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20",,agronomic fertilization process,4,,80,kg/ha,,,,,,"Applied Kieserite - to strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20; All Sections"
+Broadbalk,2017,all sections,29/03/2017,,Applied Sulphate of Potash,"strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20,",,agronomic fertilization process,4,,217,kg/ha,,,,,,"Applied SOP - strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 & 20, all Sections"
+Broadbalk,2017,all sections,07/04/2017,,Applied Nitram @ 34.5% N,strip 19,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strip 19;
+Broadbalk,2017,all sections,07/04/2017,,Applied Nitram @ 34.5% N,"strips 7, 18",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to strips 7, 18;"
+Broadbalk,2017,all sections,07/04/2017,,Applied Nitram @ 34.5% N,"strips 2.1, 8, 12; Sections 0, 1, 4, 5, 6, 7, 8 & 9",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to strips 2.1, 8, 12; Sections 0, 1, 4, 5, 6, 7, 8 & 9"
+Broadbalk,2017,all sections,07/04/2017,,Applied Nitram @ 34.5% N,"strips 1, 9, 10, 11, 13, 14, 17, 20; Sections 0, 1, 4, 5, 6, 7, 8 & 9",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to strips 1, 9, 10, 11, 13, 14, 17, 20; Sections 0, 1, 4, 5, 6, 7, 8 & 9"
+Broadbalk,2017,all sections,07/04/2017,,Applied Nitram @ 34.5% N,strips 15,,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strips 15;
+Broadbalk,2017,all sections,07/04/2017,,Applied Nitram @ 34.5% N,strips 16,,agronomic fertilization process,4,,835,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strips 16;
+Broadbalk,2017,all sections,08/05/2017,,Nitram applied,"to strips 12, 17, 18, 19;",,agronomic fertilization process,4,,139,kg/ha,,,,,,"Applied Nitram - to strips 12, 17, 18, 19;"
+Broadbalk,2017,forage maize,27/09/2016,,FYM applied,"to strips 2.1, 2.2; Not Section 2",,agronomic fertilization process,4,,35,t/ha,,,,,,"Applied FYM - to strips 2.1, 2.2; Not Section 2"
+Broadbalk,2017,forage maize,08/05/2017,,Applied Nitram @ 34.5% N,strip 19 Section 3 only,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strip 19; Section 3 only
+Broadbalk,2017,forage maize,08/05/2017,,Applied Nitram @ 34.5% N,"strips 7, 18 Section 3 only",,agronomic fertilization process,4,,278,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to strips 7, 18; Section 3 only"
+Broadbalk,2017,forage maize,08/05/2017,,Applied Nitram @ 34.5% N,"strips 2.1, 8, 12; Section 3 only",,agronomic fertilization process,4,,417,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to 2.1, 8, 12; Section 3 only"
+Broadbalk,2017,forage maize,08/05/2017,,Applied Nitram @ 34.5% N,"strips 1, 9, 10, 11, 13, 14, 17 Section 3 only",,agronomic fertilization process,4,,556,kg/ha,,,,,,"Applied Nitram @ 34.5%N - to strips 1, 9, 10, 11, 13, 14, 17; Section 3 only"
+Broadbalk,2017,forage maize,08/05/2017,,Applied Nitram @ 34.5% N,strips 15 Section 3 only,,agronomic fertilization process,4,,696,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strips 15; Section 3 only
+Broadbalk,2017,forage maize,08/05/2017,,Applied Nitram @ 34.5% N,strips 16 Section 3 only,,agronomic fertilization process,4,,835,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strips 16; Section 3 only
+Broadbalk,2017,forage maize,24/05/2017,,Applied Nitram @ 34.5% N,strip 19 Section 3 only,,agronomic fertilization process,4,,139,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strip 19; Section 3 only
+Broadbalk,2017,forage maize,24/05/2017,,Applied Nitram @ 34.5% N,strip 18 Section 3 only,,agronomic fertilization process,4,,278,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strip 18; Section 3 only
+Broadbalk,2017,forage maize,24/05/2017,,Applied Nitram @ 34.5% N,strip 12 Section 3 only,,agronomic fertilization process,4,,417,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strip 12; Section 3 only
+Broadbalk,2017,forage maize,24/05/2017,,Applied Nitram @ 34.5% N,strip 17 Section 3 only,,agronomic fertilization process,4,,556,kg/ha,,,,,,Applied Nitram @ 34.5%N - to strip 17; Section 3 only
+Broadbalk,2017,winter wheat,27/09/2016,,FYM applied,"to strips 2.1, 2.2 excluding Section 2",,agronomic fertilization process,4,,35,t/ha,,,,,,"Applied FYM - to strips 2.1, 2.2 excluding Section 2"

@@ -1,0 +1,366 @@
+ID,Experiment,year,section,start date,end date,operation,flag,intensity,plots,amount,unit,operation type,water,water unit,tank mixture,method,variety,dressing,machine,original operation
+133,Hoosfield,1949,all plots,13/05/1949,,Denocate to kill off weeds,3,,,,,chemical pest control process,,,,sprayed,,,,sprayed with Denocate to kill off weeds
+150,Hoosfield,1950,all plots,30/05/1950,,D.N.O.C,3,,,,,chemical pest control process,,,,,,,,D.N.O.C applied
+157,Hoosfield,1951,all plots,26/06/1951,,D.N.O.C,3,,,1,gallons/acre,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C 1 gallon per acre
+,Hoosfield,1944,all plots,,,D.N.O.C late May or early June,3,,,,,chemical pest control process,,,,,,,,
+,Hoosfield,1945,all plots,,,D.N.O.C late May or early June,3,,,,,chemical pest control process,,,,,,,,
+,Hoosfield,1946,all plots,,,D.N.O.C late May or early June,3,,,,,chemical pest control process,,,,,,,,
+,Hoosfield,1947,all plots,,,D.N.O.C late May or early June,3,,,,,chemical pest control process,,,,,,,,
+,Hoosfield,1948,all plots,,,D.N.O.C late May or early June,3,,,,,chemical pest control process,,,,,,,,
+165,HoosfieldBarley,1952,All plots,09/05/1952,,D.N.O.C,3,,,1,gallons/acre,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C 1 gallon per acre
+174,HoosfieldBarley,1953,All plots,26/05/1953,,D.N.O.C,3,,,,,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C
+182,HoosfieldBarley,1954,All plots,03/06/1954,,D.N.O.C,3,,,,,chemical pest control process,,,,sprayed,,,,sprayed with D.N.O.C
+190,HoosfieldBarley,1955,All plots,06/11/1954,18/11/1954,part of ground chalk applied,3,,"to strips 3, 4",5,tons/acre,liming process,,,,,,,,"part of ground chalk applied to strips 3, 4"
+193,HoosfieldBarley,1955,All plots,17/03/1955,,Remainder of ground chalk applied,3,,"to strips 3, 4, compensating dressing applied to series A, C",,,liming process,,,,,,,,"Remainder of ground chalk applied to strips 3, 4, compensating dressing applied to series A, C"
+196,HoosfieldBarley,1955,All plots,24/05/1955,,D.N.C. (active substance),3,,,8,lb/acre,chemical pest control process,80,gallons/acre,,sprayed,,,,sprayed with 8 lb D.N.C. (active substance) in 80 gallons per acre
+204,HoosfieldBarley,1956,All plots,28/05/1956,,D.N.O.C,3,,,3,lb/acre,chemical pest control process,80,gallons/acre,,sprayed,,,,sprayed with 3 lb INOC in 80 gallons per acre
+210,HoosfieldBarley,1957,All plots,29/05/1957,,MCPA,3,,,2,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with MCPA at 2 pints in 40 gallons per ecre
+219,HoosfieldBarley,1958,All plots,28/05/1958,,CMPP,3,,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with CMPP at 6 pints in 40 gallons per acre
+222,HoosfieldBarley,1959,All plots,20/09/1958,,"2,4-D ester on stubble",3,,,1.75,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre on stubble"
+227,HoosfieldBarley,1959,All plots,26/05/1959,,MCPA,3,,,6.5,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with MCPA at 6.5 pints (30% potassium salt) in 40 gallons per acre
+231,HoosfieldBarley,1960,All plots,26/08/1959,,dalapon,3,,"part of plots 5A, 4C, 5.0 ",8,lb/acre,chemical pest control process,20,gallons/acre,,sprayed,,,,"sprayed part of plots 5A, 4C, 5.0 with dalapon at 8 lb in 20 gallons per acre"
+232,HoosfieldBarley,1960,All plots,27/08/1959,,"2,4-D ester",3,,,1.75,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"all plots sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre"
+234,HoosfieldBarley,1960,All plots,07/09/1959,,Quinquenniel chalk supplement applied,3,,"to series A, C, plot 5A",,,liming process,,,,,,,,"Quinquenniel chalk supplement applied to series A, C, plot 5A"
+237,HoosfieldBarley,1960,All plots,24/05/1960,,MCPA,3,,"Strips 1, 2, 3 ",6.5,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Strips 1, 2, 3 sprayed with MCPA at 6.5 pints (30% potassium salt) in 40 gallons per acre"
+243,Hoosfield,1960,selected plots,07/09/1959,,dalapon,3,,"part of plots 5A, 4C, 5.0",4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed part of plots 5A, 4C, 5.0 with dalapon at 4 lb in 40 gallons per acre"
+244,Hoosfield,1960,selected plots,24/05/1960,,CMPP,3,,"strips 4, 6, 7 ",6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"strips 4, 6, 7 sprayed with CMPP at 6 pints in 40 gallons per acre"
+245,HoosfieldBarley,1961,All plots,24/09/1960,,dalapon,3,,,10,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 10 lb in 40 gallons per acre
+246,HoosfieldBarley,1961,All plots,11/10/1960,,dalapon,3,,,5,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 5 lb in 40 gallons per acre
+252,HoosfieldBarley,1961,All plots,19/05/1961,,MCPA,3,,"Strips 1, 2, 3 ",6.5,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Strips 1, 2, 3 sprayed with MCPA at 6.5 pints in 40 gallons per acre"
+255,Hoosfield,1961,selected plots,19/05/1961,,CMPP,3,,"strips 4, 6, 7 ",6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"strips 4, 6, 7 sprayed with CMPP at 6 pints in 40 gallons per acre"
+256,HoosfieldBarley,1962,All plots,05/09/1961,,"2,4-D ester",3,,,1.75,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"all plots sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre"
+257,HoosfieldBarley,1962,All plots,08/09/1961,,dalapon,3,,"Plot 1N, parts of plots 2C, 4C 5-0, 5A ",8,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Plot 1N, parts of plots 2C, 4C 5-0, 5A sprayed with dalapon at 8 lb in 40 gallons per acre"
+258,HoosfieldBarley,1962,All plots,08/09/1961,,dalapon. Areas sprayed on 08/09/1961 and 11/09/1961 resprayed.,3,,,4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,Areas sprayed on 08/09/1961 and 11/09/1961 resprayed with dalapon at 4 lb in 40 gallons per acre
+259,HoosfieldBarley,1962,All plots,11/09/1961,,"sprayed by hand, with dalapon",3,,"Patches on 2N, 2C, 3C, 4C ",8,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"Patches on 2N, 2C, 3C, 4C sprayed by hand, with dalapon at 8 lb in 40 gallons per acre"
+265,HoosfieldBarley,1962,All plots,04/06/1962,,MCPA / MBA,3,,,4,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with MCPA / MBA at 4 pints in 40 gallons per acre
+267,HoosfieldBarley,1963,All plots,27/09/1962,,dalapon,3,,,7.4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 7.4 lb in 40 gallons per acre
+268,HoosfieldBarley,1963,All plots,16/10/1962,,dalapon,3,,,3.7,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon at 3.7 lb in 40 gallons per acre
+273,HoosfieldBarley,1963,All plots,11/06/1963,,"mecoprop / 2,4-D",3,,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D at 6 pints in 40 gallons per acre"
+276,HoosfieldBarley,1964,All plots,07/10/1963,,dalapon (as Dowpon),3,,,8,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon (Dowpon at 8 lb in 40 gals)
+277,HoosfieldBarley,1964,All plots,21/10/1963,,dalapon (as Dowpon),3,,,4,lb/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,sprayed with dalapon (Dowpon at 4 lb in 40 gals)
+282,HoosfieldBarley,1964,All plots,28/05/1964,,"mecoprop / 2,4-D (as Methoxone extra)",3,,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D (Methoxone extra at 6 pints in 40 gals)"
+285,HoosfieldBarley,1965,All plots,26/09/1964,,Quinquenniel chalk supplement applied,3,,"to series A, C, plot 5A",,,liming process,,,,,,,,"Quinquenniel chalk supplement applied to series A, C, plot 5A"
+289,HoosfieldBarley,1965,All plots,14/05/1965,,"mecoprop / 2,4-D (as Methoxone extra)",3,,,6,pints/acre,chemical pest control process,34,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D (Methoxone extra at 6 pints in 34 gals)"
+294,HoosfieldBarley,1966,All plots,04/10/1965,,aminotriazole,3,,,4,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,sprayed with aminotriazole at 4 lb and ammonia thiocyanate at 3.7 lb in 40 gals
+294,HoosfieldBarley,1966,All plots,04/10/1965,,ammonia thiocyanate,3,,,3.7,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,
+298,HoosfieldBarley,1966,All plots,27/05/1966,,"mecoprop / 2,4-D (as Methoxone extra)",3,,,6,pints/acre,chemical pest control process,40,gallons/acre,,sprayed,,,,"sprayed with mecoprop / 2,4-D (Methoxone extra at 6 pints in 40 gals)"
+301,HoosfieldBarley,1967,All plots,16/09/1966,,aminotriazole,3,,,4,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,sprayed with aminotriazole at 4 lb and ammonia thiocyanate at 3.7 lb in 40 gals
+301,HoosfieldBarley,1967,All plots,16/09/1966,,ammonia thiocyanate,3,,,3.7,lb/acre,chemical pest control process,40,gallons/acre,1,sprayed,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk,3,,"1AX, 2AX, 3AX, 4AX, 5AX",651,lb/acre,liming process,,,,,,,,Ground chalk applied - see book for plot rates
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk,3,,"1AY, 2AY, 3AY, 4AY, 5AY",1952,lb/acre,liming process,,,,,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk,3,,"1C, 2C, 3C, 4C",813,lb/acre,liming process,,,,,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk as corrective liming,3,,"1N, 1C, 4C, 4A, 7-1",23,cwt/acre,liming process,,,,,,,,
+306,HoosfieldBarley,1967,All plots,23/06/1967,,ground chalk as corrective liming,3,,"6-1, 6-2, 5A, 2C",46,cwt/acre,liming process,,,,,,,,
+315,Hoosfield,1968,barley,14/05/1968,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,,4,pints/acre,chemical pest control process,33,gallons/acre,,,,,,weedkiller
+318,Hoosfield,1968,beans,05/03/1968,,simazine,3,,,1,lb/acre,chemical pest control process,33,gallons/acre,,,,,,weedkiller
+319,Hoosfield,1968,beans,21/06/1968,,phorate,3,,,1.04,lb/acre,chemical pest control process,,,,,,,,insecticide
+325,Hoosfield,1968,potatoes,03/07/1968,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,fungicide
+326,Hoosfield,1968,potatoes,19/07/1968,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,fungicide
+327,Hoosfield,1968,potatoes,19/07/1968,,demeton-s-methyl,3,,,3.5,oz/acre,chemical pest control process,,,,,,,,insecticide
+328,Hoosfield,1968,potatoes,05/08/1968,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,fungicide
+329,Hoosfield,1968,potatoes,30/08/1968,,BOV applied,3,,,,,chemical pest control process,,,,,,,,BOV applied
+335,Hoosfield,1969,barley,05/09/1968,,paraquat,3,,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+338,Hoosfield,1969,barley,20/05/1969,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,,4,pints/acre,chemical pest control process,20,gallons/acre,,,,,,MCPA / mecoprop / dicamba applied
+342,Hoosfield,1969,beans,19/05/1969,,demeton-s-methyl,3,,,3.5,oz/acre,chemical pest control process,37,gallons/acre,,,,,,insecticide
+344,Hoosfield,1969,potatoes,05/09/1968,,paraquat,3,,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+347,Hoosfield,1969,potatoes,12/05/1969,,paraquat,3,,,0.375,lb/acre,chemical pest control process,37,gallons/acre,,,,,,"linuron, paraquat applied"
+350,Hoosfield,1969,potatoes,15/07/1969,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,Mancozeb applied
+351,Hoosfield,1969,potatoes,04/08/1969,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,Mancozeb applied
+352,Hoosfield,1969,potatoes,04/08/1969,,demeton-s-methyl,3,,,3.5,oz/acre,chemical pest control process,,,,,,,,insecticide
+353,Hoosfield,1969,potatoes,22/08/1969,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,37,gallons/acre,,,,,,Mancozeb applied
+359,Hoosfield,1970,barley,17/09/1969,,paraquat,3,,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+362,Hoosfield,1970,barley,26/05/1970,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,,4,pints/acre,chemical pest control process,20,gallons/acre,,,,,,MCPA / mecoprop / dicamba applied
+367,Hoosfield,1970,beans,18/06/1970,,demeton-s-methyl,3,,,3.5,oz/acre,chemical pest control process,40,gallons/acre,,,,,,insecticide
+369,Hoosfield,1970,potatoes,17/09/1969,,paraquat,3,,,0.75,lb/acre,chemical pest control process,20,gallons/acre,,,,,,paraquat applied
+372,Hoosfield,1970,potatoes,23/05/1970,,linuron,3,,,1,lb/acre,chemical pest control process,39,gallons/acre,,,,,,linuron applied
+374,Hoosfield,1970,potatoes,29/07/1970,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,40,gallons/acre,,,,,,fungicide
+375,Hoosfield,1970,potatoes,29/07/1970,,demeton-s-methyl,3,,,3.5,oz/acre,chemical pest control process,,,1,,,,,insecticide
+376,Hoosfield,1970,potatoes,14/08/1970,,mancozeb,3,,,1.2,lb/acre,chemical pest control process,40,gallons/acre,,,,,,fungicide
+377,Hoosfield,1970,potatoes,03/09/1970,,undiluted BOV,3,,,15,gallons/acre,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 15 gals
+384,Hoosfield,1971,All plots,10/05/1971,,"ioxynil octanoate, bromoxynil octanoate and the iso-octyl ester of dichlorprop (Oxytril P)",3,,,1.4,l/ha,chemical pest control process,225,l/ha,,,,,,Oxytril P applied
+386,Hoosfield,1971,barley,19/09/1970,,paraquat,3,,,0.28,kg/ha,chemical pest control process,225,l/ha,,,,,,paraquat applied
+389,Hoosfield,1971,beans,19/09/1970,,paraquat,3,,,0.28,kg/ha,chemical pest control process,225,l/ha,,,,,,paraquat applied
+391,Hoosfield,1971,beans,01/07/1971,,demeton-s-methyl,3,,,245,g/ha,chemical pest control process,427,l/ha,,,,,,insecticide
+394,Hoosfield,1971,potatoes,19/09/1970,,paraquat,3,,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+396,Hoosfield,1971,potatoes,15/04/1971,,linuron,3,,,1.68,kg/ha,chemical pest control process,427,l/ha,,,,,,linuron applied
+399,Hoosfield,1971,potatoes,13/08/1971,,mancozeb,3,,,1.34,kg/ha,chemical pest control process,438,l/ha,,,,,,fungicide
+407,Hoosfield,1972,barley,09/09/1971,,paraquat,3,,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+409,Hoosfield,1972,barley,18/05/1972,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,,5.6,l/ha,chemical pest control process,220,l/ha,,,,,,Banlene Plus applied
+412,Hoosfield,1972,beans,17/06/1972,,phorate,3,,,1.1,kg/ha,chemical pest control process,,,,,,,,insecticide
+414,Hoosfield,1972,potatoes,09/09/1971,,paraquat,3,,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+416,Hoosfield,1972,potatoes,17/05/1972,,linuron,3,,,1.1,kg/ha,chemical pest control process,450,l/ha,,,,,,"linuron, paraquat applied"
+419,Hoosfield,1972,potatoes,11/07/1972,,mancozeb,3,,,1.4,kg/ha,chemical pest control process,440,l/ha,,,,,,fungicide
+420,Hoosfield,1972,potatoes,21/07/1972,,mancozeb,3,,,1.4,kg/ha,chemical pest control process,440,l/ha,,,,,,fungicide
+421,Hoosfield,1972,potatoes,21/07/1972,,demeton-s-methyl,3,,,0.25,kg/ha,chemical pest control process,440,l/ha,,,,,,insecticide
+422,Hoosfield,1972,potatoes,10/08/1972,,mancozeb,3,,,1.4,kg/ha,chemical pest control process,440,l/ha,,,,,,fungicide
+423,Hoosfield,1972,potatoes,16/09/1972,,undiluted BOV,3,,,110,l/ha,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 110 l
+424,Hoosfield,1972,potatoes,20/09/1972,,undiluted BOV,3,,,200,l/ha,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 200 l
+431,Hoosfield,1973,barley,11/05/1973,15/05/1973,"dicamba, mecoprop and MCPA as 'Tetralex Plus'",3,,,7.0,l/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+434,Hoosfield,1973,beans,08/06/1973,,demeton-s-methyl,3,,,0.25,kg/ha,chemical pest control process,370,l/ha,,,,,,insecticide
+437,Hoosfield,1973,potatoes,15/05/1973,,linuron,3,,,1.1,kg/ha,chemical pest control process,450,l/ha,,,,,,weedkiller
+438,Hoosfield,1973,potatoes,02/07/1973,,mancozeb,3,,,1.35,kg/ha,chemical pest control process,370,l/ha,,,,,,fungicide
+439,Hoosfield,1973,potatoes,02/07/1973,,demeton-s-methyl,3,,,0.25,kg/ha,chemical pest control process,370,l/ha,,,,,,insecticide
+440,Hoosfield,1973,potatoes,18/07/1973,,mancozeb,3,,,1.35,kg/ha,chemical pest control process,370,l/ha,,,,,,fungicide
+441,Hoosfield,1973,potatoes,09/08/1973,,mancozeb,3,,,1.35,kg/ha,chemical pest control process,370,l/ha,,,,,,fungicide
+442,Hoosfield,1973,potatoes,31/08/1973,,undiluted BOV,3,,,,,chemical pest control process,,,,,,,,
+450,Hoosfield,1974,barley,17/09/1973,,paraquat,3,,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+454,Hoosfield,1974,barley,21/05/1974,,"dicamba, mecoprop and MCPA as 'Tetralex Plus'",3,,,7.0,l/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+458,Hoosfield,1974,beans,13/06/1974,,demeton-s-methyl,3,,,0.25,kg/ha,chemical pest control process,220,l/ha,,,,,,insecticide
+460,Hoosfield,1974,potatoes,17/09/1973,,paraquat,3,,,0.56,kg/ha,chemical pest control process,220,l/ha,,,,,,paraquat applied
+463,Hoosfield,1974,potatoes,17/05/1974,,linuron,3,,,1.2,kg/ha,chemical pest control process,450,l/ha,,,,,,"linuron, paraquat applied"
+465,Hoosfield,1974,potatoes,01/07/1974,,mancozeb,3,,,1.35,kg/ha,chemical pest control process,450,l/ha,,,,,,fungicide
+466,Hoosfield,1974,potatoes,01/07/1974,,demeton-s-methyl,3,,,0.25,kg/ha,chemical pest control process,,,,,,,,insecticide
+467,Hoosfield,1974,potatoes,02/08/1974,,mancozeb,3,,,1.35,kg/ha,chemical pest control process,450,l/ha,,,,,,fungicide
+469,Hoosfield,1974,potatoes,16/09/1974,,undiluted BOV,3,,,200,l/ha,chemical pest control process,,,,sprayed,,,,sprayed with undiluted BOV at 200 l
+478,Hoosfield,1975,barley,20/05/1975,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,,5.6,l/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+483,Hoosfield,1975,beans,09/07/1975,,demeton-s-methyl,3,,,0.25,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+488,Hoosfield,1975,potatoes,04/06/1975,,linuron,3,,,1.1,kg/ha,chemical pest control process,450,l/ha,,,,,,"linuron, paraquat applied"
+489,Hoosfield,1975,potatoes,27/06/1975,,demeton-s-methyl,3,,,0.95,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+492,Hoosfield,1975,potatoes,21/07/1975,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,,,,,,,,fungicide
+493,Hoosfield,1975,potatoes,21/07/1975,,demeton-s-methyl,3,,,0.95,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+497,Hoosfield,1976,All plots,02/10/1975,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+506,Hoosfield,1976,barley,14/05/1976,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,to all remaining plots,5.6,l/ha,chemical pest control process,220,l/ha,,,,,,Banlene Plus applied
+507,Hoosfield,1976,barley,25/05/1976,,"dicamba, mecoprop and MCPA as 'Tetralex Plus'",3,,to 'Form of N 1852-1966 N and C' plots,7.0,l/ha,chemical pest control process,220,l/ha,,,,,,Tetralex Plus applied
+516,Hoosfield,1976,potatoes,05/05/1976,,linuron,3,,,1.2,kg/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+517,Hoosfield,1976,potatoes,17/06/1976,,primicarb,3,,,0.14,kg/ha,chemical pest control process,450,l/ha,,,,,,insecticide
+519,Hoosfield,1976,potatoes,28/07/1976,,mancozeb,3,,,1.5,kg/ha,chemical pest control process,450,l/ha,,,,,,fungicide
+521,Hoosfield,1976,potatoes,28/09/1976,,diquat,3,,,0.6,kg/ha,chemical pest control process,220,l/ha,,,,,,Haulm desiccant applied
+529,Hoosfield,1977,barley,24/05/1977,,"dicamba, mecoprop and MCPA as 'Banlene Plus'",3,,,4.9,l/ha,chemical pest control process,220,l/ha,,,,,,spring weedkillers applied
+530,Hoosfield,1977,barley,06/08/1977,,diquat,3,,"in Autumn to manures C--RTN, CP-RTN, C-KRTN and CPKRIN plots only",0.59,kg/ha,chemical pest control process,450,l/ha,,,,,,weedkiller
+534,Hoosfield,1977,beans,19/07/1977,,primicarb,3,,,0.14,kg/ha,chemical pest control process,280,l/ha,,,,,,insecticide
+536,Hoosfield,1977,potatoes,06/09/1976,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+541,Hoosfield,1977,potatoes,28/05/1977,,linuron,3,,,1.2,kg/ha,chemical pest control process,340,l/ha,,,,,,weedkiller
+544,Hoosfield,1977,potatoes,23/06/1977,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+545,Hoosfield,1977,potatoes,05/07/1977,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+546,Hoosfield,1977,potatoes,26/07/1977,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+547,Hoosfield,1977,potatoes,26/07/1977,,primicarb,3,,,0.14,kg/ha,chemical pest control process,330,l/ha,,,,,,insecticide
+548,Hoosfield,1977,potatoes,10/08/1977,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,330,l/ha,,,,,,fungicide
+549,Hoosfield,1977,potatoes,10/08/1977,,primicarb,3,,,0.14,kg/ha,chemical pest control process,330,l/ha,,,,,,insecticide
+556,Hoosfield,1978,barley,10/10/1977,,glyphosate,3,,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,glyphosate applied
+560,Hoosfield,1978,barley,23/05/1978,,ioxynil,3,,"except 'Form of N 1852-1966, N, C' plots and 'extra' plots",0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,"ioxynil, mecoprop, tridemorph applied to all plots except 'Form of N 1852-1966, N, C' plots and 'extra' plots"
+560,Hoosfield,1978,barley,23/05/1978,,mecoprop,3,,,1.6,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+560,Hoosfield,1978,barley,23/05/1978,,tridemorph,3,,,0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+561,Hoosfield,1978,barley,26/05/1978,,ioxynil,3,,remaining plots sprayed,0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,Remaining plots sprayed
+561,Hoosfield,1978,barley,26/05/1978,,mecoprop,3,,remaining plots sprayed,1.6,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+561,Hoosfield,1978,barley,26/05/1978,,tridemorph,3,,remaining plots sprayed,0.53,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+565,Hoosfield,1978,beans,07/07/1978,,primicarb,3,,,0.14,kg/ha,chemical pest control process,220,l/ha,,,,,,insecticide
+567,Hoosfield,1978,potatoes,10/10/1977,,glyphosate,3,,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,glyphosate applied
+568,Hoosfield,1978,potatoes,11/10/1977,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+571,Hoosfield,1978,potatoes,15/05/1978,,linuron,3,,,1.1,kg/ha,chemical pest control process,220,l/ha,,,,,,linuron applied
+573,Hoosfield,1978,potatoes,05/07/1978,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,220,l/ha,,,,,,Mancozeb applied
+574,Hoosfield,1978,potatoes,17/07/1978,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,"Mancozeb, pirimicarb applied"
+574,Hoosfield,1978,potatoes,17/07/1978,,primicarb,3,,,0.14,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+575,Hoosfield,1978,potatoes,04/08/1978,,mancozeb,3,,,1.3,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,"Mancozeb, pirimicarb applied"
+575,Hoosfield,1978,potatoes,04/08/1978,,primicarb,3,,,0.14,kg/ha,chemical pest control process,220,l/ha,1,sprayed,,,,
+576,Hoosfield,1978,potatoes,17/08/1978,,Fentin acetate and mancozeb as 'Fennite A',3,,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,Fennite A applied
+577,Hoosfield,1978,potatoes,08/09/1978,,Fentin acetate and mancozeb as 'Fennite A',3,,,1.7,kg/ha,chemical pest control process,220,l/ha,,,,,,Fennite A applied
+580,Hoosfield,1979,All plots,20/11/1978,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+585,Hoosfield,1979,All plots,19/05/1979,,"mecoprop, bromoxynil and ioxynil as 'Brittox'",3,,,3.5,kg/ha,chemical pest control process,220,l/ha,,,,,,weedkiller
+586,Hoosfield,1979,All plots,18/06/1979,,tridemorph,3,,,0.53,kg/ha,chemical pest control process,220,l/ha,,,,,,fungicide
+588,Hoosfield,1980,All plots,01/09/1979,,paraquat,3,,,0.84,kg/ha,chemical pest control process,250,l/ha,,,,,,paraquat applied
+589,Hoosfield,1980,All plots,07/10/1979,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+594,Hoosfield,1980,All plots,12/05/1980,,"mecoprop, bromoxynil and ioxynil as 'Brittox'",3,,,2.5,l/ha,chemical pest control process,250,l/ha,1,sprayed,,,,Brittox applied
+594,Hoosfield,1980,All plots,12/05/1980,,tridemorph,3,,,0.53,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+596,Hoosfield,1981,all plots,01/09/1980,,paraquat,3,,,0.84,kg/ha,chemical pest control process,250,l/ha,,,,,,paraquat applied
+597,Hoosfield,1981,all plots,07/10/1980,,applied chalk,3,,,,,liming process,,,,,,,,chalk
+604,Hoosfield,1981,all plots,12/05/1981,,"mecoprop, bromoxynil and ioxynil as 'Brittox'",3,,,2.5,l/ha,chemical pest control process,250,l/ha,1,sprayed,,,,Brittox applied
+604,Hoosfield,1981,all plots,12/05/1981,,tridemorph,3,,,0.53,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+606,Hoosfield,1982,All plots,04/11/1981,,glyphosate,3,,"to 'Form of N 1852-1966, N, C' plots",,,chemical pest control process,,,,,,,,"glyphosate applied to 'Form of N 1852-1966, N, C' plots"
+609,Hoosfield,1982,All plots,17/11/1981,,applied chalk,3,,,,,liming process,,,,,,,,chalk
+615,Hoosfield,1982,All plots,17/05/1982,,"dicamba, mecoprop and MCPA as 'Poly-Farmon'",3,,,5.0,l/ha,chemical pest control process,250,l/ha,,,,,,weedkiller
+616,Hoosfield,1982,All plots,17/05/1982,,tridemorph,3,,,0.53,kg/ha,chemical pest control process,,,,,,,,fungicide
+618,Hoosfield,1983,All plots,27/10/1982,,glyphosate,3,,,1.4,kg/ha,chemical pest control process,120,l/ha,,,,,,glyphosate applied
+620,Hoosfield,1983,All plots,24/11/1982,,applied chalk,3,,,,,liming process,,,,,,,,"Chalk, FYM applied"
+625,Hoosfield,1983,All plots,24/05/1983,,"dicamba, mecoprop and MCPA as 'Herrisol'",3,,,5.0,l/ha,chemical pest control process,250,l/ha,,,,,,weedkiller
+626,Hoosfield,1983,All plots,21/06/1983,,tridemorph,3,,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+628,Hoosfield,1984,All plots,14/09/1983,,applied chalk,3,,,,,liming process,,,,,,,,chalk
+634,Hoosfield,1984,All plots,16/05/1984,,"3,6-dichloropicolinic acid",3,,,0.05,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,weedkiller
+634,Hoosfield,1984,All plots,16/05/1984,,bromoxynil,3,,,0.24,kg/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+634,Hoosfield,1984,All plots,16/05/1984,,mecoprop as 'CMPP',3,,,3,l/ha,chemical pest control process,250,l/ha,1,sprayed,,,,
+635,Hoosfield,1984,All plots,16/05/1984,,tridemorph,3,,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+637,Hoosfield,1985,All plots,01/10/1984,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+645,Hoosfield,1985,All plots,09/05/1985,,clopyralid,3,,,0.05,kg/ha,chemical pest control process,500,l/ha,1,sprayed,,,,weedkiller
+645,Hoosfield,1985,All plots,09/05/1985,,bromoxynil octanoate,3,,,0.24,kg/ha,chemical pest control process,500,l/ha,1,sprayed,,,,
+645,Hoosfield,1985,All plots,09/05/1985,,mecoprop,3,,,1.7,kg/ha,chemical pest control process,500,l/ha,1,sprayed,,,,
+646,Hoosfield,1985,All plots,09/05/1985,,tridemorph,3,,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+653,Hoosfield,1986,All plots,16/05/1986,,clopyralid,3,,,0.07,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,weedkiller
+653,Hoosfield,1986,All plots,16/05/1986,,bromoxynil octanoate,3,,,0.34,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+653,Hoosfield,1986,All plots,16/05/1986,,mecoprop,3,,,2.5,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+654,Hoosfield,1986,All plots,16/05/1986,,tridemorph,3,,,0.52,kg/ha,chemical pest control process,,,,,,,,fungicide
+656,Hoosfield,1987,All plots,06/11/1986,,glyphosate,3,,,1.4,kg/ha,chemical pest control process,200,l/ha,,,,,,glyphosate applied
+661,Hoosfield,1987,All plots,05/05/1987,,clopyralid,3,,,0.07,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Remaining weedkillers applied
+661,Hoosfield,1987,All plots,05/05/1987,,bromoxynil,3,,,0.34,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+661,Hoosfield,1987,All plots,05/05/1987,,mecoprop,3,,,2.5,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+662,Hoosfield,1987,All plots,29/05/1987,,tridemorph,3,,,0.52,kg/ha,chemical pest control process,200,l/ha,,,,,,fungicide
+668,Hoosfield,1988,All plots,10/05/1988,,mecoprop,3,,,2.4,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,weedkiller
+668,Hoosfield,1988,All plots,10/05/1988,,clopyralid,3,,,0.05,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+668,Hoosfield,1988,All plots,10/05/1988,,bromoxynil,3,,,0.24,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+669,Hoosfield,1988,All plots,20/05/1988,,propiconazole,3,,,0.12,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,fungicide
+669,Hoosfield,1988,All plots,20/05/1988,,tridemorph,3,,,0.25,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+670,Hoosfield,1988,All plots,17/06/1988,,propiconazole,3,,,0.12,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,fungicide
+670,Hoosfield,1988,All plots,17/06/1988,,tridemorph,3,,,0.25,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+672,Hoosfield,1989,All plots,02/10/1988,,glyphosate,3,,,1.4,kg/ha,chemical pest control process,200,l/ha,,,,,,glyphosate applied
+673,Hoosfield,1989,All plots,28/11/1988,,applied chalk,3,,,2.5,t/ha,liming process,,,,,,,,chalk
+680,Hoosfield,1989,All plots,09/05/1989,,mecoprop,3,,,1.6,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Remaining weedkillers applied
+680,Hoosfield,1989,All plots,09/05/1989,,ioxynil,3,,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+680,Hoosfield,1989,All plots,09/05/1989,,bromoxynil,3,,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+681,Hoosfield,1989,All plots,09/06/1989,,propiconazole,3,,,0.12,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,fungicide
+681,Hoosfield,1989,All plots,09/06/1989,,fenpropimorph,3,,,0.75,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+683,Hoosfield,1990,All plots,02/10/1989,,glyphosate,3,,,1.4,kg/ha,chemical pest control process,200,l/ha,,,,,,glyphosate applied
+688,Hoosfield,2016,All plots,23/05/2016,,Refine Max,3,,,75,g/ha,chemical pest control process,,,,sprayed,,,,sprayed Refine Max
+689,Hoosfield,2016,All plots,23/05/2016,,Hatchet Xtra,3,,,750,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hatchet Xtra
+690,Hoosfield,2016,All plots,23/05/2016,,Kingdom,3,,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom
+697,Hoosfield,2017,All plots,15/10/2016,,Buffalo Elite,3,,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Buffalo Elite
+698,Hoosfield,2017,All plots,15/10/2016,,Samurai,3,,,3,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+704,Hoosfield,2017,All plots,07/03/2017,,Buffalo Elite,3,,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Buffalo Elite
+705,Hoosfield,2017,All plots,07/03/2017,,Samurai,3,,,3,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+710,Hoosfield,2017,All plots,22/05/2017,,Hallmark,3,,,50,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hallmark
+716,Hoosfield,2017,All plots,30/05/2017,,Refine Max,3,,,75,g/ha,chemical pest control process,,,,sprayed,,,,sprayed Refine Max
+717,Hoosfield,2017,All plots,30/05/2017,,Kingdom,3,,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom
+718,Hoosfield,2017,All plots,30/05/2017,,Hurler,3,,,700,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hurler
+726,Hoosfield,1990,All plots,10/05/1990,,demeton-s-methyl,3,,,0.24,kg/ha,chemical pest control process,200,l/ha,,,,,,insecticide
+727,Hoosfield,1990,All plots,14/05/1990,,mecoprop,3,,,1.6,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Remaining weedkillers applied with the Fungicide
+727,Hoosfield,1990,All plots,14/05/1990,,bromoxynil,3,,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+727,Hoosfield,1990,All plots,14/05/1990,,ioxynil,3,,,0.20,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+727,Hoosfield,1990,All plots,14/05/1990,,fenpropimorph,3,,,0.75,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+729,Hoosfield,1992,All plots,15/10/1991,,applied chalk,3,,,2.9,t/ha,liming process,,,,,,,,Chalk applied at 2.9 t.
+730,Hoosfield,1992,All plots,07/12/1991,,String CT,3,,,2.0,l/ha,chemical pest control process,200,l/ha,,,,,,String CT at 2.0 l in 200 l
+740,Hoosfield,1992,All plots,15/05/1992,,Deloxil,3,,,1.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,"Deloxil at 1.0 l, Duplosan New System CMPP at 2.0 l and Calixin at 0.70 l in 200 l"
+740,Hoosfield,1992,All plots,15/05/1992,,Duplosan New System CMPP,3,,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+740,Hoosfield,1992,All plots,15/05/1992,,Calixin,3,,,0.70,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+741,Hoosfield,1992,All plots,09/06/1992,,Calixin,3,,,0.50,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Calixin at 0.50 l and Radar at 0.50 l in 200 l
+741,Hoosfield,1992,All plots,09/06/1992,,Radar,3,,,0.50,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+753,Hoosfield,1993,All plots,13/05/1993,,Ally,3,,,30,g/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Ally at 30 g and Starane 2 at 1.0 l in 200 l
+753,Hoosfield,1993,All plots,13/05/1993,,Starane 2,3,,,1.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+754,Hoosfield,1993,All plots,08/06/1993,,Alto 100 SL,3,,,0.80,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Alto 100 SL at 0.80 l and Derosal WDG at 0.31 kg in 200 l
+754,Hoosfield,1993,All plots,08/06/1993,,Derosal WDG,3,,,0.31,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+765,Hoosfield,1994,All plots,27/05/1994,,Duplosan New System CMPP,3,,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Duplosan New System CMPP at 2.0 l with Vindex at 1.4 l in 200 l
+765,Hoosfield,1994,All plots,27/05/1994,,Vindex,3,,,1.4,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+766,Hoosfield,1994,All plots,23/06/1994,,Derosal WDG,3,,,312,g/ha,chemical pest control process,260,l/ha,,,,,,Derosal WDG at 312 g with Dorin at 1.0 l in 260 l
+780,Hoosfield,1995,All plots,23/05/1995,,Duplosan New System CMPP,3,,,1.5,l/ha,chemical pest control process,260,l/ha,,,,,,Duplosan New System CMPP at 1.5 l with Vindex at 1.4 l in 260 l
+793,Hoosfield,1996,All plots,02/06/1996,,Duplosan New System CMPP,3,,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Duplosan New System CMPP at 2.0 l with Vindex at 1.4 l in 200 l
+793,Hoosfield,1996,All plots,02/06/1996,,Vindex,3,,,1.4,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+807,Hoosfield,1997,All plots,22/05/1997,,MSS Optica,3,,,2.0,l/ha,chemical pest control process,300,l/ha,1,sprayed,,,,MSS Optica at 2.0 l with Vindex at 1.0 l in 300 l
+807,Hoosfield,1997,All plots,22/05/1997,,Vindex,3,,,1.0,l/ha,chemical pest control process,300,l/ha,1,sprayed,,,,
+812,Hoosfield,1998,All plots,13/11/1997,,Alpha Glyphogan,3,,,1.5,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Alpha Glyphogan at 1.5 l with Vassgro Non Ionic at 250 ml in 200 l
+812,Hoosfield,1998,All plots,13/11/1997,,Vassgro Non Ionic,3,,,250,ml/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+822,Hoosfield,1998,All plots,08/05/1998,,Ally,3,,,20,g/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Ally at 20 g with MSS Optica at 2.0 l in 200 l
+822,Hoosfield,1998,All plots,08/05/1998,,MSS Optica,3,,,2.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+825,Hoosfield,1998,All plots,08/05/1998,,Bavistin DF,3,,,0.5,kg/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Bavistin DF at 0.5 kg with Opus at 0.3 l in 200 l
+825,Hoosfield,1998,All plots,08/05/1998,,Opus,3,,,0.3,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+827,Hoosfield,1999,All plots,17/11/1998,,Roundup,3,,,2.0,l/ha,chemical pest control process,200,l/ha,,,,,,Roundup at 2.0 l in 200 l
+834,Hoosfield,1999,All plots,06/05/1999,,Punch C,3,,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Punch C at 0.4 l in 200 l
+835,Hoosfield,1999,All plots,15/05/1999,,Ally,3,,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g with Duplosan at 1.0 l in 200 l
+836,Hoosfield,1999,All plots,01/06/1999,,Punch C,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Punch C at 0.5 l in 200 l
+838,Hoosfield,1999,All plots,29/07/1999,,Roundup Biactive,3,,,4.0,l/ha,chemical pest control process,200,l/ha,,,,,,Roundup Biactive at 4.0 l in 200 l
+847,Hoosfield,2000,All plots,24/05/2000,,Opus,3,,,0.3,l/ha,chemical pest control process,100,l/ha,1,sprayed,,,,Opus at 0.3 l with Unix at 0.5 kg in 100 l
+847,Hoosfield,2000,All plots,24/05/2000,,Unix,3,,,0.5,kg/ha,chemical pest control process,100,l/ha,1,sprayed,,,,
+848,Hoosfield,2000,All plots,03/06/2000,,Ally,3,,,30,g/ha,chemical pest control process,200,l/ha,1,sprayed,,,,Ally at 30 g with Duplosan at 1.0 l in 200 l
+848,Hoosfield,2000,All plots,03/06/2000,,Duplosan,3,,,1.0,l/ha,chemical pest control process,200,l/ha,1,sprayed,,,,
+849,Hoosfield,2000,All plots,20/06/2000,,Opus,3,,,0.3,l/ha,chemical pest control process,200,l/ha,,,,,,Opus at 0.3 l in 200 l
+857,Hoosfield,2001,All plots,19/05/2001,,Ally,3,,,20,g/ha,chemical pest control process,100,l/ha,,,,,,Ally at 20 g in 100 l
+859,Hoosfield,2001,All plots,11/06/2001,,Opus,3,,,0.4,l/ha,chemical pest control process,100,l/ha,,,,,,Opus at 0.4 l in 100 l
+860,Hoosfield,2001,All plots,02/07/2001,,Folicur,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Folicur at 0.5 l in 200 l
+864,Hoosfield,2001,All plots,19/05/2001,,Starane 2,3,,,0.5,l/ha,chemical pest control process,100,l/ha,,,,,,Starane 2 at 0.5 l in 100 l
+869,Hoosfield,2002,All plots,19/04/2002,,sprayed paths,3,,,,,chemical pest control process,,,,sprayed,,,,sprayed paths
+871,Hoosfield,2002,All plots,03/05/2002,,Ally,3,,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g in 200 l
+872,Hoosfield,2002,All plots,03/05/2002,,Duplosan KV,3,,,1.0,l/ha,chemical pest control process,200,l/ha,,,,,,Duplosan KV at 1.0 l in 200 l
+873,Hoosfield,2002,All plots,03/05/2002,,Amistar,3,,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Amistar at 0.4 l in 200 l
+874,Hoosfield,2002,All plots,03/05/2002,,Unix,3,,,0.5,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.5 kg in 200 l
+876,Hoosfield,2002,All plots,07/08/2002,,Roundup Biactive,3,,,3.0,l/ha,chemical pest control process,200,l/ha,,,,,,Roundup Biactive at 3.0 l in 200 l.
+886,Hoosfield,2003,All plots,31/03/2003,,sprayed paths,3,,,,,chemical pest control process,,,,sprayed,,,,sprayed paths
+888,Hoosfield,2003,All plots,22/04/2003,,Ally,3,,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g in 200 l
+889,Hoosfield,2003,All plots,22/04/2003,,Oxytril CM,3,,,0.75,l/ha,chemical pest control process,200,l/ha,,,,,,Oxytril CM at 0.75 1 in 200 l.
+890,Hoosfield,2003,All plots,11/05/2003,,Opus,3,,,0.25,l/ha,chemical pest control process,200,l/ha,,,,,,Opus at 0.25 l in 200 l
+891,Hoosfield,2003,All plots,11/05/2003,,Unix,3,,,0.4,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.4 kg in 200 l
+892,Hoosfield,2003,All plots,11/05/2003,,Amistar,3,,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Amistar at 0.4 l in 200 l
+893,Hoosfield,2003,All plots,08/06/2003,,Acanto,3,,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto at 0.4 l in 200 l
+894,Hoosfield,2003,All plots,08/06/2003,,Opus,3,,,0.25,l/ha,chemical pest control process,200,l/ha,,,,,,Opus at 0.25 l in 200 l
+896,Hoosfield,2003,All plots,26/07/2003,,Touchdown,3,,,4.0,l/ha,chemical pest control process,200,l/ha,,,,,,Touchdown at 4.0 l in 200 l
+908,Hoosfield,2004,All plots,01/03/2004,,Avadex Excel 15G,3,,,15,kg/ha,chemical pest control process,,,,,,,,Avadex Excel 15G at 15 kg.
+909,Hoosfield,2004,All plots,14/04/2004,,Ally,3,,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Ally at 30 g in 200 l
+910,Hoosfield,2004,All plots,14/04/2004,,Oxytril CM,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Oxytril CM at 0.5 l in 200 l
+912,Hoosfield,2004,All plots,26/04/2004,,Acanto,3,,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto at 0.4 l in 200 l
+913,Hoosfield,2004,All plots,26/04/2004,,Unix,3,,,0.4,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.4 kg in 200 l
+918,Hoosfield,2005,All plots,18/10/2004,,glyphosate 360,3,,,3.0,l/ha,chemical pest control process,200,l/ha,,,,,,glyphosate 360 at 3.0 l in 200 l
+926,Hoosfield,2005,All plots,15/05/2005,,Corbel,3,,,0.75,l/ha,chemical pest control process,200,l/ha,,,,,,Corbel at 0.75 l in 200 l
+927,Hoosfield,2005,All plots,15/05/2005,,Fandango,3,,,1.0,l/ha,chemical pest control process,200,l/ha,,,,,,Fandango at 1.0 l in 200 l
+928,Hoosfield,2005,All plots,15/05/2005,,Harmony M SX,3,,,100,g/ha,chemical pest control process,200,l/ha,,,,,,Harmony M SX at 100 g in 200 l
+934,Hoosfield,2006,All plots,09/09/2005,,Weedazol-TL,3,,series O only,20.0,l/ha,chemical pest control process,200,l/ha,,,,,,"Weedazol-TL at 20.0 l in 200 l, series O only."
+944,Hoosfield,2006,All plots,17/05/2006,,Acanto,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto at 0.5 l in 200 l
+945,Hoosfield,2006,All plots,17/05/2006,,Unix,3,,,0.5,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix at 0.5 kg in 200 l
+946,Hoosfield,2006,All plots,17/05/2006,,Quantum SX,3,,,30,g/ha,chemical pest control process,200,l/ha,,,,,,Quantum SX at 30 g in 200 l
+947,Hoosfield,2006,All plots,17/05/2006,,Duplosan KV,3,,,2.3,l/ha,chemical pest control process,200,l/ha,,,,,,Duplosan KV at 2.3 l in 200 l
+948,Hoosfield,2006,All plots,16/06/2006,,Fandango,3,,,1.25,l/ha,chemical pest control process,200,l/ha,,,,,,Fandango at 1.25 l in 200 l
+954,Hoosfield,2006,All plots,17/11/2006,,Azural,3,,,2.0,l/ha,chemical pest control process,200,l/ha,,,,,,Azural at 2.0 l in 200 l
+955,Hoosfield,2007,All plots,25/09/2006,,Weedazol-TL,3,,,20,l/ha,chemical pest control process,200,l/ha,,,,,,Weedazol-TL
+968,Hoosfield,2007,All plots,17/05/2007,,Fandango,3,,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Fandango
+969,Hoosfield,2007,All plots,17/05/2007,,Flexity,3,,,0.3,l/ha,chemical pest control process,200,l/ha,,,,,,Flexity
+970,Hoosfield,2007,All plots,17/05/2007,,Alpha Briotril Plus 19/19,3,,,1.5,l/ha,chemical pest control process,200,l/ha,,,,,,Alpha Briotril Plus 19/19
+971,Hoosfield,2007,All plots,17/05/2007,,Optica,3,,,2,l/ha,chemical pest control process,200,l/ha,,,,,,Optica
+972,Hoosfield,2007,All plots,02/06/2007,,Amistar Opti,3,,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Amistar Opti
+973,Hoosfield,2007,All plots,02/06/2007,,Corbel,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Corbel
+982,Hoosfield,2008,All plots,13/09/2007,,Weedazol-TL,3,,,20,l/ha,chemical pest control process,200,l/ha,,,,,,Weedazol-TL
+983,Hoosfield,2008,All plots,07/10/2007,,applied chalk,3,,"excluding plots 11 - 13, 21 - 23",4,t/ha,liming process,,,,,,,,"Chalk whole experiment excluding plots 11 - 13, 21 - 23"
+993,Hoosfield,2008,All plots,20/05/2008,,Harmony M SX,3,,,100,g/ha,chemical pest control process,200,l/ha,,,,,,Harmony M SX
+994,Hoosfield,2008,All plots,20/05/2008,,Duplosan KV,3,,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Duplosan KV
+995,Hoosfield,2008,All plots,20/05/2008,,Acanto Prima,3,,,1.25,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto Prima
+996,Hoosfield,2008,All plots,09/06/2008,,Acanto,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Acanto
+997,Hoosfield,2008,All plots,09/06/2008,,Unix,3,,,0.5,kg/ha,chemical pest control process,200,l/ha,,,,,,Unix
+1000,Hoosfield,2008,All plots,08/08/2008,,Glyphogan,3,,,3,l/ha,chemical pest control process,200,l/ha,,,,,,Glyphogan
+1006,Hoosfield,2008,All plots,08/09/2008,,Weedazol-TL,3,,,20,l/ha,chemical pest control process,290,l/ha,,,,,,Weedazol-TL
+1025,Hoosfield,2009,All plots,20/05/2009,,Headland Charge,3,,,1.5,l/ha,chemical pest control process,,,,,,,,Headland Charge
+1026,Hoosfield,2009,All plots,20/05/2009,,Duplosan KV,3,,,1.5,l/ha,chemical pest control process,,,,,,,,Duplosan KV
+1027,Hoosfield,2009,All plots,20/05/2009,,Harmony M SX,3,,,100,g/ha,chemical pest control process,,,,,,,,Harmony M SX
+1028,Hoosfield,2009,All plots,20/05/2009,,Fandango,3,,,1,l/ha,chemical pest control process,,,,,,,,Fandango
+1029,Hoosfield,2009,All plots,20/05/2009,,Flexity,3,,,0.2,l/ha,chemical pest control process,,,,,,,,Flexity
+1031,Hoosfield,2009,All plots,04/06/2009,,Amistar Opti,3,,,1,l/ha,chemical pest control process,,,,,,,,Amistar Opti
+1032,Hoosfield,2009,All plots,04/06/2009,,Proline,3,,,0.3,l/ha,chemical pest control process,,,,,,,,Proline
+1042,Hoosfield,2009,All plots,27/08/2009,,Weedazol-TL,3,,,20,l/ha,chemical pest control process,,,,,,,,Weedazol-TL
+1058,Hoosfield,2010,All plots,24/05/2010,25/05/2010,Kestral,3,,,0.5,l/ha,chemical pest control process,,,,,,,,Kestral
+1059,Hoosfield,2010,All plots,24/05/2010,25/05/2010,Jenton,3,,,0.5,l/ha,chemical pest control process,,,,,,,,Jenton
+1060,Hoosfield,2010,All plots,24/05/2010,25/05/2010,Bravo 500,3,,,1,l/ha,chemical pest control process,,,,,,,,Bravo 500
+1061,Hoosfield,2010,All plots,26/05/2010,,Harmony M SX,3,,,100,g/ha,chemical pest control process,200,l/ha,,,,,,Harmony M SX - 200 It water
+1062,Hoosfield,2010,All plots,28/05/2010,,Dow Shield,3,,,0.35,l/ha,chemical pest control process,200,l/ha,,,,,,Dow Shield - 200 It water
+1063,Hoosfield,2010,All plots,04/06/2010,,Axial,3,,,0.4,l/ha,chemical pest control process,200,l/ha,,,,,,Axial - 200 l water
+1064,Hoosfield,2010,All plots,04/06/2010,,Adigor,3,,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Adigor - 200 It water
+1065,Hoosfield,2010,All plots,16/06/2010,,Bravo 500,3,,,1,l/ha,chemical pest control process,200,l/ha,,,,,,Bravo 500 - 200 It water
+1066,Hoosfield,2010,All plots,16/06/2010,,Mobius,3,,,0.43,l/ha,chemical pest control process,200,l/ha,,,,,,Mobius - 200 It water
+1067,Hoosfield,2010,All plots,16/06/2010,,Standon Fenpropimorph 750,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Standon Fenpropimorph 750 - 200 It water
+1068,Hoosfield,2010,All plots,16/06/2010,,Corbel,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,,,,,Corbel - 200 It water
+1076,Hoosfield,2011,All plots,13/09/2010,,Weedazol-TL,3,,,20,l/ha,chemical pest control process,296,l/ha,,,,,,Weedazol-TL
+1088,Hoosfield,2011,All plots,09/05/2011,,Chimera,3,,,140,g/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Chimera
+1089,Hoosfield,2011,All plots,09/05/2011,,Acanto Prima,3,,,1.6,kg/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Acanto Prima
+1090,Hoosfield,2011,all plots,09/05/2011,,Harmony M SX,3,,,100,g/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Harmony M SX
+1091,Hoosfield,2011,All plots,31/05/2011,,Mobius,3,,,0.43,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Mobius
+1092,Hoosfield,2011,all plots,31/05/2011,,Corbel,3,,,0.5,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Corbel
+1093,Hoosfield,2011,all plots,31/05/2011,,Bravo 500,3,,,1,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Bravo 500
+1097,Hoosfield,2011,All plots,23/07/2011,,Statis 360,3,,,3,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Statis 360
+1105,Hoosfield,2012,All plots,14/09/2011,,Weedazol,3,,,20,l/ha,chemical pest control process,250,l/ha,,sprayed,,,,sprayed Weedazol in water
+1115,Hoosfield,2012,All plots,01/03/2012,,Kula,3,,,3.3,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Kula
+1120,Hoosfield,2012,spring barley,22/05/2012,,Amistar,3,,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Spring Barley with Amistar
+1121,Hoosfield,2012,All plots,10/06/2012,,Jenton,3,,,1.5,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,sprayed Jenton
+1129,Hoosfield,2012,All plots,20/09/2012,,Weedazol EW,3,,,20,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Whole field w/ Weedazol EW
+1134,Hoosfield,2012,All plots,01/03/2012,,Stomp 400,3,,,2,l/ha,chemical pest control process,200,l/ha,,sprayed,,,,Sprayed Stomp 400
+1135,Hoosfield,2012,spring barley,22/05/2012,,Corbel,3,,,0.25,l/ha,chemical pest control process,,,,sprayed,,,,Sprayed Spring Barley with Corbel
+1136,Hoosfield,2012,spring barley,22/05/2012,,Duplosan,3,,,2,l/ha,chemical pest control process,,,,sprayed,,,,Sprayed Spring Barley with Duplosan
+1139,Hoosfield,2013,All plots,20/09/2012,,Weedazol EW,3,,,20,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Whole field w/ Weedazol EW
+1153,Hoosfield,2013,All plots,02/06/2013,,Mobius,3,,,0.6,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Mobius
+1154,Hoosfield,2013,All plots,26/06/2013,,Mobius,3,,,4,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Mobius
+1161,Hoosfield,2013,All plots,02/06/2013,,Clyfamid,3,,,0.125,l/ha,chemical pest control process,,,,sprayed,,,,Sprayed Clyfamid
+1163,Hoosfield,2014,All plots,08/10/2013,,Weedazol,3,,surrounds only,2,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Weedazol surrounds only
+1167,Hoosfield,2014,All plots,03/12/2013,,applied chalk,3,,"Plots 734 - 711, 634 - 611, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141",4,t/ha,liming process,,,,,,,,"applied Chalk - Plots 734 - 711, 634 - 611, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141"
+1174,Hoosfield,2014,All plots,14/03/2014,,Crystal - pre emergent,3,,,2,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Crystal - pre emergent
+1182,Hoosfield,2014,barley,18/06/2014,,Mobius,3,,,400,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Mobius - Sp Barley only
+1187,Hoosfield,2015,All plots,10/11/2014,,"Samurai - total kill, volunteers and weeds",3,,,3,l/ha,chemical pest control process,,,,sprayed,,,,"sprayed Samurai - total kill, volunteers and weeds"
+1188,Hoosfield,2015,All plots,10/11/2014,,"Fire Brand - total kill, volunteers and weeds",3,,,1,l/ha,chemical pest control process,,,,sprayed,,,,"sprayed Fire Brand - total kill, volunteers and weeds"
+1196,Hoosfield,2015,All plots,05/03/2015,,Samurai,3,,,2.5,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+1197,Hoosfield,2015,All plots,05/03/2015,,Firebrand,3,,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Firebrand
+1206,Hoosfield,2015,barley,13/05/2015,,Kingdom,3,,,1.5,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom onto Barley
+1207,Hoosfield,2015,barley,13/05/2015,,Bravo 500,3,,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Bravo 500 onto Barley
+1209,Hoosfield,2015,barley,15/06/2015,,Kingdom,3,,,1.25,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Kingdom onto Barley
+1211,Hoosfield,2015,barley,19/06/2015,,Axial,3,,,460,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Axial onto Barley
+1212,Hoosfield,2015,barley,19/06/2015,,Adigor,3,,,460,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Adigor onto Barley
+1223,Hoosfield,2016,All plots,23/11/2015,,Firebrand,3,,,1,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Firebrand
+1224,Hoosfield,2016,All plots,23/11/2015,,Samurai,3,,,3,l/ha,chemical pest control process,,,,sprayed,,,,sprayed Samurai
+1230,Hoosfield,2016,All plots,19/04/2016,,Hallmark with Zeon Technology,3,,,50,ml/ha,chemical pest control process,,,,sprayed,,,,sprayed Hallmark with Zeon Technology

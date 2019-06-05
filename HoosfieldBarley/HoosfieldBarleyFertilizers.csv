@@ -1,0 +1,365 @@
+ID,Experiment,year,section,start date,end date,operation,flag,intensity,plots,amount,unit,operation type,water,water unit,tank mixture,method,variety,dressing,machine,original operation
+17,Hoosfield,1931,all plots,07/03/1931,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+40,Hoosfield,1934,all plots,29/01/1934,,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+41,Hoosfield,1934,all plots,26/03/1934,27/03/1934,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+49,Hoosfield,1935,all plots,08/01/1935,22/01/1935,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+50,Hoosfield,1935,all plots,04/03/1935,05/03/1935,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+55,Hoosfield,1936,all plots,20/01/1936,24/01/1936,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied and ploughed in
+59,Hoosfield,1936,all plots,10/03/1936,11/03/1936,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+63,Hoosfield,1937,all plots,03/12/1936,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+72,Hoosfield,1937,all plots,25/03/1937,26/03/1937,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+73,Hoosfield,1937,all plots,07/04/1937,,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+78,Hoosfield,1938,all plots,04/01/1938,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+85,Hoosfield,1938,all plots,08/02/1938,09/02/1938,manures applied,4,,,,,agronomic fertilization process,,,,,,,,manures applied
+110,Hoosfield,1948,all plots,24/11/1947,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+112,Hoosfield,1948,all plots,10/03/1948,11/03/1948,Artificials applied,4,,,,,agronomic fertilization process,,,,,,,,Artificials applied
+125,Hoosfield,1949,all plots,24/09/1948,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+140,Hoosfield,1950,all plots,02/12/1949,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+141,Hoosfield,1950,all plots,16/03/1950,20/03/1950,applied all fertilizers except silicate of soda,4,,,,,agronomic fertilization process,,,,,,,,applied all fertilizers except silicate of soda
+148,Hoosfield,1950,all plots,20/04/1950,,applied Si as sodium silicate,4,,,400,lb/acre,agronomic fertilization process,,,,,,,,Silicate of soda applied
+154,Hoosfield,1951,all plots,01/02/1951,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+155,Hoosfield,1951,all plots,21/04/1951,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+161,HoosfieldBarley,1952,All plots,18/12/1951,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+163,HoosfieldBarley,1952,All plots,27/02/1952,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+171,HoosfieldBarley,1953,All plots,23/09/1952,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied and ploughed in
+172,HoosfieldBarley,1953,All plots,03/03/1953,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+178,HoosfieldBarley,1954,All plots,24/11/1953,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+181,Hoosfield,1954,all plots,07/04/1954,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+191,HoosfieldBarley,1955,All plots,15/11/1954,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+194,HoosfieldBarley,1955,All plots,05/04/1955,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+201,HoosfieldBarley,1956,All plots,16/10/1955,19/10/1955,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+202,HoosfieldBarley,1956,All plots,24/03/1956,26/03/1956,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+207,HoosfieldBarley,1957,All plots,18/01/1957,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+208,HoosfieldBarley,1957,All plots,04/04/1957,05/04/1957,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+216,HoosfieldBarley,1958,All plots,25/11/1957,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+217,HoosfieldBarley,1958,All plots,17/04/1958,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+224,HoosfieldBarley,1959,All plots,05/12/1958,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+225,HoosfieldBarley,1959,All plots,30/03/1959,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+235,HoosfieldBarley,1960,All plots,20/11/1959,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+240,Hoosfield,1960,All plots,04/04/1960,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+247,HoosfieldBarley,1961,All plots,12/12/1960,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+249,HoosfieldBarley,1961,All plots,28/03/1961,,Minerals applied,4,,,,,agronomic fertilization process,,,,,,,,Minerals applied
+250,HoosfieldBarley,1961,All plots,04/04/1961,,applied N,4,,,,,agronomic fertilization process,,,,,,,,Nitrogen fertilizers applied
+262,HoosfieldBarley,1962,All plots,31/10/1961,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+263,HoosfieldBarley,1962,All plots,27/03/1962,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+269,HoosfieldBarley,1963,All plots,09/03/1963,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+272,Hoosfield,1963,all plots,24/04/1963,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+278,HoosfieldBarley,1964,All plots,02/11/1963,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,dung applied
+280,HoosfieldBarley,1964,All plots,09/04/1964,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+286,HoosfieldBarley,1965,All plots,03/11/1964,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+287,HoosfieldBarley,1965,All plots,01/04/1965,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+290,HoosfieldBarley,1965,All plots,20/05/1965,,applied nitrate of soda,4,,plot 4AAS,,,agronomic fertilization process,,,,,,,,nitrate of soda applied to plot 4AAS
+295,HoosfieldBarley,1966,All plots,01/11/1965,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+296,HoosfieldBarley,1966,All plots,17/03/1966,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+302,HoosfieldBarley,1967,All plots,19/10/1966,,dung applied,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"dung applied, all plots ploughed"
+305,HoosfieldBarley,1967,All plots,09/06/1967,,applied castor meal,4,,,,,agronomic fertilization process,,,,,,,,Castor meal applied
+309,Hoosfield,1968,all plots,05/10/1967,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, Na, Mg applied"
+309,Hoosfield,1968,all plots,05/10/1967,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+309,Hoosfield,1968,all plots,05/10/1967,,applied Na as sulphate of soda,4,,,14,lbNa/acre,agronomic fertilization process,,,,,,,,
+309,Hoosfield,1968,all plots,05/10/1967,,applied Mg as sulphate of magnesia,4,,,10,lb/acre,agronomic fertilization process,,,,,,,,
+310,Hoosfield,1968,All plots,06/10/1967,,applied Si as sodium silicate,4,,,400,lb/acre,agronomic fertilization process,,,,,,,,Silicate of soda applied
+311,Hoosfield,1968,all plots,06/10/1967,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+314,Hoosfield,1968,barley,25/03/1968,,applied Nitrochalk,4,,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+321,Hoosfield,1968,potatoes,26/03/1968,,applied Nitrochalk,4,,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+332,Hoosfield,1969,All plots,04/12/1968,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+334,Hoosfield,1969,all plots,06/12/1968,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+337,Hoosfield,1969,barley,01/04/1969,,applied Nitrochalk,4,,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+345,Hoosfield,1969,potatoes,09/04/1969,,applied Nitrochalk,4,,,,,agronomic fertilization process,,,,,,,,Nitrochalk applied
+356,Hoosfield,1970,All plots,22/10/1969,,fertilizers applied,4,,,,,agronomic fertilization process,,,,,,,,fertilizers applied
+357,Hoosfield,1970,All plots,10/11/1969,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+361,Hoosfield,1970,barley,09/04/1970,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+370,Hoosfield,1970,potatoes,29/04/1970,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+379,Hoosfield,1971,All plots,16/10/1970,,"fertilizers, except N, applied",4,,,,,agronomic fertilization process,,,,,,,,"fertilizers, except N, applied"
+380,Hoosfield,1971,All plots,21/10/1970,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+383,Hoosfield,1971,All plots,23/03/1971,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+395,Hoosfield,1971,potatoes,02/04/1971,,applied N,4,,,,,agronomic fertilization process,,,,,,,,"N applied, plots rotary cultivated, potatoes machine planted"
+403,Hoosfield,1972,All plots,22/09/1971,,"fertilizers, except N, applied",4,,,,,agronomic fertilization process,,,,,,,,"fertilizers, except N, applied"
+404,Hoosfield,1972,All plots,05/11/1971,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+406,Hoosfield,1972,All plots,17/04/1972,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+426,Hoosfield,1973,All plots,01/11/1972,,"fertilizers, except N, applied",4,,,,,agronomic fertilization process,,,,,,,,"fertilizers, except N, applied"
+427,Hoosfield,1973,All plots,03/11/1972,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+429,Hoosfield,1973,All plots,22/03/1973,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+444,Hoosfield,1974,All plots,02/10/1973,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+445,Hoosfield,1974,all plots,24/10/1973,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, Mg applied"
+445,Hoosfield,1974,All plots,24/10/1973,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+446,Hoosfield,1974,all plots,29/10/1973,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Silicate of soda applied
+447,Hoosfield,1974,All plots,19/11/1973,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+449,Hoosfield,1974,All plots,08/04/1974,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+471,Hoosfield,1975,All plots,25/11/1974,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+472,Hoosfield,1975,all plots,08/01/1975,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, silicate of soda, FYM applied"
+472,Hoosfield,1975,All plots,08/01/1975,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+472,Hoosfield,1975,All plots,08/01/1975,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,
+477,Hoosfield,1975,barley,29/04/1975,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+485,Hoosfield,1975,potatoes,29/04/1975,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+496,Hoosfield,1976,All plots,01/10/1975,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K applied"
+496,Hoosfield,1976,all plots,01/10/1975,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+498,Hoosfield,1976,All plots,06/10/1975,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Silicate of soda applied
+500,Hoosfield,1976,All plots,13/11/1975,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+505,Hoosfield,1976,barley,26/03/1976,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+513,Hoosfield,1976,potatoes,26/03/1976,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+523,Hoosfield,1977,All plots,25/10/1976,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"all plots P, K, Mg, silicate of soda applied"
+523,Hoosfield,1977,all plots,25/10/1976,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+523,Hoosfield,1977,All plots,25/10/1976,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+523,Hoosfield,1977,All plots,25/10/1976,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+524,Hoosfield,1977,All plots,26/10/1976,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+528,Hoosfield,1977,barley,14/04/1977,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+537,Hoosfield,1977,potatoes,14/04/1977,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+552,Hoosfield,1978,All plots,13/12/1977,,autumn manures applied,4,,,,,agronomic fertilization process,,,,,,,,autumn manures applied
+559,Hoosfield,1978,barley,17/05/1978,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+569,Hoosfield,1978,potatoes,11/05/1978,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+579,Hoosfield,1979,All plots,13/11/1978,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, Na applied"
+579,Hoosfield,1979,all plots,13/11/1978,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+579,Hoosfield,1979,All plots,13/11/1978,,applied Na,4,,,,,agronomic fertilization process,,,,,,,,
+581,Hoosfield,1979,All plots,23/11/1978,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+584,Hoosfield,1979,All plots,18/05/1979,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+590,Hoosfield,1980,All plots,01/12/1979,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+590,Hoosfield,1980,all plots,01/12/1979,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+590,Hoosfield,1980,All plots,01/12/1979,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+591,Hoosfield,1980,All plots,03/12/1979,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+593,Hoosfield,1980,All plots,16/04/1980,,applied N,4,,,,,agronomic fertilization process,,,,,,,,MW applied
+598,Hoosfield,1981,all plots,01/12/1980,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K and silicate of soda applied"
+598,Hoosfield,1981,all plots,01/12/1980,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+598,Hoosfield,1981,all plots,01/12/1980,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+599,Hoosfield,1981,all plots,03/12/1980,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+603,Hoosfield,1981,all plots,21/04/1981,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+607,Hoosfield,1982,All plots,12/11/1981,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K applied"
+607,Hoosfield,1982,all plots,12/11/1981,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+608,Hoosfield,1982,All plots,13/11/1981,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Silicate of soda applied
+610,Hoosfield,1982,All plots,18/11/1981,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+614,Hoosfield,1982,All plots,05/05/1982,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+619,Hoosfield,1983,All plots,08/11/1982,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, Mg and silicate of soda applied"
+619,Hoosfield,1983,all plots,08/11/1982,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+619,Hoosfield,1983,All plots,08/11/1982,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+619,Hoosfield,1983,All plots,08/11/1982,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+620,Hoosfield,1983,All plots,24/11/1982,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,
+624,Hoosfield,1983,All plots,23/05/1983,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+629,Hoosfield,1984,All plots,15/11/1983,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+629,Hoosfield,1984,all plots,15/11/1983,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+629,Hoosfield,1984,All plots,15/11/1983,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+630,Hoosfield,1984,All plots,16/11/1983,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+633,Hoosfield,1984,All plots,16/04/1984,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+638,Hoosfield,1985,All plots,30/10/1984,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Silicate of soda applied
+639,Hoosfield,1985,All plots,02/11/1984,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+640,Hoosfield,1985,all plots,26/11/1984,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,K applied
+641,Hoosfield,1985,All plots,27/11/1984,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+644,Hoosfield,1985,All plots,22/04/1985,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+648,Hoosfield,1986,All plots,18/11/1985,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of soda, P, Mg applied"
+648,Hoosfield,1986,All plots,18/11/1985,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,
+648,Hoosfield,1986,All plots,18/11/1985,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+649,Hoosfield,1986,all plots,20/11/1985,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, FYM applied"
+649,Hoosfield,1986,All plots,20/11/1985,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,
+652,Hoosfield,1986,All plots,12/05/1986,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+657,Hoosfield,1987,All plots,28/11/1986,,applied P as single superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+657,Hoosfield,1987,all plots,28/11/1986,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+657,Hoosfield,1987,All plots,28/11/1986,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+658,Hoosfield,1987,All plots,02/12/1986,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+660,Hoosfield,1987,All plots,24/04/1987,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+664,Hoosfield,1988,All plots,11/01/1988,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, silicate of soda applied"
+664,Hoosfield,1988,all plots,11/01/1988,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+664,Hoosfield,1988,All plots,11/01/1988,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+665,Hoosfield,1988,All plots,15/01/1988,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+667,Hoosfield,1988,All plots,12/04/1988,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+674,Hoosfield,1989,All plots,07/12/1988,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Silicate of soda applied
+675,Hoosfield,1989,all plots,08/12/1988,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, Mg applied"
+675,Hoosfield,1989,All plots,08/12/1988,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+676,Hoosfield,1989,All plots,09/12/1988,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+677,Hoosfield,1989,All plots,13/12/1988,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM applied, ploughed"
+679,Hoosfield,1989,All plots,31/03/1989,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+684,Hoosfield,1990,All plots,29/11/1989,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, silicate of soda applied"
+684,Hoosfield,1990,All plots,29/11/1989,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+685,Hoosfield,1990,all plots,30/11/1989,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,K applied
+686,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,4,,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+687,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,4,,"to plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+699,Hoosfield,2017,all plots,31/10/2016,,applied K as potassium sulphate,4,,"Plots 634 - 631, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"applied Sulphate of potash to Plots 141 - 144, 241 - 244, 311 - 344, 411 - 444, 551 - 582, 631 - 634"
+700,Hoosfield,2017,All plots,31/10/2016,,applied Mg as Kieserite,4,,"plots 634, 533, 632, 631",35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+701,Hoosfield,2017,All plots,31/10/2016,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+702,Hoosfield,2017,All plots,08/11/2016,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+703,Hoosfield,2017,All plots,10/11/2016,,applied FYM,4,,"plots 734, 733, 732, 731, 724, 723, 722, 721",35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+711,Hoosfield,2017,All plots,23/05/2017,,applied Nitrochalk (27% N),4,,"to Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",48,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) to Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+712,Hoosfield,2017,All plots,23/05/2017,,applied Nitrochalk (27% N),4,,"to Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) to Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+713,Hoosfield,2017,All plots,23/05/2017,,applied Nitrochalk (27% N),4,,"to Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) to Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+715,Hoosfield,2017,All plots,24/05/2017,,applied Nitram,4,,"Series AA (except 621 - 624, 721 - 724), C and Strip 5",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram to Series AA (except 621 to 624, 721 to 724), C and Strip 5"
+722,Hoosfield,1990,All plots,04/12/1989,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+725,Hoosfield,1990,All plots,10/04/1990,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+731,Hoosfield,1992,All plots,11/12/1991,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Silicate of soda and kieserite applied.
+731,Hoosfield,1992,All plots,11/12/1991,,applied Mg as Kieserite,4,,,30,kgMg/ha,agronomic fertilization process,223,kg/ha,,,,,,
+732,Hoosfield,1992,All plots,12/12/1991,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P and K applied
+732,Hoosfield,1992,all plots,12/12/1991,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+733,Hoosfield,1992,All plots,06/01/1992,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+739,Hoosfield,1992,All plots,06/05/1992,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+744,Hoosfield,1993,All plots,21/12/1992,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si and K applied.
+744,Hoosfield,1993,all plots,21/12/1992,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+745,Hoosfield,1993,All plots,22/12/1992,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+746,Hoosfield,1993,All plots,19/01/1993,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+752,Hoosfield,1993,All plots,30/04/1993,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+756,Hoosfield,1994,All plots,19/11/1993,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+757,Hoosfield,1994,All plots,22/11/1993,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si and K applied.
+757,Hoosfield,1994,all plots,22/11/1993,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+758,Hoosfield,1994,All plots,15/12/1993,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+764,Hoosfield,1994,All plots,27/04/1994,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+769,Hoosfield,1995,All plots,03/11/1994,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+770,Hoosfield,1995,all plots,07/11/1994,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,K applied
+771,Hoosfield,1995,All plots,08/11/1994,,applied Mg as Kieserite,4,,,30,kgMg/ha,agronomic fertilization process,,,,,,,,Mg applied.
+772,Hoosfield,1995,All plots,10/11/1994,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si applied.
+774,Hoosfield,1995,All plots,15/12/1994,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,Farmyard manure applied
+779,Hoosfield,1995,All plots,04/05/1995,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+783,Hoosfield,1996,All plots,02/11/1995,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+784,Hoosfield,1996,all plots,08/11/1995,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,K applied
+785,Hoosfield,1996,All plots,11/12/1995,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si applied.
+786,Hoosfield,1996,All plots,14/12/1995,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,Farmyard manure applied
+792,Hoosfield,1996,All plots,30/04/1996,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+797,Hoosfield,1997,All plots,26/11/1996,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+798,Hoosfield,1997,all plots,04/12/1996,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,K applied
+799,Hoosfield,1997,All plots,05/12/1996,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si applied.
+800,Hoosfield,1997,All plots,17/12/1996,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,Farmyard manure applied
+806,Hoosfield,1997,All plots,24/04/1997,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+813,Hoosfield,1998,All plots,26/11/1997,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si applied.
+814,Hoosfield,1998,All plots,03/12/1997,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+815,Hoosfield,1998,all plots,06/01/1998,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,K and Mg applied.
+815,Hoosfield,1998,All plots,06/01/1998,,applied Mg as Kieserite,4,,,30,kgMg/ha,agronomic fertilization process,,,,,,,,
+816,Hoosfield,1998,All plots,13/01/1998,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,Farmyard manure applied
+821,Hoosfield,1998,All plots,23/03/1998,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+828,Hoosfield,1999,All plots,06/01/1999,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P and K applied
+828,Hoosfield,1999,all plots,06/01/1999,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+829,Hoosfield,1999,All plots,07/01/1999,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,Farmyard manure and Si applied
+829,Hoosfield,1999,All plots,07/01/1999,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+833,Hoosfield,1999,All plots,30/04/1999,,applied N,4,,,,,agronomic fertilization process,,,,,,,,N applied
+840,Hoosfield,2000,All plots,08/12/1999,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P and K applied
+840,Hoosfield,2000,all plots,08/12/1999,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+842,Hoosfield,2000,All plots,14/12/1999,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si applied.
+843,Hoosfield,2000,All plots,15/12/1999,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,Farmyard manure applied
+846,Hoosfield,2000,All plots,10/05/2000,,applied N (27% N),4,,,,,agronomic fertilization process,,,,,,,,N treatments applied as 27% N
+853,Hoosfield,2001,All plots,02/01/2001,05/01/2001,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, P2, K and Mg applied. K and Mg completed 05-Jan-01."
+853,Hoosfield,2001,All plots,02/01/2001,,applied P as triple superphosphate,4,,,44,kgP/ha,agronomic fertilization process,,,,,,,,
+853,Hoosfield,2001,all plots,02/01/2001,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+853,Hoosfield,2001,All plots,02/01/2001,05/01/2001,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+853,Hoosfield,2001,all plots,02/01/2001,05/01/2001,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+854,Hoosfield,2001,All plots,03/01/2001,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM and Si applied.
+854,Hoosfield,2001,All plots,03/01/2001,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+858,Hoosfield,2001,All plots,21/05/2001,,applied N (27.5% N),4,,by hand,,,agronomic fertilization process,,,,,,,,N (27.5% N) applied by hand
+865,Hoosfield,2002,all plots,13/12/2001,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, P and P2 applied."
+865,Hoosfield,2002,All plots,13/12/2001,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,
+865,Hoosfield,2002,All plots,13/12/2001,,applied P as triple superphosphate,4,,,44,kgP/ha,agronomic fertilization process,,,,,,,,
+866,Hoosfield,2002,All plots,19/12/2001,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"FYM, Si and MG2 applied."
+866,Hoosfield,2002,All plots,19/12/2001,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+866,Hoosfield,2002,All plots,19/12/2001,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+870,Hoosfield,2002,All plots,25/04/2002,,applied N (27.5% N),4,,by hand,,,agronomic fertilization process,,,,,,,,N (27.5% N) applied by hand
+882,Hoosfield,2003,all plots,08/01/2003,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, K*, P2, Si, Mg ( to plot 63) applied."
+882,Hoosfield,2003,all plots,08/01/2003,,applied K as potassium sulphate,4,,,450,kgK/ha,agronomic fertilization process,,,,,,,,
+882,Hoosfield,2003,All plots,08/01/2003,,applied P as triple superphosphate,4,,,44,kgP/ha,agronomic fertilization process,,,,,,,,
+882,Hoosfield,2003,All plots,08/01/2003,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+882,Hoosfield,2003,All plots,08/01/2003,,applied Mg as Kieserite,4,,plot 63,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+883,Hoosfield,2003,All plots,09/01/2003,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+887,Hoosfield,2003,All plots,03/04/2003,,applied N (27.5% N),4,,by hand,,,agronomic fertilization process,,,,,,,,N (27.5% N) applied by hand
+902,Hoosfield,2004,all plots,27/11/2003,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,"K, K*, Si, Mg ( to plot 63) applied."
+902,Hoosfield,2004,all plots,27/11/2003,,applied K as potassium sulphate,4,,,450,kgK/ha,agronomic fertilization process,,,,,,,,
+902,Hoosfield,2004,All plots,27/11/2003,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+902,Hoosfield,2004,All plots,27/11/2003,,applied Mg as Kieserite,4,,plot 63,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+903,Hoosfield,2004,All plots,28/11/2003,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,,,,,,,,P applied
+904,Hoosfield,2004,All plots,10/12/2003,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+911,Hoosfield,2004,All plots,20/04/2004,,applied N (27% N),4,,,,,agronomic fertilization process,,,,,,,,N (27% N).
+919,Hoosfield,2005,All plots,04/11/2004,,applied P as triple superphosphate,4,,plot 63,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, Mg ( to plot 63) applied."
+919,Hoosfield,2005,all plots,04/11/2004,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+919,Hoosfield,2005,All plots,04/11/2004,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+920,Hoosfield,2005,All plots,05/11/2004,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM and Si applied.
+920,Hoosfield,2005,All plots,05/11/2004,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,
+924,Hoosfield,2005,All plots,21/04/2005,,applied N (27% N),4,,"to Main plots (old series O, A)",,,agronomic fertilization process,,,,,,,,"N (27% N) to Main plots (old series O, A)."
+925,Hoosfield,2005,All plots,22/04/2005,,applied N (34.5% N) to remainder,4,,,,,agronomic fertilization process,,,,,,,,N (34.5% N) to remainder
+935,Hoosfield,2006,All plots,16/11/2005,,applied P as triple superphosphate,4,,plot 63,35,kgP/ha,agronomic fertilization process,,,,,,,,"P, K, Mg ( to plot 63) applied."
+935,Hoosfield,2006,all plots,16/11/2005,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,,,,,,,,
+935,Hoosfield,2006,All plots,16/11/2005,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,,,,,,,,
+936,Hoosfield,2006,All plots,17/11/2005,,applied Si as sodium silicate,4,,,450,kg/ha,agronomic fertilization process,,,,,,,,Si applied.
+937,Hoosfield,2006,All plots,21/11/2005,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM applied
+942,Hoosfield,2006,All plots,25/04/2006,,applied N (27% N),4,,"to Main plots (old series O, A) and plots 6 and 7 series AA",,,agronomic fertilization process,,,,,,,,"N (27% N) to Main plots (old series O, A) and plots 6 and 7 series AA."
+943,Hoosfield,2006,All plots,26/04/2006,,applied N (34.5% N) to remainder,4,,,,,agronomic fertilization process,,,,,,,,N (34.5% N) to remainder
+956,Hoosfield,2007,All plots,13/11/2006,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+957,Hoosfield,2007,all plots,13/11/2006,,applied K as potassium sulphate,4,,"Plots 141 - 144, 241 - 244, 311 - 444, 551 - 582, 631 - 634",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"Sulphate of Potash - Plots 141 - 144, 241 - 244, 311 - 444, 551 - 582, 631 - 634"
+958,Hoosfield,2007,All plots,13/11/2006,,applied Mg as Kieserite,4,,plots 631 - 634,35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,Kieserite - Plots 631 - 634
+959,Hoosfield,2007,All plots,14/11/2006,,applied Si as sodium silicate,4,,"Plots 132 - 433. applied to plots 131 - 431, 134 - 434 in error",450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of Soda Plots 132 - 433. applied to plots 131 - 431, 134 - 434 in error"
+960,Hoosfield,2007,All plots,20/11/2006,,applied FYM,4,,"plots 721, 722, 723, 724, 731, 732, 733, 734",35,t/ha,agronomic fertilization process,,,,,,,,"Farm Yard Manure - plots 721, 722, 723, 724, 731, 732, 733, 734"
+964,Hoosfield,2007,All plots,05/04/2007,,applied Nitrochalk,4,,"plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",175,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+965,Hoosfield,2007,All plots,05/04/2007,,applied Nitrochalk,4,,"plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",349,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+966,Hoosfield,2007,All plots,05/04/2007,,applied Nitrochalk,4,,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+967,Hoosfield,2007,All plots,10/04/2007,,applied Nitrochalk,4,,"series 5, C and AA, and O&E's",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - series 5, C and AA, and O&E's"
+984,Hoosfield,2008,all plots,26/11/2007,,applied K as potassium sulphate,4,,"Plots 31 - 34, 41 - 44, 55, 56, 63",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"Sulphate of Potash - Plots 31 - 34, 41 - 44, 55, 56, 63"
+985,Hoosfield,2008,all plots,26/11/2007,,applied K as potassium sulphate,4,,"Plots 14, 24, 57, 58",180,kgK/ha,agronomic fertilization process,434,kg/ha,,,,,,"Sulphate of Potash - Plots 14, 24, 57, 58"
+986,Hoosfield,2008,All plots,29/11/2007,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of Soda, Plots 132, 133, 232, 233, 332, 333, 432, 433"
+990,Hoosfield,2008,All plots,28/04/2008,,applied Nitrochalk,4,,"plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",175,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+992,Hoosfield,2008,All plots,06/05/2008,,applied Nitrochalk,4,,"plots 131 - 444, 551 - 582, all O&E's",537,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 131 - 444, 551 - 582, all O&E's"
+1007,Hoosfield,2008,selected plots,26/11/2007,,applied Mg as Kieserite,4,,Plot 63,35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"Kieserite, Plot 63"
+1008,Hoosfield,2008,selected plots,26/11/2007,,applied P as triple superphosphate,4,,Plot 63,35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,Triple Superphosphate - Plot 63
+1009,Hoosfield,2008,selected plots,29/11/2007,,applied FYM,4,,"plots 721, 722, 723, 724, 731, 732, 733, 734",35,t/ha,agronomic fertilization process,,,,,,,,"Farm Yard Manure - plots 721, 722, 723, 724, 731, 732, 733, 734"
+1010,Hoosfield,2008,selected plots,28/04/2008,,applied Nitrochalk,4,,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",349,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1011,Hoosfield,2008,selected plots,28/04/2008,,applied Nitrochalk,4,,"plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1012,Hoosfield,2009,all plots,12/11/2008,,applied K as potassium sulphate,4,,"Plots 311 - 414, 321 - 424, 331 - 634, 142 - 444 (excluding 241), 551 - 582",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"Sulphate of Potash - Plots 311 - 414, 321 - 424, 331 - 634, 142 - 444 (excluding 241), 551 - 582"
+1013,Hoosfield,2009,All plots,12/11/2008,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1014,Hoosfield,2009,All plots,12/11/2008,,applied Mg as Kieserite,4,,plots 631 - 634,35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,Kieserite - Plots 631 - 634
+1015,Hoosfield,2009,All plots,14/11/2008,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"Silicate of Soda, Plots 132, 133, 232, 233, 332, 333, 432, 433"
+1016,Hoosfield,2009,All plots,10/12/2008,,applied FYM,4,,"plots 721, 722, 723, 724, 731, 732, 733, 734",35,l/ha,agronomic fertilization process,,,,,,,,"Farm Yard Manure - plots 721, 722, 723, 724, 731, 732, 733, 734"
+1023,Hoosfield,2009,All plots,22/04/2009,,applied Nitrochalk,4,,"plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",175,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1024,Hoosfield,2009,All plots,23/04/2009,,Nitram,4,,"Series AA, C and strip 5, headlands and O&E's",420,kg/ha,agronomic fertilization process,,,,,,,,"Nitram - Series AA, C and strip 5, headlands and O&E's"
+1043,Hoosfield,2009,selected plots,22/04/2009,,applied Nitrochalk,4,,"Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",349,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk, plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1044,Hoosfield,2009,selected plots,22/04/2009,,applied Nitrochalk,4,,"plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",524,kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk - plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1045,Hoosfield,2010,All plots,10/12/2009,,applied P as triple superphosphate,4,,,35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,Triple Superphosphate
+1046,Hoosfield,2010,all plots,10/12/2009,,applied Mg as Kieserite,4,,,35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,Kieserite
+1047,Hoosfield,2010,all plots,10/12/2009,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,Potassium Sulphate
+1048,Hoosfield,2010,All plots,16/12/2009,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,FYM
+1055,Hoosfield,2010,All plots,20/04/2010,,Nitrochalk,4,,main plots as indicated on plan,,,agronomic fertilization process,,,,,,,,Nitrochalk to the main plots as indicated on the plan
+1056,Hoosfield,2010,All plots,23/04/2010,,"Nitram Silicate Test, P Test, headlands & O&E's",4,,,420,kg/ha,agronomic fertilization process,,,,,,,,"Nitram Silicate Test, P Test, headlands & O&E's"
+1077,Hoosfield,2011,All plots,25/10/2010,,applied FYM,4,,"plots 721, 722, 723, 724, 731, 732, 733, 734 (Used 3600 kg)",35,t/ha,agronomic fertilization process,,,,,,,,"Spread FYM - Spread according to plan on plots 721, 722, 723, 724, 731, 732, 733, 734 (Used 3600 kg)"
+1078,Hoosfield,2011,All plots,25/10/2010,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1079,Hoosfield,2011,all plots,25/10/2010,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,Applied Sulphate of Potash - Applied according to plan
+1080,Hoosfield,2011,All plots,26/10/2010,,applied Mg as Kieserite,4,,"plots 634, 533, 632, 631",35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1081,Hoosfield,2011,All plots,01/11/2010,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1086,Hoosfield,2011,All plots,13/04/2011,,applied Nitrochalk,4,,,,,agronomic fertilization process,,,,,,,,applied Nitrochalk to N treatments
+1087,Hoosfield,2011,All plots,13/04/2011,,applied Nitram,4,,"Series AA, C and 5 only",420,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram - Series AA, C and 5 only"
+1106,Hoosfield,2012,All plots,24/11/2011,,applied Mg as Kieserite,4,,"plots 634, 533, 632, 631",35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1107,Hoosfield,2012,All plots,24/11/2011,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1108,Hoosfield,2012,all plots,24/11/2011,,applied K as potassium sulphate,4,,,90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,applied Sulphate of Potash as per plan.
+1109,Hoosfield,2012,All plots,28/11/2011,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1111,Hoosfield,2012,All plots,29/12/2011,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1117,Hoosfield,2012,All plots,23/04/2012,,applied Nitrochalk,4,,"by hand, to Plots 11, 12, 21, 22, 31, 32, 41, 42, 61, 62, 63, 71, 72, 73 (Main Plots)","0, 48, 96, 144",kg/ha,agronomic fertilization process,,,,,,,,"Nitrochalk applied by hand, to Plots 11, 12, 21, 22, 31, 32, 41, 42, 61, 62, 63, 71, 72, 73 (Main Plots)"
+1118,Hoosfield,2012,All plots,10/05/2012,,applied Nitram,4,,"by hand to Plots 13, 23, 33, 43, 44, 34, 24, 14, 55, 56, 57, 58 (Silicate & P Test Plots)",144,kg/ha,agronomic fertilization process,,,,,,,,"Nitram applied by hand to Plots 13, 23, 33, 43, 44, 34, 24, 14, 55, 56, 57, 58 (Silicate & P Test Plots)"
+1119,Hoosfield,2012,All plots,16/05/2012,,applied Nitram,4,,surrounding areas.,417,kg/ha,agronomic fertilization process,,,,,,,,Nitram applied to surrounding areas.
+1130,Hoosfield,2012,all plots,28/09/2012,,applied K as potassium sulphate,4,,"plots 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"Spread Sulphate of Potash as on sheet to plots 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5"
+1131,Hoosfield,2012,All plots,28/09/2012,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"Spread Fert Triple superphosphate as on sheet, sections 631 - 634"
+1132,Hoosfield,2012,All plots,01/10/2012,,applied Si as sodium silicate,4,,"plots 432 - 132, 433 - 133",450,kg/ha,agronomic fertilization process,,,,,,,,"Spread Soda Silicate onto plots 432 - 132, 433 - 133"
+1133,Hoosfield,2012,All plots,03/10/2012,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1137,Hoosfield,2012,All plots,28/09/2012,,applied Mg as Kieserite,4,,plots 631 - 634,35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,Spread Kieserite as on sheet sections 631 - 634
+1140,Hoosfield,2013,all plots,28/09/2012,,applied K as potassium sulphate,4,,"plots 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"Spread Fert Sulphate of potash as on sheet 631 - 634, 411 - 444, 311 - 344, 241 - 244, 141 - 144 & Strip 5"
+1141,Hoosfield,2013,All plots,28/09/2012,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"Spread Fert Triple superphosphate as on sheet, sections 631 - 634"
+1142,Hoosfield,2013,all plots,28/09/2012,,applied Mg as Kieserite,4,,plots 631 - 634,35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,Spread Kieserite as on sheet sections 631 - 634
+1143,Hoosfield,2013,All plots,01/10/2012,,applied Si as sodium silicate,4,,"plots 432 - 132, 433 - 133",450,kg/ha,agronomic fertilization process,,,,,,,,"Spread Soda Silicate onto plots 432 - 132, 433 - 133"
+1144,Hoosfield,2013,All plots,03/10/2012,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1149,Hoosfield,2013,All plots,01/05/2013,,applied Nitrochalk,4,,,178,kg/ha,agronomic fertilization process,,,,,,,,"N as Nitrochalk Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1150,Hoosfield,2013,All plots,01/05/2013,,applied Nitram,4,,"Plots: Series AA old plots, Series C and Strip 5, as per plan",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram - Plots: Series AA old plots, Series C and Strip 5, as per plan"
+1151,Hoosfield,2013,all plots,01/05/2013,,applied Nitrochalk,4,,"Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",356,kg/ha,agronomic fertilization process,,,,,,,,"N as Nitro-chalk - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1152,Hoosfield,2013,all plots,01/05/2013,,applied Nitrochalk,4,,"plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",533,kg/ha,agronomic fertilization process,,,,,,,,"N as Nitro-chalk - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1164,Hoosfield,2014,All plots,24/10/2013,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1165,Hoosfield,2014,all plots,24/10/2013,,applied K as potassium sulphate,4,,"Plots 634 - 631, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"applied Sulphate of potash - Plots 634 - 631, 551 - 582, 444 - 411, 344 - 311, 244 - 241, 144 - 141"
+1166,Hoosfield,2014,All plots,24/10/2013,,applied Mg as Kieserite,4,,"plots 634, 533, 632, 631",35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1168,Hoosfield,2014,All plots,03/12/2013,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1169,Hoosfield,2014,All plots,04/12/2013,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1177,Hoosfield,2014,All plots,30/04/2014,,applied Nitrochalk,4,,"by hand - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",48,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk by hand - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1178,Hoosfield,2014,All plots,30/04/2014,,applied Nitrochalk,4,,"by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1179,Hoosfield,2014,All plots,30/04/2014,,applied Nitrochalk,4,,"by hand - Plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk by hand - Plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+1180,Hoosfield,2014,All plots,30/04/2014,,applied Nitram @ 35% N,4,,"Plots 131 - 134, 141 - 144, 231 - 234, 241 - 244, 331 - 334, 341 - 344, 431 - 434, 441 - 444, 551 - 582",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram @ 35% N - Plots 131 - 134, 141 - 144, 231 - 234, 241 - 244, 331 - 334, 341 - 344, 431 - 434, 441 - 444, 551 - 582"
+1181,Hoosfield,2014,all plots,30/04/2014,,applied Nitrochalk,4,,"by hand - Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",0,kg/ha,agronomic fertilization process,,,,,,,,"Applied Nitrochalk by hand - Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1189,Hoosfield,2015,All plots,25/11/2014,,applied Mg as Kieserite,4,,"plots 634, 533, 632, 631",35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1190,Hoosfield,2015,All plots,25/11/2014,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1191,Hoosfield,2015,all plots,09/12/2014,,applied K as potassium sulphate,4,,"all series C, strip 5 and plots 311 - 334, 411 - 434, 631 - 634",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"applied Sulphate of potash onto all series C, strip 5 and plots 311 - 334, 411 - 434, 631 - 634"
+1192,Hoosfield,2015,All plots,16/12/2014,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1193,Hoosfield,2015,All plots,16/12/2014,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1201,Hoosfield,2015,All plots,13/05/2015,,applied Nitram @ 34.5% N,4,,"Old Series 5, Series C and Series AA (except plots 6 and 7)",144,kg/ha,agronomic fertilization process,,,,,,,,"applied N treatments (34.5% N) to Old Series 5, Series C and Series AA plots (except plots 6 and 7)"
+1202,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),4,,"by hand to plots 112, 123, 212, 23, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731",0,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 112, 123, 212, 23, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731"
+1203,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),4,,"by hand to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",480,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1204,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),4,,"by hand to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",96,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
+1205,Hoosfield,2015,All plots,13/05/2015,,applied Nitrochalk (27% N),4,,"by hand to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732",144,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk (27% N) by hand to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732"
+1220,Hoosfield,2016,All plots,28/10/2015,,applied P as triple superphosphate,4,,"plots 634, 633, 632, 631",35,kgP/ha,agronomic fertilization process,215,kg/ha,,,,,,"applied Triple Superphosphate - plots 634, 633, 632, 631"
+1221,Hoosfield,2016,All plots,28/10/2015,,applied Mg as Kieserite,4,,"plots 634, 533, 632, 631",35,kgMg/ha,agronomic fertilization process,233,kg/ha,,,,,,"applied Kieserite - plots 634, 533, 632, 631"
+1222,Hoosfield,2016,all plots,29/10/2015,,applied K as potassium sulphate,4,,"plots 634 - 631, 561 - 311, 551 - 411, 571 - 241, 581 - 141",90,kgK/ha,agronomic fertilization process,217,kg/ha,,,,,,"applied Sulphate of potash onto plots 634 - 631, 561 - 311, 551 - 411, 571 - 241, 581 - 141"
+1225,Hoosfield,2016,All plots,26/11/2015,,applied FYM,4,,,35,t/ha,agronomic fertilization process,,,,,,,,"applied FYM - plots 734, 733, 732, 731, 724, 723, 722, 721"
+1226,Hoosfield,2016,All plots,26/11/2015,,applied Si as sodium silicate,4,,"plots 433, 333, 233, 133, 432, 332, 232, 132",450,kg/ha,agronomic fertilization process,,,,,,,,"applied silicate of soda - plots 433, 333, 233, 133, 432, 332, 232, 132"
+1232,Hoosfield,2016,All plots,05/05/2016,,applied Nitram @ 34.5% N,4,,"Old Series 5, Series C and Series AA (except plots 6 and 7)",417,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitram @ 34.5% N to Old Series 5, Series C and Series AA (except plots 6 and 7)"
+1233,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,4,,"by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733",0,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733"
+1234,Hoosfield,2016,All plots,09/05/2016,,applied Nitrochalk,4,,"plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734",48,kg/ha,agronomic fertilization process,,,,,,,,"applied Nitrochalk to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734"
