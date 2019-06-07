@@ -1,115 +1,115 @@
-ID,Experiment,year,section,start date,end date,operation,flag,intensity,plots,amount,unit,operation type,water,water unit,tank mixture,method,variety,dressing,machine,original operation
-7,Hoosfield,1930,all plots,06/03/1930,,seed sown,2,,,,,seeding process,,,,,Spratt Archer,,,seed sown
-8,Hoosfield,1930,all plots,06/03/1930,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-20,Hoosfield,1931,all plots,17/03/1931,,seed sown,2,,,,,seeding process,,,,,Spratt Archer,,,seed sown
-21,Hoosfield,1931,all plots,17/03/1931,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-32,Hoosfield,1932,all plots,09/03/1932,10/03/1932,seed sown,2,,,,,seeding process,,,,,Spratt Archer,,,seed sown
-33,Hoosfield,1932,all plots,09/03/1932,10/03/1932,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-42,Hoosfield,1934,all plots,27/03/1934,28/03/1934,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-51,Hoosfield,1935,all plots,08/03/1935,09/03/1935,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-60,Hoosfield,1936,all plots,17/03/1936,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-74,Hoosfield,1937,all plots,07/04/1937,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-75,Hoosfield,1937,all plots,12/04/1937,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-86,Hoosfield,1938,all plots,25/02/1938,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-88,Hoosfield,1939,all plots,10/03/1939,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-90,Hoosfield,1940,all plots,12/03/1940,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-92,Hoosfield,1941,all plots,17/03/1941,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-94,Hoosfield,1942,all plots,29/03/1942,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-97,Hoosfield,1944,all plots,29/03/1944,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-100,Hoosfield,1945,all plots,09/03/1945,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-103,Hoosfield,1946,all plots,25/03/1946,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-106,Hoosfield,1947,all plots,17/04/1947,,seed sown,2,,,,,seeding process,,,,,Plumage Archer,,,seed sown
-115,Hoosfield,1948,all plots,31/03/1948,,seed drilled,2,,,,,seeding process,,,,,Plumage Archer,,,seed drilled
-130,Hoosfield,1949,all plots,24/03/1949,,seed drilled,2,,,,,seeding process,,,,,Plumage Archer,,,seed drilled
-145,Hoosfield,1950,all plots,24/03/1950,,seed drilled,2,,,,,seeding process,,,,,Plumage Archer,,,seed drilled 
-156,Hoosfield,1951,all plots,25/04/1951,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-164,HoosfieldBarley,1952,all plots,29/02/1952,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-173,HoosfieldBarley,1953,all plots,09/04/1953,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-180,HoosfieldBarley,1954,all plots,07/04/1954,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-195,HoosfieldBarley,1955,all plots,07/04/1955,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-203,HoosfieldBarley,1956,all plots,03/04/1956,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-209,HoosfieldBarley,1957,all plots,06/04/1957,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-218,HoosfieldBarley,1958,all plots,21/04/1958,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-226,HoosfieldBarley,1959,all plots,02/04/1959,,seed drilled,2,,,3,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-236,HoosfieldBarley,1960,all plots,07/04/1960,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-251,HoosfieldBarley,1961,all plots,12/04/1961,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-264,HoosfieldBarley,1962,all plots,11/04/1962,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-271,HoosfieldBarley,1963,all plots,24/04/1963,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-281,HoosfieldBarley,1964,all plots,10/04/1964,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-281,HoosfieldBarley,1964,all plots,10/04/1964,,seed drilled,2,,,2.75,bushels/acre,seeding process,,,,,Maris Badger,,,
-288,Hoosfield,1965,all plots,01/04/1965,,seed drilled,2,,,160,lb/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-288,Hoosfield,1965,all plots,01/04/1965,,seed drilled,2,,,160,lb/acre,seeding process,,,,,Maris Badger,,,
-297,HoosfieldBarley,1966,all plots,18/03/1966,,seed drilled,2,,,155,lb/acre,seeding process,,,,,Plumage Archer,,,seed drilled
-297,HoosfieldBarley,1966,all plots,18/03/1966,,seed drilled,2,,,155,lb/acre,seeding process,,,,,Maris Badger,,,
-313,Hoosfield,1968,barley,04/03/1968,,seed drilled,2,,,140,lb/acre,seeding process,,,,,Maris Badger,,,Seed drilled at 140 lb
-317,Hoosfield,1968,beans,04/03/1968,,seed drilled,2,,,200,lb/acre,seeding process,,,,,Maris Bead,innoculated with Rhizobium,,seed drilled
-322,Hoosfield,1968,potatoes,01/04/1968,,potatoes machine planted,2,,,,,seeding process,,,,,Majestic,,,
-336,Hoosfield,1969,barley,24/03/1969,,seed drilled,2,,,140,lb/acre,seeding process,,,,,Maris Badger,,,seed drilled
-341,Hoosfield,1969,beans,24/03/1969,,seed drilled,2,,,200,lb/acre,seeding process,,,,,Maris Bead,innoculated with Rhizobium,,seed drilled
-346,Hoosfield,1969,potatoes,10/04/1969,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",2,,,,,seeding process,,,,,King Edward,,,
-360,Hoosfield,1970,barley,20/03/1970,,seed drilled,2,,,140,lb/acre,seeding process,,,,,Julia,,,seed drilled
-366,Hoosfield,1970,beans,21/03/1970,,seed drilled,2,,,200,lb/acre,seeding process,,,,,Maris Bead,innoculated with Rhizobium,,seed drilled
-371,Hoosfield,1970,potatoes,30/04/1970,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",2,,,,,seeding process,,,,,King Edward,,,
-382,Hoosfield,1971,barley,24/02/1971,,seed drilled,2,,,157,kg/ha,seeding process,,,,,Julia,,,seed drilled
-390,Hoosfield,1971,beans,24/02/1971,,seed drilled,2,,,224,kg/ha,seeding process,,,,,Maris Bead,,,seed drilled
-395,Hoosfield,1971,potatoes,02/04/1971,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",2,,,,,seeding process,,,,,King Edward,,,
-408,Hoosfield,1972,barley,15/03/1972,,seed drilled,2,,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed drilled
-411,Hoosfield,1972,beans,16/03/1972,,seed drilled,2,,,220,kg/ha,seeding process,,,,,Maris Bead,,,seed drilled
-415,Hoosfield,1972,potatoes,19/04/1972,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",2,,,,,seeding process,,,,,King Edward,,,
-430,Hoosfield,1973,barley,08/03/1973,,seed sown,2,,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown
-433,Hoosfield,1973,beans,08/03/1973,,seed sown,2,,,220,kg/ha,seeding process,,,,,Maris Bead,,,seed sown
-436,Hoosfield,1973,potatoes,06/04/1973,,"potatoes planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",2,,,,,seeding process,,,,,King Edward,,,potatoes planted
-453,Hoosfield,1974,barley,26/03/1974,,seed sown,2,,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,
-457,Hoosfield,1974,beans,27/03/1974,,seed sown,2,,,220,kg/ha,seeding process,,,,,Maris Bead,,,seed sown and springtine cultivated
-462,Hoosfield,1974,potatoes,17/04/1974,,seed machine planted,2,,,,,seeding process,,,,,King Edward,,,
-476,Hoosfield,1975,barley,25/02/1975,,seed sown,2,,,160,kg/ha,seeding process,,,,,Julia,,,
-480,Hoosfield,1975,beans,25/03/1975,,seed sown,2,,,220,kg/ha,seeding process,,,,,Minor,,,
-486,Hoosfield,1975,potatoes,07/05/1975,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",2,,,,,seeding process,,,,,King Edward,,,
-504,Hoosfield,1976,barley,01/03/1976,,seed sown,2,,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown
-509,Hoosfield,1976,beans,04/03/1976,,seed sown,2,,,220,kg/ha,seeding process,,,,,Minden,,,seed sown
-514,Hoosfield,1976,potatoes,29/03/1976,,seed machine planted,2,,,,,seeding process,,,,,Pentland Crown.,,,
-527,Hoosfield,1977,barley,08/03/1977,,seed sown,2,,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown
-532,Hoosfield,1977,beans,09/03/1977,,seed sown,2,,,220,kg/ha,seeding process,,,,,Minden,,,seed sown
-538,Hoosfield,1977,potatoes,19/04/1977,,potatoes planted,2,,,,,seeding process,,,,,Pentland Crown.,,,
-557,Hoosfield,1978,barley,22/03/1978,,seed sown,2,,"except 'Form of N 1852-1966, N, C' plots and 'extra' plots",160,kg/ha,seeding process,,,,,Julia,ethirimol,,"seed sown (except 'Form of N 1852-1966, N, C' plots and 'extra' plots)"
-558,Hoosfield,1978,barley,30/03/1978,,seed sown on remaining plots,2,,,160,kg/ha,seeding process,,,,,Julia,ethirimol,,seed sown on remaining plots
-562,Hoosfield,1978,beans,30/03/1978,,seed sown,2,,,220,kg/ha,seeding process,,,,,Minden,,,seed sown
-570,Hoosfield,1978,potatoes,12/05/1978,,potatoes planted,2,,,,,seeding process,,,,,Pentland Crown,,,
-583,Hoosfield,1979,all plots,06/04/1979,,seed sown,2,,,160,kg/ha,seeding process,,,,,Julia,,,
-592,Hoosfield,1980,all plots,17/02/1980,,seed sown,2,,,160,kg/ha,seeding process,,,,,Georgie,,,
-602,Hoosfield,1981,all plots,17/02/1981,,seed sown,2,,,160,kg/ha,seeding process,,,,,Georgie,,,seed sown
-613,Hoosfield,1982,all plots,29/03/1982,,seed sown,2,,,160,kg/ha,seeding process,,,,,Georgie,ethirimol,,seed sown
-623,Hoosfield,1983,all plots,09/03/1983,,seed sown,2,,,160,kg/ha,seeding process,,,,,Georgie,ethirimol,,seed sown
-632,Hoosfield,1984,all plots,08/03/1984,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,seed sown
-643,Hoosfield,1985,all plots,13/03/1985,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
-651,Hoosfield,1986,all plots,17/03/1986,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
-659,Hoosfield,1987,all plots,16/03/1987,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
-666,Hoosfield,1988,all plots,22/02/1988,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
-678,Hoosfield,1989,all plots,07/02/1989,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,flutriafol ethirimol and thiabendazole,,
-707,Hoosfield,2017,all plots,15/03/2017,,drilled,2,,,350,seeds/m2,seeding process,,,,,KWS Irina,Raxil Star,,"drilled KWS Irina, dressed With Raxil Star"
-724,Hoosfield,1990,all plots,05/03/1990,,seed sown,2,,,160,kg/ha,seeding process,,,,,Triumph,triadimenol and fuberidazole,,
-736,Hoosfield,1992,all plots,26/02/1992,,drilled,2,,,150,kg/ha,seeding process,,,,,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
-749,Hoosfield,1993,all plots,04/03/1993,,drilled,2,,,350,seeds/m2,seeding process,,,,,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
-760,Hoosfield,1994,all plots,14/03/1994,,drilled,2,,,350,seeds/m2,seeding process,,,,,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
-776,Hoosfield,1995,all plots,16/03/1995,,drilled,2,,,350,seeds/m2,seeding process,,,,,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
-788,Hoosfield,1996,all plots,15/03/1996,,drilled,2,,,350,seeds/m2,seeding process,,,,,Cooper,Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
-803,Hoosfield,1997,all plots,11/03/1997,,drilled,2,,,350,seeds/m2,seeding process,,,,,Cooper,Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
-819,Hoosfield,1998,all plots,05/02/1998,,drilled,2,,,350,seeds/m2,seeding process,,,,,Cooper,Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
-832,Hoosfield,1999,all plots,12/02/1999,,drilled,2,,,350,seeds/m2,seeding process,,,,,Cooper,Raxil S,,"drilled Cooper, dressed Raxil S"
-844,Hoosfield,2000,all plots,06/03/2000,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
-856,Hoosfield,2001,all plots,30/03/2001,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
-868,Hoosfield,2002,all plots,18/02/2002,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
-884,Hoosfield,2003,all plots,20/02/2003,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
-906,Hoosfield,2004,all plots,12/02/2004,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
-922,Hoosfield,2005,all plots,19/02/2005,,combination drilled,2,,,375,seeds/m2,seeding process,,,,,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
-939,Hoosfield,2006,all plots,03/02/2006,,combination drilled,2,,,375,seeds/m2,seeding process,,,,,Optic,Raxil Pro,Accord drill,"combination drilled, Optic, dressed Raxil Pro, with the Accord drill"
-962,Hoosfield,2007,all plots,02/02/2007,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Optic,Raxil Pro,,"Optic, dressed Raxil Pro"
-1005,Hoosfield,2008,all plots,04/03/2008,,combination drilled,2,,,350,seeds/m2,seeding process,,,,,Tipple,Raxil Pro,,"Tipple, dressed Raxil Pro"
-1019,Hoosfield,2009,all plots,25/02/2009,,combination drilled,2,,,,,seeding process,,,,,Tipple,Raxil pro,,"combination drilled Tipple, dressed Raxil pro"
-1051,Hoosfield,2010,all plots,11/03/2010,,combination drilled (170 kg/ha),2,,,350,seeds/m2,seeding process,,,,,Tipple,,,Tipple - 170 kg/ha
-1083,Hoosfield,2011,all plots,07/02/2011,,drilled (189 kg/ha),2,,,350,seeds/m2,seeding process,,,,,Tipple,Beret Multi,,drilled Tipple Sp. Barley trt Beret Multi - 189 kg/ha
-1112,Hoosfield,2012,all plots,27/02/2012,,drilled,2,,,164,kg/ha,seeding process,,,,,Tipple,Beret Multi,,drilled Tipple Sp. Barley tr Beret Multi
-1146,Hoosfield,2013,all plots,01/03/2013,,drilled,2,,,350,seeds/m2,seeding process,,,,,Tipple,,,Driling W Barley var Tipple
-1175,Hoosfield,2014,all plots,14/03/2014,,drilled,2,,,350,seeds/m2,seeding process,,,,,Tipple,,,Drilled Spring Barley - var. Tipple
-1198,Hoosfield,2015,all plots,06/03/2015,,drilled,2,,,350,seeds/m2,seeding process,,,,,Tipple,,,drilled Tipple Barley
-1229,Hoosfield,2016,all plots,29/02/2016,,drilled,2,,,350,seeds/m2,seeding process,,,,,"KWS Irina,",Raxil Star,,"drilled KWS Irina, dressed Raxil Star"
+Experiment,year,start date,end date,operation,operation type,section,amount,unit,crop,variety,dressing,machine,original operation
+R/HB/2,1930,06/03/1930,,seed sown,seeding process,all plots,,,spring barley,Spratt Archer,,,seed sown
+R/HB/2,1930,06/03/1930,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1931,17/03/1931,,seed sown,seeding process,all plots,,,spring barley,Spratt Archer,,,seed sown
+R/HB/2,1931,17/03/1931,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1932,09/03/1932,10/03/1932,seed sown,seeding process,all plots,,,spring barley,Spratt Archer,,,seed sown
+R/HB/2,1932,09/03/1932,10/03/1932,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1934,27/03/1934,28/03/1934,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1935,08/03/1935,09/03/1935,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1936,17/03/1936,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1937,07/04/1937,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1937,12/04/1937,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1938,25/02/1938,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1939,10/03/1939,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1940,12/03/1940,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1941,17/03/1941,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1942,29/03/1942,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1944,29/03/1944,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1945,09/03/1945,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1946,25/03/1946,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1947,17/04/1947,,seed sown,seeding process,all plots,,,spring barley,Plumage Archer,,,seed sown
+R/HB/2,1948,31/03/1948,,seed drilled,seeding process,all plots,,,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1949,24/03/1949,,seed drilled,seeding process,all plots,,,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1950,24/03/1950,,seed drilled,seeding process,all plots,,,spring barley,Plumage Archer,,,seed drilled 
+R/HB/2,1951,25/04/1951,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1952,29/02/1952,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1953,09/04/1953,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1954,07/04/1954,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1955,07/04/1955,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1956,03/04/1956,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1957,06/04/1957,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1958,21/04/1958,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1959,02/04/1959,,seed drilled,seeding process,all plots,3,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1960,07/04/1960,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1961,12/04/1961,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1962,11/04/1962,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1963,24/04/1963,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1964,10/04/1964,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1964,10/04/1964,,seed drilled,seeding process,all plots,2.75,bushels/acre,spring barley,Maris Badger,,,
+R/HB/2,1965,01/04/1965,,seed drilled,seeding process,all plots,160,lb/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1965,01/04/1965,,seed drilled,seeding process,all plots,160,lb/acre,spring barley,Maris Badger,,,
+R/HB/2,1966,18/03/1966,,seed drilled,seeding process,all plots,155,lb/acre,spring barley,Plumage Archer,,,seed drilled
+R/HB/2,1966,18/03/1966,,seed drilled,seeding process,all plots,155,lb/acre,spring barley,Maris Badger,,,
+R/HB/2,1968,04/03/1968,,seed drilled,seeding process,barley,140,lb/acre,spring barley,Maris Badger,,,Seed drilled at 140 lb
+R/HB/2,1968,04/03/1968,,seed drilled,seeding process,beans,200,lb/acre,beans,Maris Bead,innoculated with Rhizobium,,seed drilled
+R/HB/2,1968,01/04/1968,,potatoes machine planted,seeding process,potatoes,,,potatoes,Majestic,,,
+R/HB/2,1969,24/03/1969,,seed drilled,seeding process,barley,140,lb/acre,spring barley,Maris Badger,,,seed drilled
+R/HB/2,1969,24/03/1969,,seed drilled,seeding process,beans,200,lb/acre,beans,Maris Bead,innoculated with Rhizobium,,seed drilled
+R/HB/2,1969,10/04/1969,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",seeding process,potatoes,,,potatoes,King Edward,,,
+R/HB/2,1970,20/03/1970,,seed drilled,seeding process,barley,140,lb/acre,spring barley,Julia,,,seed drilled
+R/HB/2,1970,21/03/1970,,seed drilled,seeding process,beans,200,lb/acre,beans,Maris Bead,innoculated with Rhizobium,,seed drilled
+R/HB/2,1970,30/04/1970,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",seeding process,potatoes,,,potatoes,King Edward,,,
+R/HB/2,1971,24/02/1971,,seed drilled,seeding process,barley,157,kg/ha,spring barley,Julia,,,seed drilled
+R/HB/2,1971,24/02/1971,,seed drilled,seeding process,beans,224,kg/ha,beans,Maris Bead,,,seed drilled
+R/HB/2,1971,02/04/1971,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",seeding process,potatoes,,,potatoes,King Edward,,,
+R/HB/2,1972,15/03/1972,,seed drilled,seeding process,barley,160,kg/ha,spring barley,Julia,ethirimol,,seed drilled
+R/HB/2,1972,16/03/1972,,seed drilled,seeding process,beans,220,kg/ha,beans,Maris Bead,,,seed drilled
+R/HB/2,1972,19/04/1972,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",seeding process,potatoes,,,potatoes,King Edward,,,
+R/HB/2,1973,08/03/1973,,seed sown,seeding process,barley,160,kg/ha,spring barley,Julia,ethirimol,,seed sown
+R/HB/2,1973,08/03/1973,,seed sown,seeding process,beans,220,kg/ha,beans,Maris Bead,,,seed sown
+R/HB/2,1973,06/04/1973,,"potatoes planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",seeding process,potatoes,,,potatoes,King Edward,,,potatoes planted
+R/HB/2,1974,26/03/1974,,seed sown,seeding process,barley,160,kg/ha,spring barley,Julia,ethirimol,,
+R/HB/2,1974,27/03/1974,,seed sown,seeding process,beans,220,kg/ha,beans,Maris Bead,,,seed sown and springtine cultivated
+R/HB/2,1974,17/04/1974,,seed machine planted,seeding process,potatoes,,,potatoes,King Edward,,,
+R/HB/2,1975,25/02/1975,,seed sown,seeding process,barley,160,kg/ha,spring barley,Julia,,,
+R/HB/2,1975,25/03/1975,,seed sown,seeding process,beans,220,kg/ha,beans,Minor,,,
+R/HB/2,1975,07/05/1975,,"potatoes machine planted. Once grown, chitted from Rothamsted Farm, paracrinkle virus free.",seeding process,potatoes,,,potatoes,King Edward,,,
+R/HB/2,1976,01/03/1976,,seed sown,seeding process,barley,160,kg/ha,spring barley,Julia,ethirimol,,seed sown
+R/HB/2,1976,04/03/1976,,seed sown,seeding process,beans,220,kg/ha,beans,Minden,,,seed sown
+R/HB/2,1976,29/03/1976,,seed machine planted,seeding process,potatoes,,,potatoes,Pentland Crown.,,,
+R/HB/2,1977,08/03/1977,,seed sown,seeding process,barley,160,kg/ha,spring barley,Julia,ethirimol,,seed sown
+R/HB/2,1977,09/03/1977,,seed sown,seeding process,beans,220,kg/ha,beans,Minden,,,seed sown
+R/HB/2,1977,19/04/1977,,potatoes planted,seeding process,potatoes,,,potatoes,Pentland Crown.,,,
+R/HB/2,1978,22/03/1978,,seed sown,seeding process,"barley except 'Form of N 1852-1966, N, C' plots and 'extra' plots",160,kg/ha,"barley except 'Form of N 1852-1966, N, C' plots and 'extra' plots",Julia,ethirimol,,"seed sown (except 'Form of N 1852-1966, N, C' plots and 'extra' plots)"
+R/HB/2,1978,30/03/1978,,seed sown on remaining plots,seeding process,barley,160,kg/ha,spring barley,Julia,ethirimol,,seed sown on remaining plots
+R/HB/2,1978,30/03/1978,,seed sown,seeding process,beans,220,kg/ha,beans,Minden,,,seed sown
+R/HB/2,1978,12/05/1978,,potatoes planted,seeding process,potatoes,,,potatoes,Pentland Crown,,,
+R/HB/2,1979,06/04/1979,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Julia,,,
+R/HB/2,1980,17/02/1980,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Georgie,,,
+R/HB/2,1981,17/02/1981,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Georgie,,,seed sown
+R/HB/2,1982,29/03/1982,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Georgie,ethirimol,,seed sown
+R/HB/2,1983,09/03/1983,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Georgie,ethirimol,,seed sown
+R/HB/2,1984,08/03/1984,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,triadimenol and fuberidazole,,seed sown
+R/HB/2,1985,13/03/1985,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,triadimenol and fuberidazole,,
+R/HB/2,1986,17/03/1986,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,triadimenol and fuberidazole,,
+R/HB/2,1987,16/03/1987,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,triadimenol and fuberidazole,,
+R/HB/2,1988,22/02/1988,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,triadimenol and fuberidazole,,
+R/HB/2,1989,07/02/1989,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,flutriafol ethirimol and thiabendazole,,
+R/HB/2,2017,15/03/2017,,drilled,seeding process,all plots,350,seeds/m2,spring barley,KWS Irina,Raxil Star,,"drilled KWS Irina, dressed With Raxil Star"
+R/HB/2,1990,05/03/1990,,seed sown,seeding process,all plots,160,kg/ha,spring barley,Triumph,triadimenol and fuberidazole,,
+R/HB/2,1992,26/02/1992,,drilled,seeding process,all plots,150,kg/ha,spring barley,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
+R/HB/2,1993,04/03/1993,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
+R/HB/2,1994,14/03/1994,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
+R/HB/2,1995,16/03/1995,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Alexis,Baytan,,"drilled Alexis, dressed Baytan"
+R/HB/2,1996,15/03/1996,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Cooper,Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
+R/HB/2,1997,11/03/1997,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Cooper,Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
+R/HB/2,1998,05/02/1998,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Cooper,Baytan Flowable,,"drilled Cooper, dressed Baytan Flowable"
+R/HB/2,1999,12/02/1999,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Cooper,Raxil S,,"drilled Cooper, dressed Raxil S"
+R/HB/2,2000,06/03/2000,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+R/HB/2,2001,30/03/2001,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+R/HB/2,2002,18/02/2002,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+R/HB/2,2003,20/02/2003,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+R/HB/2,2004,12/02/2004,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+R/HB/2,2005,19/02/2005,,combination drilled,seeding process,all plots,375,seeds/m2,spring barley,Optic,Raxil S,Accord drill,"combination drilled, Optic, dressed Raxil S, with the Accord drill"
+R/HB/2,2006,03/02/2006,,combination drilled,seeding process,all plots,375,seeds/m2,spring barley,Optic,Raxil Pro,Accord drill,"combination drilled, Optic, dressed Raxil Pro, with the Accord drill"
+R/HB/2,2007,02/02/2007,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Optic,Raxil Pro,,"Optic, dressed Raxil Pro"
+R/HB/2,2008,04/03/2008,,combination drilled,seeding process,all plots,350,seeds/m2,spring barley,Tipple,Raxil Pro,,"Tipple, dressed Raxil Pro"
+R/HB/2,2009,25/02/2009,,combination drilled,seeding process,all plots,,,spring barley,Tipple,Raxil pro,,"combination drilled Tipple, dressed Raxil pro"
+R/HB/2,2010,11/03/2010,,combination drilled (170 kg/ha),seeding process,all plots,350,seeds/m2,spring barley,Tipple,,,Tipple - 170 kg/ha
+R/HB/2,2011,07/02/2011,,drilled (189 kg/ha),seeding process,all plots,350,seeds/m2,spring barley,Tipple,Beret Multi,,drilled Tipple Sp. Barley trt Beret Multi - 189 kg/ha
+R/HB/2,2012,27/02/2012,,drilled,seeding process,all plots,164,kg/ha,spring barley,Tipple,Beret Multi,,drilled Tipple Sp. Barley tr Beret Multi
+R/HB/2,2013,01/03/2013,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Tipple,,,Driling W Barley var Tipple
+R/HB/2,2014,14/03/2014,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Tipple,,,Drilled Spring Barley - var. Tipple
+R/HB/2,2015,06/03/2015,,drilled,seeding process,all plots,350,seeds/m2,spring barley,Tipple,,,drilled Tipple Barley
+R/HB/2,2016,29/02/2016,,drilled,seeding process,all plots,350,seeds/m2,spring barley,"KWS Irina,",Raxil Star,,"drilled KWS Irina, dressed Raxil Star"

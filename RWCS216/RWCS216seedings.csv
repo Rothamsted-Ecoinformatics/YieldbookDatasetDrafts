@@ -1,17 +1,17 @@
-year,experiment,start date,end date,operation,plot,type,amount,rate,crop,variety,dressing
-1978,R/CS/216,11/03/1978,,seed sown,,seeding process,160,kg/ha,barley,Porthos,Ethirimol
-1978,W/CS/216,09/03/1978,,seed sown,,seeding process,160,kg/ha,barley,Porthos,Ethirimol
-1979,R/CS/216,23/04/1979,,seed sown,,seeding process,220,kg/ha,beans,Minden,
-1979,W/CS/216,19/04/1979,,seed sown,,seeding process,220,kg/ha,beans,Minden,
-1980,R/CS/216,05/03/1980,,seed sown,,seeding process,,,spring barley,,
-1980,W/CS/216,04/03/1980,,seed sown,,seeding process,,,spring barley,,
-1981,R/CS/216,13/04/1981,,seed sown,,seeding process,160,kg/ha,spring barley,Georgie,Ethirimol
-1981,W/CS/216,27/02/1981,,seed sown,,seeding process,160,kg/ha,spring barley,Georgie,Ethirimol
-1982,R/CS/216,05/04/1982,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,Ethirimol
-1982,W/CS/216,27/03/1982,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,ethirimol
-1983,R/CS/216,18/03/1983,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,Ethirimol
-1983,W/CS/216,09/03/1983,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,Ethirimol
-1984,R/CS/216,19/03/1984,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole"
-1984,W/CS/216,09/03/1984,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole"
-1985,R/CS/216,18/03/1985,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole"
-1985,W/CS/216,14/03/1985,,seed sown,,seeding process,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole"
+experiment,year,start date,end date,operation,type,plot,amount,rate,crop,variety,dressing,method
+R/CS/216,1978,11/03/1978,,seed sown,seeding process,,160,kg/ha,barley,Porthos,Ethirimol,
+W/CS/216,1978,09/03/1978,,seed sown,seeding process,,160,kg/ha,barley,Porthos,Ethirimol,
+R/CS/216,1979,23/04/1979,,seed sown,seeding process,,220,kg/ha,beans,Minden,,
+W/CS/216,1979,19/04/1979,,seed sown,seeding process,,220,kg/ha,beans,Minden,,
+R/CS/216,1980,05/03/1980,,seed sown,seeding process,,,,spring barley,,,
+W/CS/216,1980,04/03/1980,,seed sown,seeding process,,,,spring barley,,,
+R/CS/216,1981,13/04/1981,,seed sown,seeding process,,160,kg/ha,spring barley,Georgie,Ethirimol,
+W/CS/216,1981,27/02/1981,,seed sown,seeding process,,160,kg/ha,spring barley,Georgie,Ethirimol,
+R/CS/216,1982,05/04/1982,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,Ethirimol,
+W/CS/216,1982,27/03/1982,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,ethirimol,
+R/CS/216,1983,18/03/1983,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,Ethirimol,
+W/CS/216,1983,09/03/1983,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,Ethirimol,
+R/CS/216,1984,19/03/1984,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole",
+W/CS/216,1984,09/03/1984,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole",
+R/CS/216,1985,18/03/1985,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole",
+W/CS/216,1985,14/03/1985,,seed sown,seeding process,,160,kg/ha,spring barley,Triumph,"triadimenol, fuberidazole",

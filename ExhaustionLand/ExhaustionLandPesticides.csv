@@ -1,0 +1,369 @@
+Experiment,year,section,new start date,new end date,operation,intensity,plots,flag,operation type,amount,unit,water,water unit,crop,variety,dressing,machine,method
+Exhaustion Land,1953,all plots,26/05/1953,,M.C.P.A.,,,4,chemical pest control process,2,lb/acre,,,,,,,sprayed
+Exhaustion Land,1955,all plots,51/03/1955,,M.C.P.A.,,,4,chemical pest control process,2.5,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1956,all plots,17/05/1956,,M.C.P.A.,,,4,chemical pest control process,3,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1957,fallowed section,04/05/1957,,TCA,,,4,chemical pest control process,20,lb/acre,80,gallons/acre,,,,,sprayed
+Exhaustion Land,1957,fallowed section,07/06/1957,,TCA,,,4,chemical pest control process,20,lb/acre,80,gallons/acre,,,,,sprayed
+Exhaustion Land,1957,potatoes - eastern half,03/08/1957,,copper fungicide,,,4,chemical pest control process,5,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1957,potatoes - eastern half,21/08/1957,,copper fungicide,,,4,chemical pest control process,5,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1957,sugar beet - eastern half,29/05/1957,,miscible DDT,,,4,chemical pest control process,3,pints/acre,20,gallons/acre,,,,,sprayed
+Exhaustion Land,1957,sugar beet - eastern half,09/07/1957,,demeton methyl,,,4,chemical pest control process,12,fluid oz/acre,80,gallons/acre,,,,,sprayed
+Exhaustion Land,1958,barley - western half,28/05/1958,,CMPP,,,4,chemical pest control process,6,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1958,potatoes - eastern half,12/07/1958,,copper fungicide,,,4,chemical pest control process,5,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1958,potatoes - eastern half,06/08/1958,,copper fungicide with 1 pint spreader,,,4,chemical pest control process,3,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1958,potatoes - eastern half,16/08/1958,,copper fungicide with 1 pint spreader,,,4,chemical pest control process,3,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1958,sugar beet - eastern half,07/07/1958,,demeton methyl,,,4,chemical pest control process,12,fluid oz/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1959,all plots,27/05/1959,,CMPP,,,4,chemical pest control process,4,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1960,all plots,02/09/1959,,dalapon,,,4,chemical pest control process,4,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1960,all plots,25/05/1960,,CMPP,,,4,chemical pest control process,6,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1960,all plots,26/08/19659,,dalapon,,,4,chemical pest control process,8,lb/acre,20,gallons/acre,,,,,sprayed
+Exhaustion Land,1961,all plots,12/10/1960,,dalapon,,,4,chemical pest control process,10,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1961,all plots,14/11/1960,,dalapon,,,4,chemical pest control process,5,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1961,all plots,19/05/1961,,CMPP,,,4,chemical pest control process,6,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1962,all plots,08/09/1961,,dalapon,,Plots 5 and 6 and part of 2 ,4,chemical pest control process,8,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1962,all plots,27/09/1961,,dalapon,,,4,chemical pest control process,4,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1962,all plots,04/06/1962,,MCPA/TBA,,,4,chemical pest control process,4,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1963,all plots,27/09/1962,,dalapon,,,4,chemical pest control process,7.4,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1963,all plots,16/10/1962,,dalapon,,,4,chemical pest control process,3.7,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1963,all plots,11/06/1963,,MCPA/TBA,,,4,chemical pest control process,4,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1964,all plots,25/09/1963,,dalapon,,,4,chemical pest control process,5.9,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1964,all plots,14/10/1963,,dalapon,,,4,chemical pest control process,5.9,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1964,all plots,27/03/1964,,"mecoprop/2,4-D (Methoxone extra",,,4,chemical pest control process,6,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1965,all plots,22/05/1965,,M.C.P.A.,,,4,chemical pest control process,1.13,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1965,all plots,22/05/1965,,dicamba,,,4,chemical pest control process,0.08,lb/acre,,,,,,,
+Exhaustion Land,1966,all plots,18/10/1965,,dalapon,,,4,chemical pest control process,8.9,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1966,all plots,27/05/1966,,"mecoprop/2,4-D (Methoxone extra",,,4,chemical pest control process,6,pints/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1967,all plots,16/09/1966,,dalapon,,,4,chemical pest control process,11,lb/acre,40,gallons/acre,,,,,sprayed
+Exhaustion Land,1968,all plots,17/05/1968,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,4,pints/acre,32,gallons/acre,,,,,sprayed
+Exhaustion Land,1969,all plots,01/10/1968,,paraquat,,,4,chemical pest control process,0.5,lb/acre,25,gallons/acre,,Maris Badger,,,sprayed
+Exhaustion Land,1969,all plots,23/05/1969,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,4,pints/acre,20,gallons/acre,,,,,sprayed
+Exhaustion Land,1970,all plots,18/09/1969,,paraquat,,,4,chemical pest control process,0.5,lb/acre,20,gallons/acre,,,,,sprayed
+Exhaustion Land,1970,all plots,26/05/1970,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,4,pints/acre,20,gallons/acre,,,,,sprayed
+Exhaustion Land,1971,all plots,11/05/1971,,"ioxynil octanoate bromoxynil octanoate, the iso-octyl ester of dichlorprop (Oxytril P",,,4,chemical pest control process,1.4,l/ha,225,l/ha,,,,,sprayed
+Exhaustion Land,1972,all plots,10/09/1971,,aminotriazole,,,4,chemical pest control process,4.5,kg/ha,220,l/ha,,,,,sprayed
+Exhaustion Land,1972,all plots,10/09/1971,,ammonium thiocyanate,,,4,chemical pest control process,4.1,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1972,all plots,18/05/1972,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,5.6,l/ha,220,l/ha,,,,,sprayed
+Exhaustion Land,1973,all plots,18/05/1973,,"Dicamba, mecoprop, MCPA as tetralex plus",,,4,chemical pest control process,7,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,1974,all plots,12/09/1973,,aminotriazole,,,4,chemical pest control process,4.5,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1974,all plots,12/09/1973,,ammonium thiocyanate,,,4,chemical pest control process,4.1,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1974,all plots,21/05/1974,,"Dicamba, mecoprop, MCPA as tetralex plus",,,4,chemical pest control process,7,l/ha,220,l/ha,,,,,
+Exhaustion Land,1976,all plots,28/05/1976,,"Dicamba, mecoprop, MCPA as tetralex plus",,,4,chemical pest control process,7,l/ha,220,l/ha,,,,,
+Exhaustion Land,1977,all plots,24/05/1977,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,4.2,l/ha,220,l/ha,,,,,
+Exhaustion Land,1978,all plots,26/05/1978,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,4.9,l/ha,220,l/ha,,,,,
+Exhaustion Land,1978,all plots,26/05/1978,,tridemorph,,,4,chemical pest control process,5.3,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1979,all plots,15/06/1979,,"bromoxynil, ioxynil as Oxytril CM",,,4,chemical pest control process,1.4,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1979,all plots,18/06/1979,,tridemorph,,,4,chemical pest control process,5.3,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1980,all plots,27/09/1979,,glyphosate,,,4,chemical pest control process,1.5,l/ha,220,l/ha,,,,,
+Exhaustion Land,1980,all plots,09/06/1980,,"Mecoprop, bromoxynil, ioxynil, linuron, xylene as Springclene",,,4,chemical pest control process,3.5,l/ha,250,l/ha,,,,,
+Exhaustion Land,1980,all plots,09/06/1980,,tridemorph,,,4,chemical pest control process,5.3,kg/ha,250,l/ha,,,,,
+Exhaustion Land,1981,all plots,30/05/1981,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,5,l/ha,220,l/ha,,,,,
+Exhaustion Land,1981,all plots,30/05/1981,,tridemorph,,,4,chemical pest control process,5.3,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1982,all plots,27/10/1981,,glyphosate,,,4,chemical pest control process,1.4,kg/ha,250,l/ha,,,,,
+Exhaustion Land,1982,all plots,26/05/1982,,"Dicamba, mecoprop, MCPA as Banlene plus",,,4,chemical pest control process,5,l/ha,250,l/ha,,,,,
+Exhaustion Land,1982,all plots,26/05/1982,,tridemorph,,,4,chemical pest control process,5.3,kg/ha,250,l/ha,,,,,
+Exhaustion Land,1983,all plots,28/10/1982,,glyphosate,,,4,chemical pest control process,1.4,kg/ha,250,l/ha,,,,,
+Exhaustion Land,1983,all plots,08/06/1983,,"Dicamba, Mecoprop, MCPA as Herrisol",,,4,chemical pest control process,5,l/ha,500,l/ha,,,,,
+Exhaustion Land,1983,all plots,08/06/1983,,tridemorph,,,4,chemical pest control process,5.2,kg/ha,500,l/ha,,,,,
+Exhaustion Land,1984,all plots,25/05/1984,,"3, 6-dichloropicolinic acid",,,4,chemical pest control process,0.07,kg/ha,500,l/ha,,,,,
+Exhaustion Land,1984,all plots,25/05/1984,,bromoxynil,,,4,chemical pest control process,0.34,kg/ha,,,,,,,
+Exhaustion Land,1984,all plots,25/05/1984,,mecoprop as CMPP,,,4,chemical pest control process,4.2,l/ha,,,,,,,
+Exhaustion Land,1984,all plots,06/06/1984,,tridemorph,,,4,chemical pest control process,5.2,kg/ha,220,l/ha,,,,,
+Exhaustion Land,1985,all plots,10/06/1985,,clopyralid,,,4,chemical pest control process,0.1,kg/ha,500,l/ha,,,,,
+Exhaustion Land,1985,all plots,10/06/1985,,"bromoxynil, ioxynil as Deloxil",,,4,chemical pest control process,0.7,l/ha,,,,,,,
+Exhaustion Land,1985,all plots,28/06/1985,,tridemorph,,,4,chemical pest control process,5.2,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1986,all plots,02/06/1986,,clopyralid,,,4,chemical pest control process,0.1,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1986,all plots,02/06/1986,,bromoxynil octanoate,,,4,chemical pest control process,0.24,kg/ha,,,,,,,
+Exhaustion Land,1986,all plots,02/06/1986,,mecoprop,,,4,chemical pest control process,2.1,kg/ha,,,,,,,
+Exhaustion Land,1986,all plots,02/06/1986,,tridemorph,,,4,chemical pest control process,0.52,kg/ha,,,,,,,
+Exhaustion Land,1986,all plots,16/07/1986,,tridemorph,,,4,chemical pest control process,0.52,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1987,all plots,28/05/1987,,clopyralid,,,4,chemical pest control process,0.1,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1987,all plots,28/05/1987,,bromoxynil,,,4,chemical pest control process,0.34,kg/ha,,,,,,,
+Exhaustion Land,1987,all plots,28/05/1987,,mecoprop,,,4,chemical pest control process,2.5,kg/ha,,,,,,,
+Exhaustion Land,1987,all plots,24/06/1987,,tridemorph,,,4,chemical pest control process,0.52,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1988,all plots,17/11/1987,,glyphosate,,,4,chemical pest control process,1.4,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1988,all plots,11/05/1988,,clopyralid,,,4,chemical pest control process,0.05,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1988,all plots,11/05/1988,,bromoxynil,,,4,chemical pest control process,0.24,kg/ha,,,,,,,
+Exhaustion Land,1988,all plots,11/05/1988,,mecoprop,,,4,chemical pest control process,2.4,kg/ha,,,,,,,
+Exhaustion Land,1988,all plots,17/05/1988,,Propiconazole,,,4,chemical pest control process,0.12,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1988,all plots,17/05/1988,,tridemorph,,,4,chemical pest control process,0.25,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1988,all plots,17/06/1988,,Propiconazole,,,4,chemical pest control process,0.12,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1988,all plots,17/06/1988,,tridemorph,,,4,chemical pest control process,0.25,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1989,all plots,19/10/1988,,glyphosate,,,4,chemical pest control process,1.4,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1989,all plots,18/05/1989,,mecoprop,,,4,chemical pest control process,1.6,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1989,all plots,18/05/1989,,ioxynil,,,4,chemical pest control process,0.2,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1989,all plots,18/05/1989,,bromoxynil,,,4,chemical pest control process,0.2,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1989,all plots,09/06/1989,,Propiconazole,,,4,chemical pest control process,0.12,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1990,all plots,01/12/1989,,glyphosate,,,4,chemical pest control process,1.4,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1990,all plots,10/05/1990,,Demeton-s-methyl,,,4,chemical pest control process,0.24,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1990,all plots,14/05/1990,,mecoprop,,,4,chemical pest control process,1.6,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1990,all plots,14/05/1990,,ioxynil,,,4,chemical pest control process,0.2,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1990,all plots,14/05/1990,,bromoxynil,,,4,chemical pest control process,0.2,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1990,all plots,14/05/1990,,fenpropimorph,,,4,chemical pest control process,0.75,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1991,all plots,16/06/1991,,Fluroxypyr,,,4,chemical pest control process,0.15,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1991,all plots,16/06/1991,,fenpropimorph,,,4,chemical pest control process,0.38,kg/ha,200,l/ha,,,,,
+Exhaustion Land,1992,all plots,19/09/1991,,Sting,,,4,chemical pest control process,1.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1992,all plots,23/06/1992,,Radar,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1992,all plots,23/06/1992,,Mistral,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,16/09/1992,,Scythe,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,16/09/1992,,Farmon Blue,,,4,chemical pest control process,0.2,l/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,13/05/1993,,Ally,,,4,chemical pest control process,30,g/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,13/05/1993,,Cheetah R,,,4,chemical pest control process,2.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,13/05/1993,,Starane 2,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,04/06/1993,,Halo,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,1993,all plots,04/06/1993,,Mistral,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,09/05/1994,,Ally,,,4,chemical pest control process,30,g/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,09/05/1994,,Cheetah Super,,,4,chemical pest control process,3,l/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,09/05/1994,,Starane 2,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,13/06/1994,,Halo,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,13/06/1994,,Mallard 750 EC,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,17/06/1994,,Hostathion,,,4,chemical pest control process,840,ml/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,09/05/1994,,Halo,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,1994,all plots,09/05/1994,,New 5C Cycocel,,,4,chemical pest control process,2.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1995,,06/10/1994,,Roundup,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,1995,all plots,24/11/1994,,Alpha Isoproturon 500,,,4,chemical pest control process,3,l/ha,200,l/ha,,,,,
+Exhaustion Land,1995,all plots,24/11/1994,,Stomp 400,,,4,chemical pest control process,3.3,l/ha,200,l/ha,,,,,
+Exhaustion Land,1995,all plots,16/06/1995,,Halo,,,4,chemical pest control process,2,l/ha,300,l/ha,,,,,
+Exhaustion Land,1995,all plots,16/06/1995,,Patrol,,,4,chemical pest control process,0.5,l/ha,300,l/ha,,,,,
+Exhaustion Land,1995,,29/06/1995,,Pirimicarb 50 DG,,,4,chemical pest control process,280,g/ha,200,l/ha,,,,,
+Exhaustion Land,1996,all plots,26/04/1996,,Ally,,,4,chemical pest control process,30,g/ha,200,l/ha,,,,,
+Exhaustion Land,1996,all plots,26/04/1996,,Cheetah Super,,,4,chemical pest control process,1.25,l/ha,200,l/ha,,,,,
+Exhaustion Land,1996,all plots,26/04/1996,,Barclay Holdup,,,4,chemical pest control process,2.3,l/ha,200,l/ha,,,,,
+Exhaustion Land,1996,all plots,06/06/1996,,Monicle,,,4,chemical pest control process,1,l/ha,320,l/ha,,,,,
+Exhaustion Land,1997,all plots,17/03/1997,,Topik,,,4,chemical pest control process,1.25,l/ha,200,l/ha,,,,,
+Exhaustion Land,1997,all plots,17/03/1997,,Sprayprover,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,1997,all plots,16/04/1997,,meadow Shield,,,4,chemical pest control process,0.35,l/ha,200,l/ha,,,,,
+Exhaustion Land,1997,all plots,16/04/1997,,Deloxil,,,4,chemical pest control process,1.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,1997,all plots,30/05/1997,,Folicur,,,4,chemical pest control process,0.5,l/ha,300,l/ha,,,,,
+Exhaustion Land,1997,all plots,30/05/1997,,Winter,,,4,chemical pest control process,0.5,l/ha,300,l/ha,,,,,
+Exhaustion Land,1998,all plots,09/05/1998,,Opus,,,4,chemical pest control process,0.7,l/ha,200,l/ha,,,,,
+Exhaustion Land,1998,all plots,28/05/1998,,Opus,,,4,chemical pest control process,0.7,l/ha,200,l/ha,,,,,
+Exhaustion Land,1998,all plots,15/06/1998,,Bavistin DF,,,4,chemical pest control process,0.5,kg/ha,100,l/ha,,,,,
+Exhaustion Land,1998,all plots,15/06/1998,,Folicur,,,4,chemical pest control process,0.5,l/ha,100,l/ha,,,,,
+Exhaustion Land,1998,all plots,06/08/1998,,Alpha glyphosate,,,4,chemical pest control process,3,l/ha,200,l/ha,,,,,
+Exhaustion Land,1998,all plots,05/02/1998,,Amazon,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,1998,all plots,05/02/1998,,Chiltern Cropoil,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,1999,all plots,12/10/1998,,Hardy,,,4,chemical pest control process,7.5,kg/ha,,,,,,,
+Exhaustion Land,1999,all plots,15/03/1999,,menazon,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,1999,all plots,15/03/1999,,Isoguard,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,1999,all plots,15/03/1999,,Cropoil,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,1999,all plots,01/05/1999,,Opus,,,4,chemical pest control process,0.7,l/ha,200,l/ha,,,,,
+Exhaustion Land,1999,all plots,01/06/1999,,Folicur,,,4,chemical pest control process,1,l/ha,100,l/ha,,,,,
+Exhaustion Land,1999,all plots,01/06/1999,,Sipcam UK Rover 500,,,4,chemical pest control process,1,l/ha,100,l/ha,,,,,
+Exhaustion Land,1999,all plots,25/06/1999,,Folicur,,,4,chemical pest control process,0.25,l/ha,100,l/ha,,,,,
+Exhaustion Land,2000,all plots,14/12/1999,,Lexus 50 DF,,,4,chemical pest control process,20,g/ha,200,l/ha,,,,,
+Exhaustion Land,2000,all plots,14/12/1999,,Stomp 400 SC,,,4,chemical pest control process,2.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2000,all plots,14/12/1999,,Toppel 10,,,4,chemical pest control process,250,ml/ha,200,l/ha,,,,,
+Exhaustion Land,2000,all plots,09/05/2000,,Opus,,,4,chemical pest control process,0.7,l/ha,100,l/ha,,,,,
+Exhaustion Land,2000,all plots,24/05/2000,,Amistar,,,4,chemical pest control process,0.8,l/ha,100,l/ha,,,,,
+Exhaustion Land,2000,all plots,24/05/2000,,Folicur,,,4,chemical pest control process,0.75,l/ha,100,l/ha,,,,,
+Exhaustion Land,2001,all plots,15/05/2001,,Ally,,,4,chemical pest control process,20,g/ha,100,l/ha,,,,,
+Exhaustion Land,2001,all plots,15/05/2001,,Starane 2,,,4,chemical pest control process,0.5,l/ha,100,l/ha,,,,,
+Exhaustion Land,2001,all plots,13/06/2001,,Folicur,,,4,chemical pest control process,0.7,l/ha,100,l/ha,,,,,
+Exhaustion Land,2001,all plots,20/08/2001,,Azural,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,11/12/2001,,Hawk,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,11/12/2001,,Tolkan Liquid,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,11/12/2001,,Phase II,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,04/04/2002,,Opus,,,4,chemical pest control process,0.4,l/ha,100,l/ha,,,,,
+Exhaustion Land,2002,all plots,04/04/2002,,Twist,,,4,chemical pest control process,0.6,l/ha,100,l/ha,,,,,
+Exhaustion Land,2002,all plots,04/04/2002,,BASF 3C Chlormequat 720,,,4,chemical pest control process,1.25,l/ha,100,l/ha,,,,,
+Exhaustion Land,2002,all plots,04/04/2002,,Moddus,,,4,chemical pest control process,0.2,l/ha,100,l/ha,,,,,
+Exhaustion Land,2002,all plots,31/05/2002,,Starane 2,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,31/05/2002,,Opus,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,31/05/2002,,Twist,,,4,chemical pest control process,0.8,l/ha,200,l/ha,,,,,
+Exhaustion Land,2002,all plots,01/08/2002,,Roundup Biactive,,,4,chemical pest control process,3,l/ha,100,l/ha,,,,,
+Exhaustion Land,2002,all plots,24/08/2002,,Carted bales,,,4,chemical pest control process,,,,,,,,,
+Exhaustion Land,2003,all plots,05/09/2002,,Flat-lifted,,,4,chemical pest control process,,,,,,,,,
+Exhaustion Land,2003,all plots,17/02/2003,,Lexus 50 DF,,,4,chemical pest control process,20,g/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,10/03/2003,,Sulphur Gold,,,4,chemical pest control process,30; 7.6,% N; % S,167,kg/ha,,,,,
+Exhaustion Land,2003,all plots,07/05/2003,,Ally,,,4,chemical pest control process,30,g/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,10/05/2003,,Opus,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,28/05/2003,,Opus,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,26/07/2003,,Touchdown,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,17/02/2003,,Stomp 400 SC,,,4,chemical pest control process,3,l/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,07/05/2003,,Starane 2,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,10/05/2003,,Amistar,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,
+Exhaustion Land,2003,all plots,28/05/2003,,Twist,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,16/12/2003,,Arelon 500,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,16/12/2003,,Stomp 400 SC,,,4,chemical pest control process,2.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,14/04/2004,,Ally,,,4,chemical pest control process,30,g/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,14/04/2004,,Oxytril CM,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,13/05/2004,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,13/05/2004,,Moddus,,,4,chemical pest control process,0.15,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,24/05/2004,,Rotavated down paths,,,4,chemical pest control process,,,,,,,,,
+Exhaustion Land,2004,all plots,07/06/2004,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,07/06/2004,,Twist,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2004,all plots,14/06/2004,,Dursban 4,,,4,chemical pest control process,0.45,,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,25/11/2004,,Hawk,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,25/11/2004,,Alpha IPU 500,,,4,chemical pest control process,2.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,25/11/2004,,Nufarm Cropoil,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,25/11/2004,,Hallmark with Zeon Technology,,,4,chemical pest control process,50,ml/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,29/04/2005,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,29/04/2005,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,29/04/2005,,Atlas Chlormequat 700,,,4,chemical pest control process,2.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,03/05/2005,,Ally SX,,,4,chemical pest control process,30,g/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,15/05/2005,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,15/05/2005,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,15/05/2005,,Starane 2,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,31/05/2005,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,31/05/2005,,Amistar Opti,,,4,chemical pest control process,1.5,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,07/05/2005,,Amistar,,,4,chemical pest control process,0.3,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,07/05/2005,,Folicur,,,4,chemical pest control process,0.3,l/ha,200,l/ha,,,,,
+Exhaustion Land,2005,all plots,07/05/2005,,Dursban 4,,,4,chemical pest control process,0.6,,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,17/10/2005,,Ice,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,05/12/2005,,Hallmark with Zeon Technology,,,4,chemical pest control process,50,ml/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/04/2006,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/04/2006,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/04/2006,,Flexity,,,4,chemical pest control process,0.2,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/05/2006,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/05/2006,,Opus,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/05/2006,,Vivid,,,4,chemical pest control process,0.4,,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/05/2006,,Starane 2,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2006,all plots,21/05/2006,,Ally Max SX,,,4,chemical pest control process,42,g/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,13/10/2006,,Barclay Gallup 360,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,11/04/2007,,Pacifica,,,4,chemical pest control process,0.5,kg/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,11/04/2007,,Biopower,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,23/04/2007,,Clean Crop Wanderer,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,23/04/2007,,Deuce,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,26/04/2007,,Nitraprill,,,4,chemical pest control process,580,kg/ha,,,,,,,
+Exhaustion Land,2007,all plots,22/05/2007,,Amistar Opti,,,4,chemical pest control process,1.25,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,22/05/2007,,Opus,,,4,chemical pest control process,0.8,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,03/11/2007,,Ice,,,4,chemical pest control process,4,l/ha,200,l/ha,,,,,
+Exhaustion Land,2007,all plots,08/12/2007,,Entice,,,4,chemical pest control process,7,kg/ha,,,,,,,
+Exhaustion Land,2007,all plots,27/08/2007,,straw chopped Odds & Ends,,,4,chemical pest control process,,,,,,,,,
+Exhaustion Land,2008,all plots,30/09/2007,,Glyphosate 360,,,4,chemical pest control process,3,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,30/10/2007,,Huron,,,4,chemical pest control process,5,kg/ha,,,,,,,
+Exhaustion Land,2008,all plots,02/11/2007,,Liberator,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,02/11/2007,,Alpha Trifluralin 48 EC,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,17/11/2007,,Stomp 400 SC,,,4,chemical pest control process,3.3,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,17/11/2007,,Arelon 500,,,4,chemical pest control process,2,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,17/11/2007,,Hallmark with Zeon Technology,,,4,chemical pest control process,50,ml/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,18/04/2008,,Nitraprill,,,4,chemical pest control process,580,kg/ha,,,,,,,
+Exhaustion Land,2008,all plots,08/05/2008,,Deuce,,,4,chemical pest control process,1,l/ha,150,l/ha,,,,,
+Exhaustion Land,2008,all plots,08/05/2008,,Bravo 500,,,4,chemical pest control process,0.75,l/ha,150,l/ha,,,,,
+Exhaustion Land,2008,all plots,08/05/2008,,Flexity,,,4,chemical pest control process,0.2,l/ha,150,l/ha,,,,,
+Exhaustion Land,2008,all plots,08/05/2008,,BASF 3C Chlormequat 720,,,4,chemical pest control process,1,l/ha,150,l/ha,,,,,
+Exhaustion Land,2008,all plots,19/05/2008,,Ally Max SX,,,4,chemical pest control process,42,g/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,19/05/2008,,Starane 2,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,21/05/2008,,Nitraprill,,,4,chemical pest control process,145,kg/ha,,,,,,,
+Exhaustion Land,2008,all plots,31/05/2008,,Amistar Opti,,,4,chemical pest control process,1.25,l/ha,200,l/ha,,,,,
+Exhaustion Land,2008,all plots,31/05/2008,,Opus Team,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2009,all plots,18/10/2008,,Liberator,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,
+Exhaustion Land,2009,all plots,17/12/2008,,Stomp 400 SC,,,4,chemical pest control process,3.3,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,17/12/2008,,Arelon 500,,,4,chemical pest control process,3,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,17/12/2008,,Hallmark with Zeon Technology,,,4,chemical pest control process,50,ml/ha,,,,,,,
+Exhaustion Land,2009,all plots,14/04/2009,,Pacifica,,,4,chemical pest control process,0.4,kg/ha,,,,,,,
+Exhaustion Land,2009,all plots,20/04/2009,,nitram,,,4,chemical pest control process,580,kg/ha,,,,,,,
+Exhaustion Land,2009,all plots,20/04/2009,,Cherokee,,,4,chemical pest control process,1,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,02/05/2009,,Splice,,,4,chemical pest control process,1,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,02/05/2009,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,02/05/2009,,Talus,,,4,chemical pest control process,0.13,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,02/05/2009,,BASF 3C Chlormequat 720,,,4,chemical pest control process,2.25,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,04/05/2009,,Ally Max SX,,,4,chemical pest control process,42,g/ha,,,,,,,
+Exhaustion Land,2009,all plots,13/05/2009,,nitram,,,4,chemical pest control process,145,kg/ha,,,,,,,
+Exhaustion Land,2009,all plots,28/05/2009,,Brutus,,,4,chemical pest control process,1.5,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,28/05/2009,,Amistar Opti,,,4,chemical pest control process,1.25,l/ha,,,,,,,
+Exhaustion Land,2009,all plots,04/05/2009,,Agriguard Fluroxypyr,,,4,chemical pest control process,0.75,l/ha,,,,,,,
+Exhaustion Land,2010,all plots,05/10/2009,,Liberator,,,4,chemical pest control process,166,l/ha,200,l/ha,,,,,
+Exhaustion Land,2010,all plots,10/04/2010,,Cherokee,,,4,chemical pest control process,1,l/ha,146,l/ha,,,,,
+Exhaustion Land,2010,all plots,18/04/2010,,Attribut,,,4,chemical pest control process,100,g/ha,146,l/ha,,,,,
+Exhaustion Land,2010,all plots,18/04/2010,,Amber,,,4,chemical pest control process,1,l/ha,146,l/ha,,,,,
+Exhaustion Land,2010,all plots,18/04/2010,,Oxytril CM,,,4,chemical pest control process,1,l/ha,146,l/ha,,,,,
+Exhaustion Land,2010,all plots,06/05/2010,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2010,all plots,06/05/2010,,Tracker,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,
+Exhaustion Land,2010,all plots,06/05/2010,,Chlormequat 3C,,,4,chemical pest control process,2.25,l/ha,200,l/ha,,,,,
+Exhaustion Land,2010,all plots,18/05/2010,,Tomahawk,,,4,chemical pest control process,1,l/ha,,,,,,,
+Exhaustion Land,2010,all plots,18/05/2010,,Cleancrop Gallifrey,,,4,chemical pest control process,1,l/ha,,,,,,,
+Exhaustion Land,2010,all plots,02/06/2010,,Comet,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,
+Exhaustion Land,2010,all plots,02/06/2010,,Opus,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,
+Exhaustion Land,2011,all plots,17/10/2010,,Regatta,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,28/03/2011,,Cherokee,,winter wheat plots,4,chemical pest control process,1.25,l/ha,118,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,05/05/2011,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,05/05/2011,,Tracker,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,05/05/2011,,Agriguard Chlormequat 720,,,4,chemical pest control process,2.25,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,19/05/2011,,Opus,,,4,chemical pest control process,0.8,l/ha,100,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,05/05/2011,,Ally Max,,,4,chemical pest control process,42,g/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,05/05/2011,,Starane 2,,,4,chemical pest control process,0.75,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,19/05/2011,,Comet 200,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2011,all plots,19/05/2011,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,14/10/2011,,Liberator,,,4,chemical pest control process,0.6,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,22/03/2012,,Cherokee SE,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,05/05/2012,,Ally Max,,,4,chemical pest control process,42,g/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,05/05/2012,,Bravo 500,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,05/05/2012,,Tracker,,,4,chemical pest control process,1,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,05/05/2012,,Agriguard,,,4,chemical pest control process,2.25,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,05/05/2012,,Starane 2,,,4,chemical pest control process,0.5,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,23/05/2012,,Opus,,,4,chemical pest control process,0.8,l/ha,,,,,,,sprayed
+Exhaustion Land,2012,all plots,23/05/2012,,Comet,,,4,chemical pest control process,0.6,l/ha,,,,,,,sprayed
+Exhaustion Land,2012,all plots,23/05/2012,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2012,all plots,13/06/2012,,Amistar,,,4,chemical pest control process,0.3,l/ha,100,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,07/08/2012,,Samurai,,,4,chemical pest control process,3,l/ha,,,,,,,sprayed
+Exhaustion Land,2012,all plots,20/09/2012,,Weedazol EW,,,4,chemical pest control process,20,l/ha,,,,,,,sprayed
+Exhaustion Land,2012,all plots,13/06/2013,,Prosaro,,,4,chemical pest control process,0.7,l/ha,100,l/ha,,,,,sprayed
+Exhaustion Land,2012,all plots,22/03/2012,,Justice,,,4,chemical pest control process,0.125,l/ha,200,l/ha,,,,,sprayed
+Exhaustion Land,2013,all plots,20/09/2012,,Weedazol EW,,,4,chemical pest control process,20,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,15/11/2012,,"Liberator, also O&E's at each end of EX/4",,,4,chemical pest control process,0.6,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,15/11/2012,,Spread Slug Pellets (Gusto),,,4,chemical pest control process,5,kg/ha,,,,,,,
+Exhaustion Land,2013,all plots,16/05/2013,,Ally Max,,,4,chemical pest control process,42,g/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,16/05/2013,,Kingdom,,,4,chemical pest control process,1.25,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,16/05/2013,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,16/05/2013,,NewCycocel,,,4,chemical pest control process,2,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,16/05/2013,,Hatchet Extra,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,06/06/2013,,Ingite,,,4,chemical pest control process,1.2,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,18/06/2013,,Cello,,,4,chemical pest control process,0.55,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,15/11/2012,,"PDM, also O&E's at each end of EX/4",,,4,chemical pest control process,2.7,l/ha,,,,,,,sprayed
+Exhaustion Land,2013,all plots,06/06/2013,,Comet,,,4,chemical pest control process,0.4,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,27/11/2013,,Applied Major Slug Pellets,,,4,chemical pest control process,4,kg/ha,,,,,,,
+Exhaustion Land,2014,all plots,27/11/2013,,Hallmark,,,4,chemical pest control process,50,ml/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,27/11/2013,,Liberator,,,4,chemical pest control process,600,ml/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,27/11/2013,,Stomp,,,4,chemical pest control process,1.7,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,03/04/2014,,Artemis,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,03/04/2014,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,03/04/2014,,BASF 3C Chlormequat 720,,,4,chemical pest control process,1.75,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,16/05/2014,,Simba,,,4,chemical pest control process,30,g/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,06/06/2014,,Cello,,,4,chemical pest control process,550,ml/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,28/04/2014,,Kingdom,,,4,chemical pest control process,1.25,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,28/04/2014,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2014,all plots,16/05/2014,,Vortex,,,4,chemical pest control process,1.5,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,10/11/2014,,Crystal,,,4,chemical pest control process,4,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,04/12/2014,,Hallmark,,,4,chemical pest control process,50,ml/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,05/04/2015,,Artemis,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,05/04/2015,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,05/04/2015,,Chlormequat 750,,,4,chemical pest control process,1.25,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,05/04/2015,,Moddus,,,4,chemical pest control process,150,ml/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,27/04/2015,,Kingdom,,,4,chemical pest control process,1.25,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,27/04/2015,,Balear 720,,,4,chemical pest control process,700,ml/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,27/05/2015,,Ally Max,,,4,chemical pest control process,30,g/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,27/05/2015,,Gemstone,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,27/05/2015,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,15/06/2015,,Proline onto WW,,,4,chemical pest control process,500,ml/ha,,,,,,,sprayed
+Exhaustion Land,2015,all plots,27/08/2015,,Bassoon,,,4,chemical pest control process,750,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,25/08/2015,,Firebrand,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,25/08/2015,,Samurai,,,4,chemical pest control process,4,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,25/08/2015,,Firebrand,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,19/10/2015,,Liberater - winter wheat,,,4,chemical pest control process,0.6,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,19/10/2015,,Stomp Aqua - winter wheat,,,4,chemical pest control process,1.75,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,12/11/2015,,Hallmark,,,4,chemical pest control process,40,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,03/12/2015,,Applied TDS Major,,,4,chemical pest control process,5,kg/ha,,,,,,,
+Exhaustion Land,2016,p test,12/12/2015,,Hallmark,,,4,chemical pest control process,40,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,08/04/2016,,Moddus,,,4,chemical pest control process,150,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,08/04/2016,,BASF 3C Chlormequat 750,,,4,chemical pest control process,1.25,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,08/04/2016,,Odin,,,4,chemical pest control process,500,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,08/04/2016,,Mirage 40ec,,,4,chemical pest control process,500,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,08/04/2016,,Bravo 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,05/05/2016,,Keystone in wheat only,,,4,chemical pest control process,800,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,05/05/2016,,Balear 720,,,4,chemical pest control process,700,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,24/05/2016,,Vortex,,,4,chemical pest control process,1.5,l/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,24/05/2016,,Corbel,,,4,chemical pest control process,250,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,09/07/2016,,Cello,,,4,chemical pest control process,550,ml/ha,,,,,,,sprayed
+Exhaustion Land,2016,p test,09/07/2016,,Hallmark,,,4,chemical pest control process,50,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,15/10/2016,,Liberator,,,4,chemical pest control process,600,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,15/10/2016,,Defy,,,4,chemical pest control process,3,l/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,15/10/2016,,Deploy,,,4,chemical pest control process,400,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,02/12/2016,,Hallmark,,,4,chemical pest control process,50,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,05/04/2017,,Artemis,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,05/04/2017,,Claw 500,,,4,chemical pest control process,1,l/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,05/04/2017,,BASF 3C Chlormequat 750,,,4,chemical pest control process,2,l/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,27/04/2017,,keystone,,,4,chemical pest control process,600,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,27/04/2017,,Epic,,,4,chemical pest control process,400,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,27/04/2017,,Balear 720sc,,,4,chemical pest control process,700,ml/ha,,,,,,,sprayed
+Exhaustion Land,2017,all plots,19/06/2017,,Fezan (Tebuconazole),,,4,chemical pest control process,750,ml/ha,,,,,,,sprayed
