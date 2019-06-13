@@ -1,134 +1,134 @@
-Experiment,Year,start date,end date,operation,operation_type,section,amount,amount unit,crop,variety,dressing,machine,orig_operation
-R/WF/3,1874,30/10/1873,,seed sown,seeding process,wheat,,,winter wheat,Red Rostock,,,seed sown
-R/WF/3,1880,29/10/1879,,seed sown,seeding process,wheat,,,winter wheat,Red Rostock,,,seed sown
-R/WF/3,1881,26/10/1880,,seed sown,seeding process,wheat,,,winter wheat,Red Rostock,,,seed sown
-R/WF/3,1883,07/11/1882,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1884,23/10/1883,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1885,25/10/1884,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1886,25/10/1885,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1887,26/10/1886,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1889,01/11/1888,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1890,05/11/1889,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1891,25/10/1890,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1894,25/10/1893,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1895,22/10/1894,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1896,23/10/1895,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1898,20/10/1897,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1899,31/10/1898,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,,seed sown
-R/WF/3,1900,23/10/1899,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1901,23/10/1900,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1902,23/10/1901,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1903,31/10/1902,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1905,19/10/1904,,seed sown,seeding process,wheat,,,winter wheat,Giant Red,,,seed sown
-R/WF/3,1906,19/12/1905,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1907,16/10/1906,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1908,07/11/1907,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1909,26/10/1908,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1910,27/11/1909,,seed sown,seeding process,wheat,,,winter wheat,Browick Red,,,seed sown
-R/WF/3,1911,22/10/1910,,seed sown,seeding process,wheat,,,winter wheat,Little Joss,,,seed sown
-R/WF/3,1912,,,seed sown (date uncertain 7/??/1911),seeding process,wheat,,,winter wheat,Little Joss,,,seed sown
-R/WF/3,1913,21/10/1912,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1914,03/11/1913,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1915,03/11/1914,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1917,01/11/1916,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1919,26/10/1918,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1920,27/10/1919,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1921,05/11/1920,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1922,29/10/1921,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1923,02/11/1922,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1924,12/11/1923,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1929,09/10/1928,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1930,15/10/1929,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1931,17/10/1930,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1932,14/10/1931,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1933,15/10/1932,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1934,13/10/1933,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1935,20/10/1934,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1936,26/10/1935,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1937,21/10/1936,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1938,06/11/1937,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1939,24/10/1938,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1940,23/10/1939,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1941,28/10/1940,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1942,21/10/1941,,seed sown,seeding process,wheat,,,winter wheat,Sherriff's Stand Up,,,seed sown
-R/WF/3,1943,15/10/1942,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,,seed sown
-R/WF/3,1944,08/10/1943,,seed sown,seeding process,wheat,,,winter wheat,Red standard,,,seed sown
-R/WF/3,1945,30/10/1944,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,,seed sown
-R/WF/3,1946,15/10/1945,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,,seed sown
-R/WF/3,1947,18/10/1946,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,,seed sown
-R/WF/3,1948,25/10/1947,,seed drilled,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,,seed drilled
-R/WF/3,1949,23/10/1948,,seed drilled,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,,seed drilled
-R/WF/3,1950,31/10/1949,,seed drilled,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,,seed drilled
-R/WF/3,1950,21/04/1950,,seed drilled,seeding process,wheat,,,spring wheat,Fylgia,,,seed drilled
-R/WF/3,1951,18/10/1950,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled
-R/WF/3,1952,19/10/1951,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled at 3 bushels per acre
-R/WF/3,1953,27/10/1952,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled at 3 bushels per acre
-R/WF/3,1954,22/10/1953,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled at 3 bushels per acre
-R/WF/3,1955,07/12/1954,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled at 3 bushels per acre
-R/WF/3,1956,02/11/1955,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled at 3 bushels per acre
-R/WF/3,1957,27/10/1956,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed sown at 3 bushels per acre
-R/WF/3,1958,15/10/1957,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed sown at 3 bushels per acre
-R/WF/3,1959,21/11/1958,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed sown at 3 bushels per acre
-R/WF/3,1960,19/10/1959,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed sown at 3 bushels per acre
-R/WF/3,1961,17/01/1961,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed sown at 3 bushels per acre
-R/WF/3,1962,01/11/1961,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed sown at 3 bushels per acre
-R/WF/3,1963,23/11/1962,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled at 3 bushels per acre
-R/WF/3,1963,23/11/1962,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Cappelle,,,
-R/WF/3,1964,16/10/1963,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,,seed drilled$seed drilled
-R/WF/3,1964,16/10/1963,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Rothwell Perdix,,,
-R/WF/3,1965,26/10/1964,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Squareheads Master 13/4,,,seed drilled$seed drilled
-R/WF/3,1965,26/10/1964,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Cappelle,,,
-R/WF/3,1966,05/11/1965,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Cappelle,,,seed drilled at 190 lb
-R/WF/3,1966,05/11/1965,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Rothwell Perdix,,,
-R/WF/3,1966,02/05/1966,,redrilled with Kloka spring wheat,seeding process,"wheat: A3, A4",230,lb/are,winter wheat,Kloka,,,
-R/WF/3,1967,28/10/1966,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,,seed drilled at 180 lb
-R/WF/3,1968,19/10/1967,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,,seed drilled at 180 lb
-R/WF/3,1969,16/10/1968,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,,seed drilled at 180 lb
-R/WF/3,1970,15/10/1969,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,,seed drilled at 180 lb
-R/WF/3,1971,09/10/1970,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,,seed drilled at 202 kg
-R/WF/3,1972,22/10/1971,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,,seed drilled
-R/WF/3,1973,18/10/1972,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,,seed drilled
-R/WF/3,1974,18/10/1973,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,,seed sown
-R/WF/3,1975,08/11/1974,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,,seed sown
-R/WF/3,1976,17/10/1975,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,organomercury and/or Gamma-HCH,,seed sown
-R/WF/3,1977,24/11/1976,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,organomercury and/or Gamma-HCH,,seed sown
-R/WF/3,1978,19/10/1977,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Chlorfenvinphos,,seed sown
-R/WF/3,1979,11/10/1978,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,Chlorfenvinphos,,seed sown
-R/WF/3,1980,16/10/1979,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,organomercury and/or Gamma-HCH,,seed sown
-R/WF/3,1981,01/10/1980,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,Chlorfenvinphos,,seed sown
-R/WF/3,1982,16/10/1981,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,Chlorfenvinphos,,seed sown
-R/WF/3,1983,18/01/1983,,seed sown,seeding process,wheat,210,kg/ha,winter wheat,Flanders,Chlorfenvinphos,,seed sown
-R/WF/3,1984,07/10/1983,,seed sown,seeding process,wheat,210,kg/ha,winter wheat,Flanders,Chlorfenvinphos,,seed sown
-R/WF/3,1985,01/11/1984,,seed sown,seeding process,wheat,190,kg/ha,winter wheat,Brimstone,organomercury and/or Gamma-HCH,,seed sown
-R/WF/3,1986,08/10/1985,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Brimstone,organomercury and/or Gamma-HCH,,seed sown
-R/WF/3,1987,11/10/1986,,seed sown,seeding process,wheat,190,kg/ha,winter wheat,Brimstone,Fonofos,,seed sown
-R/WF/3,1988,06/11/1987,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Brimstone,Fonofos,,seed sown
-R/WF/3,1989,28/10/1988,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Brimstone,Fonofos,,seed sown
-R/WF/3,1990,12/10/1989,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Brimstone,Fonofos,,seed sown
-R/WF/3,1991,17/10/1990,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Apollo,Fonofos,,seed sown
-R/WF/3,1992,15/10/1991,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Apollo,Fonofos,,seed drilled
-R/WF/3,1993,19/10/1992,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Apollo,Fonofos,,seed drilled
-R/WF/3,1994,28/10/1993,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Apollo,Fonofos,,seed drilled
-R/WF/3,1995,17/11/1994,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Apollo,New Kotol,,seed drilled
-R/WF/3,1996,29/09/1995,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Fonofos,,seed drilled
-R/WF/3,1997,16/10/1996,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Beret Gold and Fonofos,,seed drilled
-R/WF/3,1998,27/10/1997,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Anchor and Fonofos,,seed drilled
-R/WF/3,1999,15/10/1998,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Sibutol and Evict,,seed drilled
-R/WF/3,2000,05/10/1999,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Sibutol and Evict,Accord Drill,seed drilled
-R/WF/3,2001,02/04/2001,,seed drilled,seeding process,wheat,350,seeds/m2,winter wheat,Axona,Sibutol,Accord Drill,seed drilled
-R/WF/3,2002,13/10/2001,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol,Accord Drill,combination drilled
-R/WF/3,2003,07/10/2002,,combination drilled,seeding process,wheat,400,seeds/m2,winter wheat,Hereward,Sibutol,Accord Drill,combination drilled
-R/WF/3,2004,30/09/2003,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol Secur,Accord Drill,combination drilled
-R/WF/3,2005,06/10/2004,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol Secur,Accord Drill,combination drilled
-R/WF/3,2006,07/10/2005,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol Secur,Accord Drill,combination drilled
-R/WF/3,2007,01/11/2006,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Redigo + Deter,,combination drilled
-R/WF/3,2008,10/10/2007,,combination drilled,seeding process,wheat: plot 1 ,400,seeds/m2,winter wheat,Hereward,Redigo Twin and Deter,,"Combination drilled, Plot 1 S Hereward tr redigo twin Ã‚Â« deter, Plot 1 400.00 seeds/m?"
-R/WF/3,2009,20/10/2008,,combination drilled,seeding process,wheat,400,seeds/m2,winter wheat,Hereward,Redigo Deter,,Combination Drilled Ss Hereward tr Redigo Deter 400.00 seeds/m2
-R/WF/3,2010,05/10/2009,,combination drilled (145 kg/ha),seeding process,wheat,350,seeds/m2,winter wheat,Hereward,,,combination drilled
-R/WF/3,2011,15/10/2010,,drilled (158 kg/ha),seeding process,all plots,350,seeds/m2,winter wheat,Hereward,Redigo Deter,,Drilled Hereward trt Redigo Deter - 350 seeds / metre sq
-R/WF/3,2012,22/02/2012,,drilled,seeding process,wheat,450,seeds/m2,winter wheat,Crusoe,Redigo Deter,,Drilled Crusoe trt Redigo Deter
-R/WF/3,2013,22/02/2013,,drilled,seeding process,wheat,450,seeds/m2,winter wheat,Crusoe,Redigo Deter,,a Drilled Crusoe trt Redigo Deter 450
-R/WF/3,2014,18/10/2013,,drilled,seeding process,wheat,400,seeds/m2,winter wheat,Crusoe,Redigo,,Drilled All plots - var. Crusoe
-R/WF/3,2015,28/10/2014,,drilled,seeding process,wheat,350,seeds/m2,winter wheat,Crusoe,Redigo,,Drilled WW Crusoe dr Redgio
-R/WF/3,2016,15/10/2015,,drilled,seeding process,wheat,350,seeds/m2,winter wheat,Crusoe,Redigo,,Drilled Winter Wheat var. Crusoe trt Redigo Ã¢â‚¬â€�
-R/WF/3,2017,10/10/2016,,drilled,seeding process,wheat,350,seeds/m2,winter wheat,Crusoe,Redigo Pro + Deter,,Drilled Crusoe trt w/Redigo Pro + Deter
+Experiment,Year,start date,end date,operation,operation_type,section,amount,amount unit,crop,variety,dressing,machine
+R/WF/3,1874,30/10/1873,,seed sown,seeding process,wheat,,,winter wheat,Red Rostock,,
+R/WF/3,1880,29/10/1879,,seed sown,seeding process,wheat,,,winter wheat,Red Rostock,,
+R/WF/3,1881,26/10/1880,,seed sown,seeding process,wheat,,,winter wheat,Red Rostock,,
+R/WF/3,1883,07/11/1882,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1884,23/10/1883,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1885,25/10/1884,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1886,25/10/1885,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1887,26/10/1886,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1889,01/11/1888,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1890,05/11/1889,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1891,25/10/1890,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1894,25/10/1893,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1895,22/10/1894,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1896,23/10/1895,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1898,20/10/1897,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1899,31/10/1898,,seed sown,seeding process,wheat,,,winter wheat,Red Club,,
+R/WF/3,1900,23/10/1899,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1901,23/10/1900,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1902,23/10/1901,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1903,31/10/1902,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1905,19/10/1904,,seed sown,seeding process,wheat,,,winter wheat,Giant Red,,
+R/WF/3,1906,19/12/1905,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1907,16/10/1906,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1908,07/11/1907,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1909,26/10/1908,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1910,27/11/1909,,seed sown,seeding process,wheat,,,winter wheat,Browick Red,,
+R/WF/3,1911,22/10/1910,,seed sown,seeding process,wheat,,,winter wheat,Little Joss,,
+R/WF/3,1912,,,seed sown (date uncertain 7/??/1911),seeding process,wheat,,,winter wheat,Little Joss,,
+R/WF/3,1913,21/10/1912,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1914,03/11/1913,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1915,03/11/1914,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1917,01/11/1916,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1919,26/10/1918,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1920,27/10/1919,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1921,05/11/1920,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1922,29/10/1921,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1923,02/11/1922,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1924,12/11/1923,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1929,09/10/1928,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1930,15/10/1929,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1931,17/10/1930,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1932,14/10/1931,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1933,15/10/1932,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1934,13/10/1933,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1935,20/10/1934,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1936,26/10/1935,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1937,21/10/1936,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1938,06/11/1937,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1939,24/10/1938,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1940,23/10/1939,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1941,28/10/1940,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1942,21/10/1941,,seed sown,seeding process,wheat,,,winter wheat,Sherriff's Stand Up,,
+R/WF/3,1943,15/10/1942,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master,,
+R/WF/3,1944,08/10/1943,,seed sown,seeding process,wheat,,,winter wheat,Red standard,,
+R/WF/3,1945,30/10/1944,,seed sown,seeding process,wheat,,,winter wheat,Red Standard,,
+R/WF/3,1946,15/10/1945,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1947,18/10/1946,,seed sown,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1948,25/10/1947,,seed drilled,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1949,23/10/1948,,seed drilled,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1950,31/10/1949,,seed drilled,seeding process,wheat,,,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1950,21/04/1950,,seed drilled,seeding process,wheat,,,spring wheat,Fylgia,,
+R/WF/3,1951,18/10/1950,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1952,19/10/1951,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1953,27/10/1952,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1954,22/10/1953,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1955,07/12/1954,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1956,02/11/1955,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1957,27/10/1956,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1958,15/10/1957,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1959,21/11/1958,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1960,19/10/1959,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1961,17/01/1961,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1962,01/11/1961,,seed sown,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1963,23/11/1962,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1963,23/11/1962,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Cappelle,,
+R/WF/3,1964,16/10/1963,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1964,16/10/1963,,seed drilled,seeding process,wheat,3,bushels/acre,winter wheat,Rothwell Perdix,,
+R/WF/3,1965,26/10/1964,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Squareheads Master 13/4,,
+R/WF/3,1965,26/10/1964,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Cappelle,,
+R/WF/3,1966,05/11/1965,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Cappelle,,
+R/WF/3,1966,05/11/1965,,seed drilled,seeding process,wheat,190,lb/are,winter wheat,Rothwell Perdix,,
+R/WF/3,1966,02/05/1966,,redrilled with Kloka spring wheat,seeding process,"wheat: A3, A4",230,lb/are,winter wheat,Kloka,,
+R/WF/3,1967,28/10/1966,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,
+R/WF/3,1968,19/10/1967,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,
+R/WF/3,1969,16/10/1968,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,
+R/WF/3,1970,15/10/1969,,seed drilled,seeding process,wheat,180,lb/are,winter wheat,Cappelle,Dieldrin,
+R/WF/3,1971,09/10/1970,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,
+R/WF/3,1972,22/10/1971,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,
+R/WF/3,1973,18/10/1972,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,
+R/WF/3,1974,18/10/1973,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,
+R/WF/3,1975,08/11/1974,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Dieldrin,
+R/WF/3,1976,17/10/1975,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,organomercury and/or Gamma-HCH,
+R/WF/3,1977,24/11/1976,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,organomercury and/or Gamma-HCH,
+R/WF/3,1978,19/10/1977,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Capelle,Chlorfenvinphos,
+R/WF/3,1979,11/10/1978,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,Chlorfenvinphos,
+R/WF/3,1980,16/10/1979,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,organomercury and/or Gamma-HCH,
+R/WF/3,1981,01/10/1980,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,Chlorfenvinphos,
+R/WF/3,1982,16/10/1981,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Flanders,Chlorfenvinphos,
+R/WF/3,1983,18/01/1983,,seed sown,seeding process,wheat,210,kg/ha,winter wheat,Flanders,Chlorfenvinphos,
+R/WF/3,1984,07/10/1983,,seed sown,seeding process,wheat,210,kg/ha,winter wheat,Flanders,Chlorfenvinphos,
+R/WF/3,1985,01/11/1984,,seed sown,seeding process,wheat,190,kg/ha,winter wheat,Brimstone,organomercury and/or Gamma-HCH,
+R/WF/3,1986,08/10/1985,,seed sown,seeding process,wheat,200,kg/ha,winter wheat,Brimstone,organomercury and/or Gamma-HCH,
+R/WF/3,1987,11/10/1986,,seed sown,seeding process,wheat,190,kg/ha,winter wheat,Brimstone,Fonofos,
+R/WF/3,1988,06/11/1987,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Brimstone,Fonofos,
+R/WF/3,1989,28/10/1988,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Brimstone,Fonofos,
+R/WF/3,1990,12/10/1989,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Brimstone,Fonofos,
+R/WF/3,1991,17/10/1990,,seed sown,seeding process,wheat,180,kg/ha,winter wheat,Apollo,Fonofos,
+R/WF/3,1992,15/10/1991,,seed drilled,seeding process,wheat,200,kg/ha,winter wheat,Apollo,Fonofos,
+R/WF/3,1993,19/10/1992,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Apollo,Fonofos,
+R/WF/3,1994,28/10/1993,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Apollo,Fonofos,
+R/WF/3,1995,17/11/1994,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Apollo,New Kotol,
+R/WF/3,1996,29/09/1995,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Fonofos,
+R/WF/3,1997,16/10/1996,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Beret Gold and Fonofos,
+R/WF/3,1998,27/10/1997,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Anchor and Fonofos,
+R/WF/3,1999,15/10/1998,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Sibutol and Evict,
+R/WF/3,2000,05/10/1999,,seed drilled,seeding process,wheat,380,seeds/m2,winter wheat,Hereward,Sibutol and Evict,Accord Drill
+R/WF/3,2001,02/04/2001,,seed drilled,seeding process,wheat,350,seeds/m2,winter wheat,Axona,Sibutol,Accord Drill
+R/WF/3,2002,13/10/2001,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol,Accord Drill
+R/WF/3,2003,07/10/2002,,combination drilled,seeding process,wheat,400,seeds/m2,winter wheat,Hereward,Sibutol,Accord Drill
+R/WF/3,2004,30/09/2003,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol Secur,Accord Drill
+R/WF/3,2005,06/10/2004,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol Secur,Accord Drill
+R/WF/3,2006,07/10/2005,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Sibutol Secur,Accord Drill
+R/WF/3,2007,01/11/2006,,combination drilled,seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Redigo + Deter,
+R/WF/3,2008,10/10/2007,,combination drilled,seeding process,wheat: plot 1 ,400,seeds/m2,winter wheat,Hereward,Redigo Twin and Deter,
+R/WF/3,2009,20/10/2008,,combination drilled,seeding process,wheat,400,seeds/m2,winter wheat,Hereward,Redigo Deter,
+R/WF/3,2010,05/10/2009,,combination drilled (145 kg/ha),seeding process,wheat,350,seeds/m2,winter wheat,Hereward,,
+R/WF/3,2011,15/10/2010,,drilled (158 kg/ha),seeding process,wheat,350,seeds/m2,winter wheat,Hereward,Redigo Deter,
+R/WF/3,2012,22/02/2012,,drilled,seeding process,wheat,450,seeds/m2,winter wheat,Crusoe,Redigo Deter,
+R/WF/3,2013,22/02/2013,,drilled,seeding process,wheat,450,seeds/m2,winter wheat,Crusoe,Redigo Deter,
+R/WF/3,2014,18/10/2013,,drilled,seeding process,wheat,400,seeds/m2,winter wheat,Crusoe,Redigo,
+R/WF/3,2015,28/10/2014,,drilled,seeding process,wheat,350,seeds/m2,winter wheat,Crusoe,Redigo,
+R/WF/3,2016,15/10/2015,,drilled,seeding process,wheat,350,seeds/m2,winter wheat,Crusoe,Redigo,
+R/WF/3,2017,10/10/2016,,drilled,seeding process,wheat,350,seeds/m2,winter wheat,Crusoe,Redigo Pro + Deter,
