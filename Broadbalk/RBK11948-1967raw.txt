@@ -1,0 +1,202 @@
+R/BK/1|1952| crop sections|7-Sept-1951||diary record|Dung applied, ploughed all plots
+R/BK/1|1952| crop sections|22-Oct-1951||diary record|autumn fertilizers applied
+R/BK/1|1952| crop sections|5-Nov-1951||diary record|seed drilled at 3% bushels per acre
+R/BK/1|1952| crop sections|21-Apr-1952||diary record|spring fertilizers applied
+R/BK/1|1952| crop sections|13-May-1952||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1952| crop sections|22-Aug-1952||diary record|Harvested
+R/BK/1|1952| crop sections|||variety|Squareheads Master 13/4
+R/BK/1|1952| fallow section|6-Sept-1951||diary record|ploughed
+R/BK/1|1952| fallow section|22-Apr-1952||diary record|ploughed
+R/BK/1|1952| fallow section|26-June-1952||diary record|ploughed
+R/BK/1|1952| fallow section|27-Aug-1952||diary record|ploughed
+R/BK/1|1953| cropped sections|3-Sept-1952||diary record|Dung applied and all plots ploughed
+R/BK/1|1953| cropped sections|11-Nov-1952||diary record|autumn fertilizers applied
+R/BK/1|1953| cropped sections|12-Nov-1952||diary record|seed drilled at 3 bushels per acre
+R/BK/1|1953| cropped sections|23-Apr-1953||diary record|spring fertilizers applied
+R/BK/1|1953| cropped sections|13-May-1953||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1953| cropped sections|25-Aug-1953||diary record|Harvested
+R/BK/1|1953| cropped sections|||variety|Squareheads Master 13/L
+R/BK/1|1953| fallow section|3-Sept-1952||diary record|ploughed
+R/BK/1|1953| fallow section|10-June-195||diary record|ilar 22 and
+R/BK/1|1954| cropped sections|16-Sept-1957||diary record|Dung applied, ploughed all plots
+R/BK/1|1954| cropped sections|21-Oct-1957||diary record|autumn fertilizers applied
+R/BK/1|1954| cropped sections|23-Oct-1957||diary record|seed drilled at 3 bushels per acre
+R/BK/1|1954| cropped sections|22-Apr-1954||diary record|spring fertilizers applied
+R/BK/1|1954| cropped sections|11-May-1954||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1954| cropped sections|30-Aug-1954||diary record|Harvested
+R/BK/1|1954| cropped sections|||variety|Squareheads Master 13/L
+R/BK/1|1954| fallow section|16-Sept-1953||diary record|ploughed
+R/BK/1|1954| fallow section|11-Dec-1953||diary record|ploughed
+R/BK/1|1954| fallow section|17-June-1954||diary record|ploughed
+R/BK/1|1955| cropped sections|28-Sept-1954|21-Oct-1954|diary record|Ground Chalk applied to lower half of section Vi
+R/BK/1|1955| cropped sections|1-Oct-1954||diary record|Dung applied, ploughed all plots
+R/BK/1|1955| cropped sections|20-Oct-1954||diary record|Ground Chalk applied to ammonium sulphate and castor meal plots
+R/BK/1|1955| cropped sections|5-Nov-1954||diary record|autumn fertilizers applied
+R/BK/1|1955| cropped sections|6-Dec-1954||diary record|seed drilled at 3 bushels per acre
+R/BK/1|1955| cropped sections|16-May-1955||diary record|spring fertilizers applied
+R/BK/1|1955| cropped sections|1-June-1955||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1955| cropped sections|19-Aug-1955||diary record|Harvested
+R/BK/1|1955| cropped sections|||variety|Squareheads Master 13/1
+R/BK/1|1955| fallow section|1-Oct-1954||diary record|ploughed
+R/BK/1|1955| fallow section|21-April-1955||diary record|ploughed
+R/BK/1|1955| fallow section|25-July-1955||diary record|ploughed
+R/BK/1|1956| cropped sections|6-Sept-1955||diary record|Ground Chalk and dung applied
+R/BK/1|1956| cropped sections|7-Sept-1955|14-Sept-1955|diary record|ploughed
+R/BK/1|1956| cropped sections|29-Sept-1955||diary record|autumn fertilizers applied
+R/BK/1|1956| cropped sections|2-Nov-1955||diary record|seed drilled at 2% bushels per acre
+R/BK/1|1956| cropped sections|9-May-1956|10-May-1956|diary record|spring fertilizers applied
+R/BK/1|1956| cropped sections|24-May-1956||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1956| cropped sections|1-Sept-1956|4-Sept-1956|diary record|Harvested
+R/BK/1|1956| cropped sections|||variety|Squareheads Master 13/4
+R/BK/1|1956| fallow section|7-Sept-1955|14-Sept-1955|diary record|(IB) ploughed
+R/BK/1|1956| fallow section|12-May-1956|15-May-1956|diary record|(IB) ploughed
+R/BK/1|1957| cropped sections|29-Sept-1956||diary record|Ground Chalk applied
+R/BK/1|1957| cropped sections|4-Oct-1956||diary record|Dung applied
+R/BK/1|1957| cropped sections|28-Sept-1956||diary record|ploughed
+R/BK/1|1957| cropped sections|29-Oct-1956||diary record|autumn fertilizers applied
+R/BK/1|1957| cropped sections|7-Nov-1956|12-Nov-1956|diary record|seed drilled at 22 bushels per acre
+R/BK/1|1957| cropped sections|29-Apr-1957|30-Apr-1957|diary record|spring fertilizers applied
+R/BK/1|1957| cropped sections|16-May-1957||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1957| cropped sections|7-May-1957||diary record|section 1A under continuous wheat sprayed with MCPA at 3 pints in 80 gallons per acre
+R/BK/1|1957| cropped sections|27-Aug-1957|30-Aug-1957|diary record|combine harvested
+R/BK/1|1957| cropped sections|||variety|Squareheads Master 13/L.
+R/BK/1|1957| fallow section|28-Sept-1956|8-Oct-1956|diary record|(II). ploughed
+R/BK/1|1957| fallow section|3-Apr-1957|5-Apr-1957|diary record|(II). ploughed
+R/BK/1|1957| fallow section|25-June-1957|26-June-1957|diary record|and
+R/BK/1|1957| fallow section|||diary record|In 1957 the plots were combine harvested for the first time, a single cut being made down the centre of each plot for the full length. The yield of the remainder of each plots taken by the combine) were recorded, but the yield presented in this report are from the central strip only. After combining,as much straw as could be picked up from this strip was weighed
+R/BK/1|1958| cropped sections|4-Sept-1957||diary record|Dung applied
+R/BK/1|1958| cropped sections|3-Sept-1957|17-Sept-1957|diary record|ploughed
+R/BK/1|1958| cropped sections|9-Sept-1957|16-Sept-1957|diary record|Ground Chalk applied
+R/BK/1|1958| cropped sections|20-Nov-1957||diary record|autumn fertilizers applied, seed drilled at 22 bushels per acre
+R/BK/1|1958| cropped sections|30-Apr-1958||diary record|section 14 under continuous wheat sprayed with CMPP at 6 pints in 40 gallons per acre, spring fertilizers applied
+R/BK/1|1958| cropped sections|15-May-1958||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1958| cropped sections|9-Sept-1958||diary record|combine harvested
+R/BK/1|1958| cropped sections|||variety|Squareheads Master 13/k
+R/BK/1|1958| fallow section|3-Sept-1957|17-Sept-1957|diary record|(V) ploughed
+R/BK/1|1958| fallow section|7-May-1958|9-May-1958|diary record|(V) ploughed
+R/BK/1|1958| fallow section|29-July-1958|31-July-1958|diary record|(V) ploughed
+R/BK/1|1958| fallow section|||diary record|On a few plots an estimate was made of the chaff, cavings, dust, etc, not picked up by the baler
+R/BK/1|1959| cropped sections|22-Sept-1958||diary record|Ground Chalk applied
+R/BK/1|1959| cropped sections|20-Oct-1958||diary record|ploughed
+R/BK/1|1959| cropped sections|10-Nov-1958||diary record|Dung applied
+R/BK/1|1959| cropped sections|4-Dec-1958||diary record|autumn fertilizers applied
+R/BK/1|1959| cropped sections|8-Dec-1958||diary record|seed drilled at 22 bushels per acre
+R/BK/1|1959| cropped sections|27-Apr-1959||diary record|spring fertilizers applied
+R/BK/1|1959| cropped sections|6-May-1959||diary record|second dressing of nitrate of soda applied to plot 163
+R/BK/1|1959| cropped sections|412-May-1959||diary record|section IA under continuous wheat sprayed with TCB/MCPA at 4 pints in 40 gallons per acre
+R/BK/1|1959| cropped sections|19-Aug-1959||diary record|combine harvested
+R/BK/1|1959| cropped sections|5-Jan-1959||diary record|Squareheads Master 13/4. note: owing to weather conditions plot 2 was sown on
+R/BK/1|1959| fallow section|20-Oct-1958|11-Nov-1958|diary record|(IV) ploughed
+R/BK/1|1959| fallow section|9-May-1959||diary record|(IV) ploughed
+R/BK/1|1959| fallow section|10-Aug-1959||diary record|(IV) ploughed
+R/BK/1|1959| fallow section|||diary record|On a few plots an estimate was made of the chaff, cavings, dust, etc, not picked up by the baler
+R/BK/1|1960| cropped sections|4-Sept-1959||diary record|Ground Chalk applied
+R/BK/1|1960| cropped sections|8-Sept-1959||diary record|section IA sprayed with 24 - D ester at 13 pints in 40 gallons per acre
+R/BK/1|1960| cropped sections|21-Sept-1959||diary record|Dung applied
+R/BK/1|1960| cropped sections|21-Sept-1959|28-Sept-1959|diary record|ploughed
+R/BK/1|1960| cropped sections|7-Oct-1959||diary record|autumn fertilizers applied
+R/BK/1|1960| cropped sections|19-Oct-1959||diary record|seed drilled at 22 bushels per acre
+R/BK/1|1960| cropped sections|4-Apr-1960||diary record|spring fertilizers applied
+R/BK/1|1960| cropped sections|28-Apr-1960||diary record|second dressing of nitrate of soda applied to plot 16; section IA sprayed with CMPP at 6 pints in 40 gallons per acre
+R/BK/1|1960| cropped sections|31-Aug-1960||diary record|combined
+R/BK/1|1960| cropped sections|||variety|Squareheads Master 13/L
+R/BK/1|1960| fallow section|21-Sept-1959|28-Sept-1959|diary record|(III) ploughed
+R/BK/1|1960| fallow section|26-Apr-1960||diary record|(III) ploughed
+R/BK/1|1960| fallow section|2e-July-1960||diary record|(III) ploughed
+R/BK/1|1961| cropped sections|1-Oct-1960||diary record|Ground Chalk applied
+R/BK/1|1961| cropped sections|4-Oct-1960||diary record|ploughed
+R/BK/1|1961| cropped sections|10-Oct-1960||diary record|Dung applied and ploughed in
+R/BK/1|1961| cropped sections|17-Jan-1961||diary record|autumn fertilizers applied
+R/BK/1|1961| cropped sections|18-Jan-1961||diary record|seed drilled at 3 bushels per acre
+R/BK/1|1961| cropped sections|17-Apr-1961||diary record|spring fertilizers applied
+R/BK/1|1961| cropped sections|3-May-1961||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1961| cropped sections|5-May-1961||diary record|section IA sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+R/BK/1|1961| cropped sections|1-Sept-1961||diary record|combined
+R/BK/1|1961| cropped sections|||variety|Squareheads Master 13/4
+R/BK/1|1961| fallow sections|4-Oct-1960||diary record|(Ib) ploughed
+R/BK/1|1961| fallow sections|12-June-1961||diary record|(Ib) ploughed
+R/BK/1|1961| fallow sections|11-July-1961||diary record|(Ib) ploughed
+R/BK/1|1962| cropped sections|7-Sept-1961||diary record|Dung and ground Chalk applied, all plots ploughed
+R/BK/1|1962| cropped sections|29-Sept-1961||diary record|autumn fertilizers applied
+R/BK/1|1962| cropped sections|1-Nov-1961||diary record|seed drilled at 3 bushels per acre
+R/BK/1|1962| cropped sections|17-Apr-1962||diary record|spring fertilizers applied
+R/BK/1|1962| cropped sections|24-Apr-1962||diary record|section IA sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+R/BK/1|1962| cropped sections|4s-May-1962||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1962| cropped sections|15-Sept-1962||diary record|combine harvested
+R/BK/1|1962| cropped sections|||variety|Squareheads last 13/le
+R/BK/1|1962| fallow section|7-Sept-1961||diary record|(II) ploughed
+R/BK/1|1962| fallow section|16-May-1962||diary record|(II) ploughed
+R/BK/1|1962| fallow section|16-July-1962||diary record|(II) ploughed
+R/BK/1|1963| cropped sections|27-Sept-1962||diary record|Ground Chalk applied
+R/BK/1|1963| cropped sections|27-Sept-1962||diary record|ploughed
+R/BK/1|1963| cropped sections|4-Oct-1962||diary record|Dung applied
+R/BK/1|1963| cropped sections|23-Oct-1962||diary record|autumn fertilizers applied
+R/BK/1|1963| cropped sections|30-Nov-1962||diary record|seed drilled at 3 bushels per acre
+R/BK/1|1963| cropped sections|24-Apr-1963||diary record|spring fertilizers applied
+R/BK/1|1963| cropped sections|6-May-1963||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1963| cropped sections|16-May-1963||diary record|sections IA and VB sprayed with mecoprop - D at 7 pints in 40 gallons per acre
+R/BK/1|1963| cropped sections|13-Sept-1963||diary record|combine harvested
+R/BK/1|1963| cropped sections|||variety|Squareheads Master 13/4 Rothamsted seed from Broadbalk field
+R/BK/1|1963| fallow section|27-Sept-1962|5-Oct-1962|diary record|(NA) ploughed
+R/BK/1|1963| fallow section|29-May-1963||diary record|(NA) ploughed
+R/BK/1|1963| fallow section|16-July-1963||diary record|(NA) ploughed
+R/BK/1|1963| fallow section|||note|There was & heavy attack of wheat bulb FYM Leptohylemia coarctata) on all plots of section II last after fallow, On plots 10 11 12 and 1k the crop failed and was not harvested, part of plot 19 section IV) = the crop was heavily infested with creeping grass (Holcus mollis and Agrostis stolonifera), and the harvested area was modified
+R/BK/1|1964| cropped sections|19-Sept-1963||diary record|Ground Chalk applied to section VA (first half of 5 ton dressing
+R/BK/1|1964| cropped sections|23-Sept-1963||diary record|Ground Chalk applied to plot 19 section IV at 5 ton
+R/BK/1|1964| cropped sections|23-Sept-1963||diary record|Normal annual dressing of ground Chalk applied to plots
+R/BK/1|1964| cropped sections|1-Oct-1963||diary record|Normal annual dressing of ground Chalk applied to plots
+R/BK/1|1964| cropped sections|24-Sept-1963||diary record|Dung applied
+R/BK/1|1964| cropped sections|2-Oct-1963||diary record|ploughed 25 -
+R/BK/1|1964| cropped sections|11-Oct-1963||diary record|Ground Chalk applied to section VA (remainder of 5 ton dressing
+R/BK/1|1964| cropped sections|15-Oct-1963||diary record|autumn fertilizers applied
+R/BK/1|1964| cropped sections|30-Nov-1963||diary record|seed drilled at 3 bushels
+R/BK/1|1964| cropped sections|13-Apr-1964||diary record|spring fertilizers applied
+R/BK/1|1964| cropped sections|17-Apr-1964||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1964| cropped sections|7-May-1964||diary record|all sections except VA sprayed with Dicamba/MCPA Banlene' at 4 pints in 40 gals)
+R/BK/1|1964| cropped sections|27-Aug-1964||diary record|combine harvested
+R/BK/1|1964| cropped sections|||variety|Squareheads Master 13/L Rothamsted seed from Broadbalk
+R/BK/1|1964| fallow section|25-Sept-1963|2-Oct-1963|diary record|(IV) ploughed
+R/BK/1|1964| fallow section|4-May-196k||diary record|(IV) ploughed
+R/BK/1|1964| fallow section|9-July-196k||diary record|(IV) ploughed
+R/BK/1|1965| cropped sections|9-Sept-1964||diary record|Ground Chalk applied
+R/BK/1|1965| cropped sections|9-Oct-1964|14-Oct-1964|diary record|ploughed
+R/BK/1|1965| cropped sections|13-Oct-1964||diary record|Dung applied
+R/BK/1|1965| cropped sections|19-Oct-1964||diary record|autumn fertilizers applied
+R/BK/1|1965| cropped sections|26-Oct-1964||diary record|seed drilled at 180 Ib
+R/BK/1|1965| cropped sections|26-Apr-1965||diary record|spring fertilizers applied
+R/BK/1|1965| cropped sections|10-May-1965||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1965| cropped sections|11-May-1965||diary record|sprayed* with MCPA at 1.13 1b and Dicamba at 008 1b in 3% gals
+R/BK/1|1965| cropped sections|21-Sept-1965||diary record|combine harvested
+R/BK/1|1965| cropped sections|||variety|Squareheads Master 13/4 Rothamsted seed from Broadbalk field
+R/BK/1|1965| fallow section|9-Oct-1964|14-Oct-1964|diary record|(IV) ploughed
+R/BK/1|1965| fallow section|30-Nov-1964||diary record|(IV) ploughed
+R/BK/1|1965| fallow section|21-July-1965||diary record|(IV) ploughed
+R/BK/1|1966| cropped sections|4-Oct-1965||diary record|section IA (sll plots, plot 20 sections IB and II) sprayed with aminotriazole at 4 1b and ammonium thiocyanate at 3.7 1b
+R/BK/1|1966| cropped sections|7-Oct-1965||diary record|Ground Chalk applied
+R/BK/1|1966| cropped sections|28-Oct-1965||diary record|Dung applied
+R/BK/1|1966| cropped sections|29-Oct-1965||diary record|ploughed
+R/BK/1|1966| cropped sections|15-Nov-1965||diary record|autumn fertilizers applied
+R/BK/1|1966| cropped sections|7-Jan-1966||diary record|seed drilled et 187 1b
+R/BK/1|1966| cropped sections|2-May-1966||diary record|spring fertilizers applied
+R/BK/1|1966| cropped sections|16-May-1966||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1966| cropped sections|16-May-1966||diary record|sprayed with Ioxynil/mecoprop Actril C at 6 pints in LO gals), all sections except VA
+R/BK/1|1966| cropped sections|6-Sept-1966||diary record|combine harvested
+R/BK/1|1966| cropped sections|||variety|Squareheads Master 13/B Rothamsted seed from Broadbalk field
+R/BK/1|1966| fallow section|29-Oct-1965|1-Nov-1965|diary record|(IB) ploughed
+R/BK/1|1966| fallow section|23-May-1966||diary record|(IB) ploughed
+R/BK/1|1966| fallow section|14-July-1966|15-July-1966|diary record|(IB) ploughed
+R/BK/1|1967| cropped sections|16-Sept-1966||diary record|section IA, sprayed with aminotriazole at 4 1b and ammonium thiocyanate at 3.7 1b in 40 gals
+R/BK/1|1967| cropped sections|21-Sept-1966||diary record|Ground Chalk applied
+R/BK/1|1967| cropped sections|12-Oct-1966||diary record|ploughed
+R/BK/1|1967| cropped sections|14-Oct-1966||diary record|Dung applied and ploughed in
+R/BK/1|1967| cropped sections|2-Nov-1966||diary record|autumn fertilizers applied
+R/BK/1|1967| cropped sections|3-Nov-1966||diary record|rotary cultivated, seed drilled at 185 1b
+R/BK/1|1967| cropped sections|19-Apr-1967||diary record|spring fertilizers applied
+R/BK/1|1967| cropped sections|27-Apr-1967||diary record|second dressing of nitrate of soda applied to plot 16
+R/BK/1|1967| cropped sections|1-May-1967||diary record|all sections except Va sprayed with ioxynil/mecoprop Actril C at 6 pints in 20 gals)
+R/BK/1|1967| cropped sections|31-Aug-1967||diary record|combine harvested
+R/BK/1|1967| cropped sections|||variety|Squareheads Master 13/4 Rothamsted seed from Broadbalk field
+R/BK/1|1967| fallow section|12-Oct-1966||diary record|II: ploughed
+R/BK/1|1967| fallow section|3-Nov-1966||diary record|rotary cultivated
+R/BK/1|1967| fallow section|29-Mar-1967||diary record|ploughed
+R/BK/1|1967| fallow section|5-July-1967||diary record|and
