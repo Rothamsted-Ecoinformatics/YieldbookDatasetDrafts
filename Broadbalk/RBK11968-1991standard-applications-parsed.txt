@@ -1,0 +1,269 @@
+R/BK/1|1969|winter wheat|weedkiller|paraquat at 0.75 1b ion in 20 gals to all sections except 6 (following fallow) and 8 (o weedkiller
+R/BK/1|1969|winter wheat|weedkiller|terbutryne and related triazines, ('Prebane at 4 1b in 25 gals) to all sections except 8, MCPA, mecoprop and Dicamba (Banlene Plus' at 4 pints in 20 gals) to 211 sections except 8.
+R/BK/1|1969|potatoes|weedkiller|paraquat at 0.75 1b ion in 20 gals
+R/BK/1|1969|potatoes|weedkiller|paraquat at 0.375 1b ion plus linuron at 0.75 1b in 37 gals.
+R/BK/1|1969|potatoes|Fungicide|mancozeb at 1.2 1b in 37 gals on 3 occasions,
+R/BK/1|1969|potatoes|insecticide|demeton-s-methyl at 3.5 oz applied with second applications of mancozeb,
+R/BK/1|1969|spring beans|insecticide|demeton-s-methyl at 3.5 oz in 37 gals (o weedkiller.
+R/BK/1|1969|fallow|weedkiller|paraquat at 0.75 1b ion in 20 gals.
+R/BK/1|1969|section 00||Methyl bromide sub-plotsi- No further soil fumigation has carted out for 1969, residual effects of the applications in autumn 1967 being tested, Cultivations, etc- all sections autumn fertilizers applied 25 Sept, 1968, FYM applied 4 Oct
+R/BK/1|1969|section 00||ploughed 1 - 5 Oct
+R/BK/1|1969|section 00||cropped sections
+R/BK/1|1969|winter wheat||paraquat applied 5 - 10 Sept, 1968,
+R/BK/1|1970|winter wheat|weedkiller|terbutryne and related triazines ('Prebane' at 4 1v in 2C gals) to all sections except 8 (o weedkiller, MCPA, mecoprop and Dicamba ('Banlene Plus' at 4 pints in 20 gals) to all sections except 8,
+R/BK/1|1970|potatoes|weedkiller|paraquat at 0.375 1b ion plus linuron at 1 1b in 20 gals,
+R/BK/1|1970|potatoes|Fungicide|mancozeb at 1.2 1b in 40 gals on 2 occasions,
+R/BK/1|1970|potatoes|insecticide|demeton-s-methyl at 3.5 oz with the Tirst applications of mancozeb,
+R/BK/1|1970|spring beans|insecticide|demeton-s-methyl at 3.5 oz in LO gals,
+R/BK/1|1970|section 00||Methyl bromide plots No yield were taken, This investigation has now ceased, Cultivations, etc, :- AL] sections autumn fertilizers applied 29 Sept, 1969
+R/BK/1|1970|section 00||plot 01 shallow rotary cultivated to incorporate fertilizers, FYM applied 1 Oct, ploughed 2 - & Oct
+R/BK/1|1970|section 00||cropped sections
+R/BK/1|1970|winter wheat||rotary cultivated 12 Sept, 1969
+R/BK/1|1970|winter wheat||all plots rotary cultivated second time, plots 15 - 19, sections O and 1 rotary cultivated third time 13 Oct.
+R/BK/1|1971|winter wheat|weedkiller|paraquat at 0.84 kg ion in 225 1 to section O only
+R/BK/1|1971|winter wheat|weedkiller|terbutryne and related triazines ('Prebane' at 4.48 kg in 225 1), MCPA, mecoprop and Dicamba ('Banlene Plus’ at 5.6 1 in 225 1) to all sections except 8,
+R/BK/1|1971|potatoes|weedkiller|paraquat at 0.56 kg ion in 225 1, Linuron at 0.84 kg plus paraquat at 0.42 kg ion in 427 1,
+R/BK/1|1971|potatoes|Fungicide|mancozeb at 1.34 kg in 438 1 on 2 occasions,
+R/BK/1|1971|spring beans|weedkiller|paraquat at 0.56 kg ion in 225 1.
+R/BK/1|1971|spring beans|insecticide|demeton-s-methyl at 245 g in 438 1, Cultivations, etc- all sections autumn fertilizers applied 18 Sept, 1970
+R/BK/1|1971|spring beans|insecticide|FYM applied 22 Sept
+R/BK/1|1971|spring beans|insecticide|ploughed 21 - 23 Sept
+R/BK/1|1971|spring beans|insecticide|cropped sections
+R/BK/1|1971|winter wheat||paraquat applied to section 0: 11 Sept, 1970.
+R/BK/1|1972|all crops||- : : |
+R/BK/1|1972|winter wheat|weedkiller|aminotriazole at 4.5 kg plus ammonium thiocyanate at 4.2 kg in 220 1 (ot applied to section 6, first wheat crop after fallow, terbutryne and related triazines (Prebane at 4.5 kg in 220 1)
+R/BK/1|1972|winter wheat|weedkiller|MCPA, mecoprop and Dicamba (Banlene Plus' at 5.6 1 in 220 1).
+R/BK/1|1972|potatoes|weedkiller|aminotriazole at 4.5 kg plus ammonium thiocyanate at 4.2 kg in 220 1
+R/BK/1|1972|potatoes|weedkiller|Linuron at 0.84 kg plus paraquat at 0.42 kg ion in all 1,
+R/BK/1|1972|potatoes|Fungicide|mancozeb at 1.4 kg in L4O 1 on 3 occasions,
+R/BK/1|1972|potatoes|insecticide|demeton-s-methyl at 0.25 kg applied with the mancozeb on the second occasion,
+R/BK/1|1972|spring beans|insecticide|phorate at 1.1 kg applied as granules, demeton-s-methyl at 0.25 kg in L4O 1 applied to ends of plots,
+R/BK/1|1973|winter wheat||terbutryne and related triazines ('Prebane' at 4.5 kg in 220 1), Dicamba, mecoprop and MCPA ('Tetralex Plus' at 9.1 1 in 290 1).
+R/BK/1|1973|potatoes|weedkiller|Linuron at 3.8 kg plus paraquat at 0.42 kg ion in 450 1,
+R/BK/1|1973|potatoes|Fungicide|mancozeb at 1.35 kg in 370 1 on top occasions,
+R/BK/1|1973|potatoes|insecticide|demeton-s-methyl at 0.25 kg applied with the mancozeb on the first occasion,
+R/BK/1|1973|spring beans|insecticide|demeton-s-methyl at 0.25 kg in 370 1.
+R/BK/1|1974|winter wheat|weedkiller|sections 0 and 9: aminotriazole plus ammonium ~ thiocyanate (''Weedazol! at 22.5 1 in 220 1)
+R/BK/1|1974|winter wheat|weedkiller|sections 0.1, 3, &, 5 and 93 terbutryne and related triazines (Prebane at 4.5 kg in 220 1)
+R/BK/1|1974|winter wheat|weedkiller|Dicamba with mecoprop and MCPA (Banlene Plus‘ at 5.6 1 in 220 1).
+R/BK/1|1974|potatoes|weedkiller|Linuron at 1.2 kg plus paraquat at 0.42 kg ion in 450 1.
+R/BK/1|1974|potatoes|Fungicide|mancozeb at.1.3 kg in 450 1 on top occasions.
+R/BK/1|1974|potatoes|insecticide|demeton-s-methyl at 0.25 kg applied with mancozeb on first occasion, : :
+R/BK/1|1974|spring beans|insecticide|demeton-s-methyl at 0.25 kg in 450 1.
+R/BK/1|1975|winter wheat|weedkiller|ioxynil with mecoprop ('Actril C! at 7.7 1 in 220 1) except section 8.
+R/BK/1|1975|potatoes|weedkiller|Linuron at 1.1 kg plus paraquat at 0.42 kg ion in 450 1.
+R/BK/1|1975|potatoes|Fungicide|mancozeb at 1.3 kg applied with demeton-s-methyl on second occasion,
+R/BK/1|1975|potatoes|insecticide|demeton-s-methyl at 0.25 kg in 450 1 on twee occasions
+R/BK/1|1975|potatoes|insecticide|beans
+R/BK/1|1975|potatoes|insecticide|demeton-s-methyl at 0.25 kg in 450 1.
+R/BK/1|1976|all crops|manures|section 1: Chalk at 3.1 t.
+R/BK/1|1976|all crops|weedkiller|sections 0, 1 and 9: glyphosate at 1.7 kg in 220 1
+R/BK/1|1976|all crops|weedkiller|sections 0, 1, 5, 6, 7 and terbutryne and related triazines (Prebane at 4.5 kg in 220 1)
+R/BK/1|1976|all crops|weedkiller|Dicamba with mecoprop and MCPA (Banlene Plus® at 5.6 1 in 220 1).
+R/BK/1|1976|all crops|insecticide|primicarb at 0.14 kg in 220 1
+R/BK/1|1976|all crops|insecticide|section 9 only Dimethcate at 0.11 kg in 220 l.
+R/BK/1|1976|potatoes|manures|Chalk at 3.1 t.
+R/BK/1|1976|potatoes|weedkiller|Linuron at 1.2 kg plus paraquat at 0.42 kg ion in 220 1.
+R/BK/1|1976|potatoes|Fungicide|mancozeb at 1.3 kg in 450 1.
+R/BK/1|1976|potatoes|insecticide|primicarb at 0.14 kg in 450 1.
+R/BK/1|1976|fallow|manures|Chalk at 3.1 t.
+R/BK/1|1977|winter wheat|manures|sections 8 and 9: Chalk at 2.9 t.
+R/BK/1|1977|winter wheat|weedkiller|section 4: Diquat at 0.59 kg ion in 450 1
+R/BK/1|1977|winter wheat|weedkiller|sections 0, 1 and 9: glyphosate at 1.7 kg in 220 1
+R/BK/1|1977|winter wheat|weedkiller|sections 0, 1, 3.4, 5 and 9: ioxynil at 0.53 kg with mecoprop at 1.6 kg in 220 1 applied in spring.
+R/BK/1|1977|winter wheat|insecticide|primicarb at 0.14 kg in 280 1.
+R/BK/1|1977|potatoes|manures|Chalk at 2.9 t.
+R/BK/1|1977|potatoes|weedkiller|Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 340 1.
+R/BK/1|1977|potatoes|Fungicide|mancozeb at 1.3 kg in 340 1.
+R/BK/1|1977|potatoes|insecticide|primicarb at 0.14 kg applied with the Fungicide.
+R/BK/1|1977|beans|insecticide|primicarb at 0.14 kg in 280 1.
+R/BK/1|1977|fallow||Chalk at 2.9 t.
+R/BK/1|1978|winter wheat|manures|section 0: Chalk at 2.9 t.
+R/BK/1|1978|winter wheat|weedkiller|(ot applied to section 8) terbutryne at 2.8 kg in 220 1
+R/BK/1|1978|winter wheat|weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 1 in 220 1).
+R/BK/1|1978|winter wheat|insecticide|(section 6 only) Omethoate at 0.65 kg in 220 1.
+R/BK/1|1978|potatoes|manures|Chalk at 2.9 t.
+R/BK/1|1978|potatoes|weedkiller|paraquat at 0.84 kg ion in 220 1
+R/BK/1|1978|potatoes|weedkiller|Linuron at 1.1 kg in 220 1.
+R/BK/1|1978|potatoes|Fungicide|mancozeb at 1.3 kg in 220 1
+R/BK/1|1978|potatoes|Fungicide|Fentin acetate and maneb (''Fennite A' at 1.7 kg in 220 1).
+R/BK/1|1978|potatoes|insecticide|primicarb at 0.14 kg in 220 1
+R/BK/1|1978|potatoes|insecticide|:
+R/BK/1|1978|beans|insecticide|primicarb at 0.14 kg in 220 1
+R/BK/1|1978|beans|insecticide|desiccant Diquat at 0.59 kg ion with 'gals' (a wetting agent) at 0.28 kg in 220 1
+R/BK/1|1978|beans|insecticide|per or
+R/BK/1|1978|beans|manures|Chalk at 2.9 t.
+R/BK/1|1978|beans|weedkiller|paraquat at 0.84 kg ion in
+R/BK/1|1979|winter wheat|manures|section 1 only (Chalk at 2.9 t.
+R/BK/1|1979|winter wheat|weedkiller|glyphosate at 1.5 kg in 220 1 (applied to sections 0, 1, 6 and 9 only)
+R/BK/1|1979|winter wheat|weedkiller|(chlortoluron at 3.6 kg in 220 1 to all wheat sections except 8
+R/BK/1|1979|winter wheat|weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.2 kg in 220 1) to all wheat sections except 8.
+R/BK/1|1979|winter wheat|Fungicide|triadimenol at 0.13 kg in 220 1.
+R/BK/1|1979|potatoes|Fungicide|mancozeb at 1.4 kg in 220 1 applied on five occasions, with
+R/BK/1|1979|potatoes|insecticide|on the first three.
+R/BK/1|1979|potatoes|insecticide|primicarb at 0.14 kg.
+R/BK/1|1979|fallow|weedkiller|glyphosate at 1.5 kg in 220 1
+R/BK/1|1979|fallow|weedkiller|? note single autumn 1975 Chalk is applied at 2.9 t each autumn to set of sections on a three-year cycle
+R/BK/1|1979|fallow|weedkiller|ear 1: sections 1, 2, 3
+R/BK/1|1979|fallow|weedkiller|ear 2: sections 6, 7, 8 & 9
+R/BK/1|1979|fallow|weedkiller|ear 3: sections 0, 4, 5
+R/BK/1|1979|fallow|weedkiller|(Chalk is applied to all plots of each section.
+R/BK/1|1980|all crops|manures|sections 6, 8 and 9 only Chalk at 2.9 t.
+R/BK/1|1980|all crops|weedkiller|(ot section 8) chlortoluron at 5.6 kg in 220 1
+R/BK/1|1980|all crops|weedkiller|Dicamba with mecoprop and MCPA (s 'Banlene Plus' at 5.0 1) in 250 1.
+R/BK/1|1980|all crops|Fungicide|triadimenol at 0.13 kg in 250 1.
+R/BK/1|1980|all crops|insecticide|demeton-s-methyl at 0.24 kg in 250 1
+R/BK/1|1980|all crops|insecticide|Omethoate (o section 3 only) (s 'olimat' at 1.1 1) in 220 1
+R/BK/1|1980|all crops|insecticide|.
+R/BK/1|1980|potatoes|weedkiller|Linuron at 1.1 kg in 900 1.
+R/BK/1|1980|potatoes|Fungicide|mancozeb at 1.4 kg in 250 1 applied on six occasions, with primicarb on the : ~~ first five.
+R/BK/1|1980|potatoes|insecticide|phorate at 1.7 kg, at plants
+R/BK/1|1980|potatoes|insecticide|primicarb at 0.14 kg.
+R/BK/1|1980|fallow||section 7: Chalk at 2.9 t
+R/BK/1|1980|fallow||5 "A
+R/BK/1|1981|all crops|manures|sections 0 and 5 only Chalk at 2.9 t.
+R/BK/1|1981|all crops|weedkiller|not applied to section 8) chlortoluron at 5.6 1 in 250 1
+R/BK/1|1981|all crops|weedkiller|mecoprop with bromoxynil and ioxynil (s 'rittox' at 3.7 1) in 250 1
+R/BK/1|1981|all crops|weedkiller|section 9 only glyphosate at 1.5 1 in 250 1.
+R/BK/1|1981|all crops|Fungicide|Prochloraz at 0.4 1 in 250 1
+R/BK/1|1981|all crops|Fungicide|Prochloraz at 0.4 1 with maneb at 1.2 kg and : zineb at 0.13 kg in 250 1 applied on top occasions; to sections 0.1,2.3 and plots 01.21.22 and 03 of sections 5 and 6 on the first and second occasions and to remaining wheat on the second occasion only
+R/BK/1|1981|all crops|Fungicide|(rain has believed to have swathed off the first applications.
+R/BK/1|1981|potatoes|weedkiller|Linuron at 1.1 kg and paraquat at 0.6 kg ion in 250 1.
+R/BK/1|1981|potatoes|Fungicide|mancozeb at 1.4 kg in 250 1 applied on five : occasions, with primicarb.
+R/BK/1|1981|potatoes|insecticide|phorate at 1.7 kg at plants
+R/BK/1|1981|potatoes|insecticide|primicarb at 0.14 kg
+R/BK/1|1981|potatoes|insecticide|desiccant BOV at 170 1.
+R/BK/1|1981|fallow|manures|Chalk at 2.9 t to section 4 only.
+R/BK/1|1982|all crops|manures|sections 1 and 3 only Chalk at 2.9 t.
+R/BK/1|1982|all crops|weedkiller|not applied to section 8) chlortoluron at 5.6 1 in 250 1; mecoprop, bromoxynil and ioxynil has 'rittox' at 3.5 1) in 250 1
+R/BK/1|1982|all crops|weedkiller|plots 03, 05 and 06, sections 0.1,5.6 and 7 and plot 05, section 9: glyphosate at 1.4 kg in 250 1.
+R/BK/1|1982|all crops|Fungicide|propiconazole at 0.12 kg in 250 1 applied twice, with the
+R/BK/1|1982|all crops|insecticide|on the second occasion.
+R/BK/1|1982|all crops|insecticide|primicarb at 0.14 kg.
+R/BK/1|1982|potatoes|weedkiller|Linuron at 1.1 kg and paraquat at 0.5 kg ion in 250 1.
+R/BK/1|1982|potatoes|Fungicide|mancozeb at 1.4 kg in 250 1 on three occasions, with the
+R/BK/1|1982|potatoes|insecticide|on the first top
+R/BK/1|1982|potatoes|insecticide|Ofurace at 0.12 kg and maneb at 1.2 kg in 250 1, on top occasions with the
+R/BK/1|1982|potatoes|insecticide|on the first.
+R/BK/1|1982|potatoes|insecticide|primicarb at 0.14 kg
+R/BK/1|1982|potatoes|insecticide|desiccant BOV at 220 1.
+R/BK/1|1982|fallow|manures|Chalk at 2.9 t.
+R/BK/1|1983|all crops|manures|sections 6, 8 and 9 only Chalk at 2.9 ¢t
+R/BK/1|1983|all crops|manures|-
+R/BK/1|1983|all crops|weedkiller|(ot applied to section 8) mecoprop, bromoxynil and ioxynil (s 'rittox' at 3.5 1) with isoproturon at 2.1 kg in 250 1.
+R/BK/1|1983|all crops|Fungicide|propiconazole at 0.12 kg on top occasions, in 500 1 on the first and in 250 1 on the second.
+R/BK/1|1983|potatoes|weedkiller|Linuron at 1.6 1 and paraquat at 0.56 kg ion in 500 1.
+R/BK/1|1983|potatoes|Fungicide|mancozeb at 1.4 kg in 250 1
+R/BK/1|1983|potatoes|Fungicide|Fentin hydroxide at 0.28 kg in 250 1 on five occasions with the
+R/BK/1|1983|potatoes|insecticide|on the first four.
+R/BK/1|1983|potatoes|insecticide|primicarb at 0.14 kg.
+R/BK/1|1983|fallow|manures|Chalk at 2.9 t.
+R/BK/1|1984|all crops|manures|sections 0 and 5 only Chalk at 2.9 t.
+R/BK/1|1984|all crops|weedkiller|(ot applied to section 8) chlortoluron at 3.5 kg in 250 1
+R/BK/1|1984|all crops|weedkiller|Cyanazine at 0.30 1 and mecoprop at 2.0 1 in 250 1.
+R/BK/1|1984|all crops|Fungicide|propiconazole at 0.25 kg in 250 1.
+R/BK/1|1984|all crops|insecticide|primicarb at 0.14 kg in 500 1.
+R/BK/1|1984|potatoes|weedkiller|Linuron at 1.3 kg and paraquat at 0.50 kg ion in 500 1.
+R/BK/1|1984|potatoes|Fungicide|Fentin hydroxide at 0.28 kg, on six occasions, the first in 250 1 and the remainder in 200 1, applied with the
+R/BK/1|1984|potatoes|insecticide|on the first and third occasions.
+R/BK/1|1984|potatoes|insecticide|primicarb at 0.14 kg on top occasions.
+R/BK/1|1984|fallow|manures|Chalk at 2.9 t.
+R/BK/1|1985|all crops|manures|sections 1, 2 and 3 only Chalk at 2.9 t.
+R/BK/1|1985|all crops|weedkiller|(ot applied to section 8) Isoproturon at 2.0 kg with mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg in 200 1.
+R/BK/1|1985|all crops|Fungicide|not applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg in 200 1 applied with the growth regulator
+R/BK/1|1985|all crops|Fungicide|Fenpropimorph at 0.75 kg with captafol at 1.3 kg in 200 1
+R/BK/1|1985|all crops|Fungicide|propiconazole at 0.12 kg with carbendazim and maneb (s Septal' at 2.5 kg) in 200 1.
+R/BK/1|1985|all crops|insecticide|(ot applied to section 6) primicarb at 0.14 kg in 200 1
+R/BK/1|1985|all crops|insecticide|Growth regulator (ot applied to section 6) Chlormequat at 1.3 kg.
+R/BK/1|1985|potatoes|weedkiller|Linuron at 1.3 kg with paraquat at 0.50 kg ion : in 500 1.
+R/BK/1|1985|potatoes|Fungicide|mancozeb at 1.4 kg in 200 1 on four occasions, with the
+R/BK/1|1985|potatoes|insecticide|on the second and third occasions
+R/BK/1|1985|potatoes|insecticide|Fentin hydroxide at 0.28 kg in 200 1.
+R/BK/1|1985|potatoes|insecticide|primicarb at 0.14 kg on top occasions
+R/BK/1|1985|potatoes|insecticide|Haulm desiccant Diquat at 0.80 kg ion in 500 1.
+R/BK/1|1986|all crops|manures|sections 6, 7, 8 and 9 only Chalk at 2.9 t.
+R/BK/1|1986|all crops|weedkiller|(ot applied to section 8) Isoproturon at 2.0 kg with clopyralid at 0.07 kg, bromoxynil octanoate at 0.34 kg and mecoprop at 2.5 kg in 200 1.
+R/BK/1|1986|all crops|Fungicide|(ot applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg in 200 1 applied with the growth regulator
+R/BK/1|1986|all crops|Fungicide|Fenpropimorph at 0.75 kg with captafol at 1.4 kg in 200 1
+R/BK/1|1986|all crops|Fungicide|propiconazole at 0.12 kg with carbendazim and maneb (s Septal at 2.5 kg) in 200 1.
+R/BK/1|1986|all crops|insecticide|(o section 4 only) Chlorfenvinphos at 1.0 kg in 200 1
+R/BK/1|1986|all crops|insecticide|Growth regulator (ot applied to section 6) Chlormequat chloride at 1.3 kg.
+R/BK/1|1986|potatoes|weedkiller|Linuron at 1.3 kg in 500 1.
+R/BK/1|1986|potatoes|Fungicide|mancozeb at 1.4 kg on four occasions, in 200 1 on the first and second occasion and applied with the
+R/BK/1|1986|potatoes|insecticide|in 500 1 and 200 1 on the third and four occasion respectively.
+R/BK/1|1986|potatoes|insecticide|primicarb at 0.14 kg on top occasions
+R/BK/1|1986|potatoes|insecticide|Haulm desiccant Diquat at 0.80 kg ion in 500 1.
+R/BK/1|1987|all crops|manures|Chalk at 2.9 t (sections 0, 4 and 5 only).
+R/BK/1|1987|all crops|weedkiller|(ot applied to section 8) Methabenzthiazuron at 3.2 kg in 200 1
+R/BK/1|1987|all crops|weedkiller|Clopyralid at 0.07 kg, bromoxynil at 0.34 kg and mecoprop at 2.5 kg in 200 1.
+R/BK/1|1987|all crops|Fungicide|(ot applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg in 200 1 with the growth regulator
+R/BK/1|1987|all crops|Fungicide|Fenpropimorph at 0.75 kg with chlorothalonil at 1.0 kg in 200 1, propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 1
+R/BK/1|1987|all crops|Fungicide|Growth fester (ot applied to section 6) Chlormequat chloride at 1.3 kg.
+R/BK/1|1987|potatoes|weedkiller|Linuron at 1.6 kg in 500 1.
+R/BK/1|1987|potatoes|Fungicide|mancozeb at 1.4 kg on four occasions in 200 1, applied with the
+R/BK/1|1987|potatoes|insecticide|on the second
+R/BK/1|1987|potatoes|insecticide|Fentin hydroxide at 0.28 kg in 200 1.
+R/BK/1|1987|potatoes|insecticide|primicarb at 0.14 kg
+R/BK/1|1987|potatoes|insecticide|Haulm desiccant Diquat at 0.80 kg ion in 500 1,
+R/BK/1|1987|fallow|weedkiller|glyphosate at 1.4 kg in 200 1 on top occasions.
+R/BK/1|1988|all crops|weedkiller|Fluroxypyr at 0.20 kg with clopyralid at 0.07 kg and bromoxynil at 0.34 kg in 200 1
+R/BK/1|1988|all crops|weedkiller|Diclofop-methyl at 1.1 kg with fluroxypyr at 0.15 kg in 260 1.
+R/BK/1|1988|all crops|Fungicide|(ot applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg in 260 1 applied with the growth regulator
+R/BK/1|1988|all crops|Fungicide|propiconazole at 0.12 kg and Tridemorph at 0.25 kg with the primicarb in 200 1
+R/BK/1|1988|all crops|Fungicide|Carbendazim at 0.25 kg and maneb at 1.6 kg with propiconazole at 0.12 kg in 200 1.
+R/BK/1|1988|all crops|insecticide|(ot applied to section 6) primicarb at 0.14 kg
+R/BK/1|1988|all crops|insecticide|Growth regulator (ot applied to section 6) Chlormequat chloride at 1.3 kg.
+R/BK/1|1988|potatoes|weedkiller|Linuron at 1.6 kg in 260 1.
+R/BK/1|1988|potatoes|Fungicide|mancozeb at 1.4 kg on five occasions, on the first top with the primicarb
+R/BK/1|1988|potatoes|Fungicide|Manganese zinc ethylene bisdithiocarbamate at 1.4 kg in 200 1
+R/BK/1|1988|potatoes|Fungicide|Fentin hydroxide at 0.27 kg in 200 1.
+R/BK/1|1988|potatoes|insecticide|primicarb at 0.14 kg.
+R/BK/1|1989|all crops|manures|Chalk at 2.9 t (o sections 1 and 3 only).
+R/BK/1|1989|all crops|weedkiller|glyphosate at 1.4 kg in 200 1 (except to sections 2 and 8)
+R/BK/1|1989|all crops|weedkiller|Isoproturon at 2.5 kg in 200 1 (except to section 8)
+R/BK/1|1989|all crops|weedkiller|mecoprop at 2.2 kg, bromoxynil at 0.28 kg and ioxynil at 0.28 kg with isoproturon at 2.1 kg in 200 1 (except to section 8).
+R/BK/1|1989|all crops|Fungicide|(except to section 6} Prochloraz at 0.40 kg and carbendazim at 0.15 kg applied with the growth regulator in 200 1
+R/BK/1|1989|all crops|Fungicide|Fenpropimorph at 0.56 kg with chlorothalonil at 0.75 kg in 200 1
+R/BK/1|1989|all crops|Fungicide|propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 1
+R/BK/1|1989|all crops|Fungicide|Growth regulator (except to section 6) Chlormequat chloride at 1.6 kg.
+R/BK/1|1989|potatoes|weedkiller|Metribuzin at 1.0 kg in 300 1.
+R/BK/1|1989|potatoes|Fungicide|mancozeb at 1.4 kg in 200 1 on three occasions and at 1.0 kg in 200 1 on a four occasion
+R/BK/1|1989|potatoes|Fungicide|Fentin hydroxide at 0.27 kg in 260 1.
+R/BK/1|1989|fallow|weedkiller|glyphosate at 1.4 kg in 200 1.
+R/BK/1|1990|all crops|manures|Chalk at 2.9 t (o sections 2 and 8 only).
+R/BK/1|1990|all crops|weedkiller|glyphosate at 1.4 kg in 200 1 (except to sections 7 and 8)
+R/BK/1|1990|all crops|weedkiller|Isoproturon at 1.7 kg with mecoprop at 2.0 kg in 200 1 (except to section 8)
+R/BK/1|1990|all crops|weedkiller|mecoprop at 2.2 kg, bromoxynil at 0.28 kg and ioxynil at 0.28 kg in 200 1 (o sections 0, 1, 2 and 3)
+R/BK/1|1990|all crops|weedkiller|mecoprop at 3.6 kg, bromoxynil at 0.45 kg and ioxynil at 0.45 kg in 200 1 (o sections 6, 7 and 9)
+R/BK/1|1990|all crops|weedkiller|Fluroxypyr at 0.40 kg in 200 1 (except to section 8).
+R/BK/1|1990|all crops|Fungicide|(except to section 6) ; Prochloraz at 0.40 kg applied with the growth regulator in 200 1
+R/BK/1|1990|all crops|Fungicide|Chlorothalonil at 1.0 kg with fenpropimorph at 0.75 kg in 200 1
+R/BK/1|1990|all crops|Fungicide|propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 1
+R/BK/1|1990|all crops|Fungicide|Growth regulator (except to section 6) Chlormequat chloride at 1.6 kg
+R/BK/1|1990|all crops|Fungicide|8
+R/BK/1|1990|potatoes|weedkiller|glyphosate at 1.4 kg in 200 1
+R/BK/1|1990|potatoes|weedkiller|Linuron at 1.6 kg in 200 1.
+R/BK/1|1990|potatoes|Fungicide|maneb at 0.96 kg and zinc oxide at 0.022 kg applied with the
+R/BK/1|1990|potatoes|insecticide|in 200 1
+R/BK/1|1990|potatoes|insecticide|maneb at 0.96 kg and zinc oxide at 0.022 kg with a wetting agent, ‘Bond’ at 0.20 1, in 200 1
+R/BK/1|1990|potatoes|insecticide|mancozeb at 1.0 kg in 200 1 on top occasions
+R/BK/1|1990|potatoes|insecticide|Fentin hydroxide at 0.27 kg in 200 1 on top occasions.
+R/BK/1|1990|potatoes|insecticide|demeton-s-methyl at 0.24 kg in 200 1.
+R/BK/1|1990|fallow|weedkiller|glyphosate at 1.4 kg in 200 1.
+R/BK/1|1991|all crops|manures|Chalk at 2.9 t (o sections 7 and 9 only).
+R/BK/1|1991|all crops|weedkiller|glyphosate at 1.4 kg in 200 1 (except to sections 4 and 8)
+R/BK/1|1991|all crops|weedkiller|Diflufenican at 0.12 kg and isoproturon at 2.2 kg in 200 1 except to section 8)
+R/BK/1|1991|all crops|weedkiller|glyphosate at 2.2 kg with a wetting agent, ‘MAFF Adjuvant no
+R/BK/1|1991|all crops|weedkiller|0004" at 2.9 1, at 150 1 (except to section 8).
+R/BK/1|1991|all crops|Fungicide|(except to section 6) Prochloraz at 0.40 kg with the growth regulator in 200 1
+R/BK/1|1991|all crops|Fungicide|propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 200 1
+R/BK/1|1991|all crops|Fungicide|Fenpropimorph at 0.75 kg in 200 1
+R/BK/1|1991|all crops|Fungicide|Growth regulator (except to section 6) Chlormequat chloride at 1.6 kg.
+R/BK/1|1991|potatoes|weedkiller|glyphosate at 1.4 kg in 200 1
+R/BK/1|1991|potatoes|weedkiller|Linuron at 1.6 kg in 200 1.
+R/BK/1|1991|potatoes|Fungicide|maneb at 0.96 kg and zinc oxide at 22 g in 200 1 on three occasions, the first and third with a wetting agent, 'and' at 0.20 1, and the second occasion with primicarb
+R/BK/1|1991|potatoes|Fungicide|mancozeb at 1.4 kg with a wetting agent, 'and' at 0.20 1, in 200 1
+R/BK/1|1991|potatoes|Fungicide|Fentin hydroxide at 0.27 kg with a wetting agent, 'u-film P' at 0.18 1, in 200 1.
+R/BK/1|1991|potatoes|insecticide|primicarb at 0.14 kg.
+R/BK/1|1991|fallow|weedkiller|glyphosate at 2.2 kg with a wetting agent, ‘MAFF Adjuvant no
+R/BK/1|1991|fallow|weedkiller|0004‘ at 2.9 1, in 150 1.
