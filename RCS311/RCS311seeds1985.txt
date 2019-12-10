@@ -1,7 +1,0 @@
-R/CS/311|1985|None| Avalon, sown at 220 kg.
-R/CS/311|1986|None| Mission, sown at 180 kg.
-R/CS/311|1987|None| Mission, sown at 190 kg.
-R/CS/311|1988|None| Mission, sown at 180 kg.
-R/CS/311|1989|None| Mission, sown at 160 kg.
-R/CS/311|1990|None| Pastiche, sown at 200 kg.
-R/CS/311|1991|None| Haven, sown at 190 kg.
