@@ -1,0 +1,352 @@
+R/HB/2|1968|all plots|5-Oct-1967||diary record|,-P, K, Na, Mg applied
+R/HB/2|1968|all plots|6-Oct-1967||diary record|Silicate of soda and FYM applied, all plots ploughed
+R/HB/2|1968|barley|25-Mar-1968||diary record|seed drilled at 140 1b U Mar, 'Nitro-chalk' applied
+R/HB/2|1968|barley|14-May-1968||diary record|weedkiller applied
+R/HB/2|1968|barley|22-Aug-1968||diary record|combine harvested
+R/HB/2|1968|potatoes|1-Apr-1968||diary record|machine planted
+R/HB/2|1968|potatoes|20-May-1968||diary record|grubbed
+R/HB/2|1968|potatoes|28-May-1968||diary record|rotary ridged
+R/HB/2|1968|potatoes|3-July-1968||diary record|Fungicide applied, the second time including insecticide
+R/HB/2|1968|potatoes|19-July-1968||diary record|Fungicide applied, the second time including insecticide
+R/HB/2|1968|potatoes|5-Aug-1968||diary record|Fungicide applied, the second time including insecticide
+R/HB/2|1968|potatoes|30-Aug-1968||diary record|BOV applied
+R/HB/2|1968|potatoes|13-Sept-1968||diary record|Haulm destroyed mechanically
+R/HB/2|1968|potatoes|23-Sept-1968||diary record|lifted
+R/HB/2|1968|potatoes|4-Mar-1968||diary record|spring beans seed drilled at 200 1b
+R/HB/2|1968|potatoes|5-Mar-1968||diary record|weedkiller applied
+R/HB/2|1968|potatoes|21-June-1968||diary record|insecticide applied
+R/HB/2|1968|potatoes|13-Sept-1968||diary record|combine harvested
+R/HB/2|1969|all plots|6-Dec-1968||diary record|,t fertilizers applied bk Dec, FYM applied
+R/HB/2|1969|all plots|5-Dec-1968|6-Dec-1968|diary record|ploughed
+R/HB/2|1969|barley|5-Sept-1968||diary record|paraquat applied
+R/HB/2|1969|barley|24-Mar-1969||diary record|seed drilled at 140 1b
+R/HB/2|1969|barley|1-Apr-1969||diary record|'Nitro-chalk' applied
+R/HB/2|1969|barley|20-May-1969||diary record|MCPA/mecoprop/dicamba applied
+R/HB/2|1969|barley|22-Aug-1969||diary record|combine harvested large combine plots
+R/HB/2|1969|barley|23-Aug-1969||diary record|small combine plots
+R/HB/2|1969|spring beans|UNKNOWN|2k Mar 1969|diary record|seed drilled at 200 1b
+R/HB/2|1969|spring beans|19-May-1969||diary record|insecticide applied
+R/HB/2|1969|spring beans|10-Sept-1969||diary record|combine harvested
+R/HB/2|1969|potatoes|5-Sept-1968||diary record|paraquat applied
+R/HB/2|1969|potatoes|9-Apr-1969||diary record|'Nitro-chalk' applied
+R/HB/2|1969|potatoes|10-Apr-1969||diary record|plots rotary cultivated, potatoes machine planted
+R/HB/2|1969|potatoes|12-May-1969||diary record|paraquat and linuron applied
+R/HB/2|1969|potatoes|18-June-1969||diary record|grubbed
+R/HB/2|1969|potatoes|23-June-1969||diary record|rotary ridged
+R/HB/2|1969|potatoes|15-July-1969||diary record|mancozeb applied
+R/HB/2|1969|potatoes|4-Aug-1969||diary record|mancozeb applied
+R/HB/2|1969|potatoes|22-Aug-1969||diary record|mancozeb applied
+R/HB/2|1969|potatoes|4-Aug-1969||diary record|insecticide applied
+R/HB/2|1969|potatoes|2-Oct-1969||diary record|Haulm destroyed mechanically
+R/HB/2|1969|potatoes|3-Oct-1969||diary record|lifted
+R/HB/2|1970|all plots|22-Oct-1960||diary record|, fertilizers applied
+R/HB/2|1970|all plots|10-Nov-1960||diary record|FYM applied
+R/HB/2|1970|barley|17-Sept-1969||diary record|paraquat applied
+R/HB/2|1970|barley|20-Mar-1670||diary record|seed drilled at 140 1b
+R/HB/2|1970|barley|9-Apr-1670||diary record|N applied
+R/HB/2|1970|barley|26-May-1670||diary record|MCPA/mecoprop/dicembe applied
+R/HB/2|1970|barley|18-Aug-1670||diary record|combine harvested small combine plots
+R/HB/2|1970|barley|25-Aug-1670||diary record|large combine plots
+R/HB/2|1970|spring beans|21-Mar-1570||diary record|seed drilled at 200 1b
+R/HB/2|1970|spring beans|18-June-1570||diary record|insecticide applied
+R/HB/2|1970|spring beans|2-Sept-1570||diary record|combine harvesteds
+R/HB/2|1970|potatoes|17-Sept-1969||diary record|paraquat applied
+R/HB/2|1970|potatoes|29-Apr-1970||diary record|N applied
+R/HB/2|1970|potatoes|30-Apr-1970||diary record|plots rotary cultivated, potatoes macnine planted
+R/HB/2|1970|potatoes|23-May-1970||diary record|Linuron applied
+R/HB/2|1970|potatoes|30-June-1970||diary record|grubbed and rotary ridged
+R/HB/2|1970|potatoes|29-July-1970||diary record|Fungicide and insecticide applied
+R/HB/2|1970|potatoes|14-Aug-1970||diary record|Fungicide applied
+R/HB/2|1970|potatoes|3-Sept-1970||diary record|sprayed with undiluted BOV at 15 gals
+R/HB/2|1970|potatoes|15-Sept-1970||diary record|lifted
+R/HB/2|1971|all plots|16-Oct-1970||diary record|. fertilizers, except N, applied
+R/HB/2|1971|all plots|21-Oct-1970||diary record|FYM applied
+R/HB/2|1971|all plots|22-Oct-1970||diary record|ploughed
+R/HB/2|1971|potatoes|19-Sept-1970||diary record|paraquat applied
+R/HB/2|1971|potatoes|2-Apr-1971||diary record|KN applied, plots rotary cultivated, potatoes machine planted
+R/HB/2|1971|potatoes|15-Apr-1971||diary record|Linuron applied
+R/HB/2|1971|potatoes|3-June-1971||diary record|grubbed
+R/HB/2|1971|potatoes|4-June-1971||diary record|rotary ridged
+R/HB/2|1971|potatoes|13-Aug-1971||diary record|Fungicide applied
+R/HB/2|1971|potatoes|8-Sept-1971||diary record|Haulm destroyed mechanically
+R/HB/2|1971|potatoes|15-Sept-1971||diary record|lifted
+R/HB/2|1971|spring beans|19-Sept-1970||diary record|paraquat applied
+R/HB/2|1971|spring beans|24-Feb-1971||diary record|seed drilled at 24 kg
+R/HB/2|1971|spring beans|1-July-1971||diary record|insecticide applied
+R/HB/2|1971|spring beans|2-Sept-1971||diary record|combine harvested
+R/HB/2|1971|barley|19-Sept-1970||diary record|paraquat applied
+R/HB/2|1971|barley|24-Feb-1971||diary record|seed drilled st 157 kg
+R/HB/2|1971|barley|23-Mar-1971||diary record|KN applied
+R/HB/2|1971|barley|10-May-1971||diary record|'Oxytril P' applied
+R/HB/2|1971|barley|11-Aug-1971||diary record|combine harvested, large combine plots
+R/HB/2|1971|barley|18-Aug-1971||diary record|small combine plots
+R/HB/2|1972|all plots|22-Sept-1971||diary record|.t fertilizers, except N, applied
+R/HB/2|1972|all plots|6-Nov-1971||diary record|FYM applied 5 BOV. ploughed
+R/HB/2|1972|all plots|17-Apr-1972||diary record|N applied
+R/HB/2|1972|potatoes|19-Apr-1972||diary record|mechine planted
+R/HB/2|1972|potatoes|17-May-1972||diary record|Linuron plus paraquat applied
+R/HB/2|1972|potatoes|UNKNOWN|1k June|diary record|grubbed
+R/HB/2|1972|potatoes|15-June-1972||diary record|rotary ridged
+R/HB/2|1972|potatoes|11-July-1972||diary record|Fungicide applied
+R/HB/2|1972|potatoes|21-July-1972||diary record|Fungicide applied
+R/HB/2|1972|potatoes|10-Aug-1972||diary record|Fungicide applied
+R/HB/2|1972|potatoes|21-July-1972||diary record|insecticide applied
+R/HB/2|1972|potatoes|16-Sept-1972||diary record|sprayed with undiluted BOV at 110 1
+R/HB/2|1972|potatoes|20-Sept-1972||diary record|and at 200 1
+R/HB/2|1972|potatoes|28-Sept-1972||diary record|lifted
+R/HB/2|1972|spring beans|16-Mar-1972||diary record|seed drilled
+R/HB/2|1972|spring beans|17-June-1972||diary record|insecticide applied
+R/HB/2|1972|spring beans|27-Sept-1972||diary record|combine harvested
+R/HB/2|1972|barley|9-Sept-1971||diary record|paraquat applied
+R/HB/2|1972|barley|15-Mar-1972||diary record|seed drilled
+R/HB/2|1972|barley|18-May-1972||diary record|'Banlene Plus' applied
+R/HB/2|1972|barley|23-Aug-1972||diary record|combine harvested
+R/HB/2|1973|all plots|3-Nov-1972||diary record|fertilizers, except N, applied 1 BOV, FYM applied
+R/HB/2|1973|all plots|22-Mar-1973||diary record|ploughed § Nov, N applied
+R/HB/2|1973|potatoes|6-Apr-1973||diary record|planted
+R/HB/2|1973|potatoes|15-May-1973||diary record|weedkiller applied
+R/HB/2|1973|potatoes|2-July-1973||diary record|Fungicide plus insecticide applied
+R/HB/2|1973|potatoes|18-July-1973||diary record|Fungicide applied
+R/HB/2|1973|potatoes|9-Aug-1973||diary record|Fungicide applied
+R/HB/2|1973|potatoes|31-Aug-1973||diary record|Haulm destroyed mechanically, sprayed with indiluted BOV at 220 1
+R/HB/2|1973|potatoes|26-Sept-1973||diary record|lifted
+R/HB/2|1973|spring beans|8-Mar-1973||diary record|seed sown
+R/HB/2|1973|spring beans|8-June-1973||diary record|insecticide applied
+R/HB/2|1973|spring beans|3-Sept-1973||diary record|combine harvested
+R/HB/2|1973|barley|8-Mar-1973||diary record|seed sown
+R/HB/2|1973|barley|11-May-1973|15-May-1973|diary record|weedkiller applied
+R/HB/2|1973|barley|10-Aug-1973||diary record|combine harvested
+R/HB/2|1974|all plots|2-Oct-1973||diary record|P applied
+R/HB/2|1974|all plots|UNKNOWN|2h Oct|diary record|K and Mg applied
+R/HB/2|1974|all plots|19-Nov-1973||diary record|Silicate of sodu applied 29 (ct, FYM applied
+R/HB/2|1974|all plots|21-Nov-1973||diary record|ploughed
+R/HB/2|1974|all plots|8-Apr-19Th||diary record|N applied
+R/HB/2|1974|potatoes|17-Sept-1973||diary record|paraquat applied
+R/HB/2|1974|potatoes|8-Mar-1974||diary record|spring-tine cultivated twice
+R/HB/2|1974|potatoes|17-Apr-1974||diary record|rotary cultivated and seed machine planted
+R/HB/2|1974|potatoes|17-May-1974||diary record|ion and paraquat applied
+R/HB/2|1974|potatoes|19-June-1974||diary record|grubbed
+R/HB/2|1974|potatoes|11-July-1974||diary record|Fungicide and insecticide applied
+R/HB/2|1974|potatoes|2-Aug-1974||diary record|Fungicide applied
+R/HB/2|1974|potatoes|10-Sept-1974||diary record|Keulm mechanically destroyed
+R/HB/2|1974|potatoes|16-Sept-1974||diary record|sprayed with undiluted BOV at 200 1
+R/HB/2|1974|spring beans|8-Mar-1974||diary record|spring-tine cultivated twice
+R/HB/2|1974|spring beans|27-Mar-1974||diary record|seed sown and spring-tine cultivated
+R/HB/2|1974|spring beans|13-June-1974||diary record|insecticide applied
+R/HB/2|1974|spring beans|24-Sept-1974||diary record|combine harvested
+R/HB/2|1974|barley|17-Sept-1973||diary record|paraquat applied
+R/HB/2|1974|barley|21-Nov-1973||diary record|ploughed
+R/HB/2|1974|barley|8-Mar-1974||diary record|spring-tine cultivated twice
+R/HB/2|1974|barley|26-Mar-1974||diary record|19h. spring-tine cultivated and seed sown
+R/HB/2|1974|barley|21-May-1974||diary record|weedkiller applied
+R/HB/2|1974|barley|31-Aug-1974||diary record|combine harvested
+R/HB/2|1975|all crops|8-Jan-1975||diary record|P applied 25 BOV, K, silicate of soda and FYM applied
+R/HB/2|1975|all crops|10-Jan-1975||diary record|ploughed
+R/HB/2|1975|all crops|10-Feb-1975||diary record|spring-tine cultivated one
+R/HB/2|1975|all crops|UNKNOWN|2h Feb|diary record|twice
+R/HB/2|1975|potatoes|29-Apr-1975||diary record|N applied
+R/HB/2|1975|potatoes|7-May-1975||diary record|spiked rotary cultivated, seed mechine planted
+R/HB/2|1975|potatoes|13-May-1975||diary record|grubbed
+R/HB/2|1975|potatoes|4-June-1975||diary record|Linuron and paraquat applied
+R/HB/2|1975|potatoes|27-June-1975||diary record|insecticide applied and grubbed
+R/HB/2|1975|potatoes|18-July-1975||diary record|rotary ridged
+R/HB/2|1975|potatoes|21-July-1975||diary record|Fungicide and insecticide applied
+R/HB/2|1975|potatoes|16-Sept-1975||diary record|Haulm mechanically destroyed
+R/HB/2|1975|potatoes|19-Sept-1975||diary record|lifted
+R/HB/2|1975|spring beans|25-Mar-1975||diary record|seed sown and spring-tine cultivated
+R/HB/2|1975|spring beans|16-May-1975||diary record|Tractor hoed
+R/HB/2|1975|spring beans|24-June-1975||diary record|Tractor hoed
+R/HB/2|1975|spring beans|9-July-1975||diary record|insecticide applied
+R/HB/2|1975|barley|25-Feb-1975||diary record|seed sown and spring-tine cultivated
+R/HB/2|1975|barley|29-Apr-1975||diary record|N applied
+R/HB/2|1975|barley|7-Aug-1975||diary record|weedkiller applied 20 My. combine harvested
+R/HB/2|1976|all plots|1-Oct-1975||diary record|P and XK applied
+R/HB/2|1976|all plots|2-Oct-1975||diary record|Chalk applied
+R/HB/2|1976|all plots|6-Oct-1975||diary record|Silicate of soda applied
+R/HB/2|1976|all plots|15-Oct-1975||diary record|Heavy spring-tine cultivated
+R/HB/2|1976|all plots|13-Nov-1975||diary record|ion applied
+R/HB/2|1976|all plots|17-Nov-1975||diary record|ploughed
+R/HB/2|1976|all plots|27-Feb-1976||diary record|spring-tine cultivated
+R/HB/2|1976|barley|14-Oct-1975||diary record|Heavy spring-tine cultivated (except form of N N and C* plots and extra plots)
+R/HB/2|1976|barley|1-Mar-1976||diary record|seed sown
+R/HB/2|1976|barley|26-Mar-1976||diary record|N applied
+R/HB/2|1976|barley|14-May-1976||diary record|Banlene Plus’ applied
+R/HB/2|1976|barley|25-May-1976||diary record|Tetralex Plus” applied
+R/HB/2|1976|barley|22-July-1976||diary record|combine harvested
+R/HB/2|1976|potatoes|26-Mar-1976||diary record|N applied
+R/HB/2|1976|potatoes|29-Mar-1976||diary record|spiked rotary cultivated, seed mechanically planted
+R/HB/2|1976|potatoes|30-Mar-1976||diary record|grubbed
+R/HB/2|1976|potatoes|5-May-1976||diary record|weedkiller applied
+R/HB/2|1976|potatoes|17-June-1976||diary record|insecticide applied
+R/HB/2|1976|potatoes|21-June-1976||diary record|grubbed and rotary ridged
+R/HB/2|1976|potatoes|28-July-1976||diary record|Fungicide applied
+R/HB/2|1976|potatoes|23-Sept-1976||diary record|Haulm mechanically destroyed
+R/HB/2|1976|potatoes|28-Sept-1976||diary record|Haulm desiccant applied
+R/HB/2|1976|potatoes|21-Oct-1976||diary record|lifted
+R/HB/2|1976|beans|4-Mar-1976||diary record|seed sown
+R/HB/2|1976|beans|27-Apr-1976||diary record|Tractor hoed
+R/HB/2|1976|beans|24-May-1976||diary record|Tractor hoed
+R/HB/2|1976|beans|21-July-1976||diary record|combine harvested
+R/HB/2|1977|all plots|25-Oct-1976||diary record|P, K, Mg and silicate of soda applied
+R/HB/2|1977|all plots|26-Oct-1976||diary record|FYM applied
+R/HB/2|1977|all plots|28-Oct-1976||diary record|ploughed
+R/HB/2|1977|all plots|7-Mar-1977||diary record|spring-tine cultivated
+R/HB/2|1977|barley|6-Aug-1976||diary record|autumn weedkiller applied
+R/HB/2|1977|barley|8-Mar-1977||diary record|seed sown
+R/HB/2|1977|barley|14-Apr-1977||diary record|N applied
+R/HB/2|1977|barley|24-May-1977||diary record|spring weedkiller applied
+R/HB/2|1977|barley|23-Aug-1977||diary record|combine harvested
+R/HB/2|1977|potatoes|6-Sept-1976||diary record|Chalk applied
+R/HB/2|1977|potatoes|14-Apr-1977||diary record|N applied
+R/HB/2|1977|potatoes|19-Apr-1977||diary record|spiked ’ rotary cultivated, potatoes planted
+R/HB/2|1977|potatoes|21-Apr-1977||diary record|grubbed twice
+R/HB/2|1977|potatoes|21-June-1977||diary record|grubbed twice
+R/HB/2|1977|potatoes|26-May-1977||diary record|rotary ridged twice
+R/HB/2|1977|potatoes|22-June-1977||diary record|rotary ridged twice
+R/HB/2|1977|potatoes|28-May-1977||diary record|weedkiller applied
+R/HB/2|1977|potatoes|23-June-1977||diary record|Fungicide applied
+R/HB/2|1977|potatoes|5-July-1977||diary record|Fungicide applied
+R/HB/2|1977|potatoes|26-July-1977||diary record|Fungicide with insecticide applied
+R/HB/2|1977|potatoes|10-Aug-1977||diary record|Fungicide with insecticide applied
+R/HB/2|1977|potatoes|3-Oct-1977||diary record|Haulm mechanically destroyed
+R/HB/2|1977|potatoes|3-Nov-1977||diary record|lifted
+R/HB/2|1977|beans|9-Mar-1977||diary record|seed sown
+R/HB/2|1977|beans|18-May-1977||diary record|Tractor hoed
+R/HB/2|1977|beans|19-July-1977||diary record|insecticide applied
+R/HB/2|1977|beans|21-Sept-1977||diary record|combine harvested
+R/HB/2|1978|all plots|13-Dec-1977||diary record|autumn manures applied
+R/HB/2|1978|all plots|14-Dec-1977||diary record|ploughed
+R/HB/2|1978|all plots|10-Mar-1978||diary record|spring-tine cultivated
+R/HB/2|1978|barley|10-Oct-1977||diary record|glyphosate applied
+R/HB/2|1978|barley|22-Mar-1978||diary record|seed sown (except 'form of N 196 'N and C' plots and 'extra' plots)
+R/HB/2|1978|barley|30-Mar-1978||diary record|seed sown on remaining plots
+R/HB/2|1978|barley|17-May-1978||diary record|N applied
+R/HB/2|1978|barley|23-May-1978||diary record|ioxynil, mecoprop and Tridemorph applied to all plots except 'form of N 'N and C' plots and 'extra' plots
+R/HB/2|1978|barley|26-May-1978||diary record|remaining plots sprayed
+R/HB/2|1978|barley|9-Sept-1978||diary record|combine harvested
+R/HB/2|1978|potatoes|10-Oct-1977||diary record|glyphosate applied
+R/HB/2|1978|potatoes|11-Oct-1977||diary record|Chalk applied
+R/HB/2|1978|potatoes|11-May-1978||diary record|N applied
+R/HB/2|1978|potatoes|12-May-1978||diary record|spiked rotary cultivated, potatoes planted
+R/HB/2|1978|potatoes|15-May-1978||diary record|Linuron applied
+R/HB/2|1978|potatoes|19-June-1978||diary record|grubbed and rotary ridged
+R/HB/2|1978|potatoes|5-July-1978||diary record|mancozeb applied
+R/HB/2|1978|potatoes|17-July-1978||diary record|mancozeb and primicarb applied
+R/HB/2|1978|potatoes|4-Aug-1978||diary record|mancozeb and primicarb applied
+R/HB/2|1978|potatoes|17-Aug-1978||diary record|‘'Fennite A! applied twice
+R/HB/2|1978|potatoes|8-Sept-1978||diary record|‘'Fennite A! applied twice
+R/HB/2|1978|potatoes|26-Oct-1978||diary record|lifted
+R/HB/2|1978|beans|30-Mar-1978||diary record|seed sown
+R/HB/2|1978|beans|19-May-1978||diary record|Tractor hoed twice
+R/HB/2|1978|beans|8-June-1978||diary record|Tractor hoed twice
+R/HB/2|1978|beans|7-July-1978||diary record|insecticide applied
+R/HB/2|1978|beans|25-Sept-1978||diary record|combine harvested
+R/HB/2|1979|all plots|13-Nov-1978||diary record|.- P, K and Na applied
+R/HB/2|1979|all plots|20-Nov-1978||diary record|Chalk applied
+R/HB/2|1979|all plots|23-Nov-1978||diary record|FYM applied
+R/HB/2|1979|all plots|24-Nov-1978||diary record|ploughed
+R/HB/2|1979|all plots|6-Apr-1979||diary record|spring-tine cultivated, seed sown
+R/HB/2|1979|all plots|18-May-1979||diary record|N applied
+R/HB/2|1979|all plots|19-May-1979||diary record|weedkiller applied
+R/HB/2|1979|all plots|18-June-1979||diary record|Fungicide applied
+R/HB/2|1979|all plots|27-Aug-1979||diary record|combine harvested
+R/HB/2|1980|all plots|27-Sept-1979||diary record|etc .- glyphosate applied
+R/HB/2|1980|all plots|1-Nov-1979||diary record|P applied
+R/HB/2|1980|all plots|2-Nov-1979||diary record|K applied
+R/HB/2|1980|all plots|7-Nov-1979||diary record|Chalk applied
+R/HB/2|1980|all plots|8-Nov-1979||diary record|Silicate of soda and FYM applied, ploughed
+R/HB/2|1980|all plots|21-Feb-1980||diary record|spring-tine cultivated, seed sown
+R/HB/2|1980|all plots|16-Apr-1980||diary record|N applied
+R/HB/2|1980|all plots|9-May-1980||diary record|'Brittox' and Tridemorph applied
+R/HB/2|1980|all plots|18-Aug-1980||diary record|Harvested
+R/HB/2|1981|all plots|1-Sept-1980||diary record|paraquat applied
+R/HB/2|1981|all plots|7-Oct-1980||diary record|Chalk applied
+R/HB/2|1981|all plots|1-Dec-1980||diary record|P, X, and silicate of soda applied
+R/HB/2|1981|all plots|3-Dec-1980||diary record|FYM applied, ploughed
+R/HB/2|1981|all plots|17-Feb-1981||diary record|spring-tine cultivated, seed sown
+R/HB/2|1981|all plots|21-Apr-1981||diary record|N applied
+R/HB/2|1981|all plots|12-May-1981||diary record|‘'Brittox' applied
+R/HB/2|1981|all plots|18-Aug-1981||diary record|combine harvested 17,
+R/HB/2|1982|all plots|4-Nov-1981||diary record|glyphosate applied to 'form of N 'N and C' plots
+R/HB/2|1982|all plots|12-Nov-1981||diary record|P and K applied
+R/HB/2|1982|all plots|13-Nov-1981||diary record|Silicate of soda applied
+R/HB/2|1982|all plots|17-Nov-1981||diary record|Chalk applied
+R/HB/2|1982|all plots|18-Nov-1981||diary record|FYM applied
+R/HB/2|1982|all plots|19-Nov-1981||diary record|ploughed
+R/HB/2|1982|all plots|28-Mar-1982||diary record|spring-tine cultivated
+R/HB/2|1982|all plots|29-Mar-1982||diary record|seed sown
+R/HB/2|1982|all plots|5-May-1982||diary record|N applied
+R/HB/2|1982|all plots|17-May-1982||diary record|weedkiller and Fungicide applied
+R/HB/2|1982|all plots|16-Aug-1982||diary record|combine harvested
+R/HB/2|1983|all plots|27-Oct-1982||diary record|.- glyphosate applied
+R/HB/2|1983|all plots|8-Nov-1982||diary record|P, K, Mg and silicate of soda applied
+R/HB/2|1983|all plots|24-Nov-1982||diary record|Chalk and FYM applied
+R/HB/2|1983|all plots|25-Nov-1982||diary record|ploughed
+R/HB/2|1983|all plots|8-Mar-1983||diary record|spring-tine cultivated twice
+R/HB/2|1983|all plots|9-Mar-1983||diary record|seed sown
+R/HB/2|1983|all plots|23-May-1983||diary record|N applied
+R/HB/2|1983|all plots|24-May-1983||diary record|weedkiller applied
+R/HB/2|1983|all plots|21-June-1983||diary record|Fungicide applied
+R/HB/2|1983|all plots|9-Aug-1983||diary record|combine harvested
+R/HB/2|1984|all plots|14-Sept-1983||diary record|.- Chalk applied
+R/HB/2|1984|all plots|15-Nov-1983||diary record|P, K and silicate of soda applied
+R/HB/2|1984|all plots|16-Nov-1983||diary record|FYM applied, ploughed
+R/HB/2|1984|all plots|7-Mar-1984||diary record|spring-tine cultivated
+R/HB/2|1984|all plots|8-Mar-1984||diary record|seed sown
+R/HB/2|1984|all plots|16-Apr-1984||diary record|N applied
+R/HB/2|1984|all plots|16-May-1984||diary record|weedkiller and Fungicide applied
+R/HB/2|1984|all plots|18-Aug-1984||diary record|combine harvested
+R/HB/2|1985|all plots|1-Oct-1984||diary record|.- Chalk applied
+R/HB/2|1985|all plots|30-Oct-1984||diary record|Silicate of soda applied
+R/HB/2|1985|all plots|21-Nov-1984||diary record|P applied
+R/HB/2|1985|all plots|26-Nov-1984||diary record|K applied
+R/HB/2|1985|all plots|27-Nov-1984||diary record|FYM applied, ploughed
+R/HB/2|1985|all plots|12-Mar-1985||diary record|spring-tine cultivated
+R/HB/2|1985|all plots|13-Mar-1985||diary record|spring-tine cultivated, seed sown
+R/HB/2|1985|all plots|22-Apr-1985||diary record|N applied
+R/HB/2|1985|all plots|9-May-1985||diary record|weedkiller and Fungicide applied
+R/HB/2|1985|all plots|23-Aug-1985||diary record|combine harvested
+R/HB/2|1986|all plots|18-Nov-1985||diary record|.- Silicate of soda, P and Mg applied
+R/HB/2|1986|all plots|20-Nov-1985||diary record|XK and FYM applied
+R/HB/2|1986|all plots|21-Nov-1985||diary record|ploughed
+R/HB/2|1986|all plots|17-Mar-1986||diary record|spring-tine cultivated twice, seed sown
+R/HB/2|1986|all plots|12-May-1986||diary record|N applied
+R/HB/2|1986|all plots|16-May-1986||diary record|weedkiller and Fungicide applied
+R/HB/2|1986|all plots|29-Aug-1986||diary record|combine harvested
+R/HB/2|1987|all plots|6-Nov-1986||diary record|.- glyphosate applied
+R/HB/2|1987|all plots|28-Nov-1986||diary record|Silicate of soda, K and P applied
+R/HB/2|1987|all plots|2-Dec-1986||diary record|FYM applied, ploughed
+R/HB/2|1987|all plots|16-Mar-1987||diary record|spring-tine cultivated, seed sown
+R/HB/2|1987|all plots|24-Apr-1987||diary record|N applied
+R/HB/2|1987|all plots|5-May-1987||diary record|remaining weedkiller applied
+R/HB/2|1987|all plots|29-May-1987||diary record|Fungicide applied
+R/HB/2|1987|all plots|21-Aug-1987||diary record|combine harvested
+R/HB/2|1988|all plots|11-Jan-1988||diary record|.- Silicate of soda, P and K applied
+R/HB/2|1988|all plots|15-Jan-1988||diary record|FYM applied, ploughed
+R/HB/2|1988|all plots|22-Feb-1988||diary record|spring-tine cultivated, rotary harrowed, seed sown
+R/HB/2|1988|all plots|12-Apr-1988||diary record|N applied
+R/HB/2|1988|all plots|10-May-1988||diary record|weedkiller applied
+R/HB/2|1988|all plots|20-May-1988||diary record|Fungicide applied
+R/HB/2|1988|all plots|17-June-1988||diary record|Fungicide applied
+R/HB/2|1988|all plots|UNKNOWN|1S Aug|diary record|combine harvested
+R/HB/2|1989|all plots|2-Oct-1988||diary record|.- glyphosate applied
+R/HB/2|1989|all plots|28-Nov-1988||diary record|Chalk applied
+R/HB/2|1989|all plots|7-Dec-1988||diary record|Silicate of soda applied
+R/HB/2|1989|all plots|8-Dec-1988||diary record|Mg and K applied
+R/HB/2|1989|all plots|9-Dec-1988||diary record|P applied
+R/HB/2|1989|all plots|13-Dec-1988||diary record|FYM applied, ploughed
+R/HB/2|1989|all plots|7-Feb-1989||diary record|spring-tine cultivated twice, seed sown
+R/HB/2|1989|all plots|31-Mar-1989||diary record|N applied
+R/HB/2|1989|all plots|3-May-1989||diary record|remaining weedkiller applied
+R/HB/2|1989|all plots|9-June-1989||diary record|Fungicide applied
+R/HB/2|1989|all plots|1-Aug-1989||diary record|combine harvested
+R/HB/2|1990|all plots|2-Oct-1989||diary record|.- glyphosate applied
+R/HB/2|1990|all plots|29-Nov-1989||diary record|P and silicate of soda applied
+R/HB/2|1990|all plots|30-Nov-1989||diary record|K applied
+R/HB/2|1990|all plots|4-Dec-1989||diary record|FYM applied
+R/HB/2|1990|all plots|6-Dec-1989||diary record|ploughed
+R/HB/2|1990|all plots|UNKNOWN|5S Mar 1990|diary record|spring-tine cultivated three time, seed sown
+R/HB/2|1990|all plots|10-Apr-1990||diary record|N applied
+R/HB/2|1990|all plots|10-May-1990||diary record|insecticide applied
+R/HB/2|1990|all plots|14-May-1990||diary record|remaining weedkiller applied with the Fungicide
+R/HB/2|1990|all plots|6-Aug-1990||diary record|combine harvested
