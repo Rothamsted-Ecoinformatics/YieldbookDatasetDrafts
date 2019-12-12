@@ -350,3 +350,13 @@ R/HB/2|1990|all plots|10-Apr-1990||diary record|N applied
 R/HB/2|1990|all plots|10-May-1990||diary record|insecticide applied
 R/HB/2|1990|all plots|14-May-1990||diary record|remaining weedkiller applied with the Fungicide
 R/HB/2|1990|all plots|6-Aug-1990||diary record|combine harvested
+R/HB/2|1991|all plots|7-Nov-1990||diary record|.- glyphosate applied
+R/HB/2|1991|all plots|21-Nov-1990||diary record|P applied
+R/HB/2|1991|all plots|28-Nov-1990||diary record|K and silicate of soda applied
+R/HB/2|1991|all plots|3-Dec-1990||diary record|FYM applied, ploughed
+R/HB/2|1991|all plots|14-Mar-1991||diary record|spring-tine cultivated, rotary harrowed, seed sown
+R/HB/2|1991|all plots|12-Apr-1991||diary record|N applied
+R/HB/2|1991|all plots|24-May-1991||diary record|remaining weedkiller applied
+R/HB/2|1991|all plots|4-June-1991||diary record|Fungicide applied
+R/HB/2|1991|all plots|11-July-1991||diary record|insecticide applied
+R/HB/2|1991|all plots|19-Aug-1991||diary record|combine harvested

@@ -1,0 +1,24 @@
+R/HB/2|2001||02-Jan-2001|P, P2, K and Mg applied. K and Mg completed 05-Jan-01.|T
+R/HB/2|2001||03-Jan-2001|FYM and Si applied.|T
+R/HB/2|2001||08-Jan-2001|ploughed.|B
+R/HB/2|2001||30-Mar-2001|Combination drilled, Optic, tr. Raxil S, at 350 seed with the Accord drilled.|B
+R/HB/2|2001||19-May-2001|ally at 20 g in 100 1. |B
+R/HB/2|2001||19-May-2001| Starane 2 at 0.5 1 in 100 1.|B
+R/HB/2|2001||21-May-2001|N applied (27.5% N) applied by hand.|T
+R/HB/2|2001||11-Jun-2001|Opus at 0.4 1 in 100 1.|B
+R/HB/2|2001||02-Jul-2001|four at 0.5 1 in 200 1.|B
+R/HB/2|2001||06-Sep-2001|combine harvested, plots for yield, sampled and weighed straw, swathed straw, started.|T
+R/HB/2|2001||07-Sep-2001|combine harvested remaining plots for yield, and discard. sampled and weighed straw. swathed straw.|T
+R/HB/2|2001||11-Sep-2001|baled straw.|B
+R/HB/2|2002||02-Jan-2001|P, P2, K and Mg applied. K and Mg completed 05-Jan-01.|T
+R/HB/2|2002||03-Jan-2001|FYM and Si applied.|T
+R/HB/2|2002||08-Jan-2001|ploughed.|B
+R/HB/2|2002||30-Mar-2001|Combination drilled, Optic, tr. Raxil S, at 350 seed with the Accord drilled.|B
+R/HB/2|2002||19-May-2001|ally at 20 g in 100 1. |B
+R/HB/2|2002||19-May-2001| Starane 2 at 0.5 1 in 100 1.|B
+R/HB/2|2002||21-May-2001|N applied (27.5% N) applied by hand.|T
+R/HB/2|2002||11-Jun-2001|Opus at 0.4 1 in 100 1.|B
+R/HB/2|2002||02-Jul-2001|four at 0.5 1 in 200 1.|B
+R/HB/2|2002||06-Sep-2001|combine harvested, plots for yield, sampled and weighed straw, swathed straw, started.|T
+R/HB/2|2002||07-Sep-2001|combine harvested remaining plots for yield, and discard. sampled and weighed straw. swathed straw.|T
+R/HB/2|2002||11-Sep-2001|baled straw.|B
