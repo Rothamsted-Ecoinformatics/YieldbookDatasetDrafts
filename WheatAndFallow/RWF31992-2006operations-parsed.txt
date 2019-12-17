@@ -1,0 +1,191 @@
+R/WF/3|1992|wheat plot|15-Oct-1991|rotary harrowed twice, Apollo, dressed Fonofos seed treatment, drilled at 200 kg.|:
+R/WF/3|1992|wheat plot|17-Oct-1991|rolled.|T
+R/WF/3|1992|wheat plot|30-Jul-1992|combine harvested.|T
+R/WF/3|1992|fallow plot|20-Sep-1991|ploughed, spring-tine cultivated, rolled.|T
+R/WF/3|1992|fallow plot|15-Jan-1992|Chisel ploughed.|T
+R/WF/3|1992|fallow plot|18-May-1992|Heavy spring-tine cultivated.|T
+R/WF/3|1992|fallow plot|25-Jun-1992|cultivated by rotary grubber.|T
+R/WF/3|1993|wheat plot|14-Oct-1992|ploughed.|T
+R/WF/3|1993|wheat plot|19-Oct-1992|rotary harrowed twice, Apollo, dressed Fonofos seed treatment, drilled at 380 seed per square metre.|T
+R/WF/3|1993|wheat plot|17-Aug-1993|combine harvested.|T
+R/WF/3|1993|fallow plot|05-Oct-1992|ploughed.|T
+R/WF/3|1993|fallow plot|26-May-1993|cultivated by rotary grubber.|T
+R/WF/3|1993|fallow plot|24-Jun-1993|cultivated by rotary grubber.|T
+R/WF/3|1994|wheat plot|20-Oct-1993|ploughed.|T
+R/WF/3|1994|wheat plot|28-Oct-1993|spring-tine cultivated, rotary harrowed, Apollo, dressed Fonofos seed treatment, drilled at 380 seed per m2.|T
+R/WF/3|1994|wheat plot|09-May-1994|ally at 30 g with Cheetah Super at 3.0 1 and Starane 2 at 0.75 1 in 200 1.|T
+R/WF/3|1994|wheat plot|09-May-1994|Halo at 2.0 1 with new 5C Cycocel at 2.5 1 in 200 1.|T
+R/WF/3|1994|wheat plot|13-Jun-1994|Halo at 2.0 1 with Mallard 750 EC at 0.5 1 in 200 1.|T
+R/WF/3|1994|wheat plot|17-Jun-1994|Hostathion at 840 ml in 200 1.|T
+R/WF/3|1994|wheat plot|22-Aug-1994|combine harvested.|T
+R/WF/3|1994|fallow plot||20-Oct-1993|ploughed.|T
+R/WF/3|1994|fallow plot|16-Jun-1994|cultivated by rotary grubber.|T
+R/WF/3|1994|fallow plot|08-Jul-1994|cultivated by rotary grubber.|T
+R/WF/3|1995|wheat plot|06-Oct-1994|Roundup at 4.0 1 in 200 1.|B
+R/WF/3|1995|wheat plot|16-Nov-1994|spring-tine cultivated.|T
+R/WF/3|1995|wheat plot|17-Nov-1994|rotary harrowed, Apollo, dressed new Kotol, drilled at 380 seed per m2.|T
+R/WF/3|1995|wheat plot|16-Jun-1995|Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.|T
+R/WF/3|1995|wheat plot|29-Jun-1995|pirimicarb 50 DG at 280 g in 200 1.|T
+R/WF/3|1995|wheat plot|06-Aug-1995|combine harvested.|T
+R/WF/3|1995|fallow plot|06-Oct-1994|Roundup at 4.0 1 in 200 1.|B
+R/WF/3|1995|fallow plot|14-Oct-1994|ploughed.|T
+R/WF/3|1995|fallow plot|31-May-1995|Heavy spring-tine cultivated.|T
+R/WF/3|1995|fallow plot|09-Jun-1995|cultivated by rotary grubber.|T
+R/WF/3|1995|fallow plot|17-Jul-1995|spring-tine cultivated.|T
+R/WF/3|1996|wheat plot|29-Sep-1995|rotary harrowed, Hereward, dressed Fonofos seed treatment, drilled at 380 seed per m2.|T
+R/WF/3|1996|wheat plot|26-Apr-1996|ally at 30 g with Cheetah Super at 1.25 1 in 200 1.|T
+R/WF/3|1996|wheat plot|06-Jun-1996|Monicle at 1.0 1 in 320 1.|T
+R/WF/3|1996|wheat plot|16-Aug-1996|combine harvested.|T
+R/WF/3|1996|fallow plot|11-Aug-1995|Straw baled.|T
+R/WF/3|1996|fallow plot|25-Sep-1995|ploughed and furrow pressed.|T
+R/WF/3|1996|fallow plot|30-Apr-1996|Heavy spring-tine cultivated.|T
+R/WF/3|1996|fallow plot|17-Jul-1996|shallow cultivated with thistle-bar.|T
+R/WF/3|1997|wheat plot|05-Oct-1996|ploughed.|T
+R/WF/3|1997|wheat plot|16-Oct-1996|Heavy spring-tine cultivated, spring-tine cultivated, Hereward, dressed Beret Gold and Fonofos seed treatment, drilled at 380 seed per m2.|T
+R/WF/3|1997|wheat plot|17-Mar-1997|Topik at 1.25 1 with Sprayprover at 1.0 1 in 200 1.|T
+R/WF/3|1997|wheat plot|10-Jun-1997|Folicur at 0.5 1 with Mallard 750 EC at 0.3 1 and Pointer at 0.5 1 in 300 1.|T
+R/WF/3|1997|wheat plot|14-Aug-1997|combine harvested.|T
+R/WF/3|1997|fallow plot|05-Oct-1996|ploughed.|T
+R/WF/3|1997|fallow plot|15-Apr-1997|Heavy spring-tine cultivated.|T
+R/WF/3|1997|fallow plot|08-Jul-1997|Thistle baled.|T
+R/WF/3|1997|fallow plot|14-Aug-1997|Thistle baled.|T
+R/WF/3|1998|wheat plot||23-0ct-1997||ploughed.|T
+R/WF/3|1998|wheat plot|27-Oct-1987|Hereward, dressed Anchor and Fonofos seed treatment, drilled at 380 seed per m2.|T
+R/WF/3|1998|wheat plot|08-May-1998|ally at 20 g with Starane 2 at 0.5 1 in 200 1.|T
+R/WF/3|1998|wheat plot|09-May-1998|Opus at 0.7 1 in 200 1.|T
+R/WF/3|1998|wheat plot|28-May-1998|Opus at 0.7 1 in 200 1|T
+R/WF/3|1998|wheat plot|15-Jun-1998|Bavistin DF at 0.5 kg with Folicur at 0.5 1 in 100 1.|T
+R/WF/3|1998|wheat plot|16-Aug-1998|combine harvested.|T
+R/WF/3|1998|fallow plot|23-Oct-1997|ploughed.|T
+R/WF/3|1998|fallow plot|29-Apr-1998|spring-tine cultivated.|T
+R/WF/3|1998|fallow plot|20-May-1998|Thistle barred.|T
+R/WF/3|1998|fallow plot|09-Jul-1998|Thistle barred.|T
+R/WF/3|1999|wheat plot|07-Oct-1998|ploughed.|T
+R/WF/3|1999|wheat plot|15-Oct-1998|spring-tine cultivated. rotary harrowed, Hereward tr. Sibutol and Evict, drilled at 380 seed per m2.|T
+R/WF/3|1999|wheat plot|16-Mar-1999|Hawk at 2.0 1 with Pointer at 1.25 1 and Cropoil at 1.0 1 in 200 1.|T
+R/WF/3|1999|wheat plot|01-May-1999|Opus at 0.7 1 in 200 1.|T
+R/WF/3|1999|wheat plot|01-Jun-1999|Folicur at 1.0 1 with Sipcam UK Rover 500 at 1.0 1 in 100 1.|T
+R/WF/3|1999|wheat plot|25-Jun-1999|Folicur at 0.25 1 in 100 1.|T
+R/WF/3|1999|wheat plot|29-Jul-1999|Roundup active at 4.0 1 in 200 1.|T
+R/WF/3|1999|wheat plot|06-Aug-1999|combine harvested.|T
+R/WF/3|1999|fallow plot|06-Apr-1999|spring-tine cultivated.|T
+R/WF/3|2000|wheat plot|12-Sep-1999|ploughed.|T
+R/WF/3|2000|wheat plot|04-Oct-1999|Flexitined|T
+R/WF/3|2000|wheat plot|05-Oct-1999|rotary harrowed, Hereward, tr. Sibutol, drilled at 380 seeds/m2 with the Accord drill.|T
+R/WF/3|2000|wheat plot|16-Mar-2000|Hawk at 2.5 1 with Tolkan Turbo at 2.0 1 and Cropoil at 1.0 1 in 200 1.|T
+R/WF/3|2000|wheat plot|09-May-2000|Opus at 0.7 1 in 100 1.|T
+R/WF/3|2000|wheat plot|24-May-2000|Amistar at 0.8 1 with Folicur at 0.75 1 in 100 1.|T
+R/WF/3|2000|wheat plot|17-Jul-2000|hand rogued wild oats.|T
+R/WF/3|2000|wheat plot|12-Aug-2000|combine harvested.|T
+R/WF/3|2000|fallow plot|16-Mar-2000|spring-tine cultivated.|T
+R/WF/3|2000|fallow plot|06-Jun-2000|Thistle barred.|T
+R/WF/3|2000|fallow plot|29-Jun-2000|spring-tine cultivated.|T
+R/WF/3|2001||20-Oct-2000|ploughed.|T
+R/WF/3|2001||26-Oct-2000|Flexitined.|T
+R/WF/3|2001||21-Jan-2001|ploughed.|T
+R/WF/3|2001||02-Apr-2001|Combination drilled, Axona, tr. Sibutol, at 350 seed/m2 with the Accord drill.|T
+R/WF/3|2001||15-May-2001|tm) ally at 20 g in 100 1.|T
+R/WF/3|2001||15-May-2001|tm) Starane 2 at 0.5 1 in 100 1.|T
+R/WF/3|2001||22-May-2001|Touchdown at 3.0 1 in 200 1.|T
+R/WF/3|2001||13-Jun-2001|Folicur at 0.7 1 in 100 1.|T
+R/WF/3|2001||26-Jul-2001|rotary harrowed.|T
+R/WF/3|2001||20-Aug-2001|Azural at 4.0 1 in 200 1.|T
+R/WF/3|2001||07-Sep-2001|combine harvested plot for yield, and discards.|T
+R/WF/3|2001||07-Sep-2001|sampled, baled and weighed straw.|T
+R/WF/3|2001||07-Sep-2001|swathed straw.|T
+R/WF/3|2001||11-Sep-2001|baled straw.|T
+R/WF/3|2002||04-Oct-2001|ploughed plot to be fallowed.|T
+R/WF/3|2002||12-Oct-2001|ploughed plot to be wheat.|T
+R/WF/3|2002||13-Oct-2001|Combination drilled, Hereward, tr. Sibutol, at 350 seed/m2 with the Accord 1 drill.|T
+R/WF/3|2002||11-Dec-2001|tm) Hawk at 2.0 1 in 200 1.|T
+R/WF/3|2002||11-Dec-2001|tm) Tolkan liquid at 1.0 1 in 200 1.|T
+R/WF/3|2002||11-Dec-2001|tm) Phase II at 1.0 1 in 200 1.|T
+R/WF/3|2002||04-Apr-2002|tm) Opus at 0.4 1 in 100 1.|T
+R/WF/3|2002||04-Apr-2002|tm) Twist at 0.6 1 in 100 1.|T
+R/WF/3|2002||04-Apr-2002|tm) BASF 3C Chlormequat 720 at 1.25 1 in 100 1.|T
+R/WF/3|2002||04-Apr-2002|tm) Moddus at 0.2 1 in 100 1.|T
+R/WF/3|2002||10-Apr-2002|Flexitined.|T
+R/WF/3|2002||31-May-2002|tm) Opus at 0.5 1 in 200 1.|T
+R/WF/3|2002||31-May-2002|tm) Twist at 0.8 1 in 200 1.|T
+R/WF/3|2002||27-Jun-2002|rotary harrowed.|T
+R/WF/3|2002||04-Jul-2002|Rogued wild oats.|T
+R/WF/3|2002||29-Jul-2002|rotavated.|T
+R/WF/3|2002||13-Aug-2002|combine harvested, plots for yield. swathed straw. sampled, baled and weighed straw.|T
+R/WF/3|2002||24-Aug-2002|carted bales.|T
+R/WF/3|2003||03-Oct-2002|Chalk applied at 8000 kg/ha, to western 52m.|T
+R/WF/3|2003||03-Oct-2002|ploughed, 25 cm wide furrows.|B
+R/WF/3|2003||05-Oct-2002|rolled.|B
+R/WF/3|2003||07-Oct-2002|Combination drilled, Hereward, tr. Sibutol, at 400 seeds/m2 with the Accord drill.|T
+R/WF/3|2003||08-Oct-2002|rolled.|T
+R/WF/3|2003||17-Feb-2003|tm) Lexus 50 DF at 20 g in 200 1.|T
+R/WF/3|2003||17-Feb-2003|tm) Stomp 400 SC at 3.0 1 in 200 1.|T
+R/WF/3|2003||30-Apr-2003|springtined fallow strip|T
+R/WF/3|2003||07-May-2003|tm) ally at 30 3 in 200 1. SL|T
+R/WF/3|2003||07-May-2003|tm) Starane 2 at 0.75 1 in 200 1.|T
+R/WF/3|2003||10-May-2003|tm) Opus at 0.5 1 in 200 1.|T
+R/WF/3|2003||10-May-2003|tm) Amistar at 0.6 1 in 200 1.|T
+R/WF/3|2003||28-May-2003|tm) Opus at 0.5 1 in 200 1.|T
+R/WF/3|2003||28-May-2003|tm) Twist at 1.0 1 in 200 1.|T
+R/WF/3|2003||09-Jun-2003|rotary harrowed fallow strip.|T
+R/WF/3|2003||26-Jul-2003|Touchdown at 4.0 1 in 200 1.|T
+R/WF/3|2003||06-Aug-2003|combine harvested, plots for yield.|T
+R/WF/3|2003||07-Aug-2003|combine harvested discards. sampled, baled and weighed straw.|T
+R/WF/3|2004||17-Sep-2003|Flexitine|
+R/WF/3|2004||26-Sep-2003|Ploughed 30 cm wide furrows.|
+R/WF/3|2004||30-Sep-2003|Combination drilled, Hereward, tr. Sibutol Secur, at 350 seed/m2 with the Accord drill|
+R/WF/3|2004||30-Sep-2003|rolled.|
+R/WF/3|2004||16-Dec-2004|tm) Arelon 500 at 4 1 in 200 1 to wheat plot.
+R/WF/3|2004||16-Dec-2004|tm) Stomp 400 SC at 2.5 1 in 200 1 to wheat plot.|
+R/WF/3|2004||14-Apr-2004|tm) ally at 30 g in 200 1 to fallow plot.
+R/WF/3|2004||14-Apr-2004|tm) Oxytril CM at 0.5 1 in 200 1 to fallow plot.|:
+R/WF/3|2004||13-May-2004|tm) Opus at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2004||13-May-2004|tm) Moddus at 0.15 1 in 200 1 to wheat plot.|:
+R/WF/3|2004||07-Jun-2004|tm) Opus at 0.75 1 in 200 1 to wheat plot.|:
+R/WF/3|2004||07-Jun-2004|tm) Twist at 0.75 1 in 200 1 to wheat plot.|:
+R/WF/3|2004||02-Sep-2004|combine harvested, plot for yield.|:
+R/WF/3|2004||03-Sep-2004|sampled and weighed straw.|:
+R/WF/3|2004||07-Sep-2004|combine harvested discards. swathed and baled straw.|:
+R/WF/3|2005||29-Sep-2004|ploughed 25 cm wide furrows.|:
+R/WF/3|2005||30-Sep-2004|cultipressed|:
+R/WF/3|2005||05-Oct-2004|flexitined|:
+R/WF/3|2005||06-Oct-2004|combination drilled, Hereward, tr. Sibutol Secur, at 350 seed/m2 with the Accord drill.
+R/WF/3|2005||06-Oct-2004|rolled.|:
+R/WF/3|2005||25-Nov-2004|tm) Hawk at 2.0 1 in 200 1 to wheat plot.
+R/WF/3|2005||25-Nov-2004|tm) Alpha IPU 500 at 2.5 1 in 200 1 to wheat plot.
+R/WF/3|2005||25-Nov-2004|tm) Nufarm Cropoil at 1.0 1 in 200 L to wheat plot.
+R/WF/3|2005||25-Nov-2004|tm) Hallmark with Zeon Technology at 50 ml in 200 L to wheat plot|:
+R/WF/3|2005||07-Apr-2005|springtined fallow plot.|:
+R/WF/3|2005||29-Apr-2005|tm) Opus at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2005||29-Apr-2005|tm) Bravo 500 at 1.0 1 in 200 1 to wheat plot.
+R/WF/3|2005||29-Apr-2005|tm) Atlas Chlormequat 700 at 2.25 L in 200 L to wheat plot.|:
+R/WF/3|2005||03-May-2005|Ally SX at 30 g in 200 1 to wheat plot.|.
+R/WF/3|2005||13-May-2005|Flexitined fallow plot.|:
+R/WF/3|2005||15-May-2005|tm) Opus at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2005||15-May-2005|tm) Bravo 500 at 1.0 1 in 200 1 to wheat plot.
+R/WF/3|2005||15-May-2005|tm) Starane 2 at 0.5 1 in 200 L to wheat plot.|.
+R/WF/3|2005||31-May-2005|tm) Opus at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2005||31-May-2005|tm) Amistar Opti at 1.5 1 in 200 1 to wheat plot.|.
+R/WF/3|2005||06-Jun-2005|Power harrowed.|.
+R/WF/3|2005||12-Jul-2005|Power harrowed.|.
+R/WF/3|2005||16-Aug-2005|Combine harvested, plot for yield, swathed straw.|.
+R/WF/3|2005||17-Aug-2005|Sampled and weighed straw.|:
+R/WF/3|2006||29-Sep-2005|Ploughed 25 cm wide furrows.|:
+R/WF/3|2006||04-Oct-2005|Cultipressed|:
+R/WF/3|2006||07-Oct-2005|Cultipressed, combination drilled, Hereward, tr. Sibutol Secur, at 350 seed/m2 with the Accord drill, rolled.|:
+R/WF/3|2006||17-Oct-2005|Ice at 4.0 1 in 200 1 to wheat plot.|:
+R/WF/3|2006||05-Dec-2005|Hallmark with Zeon Technology at 50 ml in 200 L to wheat plot|:
+R/WF/3|2006||07-Apr-2006|Springtined fallow plot.|:
+R/WF/3|2006||21-Apr-2006|tm) Opus at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2006||21-Apr-2006|tm) Bravo 500 at 1.0 1 in 200 1 to wheat plot.
+R/WF/3|2006||21-Apr-2006|tm) Flexity at 0.2 L in 200 L to wheat plot.|:
+R/WF/3|2006||17-May-2006|Power harrowed fallow plot.|:
+R/WF/3|2006||21-May-2005|tm) Opus at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2006||21-May-2005|tm) Bravo 500 at 1.0 1 in 200 1 to wheat plot.
+R/WF/3|2006||21-May-2005|tm) Vivid at 0.4 1 in 200 1 to wheat plot.
+R/WF/3|2006||21-May-2005|tm) Starane 2 at 0.75 1 in 200 1 to wheat plot.
+R/WF/3|2006||21-May-2005|tm) ally Max SX at 42 g in 200 1 to wheat plot.|:
+R/WF/3|2006||23-Jun-2006|Rotovated fallow plot.|:
+R/WF/3|2006||06-Aug-2006|Combine harvested discards, baled straw.|-
+R/WF/3|2006||23-Aug-2006|Combine harvested, plot for yield, swathed straw.
+R/WF/3|2006||23-Aug-2006|sampled and weighed straw.|.
+R/WF/3|2006||25-Aug-2006|Combine harvested remaining discards, baled straw.|:

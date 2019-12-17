@@ -1,0 +1,101 @@
+R/WF/3|1952|None|18-Sept-1951||diary record|ploughed
+R/WF/3|1952|None|19-Oct-1951||diary record|seed drilled at 3 bushels per acre
+R/WF/3|1952|None|31-July-1952||diary record|Harvested
+R/WF/3|1952|None|||variety|Squareheads Master 13/4
+R/WF/3|1952|fallow plots|18-Sept-1951||diary record|ploughed
+R/WF/3|1952|fallow plots|8-Feb-1952||diary record|ploughed
+R/WF/3|1952|fallow plots|6-Sept-1952||diary record|ploughed
+R/WF/3|1953|cropped plots|6-Sept-1952||diary record|ploughed
+R/WF/3|1953|cropped plots|27-Oct-1952||diary record|seed drilled at 3 bushels per acre
+R/WF/3|1953|cropped plots|20-Aug-1953||diary record|Harvested
+R/WF/3|1953|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1953|fallow plots|6-Sept-1952||diary record|ploughed
+R/WF/3|1953|fallow plots|3-Sept-1953||diary record|ploughed
+R/WF/3|1954|cropped plots|3-Sept-1953||diary record|ploughed
+R/WF/3|1954|cropped plots|22-Oct-1953||diary record|seed drilled at 3 bushels per acre
+R/WF/3|1954|cropped plots|6-Sept-1954||diary record|Harvested
+R/WF/3|1954|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1954|fallowed plots|3-Sept-1953||diary record|ploughed
+R/WF/3|1954|fallowed plots|3-Dec-1953||diary record|ploughed
+R/WF/3|1954|fallowed plots|25-Sept-1954||diary record|ploughed
+R/WF/3|1955|cropped plots|25-Sept-1954||diary record|ploughed
+R/WF/3|1955|cropped plots|7-Dec-1954||diary record|seed drilled at 3 bushels per acre
+R/WF/3|1955|cropped plots|20-Aug-1955||diary record|Harvested
+R/WF/3|1955|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1955|fallowed plots|25-Sept-1954||diary record|ploughed
+R/WF/3|1955|fallowed plots|28-Sept-1955||diary record|ploughed
+R/WF/3|1956|cropped plots|28-Sept-1955||diary record|ploughed
+R/WF/3|1956|cropped plots|2-Nov-1955||diary record|seed drilled at 3 bushels per acre
+R/WF/3|1956|cropped plots|1-Sept-1956||diary record|Harvested
+R/WF/3|1956|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1956|fallowed plots|28-Sept-1955||diary record|ploughed
+R/WF/3|1956|fallowed plots|15-May-1956||diary record|ploughed
+R/WF/3|1956|fallowed plots|23-Aug-1956||diary record|ploughed
+R/WF/3|1957|cropped plots|26-Sept-1956||diary record|ploughed
+R/WF/3|1957|cropped plots|27-Oct-1956||diary record|seed sown at 3 bushels per acre
+R/WF/3|1957|cropped plots|26-Aug-1957||diary record|combine harvested
+R/WF/3|1957|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1957|fallowed plots|26-Sept-1956||diary record|ploughed
+R/WF/3|1958|cropped plots|2-Sept-1957||diary record|ploughed
+R/WF/3|1958|cropped plots|15-Oct-1957||diary record|seed sown at 3 bushels per acre
+R/WF/3|1958|cropped plots|5-Sept-1958||diary record|combine harvested
+R/WF/3|1958|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1958|fallowed plots|2-Sept-1957||diary record|ploughed
+R/WF/3|1959|cropped plots|21-Oct-1958||diary record|ploughed
+R/WF/3|1959|cropped plots|21-Nov-1958||diary record|seed sown at 3 bushels per acre
+R/WF/3|1959|cropped plots|20-Aug-1959||diary record|combine harvested
+R/WF/3|1959|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1959|fallowed plots|21-Oct-1958||diary record|ploughed
+R/WF/3|1959|fallowed plots|2-June-1959||diary record|ploughed
+R/WF/3|1960|cropped plots|12-Sept-1959||diary record|ploughed
+R/WF/3|1960|cropped plots|19-Oct-1959||diary record|seed sown at 3 bushels per acre
+R/WF/3|1960|cropped plots|31-Aug-1960||diary record|combine harvested
+R/WF/3|1960|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1960|fallowed plots|11-Sept-1959|12-Sept-1959|diary record|ploughed twice
+R/WF/3|1961|cropped plots|21-Sept-1960||diary record|ploughed
+R/WF/3|1961|cropped plots|17-Jan-1961||diary record|seed sown at 3 bushels per acre
+R/WF/3|1961|cropped plots|1-Sept-1960||diary record|combine harvested
+R/WF/3|1961|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1961|fallowed plots|21-Sept-1960||diary record|ploughed three times
+R/WF/3|1961|fallowed plots|14-June-1961||diary record|ploughed three times
+R/WF/3|1961|fallowed plots|18-July-1961||diary record|ploughed three times
+R/WF/3|1962|cropped plots|15-Sept-1961||diary record|ploughed
+R/WF/3|1962|cropped plots|1-Nov-1961||diary record|seed sown at 3 bushels per acre
+R/WF/3|1962|cropped plots|15-Sept-1962||diary record|combine harvested
+R/WF/3|1962|cropped plots|||variety|Squareheads Master 13/4
+R/WF/3|1962|fallowed plots|15-Sept-1961||diary record|ploughed three times
+R/WF/3|1962|fallowed plots|17-May-1962|diary record|ploughed three times
+R/WF/3|1962|fallowed plots|2-July-1962||diary record|ploughed three times
+R/WF/3|1963|cropped plots|24-Oct-1962||diary record|ploughed
+R/WF/3|1963|cropped plots|23-Nov-1962||diary record|seed drilled at 3 bushels per acre
+R/WF/3|1963|cropped plots|10-Sept-1963||diary record|combine harvested
+R/WF/3|1963|fallowed plots|24-Oct-1962||diary record|ploughed three times
+R/WF/3|1963|fallowed plots|3-May-1963||diary record|ploughed three times
+R/WF/3|1964|cropped plots|24-Sept-1963||diary record|ploughed
+R/WF/3|1964|cropped plots|16-Oct-1963||diary record|seed drilled at 3 bushels
+R/WF/3|1964|cropped plots|28-Aug-196k||diary record|combine harvested
+R/WF/3|1964|fallowed plots|24-Sept-1963||diary record|ploughed 3 times
+R/WF/3|1964|fallowed plots|30-May-1964||diary record|ploughed 3 times
+R/WF/3|1964|fallowed plots|27-July-1964||diary record|ploughed 3 times
+R/WF/3|1965|cropped plots|17-Sept-1964||diary record|ploughed
+R/WF/3|1965|cropped plots|26-Oct-1964||diary record|seed drilled at 190 1b
+R/WF/3|1963|cropped plots|21-Sept-1965||diary record|combine harvested
+R/WF/3|1965|fallowed plots|17-Sept-1964||diary record|ploughed 3 times
+R/WF/3|1965|fallowed plots|19-July-1965||diary record|ploughed 3 times
+R/WF/3|1965|fallowed plots|13-Aug-1965||diary record|ploughed 3 times
+R/WF/3|1966|cropped plots|14-Oct-1965||diary record|ploughed
+R/WF/3|1966|cropped plots|5-Nov-1965||diary record|seed drilled at 190 1b
+R/WF/3|1966|cropped plots|2-May-1966||diary record|sections A3 and A4 rotary cultivated and drilled with Kloka spring wheat at 230 1b
+R/WF/3|1966|cropped plots|16-May-1966||diary record|Winter wheat sprayed with ioxynil/mecoprop (Actril C at 6 pints in 40 gals)
+R/WF/3|1966|cropped plots|16-June-1966||diary record|spring wheat sprayed with MCPA at 1.5 1b a.e. in 40 gals
+R/WF/3|1966|cropped plots|3-Sept-1966||diary record|Winter wheat combine harvested
+R/WF/3|1966|cropped plots|7-Sept-1966||diary record|Spring wheat combine harvested
+R/WF/3|1966|fallowed plots|14-Oct-1965||diary record|ploughed 3 times
+R/WF/3|1966|fallowed plots|23-May-1966||diary record|ploughed 3 times
+R/WF/3|1966|fallowed plots|15-July-1966||diary record|ploughed 3 times
+R/WF/3|1967|cropped plots|13-Sept-1966||diary record|ploughed
+R/WF/3|1967|cropped plots|28-Oct-1966||diary record|seed drilled at 180 1b
+R/WF/3|1967|cropped plots|9-May-1967||diary record|sprayed with ioxynil/mecoprop (Actril C at 6 pints in 20 gals)
+R/WF/3|1967|fallow plots|13-Sept-1966||diary record|ploughed 3 times
+R/WF/3|1967|fallow plots|3-Apr-1967||diary record|ploughed 3 times
+R/WF/3|1967|fallow plots|5-July-1967||diary record|ploughed 3 times

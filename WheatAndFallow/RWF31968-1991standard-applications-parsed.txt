@@ -1,0 +1,18 @@
+R/WF/3|1973||weedkiller|Dicamba, mecoprop and MCPA ('Tetralex Plus' at 7.0 1 in 220 1)
+R/WF/3|1974||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 5.6 1 in 220 1)
+R/WF/3|1975||weedkiller|Ioxynil with mecoprop ('Actril C' at 7.0 l in 220 l)
+R/WF/3|1976||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 5.6 1 in 220 1)
+R/WF/3|1977||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 l in 220 l)
+R/WF/3|1977||insecticide|pirimicarb at 0.14 kg in 280 1
+R/WF/3|1978||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 1 in 220 1)
+R/WF/3|1979||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 kg in 220 1)
+R/WF/3|1980||weedkiller|mecoprop, bromoxynil and ioxynil (as 'Brittox' at 3.5 l in 250 l)
+R/WF/3|1980||insecticide|demeton-s-methyl at 0.24 kg in 250 1
+R/WF/3|1983||weedkiller|Isoproturon at 2.1 kg and mecoprop, bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 250 1
+R/WF/3|1984||weedkiller|chlortoluron at 3.5 kg in 250 1
+R/WF/3|1984||weedkiller|3,6-dichloropicolinic acid at 0.07 kg and bromoxynil at 0.34 kg with mecoprop (as 'CMPP' at 4.2 l) in 200 l
+R/WF/3|1984||insecticide|pirimicarb at 0.14 kg in 200 1
+R/WF/3|1985||weedkiller|Clopyralid at 0.10 kg with bromoxynil and ioxynil (as 'Deloxi1' at 0.70 1) in 500 1
+R/WF/3|1986||weedkiller|paraquat at 0.60 kg ion in 200 1
+R/WF/3|1986||weedkiller|Isoproturon at 2.1 kg, clopyralid at 0.07 kg and bromoxynil at 0.34 kg, mecoprop at 2.5 kg with the fungicides in 200 l
+R/WF/3|1986||Fungicide|Prochloraz at 0.40 kg and carbendazim at 0.15 kg

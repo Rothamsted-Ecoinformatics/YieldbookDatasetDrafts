@@ -1,0 +1,221 @@
+R/WF/3|1968|cropped plots|5-Sept-1967||diary record|ploughed
+R/WF/3|1968|cropped plots|19-Oct-1967||diary record|seed drilled at 180 1b
+R/WF/3|1968|cropped plots|14-May-1968||diary record|sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals
+R/WF/3|1968|cropped plots|26-Aug-1968||diary record|combine harvested
+R/WF/3|1968|fallow plots|5-Sept-1967||diary record|ploughed 3 times
+R/WF/3|1968|fallow plots|27-May-1968||diary record|ploughed 3 times
+R/WF/3|1968|fallow plots|5-Aug-1968||diary record|ploughed 3 times
+R/WF/3|1969|cropped plots|6-Sept-1968||diary record|ploughed
+R/WF/3|1969|cropped plots|16-Oct-1968||diary record|seed drilled at 180 1b
+R/WF/3|1969|cropped plots|13-May-1969||diary record|sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals
+R/WF/3|1969|cropped plots|29-Aug-1969||diary record|combine harvested
+R/WF/3|1969|fallow plots|6-Sept-1968||diary record|ploughed 3 times
+R/WF/3|1969|fallow plots|13-May-1969||diary record|ploughed 3 times
+R/WF/3|1969|fallow plots|8-July-1969||diary record|ploughed 3 times
+R/WF/3|1970|cropped plots|22-Sept-1969||diary record|ploughed
+R/WF/3|1970|cropped plots|14-Oct-1969||diary record|rotary cultivated
+R/WF/3|1970|cropped plots|15-Oct-1969||diary record|seed drilled at 180 1b
+R/WF/3|1970|cropped plots|14-May-1970||diary record|sprayed with ioxynil at 7.5 oz and mecoprop at 22.5 oz in 20 gals
+R/WF/3|1970|cropped plots|26-Aug-1970||diary record|combine harvested
+R/WF/3|1970|fallow plots|14-Oct-1969||diary record|plot 07 (2nd year fallow) rotary cultivated
+R/WF/3|1970|fallow plots|22-Sept-1969||diary record|ploughed (all fallow plots) 3 times
+R/WF/3|1970|fallow plots|21-May-1970||diary record|ploughed (all fallow plots) 3 times
+R/WF/3|1970|fallow plots|9-July-1970||diary record|ploughed (all fallow plots) 3 times
+R/WF/3|1971|cropped plots|4-Sept-1970||diary record|ploughed
+R/WF/3|1971|cropped plots|9-Oct-1970||diary record|seed drilled at 202 kg
+R/WF/3|1971|cropped plots|15-Apr-1971||diary record|sprayed with ioxynil at 0.63 kg and mecoprop at 1.9 kg in 225 l
+R/WF/3|1971|cropped plots|27-Aug-1971||diary record|combine harvested
+R/WF/3|1971|cropped plots|||variety|Cappelle,
+R/WF/3|1971|fallow plots|4-Sept-1970||diary record|ploughed 3 times
+R/WF/3|1971|fallow plots|19-Apr-1971||diary record|ploughed 3 times
+R/WF/3|1971|fallow plots|8-July-1971||diary record|ploughed 3 times
+R/WF/3|1972|Not stated|4-Oct-1971||diary record|ploughed
+R/WF/3|1972|Not stated|22-Oct-1971||diary record|seed drilled
+R/WF/3|1972|Not stated|27-Apr-1972||diary record|sprayed with MCPA, mecoprop and Dicamba ('Banlene Plus' at 5.6 l in 220 l)
+R/WF/3|1972|Not stated|1-Sept-1972||diary record|combine harvested
+R/WF/3|1972|fallow plots|4-Oct-1971||diary record|ploughed 3 times
+R/WF/3|1972|fallow plots|11-May-1972||diary record|ploughed 3 times
+R/WF/3|1972|fallow plots|11-July-1972||diary record|ploughed 3 times
+R/WF/3|1973|Not stated|11-Sept-1972||diary record|ploughed
+R/WF/3|1973|Not stated|18-Oct-1972||diary record|seed drilled
+R/WF/3|1973|Not stated|26-Apr-1973||diary record|weedkiller applied
+R/WF/3|1973|Not stated|20-Aug-1973||diary record|combine harvested
+R/WF/3|1973|fallow plots|11-Sept-1972||diary record|ploughed 3 times
+R/WF/3|1973|fallow plots|17-May-1973||diary record|ploughed 3 times
+R/WF/3|1973|fallow plots|6-July-1973||diary record|ploughed 3 times
+R/WF/3|1974|wheat plots|3-Oct-1973||diary record|ploughed
+R/WF/3|1974|wheat plots|18-Oct-1973||diary record|disced and seed sown
+R/WF/3|1974|wheat plots|18-Apr-1974||diary record|weedkiller applied
+R/WF/3|1974|wheat plots|29-Aug-1974||diary record|combine harvestad
+R/WF/3|1974|fallow plots|3-Oct-1973||diary record|ploughed
+R/WF/3|1974|fallow plots|7-May-1974||diary record|ploughed
+R/WF/3|1974|fallow plots|22-July-1974||diary record|ploughed
+R/WF/3|1974|fallow plots|8-Mar-1974||diary record|spring-tine cultivated
+R/WF/3|1974|fallow plots|11-Apr-1974||diary record|spring-tine cultivated
+R/WF/3|1974|fallow plots|10-July-1974||diary record|spring-tine cultivated
+R/WF/3|1974|fallow plots|8-Aug-1974||diary record|spring-tine cultivated
+R/WF/3|1975|wheat plots|28-Oct-1974||diary record|ploughed
+R/WF/3|1975|wheat plots|08-Nov-1975||diary record|power harrowed, seed sown and harrowed
+R/WF/3|1975|wheat plots|12-May-1975||diary record|weedkiller applied
+R/WF/3|1975|wheat plots|13-Aug-1975||diary record|combine harvested
+R/WF/3|1975|fallow plots|28-Oct-1974||diary record|ploughed
+R/WF/3|1975|fallow plots|16-May-1975||diary record|ploughed
+R/WF/3|1975|fallow plots|15-July-1975||diary record|ploughed
+R/WF/3|1975|fallow plots|27-May-1975||diary record|springtine cultivated
+R/WF/3|1976|wheat plots|11-Oct-1975||diary record|ploughed
+R/WF/3|1976|wheat plots|15-Oct-1975||diary record|rotary harrowed
+R/WF/3|1976|wheat plots|17-Oct-1975||diary record|seed sown
+R/WF/3|1976|wheat plots|29-Apr-1976||diary record|weedkiller applied
+R/WF/3|1976|wheat plots|29-July-1976||diary record|combine harvested
+R/WF/3|1976|fallow plots|11-Oct-1975||diary record|ploughed
+R/WF/3|1976|fallow plots|2-June-1976||diary record|ploughed
+R/WF/3|1976|fallow plots|8-July-1976||diary record|ploughed
+R/WF/3|1976|fallow plots|21-Apr-1976||diary record|Heavy spring-tine cultivated
+R/WF/3|1976|fallow plots|11-June-1976||diary record|Heavy spring-tine cultivated
+R/WF/3|1976|fallow plots|22-Mar-1976||diary record|spring-tine cultivated
+R/WF/3|1976|fallow plots|20-July-1976||diary record|spring-tine cultivated
+R/WF/3|1977|wheat plots|1-Oct-1976||diary record|ploughed
+R/WF/3|1977|wheat plots|24-Nov-1976||diary record|rotary harrowed and seed sown
+R/WF/3|1977|wheat plots|24-May-1977||diary record|weedkiller applied
+R/WF/3|1977|wheat plots|15-July-1977||insecticide applied
+R/WF/3|1977|wheat plots|8-Sept-1977||diary record|combine harvested
+R/WF/3|1977|fallow plots|1-Oct-1976||diary record|ploughed
+R/WF/3|1977|fallow plots|18-May-1977||diary record|ploughed
+R/WF/3|1977|fallow plots|20-July-1977||diary record|ploughed
+R/WF/3|1977|fallow plots|11-Aug-1977||diary record|spring-tine cultivated
+R/WF/3|1978|wheat plots|28-Sept-1977||diary record|ploughed
+R/WF/3|1978|wheat plots|19-Oct-1977||diary record|rotary harrowed, seed sown
+R/WF/3|1978|wheat plots|18-May-1978||diary record|weedkiller applied
+R/WF/3|1978|wheat plots|30-Aug-1978||diary record|combine harvested
+R/WF/3|1978|fallow plots|28-Sept-1977||diary record|ploughed
+R/WF/3|1978|fallow plots|25-May-1978||diary record|ploughed
+R/WF/3|1978|fallow plots|15-June-1978||diary record|rolled and heavy spring-tine cultivated
+R/WF/3|1978|fallow plots|26-June-1978||diary record|spring-tine cultivated
+R/WF/3|1978|fallow plots|5-July-1978||diary record|ploughed
+R/WF/3|1978|fallow plots|12-July-1978||diary record|rolled and spring-tine cultivated
+R/WF/3|1979|wheat plots|9-Oct-1978||diary record|ploughed
+R/WF/3|1979|wheat plots|10-Oct-1978||diary record|rotary harrowed
+R/WF/3|1979|wheat plots|11-Oct-1979||diary record|seed sown
+R/WF/3|1979|wheat plots|9-May-1979||diary record|weedkiller applied
+R/WF/3|1979|wheat plots|28-Aug-1979||diary record|combine harvested
+R/WF/3|1979|fallow plots|9-Oct-1978||diary record|ploughed
+R/WF/3|1979|fallow plots|1-May-1979||diary record|spring-tine cultivated
+R/WF/3|1979|fallow plots|24-May-1979||diary record|ploughed
+R/WF/3|1979|fallow plots|14-June-1979||diary record|Heavy spring-tine cultivated
+R/WF/3|1979|fallow plots|11-July-1979||diary record|ploughed
+R/WF/3|1979|fallow plots|31-July-1979||diary record|Heavy spring-tine cultivated
+R/WF/3|1980|wheat plots|11-Oct-1979||diary record|ploughed
+R/WF/3|1980|wheat plots|16-Oct-1979||diary record|rotary harrowed, seed sown
+R/WF/3|1980|wheat plots|16-Apr-1980||diary record|weedkiller applied
+R/WF/3|1980|wheat plots|24-June-1980||diary record|insecticide applied
+R/WF/3|1980|wheat plots|21-Aug-1980||diary record|combine harvested
+R/WF/3|1980|fallow plots|11-Oct-1979||diary record|ploughed
+R/WF/3|1980|fallow plots|21-Apr-1980||diary record|Heavy spring-tine cultivated
+R/WF/3|1980|fallow plots|9-May-1980||diary record|ploughed
+R/WF/3|1980|fallow plots|16-June-1980||diary record|ploughed
+R/WF/3|1980|fallow plots|22-May-1980||diary record|spring-tine cultivated
+R/WF/3|1980|fallow plots|19-June-1980||diary record|spring-tine cultivated
+R/WF/3|1980|fallow plots|1-Aug-1980||diary record|rotary harrowed
+R/WF/3|1981|wheat plots|1-Oct-1980||diary record|ploughed, rotary harrowed, seed sown
+R/WF/3|1981|wheat plots|19-Aug-1981||diary record|combine harvested
+R/WF/3|1981|fallow plots|1-Oct-1980||diary record|ploughed
+R/WF/3|1981|fallow plots|17-June-1981||diary record|ploughed
+R/WF/3|1981|fallow plots|16-July-1981||diary record|ploughed
+R/WF/3|1981|fallow plots|18-Apr-1981||diary record|Heavy spring-tine cultivated, and spring-tine cultivated
+R/WF/3|1981|fallow plots|15-May-1981||diary record|rotary harrowed
+R/WF/3|1981|fallow plots|19-June-1981||diary record|Heavy spring-tine cultivated
+R/WF/3|1981|fallow plots|1-July-1981||diary record|spring-tine cultivated
+R/WF/3|1981|fallow plots|20-July-1981||diary record|spring-tine cultivated
+R/WF/3|1981|fallow plots|11-Aug-1981||diary record|spring-tine cultivated
+R/WF/3|1982|wheat plots|29-Sept-1981||diary record|ploughed
+R/WF/3|1982|wheat plots|15-Oct-1981||diary record|rotary harrowed
+R/WF/3|1982|wheat plots|16-Oct-1981||diary record|seed sown
+R/WF/3|1982|wheat plots|20-Aug-1982||diary record|combine harvested
+R/WF/3|1982|fallow plots|29-Sept-1981||diary record|ploughed
+R/WF/3|1982|fallow plots|15-Apr-1982||diary record|spring-tine cultivated
+R/WF/3|1982|fallow plots|4-May-1982||diary record|ploughed
+R/WF/3|1982|fallow plots|12-May-1982||diary record|spring-tine cultivated
+R/WF/3|1982|fallow plots|17-June-1982||diary record|ploughed
+R/WF/3|1982|fallow plots|30-June-1982||diary record|spring-tine cultivated
+R/WF/3|1982|fallow plots|29-July-1982||diary record|rotary harrowed
+R/WF/3|1983|wheat plot|7-Sept-1982||diary record|ploughed
+R/WF/3|1983|wheat plot|29-Oct-1982||diary record|spring-tine cultivated
+R/WF/3|1983|wheat plot|18-Jan-1983||diary record|Heavy spring-tine cultivated, spring-tine cultivated, rotary harrowed, seed sown
+R/WF/3|1983|wheat plot|16-Apr-1983||diary record|weedkiller applied
+R/WF/3|1983|wheat plot|10-Aug-1983||diary record|combine harvested
+R/WF/3|1983|fallow plot|7-Sept-1982||diary record|ploughed
+R/WF/3|1983|fallow plot|25-May-1983||diary record|Heavy spring-tine cultivated
+R/WF/3|1983|fallow plot|16-June-1983||diary record|ploughed
+R/WF/3|1983|fallow plot|23-June-1983||diary record|spring-tine cultivated
+R/WF/3|1983|fallow plot|14-July-1983||diary record|ploughed
+R/WF/3|1983|fallow plot|21-July-1983||diary record|spring-tine cultivated
+R/WF/3|1984|wheat plot|12-Sept-1983||diary record|ploughed
+R/WF/3|1984|wheat plot|6-Oct-1983||diary record|spring-tine cultivated
+R/WF/3|1984|wheat plot|7-Oct-1984||diary record|rotary harrowed, seed sown
+R/WF/3|1984|wheat plot|1-Dec-1984||diary record|chlortoluron applied
+R/WF/3|1984|wheat plot|17-Apr-1984||diary record|"3,6-dichloropicolinic" acid, bromoxynil and mecoprop applied
+R/WF/3|1984|wheat plot|28-June-1984||diary record|insecticide applied
+R/WF/3|1984|wheat plot|14-Aug-1984||diary record|combine harvested
+R/WF/3|1984|fallow plot|12-Sept-1983||diary record|ploughed
+R/WF/3|1984|fallow plot|6-Oct-1983||diary record|spring-tine cultivated
+R/WF/3|1984|fallow plot|27-Apr-1984||diary record|Heavy spring-tine cultivated
+R/WF/3|1984|fallow plot|2-May-1984||diary record|ploughed
+R/WF/3|1984|fallow plot|8-May-1984||diary record|rolled, heavy spring-tine cultivated
+R/WF/3|1984|fallow plot|18-June-1984||diary record|ploughed
+R/WF/3|1984|fallow plot|25-June-1984||diary record|rolled, spring-tine cultivated
+R/WF/3|1985|wheat plot|1-Oct-1984||diary record|ploughed
+R/WF/3|1985|wheat plot|1-Nov-1984||diary record|rotary harrowed, seed sown
+R/WF/3|1985|wheat plot|10-June-1985||diary record|weedkiller applied
+R/WF/3|1985|wheat plot|6-Sept-1985||diary record|combine harvested
+R/WF/3|1985|fallow plot|1-Oct-1984||diary record|ploughed
+R/WF/3|1985|fallow plot|2-May-1985||diary record|ploughed
+R/WF/3|1985|fallow plot|7-May-1985||diary record|rolled
+R/WF/3|1985|fallow plot|16-May-1985||diary record|spring-tine cultivated
+R/WF/3|1985|fallow plot|14-June-1985||diary record|spring-tine cultivated
+R/WF/3|1985|fallow plot|15-July-1985||diary record|ploughed
+R/WF/3|1985|fallow plot|2-Aug-1985||diary record|spring-tine cultivated
+R/WF/3|1986|wheat plot|1-Oct-1985||diary record|paraquat applied
+R/WF/3|1986|wheat plot|8-Oct-1985||diary record|spring-tine cultivated, seed sown
+R/WF/3|1986|wheat plot|29-Apr-1986||diary record|remaining weedkiller applied with the Fungicide
+R/WF/3|1986|wheat plot|2-Sept-1986||diary record|combine harvested
+R/WF/3|1986|fallow plot|7-Oct-1985||diary record|ploughed
+R/WF/3|1986|fallow plot|28-Apr-1986||diary record|spring-tine cultivated
+R/WF/3|1986|fallow plot|13-May-1986||diary record|spring-tine cultivated
+R/WF/3|1986|fallow plot|6-June-1986||diary record|spring-tine cultivated
+R/WF/3|1986|fallow plot|19-June-1986||diary record|spring-tine cultivated
+R/WF/3|1986|fallow plot|28-July-1986||diary record|spring-tine cultivated
+R/WF/3|1986|fallow plot|7-July-1986||diary record|cultivated with thistle bar
+R/WF/3|1986|fallow plot|22-Aug-1986||diary record|cultivated with thistle bar
+R/WF/3|1987|wheat plot|11-Oct-1986||diary record|rotary harrowed, seed sown
+R/WF/3|1987|wheat plot|1-Sept-1987||diary record|combine harvested
+R/WF/3|1987|fallow plot|10-Oct-1986||diary record|ploughed
+R/WF/3|1987|fallow plot|27-Apr-1987||diary record|rotary harrowed
+R/WF/3|1987|fallow plot|28-Apr-1987||diary record|Deep-tine cultivated
+R/WF/3|1987|fallow plot|22-June-1987||diary record|Heavy spring-tine cultivated
+R/WF/3|1987|fallow plot|30-June-1987||diary record|Heavy spring-tine cultivated
+R/WF/3|1987|fallow plot|19-Aug-1987||diary record|cultivated by rotary grubber
+R/WF/3|1988|wheat plot|6-Nov-1987||diary record|rotary harrowed, seed sown
+R/WF/3|1988|wheat plot|6-Sept-1988||diary record|combine harvested
+R/WF/3|1988|fallow plot|14-Dec-1987||diary record|ploughed
+R/WF/3|1988|fallow plot|29-Apr-1988||diary record|Heavy spring-tine cultivated
+R/WF/3|1988|fallow plot|16-May-1988||diary record|cultivated by rotary grubber
+R/WF/3|1988|fallow plot|13-June-1988||diary record|cultivated by rotary grubber
+R/WF/3|1989|wheat plot|27-Oct-1988||diary record|Heavy spring-tine cultivated
+R/WF/3|1989|wheat plot|28-Oct-1988||diary record|seed sown
+R/WF/3|1989|wheat plot|9-Aug-1989||diary record|combine harvested
+R/WF/3|1989|fallow plot|12-Dec-1988||diary record|ploughed
+R/WF/3|1989|fallow plot|8-May-1989||diary record|rotary cultivated
+R/WF/3|1989|fallow plot|31-July-1989||diary record|cultivated with thistle bar
+R/WF/3|1990|wheat plot|12-Oct-1989||diary record|Heavy spring-tine cultivated, rotary harrowed, seed sown
+R/WF/3|1990|wheat plot|9-Aug-1990||diary record|combine harvested
+R/WF/3|1990|fallow plot|8-Dec-1989||diary record|ploughed
+R/WF/3|1990|fallow plot|23-Apr-1990||diary record|Heavy spring-tine cultivated
+R/WF/3|1990|fallow plot|15-June-1990||diary record|cultivated by rotary grubber
+R/WF/3|1990|fallow plot|17-July-1990||diary record|cultivated with thistle bar
+R/WF/3|1991|wheat plot|17-Oct-1990||diary record|rotary harrowed twice, seed sown
+R/WF/3|1991|wheat plot|25-Aug-1991||diary record|combine harvested
+R/WF/3|1991|fallow plot|24-Sept-1990||diary record|Deep tine cultivated with vibrating tines 60 cm apart, 45 cm deep
+R/WF/3|1991|fallow plot|4-Oct-1990||diary record|ploughed, furrow pressed
+R/WF/3|1991|fallow plot|25-Apr-1991||diary record|Heavy spring-tine cultivated
+R/WF/3|1991|fallow plot|14-June-1991||diary record|spring-tine cultivated
+R/WF/3|1991|fallow plot|8-July-1991||diary record|Heavy spring-tine cultivated

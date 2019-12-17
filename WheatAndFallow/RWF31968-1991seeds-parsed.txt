@@ -1,0 +1,20 @@
+R/WF/3|1972|None|Cappelle (dressed with dieldrin) sown at 200 kg.
+R/WF/3|1973|None|Cappelle, dressed with dieldrin, sown at 200 kg.
+R/WF/3|1974|None|Cappellz, dressed with dieldrin, sown at 200 kg.
+R/WF/3|1975|None|Cappelle, dressed with dieldrin, sown at 200 kg.
+R/WF/3|1976|None|Cappelle, sown at 200 kg.
+R/WF/3|1977|None|Cappelle, sown at 200 kg.
+R/WF/3|1978|None|Cappelle, seed dressed chlorfenvinphos, sown at 200 kg.
+R/WF/3|1979|None|Flanders, seed dressed chlorfenvinphos, sown at 200 kg.
+R/WF/3|1980|None|Flanders, sown at 200 kg.
+R/WF/3|1981|None|Flanders seed dressed chlorfenvinphos, sown at 200 kg.
+R/WF/3|1982|None|Flanders, dressed chlorfenvinphos, sown at 200 kg.
+R/WF/3|1983|None|Flanders, dressed chlorfenvinphos, sown at 210 kg.
+R/WF/3|1984|None|Flanders, dressed chlorfenvinphos, sown at 210 kg.
+R/WF/3|1985|None|Brimstone, sown at 190 kg.
+R/WF/3|1986|None|Brimstone, sown at 200 kg.
+R/WF/3|1987|None|Brimstone, dressed fonofos, sown at 190 kg.
+R/WF/3|1988|None|Brimstone, dressed fonofos, sown at 180 kg.
+R/WF/3|1989|None|Brimstone, dressed fonofos, sown at 180 kg.
+R/WF/3|1990|None|Brimstone, dressed fonofos, sown at 180 kg.
+R/WF/3|1991|None|Apollo, dressed fonofos, sown at 180 kg.
