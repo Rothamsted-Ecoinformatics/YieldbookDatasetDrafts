@@ -1,0 +1,338 @@
+RW/CS/10|1968|sawyers i|25-Sept-1967||diary record| (R) ploughed
+RW/CS/10|1968|sawyers i|28-Mar-1968||diary record| 'Nitro-chalk' applied
+RW/CS/10|1968|sawyers i|4-Apr-1968||diary record| P and K applied plots rotary cultivated potatoes machine planted
+RW/CS/10|1968|sawyers i|3-May-1968||diary record|weedkiller applied
+RW/CS/10|1968|sawyers i|4-July-1968||diary record|Fungicide applied
+RW/CS/10|1968|sawyers i|19-July-1968||diary record|Fungicide applied
+RW/CS/10|1968|sawyers i|5-Aug-1968||diary record|Fungicide applied
+RW/CS/10|1968|sawyers i|19-July-1968||diary record|insecticide applied
+RW/CS/10|1968|sawyers i|30-Aug-1968||diary record|sprayed with undiluted BOV at 15 gals
+RW/CS/10|1968|sawyers i|3-Oct-1968||diary record|lifted
+RW/CS/10|1968|sawyers i|||variety|Majestic
+RW/CS/10|1968|stackyard series c|15-Nov-1967||diary record| (W) ploughed
+RW/CS/10|1968|stackyard series c|26-Mar-1968||diary record| 'Nitro-chalk' applied
+RW/CS/10|1968|stackyard series c|28-Mar-1968||diary record| P and K applied plots rotary cultivated
+RW/CS/10|1968|stackyard series c|29-Mar-1968||diary record|potatoes machine planted
+RW/CS/10|1968|stackyard series c|3-May-1968||diary record|weedkiller applied
+RW/CS/10|1968|stackyard series c|13-June-1968||diary record|rotary ridged
+RW/CS/10|1968|stackyard series c|12-July-1968||diary record|Fungicide applied
+RW/CS/10|1968|stackyard series c|18-July-1968||diary record|Fungicide applied
+RW/CS/10|1968|stackyard series c|30-July-1968||diary record|Fungicide applied
+RW/CS/10|1968|stackyard series c|12-July-1968||diary record|insecticide applied
+RW/CS/10|1968|stackyard series c|4-Sept-1968||diary record|sprayed with undiluted BOV at 15 gals
+RW/CS/10|1968|stackyard series c|2-Oct-1968||diary record|lifted
+RW/CS/10|1968|stackyard series c|||variety|Majestic
+RW/CS/10|1969|sawyers i|31-Jan-1969||diary record| (R) ploughed
+RW/CS/10|1969|sawyers i|26-Apr-1969||diary record| rotary cultivated 16 -
+RW/CS/10|1969|sawyers i|23-May-1969||diary record| rotary cultivated 16 -
+RW/CS/10|1969|sawyers i|3-July-1969||diary record| rotary cultivated 16 -
+RW/CS/10|1969|sawyers i|5-Aug-1969||diary record|subsoiler 28 inches apart 20 inches deep
+RW/CS/10|1969|stackyard series c|18-Oct-1968||diary record| (W) Deep-tine cultivated
+RW/CS/10|1969|stackyard series c|7-Feb-1969||diary record| ploughed
+RW/CS/10|1969|stackyard series c|8-Mar-1969||diary record| ploughed
+RW/CS/10|1969|stackyard series c|17-Apr-1969||diary record|rotary cultivated
+RW/CS/10|1969|stackyard series c|1-May-1969||diary record|rotary cultivated
+RW/CS/10|1969|stackyard series c|22-May-1969||diary record|rotary cultivated
+RW/CS/10|1969|stackyard series c|17-June-1969||diary record|rotary cultivated
+RW/CS/10|1969|stackyard series c|28-June-1969||diary record|Deep-tine cultivated
+RW/CS/10|1969|stackyard series c|1-July-||diary record|subsoiler 56 inches apart 20 - 22 inches deep
+RW/CS/10|1970|sawyers i|30-Dec-1969||diary record| (R) ploughed
+RW/CS/10|1970|sawyers i|26-Mar-1970||diary record| P and K applied
+RW/CS/10|1970|sawyers i|28-Mar-1970||diary record| seed combine drilled at 140 lb
+RW/CS/10|1970|sawyers i|18-May-1970||diary record|weedkiller applied
+RW/CS/10|1970|sawyers i|15-Aug-1970||diary record|combine harvested
+RW/CS/10|1970|sawyers i|||variety|Julia
+RW/CS/10|1970|stackyard series c|30-Oct-1969|8--1969|diary record| (W) ploughed
+RW/CS/10|1970|stackyard series c|-1969-1969||diary record| (W) ploughed
+RW/CS/10|1970|stackyard series c|25-Mar-1970||diary record|WN applied
+RW/CS/10|1970|stackyard series c|26-Mar-1970||diary record| seed drilled at 135 lv P and K applied
+RW/CS/10|1970|stackyard series c|18-May-1970||diary record|weedkiller applied
+RW/CS/10|1970|stackyard series c|12-Aug-1970||diary record|combine harvested
+RW/CS/10|1970|stackyard series c|||variety|Julia
+RW/CS/10|1971|stackyard c|16-Sept-1970||diary record| (W) paraquat applied
+RW/CS/10|1971|stackyard c|28-Oct-1970||diary record| ploughed
+RW/CS/10|1971|stackyard c|4-Mar-1971||diary record|N P and K applied
+RW/CS/10|1971|stackyard c|17-Mar-1971||diary record| seed drilled at 157 kg
+RW/CS/10|1971|stackyard c|17-May-1971||diary record|weedkiller applied
+RW/CS/10|1971|stackyard c|17-Aug-1971||diary record|combine hervested
+RW/CS/10|1971|stackyard c|||variety|Julia
+RW/CS/10|1972|stackyard c|9-Sept-1971||diary record| (W) paraquat applied
+RW/CS/10|1972|stackyard c|27-Oct-1971||diary record| ploughed
+RW/CS/10|1972|stackyard c|14-Mar-1972||diary record|N P and K applied
+RW/CS/10|1972|stackyard c|15-Mar-1972||diary record| seed drilled
+RW/CS/10|1972|stackyard c|3-July-1972||diary record|CAO plots cut and carted because the crop had failed and plots were very weedy
+RW/CS/10|1972|stackyard c|4-July-1972||diary record|CAO plots rotary cultivated three times
+RW/CS/10|1972|stackyard c|18-July-1972||diary record|CAO plots rotary cultivated three times
+RW/CS/10|1972|stackyard c|31-July-1972||diary record|CAO plots rotary cultivated three times
+RW/CS/10|1972|stackyard c|15-Aug-||diary record|combine harvested
+RW/CS/10|1973|sawyers i|29-Nov-1972||diary record| (R) ploughed
+RW/CS/10|1973|sawyers i|26-Feb-1973||diary record| P and K applied
+RW/CS/10|1973|sawyers i|12-Mar-1973||diary record| power harrowed seed sown
+RW/CS/10|1973|sawyers i|15-May-1973||diary record|weedkiller applied
+RW/CS/10|1973|sawyers i|2-July-1973||diary record|plots with time rotary cultivated
+RW/CS/10|1973|stackyard c|28-Sept-1972||diary record| (W) Deep-tine cultivated
+RW/CS/10|1973|stackyard c|27-Dec-1972||diary record| ploughed
+RW/CS/10|1973|stackyard c|28-Feb-1973||diary record|P and K applied
+RW/CS/10|1973|stackyard c|12-Mar-1973||diary record| W applied Mar seed sown
+RW/CS/10|1973|stackyard c|11-May-1973||diary record|weedkiller applied
+RW/CS/10|1973|stackyard c|2-July-1973||diary record|rain plots with time rotary cultivated
+RW/CS/10|1973|stackyard c|13-Aug-||diary record|combine harvested
+RW/CS/10|1974|sawyers i|19-Nov-1973||diary record| (R) ploughed
+RW/CS/10|1974|sawyers i|23-Apr-1974||diary record| Basal N applied
+RW/CS/10|1974|sawyers i|24-Apr-1974||diary record| treatment P K and Mg applied spiked rotary cultivated potatoes planted
+RW/CS/10|1974|sawyers i|17-May-1974||diary record|weedkiller applied
+RW/CS/10|1974|sawyers i|19-June-1974||diary record|grubbed
+RW/CS/10|1974|sawyers i|21-June-1974||diary record|rotary ridged
+RW/CS/10|1974|sawyers i|2-Aug-1974||diary record|Fungicide with insecticide applied ll July Fungicide applied
+RW/CS/10|1974|sawyers i|10-Sept-1974||diary record|Haulm mechanically destroyed
+RW/CS/10|1974|stackyard c|13-Sept-1973||diary record| (W) aminotriazole plus ammonium thiocyanate applied
+RW/CS/10|1974|stackyard c|25-Oct-1973||diary record| subsoiler times 140 cm apart 50 cm deep
+RW/CS/10|1974|stackyard c|13-Nov-1973||diary record|ploughed
+RW/CS/10|1974|stackyard c|4-Apr-1974||diary record|spring-tine cultivated
+RW/CS/10|1974|stackyard c|16-Apr-1974||diary record| Basal N treatment P K and Mg applied
+RW/CS/10|1974|stackyard c|17-Apr-1974||diary record|rotary cultivated potatoes planted
+RW/CS/10|1974|stackyard c|15-May-1974||diary record|weedkiller applied
+RW/CS/10|1974|stackyard c|12-June-1974||diary record|rotary ridged
+RW/CS/10|1974|stackyard c|19-July-1974||diary record|Fungicide with insecticide applied
+RW/CS/10|1974|stackyard c|7-Aug-1974||diary record|Fungicide applied
+RW/CS/10|1974|stackyard c|12-Sept-1974||diary record|Haulm mechanically destroyed
+RW/CS/10|1974|stackyard c|30-Sept-||diary record|sprayed with undiluted BOV at 170 1 lifted
+RW/CS/10|1975|sawyers i|7-Feb-1975||diary record| (R) Chisel ploughed
+RW/CS/10|1975|sawyers i|11-Mar-1975||diary record| treatment P and K applied
+RW/CS/10|1975|sawyers i|25-Mar-1975||diary record|rotary cultivated seed sown N applied
+RW/CS/10|1975|sawyers i|19-May-1975||diary record|weedkiller applied
+RW/CS/10|1975|stackyard c|11-Dec-1974||diary record| (W) ploughed
+RW/CS/10|1975|stackyard c|17-Mar-1975||diary record| treatment P and K applied
+RW/CS/10|1975|stackyard c|20-Mar-1975||diary record|spring-tine cultivated seed sown N applied
+RW/CS/10|1975|stackyard c|22-May-1975||diary record|weedkiller applied
+RW/CS/10|1975|stackyard c|18-Aug-||diary record|combine harvested
+RW/CS/10|1976|sawyers i|7-Oct-1975||diary record| (R) weedkiller applied
+RW/CS/10|1976|sawyers i|20-Oct-1975||diary record| ploughed
+RW/CS/10|1976|sawyers i|11-Mar-1976||diary record|spring-tine cultivated
+RW/CS/10|1976|sawyers i|24-Mar-1976||diary record| treatment P K and Mg and Basal N applied
+RW/CS/10|1976|sawyers i|26-Mar-1976||diary record|spring-tine cultivated seed sown
+RW/CS/10|1976|stackyard c|2-Sept-1975||diary record| (W) Heavy spring-tine cultivated rotary cultivated
+RW/CS/10|1976|stackyard c|21-Oct-1975||diary record| ploughed
+RW/CS/10|1976|stackyard c|9-Mar-1976||diary record|spring-tine cultivated
+RW/CS/10|1976|stackyard c|26-Mar-1976||diary record| treatment P K and Mg applied
+RW/CS/10|1976|stackyard c|29-Mar-1976||diary record|Basal N applied
+RW/CS/10|1976|stackyard c|30-Mar-1976||diary record|spring-tine cultivated with crumbler
+RW/CS/10|1976|stackyard c|31-Mar-1976||diary record|rolled seed sown
+RW/CS/10|1976|stackyard c|7-July-||diary record|Harvested green
+RW/CS/10|1977|sawyers i|31-Aug-1976||diary record| (R) Deep-tine cultivated twice
+RW/CS/10|1977|sawyers i|11-Dec-1976||diary record| ploughed
+RW/CS/10|1977|sawyers i|29-Mar-1977||diary record|treatment P and K applied
+RW/CS/10|1977|sawyers i|30-Mar-1977||diary record| treatment Mg applied
+RW/CS/10|1977|sawyers i|4-Apr-1977||diary record|power harrowed seed sown
+RW/CS/10|1977|sawyers i|30-May-1977||diary record|weedkiller applied
+RW/CS/10|1977|stackyard c|16-Aug-1976||diary record| (W) power harrowed
+RW/CS/10|1977|stackyard c|23-Nov-1976||diary record| ploughed
+RW/CS/10|1977|stackyard c|9-Mar-1977||diary record|spring-tine cultivated with crumbler attached
+RW/CS/10|1977|stackyard c|18-Mar-1977||diary record| treatment P K and Mg applied
+RW/CS/10|1977|stackyard c|31-Mar-1977||diary record|spring-tine cultivated with crumbler attached seed sown
+RW/CS/10|1977|stackyard c|30-May-1977||diary record|weedkiller applied
+RW/CS/10|1977|stackyard c|3-Sept-||diary record|combine harvested
+RW/CS/10|1978|sawyers i|2°-Nov-1977||diary record| (R) ploughed
+RW/CS/10|1978|sawyers i|7-Apr-1978||diary record| spring-tine cultivated
+RW/CS/10|1978|sawyers i|1°-Apr-1978||diary record| treatment P K and Mg applied power harrowed seed sown
+RW/CS/10|1978|sawyers i|8-June-1978||diary record|weedkiller applied
+RW/CS/10|1978|stackyard c|23-Sept-1977||diary record| (W) paraquat applied
+RW/CS/10|1978|stackyard c|30-Sept-1977||diary record| ploughed
+RW/CS/10|1978|stackyard c|9-Mar-1978||diary record|spring-tine cultivated
+RW/CS/10|1978|stackyard c|13-Mar-1978||diary record|P K and Mg applied spring-tine cultivated with crumbler attached
+RW/CS/10|1978|stackyard c|15-Mar-1978||diary record|seed sown
+RW/CS/10|1978|stackyard c|3-Apr-1978||diary record|spring-tine cultivated with crumbler attached seed sown because of bird damage
+RW/CS/10|1978|stackyard c|15-May-1978||diary record|weedkiller and Fungicide applied
+RW/CS/10|1978|stackyard c|23-Aug-||diary record|combine harvested
+RW/CS/10|1979|sawyers i|24-Oct-1978||diary record| (R) weedkiller applied
+RW/CS/10|1979|sawyers i|29-Nov-1978||diary record| test Chalk applied
+RW/CS/10|1979|sawyers i|21-Dec-1978||diary record|ploughed
+RW/CS/10|1979|sawyers i|12-June-1979||diary record|rotary cultivated
+RW/CS/10|1979|stackyard c|14-Sept-1978||diary record| (W) weedkiller applied
+RW/CS/10|1979|stackyard c|21-Nov-1978||diary record| test Chalk applied
+RW/CS/10|1979|stackyard c|22-Nov-1978||diary record|ploughed
+RW/CS/10|1979|stackyard c|17-Apr-1979||diary record|spring-tine cultivated with crumbler attached
+RW/CS/10|1979|stackyard c|6-June-1979||diary record| rotary cultivated
+RW/CS/10|1979|stackyard c|4-July-1979||diary record|rotary cultivated twice
+RW/CS/10|1979|stackyard c|16-Aug-1979||diary record|rotary cultivated twice
+RW/CS/10|1979|stackyard c|21-Aug-1979||diary record|Deep-tine cultivated
+RW/CS/10|1979|stackyard c|11-Sept-||diary record|Heavy spring-tine cultivated
+RW/CS/10|1979|stackyard c|93--||diary record|Heavy spring-tine cultivated
+RW/CS/10|1980|stackyard c|11-Sept-1979||diary record| (W) Heavy spring-tine cultivated
+RW/CS/10|1980|stackyard c|3-Mar-1980||diary record| (W) Heavy spring-tine cultivated
+RW/CS/10|1980|stackyard c|7-Aug-1980||diary record| (W) Heavy spring-tine cultivated
+RW/CS/10|1980|stackyard c|29-Nov-1979||diary record|ploughed
+RW/CS/10|1980|stackyard c|29-July-1980||diary record| rotary cultivated
+RW/CS/10|1981|sawyers i|1-Dec-1980||diary record| (R) Basal K and Mg applied
+RW/CS/10|1981|sawyers i|8-Dec-1980||diary record| P treatment applied ploughed
+RW/CS/10|1981|sawyers i|13-Apr-1981||diary record|rotary harrowed seed sown
+RW/CS/10|1981|sawyers i|1-June-1981||diary record| weedkiller applied
+RW/CS/10|1981|stackyard c|13-Nov-1980||diary record| (W) ploughed
+RW/CS/10|1981|stackyard c|12-Dec-1980||diary record| (W) ploughed
+RW/CS/10|1981|stackyard c|8-Dec-1980||diary record|Basal K and Mg applied
+RW/CS/10|1981|stackyard c|6-Apr-1981||diary record|N applied heavy spring-tine cultivated
+RW/CS/10|1981|stackyard c|8-Apr-1981||diary record| spring-tine cultivated with crumbler attached
+RW/CS/10|1981|stackyard c|9-Apr-1981||diary record|rotary cut cultivated seed sown
+RW/CS/10|1981|stackyard c|1-June-1981||diary record|weedkiller and Fungicide applied
+RW/CS/10|1981|stackyard c|3-Sept-||diary record|combine harvested
+RW/CS/10|1982|sawyers i|7-Dec-1981||diary record| (2) ground Chalk applied 3 -
+RW/CS/10|1982|sawyers i|3-Feb-1982||diary record| ploughed
+RW/CS/10|1982|sawyers i|5-Apr-1982||diary record| spring-tine cultivated
+RW/CS/10|1982|sawyers i|14-Apr-1982||diary record|P K and Mg applied seed sown
+RW/CS/10|1982|sawyers i|26-May-1982||diary record|weedkiller applied
+RW/CS/10|1982|stackyard c|25-Nov-1981||diary record| (W) ground Chalk applied
+RW/CS/10|1982|stackyard c|26-Feb-1982||diary record| ploughed
+RW/CS/10|1982|stackyard c|24-Mar-1982||diary record| P and K applied
+RW/CS/10|1982|stackyard c|25-Mar-1982||diary record|Mg and N applied heavy spring-tine cultivated
+RW/CS/10|1982|stackyard c|29-Mar-1982||diary record|spring-tine cultivated with crumbler attached seed sown
+RW/CS/10|1982|stackyard c|26-May-1982||diary record|weedkiller applied
+RW/CS/10|1982|stackyard c|20-Aug-||diary record|combine harvested
+RW/CS/10|1983|sawyers i|26-Nov-1982||diary record| (R) ground Chalk treatment applied
+RW/CS/10|1983|sawyers i|1-Dec-1982||diary record| ploughed
+RW/CS/10|1983|sawyers i|11-May-1983||diary record|P treatment and N K and Mg applied
+RW/CS/10|1983|sawyers i|23-May-1983||diary record| rotary harrowed potatoes planted
+RW/CS/10|1983|sawyers i|26-May-1983||diary record|rotary ridged
+RW/CS/10|1983|sawyers i|7-June-1983||diary record|weedkiller applied
+RW/CS/10|1983|sawyers i|22-June-1983||diary record|mancozeb applied
+RW/CS/10|1983|sawyers i|25-Aug-1983||diary record|mancozeb applied
+RW/CS/10|1983|sawyers i|9-Sept-1983||diary record|mancozeb applied
+RW/CS/10|1983|sawyers i|1-July-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|sawyers i|8-July-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|sawyers i|18-July-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|sawyers i|28-July-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|sawyers i|11-Aug-1983||diary record|Fentin hydroxide applied
+RW/CS/10|1983|sawyers i|11-Oct-1983||diary record|Haulm mechanically destroyed
+RW/CS/10|1983|sawyers i|19-Oct-1983||diary record|Haulm desiccant applied
+RW/CS/10|1983|stackyard c|12-Sept-1982||diary record| (W) glyphosate appl field
+RW/CS/10|1983|stackyard c|8-Oct-1982||diary record| ploughed
+RW/CS/10|1983|stackyard c|4-Nov-1982||diary record|ground Chalk treatment applied
+RW/CS/10|1983|stackyard c|23-Dec-1982||diary record|ploughed
+RW/CS/10|1983|stackyard c|21-Mar-1983||diary record|Heavy spring-tine cultivated
+RW/CS/10|1983|stackyard c|22-Mar-1983||diary record| P treatment and N K and Mg applied
+RW/CS/10|1983|stackyard c|28-Mar-1983||diary record|Heavy spring-tine cultivated
+RW/CS/10|1983|stackyard c|11-May-1983||diary record|Heavy spring-tine cultivated
+RW/CS/10|1983|stackyard c|11-May-1983||diary record|rotary cultivated potatoes planted
+RW/CS/10|1983|stackyard c|7-June-1983||diary record|rotary ridged weedkiller applied
+RW/CS/10|1983|stackyard c|22-June-1983||diary record|mancozeb applied with insecticide
+RW/CS/10|1983|stackyard c|8-July-1983||diary record|mancozeb applied with insecticide
+RW/CS/10|1983|stackyard c|18-July-1983||diary record|mancozeb applied with insecticide
+RW/CS/10|1983|stackyard c|1-July-1983||diary record|mancozeb applied
+RW/CS/10|1983|stackyard c|29-July-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|stackyard c|11-Aug-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|stackyard c|26-Aug-1983||diary record|Fentin hydroxide applied with insecticide
+RW/CS/10|1983|stackyard c|9-Sept-1983||diary record|Fentin hydroxide applied
+RW/CS/10|1983|stackyard c|5-Oct-1983||diary record|Haulm mechanically destroyed
+RW/CS/10|1983|stackyard c|17-Oct-1983||diary record|Haulm desiccant applied
+RW/CS/10|1983|stackyard c|7-Nov-||diary record|lifted
+RW/CS/10|1984|sawyers i|11-Nov-1983||diary record| (R) Heavy spring-tine cultivated
+RW/CS/10|1984|sawyers i|27-Apr-1984||diary record| twice
+RW/CS/10|1984|sawyers i|9-May-1984||diary record| twice
+RW/CS/10|1984|sawyers i|27-Apr-1984||diary record|rotary cultivated
+RW/CS/10|1984|sawyers i|15-June-1984||diary record|rotary cultivated
+RW/CS/10|1984|sawyers i|12-July-1984||diary record|rotary cultivated
+RW/CS/10|1984|stackyard c|16-Jan-1984||diary record| (W) Oeep-tine cultivated
+RW/CS/10|1984|stackyard c|15-May-1984||diary record| Heavy spring-tine cultivated
+RW/CS/10|1984|stackyard c|10-July-1984||diary record|cultivated with thistle bar
+RW/CS/10|1984|stackyard c|10-Aug-1984||diary record|cultivated with thistle bar
+RW/CS/10|1984|stackyard c|25-July-||diary record|rotary cultivated
+RW/CS/10|1985|sawyers i|3-Jan-1985||diary record| (R) ploughed
+RW/CS/10|1985|sawyers i|18-Mar-1985||diary record| NK applied spring-tine cultivated rotary harrowed seed sown
+RW/CS/10|1985|sawyers i|16-May-1985||diary record|weedkiller with Fungicide applied
+RW/CS/10|1985|stackyard c|13-Mar-1985||diary record| (Ww) ploughed
+RW/CS/10|1985|stackyard c|18-Mar-1985||diary record|spring-tine cultivated NK applied harrowed seed sown
+RW/CS/10|1985|stackyard c|16-May-1985||diary record|weedkiller applied
+RW/CS/10|1985|stackyard c|28-Aug-||diary record|combine harvested
+RW/CS/10|1986|sawyers i|23-Sept-1985||diary record| (R) weedkiller applied
+RW/CS/10|1986|sawyers i|8-Oct-1985||diary record| ploughed
+RW/CS/10|1986|sawyers i|23-Oct-1985||diary record|rolled disced rotary harrowed seed sown
+RW/CS/10|1986|sawyers i|30-Apr-1986||diary record|N applied
+RW/CS/10|1986|stackyard c|9-Oct-1985||diary record| (W) ploughed
+RW/CS/10|1986|stackyard c|22-Oct-1985||diary record| rolled power harrowed seed sown
+RW/CS/10|1986|stackyard c|30-Apr-1986||diary record|N applied
+RW/CS/10|1986|stackyard c|19-May-1986||diary record| weedkiller applied
+RW/CS/10|1986|stackyard c|7-Sept-||diary record|combine harvested
+RW/CS/10|1987|sawyers i|13-Nov-1986||diary record| (R) Chalk treatment applied
+RW/CS/10|1987|sawyers i|14-Nov-1986||diary record| ploughed
+RW/CS/10|1987|sawyers i|31-Mar-1987||diary record|spring-tine cultivated rotary harrowed seed sown harrowed
+RW/CS/10|1987|sawyers i|13-Apr-1987||diary record| weedkiller applied
+RW/CS/10|1987|sawyers i|9-July-1987||diary record|Fungicide and insecticide applied
+RW/CS/10|1987|stackyard c|16-Sept-1986||diary record| (W) glyphosate applied
+RW/CS/10|1987|stackyard c|13-Nov-1986||diary record| Chalk treatment applied
+RW/CS/10|1987|stackyard c|28-Nov-1986||diary record|ploughed
+RW/CS/10|1987|stackyard c|6-Apr-1987||diary record|spiked harrowed with crumbler attached seed sown
+RW/CS/10|1987|stackyard c|13-Apr-1987||diary record| Harrowed terbutryne and terbutryne applied
+RW/CS/10|1987|stackyard c|8-May-1987||diary record|Deltamathrin applied
+RW/CS/10|1987|stackyard c|13-July-1987||diary record|Benomy] and primicarb applied
+RW/CS/10|1987|stackyard c|18-Nov-||diary record|combine harvested
+RW/CS/10|1988|sawyers i|14-Dec-1987||diary record| (R) P treatment K and Mg applied
+RW/CS/10|1988|sawyers i|15-Dec-1987||diary record| ploughed
+RW/CS/10|1988|sawyers i|5-Apr-1988||diary record|Heavy spring-tine cultivated
+RW/CS/10|1988|sawyers i|7-Apr-1988||diary record| N applied
+RW/CS/10|1988|sawyers i|12-Apr-1988||diary record|weedkiller applied spring-tine cultivated twice
+RW/CS/10|1988|sawyers i|13-Apr-1988||diary record|rotary harrowed seed sown harrowed
+RW/CS/10|1988|sawyers i|19-Sept-1988||diary record|desiccant applied
+RW/CS/10|1988|stackyard c|10-Feb-1988||diary record| (W) P treatment K and Mg applied
+RW/CS/10|1988|stackyard c|23-Feb-1988||diary record| ploughed
+RW/CS/10|1988|stackyard c|5-Apr-1988||diary record|Heavy spring-tine cultivated
+RW/CS/10|1988|stackyard c|22-Apr-1988||diary record|N applied spiked harrowed with crumbler attached trifluralin applied spiked harrowed with crumbler attached seed sown
+RW/CS/10|1988|stackyard c|5-May-1988||diary record|Linuron applied
+RW/CS/10|1988|stackyard c|21-Sept-1988||diary record|desiccant applied
+RW/CS/10|1988|stackyard c|1-Nov-||diary record|combine harvested
+RW/CS/10|1989|sawyers i|20-Dec-1988||diary record| (R) ploughed
+RW/CS/10|1989|sawyers i|29-Mar-1989||diary record| Heavy spring-tine cultivated rotary harrowed
+RW/CS/10|1989|sawyers i|30-Mar-1989||diary record| rotary harrowed seed sown i harrowed rolled
+RW/CS/10|1989|sawyers i|31-Mar-1989||diary record|weedkiller applied
+RW/CS/10|1989|sawyers i|10-31-1989||diary record|Deltamathrin applied primicarb applied
+RW/CS/10|1989|sawyers i|-May-1989||diary record|Deltamathrin applied primicarb applied
+RW/CS/10|1989|sawyers i|14-June-1989||diary record|Deltamathrin applied primicarb applied
+RW/CS/10|1989|sawyers i|14-July-1989||diary record|Benomyl and fenpropimorph applied
+RW/CS/10|1989|stackyard c|14-Dec-1988||diary record| (W); ploughed
+RW/CS/10|1989|stackyard c|28-Mar-1989||diary record| spring-tine cultivated
+RW/CS/10|1989|stackyard c|31-Mar-1989||diary record| rotary harrowed seed sown
+RW/CS/10|1989|stackyard c|22-Apr-1989||diary record|Simazine and triatazine applied
+RW/CS/10|1989|stackyard c|22-7-1989||diary record|Deltamathrin applied Alloxydim-sodium applied
+RW/CS/10|1989|stackyard c|-June-1989||diary record|Deltamathrin applied Alloxydim-sodium applied
+RW/CS/10|1989|stackyard c|7-June-1989||diary record|Deltamathrin applied Alloxydim-sodium applied
+RW/CS/10|1989|stackyard c|22-June-1989||diary record|primicarb applied
+RW/CS/10|1989|stackyard c|12-July-1989||diary record|Benomyl and fenpropimorph applied
+RW/CS/10|1989|stackyard c|22-Aug-||diary record|combine harvested
+RW/CS/10|1990|sawyers i|23-Aug-1989||diary record| (R) Tin cultivated with vibrating times 60 cm apart 45 cm deep
+RW/CS/10|1990|sawyers i|24-Nov-1989||diary record| ploughed
+RW/CS/10|1990|sawyers i|5-Mar-1990||diary record|spring-tine cultivated
+RW/CS/10|1990|sawyers i|6-Mar-1990||diary record| rotary harrowed phorate applied rotary harrowed seed sown harrowed and rolled
+RW/CS/10|1990|sawyers i|12-Mar-1990||diary record|Simazine and triatazine applied
+RW/CS/10|1990|sawyers i|2-17-1990||diary record|Deltamothrin applied primicarb applied
+RW/CS/10|1990|sawyers i|-May-1990||diary record|Deltamothrin applied primicarb applied
+RW/CS/10|1990|sawyers i|5-June-1990||diary record|Deltamothrin applied primicarb applied
+RW/CS/10|1990|stackyard c|1-Sept-1989||diary record| (W) glyphosate applied
+RW/CS/10|1990|stackyard c|5-Jan-1990||diary record| ploughed
+RW/CS/10|1990|stackyard c|5-Mar-1990||diary record| phorate applied power harrowed with crumbler attached seed sown
+RW/CS/10|1990|stackyard c|13-Mar-1990||diary record|Simazine and triatazine applied
+RW/CS/10|1990|stackyard c|25-May-||diary record|paraquat applied
+RW/CS/10|1991|sawyers i|23-Aug-1990||diary record| (R) N and K applied
+RW/CS/10|1991|sawyers i|28-Aug-1991||diary record| ploughed
+RW/CS/10|1991|sawyers i|29-Aug-1991||diary record|rolled
+RW/CS/10|1991|sawyers i|30-Aug-1991||diary record|rotary harrowed
+RW/CS/10|1991|sawyers i|31-Aug-1991||diary record|rotary harrowed seed sown harrowed rolled matazachlor applied
+RW/CS/10|1991|sawyers i|21-27-1991||diary record|Irrigated Deltamathrin applied
+RW/CS/10|1991|sawyers i|-Sept-1991||diary record|Irrigated Deltamathrin applied
+RW/CS/10|1991|sawyers i|7-Nov-1991||diary record|Irrigated Deltamathrin applied
+RW/CS/10|1991|sawyers i|3-Dec-1991||diary record|Prochloraz and Mg applied
+RW/CS/10|1991|sawyers i|17-Dec-1991||diary record|Clopyralid applied
+RW/CS/10|1991|sawyers i|4-Mar-1991||diary record|N applied
+RW/CS/10|1991|sawyers i|12-Apr-1991||diary record| second deltamathrin applied
+RW/CS/10|1991|sawyers i|23-Apr-1991||diary record|second prochloraz and Mn applied
+RW/CS/10|1991|sawyers i|30-July-1991||diary record|desiccant with watting agent applied
+RW/CS/10|1991|stackyard c|15-Aug-1990||diary record| (W) disced
+RW/CS/10|1991|stackyard c|21-Aug-1991||diary record| subsoiler with times 15 m apart 04 m deep
+RW/CS/10|1991|stackyard c|22-Aug-1991||diary record|ploughed and rolled
+RW/CS/10|1991|stackyard c|28-Aug-1991||diary record|WN and K applied
+RW/CS/10|1991|stackyard c|30-Aug-1991||diary record|rotary harrowed with crumbler attached seed sown
+RW/CS/10|1991|stackyard c|1-Nov-1991||diary record|weedkiller and adjuvant applied
+RW/CS/10|1991|stackyard c|15-Nov-1991||diary record|Deltamathrin applied
+RW/CS/10|1991|stackyard c|3-Dec-1991||diary record|Mg applied
+RW/CS/10|1991|stackyard c|15-Mar-1991||diary record|N applied
+RW/CS/10|1991|stackyard c|12-Apr-1991||diary record| second deltamathrin applied with Fungicide
+RW/CS/10|1991|stackyard c|9-May-1991||diary record|Mn applied
+RW/CS/10|1991|stackyard c|1-Aug-1991||diary record|desiccant with watting agent applied
+RW/CS/10|1991|stackyard c|13-Aug-||diary record|combine harvested

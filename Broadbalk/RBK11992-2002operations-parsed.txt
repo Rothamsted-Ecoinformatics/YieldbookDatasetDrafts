@@ -1,0 +1,391 @@
+R/BK/1|1992|all sections|30-Sep-1991|P applied.|Tf
+R/BK/1|1992|all sections|07-Oct-1991|K, Na and Mg applied.|T
+R/BK/1|1992|all sections|09-Oct-1991|FYM applied.|T
+R/BK/1|1992|all sections|11-Oct-1991|ploughed and furrow pressed.|B
+R/BK/1|1992|all sections|14-Oct-1991|rotary harrowed.|B
+R/BK/1|1992|w wheat|31-Aug-1991|Straw chopped (section 0).|T
+R/BK/1|1992|w wheat|09-Oct-1991|Chalk applied at 2.9 t (sections 4 and 6)|T
+R/BK/1|1992|w wheat|10-Oct-1991|autumn N treatments applied.|T
+R/BK/1|1992|w wheat|15-Oct-1991|rotary harrowed, Apollo, dressed Fonofos seed Treatment, drilled at 200 kg.|2
+R/BK/1|1992|w wheat|16-Oct-1991|rolled.|T
+R/BK/1|1992|w wheat|06-Dec-1991|Stomp 400 at 3.3 1 and Stefes IPU at 2.5 1 in 200 1 (except section 8).|T
+R/BK/1|1992|w wheat|10-Apr-1992|spring N treatments applied.|T
+R/BK/1|1992|w wheat|14-May-1992|Sportak 45 at 0.90 1, Calixin at 0.50 1 and Tripart Brevis at 2.25 1 in 200 1 (except section 6).|T
+R/BK/1|1992|w wheat|09-Jun-1992|Chiltern Olé at 2.0 1 and Mistral at 1.0 1 in 200 1 (except section 6).|T
+R/BK/1|1992|w wheat|23-Jun-1992|Radar at 0.50 1 and Mistral at 0.50 1 in 200 1 (except section 6).|P
+R/BK/1|1992|w wheat|28-Jun-1992|Roundup at 6.0 1 with High Stefes Mixture B at 2.9 1 in 150 1 (except section 8).|T
+R/BK/1|1992|w wheat|06-Aug-1992|combine harvested. 5|T
+R/BK/1|1992|potatoes|15-Jan-1992|Chisel ploughed. é|T
+R/BK/1|1992|potatoes|10-Apr-1992|N treatments applied.|7
+R/BK/1|1992|potatoes|13-Apr-1992|Heavy spring-tine cultivated.|T
+R/BK/1|1992|potatoes|23-Apr-1992|rotary harrowed, planted Pentland Crown Elite 2.|7
+R/BK/1|1992|potatoes|13-May-1992|Rotalin at 5.5 1 in 400 1.|7
+R/BK/1|1992|potatoes|22-Jun-1992|Manex at 2.0 1 with Nu Film P at 0.18 1 in 200 1.|T
+R/BK/1|1992|potatoes|08-Jul-1992|Manex at 2.0 1 and Aphox at 0.28 kg with Nu Film P at 0.18 1 in 200 1,|7
+R/BK/1|1992|potatoes|16-Jul-1992|Manex at 2.0 1 with Nu Film P at 0.18 1 in 200 1.|T
+R/BK/1|1992|potatoes|28-Jul-1992|Manex at 2.5 1 with Nu Film P at 0.18 1 in 200 1.|T
+R/BK/1|1992|potatoes|17-Aug-1992|Chiltern Super-Tin 4L at 0.56 1 with Nu Film P at 0.18 1 in 200 1.|T
+R/BK/1|1992|potatoes|29-Aug-1992|Chiltern Super-Tin 4L at 0.56 1 with Nu Film P at 0.18 1 in 200 l.|T
+R/BK/1|1992|potatoes|10-Sep-1992|Reglone at 4.0 1 in 200 l.|T
+R/BK/1|1992|potatoes|22-Sep-1992|Haulm mechanically destroyed.|@
+R/BK/1|1992|potatoes|02-Oct-1992|lifted. 13  92/R/BK/1 - set RS"|T
+R/BK/1|1992|fallow|15-Jan-1992|Chisel ploughed.|T
+R/BK/1|1992|fallow|13-Apr-1992|Heavy spring-tine cultivated. :|T
+R/BK/1|1992|fallow|18-May-1992|Heavy spring-tine cultivated,|T
+R/BK/1|1992|fallow|25-Jun-1992|cultivated by rotary grubber. ‘|T
+R/BK/1|1993|all sections|08-Oct-1992|P applied.|T
+R/BK/1|1993|all sections|13-Oct-1992|Mg, K and Na applied.|@
+R/BK/1|1993|all sections|14-Oct-1992|FYM applied.|T
+R/BK/1|1993|all sections|15-Oct-1992|ploughed.|.B
+R/BK/1|1993|all sections|19-Oct-1992|rotary harrowed, plots 21 to 1l.|T
+R/BK/1|1993|all sections|04-Nov-1992|Heavy spring-tine cultivated plots 01 & 12-20.|©
+R/BK/1|1993|w wheat|07-Aug-1992|Straw chopped (section 0 only).|T
+R/BK/1|1993|w wheat|08-Oct-1992|autumn N treatments applied.|fT
+R/BK/1|1993|w wheat|06-Nov-1992|rotary harrowed, Apollo, dressed Fonofos seed Treatment, drilled at 380 seed per square metre.|@
+R/BK/1|1993|w wheat|19-Mar-1993|rolled.|T
+R/BK/1|1993|w wheat|20-Apr-1993|spring N treatments applied. .|T
+R/BK/1|1993|w wheat|22-Apr-1993|Astix at 2.0 1 and Oxytril CM at 1.5 1 in 200 1 (except section 8).|T
+R/BK/1|1993|w wheat|06-May-1993|Mistral at 1.0 1, Sportak 45 at 0.90 1 and Tripart Brevis at 2.25 1 in 200 1 (except section 6).|f
+R/BK/1|1993|w wheat|10-May-1993|Cheetah R at 2.5 1 in 200 1 (except section 8).|f
+R/BK/1|1993|w wheat|04-Jun-1993|Starane 2 at 1.5 1 in 200 1 (except section 8).|T
+R/BK/1|1993|w wheat|04-Jun-1993|Bombardier at 2.0 1 and Mistral at 1.0 1 in 200 1  (except section 6}.|T
+R/BK/1|1993|w wheat|22-Jun-1993|Corbel at 1.0 1 and Radar at 0.50 1 in 200 1 (except section 6).|T
+R/BK/1|1993|w wheat|04-Aug-1993|Roundup at 6.0 1 with High Stefes Mixture B at 2.9 1 in 150 1 (except section 8).|T
+R/BK/1|1993|w wheat|17-Aug-1993|combine harvested.|B
+R/BK/1|1993|potatoes|12-Feb-1993|Chisel ploughed.|T
+R/BK/1|1993|potatoes|20-Apr-1993|spring N treatments applied.|T
+R/BK/1|1993|potatoes|28-Apr-1993|Heavy spring-tine cultivated.|2
+R/BK/1|1993|potatoes|05-May-1993|rotary harrowed twice, planted Pentland Crown AA.|T
+R/BK/1|1993|potatoes|14-May-1993|rotary ridged.|:
+R/BK/1|1993|potatoes|19-May-1993|Rotalin at 5.5 1 in 200 1.|T
+R/BK/1|1993|potatoes|24-May-1993|cultivated by rotary grubber.|T
+R/BK/1|1993|potatoes|22-Jun-1993|Ashlade mancozeb PL at 2.25 1 with Intracrop BLA at 0.2 1 in 200 1.|@
+R/BK/1|1993|potatoes|08-Jul-1993|Ashlade mancozeb FL at 2.25 1 with Intracrop BLA at 0.2 1 in 200 1.|7
+R/BK/1|1993|potatoes|22-Jul-1993|Ashlade mancozeb PL at 2.25 1 with Intracrop BLA at 0.2 1 in 200 1.  13  93/R/BK/1|T
+R/BK/1|1993|potatoes|06-Aug-1993|Ashlade mancozeb FL at 2.25 1 with Intracrop BLA at 0.2 1 in 200 1.|T
+R/BK/1|1993|potatoes|25-Aug-1993|Chiltern Super-Tin 4L at 0.56 1 with Intracrop BLA at 0.20 1 in 200 Ll.|T
+R/BK/1|1993|potatoes|15-Sep-1993|Stefes Diquat at 4.0 1 in 200 1.|T
+R/BK/1|1993|potatoes|23-Sep-1993|Haulm mechanically destroyed.|7
+R/BK/1|1993|potatoes|18-Oct-1993|lifted.|T
+R/BK/1|1993|fallow|12-Feb-1993|Chisel ploughed.|T
+R/BK/1|1993|fallow|24-Jun-1993|cultivated by rotary grubber.|T
+R/BK/1|1994|all sections|21-Oct-1993|P applied.|T
+R/BK/1|1994|all sections|25-oct-1993|K, Na and Mg applied.|T
+R/BK/1|1994|all sections|26-Oct-1993|FYM applied.|f
+R/BK/1|1994|all sections|28-Oct-1993|ploughed.|B
+R/BK/1|1994|all sections|02-Nov-1993|rotary harrowed, twice.|B
+R/BK/1|1994|w wheat|19-Aug-1993|Straw chopped (section 0 only).|T
+R/BK/1|1994|w wheat|21-oct-1993|autumn N treatments applied.|T
+R/BK/1|1994|w wheat|03-Nov-1993|rotary harrowed, Apollo, dressed Fonofos seed Treatment, drilled at 380 seed per m’.|T
+R/BK/1|1994|w wheat|21-Dec-1993|Draza at 5.5 kg, (except section 6).|Tf
+R/BK/1|1994|w wheat|18-Apr-1994|spring N treatments applied.|7
+R/BK/1|1994|w wheat|09-May-1994|ally at 30 g with Cheetah Super at 3.0 1 and Starane 2 at 0.75 1 in 200 1.|T
+R/BK/1|1994|w wheat|09-May-1994|Sportak 45 at 0.7 1 with Starane Tridemorph at 0.5 1 and  new SC Cycocel at 2.5 1 in 200 1, (except section 6).|T
+R/BK/1|1994|w wheat|23-Jun-1994|Starane 2 at 1.5 1 in 200 1. : ® : Halo at 2.0 1 with Mallard 750 EC at 1.0 1 in 200 1  except section 6).|f
+R/BK/1|1994|w wheat|15-Jun-1994|Hostathion at 840 ml in 200 1 (except section 6).|T
+R/BK/1|1994|w wheat|28-Jun-1994|Delsene M powder at 2.5 kg with Mistral at 0.5 1 in 200 1 (except section 6).|%
+R/BK/1|1994|w wheat|22-Aug-1994|combine harvested.|@
+R/BK/1|1994|potatoes|18-Apr-1994|spring N treatments applied.|T
+R/BK/1|1994|potatoes|28-Apr-1994|Heavy spring-tine cultivated twice, rotary harrowed, planted Estima, dressed Fungazil 100 SL.|T
+R/BK/1|1994|potatoes|16-May-1994|rotary ridged. 13  94/R/BK/1|T
+R/BK/1|1994|potatoes|23-May-1994|Farmon PDQ at 2.0 1 with Rotalin at 5.0 1 in 200 1.|T
+R/BK/1|1994|potatoes|23-Jun-1994|Dithane 945 at 1.7 kg with Intracrop BLA at 0.2 1 in 200 1.|7
+R/BK/1|1994|potatoes|07-Jul-1994|Dithane 945 at 1.7 kg with primicarb 50 DG at 0.28 kg and Intracrop BLA at 0.2 1 in 200 l.|T
+R/BK/1|1994|potatoes|25-Jul-1994|Ashlade mancozeb FL at 2.5 1 with Intracrop BLA at 0.2 1 in 200 1.|7
+R/BK/1|1994|potatoes|15-Aug-1994|Ashlade mancozeb FL at 2.5 1 with Intracrop BLA at 0.2 1 in 200 1.|T
+R/BK/1|1994|potatoes|30-Aug-1994|Ashlade mancozeb PL at 2.5 1 with Intracrop BLA at 0.2 1 in 200 1.|T
+R/BK/1|1994|potatoes|26-Sep-1994|Chiltern Super-Tin 4L at 560 ml with Reglone at 4.0 1 in 200 1.|T
+R/BK/1|1994|potatoes|06-Oct-1994|lifted. allow|T
+R/BK/1|1994|potatoes|28-Apr-1994|Heavy spring-tine cultivated, twice.|T
+R/BK/1|1994|potatoes|16-Jun-1994|cultivated by rotary grubber.|7
+R/BK/1|1994|potatoes|07-Jul-1994|cultivated by rotary grubber.|T
+R/BK/1|1995|all sections|10-Oct-1994|Mg and Na applied.|T
+R/BK/1|1995|all sections|11-Oct-1994|P and K applied.|7
+R/BK/1|1995|all sections|13-Oct-1994|Farmyard manures applied. : B : ploughed and furrow pressed.|T
+R/BK/1|1995|w wheat|24-Aug-1994|Straw chopped (section 0 only).|f
+R/BK/1|1995|w wheat|30-Aug-1994|Straw baled (sections 1, 2, 3, 5, 6, and 9).|T
+R/BK/1|1995|w wheat|12-Sep-1994|Weeds topped (section 8 only).|©
+R/BK/1|1995|w wheat|12-Oct-1994|autumn N treatments applied.|T
+R/BK/1|1995|w wheat|16-Nov-1994|rotary harrowed, Apollo, dressed new Kotol, drilled at 380 seed per m’.|@
+R/BK/1|1995|w wheat|21-Mar-1995|Stefes IPU at 3.0 1 with Stomp 400 at 3.3 1 in 200 1 (except section 8).|7
+R/BK/1|1995|w wheat|11-Apr-1995|spring N treatments applied.|?
+R/BK/1|1995|w wheat|28-Apr-1995|Halo at 2.0 1 with Mallard 750 EC at 0.5 1 and new 5c Cycocel at 2.8 1 in 200 1 (except section 6).|7
+R/BK/1|1995|w wheat|19-Jun-1995|Sprint at 1.5 1 in 300 1 (except section 6).|fT
+R/BK/1|1995|w wheat|0S-Jul-1995|primicarb 50 DG at 280 g in 200 1 (except section 6).|@
+R/BK/1|1995|w wheat|18-Jul-1995|Pulled wild oats by hand.|@
+R/BK/1|1995|w wheat|27-Jul-1995|Roundup at 6.0 1 with Mixture B at 2.94 1 in 150 1 (except section 8).|@
+R/BK/1|1995|w wheat|06-Aug-1995|combine harvested.|T
+R/BK/1|1995|potatoes|12-Sep-1994|Weeds topped.|@
+R/BK/1|1995|potatoes|11-Apr-1995|N treatments applied.|T
+R/BK/1|1995|potatoes|24-Apr-1995|Heavy spring-tine cultivated twice, rotary harrowed, planted Estima, dressed.|fT
+R/BK/1|1995|potatoes|04-May-1995|rotary ridged. 13  95/R/BK/1 a|f
+R/BK/1|1995|potatoes|01-Jun-1995|Basagran at 3.0 1 in 400 1.|T
+R/BK/1|1995|potatoes|20-Jun-1995|Ashlade maneb Flowable at 2.75 1 in 200 1.|T
+R/BK/1|1995|potatoes|30-Jun-1995|Ashlade maneb Flowable at 2.75 1 in 200 1.|7
+R/BK/1|1995|potatoes|19-Jul-1995|Ashlade maneb Flowable at 2.75 1 in 300 1.|T
+R/BK/1|1995|potatoes|01-Aug-1995|Ashlade maneb Flowable at 2.75 1 in 300 1.|T
+R/BK/1|1995|potatoes|14-Aug-1995|Super-Tin 4h at 560 ml with Intracrop BLA at 200 ml in 200 1.|T
+R/BK/1|1995|potatoes|24-Aug-1995|Haulm pulverised.|T
+R/BK/1|1995|potatoes|15-Sep-1995|lifted. allow|T
+R/BK/1|1995|potatoes|30-Aug-1994|Straw baled.|B
+R/BK/1|1995|potatoes|24-Apr-1995|Heavy spring-tine cultivated twice.|Tf
+R/BK/1|1995|potatoes|09-Jun-1995|cultivated rotary-grubber.|F
+R/BK/1|1995|potatoes|17-Jul-1995|spring-tine cultivated.|T
+R/BK/1|1996|all sections|18-Sep-1995|P applied.|T
+R/BK/1|1996|all sections|21-Sep-1995|Mg and Na applied.|T
+R/BK/1|1996|all sections|22-Sep-1995|K applied.|T
+R/BK/1|1996|all sections|29-Sep-1995|ploughed and furrow pressed. °|B
+R/BK/1|1996|all sections|09-Oct-1995|spring-tine cultivated.|B
+R/BK/1|1996|w wheat|11-Aug-1995|Straw chopped (section 0 only), straw baled (sections 1, 2, 6, 7, 8 and 9).|T
+R/BK/1|1996|w wheat|22-Sep-1995|autumn N treatment applied.|T
+R/BK/1|1996|w wheat|26-Sep-1995|Farmyard manures applied.|Tf
+R/BK/1|1996|w wheat|11-Oct-1995|rotary harrowed, Hereward, dressed Fonofos seed Treatment, drilled at 380 seed per tm).|f
+R/BK/1|1996|w wheat|12-Oct-1995|rolled.|T
+R/BK/1|1996|w wheat|17-Apr-1996|spring N treatments applied. :|T
+R/BK/1|1996|w wheat|26-Apr-1996|ally at 30 g with Cheetah Super at 1.25 1 in 200 1 (except section 8).|T
+R/BK/1|1996|w wheat|26-Apr-1996|Barclay Eyetak at 0.9 1 in 200 1 (except section 6).|T
+R/BK/1|1996|w wheat|29-Apr-1996|Barclay Holdup at 2.3 1 in 200 1 (except section 6).|T
+R/BK/1|1996|w wheat|07-Jun-1996|Alto 100 SL at 0.6 1 with Mallard 750 EC at 0.4 1 in 320 1 (except section 6).|7
+R/BK/1|1996|w wheat|16-Aug-1996|combine harvested. 13  96/R/BK/1|T
+R/BK/1|1996|potatoes|26-Sep-1995|Farmyard manures applied.|T
+R/BK/1|1996|potatoes|17-Apr-1996|spring N treatments applied.|T
+R/BK/1|1996|potatoes|24-Apr-1996|Heavy spring-tine cultivated.|T
+R/BK/1|1996|potatoes|30-Apr-1996|Heavy spring-tine cultivated.|T
+R/BK/1|1996|potatoes|01-May-1996|rotary harrowed, planted Estima, dressed Fungazil 100 SL.|T
+R/BK/1|1996|potatoes|31-May-1996|rotary ridged.|7
+R/BK/1|1996|potatoes|04-Jun-1996|Campbell's Linuron 45% Flowable at 5.0 1 in 320 1.|T
+R/BK/1|1996|potatoes|05-Jul-1996|Clayton Turret at 2.0 1 in 260 1.|%
+R/BK/1|1996|potatoes|22-Jul-1996|Clayton Turret at 2.0 1 in 300 1.|T
+R/BK/1|1996|potatoes|02-Aug-1996|Clayton Turret at 2.0 1 in 400 1.|T
+R/BK/1|1996|potatoes|15-Aug-1996|Shirlan at 0.3 1 in 390 1.|T
+R/BK/1|1996|potatoes|02-Sep-1996|Shirlan at 0.3 1 in 260 1.|T
+R/BK/1|1996|potatoes|12-Sep-1996|Haulm pulverised.|T
+R/BK/1|1996|potatoes|24-Sep-1996|potatoes lifted.|T
+R/BK/1|1996|w oats|11-Aug-1995|Straw baled.|T
+R/BK/1|1996|w oats|12-Oct-1995|rotary harrowed, Image, dressed Vitaflo extra, drilled at 350 seed per tm), rolled.|T
+R/BK/1|1996|w oats|13-Oct-1995|Tribunil at 2.25 kg in 200 1.|T
+R/BK/1|1996|w oats|30-May-1996|Tilt 250 EC at 0.5 1 with Barclay Holdup at 2.3 1 and Vassgro Spreader 200 ml in 200 1.|T
+R/BK/1|1996|w oats|05-Aug-1996|combine harvested.|T
+R/BK/1|1997|all sections|25-Sep-1996|PK Na and Mg applied.|T
+R/BK/1|1997|all sections|28-Sep-1996|ploughed and furrow pressed.|B
+R/BK/1|1997|all sections|14-Oct-1996|rotary harrowed.|B
+R/BK/1|1997|w wheat|20-Aug-1996|Straw chopped (section 0 only), straw baled (sections 1, 2, 3, 4, 6 7, 8 and 9).|T
+R/BK/1|1997|w wheat|26-Sep-1996|autumn N treatment applied.|T
+R/BK/1|1997|w wheat|27-Sep-1996|Farmyard manures applied.|T
+R/BK/1|1997|w wheat|15-Oct-1996|rotary harrowed, Hereward, dressed Beret Gold and Ponophos seed Treatment at 380 seed per m.|T
+R/BK/1|1997|w wheat|02-Apr-1997|Topik at 125 ml with Sprayprover at 1.0 1 in 200 1 (except section 8).|T
+R/BK/1|1997|w wheat|10-Apr-1997|MSS Optica at 2.5 1 in 300 1 (except section 8).|T
+R/BK/1|1997|w wheat|10-Apr-1997|Barclay Holdup at 2.3 1 in 300 1 (except section 6).|T
+R/BK/1|1997|w wheat|11-Apr-1997|spring N treatments applied.|T
+R/BK/1|1997|w wheat|Ol-May-1997|Barclay Eyetak at 0.9 1 in 200 1 (except section 6).|T
+R/BK/1|1997|w wheat|29-May-1997|Starane 2 at 6.5 1 in 300 1 (except section 8).|7
+R/BK/1|1997|w wheat|30-May-1997|Folicur at 0.5 1 with Pointer at 0.5 1 in 300 1 (except section 6).|T
+R/BK/1|1997|w wheat|09-Jul-1997|hand rogued wild oats.|T
+R/BK/1|1997|w wheat|01-Sep-1997|combine harvested. 13  97/R/BK/1|T
+R/BK/1|1997|w oats|20-Aug-1996|wheat straw baled.|T
+R/BK/1|1997|w oats|16-Oct-1996|rotary harrowed, Image, dressed Anchor, drilled at 350 seed per m,|T
+R/BK/1|1997|w oats|17-Oct-1996|Tribunil at 2.25 kg in 200 1.|T
+R/BK/1|1997|w oats|22-May-1997|Radar at 0.5 1 with Stefes Ccc 700 at 2.3 1 in 300 1.|T
+R/BK/1|1997|w oats|20-Aug-1997|combine harvested.|©
+R/BK/1|1997|forage maize|20-Aug-1996|oats straw baled. .|T
+R/BK/1|1997|forage maize|27-Sep-1996|Parmyard manures applied.|T
+R/BK/1|1997|forage maize|16-Apr-1997|Scythe LC at 3.0 1 with Vassgro ionic at 200 ml in 200 2.|f
+R/BK/1|1997|forage maize|23-Apr-1997|spring N treatments applied, heavy spring-tine cultivated, rotary harrowed, Hudson, dressed Mesurol,  drilled at 11 seed per m’.|T
+R/BK/1|1997|forage maize|09-Jun-1997|Barclay Mutiny at 1.5 1 in 300 1.|®
+R/BK/1|1997|forage maize|17-Sep-1997|hand harvested.|T
+R/BK/1|1998|all sections|13-Oct-1997|P, K, Na and Mg applied.|7
+R/BK/1|1998|all sections|15-Oct-1997|ploughed and furrow pressed.|B
+R/BK/1|1998|all sections|19-Oct-1997|rotary harrowed.|B
+R/BK/1|1998|all sections|07-Jul-1998|hand rogued wild oats.|B
+R/BK/1|1998|w wheat|01-Sep-1997|Straw chopped (section 0 only), straw baled (sections 1, 3,4,5,6,8 and 9).|T
+R/BK/1|1998|w wheat|14-Oct-1997|Farmyard manures and autumn N treatments applied.|T
+R/BK/1|1998|w wheat|15-Oct-1997|rotary harrowed, Hereward, dressed Anchor and Fonofos seed Treatment at 380 seed per m’.|T
+R/BK/1|1998|w wheat|22-Oct-1937|rolled.|T
+R/BK/1|1998|w wheat|05-Feb-1998|Amazon at 1.0 1 with Chiltern crop at 1.0 1 in 200 1 (except section 8).|T
+R/BK/1|1998|w wheat|24-Mar-1998|spring N treatments applied.|T
+R/BK/1|1998|w wheat|08-May-1998|ally at 20 g with Starane 2 at 0.5 1 in 200 1 (except section 8).|T
+R/BK/1|1998|w wheat|O8-May-1998|Opus at 0.7 1 in 200 1 (except section 6). .|T
+R/BK/1|1998|w wheat|01-Jun-1998|Opus at 0.7 1 in 200 1 (except section 6).|T
+R/BK/1|1998|w wheat|17-Jun-1998|Bavistin DF at 0.5 kg with Opus at 0.4 1 in 1001 except section 6).|T
+R/BK/1|1998|w wheat|16-Aug-1998|combine harvested. 14  98/R/BK/1|T
+R/BK/1|1998|w oats|01-Sep-1997|wheat straw baled. 4|T
+R/BK/1|1998|w oats|21-Oct-1997|rotary harrowed, Image dressed Anchor at 350 seed per m*.|T
+R/BK/1|1998|w oats|23-Oct-1997|rolled.|T
+R/BK/1|1998|w oats|08-May-1998|ally at 20 g with Starane 2 at 0.5 1 in 200 1.|©
+R/BK/1|1998|w oats|03-Jul-1998|Mistral at 1.0 2 in 2001.|T
+R/BK/1|1998|w oats|06-Aug-1998|combine harvested.|T
+R/BK/1|1998|forage maize|20-Aug-1997|oats straw baled.|@
+R/BK/1|1998|forage maize|14-Oct-1997|Farmyard manures applied.|@
+R/BK/1|1998|forage maize|23-Mar-1998|Gramoxone 100 at 3.0 1 with Luxan ionic weather at 0.1 1 in 260 i.|T
+R/BK/1|1998|forage maize|30-Apr-1998|spring-tine cultivated.|T
+R/BK/1|1998|forage maize|06-May-1998|Heavy spring-tine cultivated.|T
+R/BK/1|1998|forage maize|07-May-1998|spring N treatments applied, rotary harrowed, Hudson, dressed Mesurol at 11 seed per nm’.|T
+R/BK/1|1998|forage maize|12-Jun-1998|Barclay Mutiny at 2.4 1 in 200 1.|T
+R/BK/1|1998|forage maize|16-Sep-1998|hand harvested.|T
+R/BK/1|1999|all sections|22-Sep-1998|P applied.|@
+R/BK/1|1999|all sections|23-Sep-1998|K and Mg applied.|T
+R/BK/1|1999|all sections|24-Sep-1998|Na applied.|T
+R/BK/1|1999|all sections|12-Oct-1998|ploughed.|B
+R/BK/1|1999|all sections|30-Oct-1998|Decoy at 8.0 kg.|B
+R/BK/1|1999|all sections|15-Jul-1999|hand rogued wild oats.|B
+R/BK/1|1999|w wheat|20-Aug-1998|Straw chopped (section 0 only), straw baled (sections 1, 3, 4, 5, 6, 7, 8 and 9).|@
+R/BK/1|1999|w wheat|23-Sep-1998|autumn N applied.|7
+R/BK/1|1999|w wheat|25-Sep-1998|Farmyard manures applied.|T
+R/BK/1|1999|w wheat|30-Oct-1998|rotary harrowed, Hereward, tr. Sibutol and Evict, drilled at 400 seed per m with the Nordsten drill.|T
+R/BK/1|1999|w wheat|1i-Mar-1999|discard at 1.0 1 with Unite A at 0.125 1, Unite B at 1.0 1 and crop at 1.0 1 in 200 1 (except section 8).|®
+R/BK/1|1999|w wheat|01-Apr-1999|spring N treatments applied.|T
+R/BK/1|1999|w wheat|15-Apr-1999|Opus at 0.7 1 in 200 1 except section 6).|T
+R/BK/1|1999|w wheat|14-May-1999|ally at 30 g in 200 1 (except section 6).|T
+R/BK/1|1999|w wheat|27-May-1999|Opus at 0.75 1 and Sipcam UK Rover 500 at 1.0 1 in 100 1 except section 6).|@
+R/BK/1|1999|w wheat|18-Jun-1999|Folicur at 0.25 1 in 100 1 (except section 6}.|T
+R/BK/1|1999|w wheat|0S-Jul-1999|Corbel at 0.75 1 in 2001.|©
+R/BK/1|1999|w wheat|23-Jul-1999|Alpha glyphosate at 4.0 1 in 200 1 (except section 6).|T
+R/BK/1|1999|w wheat|04-Aug-1999|combine harvested. 12  99/R/BK/1|T
+R/BK/1|1999|w oats|30-Oct-1998|harrowed, Image, tr. Anchor, drilled at 350 seed per m with the Nordsten drill.|fT
+R/BK/1|1999|w oats|11-Mar-1999|discard at 1.0 1 with Unite A at 0.125 1, Unite B at 1.0 1 and crop at 1.0 1 in 200 1.|@
+R/BK/1|1999|w oats|14-May-1999|ally at 30 g in 200 1.|T
+R/BK/1|1999|w oats|05-Jul-1999|Corbel at 0.75 1 in 200 1.|@
+R/BK/1|1999|w oats|04-Aug-1999|combine harvested.|@
+R/BK/1|1999|forage maize|11-Mar-1999|discard at 1.0 1 with Unite A at 0.125 1, unite B at 1.0 1 and crop at 1.0 1 in 200 1.|T
+R/BK/1|1999|forage maize|01-May-1999|Sting CT at 4.0 1 in 2001.|T
+R/BK/1|1999|forage maize|95-May-1999|N treatments applied. Flexitined three times, rotary harrowed, Hudson, tr. Mesurol, drilled at 11 seed per m'  with the Nodet Gougis drill.|T
+R/BK/1|1999|forage maize|05-Jul-1999|Barclay Mutiny at 2.4 1 in 200 1.|©
+R/BK/1|1999|forage maize|20-Sep-1999|hand harvested.|T
+R/BK/1|1999|w wheat||grain TONNES /HECTARE  ***e* bales of beans *****  section 2/01 3/W2 S/W3 8/w5 6/W22 i/W33 9/W41 O/wa8  plot  QIDN4PK 10.07 9.58 8.78 * 8.49 s * *  21DN2 9.52 8.07 7.79 5.46 $.01 7.59 7.82 6.67  22D 6.47 3.98 §.23 2.61 4.23 4.78 4.57 3.63  030 1.32 1.40 1.12 0.91 and 0.81 0.93 0.82  OSF 1.59 1.48 1.12 4,55 1.03 1.17 1.19 1.08  O6N1F 4.26 3.05 2.72 1.13 2.88 3.03 3.14 3.19  O7N2F 6.97 4.80 5.14 1.77 4.74 5.19 5.19 5.04  O8N3F 9.00 5.67 5.60 1.42 4.34 @.80 6.41 4.72  OON4P 9.74 7.31 7.19 4.59 6.32 7.07 6.91 6.93  10N2 6.31 1.02 3.18 0.97 0.77 1.58 1.23 1.29  11N2P 6.76 4.28 2.39 1.06 1.63 2.92 2.54 3.45  12N2PNA 6.74 4.02 2.28 1.25 2.85 2.50 3.41 3.97  13N2PK 6.17 4.47 4.65 1.23 4.71 4.70 5.62 4.69  14N2 PKMG 6.72 3.90 €.50 2.15 4.92 5.46 5.42 4.80  1SNSP 9.10 6.87 7.31 1.19 6.02 7.89 8.27 7.439  16N6F 9.93 7.31 7.12 1.83 far. 8.01 7.61 7.87  17N0+3FR 8.62 6.17 6.77 3.18 6.15 6.39 6.91 6.60  18N1+3FH 8.96 6.52 6.58 2.97 6.39 5.73 6.56 6.19  disced 1.72 1.61 1.97 21.13 0.97 1.45 1.22 1.52  20NKMG ® ” ® ® ® 1.86 * 2.28  grain man DM& 86.5  13 $$$$|
+R/BK/1|2000|all sections|23-Sep-1999|PK and Mg applied|T
+R/BK/1|2000|all sections|24-Sep-1999|Na applied.|T
+R/BK/1|2000|all sections|25-Sep-1999|ploughed.|B
+R/BK/1|2000|all sections|27-Sep-1999|ploughing completed.|B
+R/BK/1|2000|all sections|05-Oct-1999|rolled.|B
+R/BK/1|2000|all sections|12-Jul-2000|hand rogued wild oats.|B
+R/BK/1|2000|w wheat|17-Aug-1999|Straw baled (sections 1, 2, 3. 4, 5, 6, 8 and 9).|T
+R/BK/1|2000|w wheat|20-Aug-1999|Straw chopped (section 0).|T
+R/BK/1|2000|w wheat|23-Sep-1999|autumn N applied.|fT
+R/BK/1|2000|w wheat|24-Sep-1999|Farmyard manures applied.|fT
+R/BK/1|2000|w wheat|07-Oct-1999|rotary harrowed, Hereward, tr. Sibutol, drilled at 380 seed with the Accord drill.|©
+R/BK/1|2000|w wheat|13-Mar-2000|Hawk at 2.5 1 with Tolkan Turbo at 2.0 1, and crop at 1.0 1 in 200 1 (except section 6).|T
+R/BK/1|2000|w wheat|28-Apr-2000|spring N treatments applied.|T
+R/BK/1|2000|w wheat|09-May-2000|Opus at 0.5 1 with Unix at 0.5 kg in 100 1 (except section 6).|T
+R/BK/1|2000|w wheat|12-May-2000|a at 30 g with Starane 2 at 0.5 1 in 200 1 (except section|Tf
+R/BK/1|2000|w wheat|22-May-2000|Folicur at 0.75 1 in 100 1 (except section 6).|T
+R/BK/1|2000|w wheat|12-Aug-2000|combine harvested. 14  00/R/BK/1|T
+R/BK/1|2000|w oats|07-Oct-1999|rotary harrowed, Image, tr. Sibutol, drilled at 350 seed with the Accord drill.|T
+R/BK/1|2000|w oats|15-Nov-1999|Lexus 50 DF at 20 g with topped 10 at 250 ml in 200 1|Tf
+R/BK/1|2000|w oats|11-Mar-2000|Orka at 0.5 1 in 200 1.|T
+R/BK/1|2000|w oats|05-Aug-1999|combine harvested.|T
+R/BK/1|2000|forage maize|24-Sep-1999|Farmyard manures applied.|T
+R/BK/1|2000|forage maize|07-May-2000|Sting BOV at 4.0 1 in 200 1.|T
+R/BK/1|2000|forage maize|01-May-2000|Sting CT at 4.0 1 in 200 1.|fT
+R/BK/1|2000|forage maize|16-May-2000|N treatments applied. Flexitined twice, rotary, harrowed, Hudson, tr. Mesurol, drilled at 10.2 seed with the  Nodet Gougis drill.|T
+R/BK/1|2000|forage maize|17-May-2000|rolled.|T
+R/BK/1|2000|forage maize|26-Jun-2000|Barclay Mutiny at 2.4 1 in 200 1.|T
+R/BK/1|2000|forage maize|14-Sep-2000|hand harvested. ‘|T
+R/BK/1|2001|all sections|02-Oct-2000|P : top at 171 kg, strips 11, 13, 14, 17, & 18.|T
+R/BK/1|2001|all sections|04-Oct-2000|FYM : FYM at 35.0 tonnes, strips 2.1 & 2.2, not oats section.|T
+R/BK/1|2001|all sections|04-Oct-2000|K* : muriate of potash at 181 kg, strip 14.|T
+R/BK/1|2001|all sections|04-Oct-2000|K2 : Sulphate of potash at 1518 kg, strip 12.|T
+R/BK/1|2001|all sections|04-Oct-2000|K : Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9,  13, 15, 16, 17, 18, 19 & 20.|T
+R/BK/1|2001|all sections|04-Oct-2000|MG2 : Kieserite at 560 kg, strip 12.|T
+R/BK/1|2001|all sections|04-Oct-2000|MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15,  16, 17, 18, 19 & 20.|T
+R/BK/1|2001|all sections|04-Oct-2000|ploughing started.|T
+R/BK/1|2001|all sections|05-Oct-2000|ploughing completed.|B:
+R/BK/1|2001|all sections|12-Sep-2001|Sting ECO at 4.0 1 in 100 1, including section 8.|B:
+R/BK/1|2001|w wheat|13-Aug-2000|Straw baled (sections 1, 2, 3, 5, 6, 7, 8 & 9)|7
+R/BK/1|2001|w wheat|17-Aug-2000|chopped straw, section 0.|T
+R/BK/1|2001|w wheat|16-Jan-2001|WW Combination drilled, Hereward, tr. Sibutol, at 5 seed* with Accord drill. Completed 17-0; 2°  (no o&e’s drilled. an-2001|T
+R/BK/1|2001|w wheat|26-Mar-2001|Sprint N applied.|:
+R/BK/1|2001|w wheat|04-May-2001|N and 2™ Sprint N applied : T ; : Topik at 250 ml in 100 1.|:
+R/BK/1|2001|w wheat|15-May-2001|> tm ally at 20 g in 100 l. a : tm Starane 2 at 0.5 1 in 100 1.|T
+R/BK/1|2001|w wheat|31-May-2001|37° Sprint N applied|&
+R/BK/1|2001|w wheat|06-Jun-2001|Opus at 0.7 1 in 100 1, including section 6.|B
+R/BK/1|2001|w wheat|O2-Jul-19O1l|Folicur at 0.5 1 in 200 1, including section 6.|@7
+R/BK/1|2001|w wheat|07-Aug-2001|take pre-harvest sample from sections 9 and 4.|7
+R/BK/1|2001|w wheat|10-Aug-2001|Azural at 4.0 1 in 200 1, wheat and oats only, started.|7
+R/BK/1|2001|w wheat|1l-Aug-200O1|Azural at 4.0 1 in 200 1, wheat and oats only, completed.|:
+R/BK/1|2001|w wheat|21-Aug-2001|swathed straw.|combined
+R/BK/1|2001|w wheat|22-Aug-2001|baled and removed straw from headlands.|T@T
+R/BK/1|2001|w wheat|23-Aug-2001|combine harvested plots for yield, swathed straw.|7
+R/BK/1|2001|w wheat|24-Aug-2001|combine harvested all remaining wheat, swathed straw.  a : sampled, baled and weighed straw.|P
+R/BK/1|2001|w wheat|25-Aug-2001|baled and carted straw, except section 0. S. oats|@
+R/BK/1|2001|w wheat|O2-Apr-19Ol|spring-tine cultivated.|@T
+R/BK/1|2001|w wheat|03-Apr-2001|SO : Combination drilled, Revisor, tr. Aagrano, at 350 seed.|T
+R/BK/1|2001|w wheat|15-May-2001|tm ally at 20 g in 100 l|T7
+R/BK/1|2001|w wheat|15-May-2001|T : > tm Starane 2 at 0.5 1 in 100 l.|T7
+R/BK/1|2001|w wheat|10-Aug-2001|Azural at 4.0 1 in 200 1, wheat and oats only, started.|:
+R/BK/1|2001|w wheat|1i-Aug-200O1|Azural at 4.0 1 in 200 1, wheat and oats only, completed.|T7
+R/BK/1|2001|w wheat|23-Aug-2001|combine harvested plots for yield, and discards, swathed straw.|7
+R/BK/1|2001|w wheat|24-Aug-2001|sampled, baled and weighed straw.|T
+R/BK/1|2001|w wheat|25-Aug-19Ol|baled and carted straw.|T
+R/BK/1|2001|forage maize|21-May-2001|rotary harrowed.|T
+R/BK/1|2001|forage maize|21-May-2001|FM : drilled, Hudson, tr. Mesurol, at 102,000 seeds/ha,  with Nodet Gougis drill.|T
+R/BK/1|2001|forage maize|21-May-2001|Sting ECO at 4.0 1 rain 200 1.|T
+R/BK/1|2001|forage maize|31-May-2001|main N and 1** Sprint N applied|T7
+R/BK/1|2001|forage maize|25-Jun-2001|Post-emergence N applied.|T
+R/BK/1|2001|forage maize|03-Jul-19O1l|>: Mutiny at 2.4 1 in 200 l.|T
+R/BK/1|2001|forage maize|10-Sep-2001|cut, sampled and weighed sample area.|T
+R/BK/1|2001|forage maize|11-Sep-2001|Harvested discard maize.|T
+R/BK/1|2001|fallow section 8|11-May-2001|Rothamsted, section 8.|T9
+R/BK/1|2001|fallow section 8|24-May-2001|; rotary harrowed, section 8, and all discard area.|7
+R/BK/1|2001|fallow section 8|04-Jul-2001|rotary harrowed, section 8.|T
+R/BK/1|2001|fallow section 8|26-Jul-19Ol|rotary harrowed.|7
+R/BK/1|2001|fallow section 8|12-Sep-2001|topped thistle patches on section 8.|:
+R/BK/1|2002|all sections|12-Sep-2001|FYM : FYM at 35.0 tonnes, strips 2.1 & 2.2, not oats section.  . - . K* : muriate of potash at 181 kg, strip 14.|T
+R/BK/1|2002|all sections|12-Sep-2001|P - top at 171 kg, strips 11, 13, 14, 17, & 18.|T
+R/BK/1|2002|all sections|12-Sep-2001|ploughing started.|T
+R/BK/1|2002|all sections|13-Sep-2001|ploughing completed.|B:
+R/BK/1|2002|all sections|07-Mar-2002|Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9 13, 15, 16, 17, 18, 19 & 20.|K
+R/BK/1|2002|all sections|07-Mar-2002|K2 : Sulphate of potash at 434 kg, strip 12.|K
+R/BK/1|2002|all sections|08-Mar-2002|MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16 17, 18, 19, & 20. ’|T
+R/BK/1|2002|all sections|08-Mar-2002|MG2 : Kieserite at 160 kg, strip 12.|T
+R/BK/1|2002|all sections|04-Jul-2002|Rogued wild oats, 2 plants.|B
+R/BK/1|2002|w wheat|24-Aug-2001|straw baled (sections 1, 4, 6, 7 & 9)|T
+R/BK/1|2002|w wheat|25-Aug-2001|chopped straw, section 0.|T
+R/BK/1|2002|w wheat|28-Sep-2001|Combination drilled, Hereward, tr. Sibutol, at 38 seed* with the Accord drill. 0|T
+R/BK/1|2002|w wheat|11-Oct-2001|Avadex except 15 G at 15.0 kg, including section pg|T
+R/BK/1|2002|w wheat|02-Nov-2001|tm Lexus 50 DF at 20 g in 200 l, including section 9g|B
+R/BK/1|2002|w wheat|O2-Nov-2001|tm Stomp 400 SC at 3.0 1 in 200 1, including section 8.|:
+R/BK/1|2002|w wheat|15-Nov-19Ol|Hallmark with Zeon technology at 25 ml in 200 1, not section 6.|T
+R/BK/1|2002|w wheat|26-Mar-2002|1*° Sprint N applied (33 kg N over in error).|T
+R/BK/1|2002|w wheat|03-Apr-2002|tm Topik at 0.125 1 in 100 1, including section 8.|B
+R/BK/1|2002|w wheat|03-Apr-2002|tm Phase II at 1.01 in 100 1, including section 8.|B
+R/BK/1|2002|w wheat|04-Apr-2002|tm Opus at 0.4 1 in 100 1, including section 6.|B
+R/BK/1|2002|w wheat|04-Apr-2002|tm Twist at 0.6 1 in 100 1, including section 6.|B
+R/BK/1|2002|w wheat|04-Apr-2002|tm BASF 3C chlormequat 720 at 1.25 1 in 100 l,  including section 6.|B
+R/BK/1|2002|w wheat|04-Apr-2002|tm Moddus at 0.2 1 in 100 1, including section 6.|B
+R/BK/1|2002|w wheat|24-Apr-2002|main N (except plot 2.1) and 2% Sprint N applied (33 kg N less to Sprint N plots to balance error).|:
+R/BK/1|2002|w wheat|25-Apr-2002|>: N to strip 2|T
+R/BK/1|2002|w wheat|23-May-2002|3™7 Sprint N applied.|T
+R/BK/1|2002|w wheat|Ol-Jun-2002|Opera at 1.01 in 200 1, including section 6.|T7
+R/BK/1|2002|w wheat|14-Aug-2002|combine harvested, all discards to open up plots.|P
+R/BK/1|2002|w wheat|14-Aug-2002|combine harvested plots for yield, sections 0, l, 8,  and 9.|P
+R/BK/1|2002|w wheat|14-Aug-2002|swathed straw. baled straw. including section 0.|P
+R/BK/1|2002|w wheat|1S-Aug-2002|combine harvested plots for yield, completed.|T
+R/BK/1|2002|w wheat|1S-Aug-2002|combined side discards to allow straw weights.|T
+R/BK/1|2002|w wheat|1S-Aug-2002|swathed straw.|T
+R/BK/1|2002|w wheat|1S-Aug-2002|sampled, baled and weighed straw, sections 1 and 9.|T
+R/BK/1|2002|w wheat|16-Aug-2002|sampled, baled and weighed straw, completed.|T
+R/BK/1|2002|w wheat|17-Aug-2002|combine harvested all remaining wheat. >|B
+R/BK/1|2002|w wheat|17-Aug-2002|swathed straw. baled straw.|B
+R/BK/1|2002|w wheat|21-Aug-2002|carted bales.|:
+R/BK/1|2002|w oats|24-Aug-2001|straw baled, section 2|T
+R/BK/1|2002|w oats|27-Sep-2001|Combination drilled, Gerald, tr. Sibutol, at 350 seed? with the Accord drill.|T
+R/BK/1|2002|w oats|O1-Nov-200O1|tm Lexus Class at 60 g in 200 l.|B
+R/BK/1|2002|w oats|O1-Nov-200O1|tm Hallmark with Zeon technology at 40 ml in 200 l.|B
+R/BK/1|2002|w oats|l1-Jun-2002|Opera at 1.0 1 in 200 1, including section 6.|7
+R/BK/1|2002|w oats|14-Aug-2002|combine harvested discards to allow straw weights to be taken.|P
+R/BK/1|2002|w oats|14-Aug-2002|combine harvested plots for yield.|P
+R/BK/1|2002|w oats|14-Aug-2002|swathed straw. sampled, baled and weighed straw.|P
+R/BK/1|2002|w oats|21-Aug-2002|carted bales.|:
+R/BK/1|2002|forage maize|24-Aug-2001|Straw baled, section 3.|T
+R/BK/1|2002|forage maize|25-Mar-2002|ECO at 4.0 1 in 200 1.|-
+R/BK/1|2002|forage maize|10-Apr-2002|Flexitined.|P
+R/BK/1|2002|forage maize|02-May-2002|main N and 1° Sprint N applied.|T
+R/BK/1|2002|forage maize|03-May-2002|; rotary harrowed.|T
+R/BK/1|2002|forage maize|03-May-2002|drilled, Hudson, tr. Mesurol at 102,000 seeds/ha,  with the Nodet Gougis drill.|T
+R/BK/1|2002|forage maize|23-May-2002|; 2" Sprint N applied.|T
+R/BK/1|2002|forage maize|19-Jun-2002|Barclay Mutiny at 0.6 1 in 200 l.|-
+R/BK/1|2002|forage maize|19-Jun-2002|tm Lentagran WP at 1.5 kg in 200 l.|-
+R/BK/1|2002|forage maize|11-Sep-2002|cut all discard maize. cut sample area by hand, weighed, and sampled.|T
+R/BK/1|2002|forage maize|02-Oct-2002|topped stalks ready for ploughing Countryside Stewardship Scheme margins|:
+R/BK/1|2002|forage maize|10-Apr-2002|Flexitined.|T
+R/BK/1|2002|forage maize|24-Apr-2002|drilled special headland mix at 16.0 kg with the Moore drill, 2.0 m headland strips.  02/R/BK/1|P

@@ -1,0 +1,106 @@
+RW/CS/326|1987|great knott iii|27-Sept-1986||diary record| (R) paraquat applied
+RW/CS/326|1987|great knott iii|29-Sept-1986||diary record| rolled
+RW/CS/326|1987|great knott iii|1-Oct-1986||diary record|disced
+RW/CS/326|1987|great knott iii|6-Oct-1986||diary record|rotary harrowed seed sown and harrowed
+RW/CS/326|1987|great knott iii|19-Mar-1987||diary record|N applied
+RW/CS/326|1987|great knott iii|18-Apr-1987||diary record|N applied
+RW/CS/326|1987|great knott iii|31-Mar-1987||diary record|Isoproturon applied
+RW/CS/326|1987|great knott iii|18-Apr-1987||diary record|Clopyralid bromoxynil and mecoprop applied
+RW/CS/326|1987|great knott iii|28-May-1987||diary record|propiconazole applied
+RW/CS/326|1987|great knott iii|30-June-1987||diary record|propiconazole carbendazim and maneb applied
+RW/CS/326|1987|great knott iii|19-Aug-1987||diary record|combine harvested
+RW/CS/326|1987|far field i|8-Oct-1986||diary record| (W) rotary cultivated with crumbler attached seed sown
+RW/CS/326|1987|far field i|9-Oct-1986||diary record| rolled
+RW/CS/326|1987|far field i|10-Oct-1986||diary record|Actril - late applied harrowed
+RW/CS/326|1987|far field i|31-Mar-1987||diary record|NN applied
+RW/CS/326|1987|far field i|16-Apr-1987||diary record|NN applied
+RW/CS/326|1987|far field i|17-Apr-1987||diary record|Isoproturon clopyralid bromoxynil and mecoprop applied
+RW/CS/326|1987|far field i|5-June-1987||diary record|propiconazole and Tridemorph applied
+RW/CS/326|1987|far field i|30-June-1987||diary record|propiconazole carbendazim and maneb applied
+RW/CS/326|1987|far field i|7-Sept-1987||diary record|combine harvested
+RW/CS/326|1988|great knott iii|29-Sept-1987||diary record| (R) paraquat applied
+RW/CS/326|1988|great knott iii|23-Oct-1987||diary record| spring-tine cultivated
+RW/CS/326|1988|great knott iii|24-Oct-1987||diary record|seed sown harrowed
+RW/CS/326|1988|great knott iii|8-Dec-1987||diary record|Actril - late applied
+RW/CS/326|1988|great knott iii|24-Feb-1988||diary record|N applied
+RW/CS/326|1988|great knott iii|22-Apr-1988||diary record| and
+RW/CS/326|1988|great knott iii|17-Mar-1988||diary record|TIsoproturon applied
+RW/CS/326|1988|great knott iii|6-May-1988||diary record|Fluroxypyr prochloraz and carbendazim applied
+RW/CS/326|1988|great knott iii|3-June-1988||diary record|propiconazole and Tridemorph applied
+RW/CS/326|1988|great knott iii|23-June-1988||diary record|Carbendazim maneb and propiconazole applied
+RW/CS/326|1988|far field i|25-Sept-1987||diary record| (W) glyphosate applied
+RW/CS/326|1988|far field i|3-Oct-1987||diary record| Heavy spring-tine cultivated twice to 10 cm
+RW/CS/326|1988|far field i|22-Oct-1987||diary record|glyphosate applied
+RW/CS/326|1988|far field i|29-Oct-1987||diary record|power harrowed with crumbler attached
+RW/CS/326|1988|far field i|7-Dec-1987||diary record|spring-tine cultivated
+RW/CS/326|1988|far field i|9-Dec-1987||diary record|spiked harrowed with crumbler attached seed sown
+RW/CS/326|1988|far field i|8-Mar-1988||diary record|N applied
+RW/CS/326|1988|far field i|3-May-1988||diary record| and
+RW/CS/326|1988|far field i|26-Apr-1988||diary record|Isoproturon bromoxynil ioxynil and mecoprop applied
+RW/CS/326|1988|far field i|22-June-1988||diary record|Fungicide applied
+RW/CS/326|1988|far field i|16-Aug-1988||diary record|glyphosate applied
+RW/CS/326|1988|far field i|25-Aug-||diary record|combine harvested
+RW/CS/326|1989|great knott iii|6-Sept-1988||diary record| (R) Magnesian limestone applied
+RW/CS/326|1989|great knott iii|14-Sept-1988||diary record| ploughed
+RW/CS/326|1989|great knott iii|29-Sept-1988||diary record|PK applied
+RW/CS/326|1989|great knott iii|18-Oct-1988||diary record|paraquat applied
+RW/CS/326|1989|great knott iii|19-Oct-1988||diary record|rotary harrowed seed sown harrowed
+RW/CS/326|1989|great knott iii|29-Oct-1988||diary record|Isoproturon applied
+RW/CS/326|1989|great knott iii|21-Feb-1989||diary record|N applied
+RW/CS/326|1989|great knott iii|14-Apr-1989||diary record| and
+RW/CS/326|1989|great knott iii|15-Apr-1989||diary record|Matsulfuron-mathyl and fluroxypyr applied
+RW/CS/326|1989|great knott iii|19-May-1989||diary record|Chlorothalonil applied
+RW/CS/326|1989|great knott iii|20-June-1989||diary record|propiconazole and Tridemorph applied
+RW/CS/326|1989|far field i|16-Sept-1988||diary record| (W) PK applied
+RW/CS/326|1989|far field i|20-Sept-1988||diary record| subsoiler with times 140 cm apart 40 cm deep
+RW/CS/326|1989|far field i|3-Oct-1988||diary record|rolled
+RW/CS/326|1989|far field i|19-Oct-1988||diary record|paraquat applied
+RW/CS/326|1989|far field i|21-Oct-1988||diary record|spring-tine cultivated with crumbler attached seed sown harrowed
+RW/CS/326|1989|far field i|8-Dec-1988||diary record|Isoproturon applied
+RW/CS/326|1989|far field i|8-Mar-1989||diary record|N applied
+RW/CS/326|1989|far field i|28-Apr-1989||diary record| and
+RW/CS/326|1989|far field i|23-May-1989||diary record|Chlorothalonil applied
+RW/CS/326|1989|far field i|22-June-1989||diary record|propiconazole and Tridemorph applied
+RW/CS/326|1989|far field i|4-Aug-||diary record|combine harvested
+RW/CS/326|1990|great knott iii|22-Aug-1989||diary record| (R) ploughed
+RW/CS/326|1990|great knott iii|2-Oct-1989||diary record| paraquat and watting agent applied
+RW/CS/326|1990|great knott iii|4-Oct-1989||diary record|rotary harrowed
+RW/CS/326|1990|great knott iii|5-Oct-1989||diary record|seed sown
+RW/CS/326|1990|great knott iii|6-Oct-1989||diary record|Harrowed and rolled
+RW/CS/326|1990|great knott iii|22-Nov-1989||diary record|chlortoluron and cyanazine applied
+RW/CS/326|1990|great knott iii|23-Feb-1990||diary record|LIsoproturon applied
+RW/CS/326|1990|great knott iii|2-22-1989||diary record| N applied Fluroxypyr and fenoxaprop-athyl applied
+RW/CS/326|1990|great knott iii|-Apr-1990||diary record| N applied Fluroxypyr and fenoxaprop-athyl applied
+RW/CS/326|1990|great knott iii|30-Apr-1990||diary record| N applied Fluroxypyr and fenoxaprop-athyl applied
+RW/CS/326|1990|great knott iii|31-May-1990||diary record|Fungicide applied
+RW/CS/326|1990|great knott iii|13-Aug-1990||diary record|combine harvested
+RW/CS/326|1990|great knott iii|30-Aug-1989||diary record|far field I (W) Heavy-tine cultivated
+RW/CS/326|1990|great knott iii|21-Sept-1990||diary record| and il Sept rotary cultivated
+RW/CS/326|1990|great knott iii|6-Oct-1990||diary record|subsoiler with vibrating times 50 cm apart and 40 cm deep glyphosate applied
+RW/CS/326|1990|great knott iii|7-Oct-1990||diary record|rotary harrowed with crumbler attached seed sown
+RW/CS/326|1990|great knott iii|11-Dec-1990||diary record|Isoproturon and isoxaben applied
+RW/CS/326|1990|great knott iii|23-Feb-1990||diary record|N applied
+RW/CS/326|1990|great knott iii|5-Apr-1990||diary record| and
+RW/CS/326|1990|great knott iii|24-Apr-1990||diary record|Matsulfuron-mathyl applied
+RW/CS/326|1990|great knott iii|22-May-1990||diary record|Fungicide applied
+RW/CS/326|1991|great knott iii|24-Aug-1990||diary record| (R) ploughed and rolled
+RW/CS/326|1991|great knott iii|8-Oct-1990||diary record| glyphosate applied
+RW/CS/326|1991|great knott iii|12-Oct-1990||diary record|rotary harrowed seed sown and harrowed
+RW/CS/326|1991|great knott iii|15-Oct-1990||diary record|rolled
+RW/CS/326|1991|great knott iii|2-Nov-1990||diary record|Actril - late applied
+RW/CS/326|1991|great knott iii|15-Nov-1990||diary record|Isoproturon and pendimathalin applied
+RW/CS/326|1991|great knott iii|4-Mar-1991||diary record|WN applied
+RW/CS/326|1991|great knott iii|3-Apr-1991||diary record| and
+RW/CS/326|1991|great knott iii|12-Apr-1991||diary record|P and K applied
+RW/CS/326|1991|great knott iii|24-Apr-1991||diary record|Fenpropimorph applied
+RW/CS/326|1991|great knott iii|11-June-1991||diary record|propiconazole applied
+RW/CS/326|1991|far field i|23-Aug-1991||diary record| (W) Magnesian limestone applied
+RW/CS/326|1991|far field i|11-Sept-1991||diary record|glyphosate applied
+RW/CS/326|1991|far field i|24-Sept-1991||diary record|disced twice
+RW/CS/326|1991|far field i|2-Oct-1991||diary record|Actril - late applied rotary harrowed seed sown
+RW/CS/326|1991|far field i|27-Nov-1991||diary record|Pendimathalin isoproturon and deltamathrin applied
+RW/CS/326|1991|far field i|15-Mar-1991||diary record|N applied
+RW/CS/326|1991|far field i|17-Apr-1991||diary record| and
+RW/CS/326|1991|far field i|24-Apr-1991||diary record|Fenpropimorph applied
+RW/CS/326|1991|far field i|20-June-1991||diary record|Fenpropimorph chlorothalonil and flutriafol applied
+RW/CS/326|1991|far field i|22-Aug-||diary record|combine harvested

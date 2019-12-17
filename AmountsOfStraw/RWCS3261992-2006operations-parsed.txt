@@ -1,0 +1,477 @@
+RW/CS/326|1992|great knott iii r|27-Aug-1991|STRAW NORMAL, 2 NORMAL and 4 NORMAL Straw applied.|T
+RW/CS/326|1992|great knott iii r|28-Aug-1991|Straw and stubble chopped.|B
+RW/CS/326|1992|great knott iii r|04-Sep-1991|ploughed.|B
+RW/CS/326|1992|great knott iii r|05-Sep-1991|rotary harrowed, alone, dressed Lindex-Plus FS, drilled at 8.0 kg. rolled.|B
+RW/CS/326|1992|great knott iii r|06-Sep-1991|Butisan S$ at 2.5 1 in 200 1.|B
+RW/CS/326|1992|great knott iii r|13-Oct-1991|plot at 0.15 1 with spray 11 E at 2.5 1 in 200 l.|B
+RW/CS/326|1992|great knott iii r|19-Feb-1992|34.5% N at 220 kg.|B
+RW/CS/326|1992|great knott iii r|25-Mar-1992|34.5% N at 290 kg.|B
+RW/CS/326|1992|great knott iii r|09-Apr-1992|Sportak 45 at 1.1 1 in 200 1.|B
+RW/CS/326|1992|great knott iii r|15-Jul-1992|Reglone at 3.0 1 with Farmon Blue at 0.26 1 in 260 1.|B
+RW/CS/326|1992|great knott iii r|22-Jul-1992|combine harvested.|B
+RW/CS/326|1992|far field i ww|28-Aug-1991|STRAW NORMAL, 2 NORMAL and 4 NORMAL Straw applied.|T
+RW/CS/326|1992|far field i ww|30-Aug-1991|Straw and stubble chopped.|B
+RW/CS/326|1992|far field i ww|02-Sep-1991|disced four times to 10 cm. rolled.|B
+RW/CS/326|1992|far field i ww|05-Sep-1991|rotary harrowed, alone, dressed Lindex-Plus FS, drilled at 7.0 kg.|B
+RW/CS/326|1992|far field i ww|12-Oct-1991|plot at 0.15 1 with spray 11 E at 2.0 1 in 200 1.|B
+RW/CS/326|1992|far field i ww|06-Jan-1992|PK as (01636) at 740 kg.|B
+RW/CS/326|1992|far field i ww|15-Jan-1992|Benazalox at 1.0 kg in 200 1.|B
+RW/CS/326|1992|far field i ww|16-Jan-1992|PK as (01636) at 300 kg.|B
+RW/CS/326|1992|far field i ww|21-Feb-1992|34.5¢ N at 220 kg. 69  92/R/C8/326 and 92/W/CS/326 :  part field I (W)|B
+RW/CS/326|1992|far field i ww|31-Mar-1992|34.5% N at 290 kg.|B
+RW/CS/326|1992|far field i ww|01-Apr-1992|Lentagran 45 WP at 2.0 kg in 200 1.|B
+RW/CS/326|1992|far field i ww|03-May-1992|Sportak at 1.2 1 in 200 1.|B
+RW/CS/326|1992|far field i ww|16-dul-1992|Reglone at 3.0 1 with Agral at 0.46 1 in 400 1.|B
+RW/CS/326|1992|far field i ww|26-Jul-1992|combine harvested.|B
+RW/CS/326|1993|great knott iii r|06-Aug-1992|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1993|great knott iii r|07-Aug-1992|Straw and stubble chopped.|B
+RW/CS/326|1993|great knott iii r|18-Aug-1992|Gramoxone 100 at 2.0 1 with Farmon Blue at 0.1 1 in 200 1.|B
+RW/CS/326|1993|great knott iii r|14-Oct-1992|ploughed.|B
+RW/CS/326|1993|great knott iii r|16-Oct-1992|rotary harrowed, Soissons, dressed Cerevax, drilled at 400 seed per square Mar.|B
+RW/CS/326|1993|great knott iii r|22-Oct-1992|Draza at 5.5 kg.|B
+RW/CS/326|1993|great knott iii r|13-Nov-1992|Avadex BW Granular at 22.5 kg.|B
+RW/CS/326|1993|great knott iii r|24-Nov-1992|Draza at 5.5 kg.|B
+RW/CS/326|1993|great knott iii r|24-Feb-1993|Pointer at 2.0 1 in 200 1.|B
+RW/CS/326|1993|great knott iii r|08-Mar-1993|34.5% N at 120 kg.|B
+RW/CS/326|1993|great knott iii r|15-Apr-1993|Halo at 2.0 1 with Tripart Brevis at 2.2 1 in 200 1.|B
+RW/CS/326|1993|great knott iii r|16-Apr-1993|34.5% N at 460 kg.|B
+RW/CS/326|1993|great knott iii r|22-Jun-1993|Corbel} at 0.50 1 and Radar at 0.50 1 in 200 1.|B
+RW/CS/326|1993|great knott iii r|19-Aug-1993|combine harvested. 74  93/R/C8/326 and 93/W/CS/326|B
+RW/CS/326|1993|far field i ww|10-Aug-1992|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1993|far field i ww|10-Aug-1992|Straw and stubble chopped.|T
+RW/CS/326|1993|far field i ww|11-Aug-1992|subsoiler to 45 cm with times 1.5 m apart.|B
+RW/CS/326|1993|far field i ww|29-Sep-1992|ground at 4.0 1 in 200 1.|B
+RW/CS/326|1993|far field i ww|05-Oct-1992|Heavy spring-tine cultivated to 20 cm.|B
+RW/CS/326|1993|far field i ww|07-Oct-1992|disced twice to 10 cm.|B
+RW/CS/326|1993|far field i ww|09-Oct-1992|rotary harrowed, Soissons, dressed Cerevax, drilled at 350 seed per square Mar.  : Bz Avadex BW Granular at 4.2 1 in 200 1.|B
+RW/CS/326|1993|far field i ww|12-Oct-1992|Pre-Empt at 5.0 1 with Scythe at 3.0 2 in 200 1.|B
+RW/CS/326|1993|far field i ww|16-Oct-1992|Draza at 5.5 kg.|B
+RW/CS/326|1993|far field i ww|16-Mar-1993|34.5% N at 120 kg.|B
+RW/CS/326|1993|far field i ww|15-Apr-1993|Starane 2 at 1.0 1 with new 5C Cycocel at 2.5 1 in 200 2.|B
+RW/CS/326|1993|far field i ww|30-Apr-1993|34.5% N at 460 kg.|B
+RW/CS/326|1993|far field i ww|18-May-1993|Halo at 2.0 1 and Mistral at 0.25 1 in 200 1.|B
+RW/CS/326|1993|far field i ww|22-Jun-1993|Ashlade mancozeb PL at 3.0 1 and Corbel at 0.50 1 in 200 1.|B
+RW/CS/326|1993|far field i ww|14-Aug-1993|combine harvested.|B
+RW/CS/326|1994|great knott iii r|25-Aug-1993|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1994|great knott iii r|25-Aug-1993|STRAW one Straw removed.|T
+RW/CS/326|1994|great knott iii r|25-Aug-1993|Straw and stubble chopped.|T
+RW/CS/326|1994|great knott iii r|27-Sep-1993|ploughed.|B
+RW/CS/326|1994|great knott iii r|19-Oct-1993|disced, spring-tine cultivated.|B
+RW/CS/326|1994|great knott iii r|20-Oct-1993|rotary harrowed, Soissons, dressed Cerevax, drilled at 380 seed per m’.|B
+RW/CS/326|1994|great knott iii r|17-Nov-1993|Optimol at 15 kg.|B
+RW/CS/326|1994|great knott iii r|09-Mar-1994|34.58 N at 118 kg.|B
+RW/CS/326|1994|great knott iii r|12-Apr-1994|34.5% N at 448 kg.|B
+RW/CS/326|1994|great knott iii r|12-Apr-1994|Starane 2 at 0.75 1 with Wildcat at 1.25 1 in 200 1.|B
+RW/CS/326|1994|great knott iii r|01-May-1994|Halo at 2.0 1 with Tripart Brevis at 2.5 1 in 200 1.|B
+RW/CS/326|1994|great knott iii r|24-May-1994|ally at 30 g with Cheetah Super at 1.5 1 and Starane 2 at 0.75 1 in 200 1.|B
+RW/CS/326|1994|great knott iii r|31-May-1994|Bombardier at 1.0 1 with Cyclone at 1.0 1 in 200 1.|B
+RW/CS/326|1994|great knott iii r|06-Aug-1994|combine harvested.|B
+RW/CS/326|1994|far field i w|17-Aug-1993|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1994|far field i w|17-Aug-1993|STRAW one Straw removed.|T
+RW/CS/326|1994|far field i w|20-Aug-1993|Straw and stubble chopped.|B
+RW/CS/326|1994|far field i w|22-Sep-1993|Tin cultivated to 10 cm.|B
+RW/CS/326|1994|far field i w|19-Oct-1993|Scythe at 4.0 1 in 200 1. 67  94/R/CS/326 and 94/W/CS/326|B
+RW/CS/326|1994|far field i ww|20-Oct-1993|rotary harrowed, Soissons, dressed Panoctine, drilled at 350 seed per m.|B
+RW/CS/326|1994|far field i ww|28-Feb-1994|Draza at 5.5 kg.|B
+RW/CS/326|1994|far field i ww|14-Mar-1994|34.5% N at 116 kg.|B
+RW/CS/326|1994|far field i ww|04-May-1994|34.5% N at 348 kg.|B
+RW/CS/326|1994|far field i ww|06-May-1994|ally at 30 g with Oxytril CM at 1.0 1 and Halo at 1.51 in 200 1.|B
+RW/CS/326|1994|far field i ww|30-May-1994|Cyclone at 1.0 1 with Bravo 500 at 1.0 1 in 200 1.|B
+RW/CS/326|1994|far field i ww|14-Jun-1994|Hostathion at 0.84 1 in 200 1.|B
+RW/CS/326|1994|far field i ww|16-Aug-1994|combine harvested.|B
+RW/CS/326|1995|great knott iii r|16-Aug-1994|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1995|great knott iii r|16-Aug-1994|STRAW one Straw removed.|T
+RW/CS/326|1995|great knott iii r|16-Aug-1994|Straw and stubble chopped.|T
+RW/CS/326|1995|great knott iii r|02-Sep-1994|PK as(02032) at 1317 kg.|B
+RW/CS/326|1995|great knott iii r|27-Sep-1994|Sting CT at 2.0 1 in 200 l.|B
+RW/CS/326|1995|great knott iii r|04-Oct-1994|ploughed.|B
+RW/CS/326|1995|great knott iii r|07-Oct-1994|rolled.|B
+RW/CS/326|1995|great knott iii r|10-Oct-1994|spring-tine cultivated.|B
+RW/CS/326|1995|great knott iii r|11-Oct-1994|rotary harrowed, Soissons, dressed Beret O50FS, drilled at 380 seed per m’.|B
+RW/CS/326|1995|great knott iii r|24-Nov-1994|Draza at 5.5 kg.|B
+RW/CS/326|1995|great knott iii r|25-Nov-1994|Avadex BW Granular at 22.5 kg.|B
+RW/CS/326|1995|great knott iii r|10-Mar-1995|34.5% N at 118 kg.|B
+RW/CS/326|1995|great knott iii r|16-Mar-1995|Stefes IPU at 5.0 1 in 200 1.|B
+RW/CS/326|1995|great knott iii r|11-Apr-1995|34.5% N at 463 kg.|B
+RW/CS/326|1995|great knott iii r|10-May-1995|Halo at 2.0 1 in 200 1.|B
+RW/CS/326|1995|great knott iii r|16-Jun-1995|Bravo 500 at 1.0 1 with Silvacur at 0.5 1 in 300 1.|B
+RW/CS/326|1995|great knott iii r|04-Aug-1995|combine harvested.|B
+RW/CS/326|1995|far field i www|24-Aug-1994|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1995|far field i www|24-Aug-1994|STRAW one Straw removed.|T
+RW/CS/326|1995|far field i www|26-Aug-1994|Straw and stubble chopped.|B
+RW/CS/326|1995|far field i www|08-Sep-1994|PK as (02032) at 781 kg. 73  95/R/CS/326 and 95/W/CS/326 -|B
+RW/CS/326|1995|far field i www|26-Sep-1994|Gramoxone 100 at 3.0 1 in 200 1.|B
+RW/CS/326|1995|far field i www|29-Sep-1994|ploughed.|B
+RW/CS/326|1995|far field i www|30-Sep-1994|rotary harrowed, Soissons, dressed Beret O50FS, drilled at 350 seed per m’. rolled.|B
+RW/CS/326|1995|far field i www|02-Nov-1994|Avadex BW Granular at 22.5 kg.|B
+RW/CS/326|1995|far field i www|02-Dec-1994|Stomp 400 at 3.3 1 with Stefes IPU at 3.0 1 in 200 1. 1$-Mar-95|B
+RW/CS/326|1995|far field i www|02-Dec-1994|34.5% N at 116 kg.|B
+RW/CS/326|1995|far field i www|28-Apr-1995|34.5% N at 464 kg.|B
+RW/CS/326|1995|far field i www|02-May-1995|Starane 2 at 1.0 1 with Halo at_2.01 in 200 i.|B
+RW/CS/326|1995|far field i www|01-Jun-1995|Cyclone at 1.0 1 in 300 1.|B
+RW/CS/326|1995|far field i www|30-Jun-1995|primicarb 50 DG at 280 g in 300 1.|B
+RW/CS/326|1995|far field i www|02-Aug-1995|combine harvested.|B
+RW/CS/326|1996|great knott iii r|10-Aug-1995|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|7
+RW/CS/326|1996|great knott iii r|10-Aug-1995|STRAW one Straw removed.|7
+RW/CS/326|1996|great knott iii r|15-Aug-1995|Straw chopped.|B
+RW/CS/326|1996|great knott iii r|29-Sep-1995|ploughed.|B
+RW/CS/326|1996|great knott iii r|05-Oct-1995|Heavy spring-tine cultivated.|B
+RW/CS/326|1996|great knott iii r|06-Oct-1995|rotary harrowed, Soissons, dressed Sibutol, drilled at 400 seed per wm.|B
+RW/CS/326|1996|great knott iii r|30-Oct-1995|Avadex BW Granular at 22.5 kg-|B
+RW/CS/326|1996|great knott iii r|14-Nov-1995|Draza at 5.5 kg.|B
+RW/CS/326|1996|great knott iii r|07-Mar-1996|34.5% N at 116 kg.|B
+RW/CS/326|1996|great knott iii r|16-Apr-1996|34.5% N at 174 kg.|B
+RW/CS/326|1996|great knott iii r|25-Apr-1996|ally at 30 g with Cheetah Super at 1.25 1 in 200 1.|B
+RW/CS/326|1996|great knott iii r|06-Jun-1996|Monicle at 1.0 1 in 320 1.|B
+RW/CS/326|1996|great knott iii r|08-Aug-1996|combine harvested.|B
+RW/CS/326|1996|far field i w|10-Aug-1995|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1996|far field i w|10-Aug-1995|STRAW one Straw removed.|T
+RW/CS/326|1996|far field i w|11-Aug-1995|Straw chopped.|B
+RW/CS/326|1996|far field i w|13-Sep-1995|ploughed. rolled.|B
+RW/CS/326|1996|far field i w|02-Oct-1995|Harvest at 3.0 1 in 300 1.|B
+RW/CS/326|1996|far field i w|09-Oct-1995|rotary harrowed, Soissons, dressed Sibutol, drilled at 400 seed per m’.  72  96/R/CS/326 and 96/W/CS/326 ’|B
+RW/CS/326|1996|far field i w|13-Nov-1995|Triumph at 5.5 1 in 200 1.|B
+RW/CS/326|1996|far field i w|08-Mar-1996|34.5% N at 116 kg.|B
+RW/CS/326|1996|far field i w|25-Apr-1996|34.5% N at 348 kg.|B
+RW/CS/326|1996|far field i w|30-Apr-1996|Halo at 1.5 1 in 200 1.|B
+RW/CS/326|1996|far field i w|06-Jun-1996|Halo at 2.0 1 in 300 1.|B
+RW/CS/326|1996|far field i w|08-Aug-1996|combine harvested.|B
+RW/CS/326|1997|great knott iii r|20-Aug-1996|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied and chopped.  + & : STRAW one Straw removed.|T
+RW/CS/326|1997|great knott iii r|23-Sep-1996|Sting CT at 2.0 1 in 200 1.|B
+RW/CS/326|1997|great knott iii r|01-Oct-1996|ploughed.|B
+RW/CS/326|1997|great knott iii r|02-Oct-1996|spring-tine cultivated, rotary harrowed, Hereward, dressed Beret Gold, drilled at 380 seed per m’.|B
+RW/CS/326|1997|great knott iii r|03-Oct-1996|rolled.|B
+RW/CS/326|1997|great knott iii r|09-Oct-1996|Draza at 5.5 kg.|B
+RW/CS/326|1997|great knott iii r|14-Nov-1996|Avadex BW Granular at 22.1 kg.|B
+RW/CS/326|1997|great knott iii r|16-Dec-1996|Isoproturon 500 at 4.2 1 with Stomp 400 sc at 3.11 in 200 1.|B
+RW/CS/326|1997|great knott iii r|18-Apr-1997|Starane 2 at 0.75 1 in 300 1.|B
+RW/CS/326|1997|great knott iii r|04-Jun-1997|Folicur at 0.3 1 with Pointer at 0.5 1 in 300 1.|B
+RW/CS/326|1997|great knott iii r|19-Aug-1997|combine harvested. part field I (W)|B
+RW/CS/326|1997|great knott iii r|21-Aug-1996|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1997|great knott iii r|21-Aug-1996|STRAW one Straw removed.|T
+RW/CS/326|1997|great knott iii r|22-Aug-1996|Straw chopped.|B
+RW/CS/326|1997|great knott iii r|02-Oct-1996|Scythe LC at 3.0 } in 200 1.|B
+RW/CS/326|1997|great knott iii r|03-Oct-1996|rotary harrowed, Hereward, dressed Sibutol, drilled at 325 seed per nm’.|B
+RW/CS/326|1997|great knott iii r|22-Nov-1996|Avadex except 15G at 15 kg. 67  97/R/CS/326 and 97/W/CS/326|B
+RW/CS/326|1997|far field i w|12-Dec-1996|Stomp 400 SC at 2.5 1 with Isoproturon 500 at 1.0 1 in 200 1.|B
+RW/CS/326|1997|far field i w|16-May-1997|Halo at 2.0 1 in 300 1.|B
+RW/CS/326|1997|far field i w|08-Aug-1997|Barclay Gallup at 2.0 1 in 300 1.|B
+RW/CS/326|1997|far field i w|15-Aug-1997|combine harvested.|B
+RW/CS/326|1998|great knott iii r|02-Sep-1997|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied and chopped.|T
+RW/CS/326|1998|great knott iii r|02-Sep-1997|STRAW one Straw removed.|T
+RW/CS/326|1998|great knott iii r|09-Sep-1997|PK as (02032) at 1250 kg.|B
+RW/CS/326|1998|great knott iii r|11-Sep-1997|Scythe LC at 3.0 1 in 300 1.|B
+RW/CS/326|1998|great knott iii r|08-Oct-1997|ploughed.|B
+RW/CS/326|1998|great knott iii r|22-Oct-1997|rotary harrowed, Hereward, dressed Anchor, drilled at 380 seed per rain.|B
+RW/CS/326|1998|great knott iii r|13-Jan-1998|Hawk at 2.5 1 with Sprayprover at 1.01 in 200 1.|B
+RW/CS/326|1998|great knott iii r|43-Feb-1998|34.5% N at 116 kg.|B
+RW/CS/326|1998|great knott iii r|17-Mar-1998|ally at 20 g with Alpha Briotril 24/16 at 0.5 1 in 200 1.|B
+RW/CS/326|1998|great knott iii r|27-Apr-1998|34.5% N at 460 kg.|B
+RW/CS/326|1998|great knott iii r|09-May-1998|Standon Tebuconazole at 0.7 1 with Starane 2 at 0.5 1 in 200 1.|B
+RW/CS/326|1998|great knott iii r|28-May-1998|Opus at 0.7 1 in 200 l.|B
+RW/CS/326|1998|great knott iii r|12-Jun-1998|Bavistin DF at 0.5 kg with Folicur at 0.5 1 in 100 1.|B
+RW/CS/326|1998|great knott iii r|17-Aug-1998|combine harvested. 67  98/R/CS/326 and 98/K/CS/326|B
+RW/CS/326|1998|far field i w|02-Sep-1997|STRAW NORMAL, 2 NORMAL, 4 NORMAL Straw applied.|T
+RW/CS/326|1998|far field i w|02-Sep-1997|STRAW one Straw removed.|T
+RW/CS/326|1998|far field i w|19-Sep-1997|ploughed.|B
+RW/CS/326|1998|far field i w|01-Oct-1997|rolled, rotary harrowed, Hereward, dressed Sibutol, drilled, at 325 seed per m’.|B
+RW/CS/326|1998|far field i w|22-Oct-1997|Avadex BW Granular at 22.5 kg.|B
+RW/CS/326|1998|far field i w|29-Jan-1998|Pointer at 1.0 1 with Atlas IPU ar 1.0 1 in 2001.|B
+RW/CS/326|1998|far field i w|ll-Feb-1998|34.5% N at 145 kg.|B
+RW/CS/326|1998|far field i w|19-Mar-1998|Mn and Cu as Phosyn Manganese at 2.0 1 with Profol cropped at 0.25 1 in 200 1.|B
+RW/CS/326|1998|far field i w|30-Mar-1998|34.5% N at 377 kg.|B
+RW/CS/326|1998|far field i w|04-May-1998|Alto 100 SL at 0.6 1 with Tripart Brevis at 2.0 1 in 200 1.|B
+RW/CS/326|1998|far field i w|21-May-1998|ally at 20 g in 200 1.|B
+RW/CS/326|1998|far field i w|31-May-1998|Opus at 0.8 1 in 2001.|B
+RW/CS/326|1998|far field i w|12-Jun-1998|Folicur at 0.3 1 with Bavistin DF at 0.3 kg in 200 1.|B
+RW/CS/326|1998|far field i w|12-Aug-1998|combine harvested.|B
+RW/CS/326|1999|great knott iii r|20-Aug-1998|one : Straw removed.|T
+RW/CS/326|1999|great knott iii r|20-Aug-1998|NORMAL,2 NORMAL,4 NORMAL : Straw applied and chopped.|T
+RW/CS/326|1999|great knott iii r|08-Oct-1998|ploughed.|B:
+RW/CS/326|1999|great knott iii r|13-Oct-1998|rotary harrowed. drilled Hereward, tr. Sibutol, at 380 seed with the Nordsten drill.  2B : had at 10.0 kg.|B:
+RW/CS/326|1999|great knott iii r|15-Oct-1998|had at 7.5 kg.|B:
+RW/CS/326|1999|great knott iii r|04-Nov-1998|Decoy at 7.5 kg.|B:
+RW/CS/326|1999|great knott iii r|10-Mar-1999|tm Isoguard at 1.0 1 in 200 1. 7 Bs : tm Unite A at 0.125 1 in 200 1.  3B 4 z: tm Unite B at 1.0 1 in 200 1.  2 beans : tm crop at 1.0 1 in 200 1.|B:
+RW/CS/326|1999|great knott iii r|15-Mar-1999|34.5% N at 145 kg.|B:
+RW/CS/326|1999|great knott iii r|12-Apr-1999|34.5% N at 435 kg.|B:
+RW/CS/326|1999|great knott iii r|Ol-May-1999|Opus at 0.7 1 in 200 1.|B:
+RW/CS/326|1999|great knott iii r|29-May-1999|tm Folicur at 1.0 1 in 100 1.|B:
+RW/CS/326|1999|great knott iii r|29-May-1999|tm Sipcam UK Rover 500 at 1.0 1 in 100 1.|B:
+RW/CS/326|1999|great knott iii r|17-Jun-1999|Folicur at 0.25 1 in 100 1.|B:
+RW/CS/326|1999|great knott iii r|23-Aug-1999|combine harvested. 62  99/R/C8/326 and 99/W/CS/326|B:
+RW/CS/326|1999|far field i w|17-Aug-1998|one : Straw removed : ™& : NORMAL,2 NORMAL, 4 NORMAL : Straw applied and chopped.|T
+RW/CS/326|1999|far field i w|02-Sep-1998|ploughed.|B:
+RW/CS/326|1999|far field i w|14-Sep-1998|Cambridge rolled. "|B:
+RW/CS/326|1999|far field i w|12-Oct-1998|rotary harrowed. drilled Hereward, tr. Sibutol, at 325 seed* with the Accord drill.|B:
+RW/CS/326|1999|far field i w|05-Nov-1998|had at 15 kg.|B:
+RW/CS/326|1999|far field i w|18-Feb-1999|34.5% N at 145 kg.|B:
+RW/CS/326|1999|far field i w|25-Feb-1999|tm Platform S at 1.0 kg in 200 1. t-Bos : tm Isoguard at 2.0 1 in 200 1.|B;
+RW/CS/326|1999|far field i w|02-Apr-1999|N at 377 kg.|>:
+RW/CS/326|1999|far field i w|24-Apr-1999|tm Folicur at 0.5 1 in 200 1|B:
+RW/CS/326|1999|far field i w|24-Apr-1999|tm Tripart Brevis at 2.0 1 in 200 1.|B:
+RW/CS/326|1999|far field i w|27-May-1999|tm Folicur at 0.75 1 in 200 1|B:
+RW/CS/326|1999|far field i w|27-May-1999|tm Sipcam UK Rover 500 at 1.0 1 in 200 1|B:
+RW/CS/326|1999|far field i w|20-Aug-1999|combine harvested. 63|B:
+RW/CS/326|2000|great knott iii r|24-Aug-1999|one : Straw removed. ‘|T
+RW/CS/326|2000|great knott iii r|24-Aug-1999|NORMAL,2 NORMAL, 4 NORMAL : Straw applied and chopped.|T
+RW/CS/326|2000|great knott iii r|16-Sep-1999|ploughed and furrow pressed.|B:
+RW/CS/326|2000|great knott iii r|17-Sep-1999|Combination drilled, Hereward, tr. Sibutol, at 350 seed* with the Accord drill. rolled.|B:
+RW/CS/326|2000|great knott iii r|15-Nov-1999|tm Lexus 50 DF at 20 g in 200 1. ¢ Bs : tm Stomp 400 SC at 2.5 1 in 200 1.  2 Be : tm topped 10 at 250 ml in 200 1.|B
+RW/CS/326|2000|great knott iii r|09-Mar-2000|34.5% N at 145 kg.|B:
+RW/CS/326|2000|great knott iii r|06-Apr-2000|Boxer at 100 ml in 200|B
+RW/CS/326|2000|great knott iii r|19-Apr-2000|5% N at 290 kg.|B
+RW/CS/326|2000|great knott iii r|27-Apr-2000|tm Opus at 0.5 1 in 200 1|B:
+RW/CS/326|2000|great knott iii r|27-Apr-2000|tm Unix at 0.5 kg in 200 1.|B:
+RW/CS/326|2000|great knott iii r|24-May-2000|tmjAmistar at 0.8 1 in 100 1|B:
+RW/CS/326|2000|great knott iii r|24-May-2000|tm Folicur at 0.75 1 in 100 1.|B:
+RW/CS/326|2000|great knott iii r|12-Aug-2000|combine harvested. part field I (W)|®
+RW/CS/326|2000|great knott iii r|23-Aug-1999|one : Straw removed.|T
+RW/CS/326|2000|great knott iii r|23-Aug-1999|NORMAL,2 NORMAL,4 NORMAL : Straw applied and chopped.|T
+RW/CS/326|2000|great knott iii r|20-Sep-1999|ploughed and furrow pressed.|B:
+RW/CS/326|2000|great knott iii r|01-Oct-1999|Combination drilled, Hereward, tr. Sibutol, at 350 seed with the Nordsten drill.|B:
+RW/CS/326|2000|great knott iii r|11-Nov-1999|Hallmark at 100 ml in 100 1.|B:
+RW/CS/326|2000|great knott iii r|19-Mar-2000|Platform § at 1.0 kg in 200 1.|B:
+RW/CS/326|2000|great knott iii r|27-Apr-2000|Sulphan (30.0% N, 7.6% S$) at 333 kg. 64  00/R/CS/326 and 00/W/CS/326|B:
+RW/CS/326|2000|far field i www|13-May-2000|tm ally at 30 g in 200 1. : Bs : tm Starane 2 at 1.0 1 in 200 1.|B:
+RW/CS/326|2000|far field i www|20-May-2000|Opus at 0.75 1 in 200 1.|B:
+RW/CS/326|2000|far field i www|21-Aug-2000|combine harvested.|B:
+RW/CS/326|2001|great knott iii r|16-Aug-2000|: Straw/removed|7
+RW/CS/326|2001|great knott iii r|22-Aug-2000|chopped loaded straw.|7
+RW/CS/326|2001|great knott iii r|22-Aug-2000|1 : Straw/normal, 15.5 kg per plot.  >|7
+RW/CS/326|2001|great knott iii r|22-Aug-2000|2 : Straw/2 x normal, 31.0 kg per plot.  >|7
+RW/CS/326|2001|great knott iii r|22-Aug-2000|4 : Straw/4 x normal, 62.0 kg per plot.|7
+RW/CS/326|2001|great knott iii r|13-Oct-2000|ploughed, /e.|B:
+RW/CS/326|2001|great knott iii r|19-Oct-19O0O|Combination drilled, Hereward, tr. Sibutol, at 350 s/m*? with the Accord drill.|B
+RW/CS/326|2001|great knott iii r|17-Nov-2000|Decoy Watex at 5.0 kg.|B
+RW/CS/326|2001|great knott iii r|26-Mar-2001|33.5% N at 149 kg.|B:
+RW/CS/326|2001|great knott iii r|O9-Apr-19O1|tm Farmon M at 75 g in 100 l.|B
+RW/CS/326|2001|great knott iii r|O9-Apr-19O1|> tm Topik at 125 ml in 100 l.  - B: - tm Toil at 1.0 1 in 100 l.|B
+RW/CS/326|2001|great knott iii r|05-May-2001|33.5% N at 299 kg.|B:
+RW/CS/326|2001|great knott iii r|O8-May-19O1l|tm mustard at 0.5 1 in 100 l.|B:
+RW/CS/326|2001|great knott iii r|O8-May-19O1l|>: tm Unix at 0.5 kg in 100 l.|B:
+RW/CS/326|2001|great knott iii r|O8-May-19O1l|tm BASF 3C Chlormequat 720 at 1.25 1 in 100 l.|B:
+RW/CS/326|2001|great knott iii r|O8-May-19O1l|tm Moddus at 0.2 1 in 100 l.|B:
+RW/CS/326|2001|great knott iii r|04-Jun-2001|tm mustard at 0.7 1 in 100 l. >|B
+RW/CS/326|2001|great knott iii r|04-Jun-2001|tm Folicur at 0.5 1 in 100 l.|B
+RW/CS/326|2001|great knott iii r|25-Aug-2001|combine harvested plots for yield. >|B
+RW/CS/326|2001|great knott iii r|25-Aug-2001|swathed straw.|B
+RW/CS/326|2001|great knott iii r|29-Aug-2001|combine harvested, all remaining wheat. >|B:
+RW/CS/326|2001|great knott iii r|29-Aug-2001|sampled, baled and weighed straw.|B:
+RW/CS/326|2001|great knott iii r|29-Aug-2001|swathed straw.|B:
+RW/CS/326|2001|far field i w|01-Sep-2000|muriate of potash at 200 kg.|B
+RW/CS/326|2001|far field i w|03-Sep-2000|Azural at 4.0 1 in 200 l.|B:
+RW/CS/326|2001|far field i w|13-Sep-2000|chopped loaded straw.|T
+RW/CS/326|2001|far field i w|13-Sep-2000|1 : Straw applied at 11.5 kg per plot.  >|T
+RW/CS/326|2001|far field i w|13-Sep-2000|2 : Straw applied at 23.0 kg per plot.|T
+RW/CS/326|2001|far field i w|13-Sep-2000|4 : Straw applied at 46.0 kg per plot.|T
+RW/CS/326|2001|far field i w|21-Sep-2000|Sting ECO at 2.0 1 in 200 1.|B:
+RW/CS/326|2001|far field i w|25-Sep-2000|ploughed, set.|B
+RW/CS/326|2001|far field i w|03-Oct-2000|rotary harrowed.|B
+RW/CS/326|2001|far field i w|03-Oct-2000|drilled, Hereward, tr. Sibutol and Rhodoman, at 350  s/m* with the 4.0 m Accord drill.|B
+RW/CS/326|2001|far field i w|20-Oct-2000|Avadex except 15 g at 15.0 kg.|B
+RW/CS/326|2001|far field i w|15-Dec-2000|Lexus Class at 60 g in 2001.|B
+RW/CS/326|2001|far field i w|30-Mar-19Ol|Sulphur Gold 30.0% N, 7.6% S at 167 kg|B:
+RW/CS/326|2001|far field i w|30-Mar-19Ol|Sulphur Gold 30.0% N, 7.6% S at 167 kg|B:
+RW/CS/326|2001|far field i w|13-Apr-2001|tm Farmon M at 75 g in 200 l. >|B:
+RW/CS/326|2001|far field i w|13-Apr-2001|tm Starane 2 at 0.5 1 in 200 l.|B:
+RW/CS/326|2001|far field i w|30-Apr-2001|Sulphur Gold 30.0% N, 7.6% S at 333 kg.|B
+RW/CS/326|2001|far field i w|30-Apr-2001|Sulphur Gold 30.0% N, 7.6% S at 333 kg.|B
+RW/CS/326|2001|far field i w|08-May-2001|tm Opus at 0.5 1 in 200 l.|B
+RW/CS/326|2001|far field i w|08-May-2001|tm BASF 3C Chlormequat 720 at 2.0 1 in 200 l.|B
+RW/CS/326|2001|far field i w|31-May-2001|Opus at 0.7 1 in 200 l.|B:
+RW/CS/326|2001|far field i w|21-Aug-2001|combine harvested, plots for yield, and discards.|B
+RW/CS/326|2001|far field i w|21-Aug-2001|swathed straw.|B
+RW/CS/326|2001|far field i w|23-Aug-2001|sampled, baled and weighed straw.|B
+RW/CS/326|2002|great knott iii r|29-Aug-2001|Straw treatment applied.|T
+RW/CS/326|2002|great knott iii r|30-Aug-2001|;: chopped straw.|T
+RW/CS/326|2002|great knott iii r|14-Sep-2001|ploughed. :|B
+RW/CS/326|2002|great knott iii r|26-Sep-2001|Combination drilled, Hereward, tr. Sibutol Secur, at 350 seed* with the Accord 2 drill.|B
+RW/CS/326|2002|great knott iii r|28-Sep-2001|rolled.|B
+RW/CS/326|2002|great knott iii r|O1-Nov-2001|tm) Lexus 50 DF at 20 g in 200 1. >|B
+RW/CS/326|2002|great knott iii r|O1-Nov-2001|; tm Stomp 400 SC at 3.01 in 200 l.|B
+RW/CS/326|2002|great knott iii r|14-Mar-2002|33.5% N at 150 kg.|B:
+RW/CS/326|2002|great knott iii r|04-Apr-2002|; tm Opus at 0.4 1 in 100 1. >|B
+RW/CS/326|2002|great knott iii r|04-Apr-2002|tm Twist at 0.6 1 in 100 l.|B
+RW/CS/326|2002|great knott iii r|04-Apr-2002|tm BASF 3C Chlormequat 720 at 1.25 1 in 100 1.  >|B
+RW/CS/326|2002|great knott iii r|04-Apr-2002|tm Moddus at 0.2 1 in 100 l.|B
+RW/CS/326|2002|great knott iii r|25-Apr-2002|5% N at 418 kg.|B
+RW/CS/326|2002|great knott iii r|31-May-2002|; tm Opus at 0.5 1 in 200 l.|B
+RW/CS/326|2002|great knott iii r|31-May-2002|tm Twist at 0.8 1 in 200 1.|B
+RW/CS/326|2002|great knott iii r|01-Aug-2002|ground active at 3.0 1 in 100 l.|B
+RW/CS/326|2002|great knott iii r|13-Aug-2002|;: combine harvested plots for yield, and discards. chopped discard straw.|T
+RW/CS/326|2002|great knott iii r|14-Aug-2002|sampled, baled and weighed straw.|T
+RW/CS/326|2002|great knott iii r|30-Aug-2002|spread and chopped straw as plants.|T
+RW/CS/326|2002|far field i w|03-Aug-2001|muriate of potash at 250 kg|B
+RW/CS/326|2002|far field i w|23-Aug-2001|Straw treatment applied.|T
+RW/CS/326|2002|far field i w|20-Sep-2001|ploughed.|B
+RW/CS/326|2002|far field i w|21-Sep-2001|rolled.|B
+RW/CS/326|2002|far field i w|22-Sep-2001|rotary harrowed. drilled, Hereward, tr. Sibutol + Aventis Manganese 500 at 350 seed* with the  Accord drill. rolled.|B
+RW/CS/326|2002|far field i w|13-Oct-2001|Avadex except 15g at 15.0 kg.|B
+RW/CS/326|2002|far field i w|16-Nov-2001|tm Stomp 400 S at 4.0 1 in 200 l.|B
+RW/CS/326|2002|far field i w|16-Nov-2001|tm Tolkan liquid at 2.5 1 in 200 l.|B
+RW/CS/326|2002|far field i w|12-Mar-2002|Sulphur Gold 30% N, 7.6% S at 167 kg.|B
+RW/CS/326|2002|far field i w|12-Mar-2002|Sulphur Gold 30% N, 7.6% S at 167 kg.|B
+RW/CS/326|2002|far field i w|12-Apr-2002|tm Opus at 0.5 1 in 200 l.|B
+RW/CS/326|2002|far field i w|12-Apr-2002|tm BASF 3C Chlormequat 720 at 2.0 1 in 200 1.|B
+RW/CS/326|2002|far field i w|02-May-2002|ally at 30 g in 200 l.|B
+RW/CS/326|2002|far field i w|07-May-2002|Sulphur Gold 30% N, 7.6% S at 333 kg.|B
+RW/CS/326|2002|far field i w|07-May-2002|Sulphur Gold 30% N, 7.6% S at 333 kg|B
+RW/CS/326|2002|far field i w|27-May-2002|Opus at 0.75 1 in 200 l.|B
+RW/CS/326|2002|far field i w|23-Aug-2002|combine harvested plots for yield. swathed straw.|T9
+RW/CS/326|2002|far field i w|30-Aug-2002|sampled, baled and weighed straw.|T
+RW/CS/326|2002|far field i w|31-Aug-2002|baled and removed straw.|B
+RW/CS/326|2003|great knott iii r|14-Aug-2002|Straw treatment applied.|T
+RW/CS/326|2003|great knott iii r|18-Aug-2002|chopped straw.|T
+RW/CS/326|2003|great knott iii r|17-Sep-2002|ploughed 25 cm furrows.|B
+RW/CS/326|2003|great knott iii r|18-Sep-2002|Combination drilled, Hereward, tr. Sibutol Secur, at 200 seed* with the Accord 2 drill.|B
+RW/CS/326|2003|great knott iii r|24-Sep-2002|Crystal at 4.0 1 in 200 l.|B
+RW/CS/326|2003|great knott iii r|10-Mar-2003|Sulphur Gold at 167 kg.|B:
+RW/CS/326|2003|great knott iii r|10-Mar-2003|Sulphur Gold at 167 kg.|B:
+RW/CS/326|2003|great knott iii r|29-Apr-2003|33.5% N at 448 kg.|B:
+RW/CS/326|2003|great knott iii r|07-May-2003|tm ally at 30 g in 200 l.|B:
+RW/CS/326|2003|great knott iii r|07-May-2003|tm Starane 2 at 0.75 1 in 200 l.|B:
+RW/CS/326|2003|great knott iii r|10-May-2003|tm Opus at 0.5 1 in 200 1.|B:
+RW/CS/326|2003|great knott iii r|10-May-2003|tm mustard at 0.6 1 in 200 l.|B:
+RW/CS/326|2003|great knott iii r|28-May-2003|tm Opus at 0.5 1 in 200 l.|B:
+RW/CS/326|2003|great knott iii r|28-May-2003|tm Twist at 1.01 in 200 l.|B:
+RW/CS/326|2003|great knott iii r|04-Aug-2003|combine harvested discards.|B
+RW/CS/326|2003|great knott iii r|06-Aug-2003|combine harvested plots for yield. ; ||B:
+RW/CS/326|2003|great knott iii r|07-Aug-2003|Straw weighed. BS|T
+RW/CS/326|2003|great knott iii r|07-Aug-2003|combine harvested discards. te|T
+RW/CS/326|2003|far field i w|16-Sep-2002|muriate of potash at 250 kg.|B:
+RW/CS/326|2003|far field i w|19-Sep-2002|CleanCrop great applied at 4.0 1 on 200 1l.|B:
+RW/CS/326|2003|far field i w|23-Sep-2002|Straw treatment applied.|T
+RW/CS/326|2003|far field i w|30-Sep-2002|ploughed 35 cm furrows.|B:
+RW/CS/326|2003|far field i w|30-Sep-2002|rolled.|B:
+RW/CS/326|2003|far field i w|30-Sep-2002|power harrowed.  - B: - drilled, Hereward, tr. Sibutol Secur at 350 seed /m  with the Accord drill.|B:
+RW/CS/326|2003|far field i w|30-Sep-2002|rolled.|B:
+RW/CS/326|2003|far field i w|26-Nov-2002|tm Tolugan extra at 5.0 1 in 200 1.|Bi
+RW/CS/326|2003|far field i w|26-Nov-2002|tm Ardent at 1.0 1 in 200 l.|Bi
+RW/CS/326|2003|far field i w|26-Nov-2002|tm Hallmark with Zeon Technology at 25 ml in 200 l.|Bi
+RW/CS/326|2003|far field i w|24-Mar-2003|Sulphur Gold 30% N, 7.6% S at 167 kg.|B:
+RW/CS/326|2003|far field i w|26-Mar-2003|tm Topik at 125 ml in 200 l.|B:
+RW/CS/326|2003|far field i w|26-Mar-2003|tm Phase II at 1.0 1 in 200 l.|B:
+RW/CS/326|2003|far field i w|O2-May-19O3|Sulphur Gold 30% N, 7.6% S at 333 kg.|B:
+RW/CS/326|2003|far field i w|07-May-2003|tm ally at 30 g in 200 l. > Bo - tm Starane 2 at 0.75 1 in 200 l.|B:
+RW/CS/326|2003|far field i w|07-May-2003|tm Unix at 0.4 kg in 200 l.|B:
+RW/CS/326|2003|far field i w|07-May-2003|tm Acanto at 0.5 1 in 200 1.|B:
+RW/CS/326|2003|far field i w|09-Jun-2003|Landmark at 0.75 1 in 200 l.|B:
+RW/CS/326|2003|far field i w|09-Aug-2003|combine harvested plots for yield and discards|T
+RW/CS/326|2003|far field i w|11-Aug-2003|sampled, baled and weighed straw.|T9
+RW/CS/326|2003|far field i w|19-Aug-2003|CleanCrop great at 4.0 1 in 200 l.|B
+RW/CS/326|2003|far field i w|29-Aug-2003|chopped straw.|B
+RW/CS/326|2004|great knott iii r|18-Aug-2003|Straw treatment applied.|T
+RW/CS/326|2004|great knott iii r|18-Aug-2003|chopped straw.|T
+RW/CS/326|2004|great knott iii r|24-Sep-2003|ploughed 35 cm furrows.|B:
+RW/CS/326|2004|great knott iii r|25-Sep-2003|Cultipress|B:
+RW/CS/326|2004|great knott iii r|27-Sep-2003|Cultipress|B
+RW/CS/326|2004|great knott iii r|27-Sep-2003|Combination drilled, Hereward, tr. Sibutol Secur, at  350 seed* with the Accord drill.|B
+RW/CS/326|2004|great knott iii r|21-Oct-2003|Watex at 5 kg.|:
+RW/CS/326|2004|great knott iii r|O7-Nov-2003|at 4.0 1 in 200 1.|:
+RW/CS/326|2004|great knott iii r|17-Mar-2004|Sulphur Gold at 167 kg. (50 kg N).|B:
+RW/CS/326|2004|great knott iii r|09-Apr-2004|>: tm Topik at 0.125 1 in 100 l.|B
+RW/CS/326|2004|great knott iii r|09-Apr-2004|tm Amber at 0.5 1 in 100 l.|B
+RW/CS/326|2004|great knott iii r|17-Apr-2004|tm ally at 30 g in 200 l.|B:
+RW/CS/326|2004|great knott iii r|17-Apr-2004|tm Starane XL at 1.5 1 in 200 1.|B:
+RW/CS/326|2004|great knott iii r|06-May-2004|Sulphur Gold at 467 kg. (140 kg N).|B
+RW/CS/326|2004|great knott iii r|13-May-2004|tm Opus at 0.75 1 in 200 l. >|B:
+RW/CS/326|2004|great knott iii r|13-May-2004|>: tm Moddus at 0.15 1 in 200 1.|B:
+RW/CS/326|2004|great knott iii r|13-Jun-2004|Folicur at 0.7 1 in 200 l.|:
+RW/CS/326|2004|great knott iii r|13-Jun-2004|> tm mustard at 0.5 1 in 200 1.|:
+RW/CS/326|2004|great knott iii r|13-Jun-2004|>: tm Hallmark with Zeon Technology at 50 ml in 200 l.|:
+RW/CS/326|2004|great knott iii r|31-Aug-2004|; combine harvested plots for yield.|B
+RW/CS/326|2004|great knott iii r|31-Aug-2004|Straw baled and weighed. a|B
+RW/CS/326|2004|far field i w|19-Aug-2003|CleanCrop great applied at 4.0 1 on 200 l.|B:
+RW/CS/326|2004|far field i w|29-Aug-2003|Straw treatment applied.|:
+RW/CS/326|2004|far field i w|29-Sep-2003|of potash at 250 kg.|:
+RW/CS/326|2004|far field i w|05-Oct-2003|ploughed 30 cm furrows.|B:
+RW/CS/326|2004|far field i w|06-Oct-2003|; Cultipress|B
+RW/CS/326|2004|far field i w|07-Oct-2003|Consort, tr. Sibutol Secur at 300 seed with the Accord drill.|-
+RW/CS/326|2004|far field i w|17-Dec-2003|tm alone 500 at 3.5 1 in 200 1.|B
+RW/CS/326|2004|far field i w|17-Dec-2003|tm Treflan at 1.5 1 in 200 l.|B
+RW/CS/326|2004|far field i w|12-Mar-2004|tm Cutonic cropped Ultra at 0.25 1 in 200 l.|B:
+RW/CS/326|2004|far field i w|12-Mar-2004|tm Aventis Manganese 500 at 1.5 1 in 200 l.|B:
+RW/CS/326|2004|far field i w|18-Mar-2004|Sulphur Gold 30% N, 7.6% S at 167 kg.|B:
+RW/CS/326|2004|far field i w|29-Mar-2004|Duplosan KV at 1.0 1 in 200 l. ||B
+RW/CS/326|2004|far field i w|19-Apr-2004|>: tm ally at 30 g in 200 l.|B
+RW/CS/326|2004|far field i w|19-Apr-2004|tm Oxytril 24/16 at 0.5 1 in 200 l.|B
+RW/CS/326|2004|far field i w|19-Apr-2004|tm Phase II at 1.0 1 in 200 l.|B
+RW/CS/326|2004|far field i w|03-May-2004|Sulphur Gold 30% N, 7.6% S at 467 kg.|B:
+RW/CS/326|2004|far field i w|03-Jun-2004|tm Opus at 0.5 1 in 200 l. >|B:
+RW/CS/326|2004|far field i w|03-Jun-2004|tm Twist at 0.75 1 in 200 l.|B:
+RW/CS/326|2004|far field i w|05-Jul-2004|> Aphox at 280 g in 200 l.|B
+RW/CS/326|2004|far field i w|05-Sep-2004|combine harvested plots for yield : swathed straw|:
+RW/CS/326|2004|far field i w|07-Sep-2004|sampled, baled and weighed straw.|T
+RW/CS/326|2005|great knott iii r|02-Sep-2004|Straw treatment applied.|:
+RW/CS/326|2005|great knott iii r|07-Sep-2004|chopped straw.|T
+RW/CS/326|2005|great knott iii r|21-Sep-2004|ploughed 35 cm furrows.|B:
+RW/CS/326|2005|great knott iii r|22-Sep-2004|Cultipress|B
+RW/CS/326|2005|great knott iii r|27-Sep-2004|Combination drilled, Hereward, tr. Sibutol Secur, at 350 seed* with the Accord drill, rolled.|B:
+RW/CS/326|2005|great knott iii r|O5-Nov-2004|tm Claymore at 3.3 1 in 200 l.|B
+RW/CS/326|2005|great knott iii r|O5-Nov-2004|tm Aplha IPU 500 at 2.5 1 in 200 l.  >|B
+RW/CS/326|2005|great knott iii r|O5-Nov-2004|tm Hallmark with Zeon Technology at 50 ml in 200 l.|B
+RW/CS/326|2005|great knott iii r|19-Mar-2005|tm Duplosan KV at 1.5 1 in 200 1.|B
+RW/CS/326|2005|great knott iii r|19-Mar-2005|tm plants at 0.4 1 in 200 l.  7|B
+RW/CS/326|2005|great knott iii r|19-Mar-2005|tm power at 1.0 1 in 200 l.|B
+RW/CS/326|2005|great knott iii r|03-Apr-2005|Sulphur Gold at 167 kg. (50 kg N).|B
+RW/CS/326|2005|great knott iii r|30-Apr-2005|34.5% N at 406 kg. (140 kg N).|B:
+RW/CS/326|2005|great knott iii r|27-May-2005|tm Opus at 0.75 1 in 200 l.|B
+RW/CS/326|2005|great knott iii r|27-May-2005|tm Twist at 0.8 1 in 200 l.|B
+RW/CS/326|2005|great knott iii r|27-May-2005|tm Starane 2 at 0.75 1 in 200 l.|B
+RW/CS/326|2005|great knott iii r|17-Aug-2005|combine harvested plots for yield, combined discards, swathed straw and weighed.|B:
+RW/CS/326|2005|far field i w|07-Sep-2004|Straw treatment applied.|T
+RW/CS/326|2005|far field i w|26-Sep-2004|glyphosate 360 at 4.0 1 in 200 l.|B
+RW/CS/326|2005|far field i w|02-Oct-2004|ploughed 35 cm furrows.|B:
+RW/CS/326|2005|far field i w|02-Oct-2004|power harrowed, drilled, Hereward, tr. Sibutol Secur  at 350 seed* with the Accord drill.|B:
+RW/CS/326|2005|far field i w|14-Nov-2004|tm Claymore at 2.5 1 in 200 l.|B
+RW/CS/326|2005|far field i w|14-Nov-2004|tm Aplha IPU 500 at 2.5 1 1n 200 l.|B
+RW/CS/326|2005|far field i w|14-Nov-2004|tm Hallmark with Zeon Technology at 50 ml in 200 1.|B
+RW/CS/326|2005|far field i w|09-Apr-2005|Sulphur Gold 30% N, 7.6% S at 167 kg. | )|B
+RW/CS/326|2005|far field i w|14-May-2005|Sulphur Gold 30% N, 7.6% S at 467 kg.|B:
+RW/CS/326|2005|far field i w|15-May-2005|tm Opus at 0.75 1 in 200 l.|B:
+RW/CS/326|2005|far field i w|15-May-2005|tm mustard Opti at 1.5 1 in 200 l.|B:
+RW/CS/326|2005|far field i w|15-May-2005|tm Starane 2 at 0.5 1 in 200 l. ||B:
+RW/CS/326|2005|far field i w|09-Jun-2005|tm mustard at 0.3 1 in 200 l.|B:
+RW/CS/326|2005|far field i w|09-Jun-2005|tm Opus at 0.5 1 in 200 l.|B:
+RW/CS/326|2005|far field i w|02-Sep-2005|combine harvested plots for yield, combined discards, swathed straw, sampled, baled and weighed  straw.|T
+RW/CS/326|2006|great knott iii r|18-Aug-2005|Straw treatment applied, baled remaining straw.|T
+RW/CS/326|2006|great knott iii r|26-Sep-2005|ploughed 35 cm furrows.|B
+RW/CS/326|2006|great knott iii r|28-Sep-2005|Cultipress, combination drilled, Hereward, tr. Sibutol Secur, at 350 seed, rolled.|B:
+RW/CS/326|2006|great knott iii r|03-Oct-2005|; Crystal at 4.0 1 in 200 l.|B
+RW/CS/326|2006|great knott iii r|05-Dec-2005|Hallmark with Zeon Technology at 50 ml in 200 l.|B
+RW/CS/326|2006|great knott iii r|15-Mar-2006|Double top at 185 kg. (50 kg N).|B
+RW/CS/326|2006|great knott iii r|21-Apr-2006|tm Opus at 0.75 1 in 200 l.|B
+RW/CS/326|2006|great knott iii r|21-Apr-2006|tm Bravo 500 at 1.01 rain 200 l.|B
+RW/CS/326|2006|great knott iii r|21-Apr-2006|tm Flexity at 0.2 1 in 200 l.|B
+RW/CS/326|2006|great knott iii r|24-Apr-2006|Double top at 435 kg. (140 kg N).|B
+RW/CS/326|2006|great knott iii r|16-May-2006|tm ally Max SX at 42 g in 200 l. >|B
+RW/CS/326|2006|great knott iii r|16-May-2006|tm Starane 2 at 0.75 1 in 200 l.|B
+RW/CS/326|2006|great knott iii r|O2-Jun-2006|tm Opus at 0.75 1 in 200 l.|B
+RW/CS/326|2006|great knott iii r|O2-Jun-2006|; tm Bravo 500 at 1.0 1 in 200 l.  :|B
+RW/CS/326|2006|great knott iii r|O2-Jun-2006|tm Vivid at 0.4 1 in 200 l.|B
+RW/CS/326|2006|great knott iii r|16-Aug-2006|combine harvested plots for yield, combined discards, swathed straw, sample and weighed.|B
+RW/CS/326|2006|far field i w|07-Sep-2005|Straw treatment applied. remaining straw baled and removed.|T
+RW/CS/326|2006|far field i w|22-Sep-2005|>: Azural at 3.0 1 in 200 l.|B
+RW/CS/326|2006|far field i w|01-Oct-2005|ploughed 35 cm furrows.|B:
+RW/CS/326|2006|far field i w|08-Oct-2005|>: rolled.|B
+RW/CS/326|2006|far field i w|12-Oct-2005|Combination drilled, Hereward, tr. Sibutol Secur at 350 seed* with the Accord drill.|B:
+RW/CS/326|2006|far field i w|14-Oct-2005|rolled.|B:
+RW/CS/326|2006|far field i w|13-Nov-2005|tm Alpha IPU 500 at 2.0 1 in 200 l. >|B
+RW/CS/326|2006|far field i w|13-Nov-2005|tm Hallmark with Zeon Technology at 50 ml in 200 l.  >|B
+RW/CS/326|2006|far field i w|13-Nov-2005|tm Mantrac 500 at 1.01 in 200 l.  >|B
+RW/CS/326|2006|far field i w|13-Nov-2005|>: tm Stomp 40 SC at 2.5 1 in 200 l.|B
+RW/CS/326|2006|far field i w|17-Mar-2006|N Sulphur 30% N, 7.6% S at 185 kg.|B:
+RW/CS/326|2006|far field i w|O7-Apr-2006|tm Pacifica at 0.4 kg in 200 l.|B
+RW/CS/326|2006|far field i w|O7-Apr-2006|tm power at 1.01 in 200 l.|B
+RW/CS/326|2006|far field i w|O7-Apr-2006|tm Duplosan KV at 2.01 in 200 1.|B
+RW/CS/326|2006|far field i w|O7-Apr-2006|>: tm power at 1.01 in 200 1.|B
+RW/CS/326|2006|far field i w|24-Apr-2006|tm Opus at 0.75 1 in 200 1.|B:
+RW/CS/326|2006|far field i w|24-Apr-2006|>: tm Bravo 500 at 1.25 1 in 200 l.|B:
+RW/CS/326|2006|far field i w|24-Apr-2006|tm Mantrac 500 at 1.25 1 in 200 l.|B:
+RW/CS/326|2006|far field i w|25-Apr-2006|Double top 27% N, 12 S at 481 kg.|B
+RW/CS/326|2006|far field i w|16-May-2006|tm Quantum SX at 30 g in 200 1.|B:
+RW/CS/326|2006|far field i w|16-May-2006|tm cropped man at 2.0 1 in 200 1.|B:
+RW/CS/326|2006|far field i w|07-Jun-2006|tm Bravo 500ar at 1.0 1 in 200 l.|B:
+RW/CS/326|2006|far field i w|07-Jun-2006|>: tm Opus at 0.75 1 in 200 l.|B:
+RW/CS/326|2006|far field i w|07-Jun-2006|>: tm Vivid at 0.4 1 in 200 1.|B:
+RW/CS/326|2006|far field i w|27-Aug-2006|combine harvested plots for yield, combined discards, swathed straw, sampled, baled and weighed  straw. ||7T

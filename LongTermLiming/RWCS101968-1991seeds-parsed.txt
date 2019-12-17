@@ -1,0 +1,24 @@
+RW/CS/10|1972|sawyers|I (R) Julia (dressed with Ethirimol) sown at 160 kg.
+RW/CS/10|1972|stackyard|C (¥) Julia (dressed with Ethirimol) sown at 150 kg,
+RW/CS/10|1973|sawyers|I (R) Julia, dressed with Ethirimol, sown at 160 kg. Steckyeré C (W) Julia, dressed with Ethirimol, sown at 160 ke.
+RW/CS/10|1974|sawyers|I (R) and
+RW/CS/10|1974|stackyard|C (W) Pentland Crown,
+RW/CS/10|1975|sawyers|I (R) and
+RW/CS/10|1975|stackyard|C (Wi) oats Manod, sown at 200 ke.
+RW/CS/10|1976|sawyers|I (R) Maris Haplona, sown at 5.6 kee
+RW/CS/10|1976|stackyard|C (W) Maris Haplona, sown at 6.2 kg 120 76/8/CS/10 and 76/4/CS/10
+RW/CS/10|1977|sawyers|I (R) and
+RW/CS/10|1977|stackyard|C (W) Manod, sown at 200 ke. 101
+RW/CS/10|1978|sawyers|I (R) and
+RW/CS/10|1978|stackyard|C (W) Porthos, dressed with Ethirimol, sown at 160 kg.
+RW/CS/10|1981|None|Peniarth, sown at 190 kg (R), 200 kg (Ww). 102 : 81/R/CS/10 and 81/W/CS/10
+RW/CS/10|1982|None|Peniarth, sown at 190 kg {R), 200 xg (w).
+RW/CS/10|1983|None|Pentland crop.
+RW/CS/10|1986|sawyers|I (R) Lasko, sown at 190 kg.
+RW/CS/10|1986|stackyard|C (W) Lasko, sown at 160 kg. 90 86/R/CS/10 and 86/W/CS/10
+RW/CS/10|1987|sawyers|I (R) Vladimir, sown at 260 kg.
+RW/CS/10|1987|stackyard|C (W) Vladimir, sown at 250 kg.
+RW/CS/10|1988|None|Antares, dressed iprodione and benomyl, sown at 87 kg (R). Antares, dressed benomyl, sown at 80 kg (W).
+RW/CS/10|1989|None|baled, sown at 200 kg (R & ¥).
+RW/CS/10|1990|None|baled, sown at 260 kg (R), 250 kg (W).
+RW/CS/10|1991|None|Libravo, dressed fenpropimorph, gamma-HCH, and thiram, at 6.0 kg (R & W).

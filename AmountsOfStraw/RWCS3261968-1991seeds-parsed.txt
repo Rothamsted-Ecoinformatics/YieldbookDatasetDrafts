@@ -1,0 +1,5 @@
+RW/CS/326|1987|None|great knott III (R) and far field I (W) Mission, sown at 190 kg.
+RW/CS/326|1988|None|Mission, sown at 180 kg (R), 200 kg (W). 126 88/R/CS/326 and 88/W/CS/326
+RW/CS/326|1989|None|Rendezvous, sown at 180 kg.
+RW/CS/326|1990|None|pastiche, sown at 180 kg.
+RW/CS/326|1991|None|Haven, sown at 190 kg {R), 170 kg (HW).

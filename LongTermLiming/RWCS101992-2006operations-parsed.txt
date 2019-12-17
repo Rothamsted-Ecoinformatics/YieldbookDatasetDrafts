@@ -1,0 +1,84 @@
+RW/CS/10|1992|sawyers i r|25-Aug-1991|Deep-tine cultivated with vibrating times 60 cm apart, 45 cm deep.|B
+RW/CS/10|1992|sawyers i r|26-Aug-1991|ploughed, rolled.|B
+RW/CS/10|1992|sawyers i r|04-Sep-1991|rotary harrowed.|B
+RW/CS/10|1992|sawyers i r|05-Sep-1991|rotary harrowed, Libravo, dressed Hydraguard and Rovral WP, drilled at 6.1 kg, rolled.|B
+RW/CS/10|1992|sawyers i r|06-Sep-1991|Butisan S at 2.5 1 in 200 1.|B
+RW/CS/10|1992|sawyers i r|24-Oct-1991|NK as (25016) at 200 kg.|B
+RW/CS/10|1992|sawyers i r|02-Dec-1991|Vytel Liquid related Magnesium at 2.0 1 in 200 1.|B
+RW/CS/10|1992|sawyers i r|05-Mar-1992|SULPHUR 30 30 kg S as gypsun.|T
+RW/CS/10|1992|sawyers i r|05-Mar-1992|34.5% N at 220 kg.|B
+RW/CS/10|1992|sawyers i r|13-Apr-1992|ploughed (crop failed.|B
+RW/CS/10|1992|stackyard c w|03-Sep-1991|ploughed.|B
+RW/CS/10|1992|stackyard c w|06-Sep-1991|rotary cultivated, Libravo, dressed Hydraguard and Rovral wp, drilled at 6.0 kg, rolled. :|B
+RW/CS/10|1992|stackyard c w|29-Oct-1991|NK as (25016) at 200 kg.|B
+RW/CS/10|1992|stackyard c w|15-Jan-1992|Benazalox at 1.25 kg in 200 1.|B
+RW/CS/10|1992|stackyard c w|05-Mar-1992|SULPHUR 30 30 kg S as gypsum.|2
+RW/CS/10|1992|stackyard c w|06-Mar-1992|34.5% N at 220 kg.|B
+RW/CS/10|1992|stackyard c w|13-May-1992|ploughed (crop failed.|B
+RW/CS/10|1993|sawyers i r|29-Sep-1992|ploughed.|B
+RW/CS/10|1993|sawyers i r|07-Oct-1992|rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg.|B
+RW/CS/10|1993|sawyers i r|13-Oct-1992|Opogard 500 FW at 2.8 1 in 200 1.|B
+RW/CS/10|1993|sawyers i r|16-Apr-1993|SULPHUR 30 30 kg S ae gypsum.|T
+RW/CS/10|1993|sawyers i r|22-Jun-1993|Dimathoate 40 at 1.7 1 in 200 1.|B.
+RW/CS/10|1993|sawyers i r|02-Jul-1993|Mistral at 1.0 1 in 200 1.|B
+RW/CS/10|1993|sawyers i r|02-Jul-1993|Sportak 45 at 1.1 1 in 200 1.|B
+RW/CS/10|1993|sawyers i r|06-Sep-1993|Stefes Diquat at 3.0 1 with Vassgro Spreader at 0.30 1 in 260 1.|B
+RW/CS/10|1993|sawyers i r|10-Oct-1993|combine harvested.|B
+RW/CS/10|1993|stackyard c w|02-Oct-1992|rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg.|B
+RW/CS/10|1993|stackyard c w|12-Oct-1992|Opogard 500 FW at 1.8 1 and Scythe at 3.0 1 in 200 1.|B
+RW/CS/10|1993|stackyard c w|22-Mar-1993|ploughed (crop failed.|B
+RW/CS/10|1993|stackyard c w|08-Jul-1993|rotary cultivated.|B
+RW/CS/10|1994|sawyers i r|16-Oct-1993|ploughed.|B
+RW/CS/10|1994|sawyers i r|19-Oct-1993|disced.|B
+RW/CS/10|1994|sawyers i r|20-Oct-1993|spring-tine cultivated, CH304/70 drilled at 40 seed per m.|B
+RW/CS/10|1994|sawyers i r|26-Oct-1993|Opogard 500 FW at 2.8 1 in 200 1.|B
+RW/CS/10|1994|sawyers i r|16-Feb-1994|Atlas Simazine at 1.0 1 in 200 1.|B
+RW/CS/10|1994|sawyers i r|13-Jun-1994|SULPHUR 30 30 kg S as gypsum.|T
+RW/CS/10|1994|sawyers i r|06-Sep-1994|Barclay Gallup at 4.0 1 in 200 1.|B
+RW/CS/10|1994|stackyard c w|16-Sep-1993|ploughed.|B
+RW/CS/10|1994|stackyard c w|24-Sep-1993|rotary harrowed, CH304/70 drilled at 40 seed per m’.|B
+RW/CS/10|1994|stackyard c w|18-Feb-1994|Atlas Simazine at 1.0 1 in 200 1.|B
+RW/CS/10|1994|stackyard c w|10-Mar-1994|SULPHUR 30 30 kg S as gypsum.|T
+RW/CS/10|1994|stackyard c w|09-May-1994|Sportak 45 at 1.5 1 in 200 1.|B
+RW/CS/10|1995|sawyers i r|06-Sep-19S4|Barclay Gallup at 4.0 1 in 200 1.|B
+RW/CS/10|1995|sawyers i r|12-Sep-1994|topped.|B
+RW/CS/10|1995|sawyers i r|14-Sep-1994|ploughed.|B
+RW/CS/10|1995|sawyers i r|29-Sep-1994|disced, heavy spring-tine cultivated.|B
+RW/CS/10|1995|sawyers i r|30-Sep-1994|rotary harrowed, Genesis, dressed Rappor, drilled at 380 seed per m.|B
+RW/CS/10|1995|sawyers i r|24-Nov-1994|Alpha Isoproturon 500 at 2.5 1 with Stomp 400 at 2.5 1 in 200 1.|B
+RW/CS/10|1995|sawyers i r|13-Apr-1995|34.5% N at 435 kg.|B
+RW/CS/10|1995|sawyers i r|01-May-1995|SULPHUR 30 Gypsum {17.5% S) at 171 kg.|T
+RW/CS/10|1995|sawyers i r|10-May-1995|Halo at 2.0 1 in 200 1.|B
+RW/CS/10|1995|sawyers i r|16-Jun-1995|Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.|B
+RW/CS/10|1995|sawyers i r|02-Aug-1995|combine harvested.|B
+RW/CS/10|1995|stackyard c w|23-Sep-1994|ploughed|B
+RW/CS/10|1995|stackyard c w|30-Sep-1994|rotary harrowed, Genesis, dressed Rappor, drilled at 300 seed per m. rolled.|B
+RW/CS/10|1995|stackyard c w|28-Nov-1994|Pointer at 2.0 1 with Dec at 0.20 1 in 200 1.|B
+RW/CS/10|1995|stackyard c w|13-Mar-1995|SULPHUR 30 Gypsum (17.5% S) at 171 kg.|T
+RW/CS/10|1995|stackyard c w|15-Mar-1995|34.5% N at 116 kg.|B
+RW/CS/10|1995|stackyard c w|21-Apr-1995|34.5% N at 348 kg.|B
+RW/CS/10|1995|stackyard c w|28-Apr-1995|Halo at 2.0 1 in 200 1.|B
+RW/CS/10|1995|stackyard c w|01-Jun-1995|Cyclone at 1.0 1 with Mallard at 0.3 1 in 200 1.|B
+RW/CS/10|1995|stackyard c w|30-Sun-1995|primicarb 50 DG at 280 ¢ in 300 1.|B
+RW/CS/10|1995|stackyard c w|04-Aug-1995|combine harvested. N.B. At Rothamsted, Chalk 0 plots failed, and have beet omitted from the  analyses.  95/R/CS/10 Sawyers I (R) ‘  grain TONNES/HECTARE  ***** bales of beans *****  P - Pi P2 P3 man  Chalk  15 $.397 6.84 4327 7.15 6.81  24.5 735 7.27 8.17 8.26 7.76  52.5 6.80 7.88 8.20 8.46 7.83  man 6.71 7.33 7.88 7.96 7.47  52|B
+RW/CS/10|1996|sawyers i r|10-Aug-1995|Straw baled.|B
+RW/CS/10|1996|sawyers i r|22-Aug-1995|subsoiler.|B
+RW/CS/10|1996|sawyers i r|25-Sep-1995|ploughed.|B
+RW/CS/10|1996|sawyers i r|28-Sep-1995|rotary harrowed, Hereward, dressed Panoctine, drilled at 380 seed per m*.|B
+RW/CS/10|1996|sawyers i r|11-Mar-1996|34.5% N at 116 kg.|B
+RW/CS/10|1996|sawyers i r|09-Apr-1996|SULPHUR 30 Gypsum (17.5% S) at 171 kg.|T
+RW/CS/10|1996|sawyers i r|15-Apr-1996|34.5% N at 463 kg.|B
+RW/CS/10|1996|sawyers i r|26-Apr-1996|ally at 30 g with Cheetah Super at 1.25 1 and Barclay Holdup at 2.3 1 in 200 1.|B
+RW/CS/10|1996|sawyers i r|13-Jun-1996|Alto 100 SL at 0.6 1 with Mallard 750 Ec at 0.4 1 in 300 1. ¥|B
+RW/CS/10|1996|sawyers i r|09-Aug-1996|combine harvested.|B
+RW/CS/10|1996|stackyard c www|25-Aug-1995|subsoiler.|B
+RW/CS/10|1996|stackyard c www|19-Sep-1995|ploughed.|B
+RW/CS/10|1996|stackyard c www|23-Sep-1995|rolled.|B
+RW/CS/10|1996|stackyard c www|03-Oct-1995|rotary harrowed, Hereward, dressed Sibutol, drilled at 375 seed per m*.|B
+RW/CS/10|1996|stackyard c www|13-Nov-1995|Pointer at 2.0 1 in 200 1.|B
+RW/CS/10|1996|stackyard c www|13-Mar-1996|34.5% N at 116 kg.|B
+RW/CS/10|1996|stackyard c www|19-Mar-1996|SULPHUR 30 Gypsum (17.5% S) at 171 kg.|T
+RW/CS/10|1996|stackyard c www|16-Apr-1996|34.5% N at 348 kg.|B
+RW/CS/10|1996|stackyard c www|30-Apr-1996|Halo at 1.5 1 in 200 1.|B
+RW/CS/10|1996|stackyard c www|06-Jun-1996|Silvacur at 1.0 1 in 300 1.|B
+RW/CS/10|1996|stackyard c www|19-Aug-1996|combine harvested.|8

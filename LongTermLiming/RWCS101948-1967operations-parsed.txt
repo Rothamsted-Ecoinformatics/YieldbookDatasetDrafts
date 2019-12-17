@@ -1,0 +1,79 @@
+RW/CS/10|1962|sawyers i|17-Nov-1961||diary record|(x) ploughed
+RW/CS/10|1962|sawyers i|5-Mar-1962||diary record|ground Chalk applied
+RW/CS/10|1962|sawyers i|14-Mar-1962||diary record|rotary cultivated
+RW/CS/10|1962|sawyers i|15-Mar-1962||diary record|Superphosphate and muriate of potash applied
+RW/CS/10|1962|sawyers i|16-Mar-1962||diary record|seed drilled at 200 lb per acre
+RW/CS/10|1962|sawyers i|11-Apr-1962||diary record|sprayed with simazine at 1 1b in 40 gallons per acre
+RW/CS/10|1962|sawyers i|6-July-1962||diary record|sprayed with dematon mathyl at 6 fluid oz in 60 gallons per acre
+RW/CS/10|1962|sawyers i|20-Sept-1962||diary record|combine harvested
+RW/CS/10|1962|sawyers i|||variety|Tick 30B. Previous crop potatoes and fallow 1960 potatoes and fallow 1961
+RW/CS/10|1962|stackyard series c|24-Nov-1961||diary record|(W) ploughed
+RW/CS/10|1962|stackyard series c|9-Mar-1962||diary record|ground Chalk applied
+RW/CS/10|1962|stackyard series c|15-Mar-1962||diary record|Superphosphate and muriate of potash applied
+RW/CS/10|1962|stackyard series c|19-Mar-1962||diary record|seed drilled at 200 1b per acre
+RW/CS/10|1962|stackyard series c|12-Apr-1962||diary record|sprayed with simazine at 1 1b in 40 gallons per acre
+RW/CS/10|1962|stackyard series c|12-July-1962||diary record|sprayed with dematon mathyl at 6 fluid oz in 60 gallons per acre
+RW/CS/10|1962|stackyard series c|20-Sept-1962||diary record|combine harvested
+RW/CS/10|1962|stackyard series c|||variety|Tick 30B. Previous crop barley 1960 sugar beet 1961
+RW/CS/10|1963|sawyers i|4-Dec-1962||diary record|(R) ground Chalk applied at 1 ton per acre to 'C’ plots
+RW/CS/10|1963|sawyers i|27-Mar-1963||diary record|196. ploughed
+RW/CS/10|1963|sawyers i|3-Apr-1963||diary record|ground Chalk applied at 1 ton per acre to 'C’ plots April. Superphosphate and muriate of potash applied
+RW/CS/10|1963|sawyers i|18-Apr-1963||diary record|seed drilled at 200 lb per acre Ae 8 sprayed with simzine at 1 1b in © gallons per acre
+RW/CS/10|1963|sawyers i|14-June-1963||diary record|sprayed with demeton-s-methyl at 6 fluid oz in 40 ion per acre
+RW/CS/10|1963|sawyers i|18-Oct-1963||diary record|combine harvested
+RW/CS/10|1963|sawyers i|||variety|Tick SB. Previous crop potatoes and fallow 1960 potatoes and fallow 1961
+RW/CS/10|1963|stackyard series c|12-Oct-1962||diary record|(W) ploughed
+RW/CS/10|1963|stackyard series c|19-Oct-1962||diary record|19%. ground Chalk applied at 0.75 ton per acre to 'B' plot and at 1.5 ton per acre to 'C’ plots
+RW/CS/10|1963|stackyard series c|27-Mar-1963||diary record|Superphosphate and muriate of potash applied Mr 13 1963. seed drilled at 200 lb per acre
+RW/CS/10|1963|stackyard series c|8-Apr-1963||diary record|sprayed with simzine at 1 1b in © gallons per acre
+RW/CS/10|1963|stackyard series c|13-June-1963||diary record|sprayed with demeton-s-methyl at 6 fluid oz in 4 gallons per acre
+RW/CS/10|1963|stackyard series c|21-Sept-1963||diary record|combine harvested
+RW/CS/10|1963|stackyard series c|||variety|Tick 305. Previous crop barley 1960 sugar beet 194
+RW/CS/10|1964|sawyers i|14-Nov-1963||diary record|(R) ploughed
+RW/CS/10|1964|sawyers i|15-Feb-1964||diary record|fertilizers applied
+RW/CS/10|1964|sawyers i|6-Mar-1964||diary record|seed drilled at 200 lb
+RW/CS/10|1964|sawyers i|13-Mar-1964||diary record|sprayed with simazine at 1 1b in 40 gals
+RW/CS/10|1964|sawyers i|25-Aug-1964||diary record|combine harvested
+RW/CS/10|1964|sawyers i|||variety|spring Tick
+RW/CS/10|1964|stackyard series c|1-Nov-1963||diary record|(W) ploughed
+RW/CS/10|1964|stackyard series c|8-Nov-1963||diary record|fertilizers applied and seed drilled* at 200 lb
+RW/CS/10|1964|stackyard series c|9-Nov-1963||diary record|sprayed with simazine at 1 lb in 40 gals
+RW/CS/10|1964|stackyard series c|13-Mar-1964||diary record|seed drilled* at 200 lb
+RW/CS/10|1964|stackyard series c|6-Apr-1964||diary record|sprayed with simazine at 1 lb in 40 gals
+RW/CS/10|1964|stackyard series c|25-Aug-1964||diary record|combine harvested
+RW/CS/10|1964|stackyard series c|||variety|spring Tick. The Winter beans failed through bird damage and the spring beans were sown with seedbed Cultivations
+RW/CS/10|1965|sawyers i|18-Sept-1964||diary record|(R) ploughed
+RW/CS/10|1965|sawyers i|1-Mar-1965||diary record|fertilizers applied
+RW/CS/10|1965|sawyers i|17-Mar-1965||diary record|seed drilled at 156 lb
+RW/CS/10|1965|sawyers i|19-May-1965||diary record|sprayed
+RW/CS/10|1965|sawyers i|5-Sept-1965||diary record|combine harvested
+RW/CS/10|1965|sawyers i|||variety|Maris Badger
+RW/CS/10|1965|stackyard series c|14-Oct-1964||diary record|(W) rotary cultivated
+RW/CS/10|1965|stackyard series c|27-Oct-1964||diary record|(W) rotary cultivated
+RW/CS/10|1965|stackyard series c|29-Mar-1965||diary record|196. fertilizers applied, seed drilled at 140 lb
+RW/CS/10|1965|stackyard series c|28-Aug-1965||diary record|sprayed My 11. combined started
+RW/CS/10|1965|stackyard series c|||variety|Maris Badger
+RW/CS/10|1966|sawyers i|10-Jan-1966||diary record|(R) ploughed
+RW/CS/10|1966|sawyers i|20-May-1966||diary record|P and K applied, seed drilled at 160 plot ear 14 sprayed
+RW/CS/10|1966|sawyers i|26-Aug-1966||diary record|combine hervested
+RW/CS/10|1966|sawyers i|||variety|Maris Badger
+RW/CS/10|1966|stackyard series c|16-Sept-1965||diary record|(W) ploughed
+RW/CS/10|1966|stackyard series c|10-Mar-1965||diary record|P and K applied
+RW/CS/10|1966|stackyard series c|11-Mar-1966||diary record|Sulphate of ammonia applied, seed drilled at 1kO lb
+RW/CS/10|1966|stackyard series c|LL-May-1966||diary record|sprayed
+RW/CS/10|1966|stackyard series c|7-June-1966||diary record|Nitro-chalk' applied by main
+RW/CS/10|1966|stackyard series c|8-Sept-1966||diary record|combine harvested
+RW/CS/10|1966|stackyard series c|||variety|Maris Badger
+RW/CS/10|1967|sawyers i|16-Sept-1966||diary record|(R) ploughed
+RW/CS/10|1967|sawyers i|22-Feb-1967||diary record|P and K applied
+RW/CS/10|1967|sawyers i|3-Mar-1967||diary record|seed drilled at 140 lb
+RW/CS/10|1967|sawyers i|12-May-1967||diary record|weedkiller applied
+RW/CS/10|1967|sawyers i|22-Aug-1967||diary record|combine harvested
+RW/CS/10|1967|sawyers i|||variety|Maris Badger
+RW/CS/10|1967|stackyard series c|28-Oct-1966||diary record|(W) aminotriazole and ammonium thiocyanate applied not 27 1966. ploughed
+RW/CS/10|1967|stackyard series c|4-Mar-1967||diary record|P and K applied field 2h, 1967. Sulphate of ammonia applied, seed drilled at 140 lb
+RW/CS/10|1967|stackyard series c|21-Mar-1967||diary record|remainder of sulphate of ammonia applied
+RW/CS/10|1967|stackyard series c|9-May-1967||diary record|TIoxynil/mecoprop applied
+RW/CS/10|1967|stackyard series c|31-May-1967||diary record|TIoxynil/mecoprop applied
+RW/CS/10|1967|stackyard series c|21-Aug-1967||diary record|combine harvested
+RW/CS/10|1967|stackyard series c|||variety|Maris Badger

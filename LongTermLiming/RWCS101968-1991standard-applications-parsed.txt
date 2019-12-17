@@ -1,0 +1,143 @@
+RW/CS/10|1968|sawyers|weedkiller|paraquat at 0.38 lb ion and linuron at 0.75 lb in 36 gals.
+RW/CS/10|1968|sawyers|Fungicide|mancozeb at 1.2 1d in é 37 gals on 3 occasions,
+RW/CS/10|1968|sawyers|insecticide|demeton-s-methyl at
+RW/CS/10|1968|sawyers|insecticide|3.5 02 applied with the second spring of mancozeb,
+RW/CS/10|1968|stackyard|weedkiller|paraquat at 0.38 1b ion and linuron at 0.5 1b in
+RW/CS/10|1968|stackyard|weedkiller|50 gals.
+RW/CS/10|1968|stackyard|Fungicide|mancozeb at 1.2 lb in 38 gals on 3 occasions, insecticide; demeton-s-methyl east
+RW/CS/10|1968|stackyard|Fungicide|3.5 0% applied with the first spring of mancozeb
+RW/CS/10|1968|stackyard|Fungicide|68/C/3.2
+RW/CS/10|1971|sawyers|weedkiller|paraquat at 0.84 kg ion in 225 1, ioxynil octanoate, bromoxynil octanoate and the iso-octyl ester of dichlorprop (Oxytril P’ at 1.41 in a 1)
+RW/CS/10|1971|stackyard|weedkiller|paraquat at 0.56 kg ion in 261 1*, ioxynil at 0.525 kg and mecoprop at 1.58 kg in 2&1 1
+RW/CS/10|1971|stackyard|weedkiller|* treatment CAO PO Kl received 1.12 kg ion in 281 1
+RW/CS/10|1971|stackyard|weedkiller|Cultivations, atc,%- Sawyers I (R) paraquat applied 22 Sept, 1970
+RW/CS/10|1971|stackyard|weedkiller|ploughed 28 Oct
+RW/CS/10|1971|stackyard|weedkiller|P and K applied 3 Mar, 1971
+RW/CS/10|1973|sawyers|manures|90 kg N as 'Nitro-chalk' combine drilled, aatt MCPA, mecoprop and Dicamba (Banlene Plus’ at 5.6 1 in 2201)
+RW/CS/10|1973|stackyard|manures|130 kg N as Nitro-chalk' broadcast Beret owing,
+RW/CS/10|1973|stackyard|weedkiller|ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 280 1, 73/R/CS/10 and 73/W/cs/10
+RW/CS/10|1974|sawyers|manures|190 kg has 'Nitro-chalk.
+RW/CS/10|1974|sawyers|weedkiller|Linuron at 1.2 ke plus paraquat at 0.42 kg ion in 450 1.
+RW/CS/10|1974|sawyers|Fungicide|and
+RW/CS/10|1974|sawyers|insecticide|mancozeb at 1.3 kg plus demeton-s-methyl at 0.25 kg in 4so 1.
+RW/CS/10|1974|sawyers|Fungicide|mancozeb at 1.3 kg in 450 1
+RW/CS/10|1974|stackyard|manures|250 kg N as 'Nitro-chalk,
+RW/CS/10|1974|stackyard|weedkiller|aminotriazole at 4.5 kg plus ammonium thiocyanate at 4.1 kg in 370 1
+RW/CS/10|1974|stackyard|weedkiller|Linuron at 1.2 ke plus paraquat at 0.28 kg ion in 280 1,
+RW/CS/10|1974|stackyard|Fungicide|and
+RW/CS/10|1974|stackyard|insecticide|mancozeb at 1.3 kg plus demeton-s-methyl at 0.25 kg in 450 1.
+RW/CS/10|1974|stackyard|Fungicide|mancozeb at 1.3 kg in 450 1
+RW/CS/10|1975|sawyers|manures|€0 kg N as Nitro-chalk* combine drilled,
+RW/CS/10|1975|sawyers|weedkiller|Dec Dicenbs with mecoprop and MCPA (Banlene Plus’ at 5.6 1 in 220 1)
+RW/CS/10|1975|stackyard|manures|6 kg N as Nitro-chalk combine drilled.
+RW/CS/10|1975|stackyard|weedkiller|ioxynil at 0.52 kg with mecoprop at 1.6 kg in 26 1
+RW/CS/10|1976|sawyers|manures|N at 170 kg.
+RW/CS/10|1976|sawyers|weedkiller|paraquat at 0.56 ke for in 220 l
+RW/CS/10|1976|stackyard|manures|N at 170 ke
+RW/CS/10|1977|sawyers|manures|N at 80 kg, combine drilled.
+RW/CS/10|1977|sawyers|weedkiller|Dicamba with mecoprop and MCPA (Banlene Plus?	? at 4.9 1 in 220 1)
+RW/CS/10|1977|stackyard|manures|N at 95 kg, combine drilled.
+RW/CS/10|1977|stackyard|weedkiller|ioxynil
+RW/CS/10|1977|stackyard|weedkiller|at 0.53 kg plus mecoprop at 1.6 kg in 420 1
+RW/CS/10|1978|sawyers|manures|N at 80 kg, combine drilled.
+RW/CS/10|1978|sawyers|weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus’ at 4.9 1 in 220 1)
+RW/CS/10|1978|stackyard|manures|N at 130 kg, combine drilled.
+RW/CS/10|1978|stackyard|weedkiller|paraquat
+RW/CS/10|1978|stackyard|weedkiller|at 0.56 kg ion in 220 1
+RW/CS/10|1978|stackyard|weedkiller|mecoprop, bromoxynil and ioxynil ('Brittox’ at 2.5 kg in 280 1).
+RW/CS/10|1978|stackyard|Fungicide|Tridemorph at 0.53 kg in 280 1
+RW/CS/10|1978|stackyard|Fungicide|note paraquat has applied on Stackyard C (W) as a Sept treatment to control area of couch grass (Agropyron repens)
+RW/CS/10|1978|stackyard|Fungicide|78/R/CS/10 and 78/W/CS/10
+RW/CS/10|1981|sawyers|manures|N at 80 kg as Nitro-chalk' combine drilled, K at 120 kg as muriate of potash, Mg at 100 kg as kieserite.
+RW/CS/10|1981|sawyers|weedkiller|Dicamba, mecoprop and MCPA (as ‘Herrisol' at 5.0 1) in 250 1
+RW/CS/10|1981|stackyard|manures|N at 80 kg as 'Nitro-chalk, K at 120 kg as muriate of potash Mg at 100 kg as kieserite.
+RW/CS/10|1981|stackyard|weedkiller|Dicamba, mecoprop and MCPA (as Banlene Plus’ at 4.9 1) in 280 1 with the Fungicide.
+RW/CS/10|1981|stackyard|Fungicide|Tridemorph at 0.53 1
+RW/CS/10|1982|sawyers|manures|N at 30 kg as 'Nitro-chalk' combine drilled, K at 120 kg as muriate of potash, Mg at 40 kg as kieserite.
+RW/CS/10|1982|sawyers|weedkiller|Dicamba, mecoprop and MCPA (as 'Banlene Plus’ at 5.0 1) in 250 1
+RW/CS/10|1982|stackyard|manures|N at 80 kg as Nitro-chalk, K at 120 kg as muriate of potash, Mg at 40 kg as kieserite.
+RW/CS/10|1982|stackyard|weedkiller|Dicamba, mecoprop and MCPA (as ‘Herrisol’ at 4.9 1) in 280 1
+RW/CS/10|1983|sawyers|manures|N at 250 kg as 'Nitro-chalk, K at 210 kg as muriate of potash, Mg at 40 kg as kieserite.
+RW/CS/10|1983|sawyers|weedkiller|Linuron at 1.0 1 with paraquat at 0.4 kg for in 500 1.
+RW/CS/10|1983|sawyers|Fungicide|mancozeb at 1.4 kg in 250 1 on three occasions
+RW/CS/10|1983|sawyers|Fungicide|fFentin hydroxide at 0.28 kg in 250 1 on five occasions with the
+RW/CS/10|1983|sawyers|insecticide|on the first four occasions.
+RW/CS/10|1983|sawyers|insecticide|primicarb at 0.14 kg
+RW/CS/10|1983|sawyers|insecticide|Haulm desiccant situated BOV at 170 1
+RW/CS/10|1983|sawyers|insecticide|83/R/CS/10 and 83/W/CS/10
+RW/CS/10|1983|stackyard|manures|N at 260 kg as 'Nitro-chalk, K at 210 kg as muriate of potash, Mg at 40 kg as kfeserite.
+RW/CS/10|1983|stackyard|weedkiller|glyphosate at 1.5 kg in 280 1
+RW/CS/10|1983|stackyard|weedkiller|Linuron at 1.0 1 with paraquat at 0.4 kg for in 250 1,
+RW/CS/10|1983|stackyard|Fungicide|mancozeb at 1.4 kg in 250 1 on four occasions with the
+RW/CS/10|1983|stackyard|insecticide|on the first, third and four occasions
+RW/CS/10|1983|stackyard|insecticide|Fentin hydroxfde at 0.28 kg {n 250 1 on four occasions with
+RW/CS/10|1983|stackyard|insecticide|on the first three occasions.
+RW/CS/10|1983|stackyard|insecticide|primicarb at 0.14 kg
+RW/CS/10|1983|stackyard|insecticide|Haulm desiccant Diquat at 0.50 kg for in 250 1
+RW/CS/10|1985|sawyers|manures|(25016) at 450 kg.
+RW/CS/10|1985|sawyers|weedkiller|mecoprop at 1.6 kg with bromoxynil at 0.20 kg and ioxynil at 0.20 kg with
+RW/CS/10|1985|sawyers|Fungicide|in 200 1.
+RW/CS/10|1985|sawyers|Fungicide|Tridemorph at 9.52 kg
+RW/CS/10|1985|stackyard|manures|(25016) at 490 kg,
+RW/CS/10|1985|stackyard|weedkiller|mecoprop at 1.2 kg with bromoxynil] at 0.26 kg and ioxynil at 9.26 kg in 250 1,
+RW/CS/10|1986|sawyers|manures|N at 170 kg as nitrate.
+RW/CS/10|1986|sawyers|weedkiller|glyphosate at 1.4 kg in 200 1
+RW/CS/10|1986|stackyard|manures|N at 190 kg as 'nitrate.
+RW/CS/10|1986|stackyard|weedkiller|Clopyralid at 0.05 kg with bromoxynil octanoate at 0.24 kg and mecoprop at 2.1 kg in 250 |
+RW/CS/10|1987|sawyers|weedkiller|terbutryne at 0.98 kg with terbutryne at 0.42 kg in 200 1.
+RW/CS/10|1987|sawyers|Fungicide|benomyl] at 0.50 kg applied with the
+RW/CS/10|1987|sawyers|insecticide|and a watting agent ('Agral' at 0.06 1) in 200 1}.
+RW/CS/10|1987|sawyers|insecticide|primicarb at 0.14 kg
+RW/CS/10|1987|stackyard|weedkiller|glyphosate at 1.4 kg in 200 1
+RW/CS/10|1987|stackyard|weedkiller|terbutryne at 0.56 kg with terbutryne at 0.24 kg in 240 1.
+RW/CS/10|1987|stackyard|Fungicide|benomyl] at 1.0 kg applied with the primicarb and a watting agent (‘Enhance' at 0.06 1) in 200 1.
+RW/CS/10|1987|stackyard|insecticide|Deltamathrin at 0.038 kg in 200 1
+RW/CS/10|1987|stackyard|insecticide|primicarb at 0.15 kg
+RW/CS/10|1988|sawyers|manures|nitrate at 250 kg
+RW/CS/10|1988|sawyers|manures|muriate of potash at 160 kg
+RW/CS/10|1988|sawyers|manures|Kieserite at 270 kg.
+RW/CS/10|1988|sawyers|weedkiller|Trifluralin at 1.1 kg in 450 1
+RW/CS/10|1988|sawyers|weedkiller|desiccant Diquat 0.60 kg ion applied with a watting agent (’Agral’ at 0.50 1) in 240 1
+RW/CS/10|1988|stackyard|manures|nitrate at 250 kg
+RW/CS/10|1988|stackyard|manures|muriate of potash at 160 kg
+RW/CS/10|1988|stackyard|manures|Kieserite at 110 kg.
+RW/CS/10|1988|stackyard|weedkiller|Trifluralin at 0.84 kg in 200 i
+RW/CS/10|1988|stackyard|weedkiller|Linuron at 0.26 kg in 220 1
+RW/CS/10|1988|stackyard|weedkiller|desiccant Diquat at 0.60 kg ion in 400 1
+RW/CS/10|1989|sawyers|weedkiller|Simazine at 0.17 kg and triatazine at 1.2 kg in 200 1.
+RW/CS/10|1989|sawyers|Fungicide|benomyl] at 0.55 kg in 200 1
+RW/CS/10|1989|sawyers|Fungicide|Fenpropimorph at 0.75 kg in 200 1.
+RW/CS/10|1989|sawyers|insecticide|Deltamathrin at 7.5 ¢g in 400 1 applied on top occasions
+RW/CS/10|1989|sawyers|insecticide|primicarb at 0.14 kg im 200 1
+RW/CS/10|1989|stackyard|weedkiller|Simazine at 0.14 kg and triatazine at 1.0 kg in 220 1, Alloxydim-sodium at 1.5 kg in 220 1.
+RW/CS/10|1989|stackyard|Fungicide|Fenpropimorph at 0.75 kg in 220 1
+RW/CS/10|1989|stackyard|Fungicide|benomyl at 0.55 kg applied with a watting agent in 220 1.
+RW/CS/10|1989|stackyard|insecticide|Deltamathrin at 6.2 g in 220 1 and at 7.5 g in 220 1 on a second occasion
+RW/CS/10|1989|stackyard|insecticide|primicarb at 0.14 kg in 220 1,
+RW/CS/10|1990|sawyers|weedkiller|Simazine at 0.17 kg and triatazine at 1.2 kg in 200 1.
+RW/CS/10|1990|sawyers|insecticide|phorate at 2.2 kg
+RW/CS/10|1990|sawyers|insecticide|Deltamathrin at 7.5 g in 200 1 applied on top occasions
+RW/CS/10|1990|sawyers|insecticide|primicarb at 0.14 kg in 200 1
+RW/CS/10|1990|stackyard|weedkiller|glyphosate at 1.4 kg in 220 1
+RW/CS/10|1990|stackyard|weedkiller|Simazine at 0.14 kg and triatazine at 0.97 kg in 220 1
+RW/CS/10|1990|stackyard|weedkiller|paraquat at 0.60 kg ion.
+RW/CS/10|1990|stackyard|insecticide|phorate at 1.8 kg
+RW/CS/10|1991|sawyers|manures|(25016) at 200 kg
+RW/CS/10|1991|sawyers|manures|nitrate' at 640 kg
+RW/CS/10|1991|sawyers|manures|Magnesium at 0.13 kg as ‘Vytel Liquid Magnesium’ in 200 1
+RW/CS/10|1991|sawyers|manures|Manganese at 0.093 kg as 'Vytel Liquid Manganese’ in 200 1.
+RW/CS/10|1991|sawyers|weedkiller|Matazachlor at 0.75 kg in 200 1
+RW/CS/10|1991|sawyers|weedkiller|Clopyralid at 0.10 kg in 200 1.
+RW/CS/10|1991|sawyers|Fungicide|Prochloraz at 0.50 kg in 200 1 and on a@ second occasion at 0.40 kg in 200 1.
+RW/CS/10|1991|sawyers|insecticide|Deltamathrin at 6.2 g in 200 1 and at 12 g in 200 1 on a second occasion
+RW/CS/10|1991|sawyers|insecticide|desiccant Diquat at 0.60 kg ion applied with watting agent, *Vassgro' at 0.52 1, in 520 1
+RW/CS/10|1991|sawyers|insecticide|Irrigation 25 mm applied on top occasions
+RW/CS/10|1991|stackyard|manures|(25016) at 200 kg
+RW/CS/10|1991|stackyard|manures|Magnesium at 0.13 kg as 'Vytel Liquid Magnesium' in 200 1
+RW/CS/10|1991|stackyard|manures|nitrate' at 580 kq
+RW/CS/10|1991|stackyard|manures|Manganese at 0.078 kg as 'Vytel Liquid Manganese’ in 300 1.
+RW/CS/10|1991|stackyard|weedkiller|Quizalofop-athyl at 38 g with matazachlor at 0.75 kg applied with adjuvant 'spray 11 Feb at 2.0 1 in 220 1.
+RW/CS/10|1991|stackyard|Fungicide|Prochloraz at 0.28 kg applied with the second
+RW/CS/10|1991|stackyard|insecticide|in 200 1.
+RW/CS/10|1991|stackyard|insecticide|Deltamathrin at 6.2 g in 220 1 and on a second occasion east 12 g
+RW/CS/10|1991|stackyard|insecticide|desiccant Diquat at 0.60 kg ion applied with a watting agent, ‘Agral* at 0.40 1, in 400 1
