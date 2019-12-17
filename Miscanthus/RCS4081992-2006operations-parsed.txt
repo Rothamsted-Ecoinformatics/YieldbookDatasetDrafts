@@ -1,0 +1,32 @@
+R/CS/408|1994||02-Feb-1994|Hytane 500 SC at 4.0 1 in 220 1.|B
+R/CS/408|1994||08-Apr-1994|Scythe at 5.0 1 in 220 1.|B
+R/CS/408|1994||06-May-1994|muriate of potash at 233 kg.|B
+R/CS/408|1994||06-May-1994|nitrogen Nl, N2 34.5% N at 174 kg and 348 kg respectively.|B
+R/CS/408|1994||22-Feb-1995|cut|B
+R/CS/408|1995||15-May-1995|muriate of potash at 281 kg.|B
+R/CS/408|1995||15-May-1995|N N1, N2 27% N applied.|T
+R/CS/408|1995||30-Jan-1996|cut.|B
+R/CS/408|1996||23-May-1996|muriate of potash at 233 kg.|B
+R/CS/408|1996||23-May-1996|N N1, N2 34.5% N applied.|T
+R/CS/408|1996||05-Jun-1996|Duplosan new System CMPP at 2.5 1 with Oxytril CM at 0.9 1 in 200 1.|B
+R/CS/408|1996||06-Mar-1997|hand harvested.|B
+R/CS/408|1997||10-Mar-1997|Barclay Gallup at 4.0 1 in 200 1.|B
+R/CS/408|1997||11-Apr-1997|muriate of potash at 281 kg.|B
+R/CS/408|1997||22-May-1997|N N1, N2 34.5% N applied at 174 and 348 kg respectively.|T
+R/CS/408|1997||04-Peb-1998|hand harvested.|B
+R/CS/408|1998||08-May-1998|Dow Shield at 0.5 1 in 220 1, spot treated thistles.|B
+R/CS/408|1998||04-Jun-1998|N N1, N2 34.5% N at 174 and 348 kg respectively.|T
+R/CS/408|1998||16-Jun-1998|muriate of potash at 286 kg.|B
+R/CS/408|1998||01-Feb-1999|hand harvested.|B
+R/CS/408|1999||07-Apr-1999|Decoy at 15 kg.|B:
+R/CS/408|1999||07-Apr-1999|Starane 2 at 1.0 1 in 220 1 eastern 6 m.|B:
+R/CS/408|1999||07-Apr-1999|Starane 2 at 1.0 1 in 400 1 except eastern 6 m.|B:
+R/CS/408|1999||03-Jun-1999|Nl 34.5% N at 174 kg|T
+R/CS/408|1999||03-Jun-1999|N2 34.5% N at 348 kg|T
+R/CS/408|1999||27-Jan-2000|cut.|B:
+R/CS/408|2000||19-May-2000|muriate of potash at 583 kg.|B
+R/CS/408|2000||19-May-2000|Triple superphosphate at 291 kg.|B:
+R/CS/408|2000||25-May-2000|N1 34.5% N at 174 kg.|T
+R/CS/408|2000||25-May-2000|N2 34.5% N at 348 kg.|T
+R/CS/408|2000||16-Jun-2000|Starane 2 at 1.0 1 in 300 1.|B:
+R/CS/408|2000||07-Feb-2001|cut.|B
