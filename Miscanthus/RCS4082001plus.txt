@@ -1,0 +1,29 @@
+
+year Expt    Completion  SEP  Trmt Crop Treatment                                   
+Code  code    Date        Code Code Code Description
+
+2001   CS/408  09-MAY-2001 MA        MI   Muriate of Potash at 291 kg.                
+              06-JUN-2001 N    N1        NITROGEN/60 KG N/HA:  33.5% N AT 179 KG     
+                                         TO N1 PLOTS.                                
+              06-JUN-2001 N    N2        NITROGEN/120 KG N/HA:  33.5% N AT 358 KG    
+                                         TO N2 PLOTS.                                
+              07-JUN-2001 XX        MI   Mowed edges of experiments.                 
+              01-JUL-2001                Note:Soil sampled for mineral N in          
+                                         Spring.                                     
+              10-JAN-2002 Y         MI   Cut and removed non-yield areas.            
+              14-JAN-2002 Y         MI   Cut,sampled and weighed yield areas.        
+              01-FEB-2002                Note:Crop sampled Monthly for Nutrients     
+              01-FEB-2002                Note:Porous cups sampled throughout the     
+                                         winter                                      
+              01-FEB-2002                Note:Stem height measured twice. 
+2002   CS/408  27-MAR-2002 SH        MI   Azural at 3.0 l in 220 l. spot spray        
+                                         plot 5 and dummy.                           
+              16-MAY-2002 SH        MI   Starane 2 at 0.75 l in 200 l.               
+              22-MAY-2002 XX        MI   Note:Cut plot edges with Bandit.            
+              22-MAY-2002 N    -         NITROGEN/NONE                               
+              22-MAY-2002 N    N1        NITROGEN/60 KG N/HA:  33.5% N AT 179 KG     
+                                         TO N1 PLOTS & DUMMY.                        
+              22-MAY-2002 N    N2        NITROGEN/120 KG N/HA:  33.5% N AT 358 KG    
+                                         TO N2 PLOTS.                                
+              10-DEC-2002 Y              Cut discards to open plots, and plot        
+                                         areas.                                      

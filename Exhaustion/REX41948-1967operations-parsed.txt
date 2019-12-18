@@ -1,172 +1,197 @@
-R/EX/4|1949| |3-10-Jan-1949||diary record|late. I ploughed
-R/EX/4|1949| |23-Apr-1949||diary record|springtine for 22 drilled
-R/EX/4|1949| |24-Apr-1949||diary record|Sulphate of ammonia applied, harrowcd and
-R/EX/4|1949| |9-Aug-1949||diary record|all cass Loris, Harvested
-R/EX/4|1949| |UNKNOWN|Dec acre|diary record|Plumage March, me - 1 Basal during 2% cwt sulphate of ammonia
-R/EX/4|1950| |30-Scpt-Aug-1949||diary record|ploughed
-R/EX/4|1950| |14-Oct-1949||diary record|1. springtine
+R/EX/4|1949| |3-Jan-1949|10-Jan-1949|diary record|ploughed
+R/EX/4|1949| |22-Mar-1949||diary record|springtined
+R/EX/4|1949| |23-Mar-1949||diary record|drilled
+R/EX/4|1949| |24-Mar-1949||diary record|Sulphate of ammonia applied, 2.5 cwt/acre, harrowed in
+R/EX/4|1949| |1-Apr-1949||diary record|Rolled
+R/EX/4|1949| |9-Aug-1949||diary record|Harvested
+R/EX/4|1949| |||Variety|Plumage Archer
+R/EX/4|1950| |30-Aug-1949|1-Sept-1949|diary record|ploughed
+R/EX/4|1950| |14-Oct-1949||diary record|springtined
 R/EX/4|1950| |16-Dec-1949||diary record|ploughed
-R/EX/4|1950| |8-Mar-1950||diary record|springtine
-R/EX/4|1950| |11-Mar-1950||diary record|and again
-R/EX/4|1950| |15-Mar-1950||diary record|Sulphate of ammonia drilled liar 13. Harrowed liar 14. seed drilled, harrowed in and rolled
-R/EX/4|1950| |30-May-1950||diary record|Thistlcs cut
+R/EX/4|1950| |8-Mar-1950||diary record|springtined
+R/EX/4|1950| |11-Mar-1950||diary record|springtined
+R/EX/4|1950| |13-Mar-1950||diary record|Sulphate of ammonia drilled
+R/EX/4|1950| |14-Mar-1950||Harrowed
+R/EX/4|1950| |15-Mar-1950||seed drilled, harrowed in and rolled
+R/EX/4|1950| |30-May-1950||diary record|Thistles cut
 R/EX/4|1950| |7-Aug-1950||diary record|Harvested
-R/EX/4|1950| |||variety|Plumage March. j
+R/EX/4|1950| |||variety|Plumage Archer
 R/EX/4|1951| |29-Aug-1950||diary record|ploughed
-R/EX/4|1951| |27-Jan-1951||diary record|and
-R/EX/4|1951| |||diary record|seed drilic
-R/EX/4|1952| |14-and-Sept-1951||diary record|ploughed
-R/EX/4|1952| |31-July-1952||diary record|again Dec-17 1951 seed drilled at 3 bushels per acre, sulphate of ammonia applied field 28. Harvested
-R/EX/4|1952| |||variety|Plumage March
+R/EX/4|1951| |27-Jan-1951||diary record|ploughed
+R/EX/4|1951| |16-Apr-1951||diary record|seed drilled at 3 bushels per acre, sulphate of drilled
+R/EX/4|1951| |3-Sept-1951||harvested
+R/EX/4|1951| |||variety|Plumage Archer
+R/EX/4|1952| |14-Sept-1951||diary record|ploughed
+R/EX/4|1952| |17-Dec-1951||diary record|ploughed
+R/EX/4|1952| |28-Feb-1952||seed drilled at 3 bushels per acre, sulphate of ammonia applied
+R/EX/4|1952| |31-July-1952||diary record|Harvested
+R/EX/4|1952| |||variety|Plumage Archer
 R/EX/4|1953| |4-Sept-1952||diary record|ploughed
-R/EX/4|1953| |26-Feb-1953||diary record|2% cwt sulphate of ammonia per acre applied
+R/EX/4|1953| |26-Feb-1953||diary record|2.5 cwt sulphate of ammonia per acre applied
 R/EX/4|1953| |27-Feb-1953||diary record|seed drilled at 3 bushels per acre
-R/EX/4|1953| |26-May-1953||diary record|sprayed with M.C.P.A. 4. 2 pints per acre
-R/EX/4|1953| |||variety|Plumage March
+R/EX/4|1953| |26-May-1953||diary record|sprayed with M.C.P.A. at 2 pints per acre
+R/EX/4|1953| |||variety|Plumage Archer
 R/EX/4|1954| |2-Sept-1953||diary record|ploughed
-R/EX/4|1954| |21-Oct-1953||diary record|and again
+R/EX/4|1954| |21-Oct-1953||diary record|ploughed
 R/EX/4|1954| |16-Mar-1954||diary record|seed drilled at 3 bushels per acre, sulphate of ammonia applied
 R/EX/4|1954| |28-Aug-1954||diary record|Harvested
-R/EX/4|1954| |||variety|Plumage March
+R/EX/4|1954| |||variety|Plumage Archer
 R/EX/4|1955| |28-Sept-1954||diary record|ploughed
-R/EX/4|1955| |31-Dec-1954||diary record|set dressing of ground Chalk applied to acid area
+R/EX/4|1955| |31-Dec-1954||diary record|1st dressing of ground Chalk applied to acid area
 R/EX/4|1955| |10-Jan-1955||diary record|ploughed
-R/EX/4|1955| |18-Mar-1955||diary record|and dressing of ground Chalk applied
-R/EX/4|1955| |21-Mar-1955||diary record|Nitrochalk applied at 37 cwt per acre
+R/EX/4|1955| |18-Mar-1955||diary record|2nd dressing of ground Chalk applied
+R/EX/4|1955| |21-Mar-1955||diary record|Nitrochalk applied at 3.25 cwt per acre
 R/EX/4|1955| |22-Mar-1955||diary record|seed drilled at 3 bushels per acre
-R/EX/4|1955| |31-Mar-1955||diary record|sprayed with M.C.P.A. at 2% pints in LO gallons per acre
-R/EX/4|1955| |28-July-1955||diary record|part of rain plots lifted with wild oats (Avena autumn) cut and discard
+R/EX/4|1955| |31-Mar-1955||diary record|sprayed with M.C.P.A. at 2.5 pints in 40 gallons per acre
+R/EX/4|1955| |28-July-1955||diary record|parts of certain plots infested with wild oats (Avena autumn) cut and discarded
 R/EX/4|1955| |15-Aug-1955||diary record|Harvested
-R/EX/4|1955| |||variety|Plumage March
+R/EX/4|1955| |||variety|Plumage Archer
 R/EX/4|1956| |12-Sept-1955|23-Sept-1955|diary record|ploughed
-R/EX/4|1956| |21-Nov-1955||diary record|and again
-R/EX/4|1956| |26-Mar-1956||diary record|'Nitro-chalk' applied at 3% cwt per acre
+R/EX/4|1956| |21-Nov-1955||diary record|ploughed
+R/EX/4|1956| |26-Mar-1956||diary record|'Nitro-chalk' applied at 3.5 cwt per acre
 R/EX/4|1956| |3-Apr-1956||diary record|seed drilled at 3 bushels per acre
-R/EX/4|1956| |17-May-1956||diary record|sprayed with MCPA, at 3 note in 40 gallons per acre
+R/EX/4|1956| |17-May-1956||diary record|sprayed with MCPA, at 3 pints in 40 gallons per acre
 R/EX/4|1956| |30-Aug-1956||diary record|Harvested
-R/EX/4|1956| |||variety|Plumage March
-R/EX/4|1957| |26-Sept-1956|27-Sept-1956|diary record|cropped section. ploughed
-R/EX/4|1957| |21-Mar-1957||diary record|seed drilled at 2% bushels per acre
-R/EX/4|1957| |21-Aug-1957||diary record|Harvested
-R/EX/4|1957| |26-Sept-1956|27-Sept-1956|diary record|Plumage sxrcher. fallowed section. ploughed
-R/EX/4|1957| |26-June-1957||diary record|Plumage sxrcher. fallowed section. ploughed
-R/EX/4|1957| |21-Aug-1957||diary record|and
-R/EX/4|1957| |4-May-1957||diary record|sprayed with CAO at 20 1b in 80 gallons per acre
-R/EX/4|1957| |7-June-1957||diary record|and again on
-R/EX/4|1958| |31-Dec-1957||diary record|weather half 1958 cropped section. barley. ploughed
-R/EX/4|1958| |12-Apr-1958||diary record|seed drilled at 5 bushels per acre
-R/EX/4|1958| |17-Apr-1958||diary record|Sulphate of ammonia applied at 2% cut per acre
-R/EX/4|1958| |28-May-1958||diary record|sprayed with CUPP at 6 pints in 40 gallons per acre
-R/EX/4|1958| |7-Sept-1958||diary record|combine harvested
-R/EX/4|1958| |31-Dec-1957||diary record|Plumage March. fallow section. ploughed
-R/EX/4|1958| |16-June-1958||diary record|and
-R/EX/4|1958| |26-Sept-1956||diary record|east half. wl ploughed
-R/EX/4|1958| |29-Apr-1957||diary record|potatoes fertilizers applied, potatoes hand planted
-R/EX/4|1958| |6-July-1958||diary record|earthed up
-R/EX/4|1958| |3-Aug-1958||diary record|sprayed with cropped Fungicide at 5 1b in LO gallons per acre
-R/EX/4|1958| |21-Aug-1958||diary record|and
-R/EX/4|1958| |30-Sept-1958||diary record|Harvested
-R/EX/4|1958| |4-Apr-1958||diary record|Majestic. square beet fertilizers applied
-R/EX/4|1958| |15-Apr-1958||diary record|seed drilled at 12 1b per acre
-R/EX/4|1958| |29-May-1958||diary record|sprayed with miscible DDT at 3 pints in 20 gallons per acre
-R/EX/4|1958| |19-June-1958||diary record|single
-R/EX/4|1958| |9-July-1958||diary record|sprayed with demeton methyl at 12 fluid oz in 80 gallons per acre
-R/EX/4|1958| |7-Nov-1958||diary record|Harvested
-R/EX/4|1958| |4-Apr-1958||diary record|Klein E. Kale seedbed N and PX applied
-R/EX/4|1958| |27-Apr-1958||diary record|seed drilled at 6 1b per acre
-R/EX/4|1958| |28-June-1958||diary record|Thinned
-R/EX/4|1958| |2-July-1958||diary record|nitrogen dressing applied
-R/EX/4|1958| |13-Sept-1958||diary record|and
-R/EX/4|1958| |2-Dec-1958||diary record|Harvested
-R/EX/4|1958| |19-Mar-1958||diary record|Thousand had. spring wheat fertilizers applied
-R/EX/4|1958| |21-Mar-1958||diary record|seed drilled at 3% bushels per acre
-R/EX/4|1958| |19-Aug-1958||diary record|Harvested
-R/EX/4|1958| |18-Mar-1958||diary record|Xoga II. barley fertilizers applied
-R/EX/4|1958| |21-Mar-1958||diary record|seed drilled at 23 bushels per acre
-R/EX/4|1958| |1-Aug-1958||diary record|Harvested
-R/EX/4|1958| |17-Apr-1958||diary record|Plumage March. Swedes fertilizers applied
-R/EX/4|1958| |27-Apr-1958||diary record|seed drilled at 6 1b per acre
-R/EX/4|1958| |21-June-1958||diary record|single
-R/EX/4|1958| |15-Nov-1958||diary record|Harvested
-R/EX/4|1958| |31-Dec-1957||diary record|Filhelmsburger., 1958. ploughed
-R/EX/4|1958| |23-Apr-1958||diary record|as in 1957. potatoes fertilizers applied
-R/EX/4|1958| |25-Apr-1958||diary record|potatoes hand planted
-R/EX/4|1958| |8-July-1958||diary record|earthed up
-R/EX/4|1958| |12-July-1958||diary record|sprayed ¥ times with cropped Fungicide, 5 1b in 40 gallons per acre
-R/EX/4|1958| |6-Aug-1958||diary record|and 3 1b and pints spread in 40 gallons per acre
-R/EX/4|1958| |9-Sept-1958||diary record|and 16 Harvested
-R/EX/4|1958| |14-Apr-1958||diary record|square beet fertilizers applied, seed drilled at 19 1b per acre
-R/EX/4|1958| |6-June-1958||diary record|single
-R/EX/4|1958| |7-July-1958||diary record|sprayed with demeton methyl at 12 fluid oz in 40 gallons per acre
-R/EX/4|1958| |18-Nov-1958||diary record|Harvested
-R/EX/4|1958| |14-Apr-1958||diary record|Kale seedbed N and FX applied
-R/EX/4|1958| |15-Apr-1958||diary record|seed drilled at 3 1b per acre
-R/EX/4|1958| |10-June-1958||diary record|Thinned
-R/EX/4|1958| |5-July-1958||diary record|nitrogen top dressing applied
-R/EX/4|1958| |27-Aug-1958||diary record|and
-R/EX/4|1958| |3-Dec-1958||diary record|Harvested
-R/EX/4|1958| |11-Apr-1958||diary record|spring wheat fertilizers applied
-R/EX/4|1958| |12-Apr-1958||diary record|seed drilled at 3% bushels per acre
-R/EX/4|1958| |1-Sept-1958||diary record|Harvested
-R/EX/4|1958| |11-Apr-1958||diary record|barley fertilizers applied
-R/EX/4|1958| |12-Apr-1958||diary record|seed drilled at 22 bushels per acre
-R/EX/4|1958| |13-Aug-1958||diary record|Harvested
-R/EX/4|1958| |15-May-1958||diary record|Swedes fertilizers applied, seed drilled at 5 1b per acre
-R/EX/4|1958| |10-June-1958||diary record|single
-R/EX/4|1958| |5-Oct-1958||diary record|Harvested
+R/EX/4|1956| |||variety|Plumage Archer
+R/EX/4|1957|cropped section|26-Sept-1956|27-Sept-1956|diary record|ploughed
+R/EX/4|1957|cropped section|21-Mar-1957||diary record|seed drilled at 2.75 bushels per acre
+R/EX/4|1957|cropped section|21-Aug-1957||diary record|Harvested
+R/EX/4|1957| |||variety|Plumage Archer
+R/EX/4|1957|fallowed section|26-Sept-1956|27-Sept-1956|diary record|ploughed
+R/EX/4|1957|fallowed section|26-June-1957||diary record|ploughed
+R/EX/4|1957|fallowed section|21-Aug-1957||diary record|ploughed
+R/EX/4|1957|fallowed section|4-May-1957||diary record|sprayed with TCA at 20 1b in 80 gallons per acre
+R/EX/4|1957|fallowed section|7-June-1957||diary record|sprayed with TCA at 20 1b in 80 gallons per acre
+R/EX/4|1958|western half 1958 cropped section barley|31-Dec-1957||diary record|ploughed
+R/EX/4|1958|western half 1958 cropped section barley|12-Apr-1958||diary record|seed drilled at 2.75 bushels per acre
+R/EX/4|1958|western half 1958 cropped section barley|17-Apr-1958||diary record|Sulphate of ammonia applied at 2.5 cwt per acre
+R/EX/4|1958|western half 1958 cropped section barley|28-May-1958||diary record|sprayed with CMPP at 6 pints in 40 gallons per acre
+R/EX/4|1958|western half 1958 cropped section barley|7-Sept-1958||diary record|combine harvested
+R/EX/4|1958|western half 1958 cropped section barley|||variety|Plumage Archer
+R/EX/4|1958|western half 1958 fallow section|31-Dec-1957||diary record|ploughed
+R/EX/4|1958|western half 1958 fallow section|16-June-1958||diary record|ploughed
+R/EX/4|1958|eastern half 1957 potatoes|26-Sept-1956||diary record|ploughed
+R/EX/4|1958|eastern half 1957 potatoes|29-Apr-1957||diary record|potatoes fertilizers applied, potatoes hand planted
+R/EX/4|1958|eastern half 1957 potatoes|6-July-1958||diary record|earthed up
+R/EX/4|1958|eastern half 1957 potatoes|3-Aug-1958||diary record|sprayed with copper fungicide at 5 1b in 40 gallons per acre
+R/EX/4|1958|eastern half 1957 potatoes|21-Aug-1958||diary record|sprayed with copper fungicide at 5 1b in 40 gallons per acre
+R/EX/4|1958|eastern half 1957 potatoes|30-Sept-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1957 potatoes|||variety|Majestic
+R/EX/4|1958|eastern half 1957 sugar beet||4-Apr-1958||diary record|Majestic. square beet fertilizers applied
+R/EX/4|1958|eastern half 1957 sugar beet|15-Apr-1958||diary record|seed drilled at 12 1b per acre
+R/EX/4|1958|eastern half 1957 sugar beet|29-May-1958||diary record|sprayed with miscible DDT at 3 pints in 20 gallons per acre
+R/EX/4|1958|eastern half 1957 sugar beet|19-June-1958||diary record|singled
+R/EX/4|1958|eastern half 1957 sugar beet|9-July-1958||diary record|sprayed with demeton methyl at 12 fluid oz in 80 gallons per acre
+R/EX/4|1958|eastern half 1957 sugar beet|7-Nov-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1957 sugar beet|||variety|Klein E
+R/EX/4|1958|eastern half 1957 kale|4-Apr-1958||diary record|Kale seedbed N and PK applied
+R/EX/4|1958|eastern half 1957 kale|27-Apr-1958||diary record|seed drilled at 6 1b per acre
+R/EX/4|1958|eastern half 1957 kale|28-June-1958||diary record|Thinned
+R/EX/4|1958|eastern half 1957 kale|2-July-1958||diary record|nitrogen top-dressings applied
+R/EX/4|1958|eastern half 1957 kale|13-Sept-1958||diary record|nitrogen top-dressings applied
+R/EX/4|1958|eastern half 1957 kale|2-Dec-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1957 kale|||variety|Thousand Head
+R/EX/4|1958|eastern half 1957 spring wheat|19-Mar-1958||diary record|fertilizers applied
+R/EX/4|1958|eastern half 1957 spring wheat|21-Mar-1958||diary record|seed drilled at 3.5 bushels per acre
+R/EX/4|1958|eastern half 1957 spring wheat|19-Aug-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1957 spring wheat|||variety|Koga II
+R/EX/4|1958|eastern half 1957 barley|18-Mar-1958||diary record|fertilizers applied
+R/EX/4|1958|eastern half 1957 barley|21-Mar-1958||diary record|seed drilled at 2.75 bushels per acre
+R/EX/4|1958|eastern half 1957 barley|1-Aug-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1957 barley|||variety|Plumage Archer
+R/EX/4|1958|eastern half 1957 Swedes|17-Apr-1958||diary record|fertilizers applied
+R/EX/4|1958|eastern half 1957 Swedes|27-Apr-1958||diary record|seed drilled at 6 1b per acre
+R/EX/4|1958|eastern half 1957 Swedes|21-June-1958||diary record|singled
+R/EX/4|1958|eastern half 1957 Swedes|15-Nov-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1957 Swedes|||variety|Wilhelmsburger
+R/EX/4|1958|eastern half 1958 cropped sections|31-Dec-1957||diary record|ploughed
+R/EX/4|1958|eastern half 1958 potatoes|23-Apr-1958||diary record|fertilizers applied
+R/EX/4|1958|eastern half 1958 potatoes|25-Apr-1958||diary record|potatoes hand planted
+R/EX/4|1958|eastern half 1958 potatoes|8-July-1958||diary record|earthed up
+R/EX/4|1958|eastern half 1958 potatoes|12-July-1958||diary record|sprayed with copper Fungicide, 5 1b in 40 gallons per acre
+R/EX/4|1958|eastern half 1958 potatoes|6-Aug-1958||diary record|sprayed with copper Fungicide, 3 1b and 1 pint spread in 40 gallons per acre
+R/EX/4|1958|eastern half 1958 potatoes|16-Aug-1958||diary record|sprayed with copper Fungicide, 3 1b and 1 pint spread in 40 gallons per acre
+R/EX/4|1958|eastern half 1958 potatoes|9-Sept-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1958 potatoes|||variety|Majestic
+R/EX/4|1958|eastern half 1958 sugar beet|14-Apr-1958||diary record|fertilizers applied, seed drilled at 19 1b per acre
+R/EX/4|1958|eastern half 1958 sugar beet|6-June-1958||diary record|singled
+R/EX/4|1958|eastern half 1958 sugar beet|7-July-1958||diary record|sprayed with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/EX/4|1958|eastern half 1958 sugar beet|18-Nov-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1958 sugar beet|||variety|Klein E
+R/EX/4|1958|eastern half 1958 kale|14-Apr-1958||diary record|seedbed N and PK applied
+R/EX/4|1958|eastern half 1958 kale|15-Apr-1958||diary record|seed drilled at 3 1b per acre
+R/EX/4|1958|eastern half 1958 kale|10-June-1958||diary record|Thinned
+R/EX/4|1958|eastern half 1958 kale|5-July-1958||diary record|nitrogen top dressing applied
+R/EX/4|1958|eastern half 1958 kale|27-Aug-1958||diary record|nitrogen top dressing applied
+R/EX/4|1958|eastern half 1958 kale|3-Dec-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1958 kale|||variety|Thousand Head
+R/EX/4|1958|eastern half 1958 spring wheat|11-Apr-1958||diary record|fertilizers applied
+R/EX/4|1958|eastern half 1958 spring wheat|12-Apr-1958||diary record|seed drilled at 3.25 bushels per acre
+R/EX/4|1958|eastern half 1958 spring wheat|1-Sept-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1958 spring wheat|||variety|Koga II
+R/EX/4|1958|eastern half 1958 barley|11-Apr-1958||diary record|fertilizers applied
+R/EX/4|1958|eastern half 1958 barley|12-Apr-1958||diary record|seed drilled at 2.75 bushels per acre
+R/EX/4|1958|eastern half 1958 barley|13-Aug-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1958 barley|||variety|Plumage Archer
+R/EX/4|1958|eastern half 1958 swedes|15-May-1958||diary record|fertilizers applied, seed drilled at 5 1b per acre
+R/EX/4|1958|eastern half 1958 swedes|10-June-1958||diary record|singled
+R/EX/4|1958|eastern half 1958 swedes|5-Oct-1958||diary record|Harvested
+R/EX/4|1958|eastern half 1958 swedes|||variety|Wilhelmsburger
 R/EX/4|1959| |16-Feb-1959||diary record|ploughed
-R/EX/4|1959| |17-Mar-1959||diary record|‘'Nitra-Shell' applied, seed drilled at 2% bushels per acre
-R/EX/4|1959| |27-May-1959||diary record|sprayed with CMPP et 4 pints in 40 gallons per acre
+R/EX/4|1959| |17-Mar-1959||diary record|'Nitra-Shell' applied, seed drilled at 2.75 bushels per acre
+R/EX/4|1959| |27-May-1959||diary record|sprayed with CMPP at 4 pints in 40 gallons per acre
 R/EX/4|1959| |5-Aug-1959||diary record|plots 5 and 9 cut by hand
 R/EX/4|1959| |18-Aug-1959||diary record|remaining plots combine harvested
-R/EX/4|1959| |||variety|Plumage March
+R/EX/4|1959| |||variety|Plumage Archer
 R/EX/4|1960| |26-Aug-1959||diary record|sprayed with dalapon at 8 1b in 20 gallons per acre
-R/EX/4|1960| |2-Sept-1959||diary record|sprayed with dalapon at 4 1b in LO gallons per acre
+R/EX/4|1960| |2-Sept-1959||diary record|sprayed with dalapon at 4 1b in 40 gallons per acre
 R/EX/4|1960| |7-Sept-1959||diary record|Ground Chalk applied to plot 2 at 21 cwt per acre
 R/EX/4|1960| |17-Nov-1959||diary record|ploughed
-R/EX/4|1960| |7-Dec-1960||diary record|Sulphate of ammonia applied
-R/EX/4|1960| |25-May-1960||diary record|second drilled at 23 bushels per acre ear 17. sprayed with QPP at 6 pints in LO gallons per acre
+R/EX/4|1960| |7-Mar-1960||diary record|Sulphate of ammonia applied
+R/EX/4|1960| |17-Mar-1960||diary record|seed drilled at 2.75 bushels per acre
+R/EX/4|1960| |25-May-1960||diary record|sprayed with CMPP at 6 pints in 40 gallons per acre
 R/EX/4|1960| |6-Sept-1960||diary record|combine harvested
-R/EX/4|1960| |||variety|Plumage March
+R/EX/4|1960| |||variety|Plumage Archer
 R/EX/4|1961| |12-Oct-1960||diary record|sprayed with dalapon at 10 1b in 40 gallons per acre
-R/EX/4|1961| |14-Nov-1960||diary record|and sgein at 5 1b in 4O gallons per acre
+R/EX/4|1961| |14-Nov-1960||diary record|sprayed with dalapon at 5 1b in 40 gallons per acre
 R/EX/4|1961| |16-Dec-1960||diary record|ploughed
-R/EX/4|1961| |29-Mar-1961||diary record|'Nitro-chalk' applied
-R/EX/4|1961| |12-Apr-1961||diary record|seed drilled at 22 bushels per acre
-R/EX/4|1961| |19-May-1961||diary record|sprayed with QP at 6 pints in 40 gallons per acre
-R/EX/4|1961| |23-Aug-1961||diary record|combine harvested
-R/EX/4|1961| |||variety|Plumage March
+R/EX/4|1961| |29-Mar-1961||diary record|'Nitro-chalk' applied at 0.5 cwt N per acre
+R/EX/4|1961| |12-Apr-1961||diary record|seed drilled at 2.75 bushels per acre
+R/EX/4|1961| |19-May-1961||diary record|sprayed with CMPP at 6 pints in 40 gallons per acre
+R/EX/4|1961| |29-Aug-1961||diary record|combine harvested
+R/EX/4|1961| |||variety|Plumage Archer
 R/EX/4|1962| |8-Sept-1961||diary record|plots 5 and 6 and part of 2 sprayed with dalapon at 8 1b in 40 gallons per acre
-R/EX/4|1962| |27-Sept-1961||diary record|and again at 4 1b in 40 gallons per acre
+R/EX/4|1962| |27-Sept-1961||diary record|plots 5 and 6 and part of 2 sprayed with dalapon at 4 1b in 40 gallons per acre
 R/EX/4|1962| |31-Oct-1961||diary record|ploughed
 R/EX/4|1962| |28-Mar-1962||diary record|'Nitro-chalk' applied, seed drilled at 3 bushels per acre
-R/EX/4|1962| |4-June-1962||diary record|sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
+R/EX/4|1962| |4-June-1962||diary record|sprayed with MCPA/MBA at 4 pints in 40 gallons per acre
 R/EX/4|1962| |14-Sept-1962||diary record|combine harvested
-R/EX/4|1962| |||variety|Plumage March
+R/EX/4|1962| |||variety|Plumage Archer
 R/EX/4|1963| |27-Sept-1562||diary record|sprayed with dalapon at 7.4 1b in 40 gallons per acre
-R/EX/4|1963| |16-Oct-1562||diary record|and again at 3.7 1b in 40 gallons per acre
+R/EX/4|1963| |16-Oct-1562||diary record|sprayed with dalapon at 3.7 1b in 40 gallons per acre
 R/EX/4|1963| |27-Mar-1963||diary record|ploughed
 R/EX/4|1963| |8-Apr-1963||diary record|seed combine drilled at 2 bushels per acre
-R/EX/4|1963| |11-June-1963||diary record|sprayed with TCB/MCPA at 4 pints in © gallons per acre
-R/EX/4|1963| |5S-Sept-1963||diary record|combine harvested
+R/EX/4|1963| |11-June-1963||diary record|sprayed with TBA/MCPA at 4 pints in 40 gallons per acre
+R/EX/4|1963| |5-Sept-1963||diary record|combine harvested
 R/EX/4|1963| |||variety|Proctor
 R/EX/4|1964| |25-Sept-1963||diary record|sprayed with dalapon at 5.9 1b in 40 gals
-R/EX/4|1964| |14-Oct-1963||diary record|and again at 29 1b
+R/EX/4|1964| |14-Oct-1963||diary record|sprayed with dalapon at 29 1b
 R/EX/4|1964| |1-Nov-1963||diary record|ploughed
-R/EX/4|1964| |6-Mar-1964||diary record|seed combine drilled at 275 bushels
-R/EX/4|1964| |27-Mar-1964||diary record|sprayed with mecoprop (methoxone extra at 6 pints in LO gals)
+R/EX/4|1964| |6-Mar-1964||diary record|seed combine drilled at 2.75 bushels
+R/EX/4|1964| |27-Mar-1964||diary record|sprayed with mecoprop/2,4-D (methoxone extra at 6 pints in 40 gals)
 R/EX/4|1964| |21-Aug-1964||diary record|combine harvested
 R/EX/4|1965| |2-Nov-1964||diary record|ploughed
-R/EX/4|1965| |15-Mar-1965||diary record|seed combine drilled at 16) 1b
-R/EX/4|1965| |1-Sept-1965||diary record|sprayed with MCPA at 1.13 1b and Dicamba at 0.08 1b in 40 gals My 22. combine harvested
-R/EX/4|1965| |||diary record|new estimate were made of the incidence of Eyespot (Cercosporella herpotrichoides) and take-all (Ophicbolus grain
-R/EX/4|1966| |18-Oct-1965||diary record|sprayed with dalapon at 89 1b are. in 40 gals
+R/EX/4|1965| |15-Mar-1965||diary record|seed combine drilled at 160 1b
+R/EX/4|1965| |22-May-1965||diary record|sprayed with MCBA at 1.13 1b and Dicamba at 0.08 1b in 40 gals
+R/EX/4|1965| |1-Sept-1965||diary record|combine harvested
+R/EX/4|1965| |||note|Estimates were made of the incidence of Eyespot (Cercosporella herpotrichoides) and take-all (Ophiobolus graminis
+R/EX/4|1966| |18-Oct-1965||diary record|sprayed with dalapon at 8.9 1b a.e. in 40 gals
 R/EX/4|1966| |22-Nov-1965||diary record|ploughed
 R/EX/4|1966| |11-Mar-1966||diary record|seed combine drilled at 156 1b
-R/EX/4|1966| |27-May-1966||diary record|sprayed with mecoprop (methoxone extra at 6 pints in 40 gals)
+R/EX/4|1966| |27-May-1966||diary record|sprayed with mecoprop/2,4-D (methoxone extra at 6 pints in 40 gals)
 R/EX/4|1966| |26-Aug-1966||diary record|combine harvested
-R/EX/4|1966| |||variety|Maris Auger
-R/EX/4|1967| |16-Sept-1966||diary record|sprayed with dalapon at 11 1b are, in 40 gals
+R/EX/4|1966| |||variety|Maris Badger
+R/EX/4|1967| |16-Sept-1966||diary record|sprayed with dalapon at 11 1b a.e. in 40 gals
 R/EX/4|1967| |18-Sept-1966||diary record|ploughed
 R/EX/4|1967| |30-Mar-1967||diary record|rotary cultivated three times
 R/EX/4|1967| |2-May-1967||diary record|rotary cultivated three times
