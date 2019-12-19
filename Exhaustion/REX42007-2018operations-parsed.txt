@@ -1,59 +1,79 @@
-R/EX/4|2007|12-Oct-06|t|K test|Muriate of Potash - 023, 043, 063, 083, 103|125.00|kg/ha
+R/EX/4|2007|12-Oct-06|f|K test|Muriate of Potash - 023, 043, 063, 083, 103|125.00|kg/ha
 R/EX/4|2007|12-Oct-06|f|K test|Muriate of Potash — 024, 044, 064, 084, 104|250.00|kg/ha
 R/EX/4|2007|12-Oct-06|f|K test|Basal P (triplesuperphosphate) - plots 02, 04, 06, 08,10|98.00|kg/ha
-R/EX/4|2007|12-Oct-06|1|P test|Triplesuperphosphate — plots 011-013, 031-033, 051-053, 071-073, 091-093|98.00|kg/ha
+R/EX/4|2007|12-Oct-06|f|P test|Triplesuperphosphate — plots 011-013, 031-033, 051-053, 071-073, 091-093|98.00|kg/ha
 R/EX/4|2007|12-Oct-06|f|P test|Basal K (muriate of potash) - plots 01, 03, 05, 07. 09|250.00|kg/ha
-R/EX/4|2007|13-Oct-06|p|All Plots Rate Unit|Barclay Gallup 360|4.00|1/200 Vha
-R/EX/4|2007|19-Oct-06|a|All Plots Rate Unit|Plough’ N|None|None
-R/EX/4|2007|30-Oct-06|a|All Plots Rate Unit|Combination Drilled|None|None
-R/EX/4|2007|30-Oct-06|s|All Plots Rate Unit|Xi19 tr Redigo Sib Secure|350.00|seeds/m*
-R/EX/4|2007|03-Nov-07|p|All Plots Rate Unit|Ice|4.00|1/200 ha
-R/EX/4|2007|08-Dec-07|p|All Plots Rate Unit|Entice|7.00|kgha
-R/EX/4|2007|12-Mar-07|f|All Plots Rate Unit|Sulphate of Ammonia|238.00|kgha
-R/EX/4|2007|11-Apr-07|p|All Plots Rate Unit|Pacifica|0.50|kg/200 'ha
-R/EX/4|2007|11-Apr-07|p|All Plots Rate Unit|Biopower|1.00|1/200 Vha
-R/EX/4|2007|23-Apr-07|p|All Plots Rate Unit|Clean Crop Wanderer 1.00|1200|Vha
-R/EX/4|2007|23-Apr-07|p|All Plots Rate Unit|Deuce|1.00|1/200 Vha
-R/EX/4|2007|26-Apr-07|1|All Plots Rate Unit|Nitraprill|580.00|kg/ha
-R/EX/4|2007|22-May-07|p|All Plots Rate Unit|Amistar Opti 1.25|1200|ha
-R/EX/4|2007|22-May-07|p|All Plots Rate Unit|Opus 0.80|1200|Uha
-R/EX/4|2007|06-Jun-07|a|All Plots Rate Unit|Mow/Rotavate paths|None|None
-R/EX/4|2007|14-Jun-07|a|All Plots Rate Unit|Mow/Rotavate paths|None|None
-R/EX/4|2007|25-Jun-07|a|All Plots Rate Unit|Mow/Rotavate paths|None|None
-R/EX/4|2007|07-Aug-07|a|All Plots Rate Unit|Mow/Rotavate paths|None|None
-R/EX/4|2007|27-Aug-07|a|All Plots Rate Unit|Combine harvest O&E's|None|None
-R/EX/4|2007|27-Aug-07|a|All Plots Rate Unit|Chop straw O&E's|None|None
-R/EX/4|2007|03-Sep-07|a|All Plots Rate Unit|Combine harvest, plots for yield|None|None
-R/EX/4|2007|03-Sep-07|a|All Plots Rate Unit|Swath straw|None|None
-R/EX/4|2008|1-Oct-07|1|K Test|Munate of Potash, plots 023, 043, 063, 083 & 103 I Munate of Potash, plots 024, 044, 064, 084 & 250.00 kgha 104|125.00|kg/ha
+R/EX/4|2007|13-Oct-06|p|All Plots|Barclay Gallup 360|4.00|1/200 Vha
+R/EX/4|2007|19-Oct-06|a|All Plots|Plough /N|None|None
+R/EX/4|2007|30-Oct-06|a|All Plots|Combination Drilled|None|None
+R/EX/4|2007|30-Oct-06|s|All Plots|Xi19 tr Redigo Sib Secure|350.00|seeds/m*
+R/EX/4|2007|03-Nov-07|p|All Plots|Ice|4.00|1/200 ha
+R/EX/4|2007|08-Dec-07|p|All Plots|Entice|7.00|kgha
+R/EX/4|2007|12-Mar-07|f|All Plots|Sulphate of Ammonia|238.00|kgha
+R/EX/4|2007|11-Apr-07|p|All Plots|Pacifica|0.50|kg/200 'ha
+R/EX/4|2007|11-Apr-07|p|All Plots|Biopower|1.00|1/200 Vha
+R/EX/4|2007|23-Apr-07|p|All Plots|Clean Crop Wanderer 1.00|1200|Vha
+R/EX/4|2007|23-Apr-07|p|All Plots|Deuce|1.00|1/200 Vha
+R/EX/4|2007|26-Apr-07|f|All Plots|Nitraprill|580.00|kg/ha
+R/EX/4|2007|22-May-07|p|All Plots|Amistar Opti |1.25|1200ha
+R/EX/4|2007|22-May-07|p|All Plots|Opus 0.80|1200|Uha
+R/EX/4|2007|06-Jun-07|a|All Plots|Mow/Rotavate paths|None|None
+R/EX/4|2007|14-Jun-07|a|All Plots|Mow/Rotavate paths|None|None
+R/EX/4|2007|25-Jun-07|a|All Plots|Mow/Rotavate paths|None|None
+R/EX/4|2007|07-Aug-07|a|All Plots|Mow/Rotavate paths|None|None
+R/EX/4|2007|27-Aug-07|a|All Plots|Combine harvest O&E's|None|None
+R/EX/4|2007|27-Aug-07|a|All Plots|Chop straw O&E's|None|None
+R/EX/4|2007|03-Sep-07|a|All Plots|Combine harvest, plots for yield|None|None
+R/EX/4|2007|03-Sep-07|a|All Plots|Swath straw|None|None
+R/EX/4|2007|04-Sep-07|a|All Plots|Sample, bale and weigh straw|None|None
+R/EX/4|2008|1-Oct-07|f|K Test|Muriate of Potash, plots 023, 043, 063, 083 & 103|125.00|kg/ha
+R/EX/4|2008|1-Oct-07|f|K Test|Muriate of Potash, plots 024, 044, 064, 084 & 104|250.00|kg/ha
 R/EX/4|2008|1-Oct-07|f|K Test|Basal P (triplesuperphosphate) plots 02, 04, 06, 08 & 10|98.0|Kg/ha
-R/EX/4|2008|1-Oct-07|f|P test|Triple Superphosphate, plots except 011-013, 031 - 033, 051 - 053, 071 - 073 & 091 - 093 I Basal K (muriate of potash) plots 01,03, 05,07 250.00 kgha &09 Selected plots:|88.00|kg/ha
-R/EX/4|2008|6-0ct-07|1|P test|Chalk, Plots 021, 022, 024, 061, 062, 063, 083, 102, 103, 104|2.00|vha
-R/EX/4|2008|6-0ct-07|f|P test|Chalk, Plots 011, 023, 042, 044, 054, 064, 071, 082, 084|4.00|tha
-R/EX/4|2008|6-0ct-07|f|P test|Chalk, Plots 041, 043, 051, 081, 101|6.00|Vha
-R/EX/4|2008|30-Sep-07|p|All plots|Glyphosate 360 3.00|1200|I'ha
-R/EX/4|2008|10-Oct-07|a|All plots|Plough’ S. completed 11-Oct-2007|None|None
+R/EX/4|2008|1-Oct-07|f|P test|Triple Superphosphate, plots except 011-013, 031-033, 051-053, 071-073 & 091-093|98.00|kg/ha
+R/EX/4|2008|1-Oct-07|f|P test|Basal K (muriate of potash) plots 01, 03, 05, 07 & 09|250.00|kg/ha
+R/EX/4|2008|6-0ct-07|f|Selected plots|Chalk, Plots 021, 022, 024, 061, 062, 063, 083, 102, 103, 104|2.00|vha
+R/EX/4|2008|6-0ct-07|f|Selected plots|Chalk, Plots 011, 023, 042, 044, 054, 064, 071, 082, 084|4.00|tha
+R/EX/4|2008|6-0ct-07|f|Selected plots|Chalk, Plots 041, 043, 051, 081, 101|6.00|Vha
+R/EX/4|2008|30-Sep-07|p|All plots|Glyphosate 360|3.00|1200 l/ha
+R/EX/4|2008|10-Oct-07|a|All plots|Plough /S. completed 11-Oct-2007|None|None
 R/EX/4|2008|22-Oct-07|a|All plots|Combination Drilled|None|None
 R/EX/4|2008|22-Oct-07|s|All plots|X19 tr Redigo Twin + Deter|350.00|seeds'm?
-R/EX/4|2008|23-Oct-07|a|All plots|None|None|None
+R/EX/4|2008|23-Oct-07|a|All plots|Rolled|None|None
 R/EX/4|2008|30-Oct-07|p|All plots|Huron|5.00|kgha
 R/EX/4|2008|2-Nov-07|p|All plots|Liberator|0.60|V200 I'ha
-R/EX/4|2008|2-Nov-07|p|All plots|Alpha Trifluralin 48 EC 200|1200|I’ha
-R/EX/4|2008|17-Nov-07|p|All plots|Stomp 400 SC 330|1200|Ilha
-R/EX/4|2008|17-Nov-07|p|All plots| Arelon 500 2.00|1200|Ilha
+R/EX/4|2008|2-Nov-07|p|All plots|Alpha Trifluralin 48 EC 200|2.00|1200 I’ha
+R/EX/4|2008|17-Nov-07|p|All plots|Stomp 400 SC |3.30|1200 Ilha
+R/EX/4|2008|17-Nov-07|p|All plots|Arelon 500|2.00|1200 Ilha
 R/EX/4|2008|17-Nov-07|p|All plots|Hallmark with Zeon Technology|50.00|ml’200 I'ha
 R/EX/4|2008|1-Apr-08|f|All plots|Sulphate of Ammonia|238.00|kgha
-R/EX/4|2009|30-Sep-08|f|K Test|Basal P (triple superphosphate) - plots 02. 04,06, 08 and 10|75.00|kg/ha
+R/EX/4|2008|18-Apr-08|f|All plots|Nitraprill|580|kg/ha
+R/EX/4|2008|08-May-08|f|All plots|Deuce|1.00|l/150 l/ha
+R/EX/4|2008|08-May-08|f|All plots|Bravo 500|0.75|l/150 l/ha
+R/EX/4|2008|08-May-08|f|All plots|Flexity|0.20|l/150 l/ha
+R/EX/4|2008|08-May-08|f|All plots|BASF 3C Chlormequat 720|1.00|l/150 l/ha
+R/EX/4|2008|19-May-08|f|All plots|Ally Max SX|42.00|g/200 l/ha
+R/EX/4|2008|19-May-08|f|All plots|Starane 2|0.75|l/200 l/ha
+R/EX/4|2008|21-May-08|f|All plots|Nitraprill|145|kg/ha
+R/EX/4|2008|31-May-08|f|All plots|Amistar Opti|1.25|l/200 l/ha
+R/EX/4|2008|31-May-08|f|All plots|Opus Team|1.00|l/200 l/ha
+R/EX/4|2008|6-June-08|f|All plots|Mow / Rotavate paths||
+R/EX/4|2008|16-June-08|f|All plots|Mow / Rotavate paths||
+R/EX/4|2008|25-Jul-08|f|All plots|Rogue wild oats/thistles/weeds||
+R/EX/4|2008|27-Aug-08|f|All plots|Combine harvest plots for yield||
+R/EX/4|2008|27-Aug-08|f|All plots|Swath straw||
+R/EX/4|2008|27-Aug-08|f|All plots|Sample, bale and weigh straw||
+R/EX/4|2008|30-Aug-08|f|All plots|baled||
+R/EX/4|2009|30-Sep-08|f|K Test|Basal P (triple superphosphate) - plots 02, 04, 06, 08 and 10|75.00|kg/ha
 R/EX/4|2009|30-Sep-08|f|K Test| Muriate of Potash, plots 23, 43, 63, 83 & 103|125.00|kg/ha
 R/EX/4|2009|30-Sep-08|f|K Test| Muriate of Potash, plots 24, 44, 64, 84, 104|250.00|kg/ha
-R/EX/4|2009|30-Sep-08|f|P Test|Triple Superphosphate ~ plots 011 - 013, 031-033, 051 = 053, 071 - 073 and 091- 093|75.00|kg/ha
-R/EX/4|2009|30-Sep-08|f|P Test| Muriate of Potash, plots 01,03, 05, 07 & 09|250.00|kg/ha
-R/EX/4|2009|06-Oct-08|a|All plots|None|None|None
+R/EX/4|2009|30-Sep-08|f|P Test|Triple Superphosphate - plots 011-013, 031-033, 051-053, 071-073 and 091-093|75.00|kg/ha
+R/EX/4|2009|30-Sep-08|f|P Test| Muriate of Potash, plots 01, 03, 05, 07 & 09|250.00|kg/ha
+R/EX/4|2009|06-Oct-08|a|All plots|Plough /N|None|None
 R/EX/4|2009|11-Oct-08|a|All plots| Cultipressed|None|None
 R/EX/4|2009|16-Oct-08|a|All plots|Power Harrowed|None|None
 R/EX/4|2009|16-Oct-08|a|All plots|Combination Drilled|None|None
 R/EX/4|2009|16-Oct-08|s|All plots| XI-19 tr Redigo Deter|350.00|seeds/m2
-R/EX/4|2009|18-Oct-08|p|All plots| Uberator 0.60|1200|Vha
+R/EX/4|2009|18-Oct-08|p|All plots|Liberator|0.60|1200 Vha
 R/EX/4|2009|17-Dec-08|p|All plots|Stomp 400 SC|3.30|wha
 R/EX/4|2009|17-Dec-08|p|All plots|Arelon 500|3.00|ha
 R/EX/4|2009|17-Dec-08|p|All plots|Hallmark with Zeon Technology|50.00|mbha
@@ -67,65 +87,75 @@ R/EX/4|2009|02-May-09|p|All plots|Bravo 500|1.00|Uha
 R/EX/4|2009|02-May-09|p|All plots|Talus|0.13|Uha
 R/EX/4|2009|02-May-09|p|All plots|BASF 3C Chlormequat 720|225|Uha
 R/EX/4|2009|04-May-09|p|All plots|Ally Max SX|42.00|gha
-R/EX/4|2009|04-May-09|p|All plots| Agrguard Fluroxypyr|0.75|Uha
+R/EX/4|2009|04-May-09|p|All plots| Agriguard Fluroxypyr|0.75|Uha
 R/EX/4|2009|13-May-09|f|All plots| Nitram|145.00|kg/ha
 R/EX/4|2009|16-May-09|a|All plots|Mow / Rotavate paths|None|None
-R/EX/4|2009|28-May-09|p|All plots|Buus|1.50|Uha
+R/EX/4|2009|28-May-09|p|All plots|Brutus|1.50|Uha
 R/EX/4|2009|28-May-09|p|All plots| Amistar Opti|1.25|ha
 R/EX/4|2009|02-Jun-09|a|All plots|Mow / Rotavate paths|None|None
-R/EX/4|2009|29-Jun-09|a|All plots|Mow/ Rotavate paths|None|None
+R/EX/4|2009|29-Jun-09|a|All plots|Mow / Rotavate paths|None|None
 R/EX/4|2009|15-Aug-09|a|All plots|Combine harvest, plots for yield|None|None
-R/EX/4|2010|29-Sep-09|f|K Test|Basal P (triple su, te) - plots 02, 04, 06, Sep Basal P rple superphosphate) - pi 7500  kgha I Muriate of Potash, plots 23, 43, 63, 83 & 103 125.00 kg/ha|None|None
+R/EX/4|2009|15-Aug-09|a|All plots|Sample, bale and weigh straw|
+R/EX/4|2010|29-Sep-09|f|K Test|Basal P (triple superphosphate) - plots 02, 04, 06, 08 and 10|75.00|kg/ha
+R/EX/4|2010|29-Sep-09|f|K Test|Muriate of Potash, plots 23, 43, 63, 83 & 103|125.00|kg/ha|None|None
 R/EX/4|2010|29-Sep-09|f|K Test|Muriate of Potash, plots 24, 44, 64, 84, 104|250.00|kg/ha
-R/EX/4|2010|29-Sep-09|f|P Test|Triple Superphosphate ~ plots 011 = 013, 031 ~ 033, 051 - 053, 071 - 073 and 091- 093 f|7500| kgha
-R/EX/4|2010|29-Sep-09|f|P Test|Muriate of Potash, plots 01,03, 05, 07 & 09|250.00|kg/ha
-R/EX/4|2010|29-Sep-09|a|All Plots Rate Unit|Spread fertiliser|None|None
-R/EX/4|2010|30-Sep-09|a|All Plots Rate Unit|None|None|None
-R/EX/4|2010|01-Oct-09|a|All Plots Rate Unit|None|None|None
-R/EX/4|2010|02-Oct-09|a|All Plots Rate Unit|Cultipressed - Second time|None|None
-R/EX/4|2010|05-Oct-09|a|All Plots Rate Unit|Combination Drilled|None|None
-R/EX/4|2010|05-Oct-09|s|All Plots Rate Unit|Drilled Xi19 - at 350 seeds per m?|166.00|kg/ha
-R/EX/4|2010|05-Oct-09|p|All Plots Rate Unit|Liberator -200 It water|0.60|ha
-R/EX/4|2010|19-Mar-10|f|All Plots Rate Unit|Sulphate of Ammonia - As indicated on plan|238.00|kg/ha
-R/EX/4|2010|06-Apr-10|f|All Plots Rate Unit|Kieserite|80.00|kg/ha
-R/EX/4|2010|10-Apr-10|p|All Plots Rate Unit|Cherokee - 146 f water|1.00|I'ha
-R/EX/4|2010|15-Apr-10|f|All Plots Rate Unit| Nitram|580.00|kg/ha
-R/EX/4|2010|18-Apr-10|p|All Plots Rate Unit| Attribut - 146 It water|100.00|g/ha
-R/EX/4|2010|18-Apr-10|p|All Plots Rate Unit|Amber - 146 It water|1.00|Ilha
-R/EX/4|2010|18-Apr-10|p|All Plots Rate Unit| Oxytril CM - 146 It water|1.00|ha
-R/EX/4|2010|06-May-10|p|All Plots Rate Unit|Bravo 500 - 200 It water|1.00|Ilha
-R/EX/4|2010|06-May-10|p|All Plots Rate Unit|Tracker - 200 It water|1.00|I'ha
-R/EX/4|2010|06-May-10|p|All Plots Rate Unit|Chilormequat 3C - 200 It water|225|ha
-R/EX/4|2010|12-May-10|a|All Plots Rate Unit|Mow / Rotavate paths|None|None
-R/EX/4|2010|18-May-10|p|All Plots Rate Unit|Tomahawk|1.00|ha
-R/EX/4|2010|18-May-10|p|All Plots Rate Unit|Cleancrop Gallifrey|1.00|ha
-R/EX/4|2010|19-May-10|f|All Plots Rate Unit|Nitram|14500|kg/ha
-R/EX/4|2010|02-Jun-10|p|All Plots Rate Unit|Comet - 200 It water|0.60|I'ha
-R/EX/4|2010|02-Jun-10|p|All Plots Rate Unit|Opus - 200 It water|0.60|I'ha
-R/EX/4|2010|03-Jun-10|a|All Plots Rate Unit|Rotavated paths|None|None
-R/EX/4|2010|17-Jun-10|a|All Plots Rate Unit|Cut paths|None|None
-R/EX/4|2010|14-Jul-10|a|All Plots Rate Unit|Mow / Rotavate paths|None|None
-R/EX/4|2010|31-Aug-10|a|All Plots Rate Unit|Combine harvest, plots for yield|None|None
-R/EX/4|2010|31-Aug-10|a|All Plots Rate Unit|Sample, bale and weigh straw|None|None
-R/EX/4|2010|03-Sep-10|a|All Plots Rate Unit|Combine harvest discards|None|None
-R/EX/4|2011|07-Oct-10|f|K Test|Basal P (triple superphosphate) - plots 02.04,06.08 and Muriate of Potash - plots 23,43.63,83.103 125 kg/ha Muriate of Potash - plots 24,44 64,84, 104 250 kg/ha|75|kgha
+R/EX/4|2010|29-Sep-09|f|P Test|Triple Superphosphate - plots 011-13, 031-033, 051-053, 071-073 and 091-093|75.00| kgha
+R/EX/4|2010|29-Sep-09|f|P Test|Muriate of Potash, plots 01, 03, 05, 07 & 09|250.00|kg/ha
+R/EX/4|2010|30-Sep-09|a|All Plots|Plough|None|None
+R/EX/4|2010|01-Oct-09|a|All Plots|Cultipressed|None|None
+R/EX/4|2010|02-Oct-09|a|All Plots|Cultipressed - Second time|None|None
+R/EX/4|2010|05-Oct-09|a|All Plots|Combination Drilled|None|None
+R/EX/4|2010|05-Oct-09|s|All Plots|Drilled Xi19 - at 350 seeds per m2|166.00|kg/ha
+R/EX/4|2010|05-Oct-09|p|All Plots|Liberator|0.60|ha|200|l/ha
+R/EX/4|2010|19-Mar-10|f|All Plots|Sulphate of Ammonia - As indicated on plan|238.00|kg/ha
+R/EX/4|2010|06-Apr-10|f|All Plots|Kieserite|80.00|kg/ha
+R/EX/4|2010|10-Apr-10|p|All Plots|Cherokee|1.00|I'ha|146|l/ha
+R/EX/4|2010|15-Apr-10|f|All Plots| Nitram|580.00|kg/ha
+R/EX/4|2010|18-Apr-10|p|All Plots| Attribut - 146 It water|100.00|g/ha|146|l/ha
+R/EX/4|2010|18-Apr-10|p|All Plots|Amber - 146 It water|1.00|Ilha|146|l/ha
+R/EX/4|2010|18-Apr-10|p|All Plots| Oxytril CM - 146 It water|1.00|ha|146|l/ha
+R/EX/4|2010|06-May-10|p|All Plots|Bravo 500 - 200 It water|1.00|Ilha|200|l/ha
+R/EX/4|2010|06-May-10|p|All Plots|Tracker - 200 It water|1.00|I'ha|200|l/ha
+R/EX/4|2010|06-May-10|p|All Plots|Chlormequat 3C - 200 It water|225|ha|200|l/ha
+R/EX/4|2010|12-May-10|a|All Plots|Mow / Rotavate paths|None|None
+R/EX/4|2010|18-May-10|p|All Plots|Tomahawk|1.00|ha
+R/EX/4|2010|18-May-10|p|All Plots|Cleancrop Gallifrey|1.00|ha
+R/EX/4|2010|19-May-10|f|All Plots|Nitram|145.00|kg/ha
+R/EX/4|2010|02-Jun-10|p|All Plots|Comet - 200 It water|0.60|I'ha|200|l/ha
+R/EX/4|2010|02-Jun-10|p|All Plots|Opus - 200 It water|0.60|I'ha|200|l/ha
+R/EX/4|2010|03-Jun-10|a|All Plots|Rotavated paths|None|None
+R/EX/4|2010|17-Jun-10|a|All Plots|Cut paths|None|None
+R/EX/4|2010|14-Jul-10|a|All Plots|Mow / Rotavate paths|None|None
+R/EX/4|2010|31-Aug-10|a|All Plots|Combine harvest, plots for yield|None|None
+R/EX/4|2010|31-Aug-10|a|All Plots|Sample, bale and weigh straw|None|None
+R/EX/4|2010|03-Sep-10|a|All Plots|Combine harvest discards|None|None
+R/EX/4|2010|03-Sep-10|a|All Plots|Baled||
+R/EX/4|2011|07-Oct-10|f|K Test|Basal P (triple superphosphate) - plots 02, 04, 06, 08 and 10|75|kgha
+R/EX/4|2011|07-Oct-10|f|K Test|Muriate of Potash - plots 23, 43, 63, 83, 103|125|kg/ha 
+R/EX/4|2011|07-Oct-10|f|K Test|Muriate of Potash - plots 24, 44, 64, 84, 104|250|kg/ha
 R/EX/4|2011|07-Oct-10|f|P Test|Triple Super Phosphate - plots 011-013,031-033,051- 053, 071-073, 091-093 9|75|kg/ha
 R/EX/4|2011|07-Oct-10|f|P Test| Muriate of Potash - plots 011-014, 031-034, 051-054, 071-074, 091-094.|250|kg/ha
-R/EX/4|2011|10-Oct-10|a|All Plots|None|None|None
-R/EX/4|2011|10-Oct-10|a|All Plots|None|None|None
-R/EX/4|2011|13-Oct-10|a|All Plots|None|None|None
+R/EX/4|2011|10-Oct-10|a|All Plots|Ploughed|None|None
+R/EX/4|2011|10-Oct-10|a|All Plots|Ploughed|None|None
+R/EX/4|2011|13-Oct-10|a|All Plots|Cultipressed|None|None
 R/EX/4|2011|15-Oct-10|s|All Plots|Drilled Xi 19 trt Anchor - 350 seeds / metre sq|145|kg/ha
-R/EX/4|2011|16-Oct-10|a|All Plots|None|None|None
-R/EX/4|2011|17-Oct-10|p|All Plots|Sprayed Regatta - water volume = 200 IVha|0.6|I/ha
+R/EX/4|2011|16-Oct-10|a|All Plots|Rolled|None|None
+R/EX/4|2011|17-Oct-10|p|All Plots|Sprayed Regatta|0.6|I/ha|200|l/ha
 R/EX/4|2011|14-Mar-11|f|All Plots|Applied Ammonium Sulphate Fertiliser|238|kg/ha
-R/EX/4|2011|28-Mar-11|p|All Plots|Sprayed Cherokee - Water volume = 118 Itha. Applied to WW area only f )|1.25|ha
+R/EX/4|2011|28-Mar-11|p|All Plots|Sprayed Cherokee. Applied to WW area only|1.25|ha|200|l/ha
 R/EX/4|2011|06-Apr-11|f|All Plots|Applied Kieserite|80|kg/ha
 R/EX/4|2011|13-Apr-11|f|All Plots|Applied Nitram|580|kg/ha
-R/EX/4|2011|05-May-11|p|All Plots|Sprayed Bravo 500, Tracker, 1.0 Ilha Agriguard Chlormequat 720, 225 I/ha Ally Max 42 g/ha and Starane 2 - 200 IVha water 0.75 I'ha|1.0|I'ha
+R/EX/4|2011|05-May-11|p|All Plots|Sprayed Bravo 500|1.00|l/ha|200|l/ha
+R/EX/4|2011|05-May-11|p|All Plots|Sprayed Tracker|1.00|l/ha|200|l/ha
+R/EX/4|2011|05-May-11|p|All Plots|Sprayed Agriguard Chlormequat 720|2.25| I/ha|200|l/ha 
+R/EX/4|2011|05-May-11|p|All Plots|Sprayed Ally Max |42| g/ha|200|l/ha
+R/EX/4|2011|05-May-11|p|All Plots|Sprayed Starane 2 |0.75|I'ha|200|l/ha
 R/EX/4|2011|10-May-11|f|All Plots|Applied Nitram|146|kg/ha
 R/EX/4|2011|16-May-11|a|All Plots|Cut paths|None|None
-R/EX/4|2011|19-May-11|p|All Plots|Sprayed Opus, Comet 200 0.6 I/ha and Bravo 500 - 100 I'na water 1.0 I'ha|0.8|I/ha
-R/EX/4|2011|23-May-11|a|All Plots|Cut paths 25|None|None
+R/EX/4|2011|19-May-11|p|All Plots|Sprayed Opus|0.8|l/ha|100|l/ha
+R/EX/4|2011|19-May-11|p|All Plots|Sprayed Comet 200|0.6|l/ha|100|l/ha
+R/EX/4|2011|19-May-11|p|All Plots|Sprayed Bravo 500|1.0|l/ha|100|l/ha
+R/EX/4|2011|23-May-11|a|All Plots|Cut paths|None|None
 R/EX/4|2011|03-Jun-11|a|All Plots|Rotavated paths|None|None
 R/EX/4|2011|08-Jun-11|a|All Plots|Cut paths|None|None
 R/EX/4|2011|20-Jun-11|a|All Plots|Cut paths|None|None
@@ -134,161 +164,180 @@ R/EX/4|2011|12-Aug-11|a|All Plots|Combined O+Es - Opened up trials with commerci
 R/EX/4|2011|12-Aug-11|a|All Plots|Baled O+Es - Baled area discard area cut to open out trials|None|None
 R/EX/4|2011|16-Aug-11|a|All Plots|Straw weights|None|None
 R/EX/4|2011|16-Aug-11|a|All Plots|Combined - O+Es|None|None
-R/EX/4|2012|15-Aug-11|a|All Plots|Combined for yields .|None|None
+R/EX/4|2011|17-Aug-11|a|All Plots|straw baled||
+R/EX/4|2012|15-Aug-11|a|All Plots|Combined for yields|None|None
 R/EX/4|2012|15-Aug-11|a|All Plots|Straw weights -|None|None
 R/EX/4|2012|29-Sep-11|f|All Plots|Applied Triple Super Phosphate, as per plan. -|None|None
 R/EX/4|2012|29-Sep-11|f|All Plots|Applied Muriate of Potash, as per plan -|None|None
-R/EX/4|2012|30-Sep-11|a|All Plots|Applied Chalk, as per plan Plots 022,024,074. 2 vha Plots 011,023,044,061,062,063,064, 071, 4 tha 082,083,084,103. Plots 021, 041,042,043, 051,054,081,101,102,104. 6 tha|None|None
-R/EX/4|2012|03-Oct-11|a|All Plots|Ploughed -|None|None
+R/EX/4|2012|30-Sep-11|a|All Plots|Applied Chalk, as per plan Plots 022,024,074.|2|t/ha
+R/EX/4|2012|30-Sep-11|a|All Plots|Applied Chalk, as per plan Plots 011,023,044,061,062,063,064, 071, 082,083,084,103|4|tha
+R/EX/4|2012|30-Sep-11|a|All Plots|Applied Chalk, as per plan Plots 021, 041,042,043, 051,054,081,101,102,104|6|tha|None|None
+R/EX/4|2012|03-Oct-11|a|All Plots|Ploughed|None|None
 R/EX/4|2012|04-Oct-11|a|All Plots| Cultipressed -|None|None
-R/EX/4|2012|12-Oct-11|a|All Plots|Rolled i|None|None
-R/EX/4|2012|14-Oct-11|p|All Plots|Sprayed Liberator in 200Vha of water|06|Vha
-R/EX/4|2012|16-Mar-12|1|All Plots|Applied Ammonium Sulphate Fertiliser|238|kg/ha
-R/EX/4|2012|22-Mar-12|p|All Plots|Sprayed Cherokee SE and Justice in 200Vha Ch1.0 Vha Ju0.125|None|None
+R/EX/4|2012|12-Oct-11|a|All Plots|Rolled|None|None
+R/EX/4|2012|14-Oct-11|p|All Plots|Sprayed Liberator in 200Vha of water|0.6|Vha|200|l/ha
+R/EX/4|2012|16-Mar-12|f|All Plots|Applied Ammonium Sulphate Fertiliser|238|kg/ha
+R/EX/4|2012|22-Mar-12|p|All Plots|Sprayed Cherokee SE|1.0|l/ha|200|l/ha
+R/EX/4|2012|22-Mar-12|p|All Plots|Sprayed Justice|0.125|l/ha|200|l/ha
 R/EX/4|2012|11-Apr-12|f|All Plots|Applied Nitram Feriliser|580|kg/ha
-R/EX/4|2012|05-May-12|p|All Plots|Sprayed AllyMax, Bravo 500, Tracker, Agriguard and Al@ 42° ‘ga Starane in 200U/ha of water Br@ 1.0 Vha T@ 1.0 Ag@ 2.25 SI@0.5|None|None
-R/EX/4|2012|05-May-12|p|All Plots|Sprayed AllyMax, Bravo 500, Tracker, Agriguard and A@ 42°, ‘g/ha Starane 2 in 200 I'ha of water Br@ 1.0, Vha T@ 1.0, Ag@ 2.25, SI@0.5|None|None
+R/EX/4|2012|05-May-12|p|All Plots|Sprayed Ally Max|42|g/ha|200|l/ha
+R/EX/4|2012|05-May-12|p|All Plots|Sprayed Bravo 500|1.0|l/ha|200|l/ha
+R/EX/4|2012|05-May-12|p|All Plots|Sprayed Tracker|1.0|l/ha|200|l/ha
+R/EX/4|2012|05-May-12|p|All Plots|Sprayed Agriguard|2.25|l/ha|200|l/ha
+R/EX/4|2012|05-May-12|p|All Plots|Sprayed Starane 2|0.5|l/ha|200|l/ha
 R/EX/4|2012|17-May-12|a|All Plots|Cut Paths -|None|None
 R/EX/4|2012|17-May-12|f|All Plots|Applied Nitram|145|kg/ha
-R/EX/4|2012|23-May-12|p|All Plots|Sprayed Comet. Bravo 500 and Opus Co@0.6 Vha Br@1.0 Op@0.8|None|None
-R/EX/4|2012|13-Jun-12|x|All Plots|p Sprayed w/ Amistar and Prosaro in 1001/ha of water Am@0.3 Vha P@0.7|None|None
-R/EX/4|2012|14-Jun-12|a|All Plots|Cutpaths -|None|None
-R/EX/4|2012|20-Jun-12|a|All Plots|Cut Paths - 25|None|None
-R/EX/4|2012|06-Aug-12|a|All Plots|Cut Paths .|None|None
-R/EX/4|2012|07-Aug-12|p|All Plots|Sprayed w/ Samurai|3|ha
-R/EX/4|2012|23-Aug-12|a|All Plots|Harvested. .|None|None
-R/EX/4|2012|24-Aug-12|a|All Plots|Harvested O+E's “|None|None
+R/EX/4|2012|23-May-12|p|All Plots|Sprayed Comet|0.6|l/ha
+R/EX/4|2012|23-May-12|p|All Plots|Sprayed Bravo 500|1.0|l/ha
+R/EX/4|2012|23-May-12|p|All Plots|Sprayed Opus|0.8|l/ha
+R/EX/4|2012|13-Jun-12|p|All Plots|Sprayed Amistar|0.3|l/ha|100|l/ha
+R/EX/4|2012|13-Jun-12|p|All Plots|Sprayed Prosaro|0.7|l/ha|100|l/ha
+R/EX/4|2012|14-Jun-12|a|All Plots|Cut paths|None|None
+R/EX/4|2012|20-Jun-12|a|All Plots|Cut Paths|None|None
+R/EX/4|2012|06-Aug-12|a|All Plots|Cut Paths|None|None
+R/EX/4|2012|07-Aug-12|p|All Plots|Sprayed Samurai|3|l/ha
+R/EX/4|2012|23-Aug-12|a|All Plots|Harvested.|None|None
+R/EX/4|2012|24-Aug-12|a|All Plots|Harvested O+E's |None|None
 R/EX/4|2012|24-Aug-12|a|All Plots|Sampled Baled and Weighed -|None|None
-R/EX/4|2012|20-Sep-12|p|All Plots|Sprayed Whole field w/ Weedazol EW|20|Vha
-R/EX/4|2012|28-Sep-12|f|All Plots|Spread Muriate of Potash - plots 103,83,63,43.23|125|kg/ha
-R/EX/4|2012|28-Sep-12|f|All Plots|Muriate of Potash - plots 104-94,87-73.64- 54.44-34,24-14|250|kg/ha
-R/EX/4|2012|28-Sep-12|f|All Plots|Spread TSP as on sheet on plots 101-93,81-73,61- 53.41-33,21-13 NOTE: Samples of grain and straw were taken for chemical analysis.|75|kg/ha
-R/EX/4|2013|20-Sep-12|p|P TEST|Sprayed Whole field w/ Weedazol EW|20|/ha
-R/EX/4|2013|28-Sep-12|f|P TEST|Spread MOP Fertilizer on plots - 103.83.63.43.23|125|kg/ha
-R/EX/4|2013|28-Sep-12|f|P TEST|Spread MOP Fertilizer as on sheet on plots 104-94,87- 73,64-54 44-34 24-14|250|kg/ha
-R/EX/4|2013|28-Sep-12|f|P TEST|Spread TSP as on sheet on plots 101-93,81-73,61- 53.41-33,21-13|75|kg/ha
-R/EX/4|2013|15-Oct-12|a|P TEST|Drilled WW Xit9|400|seeds m?
-R/EX/4|2013|15-Nov-12|p|P TEST|Sprayed Liberator and PDM, also o+e’s at each end of Li@0.6 I’ha EX/4 PDM@2.7 ha|None|None
-R/EX/4|2013|15-Nov-12|p|P TEST|Spread Slug Pellets (Gusto)|5|kg/ha
-R/EX/4|2013|11-Mar-13|f|P TEST|Applied Kieserite|80|kg/ha
-R/EX/4|2013|12-Mar-13|f|P TEST|Applied Ammonium Sulphate Fertiliser|238|kg/ha
-R/EX/4|2013|25-Apr-13|f|P TEST|Applied Nitram|580|kg/ha
-R/EX/4|2013|16-May-13|p|P TEST|Sprayed AllyMax, Kingdom, Bravo500, NewCycocel, AM@42 g/ha HatchetExtra Ki@1.25 ha Br500@1.0 ha NCy@2.0 ha Hal@1.0 ha|None|None
-R/EX/4|2013|21-May-13|f|P TEST|Applied Nitram|145|kg/ha
-R/EX/4|2013|06-Jun-13|p|P TEST|Sprayed Ingite and Comet ign@1.2 ha com@0.4 I/ha|None|None
-R/EX/4|2013|18-Jun-13|p|P TEST|Sprayed Cello|0.55|/ha
-R/EX/4|2013|19-Jun-13|a|P TEST|Cut Paths — —|None|None
-R/EX/4|2013|04-Jul-13|a|P TEST|Cut Paths _— —_|None|None
-R/EX/4|2013|19-Jul-13|a|P TEST|Cut Paths. — —|None|None
-R/EX/4|2013|12-Aug-13|a|P TEST|Claas - Harvested - —|None|None
-R/EX/4|2013|13-Aug-13|a|P TEST|Sampo - Harvested — —|None|None
-R/EX/4|2013|13-Aug-13|a|P TEST|baled weighed and sampled plots - —|None|None
-R/EX/4|2014|30-Sep-13|f|P TEST|Applied MOP Fertiliser - Plots 023, 043, 063, 083, 103|125|kg/ha
-R/EX/4|2014|30-Sep-13|f|P TEST|Applied MOP Fertiliser - Plots 011, 012, 013, 014, 024, 031, 032, 033, 034, 044, 051, 052, 053, 054, 064, 071, 072, 073, 074, 084, 091, 092, 093, 094, 104|250|kg/ha
-R/EX/4|2014|30-Sep-13|f|P TEST|Applied TSP - All Plots except Plots 014, 034, 054, 074, 094|75|kg/ha
-R/EX/4|2014|01-Oct-13|a|P TEST|Topping - -|None|None
-R/EX/4|2014|02-Oct-13|a|P TEST|Applied Chalk - Plots 013, 014, 041, 043, 051, 054, 072|2|tha
-R/EX/4|2014|02-Oct-13|a|P TEST|Applied Chalk - Plots 021, 042, 044, 081, 071, 074, 091, 102, 104|4|tha
-R/EX/4|2014|02-Oct-13|a|P TEST|Applied Chalk - Plots 011, 012, 022, 023, 024, 031, 052, 053, 061, 062, 063, 064, 082, 083, 084, 101, 103|6|tha
-R/EX/4|2014|09-Oct-13|a|P TEST|Ploughed i g|None|None
-R/EX/4|2014|10-Oct-13|a|P TEST|Cultipressed - -|None|None
-R/EX/4|2014|18-Oct-13|s|P TEST|Drilled All Plots - var. Xi19|400|seeds/m”
-R/EX/4|2014|27-Nov-13|p|P TEST|Applied Major Slug Pellets|4|kg/ha
-R/EX/4|2014|27-Nov-13|p|P TEST|Sprayed Hallmark|50|mi‘ha
-R/EX/4|2014|27-Nov-13|p|P TEST|Sprayed Liberator|600|mlha
-R/EX/4|2014|27-Nov-13|p|P TEST|Sprayed Stomp|1.7|ha
-R/EX/4|2014|10-Mar-14|f|P TEST|Applied sulphate of ammonia - All Plots|238|kg/ha
-R/EX/4|2014|01-Apr-14|f|P TEST|Applied Nitram Fertilizer - All Plots|580|kg/ha
-R/EX/4|2014|03-Apr-14|p|P TEST|Sprayed Artemis|1.0|ha
-R/EX/4|2014|03-Apr-14|p|P TEST|Sprayed Bravo 500|1.0|ha
-R/EX/4|2014|03-Apr-14|p|P TEST|Sprayed BASF 3C 720|1.75|ha
-R/EX/4|2014|09-Apr-14|f|P TEST|Applied Kieserite - All Plots|80|kg/ha
-R/EX/4|2014|28-Apr-14|p|P TEST|Sprayed Kingdom|1.25|Vlha
-R/EX/4|2014|28-Apr-14|p|P TEST|Sprayed Bravo 500|1.0|Vha
-R/EX/4|2014|13-May-14|f|P TEST|Applied Nitram - All Plots|145|kg/ha
-R/EX/4|2014|16-May-14|p|P TEST|Sprayed Simba|30|g/ha
-R/EX/4|2014|16-May-14|p|P TEST|Sprayed Vortex|15|ha
-R/EX/4|2014|06-Jun-14|p|P TEST|Sprayed Cello|550|mlha
-R/EX/4|2014|25-Jun-14|a|P TEST|Rotavated Fallow Areas (discard surrounds) - -|None|None
-R/EX/4|2014|31-Jul-14|a|P TEST|Cut Paths - in and around experiment - -|None|None
-R/EX/4|2014|19-Aug-14|a|P TEST|Claas Harvested OE’s . z|None|None
-R/EX/4|2014|21-Aug-14|a|P TEST|Sampo - Harvested All Plots - -|None|None
-R/EX/4|2014|24-Aug-14|a|P TEST|Sampled, Baled and Weighed Straw - all plots - -|None|None
-R/EX/4|2014|04-Sep-14|a|P TEST|Claas Combine - Harvesting Leftover Wheat from Trial - - Note: Samples of grain and straw were taken for chemical analysis. The yield strips on plots 031, 034, 071, 074, 091 & 094 were made smaller this year to avoid areas where the crop had already been sampled by S. McGrath et al.|None|None
-R/EX/4|2015|02/10/2014|f|P TEST|Applied TSP|75|kg/ha
-R/EX/4|2015|02/10/2014|f|P TEST|Applied MOP onto plots 103 83 63 43 + 23|125|kg/ha
-R/EX/4|2015|02/10/2014|f|P TEST|Applied MOP onto plots 104-24, 91-11, 92:12, 93-13, 94-14.|250|kg'ha
-R/EX/4|2015|08/10/2014|a|P TEST|Ploughed ground (thrown North) -o.|None|None
-R/EX/4|2015|28/10/2014|s|P TEST|Drilled Crusoe It Redigo Deter|400|seeds/m?
-R/EX/4|2015|01/11/2014|a|P TEST|Ring rolled all new drilling .|None|None
-R/EX/4|2015|10/11/2014|p|P TEST|Sprayed Crystal|4|ha
-R/EX/4|2015|04/12/2014|p|P TEST|Sprayed Hallmark|50|miha
-R/EX/4|2015|23/03/2015|f|P TEST|Applied Ammonia Sulphate (21%N) onto plots|238|kg'ha
-R/EX/4|2015|05/04/2015|p|P TEST|Sprayed Artemis|1|ha
-R/EX/4|2015|05/04/2015|p|P TEST|Sprayed Bravo 500|1|ha
-R/EX/4|2015|05/04/2015|p|P TEST|Sprayed Chlormequat 750|125|ha
-R/EX/4|2015|05/04/2015|p|P TEST|Sprayed Moddus|150|miha
-R/EX/4|2015|09/04/2015|f|P TEST|Applied Nitram fertiliser (34.5%N) to Winter Wheat Plots|580|kgha
-R/EX/4|2015|16/04/2015|f|P TEST|Applied Kieserite to Winter Wheat Plots|80|kgha
-R/EX/4|2015|27/04/2015|p|P TEST|Sprayed Kingdom 27/0472015 p Sprayed Balear720 700 miha|125|ha
-R/EX/4|2015|30/04/2015|f|P TEST|Applied Nitram fertiliser (34.5%N) to Winter Wheat Plots|145|kg/ha
-R/EX/4|2015|27/05/2015|p|P TEST|Sprayed Ally Max|30|gmha
-R/EX/4|2015|27/05/2015|p|P TEST|Sprayed Bassoon|750|miha
-R/EX/4|2015|27/05/2015|p|P TEST|Sprayed Gemstone|1|ha
-R/EX/4|2015|27/05/2015|p|P TEST|Sprayed BravoS00|1|lUha
-R/EX/4|2015|15/06/2015|p|P TEST|Sprayed Proline onto WW|500|miha
-R/EX/4|2015|06/08/2015|a|P TEST|Topped Paths -|None|None
-R/EX/4|2015|07/09/2015|a|P TEST|Harvested All Commercial WW: Swathed Straw -|None|None
-R/EX/4|2015|13/09/2015|a|P TEST|Harvested All Plots for Grain Yield . i.|None|None
-R/EX/4|2015|13/09/2015|a|P TEST|Sampled Baled and Weighed .|None|None
-R/EX/4|2016|25/08/2015|p|P TEST|Sprayed Firebrand|1|Itha
-R/EX/4|2016|25/08/2015|p|P TEST|Sprayed Samurai|4|Itha
-R/EX/4|2016|01/10/2015|f|P TEST|Applied MOP - Plots 103, 83, 63, 43 + 23|125|kg/ha
-R/EX/4|2016|01/10/2015|x|P TEST|f Applies MOP - Plots 094-014, 092-012, 104-024, 093-013, 091-|250|kgha
-R/EX/4|2016|01/10/2015|x|P TEST|f Apisy VSP plots 101-021, 102-022, 103-023, 104-024, 091-|75|kgha
-R/EX/4|2016|09/10/2015|a|P TEST|Ploughed; thrown south -|None|None
-R/EX/4|2016|09/10/2015|a|P TEST|Topped all field and exp - Batwing -|None|None
-R/EX/4|2016|15/10/2015|a|P TEST|Power harrowed - Seed bed preparation -|None|None
-R/EX/4|2016|15/10/2015|s|P TEST|Drilled Crusoe trt Redigo|350|seed/m?
-R/EX/4|2016|18/10/2015|a|P TEST|Ring Rolled all new drilling - -|None|None
-R/EX/4|2016|19/10/2015|p|P TEST|Sprayed WW - Liberater|0.6|Ivha
-R/EX/4|2016|19/10/2015|p|P TEST|Sprayed WW - Stomp Aqua|1.75|fIvha
-R/EX/4|2016|12/11/2015|p|P TEST|Sprayed Hallmark|40|ml/ha
-R/EX/4|2016|03/12/2015|p|P TEST|Applied TDS Major|5|kgha
-R/EX/4|2016|12/12/2015|p|P TEST|Sprayed Hallmark|40|ml/ha
-R/EX/4|2016|21/03/2016|f|P TEST|Applied Sulphate of Ammonia|238|kg/ha
-R/EX/4|2016|04/04/2016|f|P TEST|Applied Nitram @ 34.5%N|840|kg/ha
-R/EX/4|2016|08/04/2016|p|P TEST|Sprayed Moddus|150|mi/ha
-R/EX/4|2016|08/04/2016|p|P TEST|Sprayed BASF 3C Chlormequat750|1.25|Itha
-R/EX/4|2016|08/04/2016|p|P TEST|Sprayed Odin|500|ml/ha
-R/EX/4|2016|08/04/2016|p|P TEST|Sprayed Mirage 40ec|500|ml/ha
-R/EX/4|2016|08/04/2016|p|P TEST|Sprayed Bravo500|1|Ivha
-R/EX/4|2016|13/04/2016|f|P TEST|Applied Kieserite - all plots|80|kg/ha
-R/EX/4|2016|05/05/2016|p|P TEST|Sprayed Keystone - wheat only|800|ml/ha
-R/EX/4|2016|05/05/2016|p|P TEST|Sprayed Keystone - wheat only|700|ml/ha
-R/EX/4|2016|24/05/2016|p|P TEST|Sprayed Vortex|1.5|Itha
-R/EX/4|2016|24/05/2016|p|P TEST|Sprayed VortexCorbel|250|ml/ha
-R/EX/4|2016|09/07/2016|p|P TEST|Sprayed Cello|550|ml/ha
-R/EX/4|2016|09/07/2016|p|P TEST|Sprayed Hallmark|50|mlha
-R/EX/4|2016|22/08/2016|a|P TEST|Cut Paths using Iseki and Mower - -|None|None
-R/EX/4|2016|23/08/2016|a|P TEST|Mopped Up remaining crop - -|None|None
-R/EX/4|2016|25/08/2016|a|P TEST|Harvested All Plots = =|None|None
-R/EX/4|2016|26/08/2016|a|P TEST|Combined all crop using Tucano - -|None|None
-R/EX/4|2016|25/08/2015|p|P TEST|Sprayed Firebrand Note: Samples of grain and straw were taken for chemical analysis. The yield strips on plots 031-034, 071- 074, 091- 094 (12 plots in total) were made smaller this year to avoid areas where the crop had already been sampled by S. McGrath et al. 16/R/EX/4|1|Itha
-R/EX/4|2017|26/09/2016|a||Topped all stubble - -|None|None
+R/EX/4|2012|20-Sep-12|p|All Plots|Sprayed Whole field Weedazol EW|20|Vha
+R/EX/4|2012|28-Sep-12|f|All Plots|Spread Muriate of Potash - plots 103,83,63,43,23|125|kg/ha
+R/EX/4|2012|28-Sep-12|f|All Plots|Muriate of Potash - plots 104-94,87-73,64- 54,44-34,24-14|250|kg/ha
+R/EX/4|2012|28-Sep-12|f|All Plots|Spread TSP as on sheet on plots 101-93,81-73,61- 53, 41-33,21-13.|75|kg/ha
+R/EX/4|2013|20-Sep-12|p|All Plots|Sprayed Whole field w/ Weedazol EW|20|/ha
+R/EX/4|2013|28-Sep-12|f|All Plots|Spread MOP Fertilizer on plots - 103.83.63.43.23|125|kg/ha
+R/EX/4|2013|28-Sep-12|f|All Plots|Spread MOP Fertilizer as on sheet on plots 104-94,87- 73,64-54 44-34 24-14|250|kg/ha
+R/EX/4|2013|28-Sep-12|f|All Plots|Spread TSP as on sheet on plots 101-93,81-73,61- 53,41-33,21-13|75|kg/ha
+R/EX/4|2013|15-Oct-12|a|All Plots|Drilled WW Xi19|400|seeds m?
+R/EX/4|2013|15-Nov-12|p|All Plots|Sprayed Liberator, also o+e’s at each end of EX/4|0.6|l/ha
+R/EX/4|2013|15-Nov-12|p|All Plots|Sprayed PDM, also o+e’s at each end of EX/4|2.7|l/ha|None|None
+R/EX/4|2013|15-Nov-12|p|All Plots|Spread Slug Pellets (Gusto)|5|kg/ha
+R/EX/4|2013|11-Mar-13|f|All Plots|Applied Kieserite|80|kg/ha
+R/EX/4|2013|12-Mar-13|f|All Plots|Applied Ammonium Sulphate Fertiliser|238|kg/ha
+R/EX/4|2013|25-Apr-13|f|All Plots|Applied Nitram|580|kg/ha
+R/EX/4|2013|16-May-13|p|All Plots|Sprayed AllyMax|42|g/ha
+R/EX/4|2013|16-May-13|p|All Plots|Sprayed Kingdom|1.25|l/ha
+R/EX/4|2013|16-May-13|p|All Plots|Sprayed Bravo 500|1.00|l/ha
+R/EX/4|2013|16-May-13|p|All Plots|Sprayed New Cycocel|2.0|l/ha 
+R/EX/4|2013|16-May-13|p|All Plots|Sprayed HatchetExtra|1.0|l/ha|
+R/EX/4|2013|21-May-13|f|All Plots|Applied Nitram|145|kg/ha
+R/EX/4|2013|06-Jun-13|p|All Plots|Sprayed Ingite|1.2|l/ha
+R/EX/4|2013|06-Jun-13|p|All Plots|Sprayed Comet|0.4|I/ha|None|None
+R/EX/4|2013|18-Jun-13|p|All Plots|Sprayed Cello|0.55|/ha
+R/EX/4|2013|19-Jun-13|a|All Plots|Cut Paths|None|None
+R/EX/4|2013|04-Jul-13|a|All Plots|Cut Paths|None|None
+R/EX/4|2013|19-Jul-13|a|All Plots|Cut Paths|None|None
+R/EX/4|2013|12-Aug-13|a|All Plots|Claas - Harvested|None|None
+R/EX/4|2013|13-Aug-13|a|All Plots|Sampo - Harvested|None|None
+R/EX/4|2013|13-Aug-13|a|All Plots|baled weighed and sampled plots|None|None
+R/EX/4|2013|20-Aug-13|a|All Plots|Claas - harvested O+E's||
+R/EX/4|2014|30-Sep-13|f|All Plots|Applied MOP Fertiliser - Plots 023, 043, 063, 083, 103|125|kg/ha
+R/EX/4|2014|30-Sep-13|f|All Plots|Applied MOP Fertiliser - Plots 011, 012, 013, 014, 024, 031, 032, 033, 034, 044, 051, 052, 053, 054, 064, 071, 072, 073, 074, 084, 091, 092, 093, 094, 104|250|kg/ha
+R/EX/4|2014|30-Sep-13|f|All Plots|Applied TSP - All Plots except Plots 014, 034, 054, 074, 094|75|kg/ha
+R/EX/4|2014|01-Oct-13|a|All Plots|Topping |None|None
+R/EX/4|2014|02-Oct-13|a|All Plots|Applied Chalk - Plots 013, 014, 041, 043, 051, 054, 072|2|tha
+R/EX/4|2014|02-Oct-13|a|All Plots|Applied Chalk - Plots 021, 042, 044, 081, 071, 074, 091, 102, 104|4|tha
+R/EX/4|2014|02-Oct-13|a|All Plots|Applied Chalk - Plots 011, 012, 022, 023, 024, 031, 052, 053, 061, 062, 063, 064, 082, 083, 084, 101, 103|6|tha
+R/EX/4|2014|09-Oct-13|a|All Plots|Ploughed|None|None
+R/EX/4|2014|10-Oct-13|a|All Plots|Cultipressed |None|None
+R/EX/4|2014|18-Oct-13|s|All Plots|Drilled All Plots - var. Xi19|400|seeds/m”
+R/EX/4|2014|27-Nov-13|p|All Plots|Applied Major Slug Pellets|4|kg/ha
+R/EX/4|2014|27-Nov-13|p|All Plots|Sprayed Hallmark|50|mi‘ha
+R/EX/4|2014|27-Nov-13|p|All Plots|Sprayed Liberator|600|mlha
+R/EX/4|2014|27-Nov-13|p|All Plots|Sprayed Stomp|1.7|ha
+R/EX/4|2014|10-Mar-14|f|All Plots|Applied sulphate of ammonia - All Plots|238|kg/ha
+R/EX/4|2014|01-Apr-14|f|All Plots|Applied Nitram Fertilizer - All Plots|580|kg/ha
+R/EX/4|2014|03-Apr-14|p|All Plots|Sprayed Artemis|1.0|ha
+R/EX/4|2014|03-Apr-14|p|All Plots|Sprayed Bravo 500|1.0|ha
+R/EX/4|2014|03-Apr-14|p|All Plots|Sprayed BASF 3C 720|1.75|ha
+R/EX/4|2014|09-Apr-14|f|All Plots|Applied Kieserite - All Plots|80|kg/ha
+R/EX/4|2014|28-Apr-14|p|All Plots|Sprayed Kingdom|1.25|Vlha
+R/EX/4|2014|28-Apr-14|p|All Plots|Sprayed Bravo 500|1.0|Vha
+R/EX/4|2014|13-May-14|f|All Plots|Applied Nitram - All Plots|145|kg/ha
+R/EX/4|2014|16-May-14|p|All Plots|Sprayed Simba|30|g/ha
+R/EX/4|2014|16-May-14|p|All Plots|Sprayed Vortex|15|ha
+R/EX/4|2014|06-Jun-14|p|All Plots|Sprayed Cello|550|mlha
+R/EX/4|2014|25-Jun-14|a|All Plots|Rotavated Fallow Areas (discard surrounds) |None|None
+R/EX/4|2014|31-Jul-14|a|All Plots|Cut Paths - in and around experiment |None|None
+R/EX/4|2014|19-Aug-14|a|All Plots|Claas Harvested OE’s|None|None
+R/EX/4|2014|21-Aug-14|a|All Plots|Sampo - Harvested All Plots |None|None
+R/EX/4|2014|24-Aug-14|a|All Plots|Sampled, Baled and Weighed Straw - all plots |None|None
+R/EX/4|2014|04-Sep-14|a|All Plots|Claas Combine - Harvesting Leftover Wheat from Trial|None|None
+R/EX/4|2015|02/10/2014|f|All Plots|Applied TSP|75|kg/ha
+R/EX/4|2015|02/10/2014|f|All Plots|Applied MOP onto plots 103 83 63 43 + 23|125|kg/ha
+R/EX/4|2015|02/10/2014|f|All Plots|Applied MOP onto plots 104-24, 91-11, 92-12, 93-13, 94-14.|250|kg'ha
+R/EX/4|2015|08/10/2014|a|All Plots|Ploughed ground (thrown North) -o.|None|None
+R/EX/4|2015|28/10/2014|s|All Plots|Drilled Crusoe trt Redigo Deter|400|seeds/m?
+R/EX/4|2015|01/11/2014|a|All Plots|Ring rolled all new drilling .|None|None
+R/EX/4|2015|10/11/2014|p|All Plots|Sprayed Crystal|4|l/ha
+R/EX/4|2015|04/12/2014|p|All Plots|Sprayed Hallmark|50|miha
+R/EX/4|2015|23/03/2015|f|All Plots|Applied Ammonia Sulphate (21%N) onto plots|238|kg'ha
+R/EX/4|2015|05/04/2015|p|All Plots|Sprayed Artemis|1|l/ha
+R/EX/4|2015|05/04/2015|p|All Plots|Sprayed Bravo 500|1|l/ha
+R/EX/4|2015|05/04/2015|p|All Plots|Sprayed Chlormequat 750|125|ha
+R/EX/4|2015|05/04/2015|p|All Plots|Sprayed Moddus|150|miha
+R/EX/4|2015|09/04/2015|f|All Plots|Applied Nitram fertiliser (34.5%N) to Winter Wheat Plots|580|kgha
+R/EX/4|2015|16/04/2015|f|All Plots|Applied Kieserite to Winter Wheat Plots|80|kgha
+R/EX/4|2015|27/04/2015|p|All Plots|Sprayed Kingdom|1.25|l/ha 
+R/EX/4|2015|27/04/2015|p|All Plots|Sprayed Balear 720|700 |ml/ha
+R/EX/4|2015|30/04/2015|f|All Plots|Applied Nitram fertiliser (34.5%N) to Winter Wheat Plots|145|kg/ha
+R/EX/4|2015|27/05/2015|p|All Plots|Sprayed Ally Max|30|gmha
+R/EX/4|2015|27/05/2015|p|All Plots|Sprayed Bassoon|750|miha
+R/EX/4|2015|27/05/2015|p|All Plots|Sprayed Gemstone|1|l/ha
+R/EX/4|2015|27/05/2015|p|All Plots|Sprayed Bravo 500|1|lUha
+R/EX/4|2015|15/06/2015|p|All Plots|Sprayed Proline onto WW|500|miha
+R/EX/4|2015|06/08/2015|a|All Plots|Topped Paths -|None|None
+R/EX/4|2015|07/09/2015|a|All Plots|Harvested All Commercial WW: Swathed Straw|None|None
+R/EX/4|2015|13/09/2015|a|All Plots|Harvested All Plots for Grain Yield.|None|None
+R/EX/4|2015|13/09/2015|a|All Plots|Sampled Baled and Weighed .|None|None
+R/EX/4|2015|17/09/2015|a|All Plots|Removed round bales from field||
+R/EX/4|2016|25/08/2015|p|All Plots|Sprayed Firebrand|1|Itha
+R/EX/4|2016|25/08/2015|p|All Plots|Sprayed Samurai|4|Itha
+R/EX/4|2016|01/10/2015|f|All Plots|Applied MOP - Plots 103, 83, 63, 43 + 23|125|kg/ha
+R/EX/4|2016|01/10/2015|f|All Plots|Applied MOP - Plots 094-014, 092-012, 104-024, 093-013, 091-011|250|kgha
+R/EX/4|2016|01/10/2015|f|All Plots|Applied TSP - Plots 101-021, 102-022, 103-023, 104-024, 091-011 + 092-012|75|kgha
+R/EX/4|2016|09/10/2015|a|All Plots|Ploughed; thrown south -|None|None
+R/EX/4|2016|09/10/2015|a|All Plots|Topped all field and exp - Batwing|None|None
+R/EX/4|2016|15/10/2015|a|All Plots|Power harrowed - Seed bed preparation|None|None
+R/EX/4|2016|15/10/2015|s|All Plots|Drilled Crusoe trt Redigo|350|seed/m?
+R/EX/4|2016|18/10/2015|a|All Plots|Ring Rolled all new drilling |None|None
+R/EX/4|2016|19/10/2015|p|All Plots|Sprayed WW - Liberater|0.6|Ivha
+R/EX/4|2016|19/10/2015|p|All Plots|Sprayed WW - Stomp Aqua|1.75|fIvha
+R/EX/4|2016|12/11/2015|p|All Plots|Sprayed Hallmark|40|ml/ha
+R/EX/4|2016|03/12/2015|p|All Plots|Applied TDS Major|5|kgha
+R/EX/4|2016|12/12/2015|p|All Plots|Sprayed Hallmark|40|ml/ha
+R/EX/4|2016|21/03/2016|f|All Plots|Applied Sulphate of Ammonia|238|kg/ha
+R/EX/4|2016|04/04/2016|f|All Plots|Applied Nitram @ 34.5%N|840|kg/ha
+R/EX/4|2016|08/04/2016|p|All Plots|Sprayed Moddus|150|mi/ha
+R/EX/4|2016|08/04/2016|p|All Plots|Sprayed BASF 3C Chlormequat750|1.25|Itha
+R/EX/4|2016|08/04/2016|p|All Plots|Sprayed Odin|500|ml/ha
+R/EX/4|2016|08/04/2016|p|All Plots|Sprayed Mirage 40ec|500|ml/ha
+R/EX/4|2016|08/04/2016|p|All Plots|Sprayed Bravo 500|1|Ivha
+R/EX/4|2016|13/04/2016|f|All Plots|Applied Kieserite - all plots|80|kg/ha
+R/EX/4|2016|05/05/2016|p|All Plots|Sprayed Keystone - wheat only|800|ml/ha
+R/EX/4|2016|05/05/2016|p|All Plots|Sprayed Keystone - wheat only|700|ml/ha
+R/EX/4|2016|24/05/2016|p|All Plots|Sprayed Vortex|1.5|Itha
+R/EX/4|2016|24/05/2016|p|All Plots|Sprayed Corbel|250|ml/ha
+R/EX/4|2016|09/07/2016|p|All Plots|Sprayed Cello|550|ml/ha
+R/EX/4|2016|09/07/2016|p|All Plots|Sprayed Hallmark|50|mlha
+R/EX/4|2016|22/08/2016|a|All Plots|Cut Paths using Iseki and Mower |None|None
+R/EX/4|2016|23/08/2016|a|All Plots|Mopped Up remaining crop |None|None
+R/EX/4|2016|25/08/2016|a|All Plots|Harvested All Plots|None|None
+R/EX/4|2016|26/08/2016|a|All Plots|Combined all crop using Tucano |None|None
+R/EX/4|2016|25/08/2015|p|All Plots|Sprayed Firebrand|1|Itha
+R/EX/4|2017|26/09/2016|a||Topped all stubble |None|None
 R/EX/4|2017|26/09/2016|f||Applied TSP to plots 101-104, 081-084, 061-064, 041-044, 021-024, 091-092, 071- 072, 051-052, 031-032 and 011-012|75|kg/ha
 R/EX/4|2017|26/09/2016|f||Applied MOP to plots 103, 083, 063,043, 023|125|kg/ha
 R/EX/4|2017|26/09/2016|f||Applied MOP onto plots 104-094, 084- 074, 064-054, 044-034 and 024-014|250|kg/ha
-R/EX/4|2017|28/09/2016|a|| Ploughed - thrown North -|None|None
-R/EX/4|2017|06/10/2016|a|| Cultipressed - all ground and immediate - - surrounds|None|None
-R/EX/4|2017|10/10/2016|a||Ring Rolled All New Drilling -|None|None
+R/EX/4|2017|28/09/2016|a|| Ploughed - thrown North|None|None
+R/EX/4|2017|06/10/2016|a|| Cultipressed - all ground and immediate  surrounds|None|None
+R/EX/4|2017|10/10/2016|a||Ring Rolled All New Drilling|None|None
 R/EX/4|2017|10/10/2016|s||Drilled Crusoe Treated w/Redigo Pro + Deter|350|seeds/m?
-R/EX/4|2017|10/10/2016|a|| Cultipressed - all sites and surrounds -|None|None
+R/EX/4|2017|10/10/2016|a|| Cultipressed - all sites and surrounds|None|None
 R/EX/4|2017|15/10/2016|p||Sprayed Liberator|600|ml/ha
 R/EX/4|2017|15/10/2016|p||Sprayed Defy|3|It/ha
 R/EX/4|2017|15/10/2016|p||Sprayed Deploy|400|ml/ha
 R/EX/4|2017|02/12/2016|p||Sprayed Hallmark|50|mil/ha
-R/EX/4|2017|14/03/2017|f||Applied Sulphate of Ammonia (21%N 60%S03) to all plots 21 Results of the Classical and other Long-term Experiments 2017|238|kg/ha
+R/EX/4|2017|14/03/2017|f||Applied Sulphate of Ammonia (21%N 60%S03) to all plots|238|kg/ha
 R/EX/4|2017|21/03/2017|f||Applied Kieserite|80|kg/ha
 R/EX/4|2017|04/04/2017|f||Applied Nitram|580|kg/ha
 R/EX/4|2017|05/04/2017|p||Sprayed Artemis|1|It/ha
@@ -298,42 +347,11 @@ R/EX/4|2017|27/04/2017|p||Sprayed keystone|600|ml/ha
 R/EX/4|2017|27/04/2017|p||Sprayed epic|400|ml/ha
 R/EX/4|2017|27/04/2017|p||Sprayed balear 720sc|700|ml/ha
 R/EX/4|2017|05/05/2017|f||Applied Nitram (34.5% N)|145|kg/ha
-R/EX/4|2017|08/06/2017|a||Cut Paths -|None|None
+R/EX/4|2017|08/06/2017|a||Cut Paths|None|None
 R/EX/4|2017|19/06/2017|p||Sprayed Fezan (Tebuconazole)|750|ml/ha
-R/EX/4|2017|26/06/2017|a||cutall paths -|None|None
-R/EX/4|2017|27/07/2017|a||cutall paths - -|None|None
-R/EX/4|2017|01/09/2017|a||Harvested All Plots -|None|None
-R/EX/4|2017|02/09/2017|a||Completed Straw Samples and Weights - -|None|None
-R/EX/4|2017|06/09/2017|a||harvested leftover wheat of harvested - trials and surrounds|None|None
-R/EX/4|2017|07/09/2017|a|| Baled all remaining commercial swath - Yields|None|None
-R/EX/4|2017|26/09/2016|a||Topped all stubble - -|None|None
-R/EX/4|2017|26/09/2016|f||Applied TSP to plots 101-104, 081-084, 061-064, 041-044, 021-024, 091-092, 071- 072, 051-052, 031-032 and 011-012|75|kg/ha
-R/EX/4|2017|26/09/2016|f||Applied MOP to plots 103, 083, 063,043, 023|125|kg/ha
-R/EX/4|2017|26/09/2016|f||Applied MOP onto plots 104-094, 084- 074, 064-054, 044-034 and 024-014|250|kg/ha
-R/EX/4|2017|28/09/2016|a|| Ploughed - thrown North -|None|None
-R/EX/4|2017|06/10/2016|a|| Cultipressed - all ground and immediate - - surrounds|None|None
-R/EX/4|2017|10/10/2016|a||Ring Rolled All New Drilling -|None|None
-R/EX/4|2017|10/10/2016|s||Drilled Crusoe Treated w/Redigo Pro + Deter|350|seeds/m?
-R/EX/4|2017|10/10/2016|a|| Cultipressed - all sites and surrounds -|None|None
-R/EX/4|2017|15/10/2016|p||Sprayed Liberator|600|ml/ha
-R/EX/4|2017|15/10/2016|p||Sprayed Defy|3|It/ha
-R/EX/4|2017|15/10/2016|p||Sprayed Deploy|400|ml/ha
-R/EX/4|2017|02/12/2016|p||Sprayed Hallmark|50|mil/ha
-R/EX/4|2017|14/03/2017|f||Applied Sulphate of Ammonia (21%N 60%S03) to all plots 21 Results of the Classical and other Long-term Experiments 2017|238|kg/ha
-R/EX/4|2017|21/03/2017|f||Applied Kieserite|80|kg/ha
-R/EX/4|2017|04/04/2017|f||Applied Nitram|580|kg/ha
-R/EX/4|2017|05/04/2017|p||Sprayed Artemis|1|It/ha
-R/EX/4|2017|05/04/2017|p||Sprayed Claw 500|1|It/ha
-R/EX/4|2017|05/04/2017|p||Sprayed 3C Chlormequat 750|2|lIt/ha
-R/EX/4|2017|27/04/2017|p||Sprayed keystone|600|ml/ha
-R/EX/4|2017|27/04/2017|p||Sprayed epic|400|ml/ha
-R/EX/4|2017|27/04/2017|p||Sprayed balear 720sc|700|ml/ha
-R/EX/4|2017|05/05/2017|f||Applied Nitram (34.5% N)|145|kg/ha
-R/EX/4|2017|08/06/2017|a||Cut Paths -|None|None
-R/EX/4|2017|19/06/2017|p||Sprayed Fezan (Tebuconazole)|750|ml/ha
-R/EX/4|2017|26/06/2017|a||cutall paths -|None|None
-R/EX/4|2017|27/07/2017|a||cutall paths - -|None|None
-R/EX/4|2017|01/09/2017|a||Harvested All Plots -|None|None
-R/EX/4|2017|02/09/2017|a||Completed Straw Samples and Weights - -|None|None
+R/EX/4|2017|26/06/2017|a||cut all paths|None|None
+R/EX/4|2017|27/07/2017|a||cut all paths |None|None
+R/EX/4|2017|01/09/2017|a||Harvested All Plots|None|None
+R/EX/4|2017|02/09/2017|a||Completed Straw Samples and Weights |None|None
 R/EX/4|2017|06/09/2017|a||harvested leftover wheat of harvested - trials and surrounds|None|None
 R/EX/4|2017|07/09/2017|a|| Baled all remaining commercial swath - Yields|None|None

@@ -1,18 +1,20 @@
-R/EX/4|1972|None|Julia, dressed with Ethirimol, sown at 1.6 kg.
+R/EX/4|1972|None|Julia, dressed with Ethirimol, sown at 160 kg.
 R/EX/4|1973|None|Julia, dressed with Ethirimol, sown at 160 kg.
+R/EX/4|1974|None|Julia, dressed with Ethirimol, sown at 160 kg.
+R/EX/4|1975|None|Fallow
 R/EX/4|1976|None|Julia, dressed with Ethirimol, sown at 160 kg.
 R/EX/4|1977|None|Julia, sown at 160 kg.
 R/EX/4|1978|None|Julia, seed dressed with Ethirimol, sown at 160 kg.
 R/EX/4|1979|None|Julia, sown at 160 kg.
-R/EX/4|1980|None|Georgie, sown at 160 kg. 19 80/R/EX/4
+R/EX/4|1980|None|Georgie, sown at 160 kg.
 R/EX/4|1981|None|Georgie, sown at 160 kg.
-R/EX/4|1982|None|Georgie, dressed Ethirimol, sown at 160 kg. 19 82/R/EX/4
+R/EX/4|1982|None|Georgie, dressed Ethirimol, sown at 160 kg.
 R/EX/4|1983|None|Georgie, dressed Ethirimol, sown at 160 kg.
-R/EX/4|1984|None|Triumph, seed dressed triadimenol and fuberidazole sown at 160 kg.
+R/EX/4|1984|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.
 R/EX/4|1985|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.
-R/EX/4|1986|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg. .
-R/EX/4|1987|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg. :
-R/EX/4|1988|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 1 160 kg.
+R/EX/4|1986|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.
+R/EX/4|1987|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.
+R/EX/4|1988|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.
 R/EX/4|1989|None|Triumph, seed dressed flutriafol, Ethirimol and thiabendazole, sown at 160 kg.
 R/EX/4|1990|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.
 R/EX/4|1991|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 130 kg.

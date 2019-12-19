@@ -1,7 +1,10 @@
-R/EX/4|1977||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus’
-R/EX/4|1977|||t 4.91 in 220 1), .
-R/EX/4|1978||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus'
-R/EX/4|1978||Fungicide|Tridemorph at 0.53 kg in 220 1.
+R/EX/4|1974||manures|88 kg N as 'Nitro-chalk', combine drilled
+R/EX/4|1974||weedkiller|4.5 kg aminotriazole + 4.1 kg ammonium thiocyanate in 220 l in autumn
+R/EX/4|1974||weedkiller|Dicamba, mecoprop and MCPA ('Tetralex Plus' at 7.0 l in 220 l) in spring 
+R/EX/4|1976||weedkiller|Dicamba, mecoprop and MCPA ('Tetralex Plus' at 7.0 l in 220 l)
+R/EX/4|1977||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 l in 220 l)
+R/EX/4|1978||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 l in 220 l)
+R/EX/4|1978||Fungicide|Tridemorph at 0.53 kg in 220 l.
 R/EX/4|1979||weedkiller|bromoxynil and ioxynil (as 'Oxytril CM' at
 R/EX/4|1979||Fungicide|Tridemorph at 0.53 kg
 R/EX/4|1979|||n 220 1.
