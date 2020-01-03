@@ -5,54 +5,36 @@ R/EX/4|1976||weedkiller|Dicamba, mecoprop and MCPA ('Tetralex Plus' at 7.0 l in 
 R/EX/4|1977||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 l in 220 l)
 R/EX/4|1978||weedkiller|Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 l in 220 l)
 R/EX/4|1978||Fungicide|Tridemorph at 0.53 kg in 220 l.
-R/EX/4|1979||weedkiller|bromoxynil and ioxynil (as 'Oxytril CM' at
-R/EX/4|1979||Fungicide|Tridemorph at 0.53 kg
-R/EX/4|1979|||n 220 1.
-R/EX/4|1980||weedkiller|glyphosate at 1.51 in
-R/EX/4|1980|||20 1
-R/EX/4|1980|||mecoprop, bromoxynil, ioxynil and linuron with xylene (as
-R/EX/4|1980||Fungicide|
-R/EX/4|1980|||Tridemorph at 0.53 kg.
-R/EX/4|1981||weedkiller|Dicamba with mecoprop and MCPA (as
-R/EX/4|1981|||Banlene Plus' at 5.0 1) in 250 1 applied with the Fungicide.
+R/EX/4|1979||weedkiller|bromoxynil and ioxynil (as 'Oxytril CM' at 1.4 kg) and mecoprop at 1.7 kg in 220 l
+R/EX/4|1979||Fungicide|Tridemorph at 0.53 kg in 220 1.
+R/EX/4|1980||weedkiller|glyphosate at 1.51 in 220 1
+R/EX/4|1980||weedkiller|mecoprop, bromoxynil, ioxynil and linuron with xylene (as 'Springclene at 3.5 l) in 250 applied with fungicide
+R/EX/4|1980||Fungicide|Tridemorph at 0.53 kg.
+R/EX/4|1981||weedkiller|Dicamba with mecoprop and MCPA (as 'Banlene Plus' at 5.0 1) in 250 1 applied with the Fungicide.
 R/EX/4|1981||Fungicide|Tridemorph at 0.53 kg.
 R/EX/4|1982||weedkiller|glyphosate at 1.4 kg in 250 1
-R/EX/4|1982||weedkiller|Dicamba,
-R/EX/4|1982|||mecoprop and MCPA (as Banlene Plus' at 5.0 1) in 250 1 applied with the
+R/EX/4|1982||weedkiller|Dicamba, mecoprop and MCPA (as 'Banlene Plus' at 5.0 1) in 250 1 applied with the fungicide.
 R/EX/4|1982||Fungicide|Tridemorph at 0.53 kg.
 R/EX/4|1983||weedkiller|glyphosate at 1.4 kg in 250 1
-R/EX/4|1983||weedkiller|Dicamba,
-R/EX/4|1983|||mecoprop and MCPA (as 'Herrisol’ at 5.0 1) in 500 1 applied with the
+R/EX/4|1983||weedkiller|Dicamba, mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 500 1 applied with the fungicide.
 R/EX/4|1983||Fungicide|Tridemorph at 0.52 kg.
-R/EX/4|1984||weedkiller|3, dichloropicolinic acid at 0.07 kg
-R/EX/4|1984|||with bromoxynil at 0.34 kg and mecoprop (as 'CMPP' at 4.2 1) in 500 1.
+R/EX/4|1984||weedkiller|3,6-dichloropicolinic acid at 0.07 kg with bromoxynil at 0.34 kg and mecoprop (as 'CMPP' at 4.2 1) in 500 1.
 R/EX/4|1984||Fungicide|Tridemorph at 0.52 kg in 260 1.
-R/EX/4|1985||weedkiller|Clopyralid at 0.10 kg with bromoxynil)
-R/EX/4|1985||Fungicide|Tridemorph
-R/EX/4|1985|||t 0.52 kg in 200 1.
-R/EX/4|1985|||5/R/EX/4
-R/EX/4|1986||weedkiller|Clopyralid at 0.05 kg, bromoxynil
-R/EX/4|1986|||ctanoate at 0.24 ke and mecoprop at 2.1 kg in 200 1 applied with the
-R/EX/4|1986||Fungicide|Tridemorph at 0.52 kg on top occasfons, the
-R/EX/4|1986|||irst with the weedkiller, the second in 200 1.
-R/EX/4|1986|||6/R/EX/4
-R/EX/4|1987||weedkiller|Clopyralid at 0.07 kg and bromoxynil at
-R/EX/4|1987||Fungicide|Tridemorph at
-R/EX/4|1987|||.52 kg in 200 1.
-R/EX/4|1987|||7/R/EX/4
+R/EX/4|1985||weedkiller|Clopyralid at 0.10 kg with bromoxynil and ioxynil (as 'Deloxil at 0.70 l) in 500 l
+R/EX/4|1985||Fungicide|Tridemorph at 0.52 kg in 200 1.
+R/EX/4|1986||weedkiller|Clopyralid at 0.05 kg, bromoxynil octanoate at 0.24 kg and mecoprop at 2.1 kg in 200 1 applied with the fungicide
+R/EX/4|1986||Fungicide|Tridemorph at 0.52 kg on two occasions, the first with the weedkiller, the second in 200 1.
+R/EX/4|1987||weedkiller|Clopyralid at 0.07 kg and bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 200 l
+R/EX/4|1987||Fungicide|Tridemorph at 0.52 kg in 200 1.
 R/EX/4|1988||weedkiller|glyphosate at 1.4 kg in 200 1.
-R/EX/4|1988|||mecoprop at 2.4 kg with clopyralid at 0.05 kg and bromoxynil at
-R/EX/4|1988||Fungicide|propiconazole at 0.12 kg and
-R/EX/4|1988|||Tridemorph at 0.25 kg in 200 1 on top occasions.
+R/EX/4|1988||weedkiller|mecoprop at 2.4 kg with clopyralid at 0.05 kg and bromoxynil at 0.24 kg in 200 l
+R/EX/4|1988||Fungicide|propiconazole at 0.12 kg and Tridemorph at 0.25 kg in 200 1 on two occasions.
 R/EX/4|1989||weedkiller|glyphosate at 1.4 kg in 200 1.
-R/EX/4|1989|||mecoprop at 1.6 kg with ioxynil at 0.20 kg and bromoxynil at
+R/EX/4|1989||weedkiller|mecoprop at 1.6 kg with ioxynil at 0.20 kg and bromoxynil at 1.6 kg in 200 l
 R/EX/4|1989||Fungicide|propiconazole at 0.12 kg in 200 1.
 R/EX/4|1990||weedkiller|glyphosate at 1.4 kg in 200 1.
-R/EX/4|1990|||mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg
-R/EX/4|1990||Fungicide|in 200 1.
-R/EX/4|1990||Fungicide|Fenpropimorph at
+R/EX/4|1990||weedkiller|mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg applied with the fungicide in 200 1.
+R/EX/4|1990||Fungicide|Fenpropimorph at 0.75 kg
 R/EX/4|1990||insecticide|demeton-s-methyl at 0.24 kg in 200 1.
-R/EX/4|1991||weedkiller|Fluroxypyr at 0.15 xg with the
-R/EX/4|1991||Fungicide|
+R/EX/4|1991||weedkiller|Fluroxypyr at 0.15 xg with the fungicide in 200 l
 R/EX/4|1991||Fungicide|Fenpropimorph at 0.38 kg
-R/EX/4|1991||Fungicide|.

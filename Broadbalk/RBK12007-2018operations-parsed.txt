@@ -1,0 +1,916 @@
+R/BK/1|2007|05-Sep-06|p|All Sections|Weedazol-TL Sections 0-4, 6, 7, 9|20.00|l/200 l/ha
+R/BK/1|2007|28-Sep-06|a|All Sections|Topped Section 8
+R/BK/1|2007|04-Oct-06|f|All Sections|Farm Yard Manure Strips 21, 22, excluding section 2|35.00|vha
+R/BK/1|2007|09-Oct-06|f|All Sections|Triple superphosphate strips 11, 13, 14, 17, 18|171.00|kg/ha
+R/BK/1|2007|09-Oct-06|f|All Sections|Muriate of Potash Strip 14|181.00|kg/ha
+R/BK/1|2007|14-Oct-06|a|All Sections|Plough /S|None|None
+R/BK/1|2007|16-Oct-06|a|All Sections|Cultipressed|None|None
+R/BK/1|2007|09-Jan-07|a|All Sections|Erect rabbit fence|None|None
+R/BK/1|2007|12-Mar-07|f|All Sections|Sulphate of Potash Strips 5-9, 12, 13, 15-20|217.00|kg/ha
+R/BK/1|2007|14-Mar-07|f|All Sections|Kieserite Strips 5-9, 11, 12, 15-20, strip 10 section 9 in error|80.00|kg/ha
+R/BK/1|2007|01-May-07|a|All Sections|Flexitined E and W headlands|None|None
+R/BK/1|2007|08-May-07|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2007|09-May-07|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2007|10-May-07|a|All Sections|Remove rabbit fence S O&E's|None|None
+R/BK/1|2007|10-May-07|a|All Sections|Flexitined O&E's|None|None
+R/BK/1|2007|11-May-07|a|All Sections|Harrowed O&E's|None|None
+R/BK/1|2007|25-May-07|a|All Sections|Mow / Rotavate paths|None|None
+R/BK/1|2007|14-Jun-07|a|All Sections|Mow / Rotavate paths|None|None
+R/BK/1|2007|19-Jun-07|a|All Sections|Mow / Rotavate paths|None|None
+R/BK/1|2007|25-Jun-07|a|All Sections|Mow / Rotavate paths - down paths|None|None
+R/BK/1|2007|26-Jul-07|a|All Sections|Mow / Rotavate paths|None|None
+R/BK/1|2007|10-Aug-07|a|All Sections|Rogue wild oats/thistles/weeds|None|None
+R/BK/1|2007|10-Sep-07|a|All Sections|Remove rabbit fence|None|None
+R/BK/1|2007|01-Nov-06|a|W. Wheat|Combination drilled wheat plots|None|None
+R/BK/1|2007|01-Nov-06|s|W. Wheat|Hereward tr Redigo Twin + Deter|350.00|seeds/m2 
+R/BK/1|2007|03-Nov-06|p|W. Wheat|Ice Sections 0, 1, 4-7, 9|4.00|l/200 l/ha
+R/BK/1|2007|04-Dec-06|p|W. Wheat|Decoy Wetex excluding section 3|7.00|kg/ha
+R/BK/1|2007|14-Mar-07|f|W. Wheat|Nitraprill strips 12, 17, 18, 19, wheat|139.00|kg/ha
+R/BK/1|2007|23-Apr-07|p|W. Wheat|Clean Crop Wanderer all wheat except section 6|1.00|l/200 l/ha
+R/BK/1|2007|23-Apr-07|p|W. Wheat|Deuce all wheat except section 6 |1.00|l/200 l/ha
+R/BK/1|2007|24-Apr-07|f|W. Wheat|Nitraprill strips 6, 19, wheat|139.00|kg/ha
+R/BK/1|2007|24-Apr-07|f|W. Wheat|Nitraprill strips 7, 18, wheat|278.00|kg/ha
+R/BK/1|2007|24-Apr-07|f|W. Wheat|Nitraprill strips 21, 8, 12, wheat|417.00|kg/ha
+R/BK/1|2007|24-Apr-07|f|W. Wheat|Nitraprill strips 1, 9, 10, 11, 13, 14, 17, 20, wheat|556.00|kg/ha
+R/BK/1|2007|24-Apr-07|f|W. Wheat|Nitraprill strip 15, wheat|696.00|kg/ha
+R/BK/1|2007|24-Apr-07|f|W. Wheat|Nitraprill strip 16, wheat|835.00|kg/ha
+R/BK/1|2007|09-May-07|p|W. Wheat|Ally Max SX wheat and oats excluding section 8|42.00|9/200 l/ha
+R/BK/1|2007|09-May-07|p|W. Wheat|Starane 2 wheat and oats excluding section 8|0.75|l/200 l/ha
+R/BK/1|2007|22-May-07|p|W. Wheat|Amistar Opti wheat excluding Sec 6|1.25|l/200 l/ha
+R/BK/1|2007|22-May-07|p|W. Wheat|Opus wheat excluding Sec 6 |0.60|l/200 l/ha
+R/BK/1|2007|22-May-07|f|W. Wheat|Nitraprill Strips 12, 17, 18, 19, wheat|139.00|kg/ha
+R/BK/1|2007|11-Jun-07|f|W. Wheat|Double Top 2 m on W end of plots 225 and 095|40.00|Kg N/ha
+R/BK/1|2007|12-Jun-07|f|W. Wheat|Double Top 2 m on W end of plots 225 and 095|40.00|Kg N/ha
+R/BK/1|2007|14-Jun-07|p|W. Wheat|Amistar Opti wheat. excluding section 6 |1.00|l/200 l/ha
+R/BK/1|2007|14-Jun-07|p|W. Wheat|Landgold Epoxiconazole wheat, excluding section 6|0.40|l/200 l/ha
+R/BK/1|2007|26-Aug-07|a|W. Wheat|Combine harvest, plots for yield, and swath straw - sections 0 and 1|None|None
+R/BK/1|2007|27-Aug-07|a|W. Wheat|Combine harvest, plots for yield and swath straw - sections 4-9|None|None
+R/BK/1|2007|27-Aug-07|a|W. Wheat|Sample, bale and weigh straw section 1|None|None
+R/BK/1|2007|28-Aug-07|a|W. Wheat|Combine harvest plot edges to allow straw weight to be taken|None|None
+R/BK/1|2007|28-Aug-07|a|W. Wheat|Sample, bale and weigh straw sections 5 & 8||
+R/BK/1|2007|29-Aug-07|a|W. Wheat|Combine harvest discards and swath straw|None|None
+R/BK/1|2007|29-Aug-07|a|W. Wheat|Chop straw section 0|None|None
+R/BK/1|2007|02-Sep-07|a|W. Wheat|Baled remaining wheat straw|None|None
+R/BK/1|2007|02-Nov-06|a|W. Oats|Combination drilled oat plots|None|None
+R/BK/1|2007|02-Nov-06|s|W. Oats|Gerald r Baytan Secure|350.00|seeds/m2
+R/BK/1|2007|04-Dec-06|s|W. Oats|Decoy Wetex excluding section 3|7.00|kg/ha
+R/BK/1|2007|19-Dec-06|p|W. Oats|Lexus Class - oats|60.00|g/200 l/ha
+R/BK/1|2007|19-Dec-06|p|W. Oats|Hallmark with Zeon Technology - oats|50.00|ml200 l/ha
+R/BK/1|2007|09-May-07|p|W. Oats|Ally Max SX wheat and oats excluding section 8|42.00|g/200 l/ha
+R/BK/1|2007|09-May-07|p|W. Oats|Starane 2 wheat and oats excluding section 8|0.75|l/200 l/ha
+R/BK/1|2007|24-May-07|p|W. Oats|Amistar - oats|0.60|l/200 l/ha
+R/BK/1|2007|24-May-07|p|W. Oats|Flexity - oats|0.20|l/200 l/ha
+R/BK/1|2007|06-Aug-07|a|W. Oats|Combine harvest plots for yield and swath straw - oats|None|None
+R/BK/1|2007|08-Aug-07|a|W. Oats|Sample, bale and weigh straw - oats|None|None
+R/BK/1|2007|11-Aug-07|a|W. Oats|Baled discard oat straw|None|None
+R/BK/1|2007|21-Apr-07|p|Forage Maize|Clinic Ace - section 3, pre Maize|4.00|l/200 l/ha
+R/BK/1|2007|01-May-07|a|Forage Maize|Flexitined maize plots|None|None
+R/BK/1|2007|02-May-07|f|Forage Maize|Main N and 1st N Nitraprill plot 063, maize|139.00|kg/ha
+R/BK/1|2007|02-May-07|f|Forage Maize|Main N and 1st N Nitraprill Plots 073, 123, 173, 183, 193, maize|278.00|kg/ha
+R/BK/1|2007|02-May-07|f|Forage Maize|Main N and 1st N Nitraprill Plots 213, 083, maize|417.00|kg/ha
+R/BK/1|2007|02-May-07|f|Forage Maize|Main N and 1st N Nitraprill Plots 013, 093, 103, 113, 133, 143, maize|556.00|kg/ha
+R/BK/1|2007|02-May-07|f|Forage Maize|Main N and 1st N Nitraprill Plot 153, maize|696.00|kg/ha
+R/BK/1|2007|02-May-07|f|Forage Maize|Main N and 1st N Nitraprill Plot 163, maize|835.00|kg/ha
+R/BK/1|2007|02-May-07|a|Forage Maize|Power Harrowed Maize plots|None|None
+R/BK/1|2007|02-May-07|a|Forage Maize|Nodet drilled maize plots|None|None
+R/BK/1|2007|02-May-07|s|Forage Maize|Hudson Tr Mesurol maize plots|10.20|seeds/m?
+R/BK/1|2007|02-May-07|a|Forage Maize|Rolled maize plots|None|None
+R/BK/1|2007|06-Jun-07|f|Forage Maize|2nd split N Nitraprill Plot 193, maize|139.00|kg/ha
+R/BK/1|2007|06-Jun-07|f|Forage Maize|2nd split N Nitraprill Plot 183, maize|278.00|kg/ha
+R/BK/1|2007|06-Jun-07|f|Forage Maize|2nd split N Nitraprill Plot 123, maize|417.00|kg/ha
+R/BK/1|2007|06-Jun-07|f|Forage Maize|2nd split N Nitraprill Plot 173, maize|556.00|kg/ha
+R/BK/1|2007|14-Jun-07|p|Forage Maize|Samson maize plots|1.50|l/200 l/ha
+R/BK/1|2007|19-Jun-07|p|Forage Maize|Callisto maize plots|0.75|l/200 l/ha
+R/BK/1|2007|18-Sep-07|a|Forage Maize|Cut harvest strips, weighed and sampled - maize|None|None
+R/BK/1|2007|25-Sep-07|a|Forage Maize|Cut maize discards|None|None
+R/BK/1|2007|30-Apr-07|a|wilderness|Topped Wilderness, middle section|None|None
+R/BK/1|2007|01-Jun-07|a|wilderness|Topped grazed section|None|None
+R/BK/1|2007|18-Jun-07|a|wilderness|Topped Wiklerness, middle section|None|None
+R/BK/1|2007|25-Sep-07|a|wilderness|Topped Wilderness, middle section|None|None
+R/BK/1|2007|21-Dec-07|a|wilderness|Topped Wilderness, middle section|None|None
+R/BK/1|2008|13-Sep-07|p|All sections|Weedazol-TL sections 0-3, 4-7, 9|20.00|l/200 l/ha
+R/BK/1|2008|01-Oct-07|f|All sections|Muriate of Potash - strip 14|181.00|kg/ha 
+R/BK/1|2008|01-Oct-07|f|All sections|Triple Superphosphate, strips 11, 13, 14, 17, 18|171.00|kg/ha
+R/BK/1|2008|10-Oct-07|f|All sections|Farmyard manure, Strips 21 & 22, excluding section 7|35.00|wha
+R/BK/1|2008|11-Oct-07|a|All sections|Plough/N, completed 12-Oct-2007|None|None
+R/BK/1|2008|15-Oct-07|a|All sections|cultipressed|None|None
+R/BK/1|2008|26-Nov-07|a|All sections|Erect rabbit fence|None|None
+R/BK/1|2008|04-Apr-08|f|All sections|Sulphate of Potash - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20||217.00|kg/ha
+R/BK/1|2008|04-Apr-08|f|All sections|Kieserite - strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, 20|80.00|kg/ha
+R/BK/1|2008|12-May-08|a|All sections|Mow/ Rotavate paths|None|None
+R/BK/1|2008|02-Jun-08|a|All sections|Power Harrowed Fallow discards|None|None
+R/BK/1|2008|02-Jun-08|a|All sections|Mow / Rotavate paths|None|None
+R/BK/1|2008|05-Jun-08|a|All sections|Mow/ Rotavate paths|None|None
+R/BK/1|2008|17-Jun-08|a|All sections|Mow / Rotavate paths|None|None
+R/BK/1|2008|25-Jul-08|a|All sections|Rogue wild oats/thistles/weeds - 4 wild oats found|None|None
+R/BK/1|2008|08-Sep-08|p|All sections|Weedazol-TL all except sections 3 & 8 Selected plots|20.00|l/290 l/ha
+R/BK/1|2008|05-Oct-07|f|All sections|Chalk - Plots 080, 071, 161, 012, 082, 162, 134, 154, 115, 145, 126, 136, 196, 097, 167, 068, 108, 168, 198, 129, 169|2.00|t/ha
+R/BK/1|2008|05-Oct-07|1|All sections|Chalk - Plots 150, 081, 125, 135, 155, 195, 076, 106, 116, 156, 067, 077, 107, 127, 078, 088, 118, 128, 079, 089, 109, 119, 139, 199|4.00|t/ha
+R/BK/1|2008|05-Oct-07.|f|All sections|Chalk - Plots 151, 152, 085, 105, 086, 087, 117, 137, 147, 157, 197, 138, 148, 158, 149, 159|6.00|t/ha
+R/BK/1|2008|29-Aug-07|a|Winter Wheat|Chop straw , section 0|None|None
+R/BK/1|2008|15-Oct-07|a|Winter Wheat|Combination Drilled|None|None
+R/BK/1|2008|15-Oct-07|s|Winter Wheat|Hereward tr redigo twin + deter|400.00|seeds/m?
+R/BK/1|2008|17-Oct-07|p|Winter Wheat|Decoy Wetex wheat plots|7.00|kg/ha
+R/BK/1|2008|31-Oct-07|p|Winter Wheat|Liberator wheat sections|0.60|V200 l/ha
+R/BK/1|2008|31-Oct-07|p|Winter Wheat|Alpha Trifluralin 48 EC, wheat sections|2.00|V200 ha
+R/BK/1|2008|16-Nov-07|p|Winter Wheat|Huron, wheat and oat plots|5.00|kg/ha
+R/BK/1|2008|17-Nov-07|p|Winter Wheat|Stomp 400 SC wheat plots|3.30|l/200 l/ha
+R/BK/1|2008|17-Nov-07|p|Winter Wheat|Arelon 500 wheat plots|2.00|l/200 iha
+R/BK/1|2008|17-Nov-07|p|Winter Wheat|Hallmark with Zeon Technology wheat plots|50.00|ml/200 Uha
+R/BK/1|2008|18-Mar-08|f|Winter Wheat|Nitraprill Wheat strips 12, 17, 18, 19|139.00|kg/ha
+R/BK/1|2008|17-Apr-08|1|Winter Wheat|Nitraprill - Wheat, strips 6,19|139.00|kg/ha
+R/BK/1|2008|17-Apr-08|f|Winter Wheat|Nitraprill - Wheat, strips 7, 18|278.00|kg/ha
+R/BK/1|2008|17-Apr-08|f|Winter Wheat|Nitraprill - Wheat, strips 2.1, 8, 12|417.00|kg/ha
+R/BK/1|2008|17-Apr-08|f|Winter Wheat|Nitraprill - Wheat, strips 1,9,10,11,13,14,20|556.00|kg/ha
+R/BK/1|2008|17-Apr-08|f|Winter Wheat|Nitraprill - Wheat, strip 15|696.00|kg/ha
+R/BK/1|2008|17-Apr-08|f|Winter Wheat|Nitraprill - Wheat, strip 16|835.00|kg/ha
+R/BK/1|2008|08-May-08|p|Winter Wheat|Deuce wheat excluding section 6|1.00|V150 l/ha
+R/BK/1|2008|08-May-08|p|Winter Wheat|Bravo 500 wheat excluding section 6|0.75|l/150 l/ha
+R/BK/1|2008|08-May-08|p|Winter Wheat|Flexity wheat excluding section 6|0.20|V150 l/ha
+R/BK/1|2008|08-May-08|p|Winter Wheat|BASF 3C Chlormequat 720 - wheat excluding section6|1.00|V150 l/ha
+R/BK/1|2008|15-May-08|f|Winter Wheat|Nitraprill - Wheat, strips 12, 17, 18, 19|139.00|kg/ha
+R/BK/1|2008|21-May-08|p|Winter Wheat|Ally Max SX Wheat|42.00|g/200 ha
+R/BK/1|2008|21-May-08|p|Winter Wheat|Starane 2 wheat|0.75|V200 l/ha
+R/BK/1|2008|05-Jun-08|p|Winter Wheat|Amistar Opti Wheat excluding section 6|1.25|V200 l/ha
+R/BK/1|2008|05-Jun-08|p|Winter Wheat|Opus Wheat excluding section 6|1.00|l/200 l/ha
+R/BK/1|2008|23-Jun-08|p|Winter Wheat|Amistar - Wheat excluding section 6|0.50|V200 l/ha
+R/BK/1|2008|23-Jun-08|p|Winter Wheat|Icon - wheat excluding section 6|0.50|l/200 l/ha
+R/BK/1|2008|25-Aug-08|a|Winter Wheat|Combine harvest discards|None|None
+R/BK/1|2008|25-Aug-08|a|Winter Wheat|Swath straw|None|None
+R/BK/1|2008|25-Aug-08|a|Winter Wheat|Baled|None|None
+R/BK/1|2008|26-Aug-08|a|Winter Wheat|Combine harvest, plots for yield|None|None
+R/BK/1|2008|26-Aug-08|a|Winter Wheat|Swath straw|None|None
+R/BK/1|2008|27-Aug-08|a|Winter Wheat|Sample, bale and weigh straw sections 1 and 3
+R/BK/1|2008|29-Aug-08|a|Winter Wheat|Combine harvest discards|None|None
+R/BK/1|2008|29-Aug-08|a|Winter Wheat|Swath straw|None|None
+R/BK/1|2008|30-Aug-08|a|Winter Wheat|Baled|None|None
+R/BK/1|2008|19-Oct-07|a|W. Oats|Combination Drilled|None|None
+R/BK/1|2008|19-Oct-07|s|W. Oats|Gerald tr sibutol secur|400.00|seeds/m?
+R/BK/1|2008|24-Oct-07|a|W. Oats|rolled oat section|None|None
+R/BK/1|2008|16-Nov-07|p|W. Oats|Huron, wheat and oat plots|5.00|kg/ha
+R/BK/1|2008|14-Dec-07|p|W. Oats|Lexus Class oats|60.00|g/200 l/ha
+R/BK/1|2008|14-Dec-07|p|W. Oats|Hallmark with Zeon Technology oats|50.00|ml200Uha
+R/BK/1|2008|21-May-08|p|W. Oats|Ally Max SX Oats|42.00|g/200 l/ha
+R/BK/1|2008|21-May-08|p|W. Oats|Duplosan KV oats|1.50|l/200 l/ha
+R/BK/1|2008|14-Jun-08|p|W. Oats|Flexity Oats section 7|0.20|V200 ha
+R/BK/1|2008|16-Aug-08|a|W. Oats|Combine harvest, plots for yield - Oats|None|None
+R/BK/1|2008|16-Aug-08|a|W. Oats|Swath straw - Oats|None|None
+R/BK/1|2008|16-Aug-08|a|W. Oats|Combine harvest discards - Oats 
+R/BK/1|2008|16-Aug-08|a|W. Oats|Sample, bale and weigh straw - Oats|None|None
+R/BK/1|2008|15-Apr-08|p|Forage Maize|Azural - maize plots|4.00|l/ha
+R/BK/1|2008|08-May-08|f|Forage Maize|Nitraprill maize, strip 6|139.00|kg/ha
+R/BK/1|2008|08-May-08|f|Forage Maize|Nitraprill maize, strips 7,12,17,18,19|278.00|kg/ha
+R/BK/1|2008|08-May-08|f|Forage Maize|Nitraprill maize. strips 21,8|417.00|kg/ha
+R/BK/1|2008|08-May-08|f|Forage Maize|Nitraprill maize, strips 1, 9,10,11,13,14|556.00|kg/ha
+R/BK/1|2008|08-May-08|f|Forage Maize|Nitraprill maize, strip 15|696.00|kg/ha
+R/BK/1|2008|08-May-08|f|Forage Maize|Nitraprill maize, strip 16|835.00|kg/ha
+R/BK/1|2008|12-May-08|a|Forage Maize|Flexitined maize and fallow sections|None|None
+R/BK/1|2008|12-May-08|a|Forage Maize|Power harrowed Maize 
+R/BK/1|2008|12-May-08|a|Forage Maize|Nodet drilled maize|None|None
+R/BK/1|2008|12-May-08|s|Forage Maize|Hudson tr measurol|10.20|seeds/m2
+R/BK/1|2008|13-May-08|a|Forage Maize|Rolled Maize|None|None
+R/BK/1|2008|06-Jun-08|f|Forage Maize|Nitraprill Maize plot 192|139.00|kg/ha
+R/BK/1|2008|06-Jun-08|f|Forage Maize|Nitraprill Maize plot 182|278.00|kg/ha
+R/BK/1|2008|06-Jun-08|f|Forage Maize|Nitraprill Maize plot 122|417.00|kg/ha
+R/BK/1|2008|06-Jun-08|f|Forage Maize|Nitraprill Maize plot 172|556.00 kg/ha
+R/BK/1|2008|24-Jun-08|p|Forage Maize|Samson - maize|1.50|V200 ha
+R/BK/1|2008|29-Jun-08|p|Forage Maize|Callisto - maize 1.00|200|ha
+R/BK/1|2008|23-Sep-08|a|Forage Maize|Cut harvest strips, weighed and sampled - Maize plots
+R/BK/1|2008|23-Sep-08|a|Forage Maize|Forage harvest maize discards|None|None
+R/BK/1|2008|22-Apr-08|a|Fallow: Section 8|Flexitined section 8|None|None
+R/BK/1|2008|02-Jun-08|a|Fallow: Section 8|Plough, /S Section 8|None|None
+R/BK/1|2008|14-Jul-08|a|Fallow: Section 8|Flexitined - Section 8, and fallow discards|None|None
+R/BK/1|2008|16-Jul-08|a|Fallow: Section 8|Fiexitined - Section 8, and fallow discards|None|None
+R/BK/1|2008|21-Jul-08|a|Fallow: Section 8|Power harrowed - Section 8, and fallow discards|None|None
+R/BK/1|2008|03-Sep-08|a|Fallow: Section 8|Plough section 8, /N|None|None
+R/BK/1|2008|28-May-08|a|Wilderness|Topped wilderness, middle section|None|None
+R/BK/1|2008|19-Jun-08|a|Wilderness|Topped wilderness. middie section|None|None
+R/BK/1|2008|01-Aug-08|a|Wilderness|Topped wilderness, middle section|None|None
+R/BK/1|2008|30-Sep-08|a|Wilderness|Topped wilderness, middle section|None|None
+R/BK/1|2009|29-Sep-08|f|All Sections|Triple Superphosphate, strips 11, 13, 14, 17, and 18|170.00|kg/ha
+R/BK/1|2009|30-Sep-08|f|All Sections|Muriate of Potash - strip 14|181.00|kg/ha
+R/BK/1|2009|02-Oct-08|f|All Sections|Farm Yard Manure - strips 21 and 22 excluding section 4|35.00|t/ha
+R/BK/1|2009|06-Oct-08|a|All Sections|Plough /S|None|None
+R/BK/1|2009|10-Oct-08|a|All Sections|Cultipressed|None|None
+R/BK/1|2009|16-Oct-08|a|All Sections|Power Harrowed|None|None
+R/BK/1|2009|25-Nov-08|a|All Sections|Collapsed rabbit holes with Burrow Blaster|None|None
+R/BK/1|2009|16-Dec-08|a|All Sections|Cut Hedges|None|None
+R/BK/1|2009|17-Dec-08|a|All Sections|Cut Hedges|None|None
+R/BK/1|2009|24-Mar-09|f|All Sections|Sulphate of Potash - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19, 20|217.00|kg/ha
+R/BK/1|2009|25-Mar-09|f|All Sections|Kieserite - strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19, and 20|80.00|kg/ha
+R/BK/1|2009|16-May-09|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2009|19-May-09|a|All Sections|Rotavate side paths|None|None
+R/BK/1|2009|01-Jun-09|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2009|15-Jun-09|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2009|29-Jun-09|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2009|03-Jul-09|a|All Sections|Rogue wild oats/thistles/weeds - 323 wild oat plants|None|None
+R/BK/1|2009|28-Jul-09|a|All Sections|Rotavate Down paths and headlands|None|None
+R/BK/1|2009|30-Jul-09|a|All Sections|Mow/ Rotavate paths Cut cross paths|None|None
+R/BK/1|2009|13-Aug-09|a|All Sections|Combine harvest discards O's & Es|None|None
+R/BK/1|2009|13-Aug-09|a|All Sections|Baled except section 0|None|None
+R/BK/1|2009|27-Aug-09|p|All Sections|Weedazol-TL - all except sections 3 and 8|20.00|l/ha
+R/BK/1|2009|17-Oct-08|a|Winter Wheat|Combination Oniled|None|None
+R/BK/1|2009|17-Oct-08|s|Winter Wheat|Hereward tr Redigo Deter - wheat sections|400.00|seeds/m?
+R/BK/1|2009|18-Oct-08|p|Winter Wheat|Liberator - wheat excluding section 8|0.60|l/200 l/ha
+R/BK/1|2009|27-Oct-08|p|Winter Wheat|Allure - wheat and oats|7.50|kg/ha
+R/BK/1|2009|20-Nov-08|p|Winter Wheat|Karan - wheat and oats|5.00|kg/ha
+R/BK/1|2009|10-Dec-08|p|Winter Wheat|Stomp 400 SC. Sprayed all wheat excluding section 8|3.30|l/ha
+R/BK/1|2009|10-Dec-08|p|Winter Wheat|Arelon 500. Sprayed all wheal excluding section 8|3.00|l/ha
+R/BK/1|2009|10-Dec-08|p|Winter Wheat|Hallmark with Zeon Technology. Sprayed all wheat excluding section 8|50.00|mi/ha
+R/BK/1|2009|09-Mar-09|f|Winter Wheat|Nitraprili - wheat, strips 12, 17, 18 and 19|139.00|kg/ha
+R/BK/1|2009|21-Apr-09|f|Winter Wheat|Nitram - wheat, strips 19 and 6|139.00|kg/ha
+R/BK/1|2009|21-Apr-09|f|Winter Wheat|Nitram - wheat, strips 7 and 18|278.00|kg/ha
+R/BK/1|2009|21-Apr-09|f|Winter Wheat|Nitram - wheat, strips 2, 8 and 12|417.00|kg/ha
+R/BK/1|2009|21-Apr-09|f|Winter Wheat|Nitram - wheat, strips 1, 9, 10, 11, 13, 14, 17 and 20|556.00|kg/ha
+R/BK/1|2009|21-Apr-09|f|Winter Wheat|Nitram - wheat, strip 15|696.00|kg/ha
+R/BK/1|2009|21-Apr-09|f|Winter Wheat|Nitram - wheat, strip 16|835.00|kg/ha
+R/BK/1|2009|29-Apr-09|p|Winter Wheat|Cherokee - to section 8 only|1.25|l/ha
+R/BK/1|2009|10-May-09|p|Winter Wheat|Cherokee - wheat sections only, except section 6 and 8.|1.25|l/ha
+R/BK/1|2009|10-May-09|p|Winter Wheat|Ally Max SX wheat sections only, except section 6 and 8.|42.00|gina
+R/BK/1|2009|10-May-09|p|Winter Wheat|Agriguard Fluroxypyr - wheat sections only, except section 6 and 8.|0.75|l/ha
+R/BK/1|2009|10-May-09|p|Winter Wheat|Hurler wheat sections only, except section 6 and 8|0.75|l/ha
+R/BK/1|2009|13-May-09|f|Winter Wheat|Nitram - wheat, strips 12, 17, 18 and 19|139.00|kg/ha
+R/BK/1|2009|28-May-09|p|Winter Wheat|Brutus wheat + section 8|1.50|l/ha
+R/BK/1|2009|28-May-09|p|Winter Wheat|Amistar Opti wheat + section 8|1.25|l/ha
+R/BK/1|2009|14-Aug-09|a|Winter Wheat|Combine harvest, plots for yield|None|None
+R/BK/1|2009|15-Aug-09|a|Winter Wheat|Sample, bale and weigh straw wheat plots|None|None
+R/BK/1|2009|17-Oct-08|a|Winter Oats|Combination Drilled|None|None
+R/BK/1|2009|17-Oct-08|s|Winter Oats|Gerald tr Beret Gold - oats|400.00|seeds/m?
+R/BK/1|2009|27-Oct-08|p|Winter Oats|Allure - wheat and oats|7.50|kg/ha
+R/BK/1|2009|20-Nov-08|p|Winter Oats|Karan - wheat and oats|5.00|kg/ha
+R/BK/1|2009|15-Dec-08|p|Winter Oats|Lexus Class - oats only|60.00|g/ha
+R/BK/1|2009|15-Dec-08|p|Winter Oats|Hallmark with Zeon Technology - oats only|50.00|ml/ha
+R/BK/1|2009|22-May-09|p|Winter Oats|Ally Max SX|42.00|gha
+R/BK/1|2009|22-May-09|p|Winter Oats|Duplosan KV|1.50|l/ha
+R/BK/1|2009|22-May-09|p|Winter Oats|Headland Charge|1.50|l/ha
+R/BK/1|2009|22-May-09|p|Winter Oats|Amistar|0.60|l/ha
+R/BK/1|2009|22-May-09|p|Winter Oats|Flexity|0.20|l/ha
+R/BK/1|2009|22-May-09|p|Winter Oats|Agriguard Chlormequat 720|2.25|l/ha
+R/BK/1|2009|11-Aug-09|a|Winter Oats|Combine harvest discards - oats.|None|None
+R/BK/1|2009|11-Aug-09|a|Winter Oats|Sample, bale and weigh straw oat straw|None|None
+R/BK/1|2009|03-Apr-09|p|Forage Maize|Clipper - maize area only|3.00|Wha
+R/BK/1|2009|11-May-09|a|Forage Maize|Flexitined in preparation for maize|None|None
+R/BK/1|2009|12-May-09|a|Forage Maize|Power Harrowed|None|None
+R/BK/1|2009|12-May-09|a|Forage Maize|Nodet Drilled|None|None
+R/BK/1|2009|12-May-09|s|Forage Maize|Hudson tr mesurol + thiram|10.20|seeds/m*
+R/BK/1|2009|13-May-09|f|Forage Maize|Nitram - maize, strip 6|139.00|kg/ha
+R/BK/1|2009|13-May-09|f|Forage Maize|Nitram - maize strips 7, 12, 17, 18 and 19. NOTE: plot 197 had 556 kg/ha. i.e. 278 kg/ha over and plot 187 had 417 kg/ha i.e.139 kg/ha over|278.00|kg/ha
+R/BK/1|2009|13-May-09|f|Forage Maize|Nitram - maize, strips 2.1 and 8|417.00|kg/ha
+R/BK/1|2009|13-May-09|f|Forage Maize|Nitram - maize, strips 1, 9, 10, 11, 13 and 14|556.00|kg/ha
+R/BK/1|2009|13-May-09|f|Forage Maize|Nitram - maize, strip 15|696.00|kg/ha
+R/BK/1|2009|13-May-09|f|Forage Maize|Nitram - maize, strip 16|835.00|kg/ha
+R/BK/1|2009|15-Jun-09|p|Forage Maize|Callisto section 7 only|0.75|vha
+R/BK/1|2009|15-Jun-09|p|Forage Maize|Samson section 7 only|1.00|l/ha
+R/BK/1|2009|25-Jun-09|f|Forage Maize|Nitram - maize, Plot 187 received 139 kg/ha extra on 13-May-10 so a reduced amount was applied to this plot to ensure correct amount applied overall. Plot 197, having already received more than the total required did not receive any further N.|139.00|kg/ha
+R/BK/1|2009|25-Jun-10|f|Forage Maize|Nitram - Strip 18 except plot 187|278.00|kg/ha
+R/BK/1|2009|13-May-10|f|Forage Maize|Nitram - Strip 12|417.00|kg/ha
+R/BK/1|2009|13-May-10|f|Forage Maize|Nitram - Strip 17|556.00|kg/ha
+R/BK/1|2009|10-Sep-09|a|Forage Maize|Harvest maize plots|None|None
+R/BK/1|2009|08-Dec-08|a|Wilderness|Topped Grubbed section|None|None
+R/BK/1|2009|13-May-09|a|Wilderness|Topped|None|None
+R/BK/1|2009|04-Jun-09|a|Wilderness|Mown|None|None
+R/BK/1|2009|13-Aug-09|a|Wilderness|Wilderness topped|None|None
+R/BK/1|2010|14-Sep-09|f|All Sections|TSP - Plots 110-119, 130-149, 170-180|171.00|kg/ha
+R/BK/1|2010|14-Sep-09|a|All Sections|Spread fertiliser|None|None
+R/BK/1|2010|14-Sep-09|f|All Sections|TSP - Plots 140-149|181.00|kg/ha
+R/BK/1|2010|17-Sep-09|a|All Sections|Applied FYM|None|None
+R/BK/1|2010|17-Sep-09|a|All Sections|Topped - Edges of maize plots|None|None
+R/BK/1|2010|17-Sep-09|a|All Sections|Subsoiled - Headlands only|None|None
+R/BK/1|2010|17-Sep-09|f|All Sections|FYM - Plots 2.10-2.20 (not oats in section 5 plots 2.15 and 2.25)|35.00|ha
+R/BK/1|2010|18-Sep-09|a|All Sections|Plough|None|None
+R/BK/1|2010|19-Sep-09|a|All Sections|Flexitined|None|None
+R/BK/1|2010|21-Sep-09|a|All Sections|Flexitined|None|None
+R/BK/1|2010|21-Sep-09|a|All Sections|Cultipressed|None|None
+R/BK/1|2010|09-Oct-09|a|All Sections|Topped - Topped drain|None|None
+R/BK/1|2010|11-Oct-09|a|All Sections|Cultipressed - Second time|None|None
+R/BK/1|2010|19-Nov-09|a|All Sections|Erect rabbit fence - Started (Posts only)|None|None
+R/BK/1|2010|23-Nov-09|a|All Sections|Cut Hedges - Road side|None|None
+R/BK/1|2010|24-Nov-09|a|All Sections|Cut Hedges|None|None
+R/BK/1|2010|24-Nov-09|a|All Sections|Erect rabbit fence|None|None
+R/BK/1|2010|25-Nov-09|a|All Sections|Erect rabbit fence|None|None
+R/BK/1|2010|11-Dec-09|a|All Sections|Cut Hedges|None|None
+R/BK/1|2010|05-Jan-10|a|All Sections|Repair electric fence around trial - Fence had broken in several places due to snow and frost over xmas period|None|None
+R/BK/1|2010|06-Apr-10|f|All Sections|Potassium Sulphate - strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20 on all sections|217.00|kg/ha
+R/BK/1|2010|06-May-10|a|All Sections|Remove rabbit fence|None|None
+R/BK/1|2010|07-May-10|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2010|12-May-10|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2010|12-May-10|a|All Sections|Rotavate|None|None
+R/BK/1|2010|13-May-10|a|All Sections|Flexitined - Headlands only|None|None
+R/BK/1|2010|13-May-10|a|All Sections|Rotavate - down paths|None|None
+R/BK/1|2010|14-May-10|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2010|25-May-10|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2010|14-Jun-10|a|All Sections|Rotavated down paths - To finish|None|None
+R/BK/1|2010|16-Jun-10|a|All Sections|Rotavated down paths - To finish|None|None
+R/BK/1|2010|17-Jun-10|a|All Sections|Cut paths|None|None
+R/BK/1|2010|17-Jun-10|a|All Sections|Rotavated down paths - Finished|None|None
+R/BK/1|2010|09-Jul-10|a|All Sections|Other operation, see note - pulled wild oats 103 in total
+R/BK/1|2010|14-Jul-10|a|All Sections|Mow/ Rotavate paths|None|None
+R/BK/1|2010|09-Sep-10|a|All Sections|Topped - grass headlands and drain|None|None
+R/BK/1|2010|13-Oct-09|a|Winter Wheat|Combination Drilled|None|None
+R/BK/1|2010|13-Oct-09|s|Winter Wheat|Hereward - At 350 seeds per m2|141.00|kg/ha
+R/BK/1|2010|14-Oct-09|a|Winter Wheat|Rolled|None|None
+R/BK/1|2010|15-Oct-09|p|Winter Wheat|Liberator - 200 It water (Wheat only and not section 8)|0.60|l/ha
+R/BK/1|2010|10-Dec-09|p|Winter Wheat|Lexus Class|60.00|g/ha
+R/BK/1|2010|10-Dec-09|p|Winter Wheat|Hallmark with Zeon Technology|50.00|mvha
+R/BK/1|2010|19-Mar-10|f|Winter Wheat|Nitram - strips 12 and 17-19|139.00|kg/ha
+R/BK/1|2010|20-Apr-10|f|Winter Wheat|Nitram - strips 1, 2.1 and 16-20|139.00|kg/ha
+R/BK/1|2010|05-May-10|p|Winter Wheat|Bravo 500 - sections 0, 1, 2, 3, 7, 8 & 9|1.00|l/ha
+R/BK/1|2010|05-May-10|p|Winter Wheat|Tracker - sections 0, 1, 2, 3, 7, 8 & 9|1.00|l/ha
+R/BK/1|2010|05-May-10|p|Winter Wheat|Talius - sections 0, 1, 2, 3, 7, 8 & 9|0.13|l/ha
+R/BK/1|2010|05-May-10|p|Winter Wheat|Chlormequat 3C - sections 0, 1, 2, 3, 7, 8 & 9|2.25|l/ha
+R/BK/1|2010|17-May-10|f|Winter Wheat|Nitram - Strip 12, 17, 18, 19 ww only|139.00|kg/ha
+R/BK/1|2010|20-May-10|p|Winter Wheat|Ally Max SX - sections 0, 1, 2, 3, 6, 7 and 9|42.00|g/ha
+R/BK/1|2010|20-May-10|p|Winter Wheat|Starane 2 - sections 0, 1, 2, 3, 6, 7 and 9|1.00|l/ha
+R/BK/1|2010|02-Jun-10|p|Winter Wheat|Comet - 200 It water (sections 0, 1, 2, 3, 7, 8, 9)|0.60|l/ha
+R/BK/1|2010|02-Jun-10|p|Winter Wheat|Opus - 200 It water (sections 0, 1, 2, 3, 7, 8, 9)|0.60|vha
+R/BK/1|2010|31-Aug-10|a|Winter Wheat|Combine harvest, plots for yield - Sections 0 and 1
+R/BK/1|2010|01-Sep-10|a|Winter Wheat|Combine harvest remaining wheat - sections 2, 3, 6, 7, 8 & 9|None|None
+R/BK/1|2010|01-Sep-10|a|Winter Wheat|Sample, bale and weigh straw - sections 2, 3, 6, 7, 8 & 9|None|None
+R/BK/1|2010|03-Sep-10|a|Winter Wheat|Combine harvest discards|None|None
+R/BK/1|2010|04-Sep-10|a|Winter Wheat|baled|None|None
+R/BK/1|2010|08-Sep-10|a|Winter Wheat|Other operation, see note - removed bales|None|None
+R/BK/1|2010|13-Oct-09|a|Winter Oats|Combination drilled|None|None
+R/BK/1|2010|13-Oct-09|s|Winter Oats|Gerald - At 350 seeds per m2|125.00|kg/ha
+R/BK/1|2010|20-May-10|p|Winter Oats|Ally Max 5s - Section 5|None|None
+R/BK/1|2010|20-May-10|p|Winter Oats|Starane 2 - Section 5|None|None
+R/BK/1|2010|03-Aug-10|a|Winter Oats|Combine harvest, plots for yield - Section 5 only
+R/BK/1|2010|03-Aug-10|a|Winter Oats|Baled - Section 5 only
+R/BK/1|2010|03-Aug-10|a|Winter Oats|Cut harvest strips, weighed and sampled - Section 5 only
+R/BK/1|2010|16-Aug-10|a|Winter Oats|Combine harvest discards - combined headlands|None|None
+R/BK/1|2010|09-Apr-10|p|Forage Maize|Rosate 36 - Maize section only (200 It water)|4.00|l/ha
+R/BK/1|2010|26-Apr-10|a|Forage Maize|Nodet Drilled|None|None
+R/BK/1|2010|26-Apr-10|s|Forage Maize|Hudson - Maize section only|10.20|seeds/m*
+R/BK/1|2010|26-Apr-10|a|Forage Maize|Flexitined - Maize area|None|None
+R/BK/1|2010|26-Apr-10|a|Forage Maize|Power harrowed - Maize area|None|None
+R/BK/1|2010|27-Apr-10|f|Forage Maize|Nitram - Strips 12 and 17-19
+R/BK/1|2010|28-Apr-10|a|Forage Maize|Rolled - Maize plots|None|None
+R/BK/1|2010|04-Jun-10|p|Forage Maize|Callisto - 200 It water maize section only|0.75|l/ha
+R/BK/1|2010|04-Jun-10|p|Forage Maize|Samson Extra - 200 It water maize section only|0.75|l/ha
+R/BK/1|2010|07-Jun-10|f|Forage Maize|Nitram - plot 194|139.00|kg/ha
+R/BK/1|2010|07-Jun-10|f|Forage Maize|Nitram - plot 184|278.00|kg/ha
+R/BK/1|2010|07-Jun-10|f|Forage Maize|Nitram - plot 124|417.00|kg/ha
+R/BK/1|2010|07-Jun-10|f|Forage Maize|Nitram - plot 174|556.00|kg/ha
+R/BK/1|2010|27-Sep-10|a|Forage Maize|Harvest Maize Plots|None|None
+R/BK/1|2010|27-Sep-10|a|Forage Maize|Other operation, - cut maize discards|None|None
+R/BK/1|2010|28-Sep-10|a|Forage Maize|Other operation, - cut maize discards|None|None
+R/BK/1|2010|26-Nov-09|a|Wilderness|Topped - Grass area|None|None
+R/BK/1|2010|26-Nov-09|a|Wilderness|Topped - Stubbed area|None|None
+R/BK/1|2010|23-Apr-09|a|Wilderness|Cut grass area|None|None
+R/BK/1|2011|01-Sep-10|p|All Sections|Weedazol-TL, Not on section 8 or maize section (Water volume = 296 It / ha)|20|l/ha
+R/BK/1|2011|07-Oct-10|f|All Sections|Triple Super Phosphate, Strips 11, 13, 14, 17, 18|171|kg/ha
+R/BK/1|2011|07-Oct-10|f|All Sections|Muriate of Potash, On strip 14|181|kg/ha
+R/BK/1|2011|08-Oct-10|a|All Sections|Applied FYM, All sections apart from section 3 (W. oats) of Strips 2.2 and 2.1|35|vha
+R/BK/1|2011|10-Oct-10|a|All Sections|Ploughed|None|None
+R/BK/1|2011|13-Oct-10|a|All Sections|Cultipressed|None|None
+R/BK/1|2011|14-Oct-10|a|All Sections|Cultipressed|None|None
+R/BK/1|2011|01-Nov-10|p|All Sections|Sprayed Regatta, Water volume = 200 It / ha (Sections 0,1,2,4,6,7,9 only)|0.6|l/ha
+R/BK/1|2011|10-Nov-10|p|All Sections|Karan Slug pellets, Not section 5 (Maize section)|3|kg/ha
+R/BK/1|2011|12-Nov-10|a|All Sections|Erect rabbit fence|None|None
+R/BK/1|2011|23-Nov-10|p|All Sections|Karan Slug pellets|2.5|kg/ha
+R/BK/1|2011|16-Dec-10|a|All Sections|Cut Hedges, started|None|None
+R/BK/1|2011|17-Dec-10|a|All Sections|Cut Hedges|None|None
+R/BK/1|2011|05-Apr-11|f|All Sections|Applied Sulphate of Potash, strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 and 20 (treatment)|217|kg/ha
+R/BK/1|2011|06-Apr-11|f|All Sections|Applied Kieserite, strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 and 20 only (treatment)|80|kg/ha
+R/BK/1|2011|06-May-11|a|All Sections|Removed rabbit fence|None|None
+R/BK/1|2011|10-May-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|12-May-11|a|All Sections|Flexitined, fallows|None|None
+R/BK/1|2011|16-May-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|19-May-11|a|All Sections|Rotorvated down paths|None|None
+R/BK/1|2011|23-May-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|24-May-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|08-Jun-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|09-Jun-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|10-Jun-11|a|All Sections|Rotorvated fallows|None|None
+R/BK/1|2011|27-Jun-11|a|All Sections|Cut paths|None|None
+R/BK/1|2011|28-Jul-11|p|All Sections|Sprayed Statis 360 + Mixture B, Water volume = 200 l/ha (sections 0, 1, 9, 2, 3, 4, 6, 7 only)|3+3|l/ha
+R/BK/1|2011|29-Jul-11|a|All Sections|Cut Paths|None|None
+R/BK/1|2011|12-Aug-11|a|All Sections|Combined O+Es, Opened up trials with comercial combine ready for yields to be taken|None|None
+R/BK/1|2011|12-Aug-11|a|All Sections|Baled O+Es, Baled area discard area cut to open out trials|None|None
+R/BK/1|2011|30-Aug-11|a|All Sections|Rolled to crush field horse tail stems (equisteum arvense) to aid chemical penetration when sprayed with roundup.|None|None
+R/BK/1|2011|08-Sep-11|a|All Sections|Topped, to tidy stubble before primary cultivation|None|None
+R/BK/1|2011|19/10/2010|a|Winter Wheat|Drilled Hereward trt Redigo Deter, 350 seeds / metre sq (Started and rained off)|159|kg/ha
+R/BK/1|2011|20-Oct-10|a|Winter Wheat|Drilled Hereward trt Redigo Deter, 350 seeds / metre sq|159|kg/ha
+R/BK/1|2011|15-Mar-11|f|Winter Wheat|Applied Nitram Fertliser - 48 kg/ha N. Applied to strips 12, 17, 18 & 19.|139|kg/ha
+R/BK/1|2011|8-Mar-11|p|Winter Wheat|Sprayed Cherokee - Water volume = 118 It/ha. Applied to sections 0, 1, 9, 2, 4, 7, 8.|1.25|Wha
+R/BK/1|2011|13-Apr-11|f|Winter Wheat|Applied Nitram - wheat only. Strips 6 and 18|139|kg/ha
+R/BK/1|2011|13-Apr-11|f|Winter Wheat|Applied Nitram - Wheat only. Strips 7 and 19|278|kg/ha
+R/BK/1|2011|13-Apr-11|f|Winter Wheat|Applied Nitram - Wheat only. Strips 8 and 12; N3 to strip 2.1.|417|kg/ha
+R/BK/1|2011|13-Apr-11|f|Winter Wheat|Applied Nitram - Wheat only. Strips 9, 10, 11, 13, 14, 17 and 20; N4 to Strip 1.|556|kg/ha
+R/BK/1|2011|13-Apr-11|f|Winter Wheat|Applied Nitram - Wheat only. Strip 15.|696|kg/ha
+R/BK/1|2011|13-Apr-11|f|Winter Wheat|Applied Nitram - Wheat only. Strip 16.|835|kg/ha
+R/BK/1|2011|04-May-11|p|Winter Wheat|Sprayed Ally Max - Sections 0, 1, 2, 3, 4,6, 7 and 9, 200 l/ha water|42|g/ha 
+R/BK/1|2011|04-May-11|p|Winter Wheat|Sprayed Starane 2 - Sections 0, 1, 2, 3, 4, 6, 7 and 9, 200 I/ha water|0.75|l/ha
+R/BK/1|2011|06-May-11|p|Winter Wheat|Sprayed Bravo 500 - Sections 0, 1, 2, 4, 7, 8 and 9|1.0|l/ha
+R/BK/1|2011|06-May-11|p|Winter Wheat|Sprayed Tracker - Sections 0, 1, 2, 4, 7, 8 and 9|1.0|l/ha
+R/BK/1|2011|06-May-11|p|Winter Wheat|Agriguard Chlormequat 720 - Sections 0, 1, 2, 4, 7, 8 and 9|2.25|I/ha
+R/BK/1|2011|06-May-11|p|Winter Wheat|Justice - Sections 0, 1, 2, 4, 7, 8 and 9, all above in 200 l/ha water|0.25|l/ha
+R/BK/1|2011|12-May-11|f|Winter Wheat|Applied Nitram, Sections 12, 17, 18 and 19|139|kg/ha
+R/BK/1|2011|19-May-11|p|Winter Wheat|Sprayed Opus, sections 0, 1, 2, 4, 7, 8 and 9. 200 I/ha|0.8|I/ha
+R/BK/1|2011|19-May-11|p|Winter Wheat|Comet 200, sections 0, 1, 2, 4, 7, 8 and 9. 200 I/ha|0.6|l/ha
+R/BK/1|2011|19-May-11|p|Winter Wheat|Bravo 500 - Sections 0, 1, 2, 4, 7, 8 and 9. 200 I/ha|1.0|tha
+R/BK/1|2011|15-Aug-11|a|Winter Wheat|Combined for yields|None|None
+R/BK/1|2011|15-Aug-11|a|Winter Wheat|Straw weights|None|None
+R/BK/1|2011|16-Aug-11|a|Winter Wheat|Combined - O+Es|None|None
+R/BK/1|2011|16-Aug-11|a|Winter Wheat|Baled - Remaining straw baled and removed|None|None
+R/BK/1|2011|17-Aug-11|a|Winter Wheat|removed bales|None|None
+R/BK/1|2011|15-Sep-11|a|Winter Wheat|Topped - Headlands and section 8|None|None
+R/BK/1|2011|19-Oct-10|a|Winter Oats|Drilled Gerald trt Beret Gold, 350 seeds / metre sq|122|kg/ha
+R/BK/1|2011|23-Nov-10|p|Winter Oats|Sprayed Lexus Class, Section 3 (W. oats only). Water volume = 200 It/ha|60|g/ha
+R/BK/1|2011|23-Nov-10|p|Winter Oats|Hallmark with zeon technology, Section 3 (W. oats only). Water volume = 200 It/ha|50|ml/ha
+R/BK/1|2011|12-May-11|p|Winter Oats|Sprayed Amistar, Section 3 only. 200 I/ha water|0.5|l/ha
+R/BK/1|2011|12-May-11|p|Winter Oats|Sprayed Agriguard, Section 3 only. 200 I/ha water|1.75|l/ha
+R/BK/1|2011|10-Aug-11|a|Winter Oats|Combined for yields, Oats only|None|None
+R/BK/1|2011|10-Aug-11|a|Winter Oats|Straw weights, Oats section only|None|None
+R/BK/1|2011|07-Apr-11|p|Forage Maize|Sprayed Statis 360, 200 l/ha water. Maize section only|3|l/ha
+R/BK/1|2011|14-Apr-11|a|Forage Maize|Flexitined, Section 5. Maize
+R/BK/1|2011|26-Apr-11|a|Forage Maize|Drilled Hudson tr. Mesurol, Maize plots|10.2|seed/m*
+R/BK/1|2011|26-Apr-11|a|Forage Maize|Rolled, Maize plots|None|None
+R/BK/1|2011|26-Apr-11|a|Forage Maize|Power harrow (Roadtare) Maize plots.|None|None
+R/BK/1|2011|03-May-11|f|Forage Maize|Applied Nitram, Plot 065 only|139|kg/ha
+R/BK/1|2011|03-May-11|f|Forage Maize|Applied Nitram, Plots 075, 125, 175, 185 and 195.|278|kg/ha
+R/BK/1|2011|03-May-11|f|Forage Maize|Applied Nitram, Plots 2.15 and 085|417|kg/ha
+R/BK/1|2011|03-May-11|f|Forage Maize|Applied Nitram, Plots 015, 095, 105, 115, 135 and 145|556|kg/ha
+R/BK/1|2011|03-May-11|f|Forage Maize|Applied Nitram, Plot 155|696|kg/ha
+R/BK/1|2011|03-May-11|f|Forage Maize|Applied Nitram, Plot 165|835|kg/ha
+R/BK/1|2011|12-May-11|f|Forage Maize|Applied Nitram, Sections 12, 17, 18 and 19|139|kg/ha
+R/BK/1|2011|24-Jun-11|p|Forage Maize|Sprayed Calisto. water volume = 200 It/ha (Sprayed Maize, section 5, only)|1.0|l/ha
+R/BK/1|2011|24-Jun-11|p|Forage Maize|Sprayed Samson Extra. water volume = 200 It/ha (Sprayed Maize, section 5, only)|0.5|l/ha
+R/BK/1|2011|28-Jun-11|f|Forage Maize|Applied Nitram, Plot 195|139|kg/ha
+R/BK/1|2011|28-Jun-11|f|Forage Maize|Applied Nitram, Plot 185|278|kg/ha
+R/BK/1|2011|28-Jun-11|f|Forage Maize|Applied Nitram, Plot 125|417|kg/ha
+R/BK/1|2011|28-Jun-11|f|Forage Maize|Applied Nitram, Plot 175|556|kg/ha
+R/BK/1|2011|23-Sep-11|a|Forage Maize|Cut Maize for yields and discards|None|None
+R/BK/1|2011|30-Sep-11|a|Forage Maize|Topped Maize|None|None
+R/BK/1|2012|31-Aug-11|p|All Sections|Sprayed Weedazol - water volume = 200 I/ha (Sprayed to control equestum prior to primary cultivations)|20|l/ha
+R/BK/1|2012|27-Sep-11|f|All Sections|Applied Muriate of Potash Plots 140-149|181|kg/ha
+R/BK/1|2012|27-Sep-11|f|All Sections|Applied Triple Super Phosphate - plots 170-189 + 130-149 + 110-119|171|kg/ha
+R/BK/1|2012|28-Sep-11|a|All Sections|Applied FYM - to strip 2.1 + 2.2 (not section 2 oats)|35|vha
+R/BK/1|2012|01-Oct-11|a|All Sections|Ploughed - soil thrown Northward.|None|None
+R/BK/1|2012|03-Oct-11|a|All Sections|Cultipressed|None|None
+R/BK/1|2012|13-Oct-11|p|All Sections|Sprayed Liberator - sections 0, 1, 4, 5, 6, 7 and 9 only. Plots 012 and 2.12 sprayed by accident. 200 l/ha water volume.|0.6|l/ha
+R/BK/1|2012|23-Nov-11|p|All Sections|Sprayed Seal Z - all sections apart from section 3 sprayed. 200 It/ha water volume.|50|ml/ha
+R/BK/1|2012|01-Dec-11|p|All Sections|Sprayed Lexus class - section 2 only. 200 l/ha water volume.|0.6|g/ha
+R/BK/1|2012|05-Dec-11|a|All Sections|Cut Hedges - road side only|None|None
+R/BK/1|2012|10-Apr-12|a|All Sections|Rotovated fallow areas :|None|None
+R/BK/1|2012|20-Apr-12|p|All Sections|Sprayed Platform - all sections except section 3 sv 200It/ha|1|kg/ha
+R/BK/1|2012|17-May-12|a|All Sections|Cut Paths :|None|None
+R/BK/1|2012|18-May-12|a|All Sections|Cut Paths :|None|None
+R/BK/1|2012|28-May-12|a|All Sections|Topped Paths -|None|None
+R/BK/1|2012|14-Jun-12|a|All Sections|Cut paths :|None|None
+R/BK/1|2012|14-Jun-12|a|All Sections|Rotavated paths - too wet to finish|None|None
+R/BK/1|2012|20-Jun-12|a|All Sections|Cut Paths :|None|None
+R/BK/1|2012|20-Jun-12|a|All Sections|Rotavated Paths -|None|None
+R/BK/1|2012|02-Jul-12|a|All Sections|Rotavated Fallows -|None|None
+R/BK/1|2012|02-Jul-12|a|All Sections|Replaced marker posts -|None|None
+R/BK/1|2012|05-Jul-12|a|All Sections|Paths Cut :|None|None
+R/BK/1|2012|30-Jul-12|a|All Sections|Paths Cut :|None|None
+R/BK/1|2012|06-Aug-12|p|All Sections|Sprayed Samurai|3.0|l/ha
+R/BK/1|2012|06-Aug-12|p|All Sections|Sprayed Mixture B|4|l/ha
+R/BK/1|2012|28-Aug-12|a|All Sections|Rolled with Discs -|None|None
+R/BK/1|2012|31-Aug-12|p|All Sections|Sprayed Weedazol. TL EW 296 sv SECTIONS 0, 1, 2, 4, 5, 6, 7, 9 only|20|l/ha
+R/BK/1|2012|28-Sep-12|f|All Sections|Spread Fert TSP as on sheet - sections spread on to: 110 - 119, 130 - 139, 140 - 149, 170 - 179, 180 - 189|171|kg/ha
+R/BK/1|2012|28-Sep-12|f|All Sections|Spread Fertilizer Muriate of Potash as on sheet onto Plots: 140 - 149|181|kg/ha
+R/BK/1|2012|03-Oct-12|a|All Sections|Applied FYM to Strip 2.1 and 2.2 but not section 7, as per plan|None|None
+R/BK/1|2012|03-Oct-12|a|All Sections|Ploughed - soil thrown Southward|None|None
+R/BK/1|2012|11-Oct-11|s|Winter Wheat|Drilled Hereward trt Redigo Deter|350|seeds/m?
+R/BK/1|2012|15-Mar-12|f|Winter Wheat|Applied Nitram on plots 12, 17, 18 and 19. wheat only|139|kg/ha
+R/BK/1|2012|21-Mar-12|p|Winter Wheat|Sprayed Cherokee SE Sections 0, 1, 9 - 4 - 5 - 7 and 8.|1.0|l/200 l/ha
+R/BK/1|2012|21-Mar-12|p|Winter Wheat|Sprayed Justice SV Sections 0, 1, 9 - 4 - 5 - 7 and 8.|0.125|l/200 l/ha
+R/BK/1|2012|02-Apr-12|f|Winter Wheat|Applied Kieserite on plots: 5, 6, 7, 8, 9, 11, 12, 15, 116, 17, 18, 19 and 20|80|kg/ha
+R/BK/1|2012|02-Apr-12|f|Winter Wheat|Applied Sulphate of Potash on plots: 5, 6, 7, 8, 9, 12, 13, 15, 116, 17, 18, 19 and 20|217|kg/ha
+R/BK/1|2012|17-Apr-12|f|Winter Wheat|Applied Nitram Feriliser onto plots: 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 and 20|None|None
+R/BK/1|2012|17-Apr-12|f|Winter Wheat|Applied Nitram Feriliser onto plot - 2.1 ONLY|417|kg/ha
+R/BK/1|2012|13-May-12|p|Winter Wheat|Sprayed Bravo 500 ONLY ON SECTIONS: 0, 1, 9, 4, 5, 7 and 8|1.0|l/ha
+R/BK/1|2012|13-May-12|p|Winter Wheat|Sprayed Tracker ONLY ON SECTIONS: 0, 1, 9, 4, 5, 7 and 8|1.0|l/ha
+R/BK/1|2012|13-May-12|p|Winter Wheat|Sprayed CCC ONLY ON SECTIONS: 0, 1, 9, 4, 5, 7 and 8|2.25|l/ha
+R/BK/1|2012|13-May-12|p|Winter Wheat|Sprayed Ally Max and wetter. ONLY SPRAYED SECTIONS 0, 1, 9, 4, 5, 6 & 7|42|g/ha 
+R/BK/1|2012|13-May-12|p|Winter Wheat|Sprayed Starane and wetter. ONLY SPRAYED SECTIONS 0, 1, 9, 4, 5, 6 & 7|0.5|l/ha
+R/BK/1|2012|13-May-12|p|Winter Wheat|Sprayed Topik and wetter. ONLY SPRAYED SECTIONS 0, 1, 9, 4, 5, 6 & 7|0.125|l/ha
+R/BK/1|2012|22-May-12|f|Winter Wheat|Applied 3rd N Treatment on sections 12, 17, 18 and 19 wheat only|139|kg/ha
+R/BK/1|2012|28-May-12|p|Winter Wheat|Sprayed Comet Sections 0, 1, 9, 4, 5, 7 and 8|0.6|l/ha
+R/BK/1|2012|28-May-12|p|Winter Wheat|Sprayed Bravo 500 Sections 0, 1, 9, 4, 5, 7 and 8|1.0|l/ha
+R/BK/1|2012|28-May-12|p|Winter Wheat|Sprayed Opus Sections 0, 1, 9, 4, 5, 7 and 8|0.8|l/ha
+R/BK/1|2012|12-Jun-12|p|Winter Wheat|Sprayed w/ Amistar Sections 0, 1, 9, 2, 4, 5, 7 and 8 ONLY|0.3|l/ha 
+R/BK/1|2012|12-Jun-12|p|Winter Wheat|Sprayed Prosaro 100 sv Sections 0, 1, 9, 2, 4, 5, 7 and 8 ONLY|0.7|l/ha
+R/BK/1|2012|21-Aug-12|a|Winter Wheat|Harvested|None|None
+R/BK/1|2012|22-Aug-12|a|Winter Wheat|Harvested|None|None
+R/BK/1|2012|23-Aug-12|a|Winter Wheat|Sampled, Baled and Weighed Straw|None|None
+R/BK/1|2012|11-Oct-11|s|Winter Oats|Drilled Gerald trt Beret Multi, Section 2 only|350|seeds/m*
+R/BK/1|2012|16-May-12|p|Winter Oats|Sprayed Amistar Section 2 only|0.5|l/ha
+R/BK/1|2012|16-May-12|p|Winter Oats|Sprayed Agriguard Section 2 only|2.5|l/ha
+R/BK/1|2012|16-May-12|p|Winter Oats|Sprayed Corbel Section 2 only|0.25|l/ha
+R/BK/1|2012|16-May-12|p|Winter Oats|Sprayed Ally Section 2 only|42|g/ha 
+R/BK/1|2012|16-May-12|p|Winter Oats|Sprayed Starane 2 Section 2 only|0.5|l/ha
+R/BK/1|2012|02-Jul-12|a|Winter Oats|Wild Oat Pulling 0.12 - 1, 2.28 - 1, 0.38 - 1, 0.58 - 1, 0.98 - 3, 118 + 103 158 - 1, 168 - 1, 178 - 1, 113 Total|None|None
+R/BK/1|2012|20-Aug-12|a|Winter Oats|Harvested - Cut and Chopped|None|None
+R/BK/1|2012|23-Aug-12|a|Winter Oats|Sampled, Baled and Weighed Straw|None|None
+R/BK/1|2012|29-Mar-12|p|Maize|Sprayed Section 3 - Samurai SL PRE MAIZE 200It/ha|3|l/ha
+R/BK/1|2012|13-May-12|s|Maize|Drilled Maize Section 3 (Maize)|10.2|seeds/m?
+R/BK/1|2012|13-May-12|a|Maize|Powerharrowed Section 3 (Maize) only|None|None
+R/BK/1|2012|14-Jun-12|f|Maize|Nitram Applied by hand: plot 193|173|kg/ha
+R/BK/1|2012|14-Jun-12|f|Maize|Nitram Applied by hand: plot 183|287|kg/ha
+R/BK/1|2012|14-Jun-12|f|Maize|Nitram Applied by hand: plot 173|278|kg/ha
+R/BK/1|2012|14-Jun-12|f|Maize|Nitram Applied by hand: plot 123|417|kg/ha
+R/BK/1|2012|20-Jun-12|p|Maize|Sprayed Section 3 ONLY w/ Samson Extra|0.75|l/ha
+R/BK/1|2012|20-Jun-12|p|Maize|Sprayed Section 3 ONLY w/ Callisto 200 sv|1.0|l/ha
+R/BK/1|2012|27-Sep-12|a|Maize|Maize for Yield|None|None
+R/BK/1|2012|27-Sep-12|a|Maize|Harvested and Chopped odds and ends|None|None
+R/BK/1|2012|28-Sep-12|a|Maize|Harvested and Chopped odds and ends|None|None
+R/BK/1|2012|28-May-12|a|Wilderness|Topped wilderness|None|None
+R/BK/1|2012|18-June-12|a|Wilderness|Mowed wilderness with topper|None|None
+R/BK/1|2013|28-Sep-12|f|All Sections|Applied Triple Super Phosphate to plots 110 - 119, 130 - 139, 140 - 149, 170 - 179 and 180 - 189 on all sections|171|kg/ha
+R/BK/1|2013|28-Sep-12|f|All Sections|Spread Fertilizer MOP as on sheet onto Plots: 140 - 149|181|kg/ha
+R/BK/1|2013|03-Oct-12|a|All Sections|Applied fresh FYM to strip 2.1 and 2.2 (not section 7 oats)|35|vha
+R/BK/1|2013|03-Oct-12|a|All Sections|Ploughed (Soil thrown south)|None|None
+R/BK/1|2013|11-Mar-13|f|All Sections|Applied Kieserite|80|kg/ha
+R/BK/1|2013|12-Mar-13|f|All Sections|Applied Sulphate of Potash|217|kg/ha
+R/BK/1|2013|03-Jun-13|p|All Sections|Sprayed Refine Max Sections 0, 1, 3, 4, 5 & 9|75|g/ha
+R/BK/1|2013|03-Jun-13|p|All Sections|Sprayed Competox+ Sections 0, 1, 3, 4, 5 & 9|1.0|l/ha
+R/BK/1|2013|03-Jun-13|p|All Sections|Sprayed Kingdom Sections 0, 1, 3, 4, 5 & 9|1.25|l/ha
+R/BK/1|2013|03-Jun-13|p|All Sections|Sprayed Bravo 500 Sections 0, 1, 3, 4, 5 & 9|1.0|l/ha
+R/BK/1|2013|04-Jun-13|a|All Sections|Rotavated paths|None|None
+R/BK/1|2013|04-Jun-13|p|All Sections|Section 6 Sprayed Refine Max|75|g/ha
+R/BK/1|2013|04-Jun-13|p|All Sections|Section 6 Sprayed Competox|1.0|l/ha
+R/BK/1|2013|13-Jun-13|a|All Sections|Cut Paths|None|None
+R/BK/1|2013|17-Jun-13|a|All Sections|Rotavated Fallows|None|None
+R/BK/1|2013|01-Jul-13|a|All Sections|Rotavated Fallows|None|None
+R/BK/1|2013|02-Jul-13|a|All Sections|Rotavated Fallows|None|None
+R/BK/1|2013|02-Jul-13|a|All Sections|Cut Paths|None|None
+R/BK/1|2013|10-Jul-13|a|All Sections|Pulling Wild Oats in all plots 71 counted
+R/BK/1|2013|15-Jul-13|a|All Sections|Put out White posts|None|None
+R/BK/1|2013|19-Jul-13|a|All Sections|Cut Paths Note Weedazol was not applied this year due to insufficient time available for it to take effect before cultivation|None|None
+R/BK/1|2013|22-Feb-13|a|W Wheat|Drilled Crusoe trt Redigo Deter|450|seeds m?
+R/BK/1|2013|12-Mar-13|f|W Wheat|Applied Nitram on plots - 12, 17, 18 and 19.|139|kg/ha
+R/BK/1|2013|24-Apr-13|f|W Wheat|Applied Nitram on plots - 1, 2.1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19. 139 kg/ha, 278 kg/ha, 417 kg/ha, 556 kg/ha, 696 kg/ha, 835 kg/ha|None|None
+R/BK/1|2013|21-May-13|f|W Wheat|Applied Nitram to WW on plots 12, 17, 18 and 19.|139|kg/ha
+R/BK/1|2013|03-Jun-13|p|W Wheat|Sprayed Kingdom|1.25|l/ha
+R/BK/1|2013|03-Jun-13|p|W Wheat|Sprayed Bravo|1.0|l/ha
+R/BK/1|2013|25-Jun-13|p|W Wheat|All wheat section (except 6) - sprayed Ignite|1.1|l/ha
+R/BK/1|2013|25-Jun-13|p|W Wheat|All wheat section (except 6) - sprayed Bravo 500|1.0|l/ha
+R/BK/1|2013|25-Jun-13|p|W Wheat|All wheat section (except 6) - sprayed Comet 200|1.25|l/ha
+R/BK/1|2013|29-Aug-13|a|W Wheat|Sampo - Finished harvest of wheat plots |None|None
+R/BK/1|2013|29-Aug-13|a|W Wheat|Baled, sampled and weighed wheat straw|None|None
+R/BK/1|2013|23-Feb-13|a|W Oats|Drilled Winter Oats var Gerald|400|seeds m*
+R/BK/1|2013|02-Jun-13|p|W Oats|Sprayed Foundation|1.25|l/ha
+R/BK/1|2013|02-Jun-13|p|W Oats|Sprayed Hatchet|0.5|l/ha
+R/BK/1|2013|02-Jun-13|p|W Oats|Sprayed Cello|0.8|l/ha|
+R/BK/1|2013|03-Sep-13|a|W Oats|Sampo - Harvested Oats only|None|None
+R/BK/1|2013|25-Sep-13|a|W Oats|Baled, weighed and sampled straw - Oat Section 7
+R/BK/1|2013|17-May-13|a|Maize|Powerharrowed and Drilled Maize var Hudson|10.2|seeds m?
+R/BK/1|2013|21-May-13|f|Maize|Applied Nitram-N fert (pre-emergent) to Maize plots 1, 2.1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 & 19. 139 kg/ha, 278 kg/ha, 417 kg/ha, 556 kg/ha, 696 kg/ha, 835 kg/ha
+R/BK/1|2013|10-Jun-13|f|Maize|Applied Nitram-N fert (post-emergent) to Maize plots 12, 17, 18 & 19. 139 kg/ha, 278 kg/ha, 417 kg/ha, 556 kg/ha 
+R/BK/1|2013|26-Jun-13|p|Maize|Sprayed Samson - maize plots only|0.5|l/ha
+R/BK/1|2013|26-Jun-13|p|Maize|Sprayed Callisto - maize plots only|0.5|l/ha
+R/BK/1|2013|25-Sep-13|a|Maize|Maize Harvested - all plots, as per plan|None|None
+R/BK/1|2013|25-Sep-13|a|Maize|Cleared OE's Maize|None|None
+R/BK/1|2013|26-Sep-13|a|Maize|Cut Maize OE's|None|None
+R/BK/1|2013|13-May-13|a|Wilderness|Cut grass on mown area |None|None
+R/BK/1|2013|21-Jun-13|a|Wilderness|Cut grass on mown area|None|None
+R/BK/1|2013|01-Aug-13|a|Wilderness|Cut grass on mown area|None|None
+R/BK/1|2013|10-Oct-13|a|Wilderness|Low branches trimmed in edge of wilderness|None|None
+R/BK/1|2013|19-Dec-13|a|Wilderness|Stubbed area cut|None|None
+R/BK/1|2014|30-Sep-13|a|All Sections|Topped rough areas around field edges|None|None
+R/BK/1|2014|30-Sep-13|f|All Sections|Spread MOP on plots 140-149|181|kg/ha
+R/BK/1|2014|30-Sep-13|f|All Sections|Applied TSP - Plots 180-189, 170-179, 140-149, 130-139, 110-119|171|kg/ha
+R/BK/1|2014|01-Oct-13|a|All Sections|Applied Chalk - Plots 017, 2.27, 057, 066, 067, 068, 070, 071, 076, 078, 079, 081, 085, 086, 089, 095, 098, 105, 108, 115, 116, 118, 125, 126, 135, 136, 145, 146, 150, 153, 169, 172, 177, 178, 179, 196, 199 - Not Section 4|2|tha
+R/BK/1|2014|01-Oct-13|a|All Sections|Applied Chalk - Plots 012, 077, 080, 082, 087, 088, 097, 106, 109, 119, 128, 129, 138, 139, 147, 148, 149, 151, 155, 156, 158, 159, 167, 168, 197, 198 - Not Section 4|4|wha
+R/BK/1|2014|01-Oct-13|a|All Sections|Applied Chalk - Plots 107, 117, 127, 137, 152, 157, 162 - Not Section 4|6|vha
+R/BK/1|2014|02-Oct-13|f|All Sections|Applied FYM to plots 2.20-2.29 and 2.10- 2.19 - Not Section 4|35|ha
+R/BK/1|2014|03-Oct-13|a|All Sections|Ploughed, soil thrown north|None|None
+R/BK/1|2014|04-Oct-13|f|All Sections|Applied FYM to plots 2.20-2.29 and 2.10- 2.19 - Not Section 4|35|ha
+R/BK/1|2014|05-Oct-13|a|All Sections|Ploughed, soil thrown north|None|None
+R/BK/1|2014|07-Oct-13|a|All Sections|Cultipressed|None|None
+R/BK/1|2014|09-Oct-13|a|All Sections|Cultipressed|None|None
+R/BK/1|2014|10-Oct-13|a|All Sections|marked out maize and oats sections with GPS|None|None
+R/BK/1|2014|06-Jan-14|a|All Sections|Hedge Cutting - Roadside|None|None
+R/BK/1|2014|07-Feb-14|a|All Sections|Dug channels to clear water at east end of Field|None|None
+R/BK/1|2014|09-Apr-14|f|All Sections|Applied Kieserite Treatments - Not to plots in strips 01, 2.1, 2.2, 03, 10, 13, 14|80|kg/ha
+R/BK/1|2014|09-Apr-14|f|All Sections|Applied SOP - Not to plots in strips 01, 2.1, 2.2, 03, 10, 11, 14|217|kg/ha
+R/BK/1|2014|29-Apr-14|a|All Sections|Mowed All Paths|None|None
+R/BK/1|2014|30-Apr-14|p|All Sections|Sprayed Kingdom - NOT sections 8, 4 or 7|1.25|l/ha
+R/BK/1|2014|30-Apr-14|p|All Sections|Sprayed Bravo 500 - NOT sections 8, 4 or 7|1.0|Wha
+R/BK/1|2014|09-May-14|a|All Sections|Cut Paths with Iseki and Mower|None|None
+R/BK/1|2014|16-May-14|p|All Sections|Sprayed Vortex - All but NOT section 6 and 7|1.5|Wha
+R/BK/1|2014|19-May-14|a|All Sections|cut paths with iseki|None|None
+R/BK/1|2014|03-Jun-14|a|All Sections|Cut paths and hand rogued blackgrass, section 9 only|None|None
+R/BK/1|2014|03-Jun-14|a|All Sections|Rotivated Strip Paths|None|None
+R/BK/1|2014|09-Jun-14|a|All Sections|Hand rogued blackgrass|None|None
+R/BK/1|2014|10-Jun-14|a|All Sections|Hand rogued blackgrass|None|None
+R/BK/1|2014|17-Jun-14|a|All Sections|Paths Cut with Iseki and Mower|None|None
+R/BK/1|2014|18-Jun-14|a|All Sections|Hand rogued blackgrass|None|None
+R/BK/1|2014|09-Jul-14|a|All Sections|Cut paths with Iseki and Mower|None|None
+R/BK/1|2014|10-Jul-14|a|All Sections|Hand rogued wild oats, 57 plants in total|None|None
+R/BK/1|2014|29-Jul-14|a|All Sections|cut paths with Iseki and Mower|None|None
+R/BK/1|2014|30-Jul-14|a|All Sections|Claas Harvested OE's|None|None
+R/BK/1|2014|18-Oct-13|s|W Wheat|Drilled all WW Plots var. Crusoe|400|seeds/m*
+R/BK/1|2014|27-Nov-13|p|W Wheat|Applied Major Slug Pellets|4|kg/ha
+R/BK/1|2014|27-Nov-13|p|W Wheat|Sprayed Hallmark - All wheats but NOT section 8|50|ml/ha
+R/BK/1|2014|27-Nov-13|p|W Wheat|Sprayed Liberator - All wheats but NOT section 8|600|ml/ha
+R/BK/1|2014|27-Nov-13|p|W Wheat|Sprayed Stomp - All wheats but NOT section 8|1.7|Wha
+R/BK/1|2014|27-Nov-13|p|W Wheat|Sprayed Hallmark - Section 8 only|50|ml/ha
+R/BK/1|2014|10-Mar-14|f|W Wheat|applied Nitram @ 35%N - To strips 12, 17, 18, 19 but not in sections in 4 or 7|139|kg/ha
+R/BK/1|2014|03-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strips 6 and 19 but not in sections in 4 or 7|139|kg/ha
+R/BK/1|2014|03-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strips 7 and 18 but not in sections in 4 or 7|278|kg/ha
+R/BK/1|2014|03-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strips 8 and 12 but not in sections in 4 or 7|417|kg/ha
+R/BK/1|2014|03-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strips 01, 09, 10, 11, 13, 14, 17, 20 but not in sections in 4 or 7|556|kg/ha
+R/BK/1|2014|03-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strip 15 but not in sections in 4 or 7|696|kg/ha
+R/BK/1|2014|03-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strip 16 but not in sections in 4 or 7|835|kg/ha
+R/BK/1|2014|04-Apr-14|f|W Wheat|Applied Nitram @ 35%N - To strip 2.1 but not in sections in 4 or 7|417|kg/ha
+R/BK/1|2014|13-May-14|f|W Wheat|Applied Nitram @ 35%N - To plots in strip 12 but not in sections in 4 or 7|139|kg/ha
+R/BK/1|2014|13-May-14|f|W Wheat|Applied Nitram @ 35%N - To plots in strip 17 but not in sections in 4 or 7|139|kg/ha
+R/BK/1|2014|13-May-14|f|W Wheat|Applied Nitram @ 35%N - To plots in strip 18 but not in sections in 4 or 7|139|kg/ha
+R/BK/1|2014|13-May-14|f|W Wheat|Applied Nitram @ 35%N - To plots in strip 19 but not in sections in 4 or 7|139|kg/ha
+R/BK/1|2014|15-May-14|p|W Wheat|Sprayed Ally Max - NOT sections 8, 4 or 7|42|g/ha
+R/BK/1|2014|15-May-14|p|W Wheat|Sprayed Hatchet Xtra - NOT sections 8, 4 or 7|700|ml/ha
+R/BK/1|2014|06-Jun-14|p|W Wheat|Sprayed Cello Section 4, 6 + 7 NOT Sprayed|1.1|l/ha
+R/BK/1|2014|20-Aug-14|a|W Wheat|Sampo Harvested - All wheat plots|None|None
+R/BK/1|2014|21-Aug-14|a|W Wheat|Claas Harvested OE's|None|None
+R/BK/1|2014|21-Aug-14|a|W Wheat|Sampled, Baled and Weighed Straw - All Winter Wheat Plots - Also baled OE's on trial|None|None
+R/BK/1|2014|02-Sep-14|a|W Wheat|Removed Bales From Plots Area|None|None
+R/BK/1|2014|18-Oct-13|s|W Oats|Drilled OW var. Gerald|400|seeds/m?
+R/BK/1|2014|26-Nov-13|p|W Oats|Sprayed Lexus Millenium - Oats only|100|g/ha
+R/BK/1|2014|26-Nov-13|p|W Oats|Sprayed Hallmark - Oats only|50|mlha
+R/BK/1|2014|26-Nov-13|p|W Oats|Sprayed - Oats only|100|ml/ha
+R/BK/1|2014|30-Jul-14|a|W Oats|Baled and Removed Oat Straw|None|None
+R/BK/1|2014|30-Jul-14|a|W Oats|Harvested - Sampo - Oat Plots for Yield - on section 4|None|None
+R/BK/1|2014|31-Jul-14|a|W Oats|Sampled Baled and Weighed all Oat Plots - section 4|None|None
+R/BK/1|2014|19-Aug-14|a|W Oats|Claas Harvested OE's|None|None
+R/BK/1|2014|10-Apr-14|p|Maize|Sprayed Samurai - Maize section only|3.0|Wha
+R/BK/1|2014|10-Apr-14|p|Maize|Sprayed Firebrand - Maize section only|1.0|Wha
+R/BK/1|2014|15-May-14|a|Maize|Flexitined Maize Plots|None|None
+R/BK/1|2014|15-May-14|a|Maize|Power-harrowed Maize Plots|None|None
+R/BK/1|2014|16-May-14|s|Maize|Drilled Maize plots var. Hudson dr mesural|11.5|seeds/m?
+R/BK/1|2014|20-May-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 06, section 7|139|kg/ha
+R/BK/1|2014|20-May-14|f|Maize|Applied Nitram @ 35%N - To plots in strips 07, 12, 17, 18, 19, section 7|278|kg/ha
+R/BK/1|2014|20-May-14|f|Maize|Applied Nitram @ 35%N - To plots in strips 2.1, 08, section 7|417|kg/ha
+R/BK/1|2014|20-May-14|f|Maize|Applied Nitram @ 35%N - To plots in strips 01, 09, 10, 11, 13, 14, section 7|556|kg/ha
+R/BK/1|2014|20-May-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 15, section 7|696|kg/ha
+R/BK/1|2014|20-May-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 16, section 7|835|kg/ha
+R/BK/1|2014|02-Jun-14|p|Maize|Applied KARAN - Section 7 Only - Slug Pellets|5|kg/ha
+R/BK/1|2014|16-Jun-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 12, section 7|417|kg/ha
+R/BK/1|2014|16-Jun-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 17, section 7|556|kg/ha
+R/BK/1|2014|16-Jun-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 18, section 7|278|kg/ha
+R/BK/1|2014|16-Jun-14|f|Maize|Applied Nitram @ 35%N - To plots in strip 19, section 7|139|kg/ha
+R/BK/1|2014|19-Jun-14|p|Maize|Sprayed Samson Extra 6% - Maize only|500|mlha
+R/BK/1|2014|19-Jun-14|p|Maize|Sprayed Callitso - Maize only|750|mv/ha
+R/BK/1|2014|30-Sep-14|a|Maize|Harvested all maize plots for yield - Harvested by hand|None|None
+R/BK/1|2014|30-Sep-14|a|Maize|Harvested and removed all leftover Maize - from maize plots only.|None|None
+R/BK/1|2014|09-Apr-14|a|Fallows|Power-harrowed discard/unsown areas|None|None
+R/BK/1|2014|22-Apr-14|a|Fallows|Rotovated discard/unsown areas|None|None
+R/BK/1|2014|19-May-14|a|Fallows|Power-harrowed discard/unsown areas Wilderness|None|None
+R/BK/1|2014|04-Apr-14|a|Wilderness|Mowed Grass|None|None
+R/BK/1|2014|14-May-14|a|Wilderness|Mowed grass|None|None
+R/BK/1|2014|23-May-14|a|Wilderness|Cut Grass|None|None
+R/BK/1|2014|13-Jun-14|a|Wilderness|Topped middle grass|None|None
+R/BK/1|2014|13-Jun-14|a|Wilderness|Stubbed area cut down|None|None
+R/BK/1|2015|05-Sep-14|p|All Sections|Sprayed Weedazol to sections 1, 2, 3, 4, 5, 6 + 9 only|20|l/ha
+R/BK/1|2015|02-Oct-14|f|All Sections|Applied TSP - strips 11, 13, 14, 17 + 18 all sections|171|kg/ha
+R/BK/1|2015|02-Oct-14|f|All Sections|Applied MOP Fertiliser - strip 14, all sections|181|kg/ha
+R/BK/1|2015|03-Oct-14|f|All Sections|Applied FYM to plots 2.20-2.29 and 2.10-2.19 - Not Section 5|35|t/ha
+R/BK/1|2015|06-Nov-14|p|All Sections|Sprayed Firebrand - strips 2.20 + 2.10 only|1|l/ha
+R/BK/1|2015|06-Nov-14|p|All Sections|Sprayed Samurai - strips 2.20 + 2.10 only|3|l/ha
+R/BK/1|2015|05-Mar-15|p|All Sections|Sprayed Samurai - not section 8|25|l/ha
+R/BK/1|2015|05-Mar-15|p|All Sections|Sprayed Firebrand - not section 8|1|l/ha
+R/BK/1|2015|06-Mar-15|a|All Sections|Spring-tine Cultivated all site|None|None
+R/BK/1|2015|16-Apr-15|f|All Sections|Applied Kieserite Fertiliser - to strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 + 20, all sections|80|kg/ha
+R/BK/1|2015|16-Apr-15|f|All Sections|Applied SOP - to strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18, 19 + 20, all sections|217|kg/ha
+R/BK/1|2015|13-May-15|p|All Sections|Sprayed BASF Chloremquat 750 - all sections - not sections 4, 6 or 8|2|l/ha
+R/BK/1|2015|13-May-15|p|All Sections|Sprayed Kingdom - all sections - not sections 4, 6 or 8|1.5|l/ha
+R/BK/1|2015|13-May-15|p|All Sections|Sprayed Foundation - all sections - not sections 4, 6 or 8|1.25|l/ha
+R/BK/1|2015|13-May-15|a|All Sections|Topped commercial Grass|None|None
+R/BK/1|2015|01-Jun-15|a|All Sections|topping all grass -|None|None
+R/BK/1|2015|11-Jun-15|a|All Sections|Cut Paths across plots.|None|None
+R/BK/1|2015|12-Jun-15|a|All Sections|Rotavated Strip Paths
+R/BK/1|2015|15-Jun-15|a|All Sections|Rotavating paths and fallows around trials|None|None
+R/BK/1|2015|16-Jun-15|a|All Sections|Rotavated Paths up strip paths only|None|None
+R/BK/1|2015|16-Jul-15|a|All Sections|Pulled 91 wild oats from plots and surrounds|None|None
+R/BK/1|2015|28-Jul-15|a|All Sections|Cut cross paths|None|None
+R/BK/1|2015|13-Aug-15|a|All Sections|Cut Cross Paths|None|None
+R/BK/1|2015|09/03/2015|s|S Wheat|Drilled all wheat plots with Spring Wheat var. Mulika trt Redigo - Sections 0, 1, 2, 3, 6, 7, + 9 only|350|seeds/m?
+R/BK/1|2015|09/03/2015|a|S Wheat|Rolled all new drilling on site|None|None
+R/BK/1|2015|09/04/2015|f|S Wheat|applied Nitram @ 35%N - To strips 12, 17, 18, 19 but not in sections in 4, 5 or 8|139|kg/ha
+R/BK/1|2015|17/04/2015|f|S Wheat|Applied Nitram @ 34.5%N - To strips 6 and 19 - not sections in 4.5 or 8|139|kg/ha
+R/BK/1|2015|17/04/2015|f|S Wheat|Applied Nitram @ 34.5%N - To strips 7 and 18 - not sections in 4, 5 or 8|278|kgha
+R/BK/1|2015|17/04/2015|f|S Wheat|Applied Nitram @ 34.5%N - To strips 8 and 12 - not sections in 4, 5 or 8|417|kg/ha
+R/BK/1|2015|17/04/2015|f|S Wheat|Applied Nitram @ 34.5%N - To strips 1, 9, 10, 11, 13, 14, 17, 20 - not sections in 4, 5 or 8|556|kgha
+R/BK/1|2015|17/04/2015|f|S Wheat|Applied Nitram @ 34.5%N - To strip 15 - not sections in 4, 5 or 8|696|kg/ha
+R/BK/1|2015|17/04/2015|f|S Wheat|Applied Nitram @ 34,5%N - To strip 16 - not sections in 4, 5 or 8|835|kg/ha
+R/BK/1|2015|08/05/2015|f|S Wheat|Applied Nitram @34.5%N - strips 12, 17, 18 + 19 - not sections 4, 5 or 8|139|kg/ha
+R/BK/1|2015|13/05/2015|p|S Wheat|Sprayed BASF Chloremquat 750 - section 6 only|2|vha
+R/BK/1|2015|13/05/2015|p|S Wheat|Sprayed Foundation - section 6 only|1.25|l/ha
+R/BK/1|2015|13/05/2015|p|S Wheat|so BASF Chloremquat 750 - sections 0, 1, 2, 3, 5, 7 + 9|2|l/ha
+R/BK/1|2015|13/05/2015|p|S Wheat|Sprayed Kingdom - sections 0, 1, 2, 3, 5, 7 + 9|1.25|l/ha
+R/BK/1|2015|13/08/2015|p|S Wheat|Sprayed Foundation - sections 0, 1, 2, 3, 5, 7 + 9|1.25|l/ha
+R/BK/1|2015|13/05/2015|p|S Wheat|Sprayed BASF Chlormequat 750 - section 6 only|2|vl/ha
+R/BK/1|2015|13/08/2015|p|S Wheat|Sprayed Foundation - section 6 only|1.25|l/ha
+R/BK/1|2015|21/05/2015|p|S Wheat|Sprayed BASF 3C Chlormequat 750 - Western End of plot 109|2|vha
+R/BK/1|2015|21/05/2015|p|S Wheat|Sprayed Kingdom - Western End of plot 109|1.5|l/ha
+R/BK/1|2015|16/06/2015|p|S Wheat|Sprayed Ally Max - sections, 0, 1, 2, 3, 5, 7 + 9|30|gms/ha
+R/BK/1|2015|16/06/2015|p|S Wheat|Sprayed Capalo - sections, 0, 1, 2, 3, 5, 7 + 9|1|vha
+R/BK/1|2015|16/06/2015|p|S Wheat|Sprayed Gemstone - sections, 0, 1, 2, 3, 5, 7 + 9|120|ml/ha
+R/BK/1|2015|16/06/2015|p|S Wheat|Sprayed Jenton - sections, 0, 1, 2, 3, 5, 7 + 9|100|ml/ha
+R/BK/1|2015|16/06/2015|p|S Wheat|Sprayed Ally Max - section 6 only|30|gms/ha
+R/BK/1|2015|07/09/2015|a|S Wheat|Harvested All Commercial WW|None|None
+R/BK/1|2015|09/09/2015|a|S Wheat|Removed Bales from commercial area |None|None
+R/BK/1|2015|17/09/2018|a|S Wheat|removed round bales from field|None|None
+R/BK/1|2015|26/09/2015|a|S Wheat|Harvested all WW Plots
+R/BK/1|2015|26/09/2015|a|S Wheat|Sampled Baled and Weighed and removed -|None|None
+R/BK/1|2015|26/09/2015|a|S Wheat|Harvested ALL left over Wheat - Swathed all straw - to be removed, only Section 0 Chopped Straw onto plots|None|None
+R/BK/1|2015|28/09/2015|a|S Wheat|Baled and removed all straw swaths|None|None
+R/BK/1|2015|09/03/2015|s|S Oats|Combination Drilled Winter Oats var. Gerald trt Beret Multi - Section 5 only|350|seeds/m?
+R/BK/1|2015|09/03/2015|a|S Oats|Rolled all new drilling on site -|None|None
+R/BK/1|2015|25/09/2015|a|S Oats|Harvested all Oat plots|None|None
+R/BK/1|2015|14/04/2015|a|Maize|Powerharrow Cultivated - Section|4|only
+R/BK/1|2015|15/04/2015|s|Maize|Drilled Maize var. Severus tr measural - Section 4 only|10.2|seeds/m?
+R/BK/1|2015|08/05/2015|f|Maize|Applied Nitram @ 34.5%N - To strips 6 and 19 - section 4 only|139|kg/ha
+R/BK/1|2015|08/08/2015|f|Maize|Applied Nitram @ 34.5%N - To strips 7 and 18 - section 4 only|278|kg/ha
+R/BK/1|2015|08/05/2015|f|Maize|Applied Nitram @ 34.5%N - To strips 8 and 12 - section 4 only|417|kg/ha
+R/BK/1|2015|08/05/2015|f|Maize|Applied Nitram @ 34.5%N - To strips 1, 9, 10, 11, 13, 14, 17, 20 - section 4 only|556|kgha
+R/BK/1|2015|08/05/2015|f|Maize|Applied Nitram @ 34.5%N - To strip 15 - section 4 only|696|kg/ha
+R/BK/1|2015|08/05/2015|f|Maize|Applied Nitram @ 34.5%N - To strip 16 - section 4 only|835|kg/ha
+R/BK/1|2015|22/05/2015|f|Maize|Applied Nitram @ 34.5%N - plot 194|139|kg/ha
+R/BK/1|2015|22/05/2015|f|Maize|Applied Nitram @ 34.5%N - plot 184|278|kg/ha
+R/BK/1|2015|22/08/2015|f|Maize|Applied Nitram @ 34,5%N - plot 174|556|kgha
+R/BK/1|2015|22/08/2015|t|Maize|Applied Nitram @ 34.5%N - plot 124|417|kg/ha
+R/BK/1|2015|17/06/2015|a|Maize|Sprayed Samson Extra - section 4 only|500|mvha
+R/BK/1|2015|17/06/2015|a|Maize|Sprayed Samson Callisto - section 4 only|750|mvha
+R/BK/1|2015|21/09/2015|a|Maize|Harvested all Maize Plots for yield by Hand -|None|None
+R/BK/1|2015|29/09/2015|a|Maize|Harvested all maize and removed |None|None
+R/BK/1|2015|29/09/2015|a|Maize|removed bales from field - all bales |None|None
+R/BK/1|2015|30-Sep-14|a|Maize|Harvested and removed ail leftover Maize - from maize plots only.|None|None
+R/BK/1|2015|21/04/2015|a|Fallows|Powerharrow Cultivated - Section 8 only
+R/BK/1|2015|13/05/2015|a|Fallows|Ploughed - section 8 only (thrown northwards)|None|None
+R/BK/1|2015|17/06/2015|a|Fallows|Rotavated all Fallows|None|None
+R/BK/1|2015|10/07/2015|a|Fallows|Ploughed - section 8 only (thrown southwards)|None|None
+R/BK/1|2015|31/07/2015|a|Fallows|Powerharrowed - section 8 only
+R/BK/1|2015|19/03/2015|a|Wilderness|Cut back field edge side of south block to make room for tractors on Broadbalk|None|None
+R/BK/1|2015|13/05/2015|a|Wilderness|Topped commercial Grass|None|None
+R/BK/1|2015|28/05/2015|a|Wilderness|Cut middle grass section|None|None
+R/BK/1|2015|26/06/2015|a|Wilderness|topped all short grass|None|None
+R/BK/1|2015|27/07/2015|a|Wilderness|Tidied fallen tree all cuttings placed back into section.|None|None
+R/BK/1|2015|25/08/2015|a|Wilderness|Cut centre plot|None|None
+R/BK/1|2015|21/12/2015|a|Wilderness|Topped all|None|None
+R/BK/1|2016|01/10/2015|f|All Sections|Applied MOP Fertiliser - Strip 14; All Sections|181|kg/ha
+R/BK/1|2016|01/10/2015|f|All Sections|Applied FYM - Strips 2.2 and 2.1; All Sections except Section 3|35|t/ha
+R/BK/1|2016|01/10/2015|a|All Sections|Ploughed (Thrown Southwards) |None|None
+R/BK/1|2016|01/10/2015|f|All Sections|Applied TSP - To strips 11, 13, 14, 17 + 18; All Sections|171|kg/ha
+R/BK/1|2016|02/10/2015|a|All Sections|Started Ploughing all field (Thrown Northwards)|None|None
+R/BK/1|2016|04/10/2015|a|All Sections|Cultipressed||
+R/BK/1|2016|12/10/2015|a|All Sections|Powerharrowed |None|None
+R/BK/1|2016|15/10/2015|a|All Sections|Ring Rolled |None|None
+R/BK/1|2016|11/11/2015|a|All Sections|Hedge Cutting |None|None
+R/BK/1|2016|12/11/2015|a|All Sections|Hedge Cutting |None|None
+R/BK/1|2016|07/01/2016|a|All Sections|Erected Electric Fence (West end to stop rabbits) |None|None
+R/BK/1|2016|11/04/2016|f|All Sections|Applied SOP - Strips 5, 6, 7, 8, 9, 12, 13, 15, 16, 17, 18,19 + 20; All Sections|217|kg/ha
+R/BK/1|2016|13/04/2016|f|All Sections|Applied Kieserite Fertiliser - Strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 + 20; All Sections|80|kg/ha
+R/BK/1|2016|20/04/2016|a|All Sections|Marked out and Mowed all paths |None|None
+R/BK/1|2016|24/05/2016|a|All Sections|Mowed All Paths|None|None
+R/BK/1|2016|06/06/2016|a|All Sections|Cut Cross Paths |None|None
+R/BK/1|2016|25/07/2016|a|All Sections|Cut Cross Paths |None|None
+R/BK/1|2016|09/08/2016|a|All Sections|Combined the immediate surrounds of trials |None|None
+R/BK/1|2016|12/08/2016|a|All Sections|Completed Straw Weights|None|None
+R/BK/1|2016|19/08/2016|a|All Sections|Started to mop up leftover wheat with Claas |None|None
+R/BK/1|2016|19/08/2016|a|All Sections|Baled and removed all swaths from Claas|None|None
+R/BK/1|2016|23/08/2016|a|All Sections|Mopped Up remaining crop |None|None
+R/BK/1|2016|27/08/2016|a|All Sections|Removed Bales |None|None
+R/BK/1|2016|14/10/2015|s|W Wheat|Drilled Crusoe trt Redigo Deter - Sections 0, 1, 2, 4, 6, 7 + 9|350|seed/m?
+R/BK/1|2016|19/10/2015|p|W Wheat|Sprayed WW - Liberator - Sections 0, 1, 2, 4, 6, 7 + 9|0.6|It/ha
+R/BK/1|2016|19/10/2015|p|W Wheat|Sprayed WW - Stomp Aqua - Sections 0, 1, 2, 4, 6, 7 + 9|1.75|Itvha
+R/BK/1|2016|12/11/2015|p|W Wheat|Applied TDS Major - Sections 0, 1, 2, 4, 6, 7 + 9|5|kg/ha
+R/BK/1|2016|21/03/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strips 12, 17, 18 + 19|139|kg/ha
+R/BK/1|2016|07/04/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strips 6, 19|139|kg/ha
+R/BK/1|2016|07/04/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strips 7, 18|278|kg/ha
+R/BK/1|2016|07/04/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strips 2.1, 8, 12|417|kg/ha
+R/BK/1|2016|07/04/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strips 1, 9, 10, 11, 13, 14, 17|556|kg/ha
+R/BK/1|2016|07/04/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strip 15|696|kg/ha
+R/BK/1|2016|07/04/2016|f|W Wheat|Applied Nitram @34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strip 16|835|kg/ha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed Moddus - Sections 0, 1, 2, 4, 7 + 9|150|ml/ha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed 3C Chlormequat750 - Sections 0, 1, 2, 4, 7 + 9|1.25|Itha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed Odin - Sections 0, 1, 2, 4, 7 + 9|500|mi/ha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed Mirage 40ec - Sections 0, 1, 2, 4, 7 + 9|500|ml/ha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed Bravo 500 - Sections 0, 1, 2, 4, 7 + 9|1|Itha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed Moddus - Section 6 only|150|ml/ha
+R/BK/1|2016|13/04/2016|p|W Wheat|Sprayed 3C Chlormequat750 - Section 6 only|1.25|Iha
+R/BK/1|2016|30/04/2016|p|W Wheat|Sprayed Chex - Sections 0, 1, 2, 4, 6, 7 + 9|250|ml/ha
+R/BK/1|2016|30/04/2016|p|W Wheat|Sprayed Pacifica - Sections 0, 1, 2, 4, 6, 7 + 9|500|ml/ha
+R/BK/1|2016|30/04/2016|p|W Wheat|Sprayed Bio Power - Sections 0, 1, 2, 4, 6, 7 + 9|1|Itha
+R/BK/1|2016|05/05/2016|f|W Wheat|Applied Nitram @ 34.5%N - Sections 0, 1, 2, 4, 6, 7 + 9; Strips 12, 17, 18 + 19|139|kg/ha
+R/BK/1|2016|12/05/2016|p|W Wheat|Sprayed Keystone - Sections 0, 1, 2, 4, 7 + 9|800|ml/ha
+R/BK/1|2016|12/05/2016|p|W Wheat|Sprayed Balear720 - Sections 0, 1, 2, 4, 7 + 9|700|ml/ha
+R/BK/1|2016|03/06/2016|p|W Wheat|Sprayed Vortex - Sections 0, 1, 2, 4, 7 + 9|909|ml/ha
+R/BK/1|2016|03/06/2016|p|W Wheat|Sprayed Bassoon - Sections 0, 1, 2, 4, 7 + 9|600|ml/ha
+R/BK/1|2016|10/07/2016|p|W Wheat|Sprayed Cello - Sections 0, 1, 2, 4, 7 + 9|550|mi/ha
+R/BK/1|2016|10/08/2016|a|W Wheat|Combined All Plots for yield - Sections 0, 1, 2, 4, 6, 7 + 9 
+R/BK/1|2016|14/10/2015|s|W Oats|Drilled Mascani Oats, trt Kinto - Section 3 only|350|seed/m?
+R/BK/1|2016|12/11/2015|p|W Oats|Applied TDS Major - Sections 3|5|kg/ha
+R/BK/1|2016|21/12/2015|p|W Oats|Sprayed Oats with Excalibur|180|g/ha
+R/BK/1|2016|21/12/2015|p|W Oats|Sprayed Oats with Hallmark|40|mi/ha
+R/BK/1|2016|27/04/2016|p|W Oats|Sprayed Ally Max|30|g/ha
+R/BK/1|2016|27/04/2016|p|W Oats|Sprayed BASF 3C Chlormequat750|2|It/ha
+R/BK/1|2016|27/04/2016|p|W Oats|Sprayed Cello|800|ml/ha
+R/BK/1|2016|27/04/2016|p|W Oats|Sprayed Hurler|1|It/ha
+R/BK/1|2016|06/06/2016|p|W Oats|Sprayed Folicur - Sections 3 only|750|mi/ha
+R/BK/1|2016|08/08/2016|a|W Oats|Combined all Plots on Section 3 
+R/BK/1|2016|08/08/2016|a|W Oats|Completed Straw Weights on Section 3
+R/BK/1|2016|19/04/2016|p|Maize|Sprayed Firebrand - Section 5 only|1|Itha
+R/BK/1|2016|19/04/2016|p|Maize|Sprayed Samurai - Section 5 only|3|Itha
+R/BK/1|2016|22/04/2016|a|Maize|Springtined - Section 5|
+R/BK/1|2016|03/05/2016|a|Maize|Flexitined - Section 5 only 
+R/BK/1|2016|05/05/2016|s|Maize|Drilled Severus Maize - trt Mesurol - Section 5 only|10.2|seed/m?
+R/BK/1|2016|05/05/2016|a|Maize|Powerharrow - Section 5 only - Prior to Drilling |None|None
+R/BK/1|2016|17/05/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 065|139|kg/ha
+R/BK/1|2016|17/05/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 075, 125, 175, 185, 195|278|kg/ha
+R/BK/1|2016|17/05/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 085, 215 (plot 215 applied by hand)|417|kg/ha
+R/BK/1|2016|17/05/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 095, 105, 115, 135, 145|556|kg/ha
+R/BK/1|2016|17/05/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 155|696|kg/ha
+R/BK/1|2016|17/05/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 165|835|kg/ha
+R/BK/1|2016|07/06/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 195|139|kg/ha
+R/BK/1|2016|07/06/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 185|278|kg/ha
+R/BK/1|2016|07/06/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 175|556|kg/ha
+R/BK/1|2016|07/06/2016|f|Maize|Applied Nitram @34.5%N - Section 5 only - Plot 125|417|kg/ha
+R/BK/1|2016|19/07/2016|a|Maize|Hand Rotavated inter-row - Section 5 only|None|None
+R/BK/1|2016|21/09/2016|a|Maize|Harvested Maize plots for yield - Section 5 only 
+R/BK/1|2016|27/10/2015|a|Fallows|Flexitined bare fallow - Section 8 only
+R/BK/1|2016|23/03/2016|a|Fallows|Powerharrowed - Section 8 only
+R/BK/1|2016|17/05/2016|a|Fallows|Topped Weeds - Section 8 only
+R/BK/1|2016|19/05/2016|a|Fallows|Ploughed - Section 8|None|None
+R/BK/1|2016|06/06/2016|a|Fallows|Powerharrowed - Section 8 only
+R/BK/1|2016|19/07/2016|a|Fallows|Power harrowed all fallows|None|None
+R/BK/1|2016|20/07/2016|a|Fallows|Power Harrow - Section 8 only
+R/BK/1|2016|25/07/2016|a|Fallows|Flexitined Section 8|None|None
+R/BK/1|2016|05/08/2016|a|Fallows|Ploughed (thrown Northwards) - Section 8 only
+R/BK/1|2016|05/08/2016|a|Fallows|Ring Rolled - Section 8|None|None
+R/BK/1|2016|04/01/2016|a|Wilderness|Cleared fallen tree|None|None
+R/BK/1|2016|27/10/2016|a|Wilderness|Topped grass|None|None
+R/BK/1|2017|20/09/2016|a|All Sections|Batwing Topped |None|None
+R/BK/1|2017|26/09/2016|f|All Sections|Applied TSP - to strips 18, 17, 14, 13 + 11|171|kg/ha
+R/BK/1|2017|26/09/2016|f|All Sections|Applied MOP - to strip 14|181|kg/ha
+R/BK/1|2017|27/09/2016|a|All Sections|Started Ploughing - Thrown South |None|None
+R/BK/1|2017|06/10/2016|a|All Sections|Cultipressed All Ground |None|None
+R/BK/1|2017|10/10/2016|a|All Sections|Ring Rolled all field |None|None
+R/BK/1|2017|12/10/2016|a|All Sections|Ring Rolled|None|None
+R/BK/1|2017|08/11/2016|f|All Sections|Applied Major Slug Pellets|5|kg/ha
+R/BK/1|2017|21/03/2017|f|All Sections|Applied Kieserite - to strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 + 20; All Sections|80|kg/ha
+R/BK/1|2017|29/03/2017|f|All Sections|Applied SOP - to strips 5, 6, 7, 8, 9, 11, 12, 15, 16, 17, 18, 19 + 20; All Sections|217|kg/ha
+R/BK/1|2017|11/04/2017|a|All Sections|Flexitined surrounding fallow areas |None|None
+R/BK/1|2017|05/06/2017|a|All Sections|Cut out all paths |None|None
+R/BK/1|2017|26/06/2017|a|All Sections|cut all paths |None|None
+R/BK/1|2017|27/07/2017|a|All Sections|cut all paths |None|None
+R/BK/1|2017|25/08/2017|a|All Sections|Harvested paths |None|None
+R/BK/1|2017|29/08/2017|a|All Sections|Baled all discard and remaining swaths |None|None
+R/BK/1|2017|07/09/2017|a|All Sections|Baled all remaining commercial swath |None|None
+R/BK/1|2017|07/09/2017|a|All Sections|Completed Straw Weights|None|None
+R/BK/1|2017|27/09/2016|f|W Wheat|Applied FYM - to strips 2.1, 2.2 excluding Section 2|35|t/ha
+R/BK/1|2017|11/10/2016|s|W Wheat|Drilled WW Crusoe trt Redigo Pro + Deter; Sections 0, 1, 4, 5, 6, 7, 8 + 9|350|seeds/m?
+R/BK/1|2017|13/10/2016|p|W Wheat|Sprayed Liberator|1|It/ha
+R/BK/1|2017|13/10/2016|p|W Wheat|Sprayed Defy|3|It/ha
+R/BK/1|2017|14/03/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strips 12, 17,18 + 19 excluding Sections 2 and 3|139|kg/ha
+R/BK/1|2017|15/03/2017|p|W Wheat|Sprayed Pacifica - Sections 0, 1, 4, 5, 6, 7 + 9 only|500|g/ha
+R/BK/1|2017|15/03/2017|p|W Wheat|Sprayed Chex - Sections 0, 1, 4, 5, 6, 7 + 9 only|250|mi/ha
+R/BK/1|2017|15/03/2017|p|W Wheat|Sprayed Bio Power - Sections 0, 1, 4, 5, 6, 7 + 9 only|1|It/ha
+R/BK/1|2017|05/04/2017|p|W Wheat|Sprayed Artemis - Sections 0, 1, 4, 5, 7, 8 + 9 only|1|It/ha
+R/BK/1|2017|05/04/2017|p|W Wheat|Sprayed Claw 500 - Sections 0, 1, 4, 5, 7, 8 + 9 only|51|It/ha
+R/BK/1|2017|05/04/2017|p|W Wheat|Sprayed Moddus - Sections 0, 1, 4, 5, 7, 8 + 9 only|125|ml/ha
+R/BK/1|2017|05/04/2017|p|W Wheat|Sprayed 3C Chlormequat 750 - Sections 0, 1, 4, 5, 7, 8 + 9 only|1.25|It/ha
+R/BK/1|2017|07/04/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strip 19; Sections 0, 1, 4, 5, 6, 7, 8 + 9|139|kg/ha
+R/BK/1|2017|07/04/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strips 7, 18; Sections 0, 1, 4, 5, 6, 7, 8 + 9|278|kg/ha
+R/BK/1|2017|07/04/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strips 2.1, 8, 12; Sections 0, 1, 4, 5, 6, 7, 8 + 9|417|kg/ha
+R/BK/1|2017|07/04/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strips 1, 9, 10, 11, 13, 14, 17, 20; Sections 0, 1, 4, 5, 6, 7, 8 + 9|556|kg/ha
+R/BK/1|2017|07/04/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strips 15; Sections 0, 1, 4, 5, 6, 7, 8 + 9|696|kg/ha
+R/BK/1|2017|07/04/2017|f|W Wheat|Applied Nitram @ 34.5%N - to strips 16; Sections 0, 1, 4, 5, 6, 7, 8 + 9|835|kg/ha
+R/BK/1|2017|25/04/2017|p|W Wheat|Sprayed Keystone - Sections 0, 1, 4, 5, 7, 8 + 9|600|ml/ha
+R/BK/1|2017|25/04/2017|p|W Wheat|Sprayed Epic - Sections 0, 1, 4, 5, 7, 8 + 9|400|ml/ha
+R/BK/1|2017|25/04/2017|p|W Wheat|Sprayed Balear 720 - Sections 0, 1, 4, 5, 7, 8 + 9|700|ml/ha
+R/BK/1|2017|08/05/2017|f|W Wheat|Applied Nitram - to strips 12, 17, 18, 19; Sections 0, 1, 4, 5, 6, 7, 8 + 9|139|kg/ha
+R/BK/1|2017|25/05/2017|p|W Wheat|Sprayed Cortez - sections, 0, 1, 4, 5, 7, 8, + 9|350|mi/ha
+R/BK/1|2017|25/05/2017|p|W Wheat|Sprayed Vortex - sections, 0, 1, 4, 5, 7, 8, + 9|1|It/ha
+R/BK/1|2017|19/06/2017|p|W Wheat|Sprayed Fezan, (Tebuconazole)- Sections, 0, 1, 4, 5, 7, 8 + 9|750|ml/ha
+R/BK/1|2017|28/08/2017|a|W Wheat|harvested all WW plots for grain yield |None|None
+R/BK/1|2017|29/08/2017|a|W Wheat|Chopped Straw using Claas Tucano back onto Section 0|None|None
+R/BK/1|2017|02/09/2017|a|W Wheat|Straw Weights on Sections 8 & 5 
+R/BK/1|2017|07/09/2017|a|W Wheat|Straw Weights on Sections 1
+R/BK/1|2017|11/10/2016|a|W Oats|Drilled Mascani trt Beret Gold; Section 2 only|350|seeds/m?
+R/BK/1|2017|08/11/2016|p|W Oats|Sprayed Excalibur - Section 2 only|180|gm/ha
+R/BK/1|2017|08/11/2016|p|W Oats|Sprayed Hallmark - Section 2 only|50|mi/ha
+R/BK/1|2017|10/05/2017|p|W Oats|Sprayed Cyflamid - Section 2 only|150|ml/ha
+R/BK/1|2017|10/05/2017|p|W Oats|Sprayed Envoy - Section 2 only|1|It/ha
+R/BK/1|2017|10/05/2017|p|W Oats|Sprayed Stabilan - Section 2 only|2|It/ha
+R/BK/1|2017|28/08/2017|a|W Oats|harvested all OW plots for grain yield |None|None
+R/BK/1|2017|07/09/2017|a|W Oats|Straw Weights on Sections
+R/BK/1|2017|27/09/2016|f|Maize|Applied FYM - to strips 2.1, 2.2; Not Section 2|35|t/ha
+R/BK/1|2017|12/04/2017|a|Maize|Drilled Severus Maize trt Mesurol - Section 3 only|10|seeds/m?
+R/BK/1|2017|08/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strip 19; Section 3 only|139|kg/ha
+R/BK/1|2017|08/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strips 7, 18; Section 3 only|278|kg/ha
+R/BK/1|2017|08/05/2017|f|Maize|Applied Nitram @ 34.5%N - to 2.1, 8, 12; Section 3 only|417|kg/ha
+R/BK/1|2017|08/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strips 1, 9, 10, 11, 13, 14, 17; Section 3 only|556|kg/ha
+R/BK/1|2017|08/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strips 15; Section 3 only|696|kg/ha
+R/BK/1|2017|08/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strips 16; Section 3 only|835|kg/ha
+R/BK/1|2017|24/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strip 19; Section 3 only|139|kg/ha
+R/BK/1|2017|24/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strip 18; Section 3 only|278|kg/ha
+R/BK/1|2017|24/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strip 12; Section 3 only|417|kg/ha
+R/BK/1|2017|24/05/2017|f|Maize|Applied Nitram @ 34.5%N - to strip 17; Section 3 only|556|kg/ha
+R/BK/1|2017|12/06/2017|p|Maize|Sprayed Samson Extra - Section 3 only|750|ml/ha
+R/BK/1|2017|12/06/2017|p|Maize|Sprayed Callisto - Section 3 only|2|It/ha
+R/BK/1|2017|14/09/2017|a|Maize|Harvested Maize for Yield - Section 3 only 
+R/BK/1|2017|15/09/2017|a|Maize|Cut all remaining maize - Section 3 only 
+R/BK/1|2017|19/09/2017|a|Maize|Baled and removed maize - Section 3 only 

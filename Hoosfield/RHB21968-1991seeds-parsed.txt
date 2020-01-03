@@ -1,31 +1,35 @@
+R/HB/2|1970|barley|Julia
+R/HB/2|1971|barley|Julia
+R/HB/2|1971|potatoes|King Edward
+R/HB/2|1971|spring beans|Maris Bead
 R/HB/2|1972|potatoes|King Edward, Rothamsted one grown chitted seed,
 R/HB/2|1972|spring beans|Maris Bead sown at 220 kg.
 R/HB/2|1972|barley|Julia, seed dressed with Ethirimol, sown at 160 kg,
-R/HB/2|1973|potatoes|King Edward, Rothamsted one grown,
+R/HB/2|1973|potatoes|King Edward, Rothamsted once grown,
 R/HB/2|1973|spring beans|Maris Bead, sown at 220 kg.
 R/HB/2|1973|barley|Julia, seed dressed with Ethirimol, sown at 160 kg.
-R/HB/2|1974|potatoes|King Edward,
+R/HB/2|1974|potatoes|King Edward
 R/HB/2|1974|spring beans|Maris Bead, sown at 220 kg.
-R/HB/2|1974|barley|Julia, seed dressed with Ethirimol, sown at 160 ke.
-R/HB/2|1975|potatoes|King Edward, one grown Rothamsted seed.
+R/HB/2|1974|barley|Julia, seed dressed with Ethirimol, sown at 160 kg.
+R/HB/2|1975|potatoes|King Edward, once grown Rothamsted seed.
 R/HB/2|1975|spring beans|Minor, sown at 220 kg.
 R/HB/2|1975|barley|Julia, sown at 160 kg.
 R/HB/2|1976|barley|Julia, dressed with Ethirimol, sown at 160 kg.
 R/HB/2|1976|potatoes|Pentland Crown.
 R/HB/2|1976|beans|Minden, sown at 220 kg.
 R/HB/2|1977|barley|Julia, dressed Ethirimol, sown at 160 kg.
-R/HB/2|1977|potatoes|Pentland Crown. ?
+R/HB/2|1977|potatoes|Pentland Crown.
 R/HB/2|1977|beans|Minden, sown at 220 kg.
 R/HB/2|1978|barley|Julia, dressed Ethirimol, sown at 160 kg.
 R/HB/2|1978|potatoes|Pentland Crown.
 R/HB/2|1978|beans|Minden sown at 220 kg.
 R/HB/2|1979|None|Julia, sown at 160 kg.
-R/HB/2|1980|None|Georgie, sown at 150 kg. cut
+R/HB/2|1980|None|Georgie, sown at 150 kg.
 R/HB/2|1981|None|Georgie, sown at 160 kg.
-R/HB/2|1982|None|Georgie, dressed Ethirimol, sown at 160 kg. 15 82/R/MB/2
-R/HB/2|1983|None|Georgie, dressed Ethirimol, sown at 160 kg. 14 83/R/HB/2
+R/HB/2|1982|None|Georgie, dressed Ethirimol, sown at 160 kg.
+R/HB/2|1983|None|Georgie, dressed Ethirimol, sown at 160 kg.
 R/HB/2|1984|None|Triumph, dressed triadimenol and fuberidazole, sown at 160 kg.
-R/HB/2|1985|None|Triumph, dressed triadimenol and fuberidazole sown at 160 kg.
+R/HB/2|1985|None|Triumph, dressed triadimenol and fuberidazole, sown at 160 kg.
 R/HB/2|1986|None|Triumph, dressed triadimenol and fuberidazole, sown at 160 kg.
 R/HB/2|1987|None|Triumph, dressed triadimenol and fuberidazole, sown at 160 kg.
 R/HB/2|1988|None|Triumph, seed dressed triadimenol and fuberidazole, sown at 160 kg.

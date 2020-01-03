@@ -1,23 +1,28 @@
 R/BK/1|1972|winter wheat|Cappelle, seed dressed with dieldrin, sown at 200 kg.
-R/BK/1|1972|potatoes|King Edward, Rothamsted one grown chitted seed, °
-R/BK/1|1972|spring beans|Maris Bead sown at 220 ke.
+R/BK/1|1972|potatoes|King Edward, Rothamsted once grown chitted seed.
+R/BK/1|1972|spring beans|Maris Bead sown at 220 kg.
 R/BK/1|1973|winter wheat|Cappelle, seed dressed with dieldrin, sown at 200 kg.
-R/BK/1|1973|potatoes|King Edward, Rothamsted one grown, ; :
+R/BK/1|1973|potatoes|King Edward, Rothamsted once grown,
 R/BK/1|1973|spring beans|Maris Bead, sown at 220 kg,
-R/BK/1|1974|winter wheat|Cappelle, dressed with dieldrin, sown at 200 keg.
-R/BK/1|1974|potatoes|King Edward. ,
+R/BK/1|1974|winter wheat|Cappelle, dressed with dieldrin, sown at 200 kg.
+R/BK/1|1974|potatoes|King Edward.
 R/BK/1|1974|spring beans|Maris Bead, sown at 220 kg.
-R/BK/1|1975|winter wheat|Cappelle, dressed with dieldrin, sown at 200 keg.
-R/BK/1|1975|potatoes|King Edward, one grown Rothamsted seed,
+R/BK/1|1975|winter wheat|Cappelle, dressed with dieldrin, sown at 200 kg.
+R/BK/1|1975|potatoes|King Edward, once grown Rothamsted seed.
 R/BK/1|1975|spring beans|Minor, sown at 220 kg.
+R/BK/1|1976|wheat|Cappelle, dressed with chlorfenvinphos, sown at 200 kg.
+R/BK/1|1976|potatoes|Pentland Crown.
+R/BK/1|1976|spring beans|Minden sown at 220 kg.
 R/BK/1|1977|wheat|Cappelle, dressed with chlorfenvinphos, sown at 200 kg.
 R/BK/1|1977|potatoes|Pentland Crown.
 R/BK/1|1977|spring beans|Minden sown at 220 kg.
 R/BK/1|1978|wheat|Cappelle, dressed with chlorfenvinphos, sown at 200 kg.
 R/BK/1|1978|potatoes|Pentland Crown.
 R/BK/1|1978|beans|Minden, sown at 200 kg.
-R/BK/1|1980|w wheat|Flanders, sown at 200 kg . .
-R/BK/1|1980|potatoes|Pentland Crown. -*“ *
+R/BK/1|1979|wheat|Flanders, sown at 200 kg.
+R/BK/1|1979|potatoes|Pentland Crown.
+R/BK/1|1980|w wheat|Flanders, sown at 200 kg.
+R/BK/1|1980|potatoes|Pentland Crown.
 R/BK/1|1981|w wheat|Flanders dressed chlorfenvinphos, sown at 200 kg.
 R/BK/1|1981|potatoes|Pentland Crown.
 R/BK/1|1982|w wheat|Flanders, dressed chlorfenvinphos, sown at 200 kg.
@@ -30,13 +35,13 @@ R/BK/1|1985|w wheat|Brimstone, sown at 190 kg.
 R/BK/1|1985|potatoes|Pentland Crown.
 R/BK/1|1986|w wheat|Brimstone, sown at 200 kg.
 R/BK/1|1986|potatoes|Pentland Crown.
-R/BK/1|1987|w wheat|Brimstone, dressed fonofos, and Squareheads Master,  nitrate, both sown at 190 kg.
+R/BK/1|1987|w wheat|Brimstone, dressed fonofos, and Squareheads Master, untreated, both sown at 190 kg.
 R/BK/1|1987|potatoes|Pentland Crown.
 R/BK/1|1988|w wheat|Brimstone (sections 3, 4, 5, 6 and 9 only, dressed  fonofos) and Squareheads Master, both sown at 180 kg.
 R/BK/1|1988|potatoes|Pentland Crown.
-R/BK/1|1989|w wheat|Brimstone, dressed fonofos, and Squareheads Master both  sown at 180 kg.
+R/BK/1|1989|w wheat|Brimstone, dressed fonofos, and Squareheads Master both sown at 180 kg.
 R/BK/1|1989|potatoes|Pentland Crown.
-R/BK/1|1990|w wheat|Brimstone, dressed fonofos, and Squareheads Master, both  sown at 180 kg.
+R/BK/1|1990|w wheat|Brimstone, dressed fonofos, and Squareheads Master, both sown at 180 kg.
 R/BK/1|1990|potatoes|Pentland Crown.
 R/BK/1|1991|w wheat|Apollo, dressed fonofos, sown at 180 kg.
 R/BK/1|1991|potatoes|Pentland Crown.

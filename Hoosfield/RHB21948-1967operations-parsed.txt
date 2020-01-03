@@ -1,128 +1,135 @@
-R/HB/2|1952| None|21-Sept-1951||diary record|ploughed
-R/HB/2|1952| None|18-Dec-1951||diary record|dung applied
-R/HB/2|1952| None|19-Dec-1951||diary record|ploughed
-R/HB/2|1952| None|27-Feb-1952||diary record|fertilizers applied
-R/HB/2|1952| None|29-Feb-1952||diary record|seed drilled at 3 bushels per acre
-R/HB/2|1952| None|9-May-1952||diary record|sprayed with D.N.O.C. 1 gallons per acre
-R/HB/2|1952| None|1-Aug-1952||diary record|Harvested
-R/HB/2|1952| None|||variety|Plumage March
-R/HB/2|1953| None|19-Sept-1952||diary record|etc. ploughed
-R/HB/2|1953| None|23-Sept-1952||diary record|dung applied and ploughed in
-R/HB/2|1953| None|3-Mar-1953||diary record|fertilizers applied
-R/HB/2|1953| None|9-Apr-1953||diary record|seed drilled at 3 bushels per acre
-R/HB/2|1953| None|26-May-1953||diary record|sprayed with D.N.O.C
-R/HB/2|1953| None|||variety|Plumage March
-R/HB/2|1954| None|11-Aug-1953||diary record|ploughed
-R/HB/2|1954| None|24-Nov-1953||diary record|dung applied
-R/HB/2|1954| None|25-Nov-1953||diary record|ploughed
-R/HB/2|1954| None|7-Apr-1954||diary record|fertilizers applied, seed drilled at 3 bushels per acre
-R/HB/2|1954| None|3-June-1954||diary record|sprayed with D.N.O.C
-R/HB/2|1954| None|23-July-1954||diary record|cut and discard crop on plots 5A
-R/HB/2|1954| None|29-July-1954||diary record|cut and discard crop on part of plots 1C, 2C, iN, 2N
-R/HB/2|1954| None|18-Aug-1954||diary record|cut and discard Maris of plots 3A and LA
-R/HB/2|1954| None|16-Sept-1954||diary record|Harvested
-R/HB/2|1954| None|||variety|Plumage March
-R/HB/2|1955| None|27-Sept-1954||diary record|ploughed
-R/HB/2|1955| None|6-18-Nov-1954||diary record|part of ground Chalk applied to strips 3 and 4
-R/HB/2|1955| None|15-Nov-1954||diary record|dung applied
-R/HB/2|1955| None|27-Dec-1954||diary record|ploughed
-R/HB/2|1955| None|17-Mar-1955||diary record|Remainder of ground Chalk applied to strips 3 and 4 and compensating dressing applied to series A and C
-R/HB/2|1955| None|5-Apr-1955||diary record|fertilizers applied
-R/HB/2|1955| None|7-Apr-1955||diary record|seed drilled at 3 bushels per acre
-R/HB/2|1955| None|24-May-1955||diary record|sprayed with 8 1b D.N.O.C. (active substance) in 80 gallons per acre
-R/HB/2|1955| None|25-July-1955||diary record|cut and discard area of plots in series N, AA, has, C and plots 5A and 50 leaving 16 rows per plot
-R/HB/2|1955| None|18-Aug-1955||diary record|Harvested
-R/HB/2|1955| None|||variety|Plumage March
-R/HB/2|1956| None|16-Oct-1955|19-Oct-1955|diary record|dung applied, all plots ploughed
-R/HB/2|1956| None|24-Mar-1956|26-Mar-1956|diary record|fertilizers applied
-R/HB/2|1956| None|3-Apr-1956||diary record|seed drilled at 3 bushels per acre
-R/HB/2|1956| None|28-May-1956||diary record|sprayed with 3 1b INOC in 80 gallons per acre
-R/HB/2|1956| None|8-Sept-1956||diary record|Harvested
-R/HB/2|1956| None|||variety|Plumage March
-R/HB/2|1957| None|13-Oct-1956|20-Oct-1956|diary record|ploughed
-R/HB/2|1957| None|18-Jan-1957||diary record|dung applied, all plots ploughed
-R/HB/2|1957| None|4-Apr-1957|5-Apr-1957|diary record|fertilizers applied
-R/HB/2|1957| None|6-Apr-1957||diary record|seed drilled at 2% bushels per acre
-R/HB/2|1957| None|29-May-1957||diary record|sprayed with MCPA at 2 pints in 40 gallons per acre
-R/HB/2|1957| None|29-Aug-1957|30-Aug-1957|diary record|Harvested
-R/HB/2|1957| None|||variety|Plumage March
-R/HB/2|1958| None|9-Sept-1957||diary record|ploughed
-R/HB/2|1958| None|22-Nov-1957||diary record|and again
-R/HB/2|1958| None|25-Nov-1957||diary record|dung applied
-R/HB/2|1958| None|17-Apr-1958||diary record|fertilizers applied
-R/HB/2|1958| None|21-Apr-1958||diary record|seed drilled at 23 bushels per acre
-R/HB/2|1958| None|28-May-1958||diary record|sprayed with QMFP at 6 pints in 40 gallons per acre
-R/HB/2|1958| None|9-Sept-1958||diary record|combine harvested
-R/HB/2|1958| None|||variety|Plumage March. In 1958 the plots were combine harvested for the first time, single cut being made Dowpon the centre of each plot (including plots iN and 5 - 0) for the full length, except on strips 1 and 3 were five combine cut were taking per plot and weighed separately. The yield shown were estimated from the totals of these cut
-R/HB/2|1959| None|20-Sept-1958||diary record|sprayed with 24-D ester at 13 pints in 40 gallons per acre on stubble
-R/HB/2|1959| None|28-Nov-1958||diary record|ploughed
-R/HB/2|1959| None|5-Dec-1958||diary record|dung applied
-R/HB/2|1959| None|30-Mar-1959||diary record|fertilizers applied
-R/HB/2|1959| None|2-Apr-1959||diary record|seed drilled at 3 bushels per acre
-R/HB/2|1959| None|26-May-1959||diary record|sprayed with ¥CPh at 6% pints (30% potassium salt) in 4O gallons per acre
-R/HB/2|1959| None|18-Aug-1959||diary record|combine harvested
-R/HB/2|1959| None|||variety|Plumage March. In 1959 the plots were harvested by taking a single combine cut Dowpon the centre of each plot (including plots IN and 5 - 0) for the full length, except on strips 1 3 and 4 were five combine cut were taking per plot and weighed seperately, the yield shown being estimated from the NOTES of these cut. one cut only has taking from plot 5 - A, situated at the out side to avoid couch grass (Agropyron repens)
-R/HB/2|1960| None|26-Aug-1959||diary record|sprayed part of plots 54 4C, 5.0 with dalapon at 8 1b in 20 gallons per acre
-R/HB/2|1960| None|27-Aug-1959||diary record|all plots sprayed with 24-D ester at 13 pints in 40 gallons per acre
-R/HB/2|1960| None|7-Sept-1959||diary record|Quinquenniel Chalk supplement applied to series », C and plot 54; sprayed part of plots 54 4C, 5.0 with dalapon at bn in 40 gallons per acre
-R/HB/2|1960| None|4-Apr-1960||diary record|dung applied, ploughed 20. fertilizers applied
-R/HB/2|1960| None|7-Apr-1960||diary record|seed drilled at 2% bushels er acre
-R/HB/2|1960| None|24-May-1960||diary record|Strips 1 2 and 3 sprayed with MCPA at 6% pints top potassium salt) in LO gallons per acre; and stripshf and 7 sprayed with CMFP at 6 pints in 40 gallons per acre
-R/HB/2|1960| None|5-Sept-1960||diary record|combined
-R/HB/2|1960| None|||variety|Plumage Lrcher
-R/HB/2|1961| None|24-Sept-1960||diary record|sprayed with dalapon at 10 1b in LO gallons per acre
-R/HB/2|1961| None|11-Oct-1960||diary record|and again at 5 1b in 40 gallons per acre
-R/HB/2|1961| None|12-Dec-1960||diary record|dung applied
-R/HB/2|1961| None|13-Dec-1960||diary record|ploughed
-R/HB/2|1961| None|28-Mar-1961||diary record|Minerals applied
-R/HB/2|1961| None|4-Apr-1961||diary record|nitrogen fertilizers applied
-R/HB/2|1961| None|12-Apr-1961||diary record|seed drilled at 23% bushels per acre
-R/HB/2|1961| None|19-May-1961||diary record|Strips 1 2 and 3 sprayed with MCPA at 6% pints in 40 gallons per acre; and strips 4 6 and 7 sprayed with CFP at 6 pints in 40 gallons per acre
-R/HB/2|1961| None|28-Aug-1961||diary record|combined
-R/HB/2|1961| None|||variety|Plumage March
-R/HB/2|1962| all plots|5-Sept-1961||diary record|sprayed with 24-D ester at 1% pints in 40 gallons per acre
-R/HB/2|1962| all plots|8-Sept-1961||diary record|plot IN and part of plots 2 4C, 5-0 and 5A sprayed with dalapon at 8 1b in 40 gallons per acre
-R/HB/2|1962| all plots|11-Sept-1961||diary record|Patches on 2 20 3C and 4C sprayed by hand with dalapon at 8 1b in 4O gallons per acre
-R/HB/2|1962| all plots|8-Sept-1961||diary record|area sprayed on
-R/HB/2|1962| all plots|27-Sept-1961||diary record|and 11 destroyed with dalapon at 4 1b in 40 gallons per acre
-R/HB/2|1962| all plots|31-Oct-1961||diary record|dung applied, ploughed
-R/HB/2|1962| all plots|27-Mar-1962||diary record|fertilizers applied
-R/HB/2|1962| all plots|11-Apr-1962||diary record|seed drilled at 2% bushels per acre
-R/HB/2|1962| all plots|4-June-1962||diary record|sprayed with MCPA/TBA at 4 pints in 40 gallons per acre
-R/HB/2|1962| all plots|14-Sept-1962||diary record|combined
-R/HB/2|1962| all plots|||variety|Plumage March
-R/HB/2|1963| None|27-Sept-1962||diary record|sprayed with dalapon at 7.4 1b in 40 gallons per acre
-R/HB/2|1963| None|16-Oct-1962||diary record|and egein at 3.7 1b in 4 gallons per acre
-R/HB/2|1963| None|9-Mar-1963||diary record|dung applied
-R/HB/2|1963| None|25-Mar-1963||diary record|ploughed
-R/HB/2|1963| None|24-Apr-1963||diary record|fertilizers applied, seed drilled at 2.75 bushels per acre
-R/HB/2|1963| None|11-June-1963||diary record|sprayed with mecoprop et 6 pints in 40 gallons per acre
-R/HB/2|1963| None|17-Sept-1963||diary record|combine hervested
-R/HB/2|1963| None|||variety|Plumage March
-R/HB/2|1964| None|7-Oct-1963||diary record|sprayed with dalapon (Dowpon at 8 1b in Lo gals)
-R/HB/2|1964| None|21-Oct-1963||diary record|and again (at 4 1b in 40 gals)
-R/HB/2|1964| None|2-Nov-1963||diary record|dung applied
-R/HB/2|1964| None|4-Nov-1963||diary record|ploughed
-R/HB/2|1964| None|9-Apr-196k||diary record|fertilizers applied
-R/HB/2|1964| None|10-Apr-196k||diary record|seed drilled at 275 bushels
-R/HB/2|1964| None|28-May-196k||diary record|sprayed with mecoprop (methoxone extra at 6 pints in 40 gals)
-R/HB/2|1964| None|31-Aug-196k||diary record|combine harvested
-R/HB/2|1965| None|26-Sept-1964||diary record|Quinquennial Chalk supplement applied to series A, C and plot 5A
-R/HB/2|1965| None|3-Nov-1964||diary record|dung applied, all plots ploughed
-R/HB/2|1965| None|1-Apr-1965||diary record|fertilizers applied, seed drilled at 160 1b
-R/HB/2|1965| None|14-May-1965||diary record|sprayed with mecoprop (methoxone extra at 6 pints in 34 gals)
-R/HB/2|1965| None|20-May-1965||diary record|nitrate of soda applied to plot last
-R/HB/2|1965| None|9-Sept-1965||diary record|combine harvested
-R/HB/2|1966| None|UNKNOWN|Oct b 1965|diary record|sprayed with aminotriazole at 4 1b and ammonium thiocyanate at 3.7 1b in 4O gals
-R/HB/2|1966| None|1-Nov-1965||diary record|dung applied, all plots ploughed
-R/HB/2|1966| None|17-Mar-1966||diary record|fertilizers applied
-R/HB/2|1966| None|18-Mar-1966||diary record|seed drilled at 155 1b
-R/HB/2|1966| None|27-May-1966||diary record|sprayed with mecoprop (methoxone extra at 6 pints in 40 gals)
-R/HB/2|1966| None|25-Aug-1966||diary record|combine harvested
-R/HB/2|1967| None|16-Sept-1966||diary record|sprayed with aminotriazole at 4 1b and ammonium thiocyanate at 3.7 1b in 40 gals
-R/HB/2|1967| None|19-Oct-1966||diary record|dung applied, all plots ploughed
-R/HB/2|1967| None|31-Mar-1967||diary record|rotary cultivated twice
-R/HB/2|1967| None|9-June-1967||diary record|OD en B Castor meal applied
-R/HB/2|1967| None|23-June-1967||diary record|Ground Chalk applied
-R/HB/2|1967| None|3-July-1967||diary record|Deep-tine cultivated
-R/HB/2|1967| None|26-July-1967||diary record|rotary cultivated
+R/HB/2|1952|None|21-Sept-1951||diary record|ploughed
+R/HB/2|1952|None|18-Dec-1951||diary record|dung applied
+R/HB/2|1952|None|19-Dec-1951||diary record|ploughed
+R/HB/2|1952|None|27-Feb-1952||diary record|fertilizers applied
+R/HB/2|1952|None|29-Feb-1952||diary record|seed drilled at 3 bushels per acre
+R/HB/2|1952|None|9-May-1952||diary record|sprayed with D.N.O.C. 1 gallons per acre
+R/HB/2|1952|None|1-Aug-1952||diary record|Harvested
+R/HB/2|1952|None|||variety|Plumage Archer
+R/HB/2|1953|None|19-Sept-1952||diary record|etc. ploughed
+R/HB/2|1953|None|23-Sept-1952||diary record|dung applied and ploughed in
+R/HB/2|1953|None|3-Mar-1953||diary record|fertilizers applied
+R/HB/2|1953|None|9-Apr-1953||diary record|seed drilled at 3 bushels per acre
+R/HB/2|1953|None|26-May-1953||diary record|sprayed with D.N.O.C
+R/HB/2|1953|None|||variety|Plumage Archer
+R/HB/2|1954|None|11-Aug-1953||diary record|ploughed
+R/HB/2|1954|None|24-Nov-1953||diary record|dung applied
+R/HB/2|1954|None|25-Nov-1953||diary record|ploughed
+R/HB/2|1954|None|7-Apr-1954||diary record|fertilizers applied, seed drilled at 3 bushels per acre
+R/HB/2|1954|None|3-June-1954||diary record|sprayed with D.N.O.C
+R/HB/2|1954|None|23-July-1954||diary record|cut and discarded crop on plots 5A
+R/HB/2|1954|None|29-July-1954||diary record|cut and discarded crop on part of plots 1C, 2C, 1N, 2N
+R/HB/2|1954|None|18-Aug-1954||diary record|cut and discarded parts of plots 3A and 4A
+R/HB/2|1954|None|16-Sept-1954||diary record|Harvested
+R/HB/2|1954|None|||variety|Plumage Archer
+R/HB/2|1955|None|27-Sept-1954||diary record|ploughed
+R/HB/2|1955|None|6-Nov-1954|18-Nov-1954|diary record|part of ground Chalk applied to strips 3 and 4
+R/HB/2|1955|None|15-Nov-1954||diary record|dung applied
+R/HB/2|1955|None|27-Dec-1954||diary record|ploughed
+R/HB/2|1955|None|17-Mar-1955||diary record|Remainder of ground Chalk applied to strips 3 and 4 and compensating dressing applied to series A and C
+R/HB/2|1955|None|5-Apr-1955||diary record|fertilizers applied
+R/HB/2|1955|None|7-Apr-1955||diary record|seed drilled at 3 bushels per acre
+R/HB/2|1955|None|24-May-1955||diary record|sprayed with 8 1b D.N.O.C. (active substance) in 80 gallons per acre
+R/HB/2|1955|None|25-July-1955||diary record|cut and discarded area of plots in series N, AA, AAS, C and plots 5A and 50 leaving 16 rows per plot
+R/HB/2|1955|None|18-Aug-1955||diary record|Harvested
+R/HB/2|1955|None|||variety|Plumage Archer
+R/HB/2|1956|None|16-Oct-1955|19-Oct-1955|diary record|dung applied, all plots ploughed
+R/HB/2|1956|None|24-Mar-1956|26-Mar-1956|diary record|fertilizers applied
+R/HB/2|1956|None|3-Apr-1956||diary record|seed drilled at 3 bushels per acre
+R/HB/2|1956|None|28-May-1956||diary record|sprayed with 3 1b DNOC in 80 gallons per acre
+R/HB/2|1956|None|8-Sept-1956||diary record|Harvested
+R/HB/2|1956|None|||variety|Plumage Archer
+R/HB/2|1957|None|13-Oct-1956|20-Oct-1956|diary record|ploughed
+R/HB/2|1957|None|18-Jan-1957||diary record|dung applied, all plots ploughed
+R/HB/2|1957|None|4-Apr-1957|5-Apr-1957|diary record|fertilizers applied
+R/HB/2|1957|None|6-Apr-1957||diary record|seed drilled at 2.75 bushels per acre
+R/HB/2|1957|None|29-May-1957||diary record|sprayed with MCPA at 2 pints in 40 gallons per acre
+R/HB/2|1957|None|29-Aug-1957|30-Aug-1957|diary record|Harvested
+R/HB/2|1957|None|||variety|Plumage Archer
+R/HB/2|1958|None|9-Sept-1957||diary record|ploughed
+R/HB/2|1958|None|22-Nov-1957||diary record|ploughed
+R/HB/2|1958|None|25-Nov-1957||diary record|dung applied
+R/HB/2|1958|None|17-Apr-1958||diary record|fertilizers applied
+R/HB/2|1958|None|21-Apr-1958||diary record|seed drilled at 2.75 bushels per acre
+R/HB/2|1958|None|28-May-1958||diary record|sprayed with CMPP at 6 pints in 40 gallons per acre
+R/HB/2|1958|None|9-Sept-1958||diary record|combine harvested
+R/HB/2|1958|None|||variety|Plumage Archer. 
+R/HB/2|1958|None|||note|In 1958 the plots were combine harvested for the first time, single cut being made Dowpon the centre of each plot (including plots 1N and 5 - 0) for the full length, except on strips 1 and 3 were five combine cut were taking per plot and weighed separately. The yield shown were estimated from the totals of these cuts.
+R/HB/2|1959|None|20-Sept-1958||diary record|sprayed with 2,4-D ester at 13 pints in 40 gallons per acre on stubble
+R/HB/2|1959|None|28-Nov-1958||diary record|ploughed
+R/HB/2|1959|None|5-Dec-1958||diary record|dung applied
+R/HB/2|1959|None|30-Mar-1959||diary record|fertilizers applied
+R/HB/2|1959|None|2-Apr-1959||diary record|seed drilled at 3 bushels per acre
+R/HB/2|1959|None|26-May-1959||diary record|sprayed with MCPA at 6.5 pints (30% potassium salt) in 4O gallons per acre
+R/HB/2|1959|None|18-Aug-1959||diary record|combine harvested
+R/HB/2|1959|None|||variety|Plumage Archer. 
+R/HB/2|1959|None|||note|In 1959 the plots were harvested by taking a single combine cut Dowpon the centre of each plot (including plots 1N and 5 - 0) for the full length, except on strips 1 3 and 4 were five combine cut were taking per plot and weighed seperately, the yield shown being estimated from the totals of these cuts. One cut only has taking from plot 5 - A, situated at the south side to avoid couch grass (Agropyron repens)
+R/HB/2|1960|None|26-Aug-1959||diary record|sprayed part of plots 5A 4C, 5.0 with dalapon at 8 1b in 20 gallons per acre	
+R/HB/2|1960|None|27-Aug-1959||diary record|all plots sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre
+R/HB/2|1960|None|7-Sept-1959||diary record|Quinquenniel Chalk supplement applied to series A, C and plot 5A; 
+R/HB/2|1960|None|7-Sept-1959||diary record|Resprayed part of plots 5A, 4C, 5.0 with dalapon at 4 lb in 40 gallons per acre
+R/HB/2|1960|None|20-Nov-1959||diary record|dung applied, ploughed
+R/HB/2|1960|None|4-Apr-1960||diary record|fertilizers applied
+R/HB/2|1960|None|7-Apr-1960||diary record|seed drilled at 2.75 bushels per acre
+R/HB/2|1960|None|24-May-1960||diary record|Strips 1, 2 and 3 sprayed with MCPA at 6.5 pints (30% potassium salt) in 40 gallons per acre
+R/HB/2|1960|None|24-May-1960||diary record|Strips 4, 6 and 7 sprayed with CMPP at 6 pints in 40 gallons per acre
+R/HB/2|1960|None|5-Sept-1960||diary record|combined
+R/HB/2|1960|None|||variety|Plumage Archer
+R/HB/2|1961|None|24-Sept-1960||diary record|sprayed with dalapon at 10 1b in 40 gallons per acre
+R/HB/2|1961|None|11-Oct-1960||diary record|sprayed with dalapon at 5 1b in 40 gallons per acre
+R/HB/2|1961|None|12-Dec-1960||diary record|dung applied
+R/HB/2|1961|None|13-Dec-1960||diary record|ploughed
+R/HB/2|1961|None|28-Mar-1961||diary record|Minerals applied
+R/HB/2|1961|None|4-Apr-1961||diary record|nitrogen fertilizers applied
+R/HB/2|1961|None|12-Apr-1961||diary record|seed drilled at 2.75 bushels per acre
+R/HB/2|1961|None|19-May-1961||diary record|Strips 1, 2 and 3 sprayed with MCPA at 6.5 pints in 40 gallons per acre
+R/HB/2|1961|None|19-May-1961||diary record|strips 4, 6 and 7 sprayed with CMPP at 6 pints in 40 gallons per acre
+R/HB/2|1961|None|28-Aug-1961||diary record|combined
+R/HB/2|1961|None|||variety|Plumage Archer
+R/HB/2|1962|all plots|5-Sept-1961||diary record|sprayed with 2,4-D ester at 1.75 pints in 40 gallons per acre
+R/HB/2|1962|all plots|8-Sept-1961||diary record|plot 1N and part of plots 2C, 4C, 5-0 and 5A sprayed with dalapon at 8 1b in 40 gallons per acre
+R/HB/2|1962|all plots|11-Sept-1961||diary record|Patches on 2N, 2C, 3C and 4C sprayed by hand with dalapon at 8 1b in 40 gallons per acre
+R/HB/2|1962|all plots|27-Sept-1961||diary record|area sprayed on Sept 8 and 11 resprayed with dalapon at 4 1b in 40 gallons per acre
+R/HB/2|1962|all plots|31-Oct-1961||diary record|dung applied, ploughed
+R/HB/2|1962|all plots|27-Mar-1962||diary record|fertilizers applied
+R/HB/2|1962|all plots|11-Apr-1962||diary record|seed drilled at 2.75 bushels per acre
+R/HB/2|1962|all plots|4-June-1962||diary record|sprayed with MCPA/MBA at 4 pints in 40 gallons per acre
+R/HB/2|1962|all plots|14-Sept-1962||diary record|combined
+R/HB/2|1962|all plots|||variety|Plumage Archer
+R/HB/2|1963|None|27-Sept-1962||diary record|sprayed with dalapon at 7.4 1b in 40 gallons per acre
+R/HB/2|1963|None|16-Oct-1962||diary record|sprayed with dalapon at 3.7 1b in 4 gallons per acre
+R/HB/2|1963|None|9-Mar-1963||diary record|dung applied
+R/HB/2|1963|None|25-Mar-1963||diary record|ploughed
+R/HB/2|1963|None|24-Apr-1963||diary record|fertilizers applied, seed drilled at 2.75 bushels per acre
+R/HB/2|1963|None|11-June-1963||diary record|sprayed with mecoprop/2,4-D at 6 pints in 40 gallons per acre
+R/HB/2|1963|None|17-Sept-1963||diary record|combine harvested
+R/HB/2|1963|None|||variety|Plumage Archer
+R/HB/2|1964|None|7-Oct-1963||diary record|sprayed with dalapon (Dowpon at 8 1b in 40 gals)
+R/HB/2|1964|None|21-Oct-1963||diary record|sprayed with dalapon (Dowponat 4 1b in 40 gals)
+R/HB/2|1964|None|2-Nov-1963||diary record|dung applied
+R/HB/2|1964|None|4-Nov-1963||diary record|ploughed
+R/HB/2|1964|None|9-Apr-1964||diary record|fertilizers applied
+R/HB/2|1964|None|10-Apr-1964||diary record|seed drilled at 2.75 bushels
+R/HB/2|1964|None|28-May-1964||diary record|sprayed with mecoprop/2,4-D (methoxone extra at 6 pints in 40 gals)
+R/HB/2|1964|None|31-Aug-1964||diary record|combine harvested
+R/HB/2|1965|None|26-Sept-1964||diary record|Quinquennial Chalk supplement applied to series A, C and plot 5A
+R/HB/2|1965|None|3-Nov-1964||diary record|dung applied, all plots ploughed
+R/HB/2|1965|None|1-Apr-1965||diary record|fertilizers applied, seed drilled at 160 1b
+R/HB/2|1965|None|14-May-1965||diary record|sprayed with mecoprop/2,4-D (methoxone extra at 6 pints in 34 gals)
+R/HB/2|1965|None|20-May-1965||diary record|nitrate of soda applied to plot 4AAS
+R/HB/2|1965|None|9-Sept-1965||diary record|combine harvested
+R/HB/2|1966|None|4-Oct-1965||diary record|sprayed with aminotriazole at 4 1b and ammonium thiocyanate at 3.7 1b in 40 gals
+R/HB/2|1966|None|1-Nov-1965||diary record|dung applied, all plots ploughed
+R/HB/2|1966|None|17-Mar-1966||diary record|fertilizers applied
+R/HB/2|1966|None|18-Mar-1966||diary record|seed drilled at 155 1b
+R/HB/2|1966|None|27-May-1966||diary record|sprayed with mecoprop/2,4-D (methoxone extra at 6 pints in 40 gals)
+R/HB/2|1966|None|26-Aug-1966||diary record|combine harvested
+R/HB/2|1967|None|16-Sept-1966||diary record|sprayed with aminotriazole at 4 1b and ammonium thiocyanate at 3.7 1b in 40 gals
+R/HB/2|1967|None|19-Oct-1966||diary record|dung applied, all plots ploughed
+R/HB/2|1967|None|31-Mar-1967||diary record|rotary cultivated twice
+R/HB/2|1967|None|19-May-1967|2-June-1967|diary record|rotary cultivated
+R/HB/2|1967|None|9-June-1967||diary record|Castor meal applied
+R/HB/2|1967|None|23-June-1967||diary record|Ground Chalk applied
+R/HB/2|1967|None|3-July-1967||diary record|Deep-tine cultivated
+R/HB/2|1967|None|26-July-1967||diary record|rotary cultivated
+R/HB/2|1967|None|||variety|fallow year
