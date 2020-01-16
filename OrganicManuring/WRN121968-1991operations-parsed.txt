@@ -1,0 +1,609 @@
+W/RN/12|1968|lc and ln plots|3-Oct-1967||diary record|P, K, and Mg applied
+W/RN/12|1968|lc and ln plots|27-Mar-1968||diary record|'Nitro-chalk' applied to LN plots
+W/RN/12|1968|lc and ln plots|14-June-1968||diary record|'Nitro-chalk' applied to LN plots
+W/RN/12|1968|lc and ln plots|5-June-1968||diary record|cut twice
+W/RN/12|1968|lc and ln plots|10-Oct-1968||diary record|cut twice
+W/RN/12|1968|wheat|25-Sept-1967||diary record|subsoiled
+W/RN/12|1968|wheat|10-Oct-1967||diary record|PK and Mg applied
+W/RN/12|1968|wheat|11-Oct-1967||diary record|peat, straw and FYM applied, ploughed
+W/RN/12|1968|wheat|25-Oct-1967||diary record|seed drilled at 190 lb
+W/RN/12|1968|wheat|27-Mar-1968||diary record|K applied to GM plots
+W/RN/12|1968|wheat|29-Mar-1968||diary record|GM plots undersown with late flowering Red clover at 15 lb
+W/RN/12|1968|wheat|18-Apr-1968||diary record|N applied
+W/RN/12|1968|wheat|25-Apr-1968||diary record|all plots except GM plots sprayed with Ioxynil/mecoprop (Actril C at 6 pints in 25 gals)
+W/RN/12|1968|wheat|23-Aug-1968||diary record|combine harvested
+W/RN/12|1968|wheat|||variety|Cappelle.
+W/RN/12|1969|lc and ln plots|8-Nov-1968||diary record|P, K, and Mg applied
+W/RN/12|1969|lc and ln plots|10-Feb-1969||diary record|ground Chalk applied at 4.5 tons
+W/RN/12|1969|lc and ln plots|14-Feb-1969||diary record|ground Chalk applied at 4.5 tons
+W/RN/12|1969|lc and ln plots|3-Mar-1969||diary record|P, K applied
+W/RN/12|1969|lc and ln plots|14-Mar-1969||diary record|N applied to LN plots
+W/RN/12|1969|lc and ln plots|3-July-1969||diary record|N applied to LN plots
+W/RN/12|1969|lc and ln plots|25-June-1969||diary record|cut
+W/RN/12|1969|lc and ln plots|3-Sept-1969||diary record|cut
+W/RN/12|1969|sugar beet|19-Nov-1968||diary record|P, K, and Mg applied
+W/RN/12|1969|sugar beet|20-Nov-1968||diary record|P, K, and Mg applied
+W/RN/12|1969|sugar beet|28-Nov-1968|29-Nov-1968|diary record|peat, straw, FYM applied
+W/RN/12|1969|sugar beet|29-Nov-1968||diary record|ploughed
+W/RN/12|1969|sugar beet|10-Feb-1969||diary record|ground Chalk applied
+W/RN/12|1969|sugar beet|14-Feb-1969||diary record|ground Chalk applied
+W/RN/12|1969|sugar beet|10-Apr-1969|11-Apr-1969|diary record|NPK applied
+W/RN/12|1969|sugar beet|11-Apr-1969||diary record|power harrowed, seed drilled at 5 lb
+W/RN/12|1969|sugar beet|29-May-1969|3-June-1969|diary record|singled
+W/RN/12|1969|sugar beet|23-June-1969||diary record|insecticide applied, demeton-s-methyl at 3.5 oz in 30 gals
+W/RN/12|1969|sugar beet|29-Oct-1969|30-Oct-1969|diary record|lifted
+W/RN/12|1969|sugar beet|||variety|Klein E.
+W/RN/12|1970|leys|20-Nov-1969||diary record|P, K, and Mg applied
+W/RN/12|1970|leys|17-Mar-1970||diary record|K applied, N applied to LN plots only
+W/RN/12|1970|leys|16-June-1970||diary record|N applied to LN plots
+W/RN/12|1970|leys|11-June-1970||diary record|cut
+W/RN/12|1970|leys|28-Sept-1970||diary record|cut
+W/RN/12|1970|beans|7-Nov-1969|11-Nov-1969|diary record|sugar beet tops spread
+W/RN/12|1970|beans|12-Nov-1969|14-Nov-1969|diary record|PK (0:14:28) at 400 lb and Mg applied
+W/RN/12|1970|beans|19-Nov-1969||diary record|peat, straw and FYM applied
+W/RN/12|1970|beans|20-Nov-1969||diary record|ploughed
+W/RN/12|1970|beans|20-Mar-1970||diary record|Additional K applied to FD and ST plots, power harrowed, PK applied, seed drilled at 200 lb
+W/RN/12|1970|beans|21-Mar-1970||diary record|weedkiller applied. Simazine at 0.5 lb in 25 gals 
+W/RN/12|1970|beans|18-June-1970||diary record|insecticide applied, demeton-s-methyl at 3.5 oz in 30 gals
+W/RN/12|1970|beans|1-Sept-1970||diary record|combine harvested
+W/RN/12|1970|beans|||variety|Maris Bead
+W/RN/12|1971|lc and ln plots|6-Oct-1970||diary record|P, K, Mg applied
+W/RN/12|1971|lc and ln plots|9-Mar-1971||diary record|P, K applied
+W/RN/12|1971|lc and ln plots|16-Mar-1971||diary record|N applied to LN plots, 126 kg N as 'Nitro-chalk'
+W/RN/12|1971|lc and ln plots|29-June-1971||diary record|N applied to LN plots, 21 kg N as 'Nitro-chalk'
+W/RN/12|1971|lc and ln plots|23-June-1971||diary record|cut
+W/RN/12|1971|lc and ln plots|10-Sept-1971||diary record|cut
+W/RN/12|1971|rye|17-Sept-1970|18-Sept-1970|diary record|P, K, Mg applied
+W/RN/12|1971|rye|15-Oct-1970||diary record|peat, straw applied
+W/RN/12|1971|rye|16-Oct-1970|17-Oct-1970|diary record|FYM applied, ploughed
+W/RN/12|1971|rye|17-Oct-1970||diary record|seed drilled at 191 kg
+W/RN/12|1971|rye|19-Oct-1970||diary record|GM plots undersown with late flowering Red clover at 72 kg
+W/RN/12|1971|rye|9-Mar-1971||diary record|K applied to ST plots only
+W/RN/12|1971|rye|14-Apr-1971||diary record|N applied, 31 kg N as 'Nitro-chalk'
+W/RN/12|1971|rye|22-Apr-1971||diary record|Red clover re-sown at 72 kg
+W/RN/12|1971|rye|31-Aug-1971||diary record|combine harvested
+W/RN/12|1971|rye|||variety|King II.
+W/RN/12|1972|potatoes|26-Oct-1971||diary record|Basal P and K applied, 100 kg P2O5 as superphosphate, 200 kg K2O as muriate of potash
+W/RN/12|1972|potatoes|28-Oct-1971||diary record|ploughed
+W/RN/12|1972|potatoes|14-Jan-1972||diary record|balancing P, K and Mg applied
+W/RN/12|1972|potatoes|7-Apr-1972||diary record|Basal K applied, 200 kg K2O as muriate of potash
+W/RN/12|1972|potatoes|8-Apr-1972||diary record|Basal P applied, 100 kg P2O5 as superphosphate
+W/RN/12|1972|potatoes|13-Apr-1972||diary record|Basal Mg, 100 kg MgO as Epsom salts and test N applied
+W/RN/12|1972|potatoes|19-Apr-1972||diary record|rotary cultivated, potatoes planted
+W/RN/12|1972|potatoes|11-May-1972||diary record|weedkiller applied, linuron at 1.1 kg with paraquat at 0.42 kg ion in 370 l
+W/RN/12|1972|potatoes|31-May-1972||diary record|grubbed
+W/RN/12|1972|potatoes|19-June-1972||diary record|rotary ridged
+W/RN/12|1972|potatoes|5-July-1972||diary record|Fungicide applied, Mancozeb at 1.3 kg in 430 l
+W/RN/12|1972|potatoes|27-July-1972||diary record|Fungicide with insecticide applied, Mancozeb at 1.3 kg with demeton-s-methyl at 0.25 l in 430 l 
+W/RN/12|1972|potatoes|22-Sept-1972||diary record|sprayed with undiluted BOV at 200 l
+W/RN/12|1972|potatoes|26-Sept-1972||diary record|lifted
+W/RN/12|1972|rye|11-Oct-1971||diary record|PK applied, 60 kg P2O5, 120 kg K2O as (0:14:28)
+W/RN/12|1972|rye|12-Oct-1971||diary record|Mg applied, 40 kg MgO as Epsom salts, ploughed
+W/RN/12|1972|rye|23-Oct-1971||diary record|seed drilled
+W/RN/12|1972|rye|18-Apr-1972||diary record|N applied, 40 kg N as 'Nitro-chalk'
+W/RN/12|1972|rye|26-Apr-1972||diary record|GM plots undersown with Essex Broad Red clover at 30 kg
+W/RN/12|1972|rye|29-Aug-1972||diary record|combine harvested
+W/RN/12|1972|leys|25-Oct-1971||diary record|Basal PK and Mg applied, 60 kg P2O5, 120 kg K2O as (0:14:28)
+W/RN/12|1972|leys|12-Jan-1972||diary record|balancing P, K and Mg applied, 40 kg MgO as Epsom salts
+W/RN/12|1972|leys|8-Mar-1972||diary record|N applied to LN plots, 126 kg N as 'Nitro-chalk'
+W/RN/12|1972|leys|26-June-1972||diary record|N applied to LN plots, kg N as 'Nitro-chalk'
+W/RN/12|1972|leys|15-June-1972||diary record|cut
+W/RN/12|1973|winter wheat|30-Sept-1972||diary record|Deep-tine cultivated
+W/RN/12|1973|winter wheat|20-Oct-1972||diary record|seed sown (mixed varieties in error)
+W/RN/12|1973|winter wheat|17-Nov-1972||diary record|paraquat applied, paraquat at 0.56 kg ion in 280 l
+W/RN/12|1973|winter wheat|24-Nov-1972||diary record|seed re-sown
+W/RN/12|1973|winter wheat|13-Apr-1973||diary record|N applied
+W/RN/12|1973|winter wheat|26-Apr-1973||diary record|ioxynil and mecoprop applied, ioxynil at 0.63 kg and mecoprop at 1.9 kg in 280 l
+W/RN/12|1973|winter wheat|23-Aug-1973||diary record|combine harvested
+W/RN/12|1973|potatoes|16-Nov-1972||diary record|Basal K applied, 240 kg K2O as muriate of potash
+W/RN/12|1973|potatoes|17-Nov-1972||diary record|Basal P applied, 230 kg P2O5 as superphosphate
+W/RN/12|1973|potatoes|30-Nov-1972||diary record|ploughed
+W/RN/12|1973|potatoes|26-Mar-1973||diary record|balancing P and K applied
+W/RN/12|1973|potatoes|27-Mar-1973||diary record|Basal P applied, 230 kg P2O5 as superphosphate
+W/RN/12|1973|potatoes|29-Mar-1973||diary record|Basal K applied, 240 kg K2O as muriate of potash
+W/RN/12|1973|potatoes|5-Apr-1973||diary record|N applied
+W/RN/12|1973|potatoes|6-Apr-1973||diary record|Basal Mg applied, 100 kg MgO as Epsom Salts, rotary cultivated, potatoes planted
+W/RN/12|1973|potatoes|9-May-1973||diary record|weedkiller applied, linuron at 1.2 kg plus paraquat at 0.56 kg ion in 280 l
+W/RN/12|1973|potatoes|1-June-1973||diary record|grubbed
+W/RN/12|1973|potatoes|4-June-1973||diary record|rotary ridged
+W/RN/12|1973|potatoes|5-July-1973||diary record|Fungicide with insecticide applied, mancozeb at 1.3 kg plus demeton-s-methyl at 0.25 kg in 390 l
+W/RN/12|1973|potatoes|26-July-1973||diary record|Fungicide applied, mancozeb at 1.3 kg in 390 l
+W/RN/12|1973|potatoes|13-Aug-1973||diary record|Fungicide applied, mancozeb at 1.3 kg in 370 l
+W/RN/12|1973|potatoes|19-Sept-1973||diary record|Haulm mechanically destroyed
+W/RN/12|1973|potatoes|24-Sept-1973||diary record|sprayed with undiluted BOV at 220 l
+W/RN/12|1973|potatoes|10-Oct-1973||diary record|lifted
+W/RN/12|1974|sugar beet|13-Sept-1973||diary record|aminotriazole at 4.5 kg with ammonium thiocyanate at 4.1 kg in 370 l applied
+W/RN/12|1974|sugar beet|27-Sept-1973||diary record|ground Chalk applied, at 5 tonnes
+W/RN/12|1974|sugar beet|20-Oct-1973||diary record|subsoiled, tines 140 cm apart and 50 cm deep
+W/RN/12|1974|sugar beet|25-Oct-1973||diary record|PK applied, (0:20:20) at 1140 kg
+W/RN/12|1974|sugar beet|13-Nov-1973||diary record|ploughed
+W/RN/12|1974|sugar beet|30-Mar-1974||diary record|spring-tine cultivated
+W/RN/12|1974|sugar beet|4-Apr-1974||diary record|N applied
+W/RN/12|1974|sugar beet|5-Apr-1974||diary record|PK applied, (0:20:20) in the seedbed at 580 kg
+W/RN/12|1974|sugar beet|5-Apr-1974||diary record|Mg applied, at 100 kg MgO as Epsom Salts 
+W/RN/12|1974|sugar beet|5-Apr-1974||diary record|power harrowed, seed sown
+W/RN/12|1974|sugar beet|26-May-1974||diary record|Phenmedipham applied, at 1.1 kg in 340 l
+W/RN/12|1974|sugar beet|29-May-1974|30-May-1974|diary record|singled
+W/RN/12|1974|sugar beet|5-June-1974||diary record|insecticide applied, demeton-s-methyl at 0.25 kg in 280 l
+W/RN/12|1974|sugar beet|24-June-1974||diary record|Boron, 6.7 kg B2O3 (as 'Solubor') applied with the second application of insecticide.
+W/RN/12|1974|sugar beet|24-June-1974||diary record|insecticide applied, demeton-s-methyl at 0.21 kg in 390 l
+W/RN/12|1974|sugar beet|22-Nov-1974|29-Nov-1974|diary record|lifted
+W/RN/12|1974|winter wheat|18-Oct-1973||diary record|P and K applied, 110 kg P2O5 as superphosphate, 60 kg K2O as muriate of potash
+W/RN/12|1974|winter wheat|18-Oct-1973||diary record|deep-tine cultivated, spring-tine cultivated
+W/RN/12|1974|winter wheat|22-Oct-1973||diary record|seed sown
+W/RN/12|1974|winter wheat|5-Apr-1974||diary record|weedkiller applied, ioxynil at 0.63 kg with mecoprop at 1.9 kg in 280 l
+W/RN/12|1974|winter wheat|10-Apr-1974||diary record|N applied
+W/RN/12|1974|winter wheat|29-Aug-1974||diary record|combine harvested
+W/RN/12|1975|sugar beet|16-Sept-1974||diary record|weedkiller applied, aminotriazole at 4.5 kg in 280 l
+W/RN/12|1975|sugar beet|19-Sept-1974||diary record|subsoiled, tines 140 cm apart and 60 cm deep
+W/RN/12|1975|sugar beet|9-Oct-1974||diary record|ground Chalk applied at 5 tonnes
+W/RN/12|1975|sugar beet|16-Nov-1974||diary record|PK applied, 114 kg P2O5 as superphosphate, 180 kg K2O as muriate of potash
+W/RN/12|1975|sugar beet|9-Dec-1975||diary record|ploughed
+W/RN/12|1975|sugar beet|28-Apr-1975||diary record|PK, (0:20:20) at 570 kg
+W/RN/12|1975|sugar beet|28-Apr-1975||diary record|Mg applied, at 100 kg MgO as Epsom Salts 
+W/RN/12|1975|sugar beet|28-Apr-1975||diary record|spring-tine cultivated with crumbler
+W/RN/12|1975|sugar beet|29-Apr-1975||diary record|seed sown
+W/RN/12|1975|sugar beet|29-Apr-1975|30-Apr-1975|diary record|N applied
+W/RN/12|1975|sugar beet|29-May-1975||diary record|Tractor hoed three times
+W/RN/12|1975|sugar beet|27-June-1975||diary record|Tractor hoed three times
+W/RN/12|1975|sugar beet|30-June-1975||diary record|Tractor hoed three times
+W/RN/12|1975|sugar beet|9-June-1975||diary record|insecticide applied, demeton-s-methyl at 0.25 kg in 280 l
+W/RN/12|1975|sugar beet|16-June-1975|18-June-1975|diary record|singled
+W/RN/12|1975|sugar beet|1-Aug-1975||diary record|insecticide applied with boron, demeton-s-methyl at 0.25 kg in 390 l
+W/RN/12|1975|sugar beet|1-Aug-1975||diary record|boron applied, 8.2 kg B2O3 (as 'Solubor')
+W/RN/12|1975|sugar beet|10-July-1975|17-July-1975|diary record|Side hoed
+W/RN/12|1975|sugar beet|11-Nov-1975|14-Nov-1975|diary record|lifted
+W/RN/12|1975|barley|14-Jan-1975||diary record|ploughed in sugar beet tops
+W/RN/12|1975|barley|8-Mar-1975||diary record|spring-tine cultivated with crumbler
+W/RN/12|1975|barley|4-Mar-1975||diary record|seed sown, PK (0:20:20) at 280 kg combine drilled
+W/RN/12|1975|barley|18-Mar-1975||diary record|N applied
+W/RN/12|1975|barley|20-May-1975||diary record|weedkiller applied, ioxynil at 0.52 kg and mecoprop at 1.6 kg in 280 l 
+W/RN/12|1975|barley|11-Aug-1975||diary record|combine harvested
+W/RN/12|1976|winter oats|5-Oct-1975||diary record|glyphosate applied, at 1.7 kg in 340 l
+W/RN/12|1976|winter oats|24-Oct-1975||diary record|ploughed
+W/RN/12|1976|winter oats|25-Oct-1975||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1976|winter oats|27-Oct-1975||diary record|seed sown, PK (0:20:20) at 300 kg combine drilled
+W/RN/12|1976|winter oats|20-Apr-1976||diary record|ioxynil plus mecoprop applied, ioxynil at 0.63 kg and mecoprop at 1.9 kg in 280 l
+W/RN/12|1976|winter oats|30-June-1976||diary record|Harvested green
+W/RN/12|1976|barley|24-Nov-1975||diary record|ploughed in sugar beet tops
+W/RN/12|1976|barley|2-Mar-1976||diary record|spring-tine cultivated
+W/RN/12|1976|barley|4-Mar-1976||diary record|N applied
+W/RN/12|1976|barley|8-Mar-1976||diary record|seed sown, PK (0:20:20) at 290 kg combine drilled 
+W/RN/12|1976|barley|28-Apr-1976||diary record|weedkiller applied, ioxynil at 0.53 kg and mecoprop at 1.6 kg in 280 l
+W/RN/12|1976|barley|27-July-1976||diary record|combine harvested
+W/RN/12|1977|winter oats|23-Sept-1976||diary record|glyphosate applied, at 1.7 kg in 280 l
+W/RN/12|1977|winter oats|15-Oct-1976||diary record|ploughed
+W/RN/12|1977|winter oats|8-Nov-1976||diary record|spring-tine cultivated, seed sown, (0:20:20) at 290 kg, combine drilled.
+W/RN/12|1977|winter oats|15-May-1977||diary record|ioxynil plus mecoprop applied, ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 220 l
+W/RN/12|1977|winter oats|7-July-1977|8-July-1977|diary record|Harvested green
+W/RN/12|1977|potatoes|28-July-1976||diary record|Heavy-tine cultivated
+W/RN/12|1977|potatoes|16-Aug-1976||diary record|power harrowed
+W/RN/12|1977|potatoes|15-Oct-1976||diary record|ploughed
+W/RN/12|1977|potatoes|17-Jan-1977||diary record|Winter PK applied, (0:20:20) at 1140 kg
+W/RN/12|1977|potatoes|6-Apr-1977||diary record|spring PK applied, (0:20:20) at 1210 kg
+W/RN/12|1977|potatoes|6-Apr-1977||diary record|kieserite applied, 60 kg Mg as kieserite.
+W/RN/12|1977|potatoes|13-Apr-1977||diary record|Heavy-tine cultivated
+W/RN/12|1977|potatoes|19-Apr-1977|21-Apr-1977|diary record|N applied
+W/RN/12|1977|potatoes|22-Apr-1977||diary record|power harrowed, potatoes planted
+W/RN/12|1977|potatoes|25-May-1977||diary record|grubbed and earthed up, weedkiller applied, linuron at 1.3 kg plus paraquat at 0.42 kg ion in 420 l
+W/RN/12|1977|potatoes|23-June-1977||diary record|Fungicide applied, mancozeb at 1.3 kg in 420 l
+W/RN/12|1977|potatoes|8-July-1977||diary record|Fungicide with insecticide applied, mancozeb at 1.3 kg plus pirimicarb at 0.14 kg in 390 l
+W/RN/12|1977|potatoes|21-July-1977||diary record|Fungicide with insecticide applied, mancozeb at 1.3 kg plus pirimicarb at 0.14 kg in 370 l
+W/RN/12|1977|potatoes|12-Aug-1977||diary record|Fungicide with insecticide applied, mancozeb at 1.3 kg plus pirimicarb at 0.14 kg in 370 l
+W/RN/12|1977|potatoes|21-Oct-1977||diary record|Haulm mechanically destroyed
+W/RN/12|1977|potatoes|1-Nov-1977||diary record|lifted
+W/RN/12|1978|winter wheat|10-Nov-1977||diary record|PK applied, 110 kg P205 as superphosphate, 60 kg K2O as muriate of potash
+W/RN/12|1978|winter wheat|11-Nov-1977||diary record|ploughed
+W/RN/12|1978|winter wheat|14-Nov-1977||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1978|winter wheat|11-Apr-1978||diary record|N applied
+W/RN/12|1978|winter wheat|10-May-1978||diary record|weedkiller applied, mecoprop, bromoxynil, and ioxynil ('Brittox' at 3.5 kg in 280 1)
+W/RN/12|1978|winter wheat|25-Aug-1978||diary record|combine harvested
+W/RN/12|1978|potatoes|24-Apr-1978||diary record|planted
+W/RN/12|1978|potatoes|15-May-1978||diary record|weedkiller applied, Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 280 1
+W/RN/12|1978|potatoes|6-June-1978||diary record|grubbed
+W/RN/12|1978|potatoes|9-June-1978||diary record|earthed up
+W/RN/12|1978|potatoes|5-July-1978||diary record|mancozeb applied, mancozeb at 1.3 kg in 280 l 
+W/RN/12|1978|potatoes|20-July-1978||diary record|mancozeb applied, mancozeb at 1.3 kg in 420 l
+W/RN/12|1978|potatoes|11-Aug-1978||diary record|mancozeb applied with insecticide, mancozeb at 1.3 kg plus pirimicarb at 0.14 kg in 420 l
+W/RN/12|1978|potatoes|23-Aug-1978||diary record|Fentin acetate with maneb applied, 'Fennite A' at 1.7 kg in 280 l
+W/RN/12|1978|potatoes|23-Sept-1978||diary record|Haulm desiccant applied,  undiluted BOV at 170 l
+W/RN/12|1978|potatoes|11-Oct-1978||diary record|lifted
+W/RN/12|1979|winter wheat|13-Oct-1978||diary record|Heavy spring-tine cultivated
+W/RN/12|1979|winter wheat|13-Oct-1978||P and K applied, P2O5 at 110 kg as superphosphate, K2O at 60 kg as muriate of potash
+W/RN/12|1979|winter wheat|13-Oct-1978||spring-tine cultivated with crumbler attached
+W/RN/12|1979|winter wheat|14-Oct-1978||diary record|seed sown
+W/RN/12|1979|winter wheat|18-Oct-1978||diary record|weedkiller applied, Methabenzthiazuron at 1.5 kg in 220 l
+W/RN/12|1979|winter wheat|18-Apr-1979||diary record|N applied
+W/RN/12|1979|winter wheat|29-Aug-1979||diary record|combine harvested
+W/RN/12|1979|sugar beet|7-Nov-1978||diary record|Chalk applied at 5.0 t
+W/RN/12|1979|sugar beet|24-Nov-1978||diary record|autumn PK applied, (0:20:20) at 1210 kg
+W/RN/12|1979|sugar beet|30-Apr-1979||diary record|spring PK, (0:20:20) at 605 kg
+W/RN/12|1979|sugar beet|30-Apr-1979||diary record|Mg applied, MgO at 60 kg as kieserite
+W/RN/12|1979|sugar beet|30-Apr-1979||diary record|spring-tine cultivated
+W/RN/12|1979|sugar beet|1-May-1979||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1979|sugar beet|4-May-1979||diary record|N applied
+W/RN/12|1979|sugar beet|11-June-1979|15-June-1979|diary record|singled
+W/RN/12|1979|sugar beet|18-June-1979||diary record|Tractor hoed three times
+W/RN/12|1979|sugar beet|2-July-1979||diary record|Tractor hoed three times
+W/RN/12|1979|sugar beet|16-July-1979||diary record|Tractor hoed three times
+W/RN/12|1979|sugar beet|30-June-1979||diary record|Boron applied with insecticide, at 8.0 kg B2O3 (as 'Solubor')
+W/RN/12|1979|sugar beet|30-June-1979||diary record|insecticide applied, pirimicarb at 0.14 kg in 250 1
+W/RN/12|1979|sugar beet|1-Nov-1979||diary record|lifted
+W/RN/12|1979|clover grass ley|7-Nov-1978||diary record|Chalk applied, at 5.0 t
+W/RN/12|1979|clover grass ley|24-Nov-1978||diary record|autumn PK applied, (0:20:20) at 1210 kg
+W/RN/12|1979|clover grass ley|30-Apr-1979||diary record|spring PK applied, (0:20:20) at 605 kg
+W/RN/12|1979|clover grass ley|30-Apr-1979||diary record|Mg applied, MgO at 60 kg as kieserite
+W/RN/12|1979|clover grass ley|30-Apr-1979||diary record|spring-tine cultivated
+W/RN/12|1979|clover grass ley|1-May-1979||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1979|clover grass ley|4-May-1979||diary record|N applied
+W/RN/12|1979|clover grass ley|4-June-1979||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1979|clover grass ley|30-July-1979||diary record|topped
+W/RN/12|1980|s barley|22-Nov-1979||diary record|ploughed in sugar beet tops
+W/RN/12|1980|s barley|14-Jan-1980||diary record|P and K applied, P2O5 at 110 kg as superphosphate, K20 at 60 kg as muriate of potash
+W/RN/12|1980|s barley|29-Feb-1980||diary record|Heavy spring-tine cultivated
+W/RN/12|1980|s barley|3-Mar-1980||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1980|s barley|4-Mar-1980||diary record|seed sown
+W/RN/12|1980|s barley|21-Mar-1980||diary record|N applied
+W/RN/12|1980|s barley|8-May-1980||diary record|weedkiller applied, mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1
+W/RN/12|1980|s barley|13-May-1980||diary record|Tridemorph applied, Tridemorph at 0.53 kg in 280 l
+W/RN/12|1980|s barley|5-June-1980||diary record|'Milgo E' applied, Ethirimol (as 'Milgo E' at 1.3 1) in 280 
+W/RN/12|1980|s barley|28-Aug-1980||diary record|combine harvested
+W/RN/12|1980|sugar beet|13-Nov-1979||diary record|Chalk applied, at 5.0 t
+W/RN/12|1980|sugar beet|22-Nov-1979||diary record|ploughed
+W/RN/12|1980|sugar beet|4-Mar-1980||diary record|autumn PK applied, (0:20:20) at 1210 kg
+W/RN/12|1980|sugar beet|11-Mar-1980||diary record|ploughed
+W/RN/12|1980|sugar beet|31-Mar-1980||diary record|spring PK applied, (0:20:20) at 610 kg
+W/RN/12|1980|sugar beet|31-Mar-1980||diary record|Mg applied, MgO at 60 kg as kieserite
+W/RN/12|1980|sugar beet|8-Apr-1980||diary record|Heavy spring-tine cultivated
+W/RN/12|1980|sugar beet|9-Apr-1980||diary record|rotary cultivated
+W/RN/12|1980|sugar beet|11-Apr-1980||diary record|N applied, seed sown
+W/RN/12|1980|sugar beet|22-May-1980||diary record|Tractor hoed
+W/RN/12|1980|sugar beet|4-June-1980||diary record|Tractor hoed
+W/RN/12|1980|sugar beet|20-June-1980||diary record|Tractor hoed
+W/RN/12|1980|sugar beet|29-May-1980||diary record|singled
+W/RN/12|1980|sugar beet|16-June-1980||diary record|Side-hoed by hand
+W/RN/12|1980|sugar beet|19-June-1980||diary record|Boron applied, Boron at 8.0 kg B2O3 (as 'Solubor') in 300 1
+W/RN/12|1980|sugar beet|4-Nov-1980|7-Nov-1980|diary record|lifted
+W/RN/12|1980|first year clover grass ley|13-Nov-1979||diary record|Chalk applied, at 5.0 t
+W/RN/12|1980|first year clover grass ley|22-Nov-1979||diary record|ploughed
+W/RN/12|1980|first year clover grass ley|4-Mar-1980||diary record|PK applied, (0:20:20) at 1210 kg
+W/RN/12|1980|first year clover grass ley|11-Mar-1980||diary record|ploughed
+W/RN/12|1980|first year clover grass ley|31-Mar-1980||diary record|PK applied, (0:20:20) at 610 kg
+W/RN/12|1980|first year clover grass ley|31-Mar-1980||diary record|Mg applied, MgO at 60 kg as kieserite
+W/RN/12|1980|first year clover grass ley|8-Apr-1980||diary record|Heavy spring-tine cultivated
+W/RN/12|1980|first year clover grass ley|9-Apr-1980||diary record|rotary cultivated
+W/RN/12|1980|first year clover grass ley|11-Apr-1980||diary record|N applied
+W/RN/12|1980|first year clover grass ley|17-Apr-1980||diary record|seed sown
+W/RN/12|1980|first year clover grass ley|9-June-1980||diary record|topped
+W/RN/12|1980|first year clover grass ley|26-June-1980||diary record|paraquat applied because of poor germination, paraquat at 0.84 kg ion in 450 l
+W/RN/12|1980|first year clover grass ley|30-June-1980||diary record|rotary cultivated
+W/RN/12|1980|first year clover grass ley|2-July-1980||diary record|spring-tine cultivated
+W/RN/12|1980|first year clover grass ley|11-July-1980||diary record|spring-tine cultivated with crumbler attached, seed re-sown
+W/RN/12|1980|second year clover grass ley|20-Mar-1980||diary record|P and K applied, P2O5 at 110 kg as superphosphate, K20 at 60 kg as muriate of potash
+W/RN/12|1980|second year clover grass ley|4-June-1980||diary record|cut
+W/RN/12|1980|second year clover grass ley|8-Sept-1980||diary record|cut
+W/RN/12|1980|second year clover grass ley|18-Sept-1980||diary record|topped
+W/RN/12|1981|s barley|11-Dec-1980||diary record|ploughed in sugar beet tops
+W/RN/12|1981|s barley|16-Feb-1981||diary record|P and K applied, P205 at 110 kg as superphosphate, K20 at 60 kg as muriate of potash
+W/RN/12|1981|s barley|18-Feb-1981||diary record|spring-tine cultivated
+W/RN/12|1981|s barley|27-Feb-1981||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1981|s barley|26-Mar-1981||diary record|N applied
+W/RN/12|1981|s barley|15-Apr-1981||diary record|weedkiller and Fungicide applied, mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) plus Tridemorph at 0.53 kg in 280 1
+W/RN/12|1981|s barley|17-Aug-1981||diary record|combine harvested
+W/RN/12|1981|s beans|3-Dec-1980||diary record|Mg applied
+W/RN/12|1981|s beans|4-Dec-1980||diary record|PK applied
+W/RN/12|1981|s beans|16-Jan-1981||diary record|Organic manures applied
+W/RN/12|1981|s beans|16-Feb-1981||diary record|PK and Mg applied
+W/RN/12|1981|s beans|18-Feb-1981||diary record|spring-tine cultivated
+W/RN/12|1981|s beans|6-Apr-1981||diary record|phorate applied, at 5.6 kg
+W/RN/12|1981|s beans|6-Apr-1981||diary record|rotary cultivated with crumbler attached, seed sown
+W/RN/12|1981|s beans|7-Apr-1981||diary record|weedkiller applied, Simazine at 0.84 kg in 280 l
+W/RN/12|1981|s beans|18-June-1981||diary record|pirimicarb applied, pirimicarb at 0.14 kg in 280 l
+W/RN/12|1981|s beans|27-July-1981||diary record|pirimicarb applied, pirimicarb at 0.14 kg in 280 l
+W/RN/12|1981|s beans|3-Sept-1981||diary record|combine harvested
+W/RN/12|1981|first year clover grass ley|16-Jan-1981||diary record|ploughed
+W/RN/12|1981|first year clover grass ley|16-Feb-1981||diary record|PK applied, (0:14:28) at 1000 kg
+W/RN/12|1981|first year clover grass ley|16-Feb-1981||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1981|first year clover grass ley|18-Feb-1981||diary record|spring-tine cultivated twice
+W/RN/12|1981|first year clover grass ley|8-Apr-1981||diary record|spring-tine cultivated twice
+W/RN/12|1981|first year clover grass ley|7-May-1981||diary record|rotary cultivated, N applied, at 50 kg N as Nitro-chalk
+W/RN/12|1981|first year clover grass ley|13-May-1981||diary record|seed sown
+W/RN/12|1981|first year clover grass ley|25-June-1981||diary record|topped twice
+W/RN/12|1981|first year clover grass ley|20-July-1981||diary record|topped twice
+W/RN/12|1981|first year clover grass ley|8-Sept-1981||diary record|cut
+W/RN/12|1981|second year clover grass ley|3-Dec-1980||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1981|second year clover grass ley|4-Dec-1980||diary record|PK applied, (0:14:28) at 1000 kg
+W/RN/12|1981|second year clover grass ley|13-May-1981||diary record|N applied, at 60 kg N as Nitro-chalk
+W/RN/12|1981|second year clover grass ley|10-June-1981||diary record|cut
+W/RN/12|1981|second year clover grass ley|8-Sept-1981||diary record|cut
+W/RN/12|1981|third year clover grass ley|3-Dec-1980||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1981|third year clover grass ley|4-Dec-1981||diary record|PK applied, (0:14:28) at 1000 kg
+W/RN/12|1981|third year clover grass ley|12-June-1981||diary record|cut
+W/RN/12|1981|third year clover grass ley|8-Sept-1981||diary record|cut
+W/RN/12|1982|w wheat|16-Sept-1981||diary record|glyphosate applied, glyphosate at 1.5 kg in 280 1
+W/RN/12|1982|w wheat|8-Oct-1981||diary record|PK and Mg applied to FERT - FYM plots only
+W/RN/12|1982|w wheat|8-Oct-1981||FYM applied to FYM plots only
+W/RN/12|1982|w wheat|6-Nov-1981||diary record|PK and straw applied to STRAW plots only, ploughed
+W/RN/12|1982|w wheat|9-Nov-1981||diary record|PK applied to FERT - FYM and FERT - STR plots only. 
+W/RN/12|1982|w wheat|9-Nov-1981||diary record|Mg applied to FERT - FYM, FERT - STR and STRAW plots only, spring-tine cultivated with crumbler attached
+W/RN/12|1982|w wheat|10-Nov-1981||diary record|seed sown
+W/RN/12|1982|w wheat|14-Apr-1982||diary record|N applied, at 150 kg N as Nitro-chalk
+W/RN/12|1982|w wheat|15-Apr-1982||diary record|Isoproturon applied, isoproturon at 2.1 kg in 280 
+W/RN/12|1982|w wheat|16-Aug-1982||diary record|combine harvested
+W/RN/12|1982|w beans|1-Oct-1981||diary record|glyphosate applied, glyphosate at 1.5 kg in 280 l
+W/RN/12|1982|w beans|8-Oct-1981||diary record|PK and Mg applied to FERT - FYM plots only
+W/RN/12|1982|w beans|8-Oct-1981||diary record|FYM applied to FYM plots only
+W/RN/12|1982|w beans|6-Nov-1981||diary record|PK and Straw applied to STRAW plots only, ploughed
+W/RN/12|1982|w beans|9-Nov-1981||diary record|PK applied to FERT - FYM and FERT - STR plots only.
+W/RN/12|1982|w beans|9-Nov-1981||diary record|Mg applied to FERT - FYM, FERT - STR and STRAW plots only
+W/RN/12|1982|w beans|10-Nov-1981||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1982|w beans|13-Nov-1981||diary record|Propyzamide applied, Propyzamide at 0.84 kg in 280 l 
+W/RN/12|1982|w beans|13-Aug-1982||diary record|combine harvested
+W/RN/12|1982|first year clover grass ley|1-Oct-1981||diary record|glyphosate applied, glyphosate at 1.5 kg in 280 l
+W/RN/12|1982|first year clover grass ley|6-Nov-1981||diary record|ploughed
+W/RN/12|1982|first year clover grass ley|9-Nov-1981||diary record|PK applied, P205 at 140 kg, K20 at 280 kg as (0:14:28)
+W/RN/12|1982|first year clover grass ley|9-Nov-1981||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1982|first year clover grass ley|10-Nov-1982||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1982|first year clover grass ley|15-Apr-1982||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1982|first year clover grass ley|19-Apr-1982||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1982|first year clover grass ley|15-Apr-1982||diary record|N applied, N at 50 kg as 'Nitro-chalk'
+W/RN/12|1982|first year clover grass ley|23-June-1982||diary record|N applied, N at 50 kg as 'Nitro-chalk'
+W/RN/12|1982|first year clover grass ley|29-Apr-1982||diary record|seed sown
+W/RN/12|1982|first year clover grass ley|16-June-1982||diary record|topped
+W/RN/12|1982|first year clover grass ley|29-June-1982||diary record|topped
+W/RN/12|1982|first year clover grass ley|26-July-1982||diary record|topped
+W/RN/12|1982|second third and fourth year clover grass ley|9-Nov-1981||diary record|PK, P205 at 140 kg, K20 at 280 kg as (0:14:28)
+W/RN/12|1982|second third and fourth year clover grass ley|9-Nov-1981||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1982|second third and fourth year clover grass ley|7-July-1982||diary record|cut
+W/RN/12|1983|w wheat|10-Sept-1982||diary record|glyphosate applied, glyphosate at 1.5 kg in 280 l
+W/RN/12|1983|w wheat|5-Oct-1982||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1983|w wheat|5-Nov-1982||diary record|treatment FYM and straw applied, ploughed
+W/RN/12|1983|w wheat|8-Nov-1982||diary record|Half PK and Mg applied to FERT - FYM
+W/RN/12|1983|w wheat|8-Nov-1982||diary record|All PK and Mg applied to FERT - STR and STRAW plots only
+W/RN/12|1983|w wheat|11-Nov-1982||diary record|spring-tine cultivated with crumbler attached, seed sown, spring-tine cultivated
+W/RN/12|1983|w wheat|28-Apr-1983||diary record|N applied, N at 150 kg as 'Nitro-chalk'
+W/RN/12|1983|w wheat|29-Apr-1983||diary record|'Brittox' applied, mecoprop with bromoxynil and ioxynil? (as 'Brittox' at 4.2 1) in 280 l
+W/RN/12|1983|w wheat|12-Aug-1983||diary record|combine harvested
+W/RN/12|1983|sugar beet|10-Sept-1982||diary record|glyphosate applied, glyphosate at 1.5 kg in 280 l
+W/RN/12|1983|sugar beet|5-Oct-1982||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1983|sugar beet|3-Nov-1982||diary record|ground Chalk applied, at 5.0 t
+W/RN/12|1983|sugar beet|5-Nov-1982||diary record|treatment FYM applied and these plots ploughed
+W/RN/12|1983|sugar beet|8-Nov-1982||diary record|treatment straw applied, remaining plots ploughed
+W/RN/12|1983|sugar beet|8-Nov-1982||diary record|PK applied to STRAW plots
+W/RN/12|1983|sugar beet|9-Nov-1982||diary record|Half PK and Mg applied to FERT - FYM
+W/RN/12|1983|sugar beet|9-Nov-1982||diary record|All PK and Mg applied to FERT - STR plots
+W/RN/12|1983|sugar beet|9-Nov-1982||diary record|All Mg applied to STRAW plots
+W/RN/12|1983|sugar beet|12-Jan-1983||diary record|Deep-tine cut cultivated
+W/RN/12|1983|sugar beet|22-Mar-1983||diary record|Heavy spring-tine cultivated, spring-tine cultivated
+W/RN/12|1983|sugar beet|22-Mar-1983||diary record|N applied, N at 150 kg as 'Nitro-chalk'
+W/RN/12|1983|sugar beet|14-Apr-1983||diary record|spring-tine cultivated with crumbler attached
+W/RN/12|1983|sugar beet|30-Apr-1983||diary record|rotary cultivated, seed sown
+W/RN/12|1983|sugar beet|7-June-1983||diary record|Phenmedipham applied, Phenmedipham at 1.3 kg in 280 l
+W/RN/12|1983|sugar beet|9-June-1983|14-June-1983|diary record|singled
+W/RN/12|1983|sugar beet|20-June-1983||diary record|Tractor hoed
+W/RN/12|1983|sugar beet|1-July-1983||diary record|Tractor hoed
+W/RN/12|1983|sugar beet|29-June-1983||diary record|insecticide applied, demeton-s-methyl at 0.24 kg in 280 l
+W/RN/12|1983|sugar beet|4-July-1983|11-July-1983|diary record|hand hoed
+W/RN/12|1983|sugar beet|10-Oct-1983||diary record|lifted
+W/RN/12|1983|second third fourth and fifth year leys|3-Nov-1982||diary record|Ground Chalk applied to 3rd and 5th year only, at 5.0 t
+W/RN/12|1983|second third fourth and fifth year leys|9-Nov-1982||diary record|PK applied, P205 at 140 kg, K20 at 280 kg as (0:18:36)
+W/RN/12|1983|second third fourth and fifth year leys|9-Nov-1982||Mg applied, MgO at 50 kg as keserite
+W/RN/12|1983|second third fourth and fifth year leys|16-June-1983||diary record|cut
+W/RN/12|1983|second third fourth and fifth year leys|24-Aug-1983||diary record|cut
+W/RN/12|1984|w oats|19-Oct-1983||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1984|w oats|19-Oct-1983||diary record|treatment FYM and straw applied
+W/RN/12|1984|w oats|19-Oct-1983||diary record|sugar beet tops spread over arable plots
+W/RN/12|1984|w oats|19-Oct-1983||diary record|ploughed
+W/RN/12|1984|w oats|20-Oct-1983||diary record|Half PK and Mg applied to FERT - FYM
+W/RN/12|1984|w oats|20-Oct-1983||diary record|All PK and Mg applied to FERT - STR and STRAW plots only
+W/RN/12|1984|w oats|20-Oct-1983||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1984|w oats|21-Oct-1983||diary record|weedkiller applied, Methabenzthiazuron at 2.4 kg in 250 l 
+W/RN/12|1984|w oats|3-Apr-1984||diary record|N applied, N at 90 kg as 'Nitro-chalk'
+W/RN/12|1984|w oats|3-Aug-1984||diary record|combine harvested
+W/RN/12|1984|sugar beet|30-Sept-1983||diary record|ground Chalk applied, at 5.0 t
+W/RN/12|1984|sugar beet|20-Oct-1983||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1984|sugar beet|20-Oct-1983||diary record|treatment FYM and straw applied
+W/RN/12|1984|sugar beet|21-Oct-1983||diary record|ploughed
+W/RN/12|1984|sugar beet|11-Nov-1983||diary record|PK applied to STRAW plots
+W/RN/12|1984|sugar beet|15-Nov-1983||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1984|sugar beet|15-Nov-1983||diary record|All PK and Mg applied to FERT - STR plots
+W/RN/12|1984|sugar beet|15-Nov-1983||diary record|All Mg applied to STRAW plots
+W/RN/12|1984|sugar beet|14-Dec-1983||diary record|Heavy spring-tine cultivated
+W/RN/12|1984|sugar beet|3-Apr-1984||diary record|N applied, N at 150 kg as 'Nitro-Chalk'
+W/RN/12|1984|sugar beet|3-Apr-1984||diary record|spring-tine cultivated
+W/RN/12|1984|sugar beet|4-Apr-1984||diary record|spring-tine cultivated with crumbler attached, seed sown
+W/RN/12|1984|sugar beet|16-May-1984|18-May-1984|diary record|singled
+W/RN/12|1984|sugar beet|31-May-1984||diary record|Tractor hoed
+W/RN/12|1984|sugar beet|11-June-1984||diary record|Tractor hoed
+W/RN/12|1984|sugar beet|11-June-1984|12-July-1984|diary record|hand hoed
+W/RN/12|1984|sugar beet|29-June-1984|4-July-1984|diary record|hand hoed
+W/RN/12|1984|sugar beet|29-June-1984||diary record|insecticide applied, demeton-s-methyl at 0.24 kg in 250 l
+W/RN/12|1984|sugar beet|26-Oct-1984||diary record|lifted
+W/RN/12|1984|third fourth fifth and sixth year leys|20-Oct-1983||diary record|PK applied to 4th and 6th years, P205 at 140 kg, K20 at 280 kg as (0:18:36) 
+W/RN/12|1984|third fourth fifth and sixth year leys|20-Oct-1983||diary record|Mg applied to 4th and 6th years, MgO at 50 kg as kieserite
+W/RN/12|1984|third fourth fifth and sixth year leys|15-Nov-1983||diary record|PK applied to 3rd and 5th years, P205 at 140 kg, K20 at 280 kg as (0:18:36) 
+W/RN/12|1984|third fourth fifth and sixth year leys|15-Nov-1983||diary record|Mg applied to 3rd and 5th years, MgO at 50 kg as kieserite
+W/RN/12|1984|third fourth fifth and sixth year leys|12-June-1984||diary record|cut
+W/RN/12|1984|third fourth fifth and sixth year leys|10-Sept-1984||diary record|cut
+W/RN/12|1985|w oats s oats|5-Nov-1984||diary record|sugar beet tops spread over arable plots
+W/RN/12|1985|w oats s oats|5-Nov-1984||diary record|PK and Mg applied to FERT - FYM
+W/RN/12|1985|w oats s oats|5-Nov-1984||diary record|treatment FYM and STRAW applied, ploughed
+W/RN/12|1985|w oats s oats|5-Nov-1984||diary record|PK and Mg applied to STRAW
+W/RN/12|1985|w oats s oats|5-Nov-1984||diary record|Mg applied to FERT - FYM and FERT - STR
+W/RN/12|1985|w oats s oats|12-Nov-1984||diary record|rotary harrowed, w. oats sown
+W/RN/12|1985|w oats s oats|18-Mar-1985||diary record|spring-tine cultivated
+W/RN/12|1985|w oats s oats|20-Mar-1985||diary record|power harrowed, s. oats sown
+W/RN/12|1985|w oats s oats|24-Apr-1985||diary record|N applied, N at 50 kg as 'Nitro-chalk' (27.5% N)
+W/RN/12|1985|w oats s oats|16-May-1985||diary record|weedkiller applied, mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 l
+W/RN/12|1985|w oats s oats|27-Aug-1985||diary record|combine harvested
+W/RN/12|1985|w rye|20-Sept-1984||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1985|w rye|20-Sept-1984||treatment FYM applied
+W/RN/12|1985|w rye|21-Sept-1984||diary record|ploughed FYM plots only
+W/RN/12|1985|w rye|3-Oct-1984||diary record|treatment STRAW applied
+W/RN/12|1985|w rye|3-Oct-1984||diary record|FERT - FYM, FERT - STR and STRAW ploughed
+W/RN/12|1985|w rye|15-Oct-1984||diary record|PK applied to STRAW plots
+W/RN/12|1985|w rye|16-Oct-1984||diary record|PK and Mg applied. FERT - STR and half PK and Mg applied to FERT - FYM, Mg applied to STRAW
+W/RN/12|1985|w rye|24-Oct-1984||diary record|rotary harrowed, seed sown
+W/RN/12|1985|w rye|24-Apr-1985||diary record|N applied, N at 30 kg as 'Nitro-chalk' (27.5% N)
+W/RN/12|1985|w rye|16-May-1985||diary record|weedkiller applied, mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 l
+W/RN/12|1985|w rye|27-Aug-1985||diary record|combine harvested
+W/RN/12|1985|fourth fifth sixth and seventh year leys|5-Nov-1984||diary record|PK applied to 4th and 6th years, P205 at 140 kg, K20 at 280 kg as (0:18:36)
+W/RN/12|1985|fourth fifth sixth and seventh year leys|5-Nov-1984||diary record|Mg applied to 4th and 6th years, MgO at 50 kg as kieserite
+W/RN/12|1985|fourth fifth sixth and seventh year leys|9-Nov-1984||diary record|PK applied to 5th and 7th years, P205 at 140 kg, K20 at 280 kg as (0:18:36) 
+W/RN/12|1985|fourth fifth sixth and seventh year leys|9-Nov-1984||diary record|Mg applied to 5th and 7th years, MgO at 50 kg as kieserite
+W/RN/12|1985|fourth fifth sixth and seventh year leys|12-Apr-1985||diary record|chain harrowed
+W/RN/12|1985|fourth fifth sixth and seventh year leys|2-July-1985||diary record|cut
+W/RN/12|1985|fourth fifth sixth and seventh year leys|11-Nov-1985||diary record|cut
+W/RN/12|1986|s oats|4-Dec-1985||diary record|ploughed
+W/RN/12|1986|s oats|10-Apr-1986||diary record|rotary harrowed, seed sown
+W/RN/12|1986|s oats|30-Apr-1986||diary record|N applied, N at 90 kg as Nitram
+W/RN/12|1986|s oats|30-May-1986||diary record|weedkiller and Fungicide applied, Clopyralid at 0.05 kg with bromoxynil octanoate at 0.24 kg and mecoprop at 1.8 kg plus Tridemorph at 0.56 kg in 250 l
+W/RN/12|1986|s oats|14-Aug-1986||diary record|combine harvested
+W/RN/12|1986|w rye|7-Oct-1985||diary record|Half PK and Mg applied to FERT - FYM plots
+W/RN/12|1986|w rye|7-Nov-1985||diary record|treatment FYM and STRAW applied
+W/RN/12|1986|w rye|7-Nov-1985||diary record|all plots ploughed
+W/RN/12|1986|w rye|7-Nov-1985||diary record|remaining PK applied to FERT - FYM
+W/RN/12|1986|w rye|7-Nov-1985||diary record|PK applied to FERT - STRAW, PK applied to STRAW plots
+W/RN/12|1986|w rye|8-Nov-1985||diary record|rolled
+W/RN/12|1986|w rye|8-Nov-1985||diary record|Mg applied to FERT - FYM, FERT - STRAW and STRAW plots
+W/RN/12|1986|w rye|12-Nov-1985||diary record|Heavy spring-tine cultivated
+W/RN/12|1986|w rye|13-Nov-1985||diary record|rotary harrowed, seed sown
+W/RN/12|1986|w rye|30-Apr-1986||diary record|N applied, N at 30 kg as Nitram
+W/RN/12|1986|w rye|29-Aug-1986||diary record|combine harvested
+W/RN/12|1986|fifth sixth seventh and eighth year ley|29-Nov-1985||diary record|PK applied, P205 at 140 kg, K20 at 280 kg as (0:18:36)
+W/RN/12|1986|fifth sixth seventh and eighth year ley|29-Nov-1985||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1986|fifth sixth seventh and eighth year ley|16-June-1986||diary record|all ley cut
+W/RN/12|1986|fifth sixth seventh and eighth year ley|25-July-1986||diary record|6th and 8th year ley topped
+W/RN/12|1986|fifth sixth seventh and eighth year ley|12-Nov-1986||diary record|5th and 7th year ley cut
+W/RN/12|1987|w wheat|25-July-1986||diary record|After leys only ploughed and rolled
+W/RN/12|1987|w wheat|28-Aug-1986||diary record|subsoiled, with 25 cm wings on tines 30 cm deep and 70 cm apart, in two directions at right angles
+W/RN/12|1987|w wheat|16-Sept-1986||diary record|All wheat plots glyphosate applied, glyphosate at 1.4 kg in 200 l
+W/RN/12|1987|w wheat|18-Sept-1986||diary record|Methiocarb applied, methiocarb at 0.22 kg
+W/RN/12|1987|w wheat|24-Sept-1986||diary record|ploughed plots after oats
+W/RN/12|1987|w wheat|24-Sept-1986||diary record|PK applied, (0:18:36) at 560 kg
+W/RN/12|1987|w wheat|24-Sept-1986||diary record|insecticide applied, Carbofuran at 7.5 kg
+W/RN/12|1987|w wheat|24-Sept-1986||diary record|rotary harrowed with crumbler attached
+W/RN/12|1987|w wheat|25-Sept-1986||diary record|seed sown
+W/RN/12|1987|w wheat|9-Oct-1986||diary record|chlortoluron applied, chlortoluron at 5.6 kg in 200 l
+W/RN/12|1987|w wheat|14-Apr-1987||diary record|Clopyralid, bromoxynil and mecoprop applied, Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 240 l
+W/RN/12|1987|w wheat|16-Apr-1987||diary record|N treatment applied
+W/RN/12|1987|w wheat|21-Apr-1987||diary record|Manganese, Mn at 0.16 kg as manganese sulphate in 240 l applied with the prochloraz, carbendazim and growth regulator
+W/RN/12|1987|w wheat|21-Apr-1987||diary record|prochloraz, carbendazim and chlormequat applied, Prochloraz at 0.34 kg with carbendazim at 0.13 kg and Chlormequat chloride at 1.1 kg in 240 l.
+W/RN/12|1987|w wheat|5-June-1987||diary record|Fenpropimorph and chlorothalonil applied, Fenpropimorph at 0.75 kg with chlorothalonil at 0.75 kg in 200 l
+W/RN/12|1987|w wheat|29-June-1987||diary record|propiconazole, carbendazim and maneb applied, propiconazole at 0.12 kg with carbendazim and maneb (as 'Septal' at 2.5 kg) in 200 l
+W/RN/12|1987|w wheat|1-Sept-1987||diary record|combine harvested
+W/RN/12|1987|w oats|25-Sept-1986||diary record|ploughed
+W/RN/12|1987|w oats|2-Oct-1986||diary record|rotary cultivated with crumbler attached, seed sown
+W/RN/12|1987|w oats|27-Apr-1987||diary record|Clopyralid, bromoxynil and mecoprop applied, Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 240 l
+W/RN/12|1987|w oats|5-May-1987||diary record|N applied, N at 90 kg as Nitram
+W/RN/12|1987|w oats|20-Aug-1987||diary record|combine harvested
+W/RN/12|1987|sixth and eighth years leys|10-Mar-1987||diary record|PK applied, (0:18:36) at 780 kg
+W/RN/12|1987|sixth and eighth years leys|10-Mar-1987||diary record|Mg applied, MgO at 50 kg as kieserite
+W/RN/12|1987|sixth and eighth years leys|18-June-1987||diary record|cut
+W/RN/12|1987|sixth and eighth years leys|12-Aug-1987||diary record|cut
+W/RN/12|1988|w wheat|22-Sept-1987||diary record|glyphosate applied, glyphosate at 1.4 kg in 200 l
+W/RN/12|1988|w wheat|6-Oct-1987||diary record|subsoiled, tines 56 cm deep and 142 cm apart
+W/RN/12|1988|w wheat|14-Oct-1987||diary record|ploughed
+W/RN/12|1988|w wheat|21-Oct-1987||diary record|Methiocarb applied, methiocarb at 0.22 kg
+W/RN/12|1988|w wheat|22-Oct-1987||diary record|PK applied, (0:18:36) at 560 kg
+W/RN/12|1988|w wheat|23-Oct-1987||diary record|Carbofuran applied, Carbofuran at 7.5 kg
+W/RN/12|1988|w wheat|23-Oct-1987||diary record|power harrowed, seed sown, harrowed
+W/RN/12|1988|w wheat|26-Apr-1988||diary record|Isoproturon, bromoxynil, ioxynil and mecoprop applied, Isoproturon at 2.1 kg with bromoxynil at 0.20 kg, ioxynil at 0.20 kg and mecoprop at 1.6 kg in 220 l
+W/RN/12|1988|w wheat|27-Apr-1988||diary record|N treatment applied
+W/RN/12|1988|w wheat|5-May-1988||diary record|Manganese applied, Mn at 0.16 kg as manganese sulphate in 220 l
+W/RN/12|1988|w wheat|22-June-1988||diary record|Fungicides applied, propiconazole at 0.12 kg and Tridemorph at 0.25 kg in 220 l
+W/RN/12|1988|w wheat|26-Aug-1988||diary record|combine harvested
+W/RN/12|1988|potatoes|22-Sept-1987||diary record|glyphosate applied, glyphosate at 1.4 kg in 200 l
+W/RN/12|1988|potatoes|24-Feb-1988||diary record|ploughed
+W/RN/12|1988|potatoes|5-Apr-1988||diary record|Heavy spring-tine cultivated
+W/RN/12|1988|potatoes|8-Apr-1988||diary record|PK applied, (0:18:36) at 1400 kg
+W/RN/12|1988|potatoes|14-Apr-1988||diary record|N treatment applied
+W/RN/12|1988|potatoes|20-Apr-1988||diary record|Oxamyl applied, Oxamyl at 5.0 kg
+W/RN/12|1988|potatoes|20-Apr-1988||diary record|spring-tine cultivated
+W/RN/12|1988|potatoes|21-Apr-1988||diary record|rotary harrowed, potatoes planted
+W/RN/12|1988|potatoes|13-May-1988||diary record|rotary ridged
+W/RN/12|1988|potatoes|13-May-1988||diary record|linuron applied, Linuron at 1.5 kg in 220 l
+W/RN/12|1988|potatoes|15-July-1988||diary record|mancozeb applied, mancozeb at 1.4 kg in 220 l
+W/RN/12|1988|potatoes|1-Aug-1988||diary record|mancozeb applied, mancozeb at 1.4 kg in 220 l
+W/RN/12|1988|potatoes|14-June-1988||diary record|mancozeb applied with pirimicarb, mancozeb at 1.4 kg plus pirimicarb at 0.14 kg in 220 l
+W/RN/12|1988|potatoes|5-July-1988||diary record|mancozeb applied with pirimicarb, mancozeb at 1.4 kg plus pirimicarb at 0.14 kg in 220 l
+W/RN/12|1988|potatoes|15-Aug-1988||diary record|mancozeb applied with pirimicarb, mancozeb at 1.4 kg plus pirimicarb at 0.14 kg in 220 l
+W/RN/12|1988|potatoes|30-Aug-1988||diary record|Fentin hydroxide applied, Fentin hydroxide at 0.28 kg in 220 l
+W/RN/12|1988|potatoes|15-Sept-1988||diary record|desiccant applied, Diquat at 0.80 kg ion in 400 l
+W/RN/12|1988|potatoes|29-Sept-1988||diary record|Haulm mechanically destroyed
+W/RN/12|1988|potatoes|19-Oct-1988||diary record|potatoes lifted
+W/RN/12|1989|potatoes|28-Oct-1988||diary record|Magnesian limestone applied, at 5.0 t
+W/RN/12|1989|potatoes|9-Dec-1988||diary record|ploughed
+W/RN/12|1989|potatoes|3-Jan-1989||diary record|Kieserite applied, Kieserite at 680 kg
+W/RN/12|1989|potatoes|4-Jan-1989||diary record|PK applied, (0:18:36) at 1380 kg
+W/RN/12|1989|potatoes|4-May-1989||diary record|spring-tine cultivated
+W/RN/12|1989|potatoes|5-May-1989||diary record|N applied
+W/RN/12|1989|potatoes|6-May-1989||diary record|nematicide applied, Oxamyl at 5 kg
+W/RN/12|1989|potatoes|9-May-1989||diary record|rotary cultivated, seed planted
+W/RN/12|1989|potatoes|25-May-1989||diary record|weedkiller applied, Linuron at 1.2 kg in 220 l
+W/RN/12|1989|potatoes|6-July-1989||diary record|mancozeb applied, mancozeb at 1.4 kg in 220 l
+W/RN/12|1989|potatoes|17-July-1989||diary record|mancozeb applied, mancozeb at 1.4 kg in 220 l
+W/RN/12|1989|potatoes|18-July-1989||diary record|mancozeb applied, mancozeb at 2.0 kg in 220 l
+W/RN/12|1989|potatoes|16-Aug-1989||diary record|mancozeb applied, mancozeb at 2.0 kg in 220 l
+W/RN/12|1989|potatoes|31-Aug-1989||diary record|Fentin hydroxide applied, Fentin hydroxide at 0.28 kg in 220 l
+W/RN/12|1989|potatoes|25-Sept-1989||diary record|desiccant applied, undiluted sulphuric acid at 280 l
+W/RN/12|1989|potatoes|6-Oct-1989||diary record|lifted
+W/RN/12|1989|w wheat|27-Oct-1988||diary record|ploughed
+W/RN/12|1989|w wheat|28-Oct-1988||diary record|Magnesian limestone applied, at 5.0 t
+W/RN/12|1989|w wheat|29-Oct-1988||diary record|Molluscicide applied, methiocarb at 0.20 kg
+W/RN/12|1989|w wheat|31-Oct-1988||diary record|PK applied, (0:18:36) at 560 kg/ha
+W/RN/12|1989|w wheat|31-Oct-1988||diary record|nematicide applied, Carbofuran at 7.5 kg
+W/RN/12|1989|w wheat|31-Oct-1988||diary record|spring-tine cultivated
+W/RN/12|1989|w wheat|31-Oct-1988||diary record|seed sown with molluscide
+W/RN/12|1989|w wheat|31-Oct-1988||diary record|molluscide, methiocarb at 0.20 kg 
+W/RN/12|1989|w wheat|28-Apr-1989||diary record|weedkiller applied, mecoprop at 2.5 kg with bromoxynil at 0.34 kg and clopyralid at 0.07 kg in 220 
+W/RN/12|1989|w wheat|29-Apr-1989||diary record|Mn applied, Mn at 0.096 kg as manganese sulphate in 220 l
+W/RN/12|1989|w wheat|22-May-1989||diary record|Mn applied, Mn at 0.096 kg as manganese sulphate in 220 l
+W/RN/12|1989|w wheat|2-May-1989||diary record|N applied
+W/RN/12|1989|w wheat|17-May-1989||diary record|Prochloraz, carbendazim and growth regulator applied, Prochloraz at 0.40 kg and carbendazim at 0.15 kg with Chlormequat chloride at 1.6 kg in 220 l
+W/RN/12|1989|w wheat|5-June-1989||diary record|propiconazole applied, propiconazole at 0.12 kg in 220 
+W/RN/12|1989|w wheat|3-July-1989||diary record|Fenpropimorph, carbendazim and maneb applied, Fenpropimorph at 0.75 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 220 l
+W/RN/12|1989|w wheat|8-Aug-1989||diary record|combine harvested
+W/RN/12|1990|w wheat|20-Oct-1989||diary record|ploughed
+W/RN/12|1990|w wheat|30-Oct-1989||diary record|Carbofuran applied, Carbofuran at 7.5 kg
+W/RN/12|1990|w wheat|30-Oct-1989||diary record|spring-tine cultivated
+W/RN/12|1990|w wheat|31-Oct-1989||diary record|PK applied, (0:18:36) at 560 kg
+W/RN/12|1990|w wheat|1-Nov-1989||diary record|seed sown
+W/RN/12|1990|w wheat|1-Nov-1989||diary record|methiocarb at 0.20 kg applied with seed
+W/RN/12|1990|w wheat|27-Mar-1990||diary record|N applied
+W/RN/12|1990|w wheat|24-Apr-1990||diary record|weedkiller applied, bromoxynil at 0.34 kg and clopyralid at 0.07 kg with isoproturon at 2.1 kg and fluroxypyr at 0.15 kg in 220 l
+W/RN/12|1990|w wheat|22-May-1990||diary record|Fungicides applied, propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 300 l
+W/RN/12|1990|w wheat|3-Aug-1990||diary record|combine harvested
+W/RN/12|1990|w beans|13-Sept-1989||diary record|subsoiled with tines, 50 cm apart and 40 cm deep
+W/RN/12|1990|w beans|15-Sept-1989||diary record|disced
+W/RN/12|1990|w beans|19-Sept-1989||diary record|PK applied, (0:24:24) at 420 kg
+W/RN/12|1990|w beans|19-Sept-1989||diary record|K applied, muriate of potash at 170 kg
+W/RN/12|1990|w beans|10-Oct-1989||diary record|paraquat applied, paraquat at 0.80 kg ion in 220 
+W/RN/12|1990|w beans|11-Oct-1989||diary record|disced
+W/RN/12|1990|w beans|13-Oct-1989||diary record|seed Broadcast by drill, ploughed in and rolled
+W/RN/12|1990|w beans|15-Oct-1989||diary record|Propyzamide and simazine applied, Propyzamide at 0.85 kg with simazine at 0.85 kg in 220 l
+W/RN/12|1990|w beans|5-Apr-1990||diary record|Mn applied, Manganese at 0.19 kg in 220 
+W/RN/12|1990|w beans|23-Apr-1990||diary record|Deltamathrin applied, Deltamathrin at 7.5 g in 220 l
+W/RN/12|1990|w beans|18-May-1990||diary record|Deltamathrin applied, Deltamathrin at 7.5 g in 220 l
+W/RN/12|1990|w beans|11-July-1990||diary record|Fenpropimorph applied, Fenpropimorph at 0.75 kg in 220 l
+W/RN/12|1990|w beans|10-Aug-1990||diary record|combine harvested
+W/RN/12|1991|w beans|10-Sept-1990||diary record|glyphosate applied, glyphosate at 0.54 kg in 220 l
+W/RN/12|1991|w beans|27-Sept-1990||diary record|P and K applied, (0:16:36) at 560 kg
+W/RN/12|1991|w beans|12-Oct-1990||diary record|disced
+W/RN/12|1991|w beans|23-Oct-1990||diary record|seed broadcast, ploughed
+W/RN/12|1991|w beans|21-Nov-1990||diary record|remaining weedkiller applied, Simazine at 0.14 kg and triatazine at 0.97 kg in 220 l
+W/RN/12|1991|w beans|9-May-1991||diary record|Manganese applied, Manganese at 0.16 kg in 300 l
+W/RN/12|1991|w beans|10-May-1991||diary record|Azinphos-methyl and demeton-s-methyl sulphone applied, Azinphos-mathyl at 0.28 kg and demeton-s-methyl sulphone at 0.085 kg in 400 l
+W/RN/12|1991|w beans|10-July-1991||diary record|Chlorothalonil and pirimicarb applied, Chlorothalonil at 1.5 kg with pirimicarb at 0.14 kg in 300 l
+W/RN/12|1991|w beans|3-Sept-1991||diary record|combine harvested
+W/RN/12|1991|w wheat|10-Sept-1990||diary record|glyphosate applied, glyphosate at 0.54 kg in 220 l
+W/RN/12|1991|w wheat|19-Sept-1991||diary record|ploughed
+W/RN/12|1991|w wheat|27-Sept-1991||diary record|P and K applied, (0:16:36) at 560 kg
+W/RN/12|1991|w wheat|27-Sept-1991||diary record|rotary harrowed with crumbler attached, seed sown
+W/RN/12|1991|w wheat|8-Nov-1990||diary record|Diflufenican, isoproturon and deltamathrin applied, Diflufenican at 0.10 kg and isoproturon at 1.0 kg with Deltamathrin at 5.0 g in 220 l
+W/RN/12|1991|w wheat|30-Nov-1990||diary record|mecoprop and deltamathrin applied, mecoprop at 0.80 kg with Deltamathrin at 5.0 g in 220 l
+W/RN/12|1991|w wheat|4-Apr-1991||diary record|nitrogen treatment applied
+W/RN/12|1991|w wheat|24-May-1991||diary record|Fenpropimorph applied, Fenpropimorph at 0.38 kg in 210 l
+W/RN/12|1991|w wheat|19-May-1991||diary record|Manganese applied, Manganese at 0.16 kg in 300 l
+W/RN/12|1991|w wheat|20-June-1991||diary record|Fenpropimorph, chlorothalonil and flutriafol applied, Fenpropimorph at 0.38 kg with chlorothalonil at 0.49 kg and flutriafol at 0.078 kg in 300 l
+W/RN/12|1991|w wheat|22-Aug-1991||diary record|combine harvested

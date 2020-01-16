@@ -1,0 +1,225 @@
+W/RN/12|1992||18-Sep-1991|CROPSEQ WHEAT 1: beans straw baled and carted.|T
+W/RN/12|1992||25-Sep-1991|ploughed.|B
+W/RN/12|1992||02-Oct-1991|rolled.|B
+W/RN/12|1992||03-Oct-1991|PK as (0:16:36) at 560 kg. Rotary harrowed, Mercia drilled at 140 kg.|B
+W/RN/12|1992||30-Oct-1991|Stomp 400 at 2.5 1, Arelon WDG at 0.75 kg and Decis at 0.20 1 in 200 1.|B
+W/RN/12|1992||18-Mar-1992|Vytel Liquid chelated Manganese (chelated Mn as Mn EDTA in solution equivalent to 6.4% w/v Mn) at 2.5 1 in  200 1.|B
+W/RN/12|1992||01-Apr-1992|Duplosan new System CMPP at 1.5 1 in 200 1.|B
+W/RN/12|1992||09-Apr-1992|N 50, 100, 150, 200 and 250 applied as 27% N.|T
+W/RN/12|1992||03-May-1992|Dorin at 1.0 1 in 300 1.|B
+W/RN/12|1992||09-Jun-1992|Impact Excel at 2.0 1 in 200 1.|B
+W/RN/12|1992||01-Aug-1992|CROPSEQ WHEAT 2: combine harvested.|T
+W/RN/12|1992||01-Sep-1992|CROPSEQ WHEAT 1: combine harvested.|T
+W/RN/12|1993||11-Aug-1992|CROPSEQ WHEAT 3: subsoiled to 45 cm with tines 1.5 m apart.|T
+W/RN/12|1993||05-Oct-1992|ploughed.|B
+W/RN/12|1993||06-Oct-1992|PK as (0:18:36) at 560 kg.|B.
+W/RN/12|1993||07-Oct-1992|rotary harrowed, Mercia, dressed Cerevax, drilled at 380 seed per square metre.|B
+W/RN/12|1993||13-Apr-1993|N 50, 100, 150, 200 and 250 applied as 27% N.|T
+W/RN/12|1993||15-Apr-1993|ally at 30 g and new SC Cycocel at 2.5 1 in 200 1.|B
+W/RN/12|1993||01-Jun-1993|Baylaton at 0.50 kg and Mistral at 0.50 1 in 200 l.|B
+W/RN/12|1993||19-Aug-1993|Roundup at 5.3 1 in 200 1.|B
+W/RN/12|1993||25-Aug-1993|combine harvested.|B
+W/RN/12|1994||10-Sep-1993|ploughed.|B
+W/RN/12|1994||16-Oct-1993|rotary harrowed, Mercia, dressed Panoctine, drilled at 325 seed per m2.|B
+W/RN/12|1994||11-Apr-1994|N 50, 100, 150, 200, 250 applied as 27% N.|T
+W/RN/12|1994||01-May-1994|Oxytril CM at 1.5 1 with Duplosan new System CMPP at 2.0 1 and Halo at 1.5 1 in 200 1.|B
+W/RN/12|1994||24-May-1994|Vytel Liquid chelated Manganese (chelated Mn as Mn EDTA in solution equivalent to 6.4% w/v Mn) at 1.5 1 in  200 1.|B
+W/RN/12|1994||30-May-1994|Cyclone at 1.0 1 with Mistral at 0.5 1 in 200 1.|B
+W/RN/12|1994||14-Jun-1994|Hostathion at 0.84 1 in 200 1.|B
+W/RN/12|1994||21-Aug-1994|CROPSEQ WHEAT 4: combine harvested.|T
+W/RN/12|1994||22-Aug-1994|CROPSEQ WHEAT 3: combine harvested.|2
+W/RN/12|1995||09-Sep-1994|Dolomite at 7.5 t.|B
+W/RN/12|1995||26-Sep-1994|Barclay Gallup at 4.0 1 in 200 1.|B
+W/RN/12|1995||03-Oct-1994|ploughed.|B
+W/RN/12|1995||07-Oct-1994|rotary harrowed, Mercia, dressed Rappor, drilled at 300 seed per m2.|B
+W/RN/12|1995||28-Nov-1994|Panther at 2.0 1 with Decis at 0.20 1 in 200 1.|B
+W/RN/12|1995||21-Apr-1995|34.5% N at 290 kg.|B
+W/RN/12|1995||28-Apr-1995|Halo at 2.0 1 in 200 1.|B
+W/RN/12|1995||01-Jun-1995|Cyclone at 1.0 1 with Mallard at 0.30 1 in 200 1.|B
+W/RN/12|1995||29-Jun-1995|pirimicarb 50 DG at 280 g in 300 1.|B
+W/RN/12|1995||03-Aug-1995|combine harvested.|B
+W/RN/12|1996||15-Sep-1995|ploughed.|B
+W/RN/12|1996||23-Sep-1995|rolled.|B
+W/RN/12|1996||03-Oct-1995|rotary harrowed, Mercia, dressed Sibutol, drilled at 375 seed per m2.|B
+W/RN/12|1996||13-Nov-1995|Panther at 2.0 1 in 200 1.|B
+W/RN/12|1996||02-Apr-1996|Vytel Manganese at 3.0 1 in 300 1.|B
+W/RN/12|1996||16-Apr-1996|34.5% N at 290 kg.|B
+W/RN/12|1996||30-Apr-1996|Halo at 1.5 1 in 200 1.|B
+W/RN/12|1996||06-Jun-1996|Silvacur at 1.0 1 in 300 1.|B
+W/RN/12|1996||17-Aug-1996|combine harvested.|B
+W/RN/12|1997||27-Sep-1996|ploughed.|B
+W/RN/12|1997||28-Sep-1996|rolled.|B
+W/RN/12|1997||30-Sep-1996|PK as (0:20:32) at 500 kg.|B
+W/RN/12|1997||01-Oct-1996|rotary harrowed, Manod, dressed Baytan Flowable, drilled at 400 seeds per m2.|B
+W/RN/12|1997||11-Dec-1996|Stomp 400 SC at 3.3 1 in 200 1.|B
+W/RN/12|1997||04-Jun-1997|Mistral at 1.0 l in 300 1.|B
+W/RN/12|1997||12-Aug-1997|combine harvested.|B
+W/RN/12|1998||17-Sep-1997|ploughed. rolled.|3
+W/RN/12|1998||29-Sep-1997|PK as (0:20:32) at 500 kg.|B
+W/RN/12|1998||30-Sep-1997|rotary harrowed, Hereward, dressed Sibutol, drilled at 385 seeds per m2.|B
+W/RN/12|1998||13-Nov-1997|Stomp 400 SC at 2.0 1 with Isoproturon 500 at 1.0 1 and Cyperkill 10 at 0.25 1 in 200 l.|B
+W/RN/12|1998||19-Mar-1998|Mn and Cu as Phosyn Manganese at 2.0 1 with Profol Copper at 0.25 1 in 200 1.|B
+W/RN/12|1998||31-Mar-1998|34.5% N at 278 kg.|B
+W/RN/12|1998||04-May-1998|Alto 100 SL at 0.6 1 in 200 1.|B
+W/RN/12|1998||29-May-1998|Ally at 15 g in 200 1.|B:
+W/RN/12|1998||31-May-1998|Opus at 0.8 1 in 200 1.|B
+W/RN/12|1998||12-Jun-1998|Folicur at 0.3 1 with Bavistin DF at 0.3 kg in 200 1.|B
+W/RN/12|1998||02-Aug-1998|Roundup Biactive at 3.0 1 in 200 1.|B
+W/RN/12|1998||12-Aug-1998|combine harvested.|B
+W/RN/12|1999||27-Aug-1938|ploughed.|B
+W/RN/12|1999||29-Aug-1998|rolled.|B:
+W/RN/12|1999||19-Sep-1998|PK as (0:24:24) at 217 kg. muriate of potash at 52 kg|B:
+W/RN/12|1999||12-Oct-1998|Rotary harrowed. drilled, Hereward, tr. Sibutol, at 380 seeds/m2 with the Accord drill.|B:
+W/RN/12|1999||25-Feb-1999|Platform S at 1.0 kg with Isogard at 2.0 1 in 2001.|B:
+W/RN/12|1999||03-Apr-1999|34.5% N at 278 kg.|B:
+W/RN/12|1999||25-Apr-1999|Tripart Brevis at 2.0 1 with Folicur at 0.5 1 in 200 1.|B:
+W/RN/12|1999||27-May-1999|Folicur at 0.75 1 with Sipcam UK clover 500 at 1.0 1 in 200 1.|B:
+W/RN/12|1999||22-Aug-1999|combine harvested.|B:
+W/RN/12|2000||13-Sep-1999|Potassium sulphate at 200 kg. Triple superphosphate at 106 kg.|B:
+W/RN/12|2000||14-Sep-1999|ploughed,|:
+W/RN/12|2000||17-Sep-1999|rolled.|:
+W/RN/12|2000||03-Oct-1999|Spring-tine cultivated.|B:
+W/RN/12|2000||04-Oct-1999|Rotary harrowed. drilled, Hereward, tr. Sibutol, at 380 seeds/m2 with the Accord drill.|B:
+W/RN/12|2000||11-Nov-1999|Hallmark at 100 ml in 100 1.|B:
+W/RN/12|2000||31-Dec-1999|Panther at 2.0 1 in 200 1.|B:
+W/RN/12|2000||21-Mar-2000|tm) ally at 30 g in 200 1.
+W/RN/12|2000||21-Mar-2000|tm) Topik at 125 ml in 200 1.
+W/RN/12|2000||21-Mar-2000|tm) Cropoil at 1.0 1 in 200 1.|B:
+W/RN/12|2000||11-Apr-2000|34.5% N at 278 kg.|B:
+W/RN/12|2000||30-Apr-2000|tm) Marshland Liquid Manganese complex at 2.0 1 in 200 1|B:
+W/RN/12|2000||30-Apr-2000|tm) Opus at 0.3 1 in 200 1.
+W/RN/12|2000||30-Apr-2000|tm) BASF 3C Chlormequat 720 at 2.0 1 in 200 1.|B:
+W/RN/12|2000||20-May-2000|Opus at 0.75 1 in 200 1.|B:
+W/RN/12|2000||20-Aug-2000|combine harvested,|B:
+W/RN/12|2000||25-Aug-2000|straw baled and carted.|B:
+W/RN/12|2001||01-Sep-2000|Potassium sulphate at 200 kg.|B
+W/RN/12|2001||01-Sep-2000|Triple superphosphate at 106 kg.|B
+W/RN/12|2001||03-Sep-2000|Azural at 4.0 1 in 200 1.|B:
+W/RN/12|2001||26-Sep-2000|ploughed.|:
+W/RN/12|2001||04-Oct-2000|rotary harrowed.|B
+W/RN/12|2001||04-Oct-2000|WW drilled, Claire, tr. Sibutol + Rhodoman, at 350 seeds/m2, with the 4.0 m Accord drill.|B
+W/RN/12|2001||20-Oct-2000|Avadex Excel 15 g at 15.0 kg.|B
+W/RN/12|2001||18-Jan-2001|tm) Stomp 400 SC at 2.0 1 in 200 l.|B:
+W/RN/12|2001||18-Jan-2001|tm) Tolkan liquid at 1.01 in 200 l.|B:
+W/RN/12|2001||29-Mar-2001|Nl 33.5% N at 119 kg.|T
+W/RN/12|2001||29-Mar-2001|N2 33.5% N at 119 kg.|T
+W/RN/12|2001||O8-May-2001|tm) Landmark at 0.5 1 in 200 l.|B
+W/RN/12|2001||O8-May-2001|tm) BASF 3C Chlormequat 720 at 2.0 1 in 200 1.|B
+W/RN/12|2001||O8-May-2001|Harmony M at 75 g in 200 l.|B
+W/RN/12|2001||11-May-2001|N1 33.5% N at 238 kg.|:
+W/RN/12|2001||11-May-2001|N2 33.5% N at 238 kg.|:
+W/RN/12|2001||18-May-2001|N2 topped up with 119 kg|:
+W/RN/12|2001||0l-Jun-2001|Landmark at 0.7 1 in 200 1.|B:
+W/RN/12|2001||06-Jun-2001|N1 33.5% N at 119 kg.|T
+W/RN/12|2001||06-Jun-2001|N2 33.5% N at 119 kg.|T
+W/RN/12|2001||22-Aug-2001|combine harvested, plots for yield, and discards.|B
+W/RN/12|2001||22-Aug-2001|swathed straw.|B
+W/RN/12|2001||23-Aug-2001|baled.|B
+W/RN/12|2001||06-Sep-2001|carted bales.|B
+W/RN/12|2001||10-Sep-2001|Azural at 4.0 1 in 200 l.|B
+W/RN/12|2002||20-Sep-2001|Sulphate of potash at 200 kg. Triple superphosphate at 106 kg. ploughed.|B
+W/RN/12|2002||21-Sep-2001|rolled.|B
+W/RN/12|2002||22-Sep-2001|drilled, Claire, tr. Sibutol + Aventis Manganese 500, at 300 seeds/m2 with 4.0 m Accord drill.|B
+W/RN/12|2002||13-Oct-2001|Avadex Excel 15g at 15.0 kg.|T
+W/RN/12|2002||16-Nov-2001|tm) Stomp 400 SC at 4.0 1 in 200 l.|B
+W/RN/12|2002||16-Nov-2001|tm) Tolkan liquid at 2.5 1 in 200 l.|B
+W/RN/12|2002||12-Mar-2002|1st N split applied as 33.5% N.|T
+W/RN/12|2002||09-Apr-2002|2nd N split applied as 33.5% N.|T
+W/RN/12|2002||14-Apr-2002|tm) ally at 30 g in 200 l.|B
+W/RN/12|2002||14-Apr-2002|tm) Opus at 0.5 1 in 200 l.|B
+W/RN/12|2002||14-Apr-2002|tm) BASF 3C Chlormequat 720 at 2.0 1 in 200 l.|B
+W/RN/12|2002||08-May-2002|3rd N split applied as 33.5% N.|T
+W/RN/12|2002||27-May-2002|tm) Amistar at 0.8 1 in 200 l.|B
+W/RN/12|2002||27-May-2002|tm) Opus at 0.5 1 in 200 l.|B
+W/RN/12|2002||22-Aug-2002|combine harvested, plots for yield.|T
+W/RN/12|2002||24-Aug-2002|combine harvested all remaining wheat. swathed straw. baled and removed straw.|P
+W/RN/12|2003||19-Sep-2002|CleanCrop Egret at 4.0 1 in 200 l|B:
+W/RN/12|2003||25-Sep-2002|chalk applied at 5.0 t.|B:
+W/RN/12|2003||01-Oct-2002|Ploughed 35cm wide furrows
+W/RN/12|2003||01-Oct-2002|rolled.|B:
+W/RN/12|2003||04-Oct-2002|power harrowed Lc plots.|T
+W/RN/12|2003||04-Oct-2002|rolled Lc plots.|T
+W/RN/12|2003||08-Oct-2002|Power harrowed rye plots. 
+W/RN/12|2003||08-Oct-2002|drilled, Picasso/Nikita mix, tr. Baytan, at 302  seeds/m2 with 4.0 m Accord drill.
+W/RN/12|2003||08-Oct-2002|rolled.|:
+W/RN/12|2003||26-Nov-2002|tm) Lexus Class WSB at 60 g in 200 l.|:
+W/RN/12|2003||26-Nov-2002|tm) Hallmark with Zeon Technology at 25 ml in 200 l.  to rye plots.|:
+W/RN/12|2003||03-Apr-2003|Triple superphosphate at 97.5 (not to Dg25 plots).|T
+W/RN/12|2003||03-Apr-2003|Sulphate of potash at 200 kg (not to Dg25 plots).|T
+W/RN/12|2003||04-Apr-2003|N as 33.5% N applied (not to Dg25, Co or Lc).|T
+W/RN/12|2003||06-May-2003|Opus at 0.75 1 in 200 1 to rye plots.|T
+W/RN/12|2003||07-May-2003|Quantum 75 DF at 20 g in 200 1 to rye plots.|T
+W/RN/12|2003||15-May-2003|Setter 33 at 5.0 1 in 200 1 to Lc plots.|T
+W/RN/12|2003||10-Aug-2003|combine harvested, plots for yield.|T
+W/RN/12|2003||11-Aug-2003|combine harvested all remaining wheat.
+W/RN/12|2003||11-Aug-2003|weighed straw.|T
+W/RN/12|2003||13-Aug-2003|baled straw.|:
+W/RN/12|2004||14-Aug-2003|drilled Albatross, white mustard, at 10 kg with Moore Unidrill to CC plots.|T
+W/RN/12|2004||22-Sep-2003|chopped straw applied at 7.5 t to St plots.|T
+W/RN/12|2004||09-Mar-2004|Compost applied at 40 t to CO plots.|T
+W/RN/12|2004||10-Mar-2004|FYM applied at 25 t to Dg25 plots and at 10 t to Dg10 plots.|T
+W/RN/12|2004||12-Mar-2004|tm) PDOQ at 5.5 1 in 200 l|B
+W/RN/12|2004||12-Mar-2004|tm) Enhance Low Foam at 100 ml in 200 l.|B
+W/RN/12|2004||22-Mar-2004|ploughed 35cm wide furrows|B
+W/RN/12|2004||12-Apr-2004|power harrowed.|B
+W/RN/12|2004||12-Apr-2004|drilled, Optic, tr. Sibutol, at 400 seeds/m2 with  4.0 m Accord drill.|B
+W/RN/12|2004||12-Apr-2004|rolled.|B
+W/RN/12|2004||07-May-2004|nitrogen treatment applied as Nitro-chalk 27% N by hand.|T
+W/RN/12|2004||24-May-2004|Sulphate of potash at 200 kg (not to Dg25)
+W/RN/12|2004||24-May-2004|Triple Superphosphate at 97.5 kg (not to Dg25).|:
+W/RN/12|2004||02-Jun-2004|Harmony M at 60 g in 200 1 to barley plots.|B
+W/RN/12|2004||03-Jun-2004|tm) Opus at 0.4 1 in 200 1 to barley plots.
+W/RN/12|2004||03-Jun-2004|tm) Acanto at 0.5 1 in 200 1 to barley plots.|B
+W/RN/12|2004||06-Jul-2004|cut, samples and weighed grass/clover, Lc plots only.|:
+W/RN/12|2004||14-Jul-2004|Mowed Lc plots.|T
+W/RN/12|2004||15-Jul-2004|Turned hay Lc plots.|T
+W/RN/12|2004||17-Jul-2004|Turned hay Lc plots.|T
+W/RN/12|2004||19-Jul-2004|Turned hay Lc plots.|T
+W/RN/12|2004||20-Jul-2004|harrowed up hay and baled Lc plots.|T
+W/RN/12|2004||04-Sep-2004|harvested, barley plots for yield.
+W/RN/12|2004||04-Sep-2004|swathed straw.|:
+W/RN/12|2004||08-Aug-2004|baled straw.|:
+W/RN/12|2005||09-Sep-2004|chopped straw applied at 7.5 t to St plots.|T
+W/RN/12|2005||11-Nov-2004|glyphosate 360 at 4.0 1 in 200 l.|B
+W/RN/12|2005||17-Nov-2004|Compost applied at 40 t to CO plots.|T
+W/RN/12|2005||17-Nov-2004|FYM applied at 25 t to Dg25 plots and at 10 t to  Dg10 plots.|T
+W/RN/12|2005||23-Nov-2004|Clipper broadcast at 30 seeds/m2, to bean plots.|B
+W/RN/12|2005||24-Nov-2004|ploughed 35cm wide furrows, to bean plots.|B
+W/RN/12|2005||07-May-2005|Sulphate of potash at 200 kg (not to Dg25)|:
+W/RN/12|2005||07-May-2005|Triple Superphosphate at 97.5 kg (not to Dg25).|:
+W/RN/12|2005||11-May-2005|tm) Bravo 500 at 1.0 1 in 200 1 to bean plots.|B
+W/RN/12|2005||11-May-2005|tm) Folicur at 0.5 1 in 200 1 to bean plots.
+W/RN/12|2005||11-May-2005|tm) Hallmark with Zeon Technology at 0.75 1 in 200 1  to bean plots.|B
+W/RN/12|2005||13-Jul-2005|1st cut yield strips Lc plots only, weighed and sampled.|
+W/RN/12|2005||01-Aug-2005|topped, Lc plots only.|T
+W/RN/12|2005||03-Sep-2005|Combine harvested, bean plots for yield, swathed straw.|:
+W/RN/12|2005||03-Sep-2005|combine harvested discards, swathed straw.|T
+W/RN/12|2005||08-Sep-2005|baled straw.|TT
+W/RN/12|2005||20-Dec-2005|2nd cut yield strips Lc plots only, weighed and sampled.|
+W/RN/12|2005||21-Dec-2005|Discards mown and removed.|
+W/RN/12|2006||21-Sep-2005|Azural at 3.0 1 in 200 l.|B:
+W/RN/12|2006||11-Oct-2005|chopped wheat straw applied at 7.5 t to St plots.
+W/RN/12|2006||11-Oct-2005|Compost applied at 40 t to CO plots.|T
+W/RN/12|2006||11-Oct-2005|FYM applied at 25 t to Dg25 plots and at 10 t to  Dg10 plots.|T
+W/RN/12|2006||11-Oct-2005|ploughed 35cm wide furrows and rolled wheat plots.|T
+W/RN/12|2006||14-Oct-2005|Power harrowed.|B:
+W/RN/12|2006||15-Oct-2005|power harrowed, combination drilled Hereward, tr. Sibutol Secur at 350 seeds/m2, wheat plots.|B
+W/RN/12|2006||13-Nov-2005|tm) Alpha IPU 500 at 2.0 1 in 200 l
+W/RN/12|2006||13-Nov-2005|tm) Stomp 400 SC at 2.5 1 in 200 l
+W/RN/12|2006||13-Nov-2005|tm) Hallmark with Zeon Technology at 50 ml in 200 1
+W/RN/12|2006||13-Nov-2005|tm) Mantrac 500 at 1.01 in 200 1, to wheat plots.|B:
+W/RN/12|2006||01-Mar-2006|Sulphate of potash at 200 kg (not to Dg25)|:
+W/RN/12|2006||01-Mar-2006|Triple Superphosphate at 97.5 kg (not to Dg25).|:
+W/RN/12|2006||13-Mar-2006|1st N applied as 27% N to wheat plots.|
+W/RN/12|2006||20-Apr-2006|Main N dressing applied as 27% N to wheat plots.|
+W/RN/12|2006||24-Apr-2006|tm) Bravo 500 at 1.25 1 in 200 1|B:
+W/RN/12|2006||24-Apr-2006|tm) Opus at 0.75 1 in 200 1
+W/RN/12|2006||24-Apr-2006|tm) Mantrac 500 at 1.25 1 in 200 1 to wheat plots.|B:
+W/RN/12|2006||16-May-2006|tm) Quantum SX at 30 g in 200 l
+W/RN/12|2006||16-May-2006|tm) Copper man at 2.0 kg in 200 1 to wheat plots.|
+W/RN/12|2006||07-Jun-2006|tm) Bravo 500 at 1.0 1 in 200 1|B
+W/RN/12|2006||07-Jun-2006|tm) Opus at 0.75 1 in 200 1
+W/RN/12|2006||07-Jun-2006|tm) Vivid at 0.4 1 in 200 1 to wheat plots.|B
+W/RN/12|2006||28-Jun-2006|1st cut yield strips Lc plots only, weighed and sampled. Mowed discards.|
+W/RN/12|2006||29-Jun-2006|baled.
+W/RN/12|2006||25-Aug-2006|combine harvested, wheat plots for yield, swathed straw. combine harvested discards, swathed straw.|T

@@ -1,0 +1,52 @@
+W/RN/12|1964||23-Sept-1963||diary record|subsoiled
+W/RN/12|1964||3-Oct-1963||diary record|ploughed
+W/RN/12|1964||3-Jan-1964||diary record|ploughed
+W/RN/12|1964||1-May-1964||diary record|fertilizers applied
+W/RN/12|1964||7-May-1964||diary record|seed sown
+W/RN/12|1965|all plots|2-July-1964||diary record|rotary cultivated
+W/RN/12|1965|all plots|18-July-1964||diary record|rotary cultivated
+W/RN/12|1965|all plots|17-Aug-1964||diary record|Deep-tine cultivated
+W/RN/12|1965|all plots|13-Oct-1964||diary record|rotary cultivated
+W/RN/12|1965|all plots|16-Nov-1964||diary record|ploughed
+W/RN/12|1965|all plots|21-Apr-1965||diary record|rotary cultivated
+W/RN/12|1965|lc and ln plots|23-Apr-1965||diary record|seed sown, seedbed fertilizers applied
+W/RN/12|1965|lc and ln plots|3-June-1965||diary record|sprayed with dinoseb at 1.25 lb in 40 gals
+W/RN/12|1965|lc and ln plots|12-Aug-1965||diary record|cut
+W/RN/12|1965|lc and ln plots|20-Oct-1965||diary record|cut
+W/RN/12|1965|lc and ln plots|20-Aug-1965||diary record|'Nitro-chalk' applied
+W/RN/12|1965|gm plots|23-Apr-1965||diary record|seed sown, fertilizers applied
+W/RN/12|1966|lc and ln plots|4-Nov-1965||diary record|Mg applied
+W/RN/12|1966|lc and ln plots|17-Mar-1966||diary record|'Nitro-chalk' applied to Ln plots
+W/RN/12|1966|lc and ln plots|15-June-1966||diary record|'Nitro-chalk' applied to Ln plots
+W/RN/12|1966|lc and ln plots|22-Aug-1966||diary record|'Nitro-chalk' applied to Ln plots
+W/RN/12|1966|lc and ln plots|8-June-1966||diary record|Lc plots cut
+W/RN/12|1966|lc and ln plots|13-July-1966||diary record|Lc plots cut
+W/RN/12|1966|lc and ln plots|12-Aug-1966||diary record|Lc plots cut
+W/RN/12|1966|lc and ln plots|25-Oct-1966||diary record|Lc plots cut
+W/RN/12|1966|remainder|2-Sept-1965|7-Sept-1965|diary record|peat, straw, dung, P, K, Mg, applied
+W/RN/12|1966|remainder|7-Sept-1965||diary record|ploughed
+W/RN/12|1966|remainder|2-Nov-1965||diary record|wheat drilled, trefoil undersown on Gm plots
+W/RN/12|1966|remainder|28-Apr-1966||diary record|'Nitro-chalk' applied
+W/RN/12|1966|remainder|28-Apr-1966||diary record|sprayed with paraquat at 0.75 lb ion in 34 gals
+W/RN/12|1966|remainder|30-Apr-1966||diary record|barley drilled, trefoil undersown on Gm plots
+W/RN/12|1966|remainder|9-Sept-1966||diary record|combine harvested
+W/RN/12|1967|lc and ln plots|4-Nov-1966||diary record|P, K and Mg applied
+W/RN/12|1967|lc and ln plots|4-Apr-1967||diary record|'Nitro-Chalk' applied to LN plots
+W/RN/12|1967|lc and ln plots|19-June-1967||diary record|'Nitro-Chalk' applied to LN plots
+W/RN/12|1967|lc and ln plots|7-Apr-1967||diary record|P, K and Mg applied
+W/RN/12|1967|lc and ln plots|8-June-1967||diary record|Lc plots cut
+W/RN/12|1967|lc and ln plots|13-July-1967||diary record|Lc plots cut
+W/RN/12|1967|potatoes|11-Nov-1966||diary record|P, K and Mg applied
+W/RN/12|1967|potatoes|28-Nov-1966|29-Nov-1966|diary record|peat, straw, dung applied
+W/RN/12|1967|potatoes|1-Nov-1966||diary record|ploughed
+W/RN/12|1967|potatoes|4-Apr-1967||diary record|Additional peat applied
+W/RN/12|1967|potatoes|4-Apr-1967|6-Apr-1967|diary record|N,P,K and Mg applied
+W/RN/12|1967|potatoes|5-Apr-1967|7-Apr-1967|diary record|rotary cultivated, potatoes planted
+W/RN/12|1967|potatoes|10-May-1967||diary record|earthed up
+W/RN/12|1967|potatoes|10-June-1967||diary record|rotary ridged
+W/RN/12|1967|potatoes|1-July-1967||diary record|sprayed with mancozeb at 1.2 lb in 30 gals
+W/RN/12|1967|potatoes|28-July-1967||diary record|sprayed with mancozeb at 1.2 lb in 30 gals
+W/RN/12|1967|potatoes|8-Aug-1967||diary record|sprayed with mancozeb at 1.2 lb in 30 gals
+W/RN/12|1967|potatoes|21-Aug-1967||diary record|sprayed with undiluted BOV at 15 gals
+W/RN/12|1967|potatoes|12-Sept-1967|13-Sept-1967|diary record|lifted
+W/RN/12|1967|potatoes|||variety|Majestic

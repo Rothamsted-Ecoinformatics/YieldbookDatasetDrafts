@@ -193,137 +193,120 @@ R/HB/2|2013|01-May-13|f||Applied N as Nitro Chalk Plots 113, 124, 211, 222, 313,
 R/HB/2|2013|01-May-13|f||Applied N as Nitro Chalk Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731.|356|kg/ha 
 R/HB/2|2013|01-May-13|f||Applied N as Nitro Chalk Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733.|533|kg/ha 
 R/HB/2|2013|01-May-13|f||Applied Nitram - Plots: Series AA old plots, Series C and Strip 5, as per plan|417|kg/ha
-R/HB/2|2013|02-Jun-13|p||Sprayed Mobius, 
-R/HB/2|2013|02-Jun-13|p||Sprayed Clyfamid mo@0.6, Ina cly@0.125|None|None
-R/HB/2|2013|26-Jun-13|p||Sprayed Mobius|04|l/ha
-R/HB/2|2013|09-Jul-13|a|| Cut/Cultivated Paths _- |None|None
-R/HB/2|2013|10-Jul-13|a||Pulling Wild Oats. 7 in plots - |None|None
-R/HB/2|2013|12-Aug-13|a||Claas - Harvested (opened up exp) —- |None|None
-R/HB/2|2013|27-Aug-13|a||Claas - Harvested discards OF's |None|None
-R/HB/2|2013|27-Aug-13|a||Sampo - Harvested for yield All plots _|None|None
+R/HB/2|2013|02-Jun-13|p||Sprayed Mobius|0.6|l/ha 
+R/HB/2|2013|02-Jun-13|p||Sprayed Clyfamid|0.125|l/ha
+R/HB/2|2013|26-Jun-13|p||Sprayed Mobius|0.4|l/ha
+R/HB/2|2013|09-Jul-13|a||Cut/Cultivated Paths|None|None
+R/HB/2|2013|10-Jul-13|a||Pulling Wild Oats. 7 in plots|None|None
+R/HB/2|2013|12-Aug-13|a||Claas - Harvested (opened up exp)|None|None
+R/HB/2|2013|27-Aug-13|a||Claas - Harvested discards OE's |None|None
+R/HB/2|2013|27-Aug-13|a||Sampo - Harvested for yield All plots|None|None
 R/HB/2|2013|28-Aug-13|a||Baled Sampled and Weighed All Plots |None|None
-R/HB/2|2014|08-Oct-13|x||p Sprayed Weedazol surrounds only|20|I'ha
-R/HB/2|2014|24-Oct-13||||Applied TSP - Plots 634 - 631|215|kg/ha
+R/HB/2|2014|08-Oct-13|p||Sprayed Weedazol surrounds only|20|I'ha
+R/HB/2|2014|24-Oct-13|f||Applied TSP - Plots 634 - 631|215|kg/ha
 R/HB/2|2014|24-Oct-13|f||Applied SOP - Plots 634 - 631, 551-582, 444-411, 344- 311, 244-241, 144-141|217|kg/ha
 R/HB/2|2014|24-Oct-13|f||Applied Kieserite - Plots 634-631|233|kg/ha
-R/HB/2|2014|03-Dec-13|a||Applied Chalk - Plots 734-711, 634-611, 551-582, 444- 411, 344-311, 244-241, 144141|4|Vha
+R/HB/2|2014|03-Dec-13|a||Applied Chalk - Plots 734-711, 634-611, 551-582, 444- 411, 344-311, 244-241, 144-141|4|Vha
 R/HB/2|2014|03-Dec-13|f||Silicate of Soda - Plots 433-133 432-132|450|kg/ha
 R/HB/2|2014|04-Dec-13|t||Applied FYM - Plots 721-734|35|tha
-R/HB/2|2014|06-Dec-13|a||Started Ploughing - finished 09 Dec, soil thrown south ~~ - |None|None
-R/HB/2|2014|10-Mar-14|a||Flexitined ploughed ground - drill prep - |None|None
-R/HB/2|2014|12-Mar-14|a||Power-harrowed - All site and all Plots. - |None|None
+R/HB/2|2014|06-Dec-13|a||Started Ploughing - finished 09 Dec, soil thrown south|None|None
+R/HB/2|2014|10-Mar-14|a||Flexitined ploughed ground - drill prep|None|None
+R/HB/2|2014|12-Mar-14|a||Power-harrowed - All site and all Plots.|None|None
 R/HB/2|2014|14-Mar-14|s||Drilled Spring Barley - var. Tipple|350|seed/m?
-R/HB/2|2014|14-Mar-14|a||Rolled - |None|None
-R/HB/2|2014|14-Mar-14|x||p Sprayed Crystal - pre emergent|20|I'ha
-R/HB/2|2014|29-Apr-14|a||Rotavated Paths - |None|None
-R/HB/2|2014|30-Apr-14|f||Nitrochalk by hand - Plots 113,124,211,222,313,321,412,421,611,621, 631,712,721,732.|0|kg Nha
-R/HB/2|2014|30-Apr-14|[||Nitrochalk by hand - Plots 112,123,212,223,314,324 414 422 613, 624,634,711,722.731.|48|kg Nha
-R/HB/2|2014|30-Apr-14|f||Applied Nitrochalk by hand - Plots 114,122,213,224,312,323,411,424 612, 622,632,714,723,733.|96|kg N/ha
-R/HB/2|2014|30-Apr-14|f||Applied Nitrochalk by hand - Plots 111,121,214,221,311,322,413,423,614,623. 633,713,724,734.|144|kg N/ha
-R/HB/2|2014|30-Apr-14|f||Nitram @ 35%N - Plots 131-134,141-144 231-417 kg/ha 234,241-244,331-334,341-344, 431-434, 441-444 551- 582|None|None
-R/HB/2|2014|18-Jun-14|p||Sprayed Mobius - Sp Barley only|400|mlha
-R/HB/2|2014|10-Jul-14|a||Removed wild oats from trial - 46 in total - |None|None
-R/HB/2|2014|05-Sep-14|a||Cut discard areas and baled straw with Class round - - baler; removed grain and straw.|None|None
-R/HB/2|2014|06-Sep-14|a||Sampo - harvested all plots for grain yields - .|None|None
+R/HB/2|2014|14-Mar-14|a||Rolled|None|None
+R/HB/2|2014|14-Mar-14|p||Sprayed Crystal - pre emergent|2.0|I'ha
+R/HB/2|2014|29-Apr-14|a||Rotavated Paths|None|None
+R/HB/2|2014|30-Apr-14|f||Applied Nitrochalk by hand - Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732.|0|kg N/ha
+R/HB/2|2014|30-Apr-14|f||Applied Nitrochalk by hand - Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731.|48|kg N/ha
+R/HB/2|2014|30-Apr-14|f||Applied Nitrochalk by hand - Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733.|96|kg N/ha
+R/HB/2|2014|30-Apr-14|f||Applied Nitrochalk by hand - Plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734.|144|kg N/ha
+R/HB/2|2014|30-Apr-14|f||Nitram @ 35%N - Plots 131-134, 141-144, 231-234, 241-244, 331-334, 341-344, 431-434, 441-444, 551-582|417|kg/ha
+R/HB/2|2014|18-Jun-14|p||Sprayed Mobius - Sp Barley only|400|ml/ha
+R/HB/2|2014|10-Jul-14|a||Removed wild oats from trial - 46 in total|None|None
+R/HB/2|2014|05-Sep-14|a||Cut discard areas and baled straw with Class round baler; removed grain and straw.|None|None
+R/HB/2|2014|06-Sep-14|a||Sampo - harvested all plots for grain yields.|None|None
+R/HB/2|2014|08-Sep-14|a||Baled and weighed straw for yields.|None|None
 R/HB/2|2015|10/11/2014|P||Sprayed Samurai - total kill, volunteers and weeds|30|Wha
-R/HB/2|2015|10/11/2014|p||Sprayed Fire Brand -total kill, volunteers and weeds 251172014 t Applied Kieserite onto plots 631, 632, 633 + 634 2330 kgha|1.0|l/ha
-R/HB/2|2015|25/11/2014|f||TSP onto plots 631, 632, 633 + 634|2150|kgha
-R/HB/2|2015|09/12/2014|t||Applied SOP onto all series C, strip 5 and plots 311 - 334411 -434631-634|217.0|kgha
-R/HB/2|2015|16/12/2014|1||Applied silicate of soda onto plots 432 - 132 and 433 « 133|450.0|kgha
-R/HB/2|2015|16/12/2014|I||Applied FYM onto plots 734 - 731 + 724 - 721|350|tha
-R/HB/2|2015|18/12/2014|a||Ploughed (thrown North) .|None|None
-R/HB/2|2015|05/03/2015|a||Spring tyned all ground . oo.|None|None
-R/HB/2|2015|05/03/2015|p||Sprayed Samurai|25|l/ha
-R/HB/2|2015|05/03/2015|p||Sprayed Fire Brand|10|Wha
-R/HB/2|2015|06/03/2015|s||Drilled Tipple Barley|3500|seeds/m?
-R/HB/2|2015|06/03/2015|a||Rolled All Site +.|None|None
-R/HB/2|2015|12/05/2015|a||Rotavated paths ie|None|None
-R/HB/2|2015|13/05/2015|1||Applied N treatments (34.5%N) to Old Series 5, Senes C and Series AA plots (except plots 6 and 7) 13/052015 | Applied Nitrochalk (27% N) by hand to plots 0 kgha 112,123.212.23.314,324,414,422,613.624.634.711,72 2.731|1440|kgha
-R/HB/2|2015|13/05/2015||||Applied Nitrochalk (27% N) by hand to plots 114,122.213.224,312,323,411,424 612,622,632.714.7 23.733 130052015 1 Applied Nitrochalk (27% N) by hand to plots 960 kgha 111,121.214.221,311,322,413,423,614,623,633,713.7 24.734 130052015 1 Applied Nitrochalk (27% N) by hand to plots 1440 kgha 113,124,211,222,313,321,412,421,611,621,631,712.7 21.732|480|kgha
-R/HB/2|2015|13/05/2015|p||Sprayed Kingdom onto Barley|15|Wha
-R/HB/2|2015|13/05/2015|p||Sprayed Bravo 500 onto Barley|125|l/ha
-R/HB/2|2015|03/06/2015|a||Rotavated paths .|None|None
-R/HB/2|2015|15/06/2015|p||Sprayed Kingdom onto Barley only|125|l/ha
-R/HB/2|2015|17/06/2015|a||Rotavated all paths . oo.|None|None
-R/HB/2|2015|19/06/2015|p||Sprayed Axial onto Barley|4600|miha
-R/HB/2|2015|19/06/2015|p||Sprayed Adigor onto Barley|460.0|miha
+R/HB/2|2015|10/11/2014|p||Sprayed Fire Brand - total kill, volunteers and weeds|1.0|l/ha
+R/HB/2|2015|25/11/2014|f||Applied Kieserite onto plots 631, 632, 633 + 634|233.0|kg/ha
+R/HB/2|2015|25/11/2014|f||TSP onto plots 631, 632, 633 + 634|215.0|kgha
+R/HB/2|2015|09/12/2014|f||Applied SOP onto all series C, strip 5 and plots 311-334, 411-434, 631-634|217.0|kgha
+R/HB/2|2015|16/12/2014|f||Applied silicate of soda onto plots 432 - 132 and 433 - 133|450.0|kgha
+R/HB/2|2015|16/12/2014|f||Applied FYM onto plots 734 - 731 + 724 - 721|35.0|tha
+R/HB/2|2015|18/12/2014|a||Ploughed (thrown North).|None|None
+R/HB/2|2015|05/03/2015|a||Springtined all ground.|None|None
+R/HB/2|2015|05/03/2015|p||Sprayed Samurai|2.5|l/ha
+R/HB/2|2015|05/03/2015|p||Sprayed Fire Brand|1.0|Wha
+R/HB/2|2015|06/03/2015|s||Drilled Tipple Barley|350.0|seeds/m?
+R/HB/2|2015|06/03/2015|a||Rolled All Site|None|None
+R/HB/2|2015|12/05/2015|a||Rotavated paths|None|None
+R/HB/2|2015|13/05/2015|f||Applied N treatments (34.5%N) to Old Series 5, Series C and Series AA plots (except plots 6 and 7)|144.0|kg/ha
+R/HB/2|2015|13/05/2015|f||Applied Nitrochalk (27% N) by hand to plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731|0|kg/ha
+R/HB/2|2015|13/05/2015|f||Applied Nitrochalk (27% N) by hand to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733|48|kg/ha
+R/HB/2|2015|13/05/2015|f||Applied Nitrochalk (27% N) by hand to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734|96|kg/ha
+R/HB/2|2015|13/05/2015|f||Applied Nitrochalk (27% N) by hand to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732|144|kgha
+R/HB/2|2015|13/05/2015|p||Sprayed Kingdom onto Barley|1.5|Wha
+R/HB/2|2015|13/05/2015|p||Sprayed Bravo 500 onto Barley|1.25|l/ha
+R/HB/2|2015|03/06/2015|a||Rotavated paths|None|None
+R/HB/2|2015|15/06/2015|p||Sprayed Kingdom onto Barley only|1.25|l/ha
+R/HB/2|2015|17/06/2015|a||Rotavated all paths|None|None
+R/HB/2|2015|19/06/2015|p||Sprayed Axial onto Barley|460.0|ml/ha
+R/HB/2|2015|19/06/2015|p||Sprayed Adigor onto Barley|460.0|ml/ha
 R/HB/2|2015|22/07/2015|a||pulled 2 wild oats from plots and surrounds |None|None
-R/HB/2|2015|02/09/2015|a||Harvested commercial OEs .|None|None
+R/HB/2|2015|02/09/2015|a||Harvested commercial OEs.|None|None
 R/HB/2|2015|07/09/2015|a||Harvested All Barley Plots for Grain Yield |None|None
-R/HB/2|2015|08/09/2015|a||Baled all swath on field . >|None|None
-R/HB/2|2015|09/09/2015|a||Removed Bales from commercial area .|None|None
-R/HB/2|2015|09/09/2015|a||Sampled Baled and Weighed all Plots * .|None|None
+R/HB/2|2015|08/09/2015|a||Baled all swath on field|None|None
+R/HB/2|2015|09/09/2015|a||Removed Bales from commercial area.|None|None
+R/HB/2|2015|09/09/2015|a||Sampled Baled and Weighed all Plots.|None|None
+R/HB/2|2015|17/09/2015|a||Removed round bales from field.|None|None
 R/HB/2|2016|28/10/2015|f||Applied TSP onto plots 634 - 631|215|kg/ha
 R/HB/2|2016|28/10/2015|f||Applied Kieserite onto plots 634 - 631|233|kg/ha
 R/HB/2|2016|29/10/2015|f||Applied SOP onto plots 634-631, 561-311, 551-411, 571-241 and 581-141|217|kg/ha
 R/HB/2|2016|23/11/2015|p||Sprayed Firebrand|1|It/ha
 R/HB/2|2016|23/11/2015|p||Sprayed Samurai|3|t/ha
 R/HB/2|2016|26/11/2015|f||Applied FYM onto plots 721-724 & 731-734|35|tha
-R/HB/2|2016|26/11/2015|f||Applied Silicate of Soda onto plots 433, 432, 333, 332, 233,232,133 + 132|450|kg/ha
-R/HB/2|2016|03/12/2015|a||Ploughed; thrown south - |None|None
-R/HB/2|2016|17/02/2016|a||Combination Harrowed all Site and surrounds - |None|None
+R/HB/2|2016|26/11/2015|f||Applied Silicate of Soda onto plots 433, 432, 333, 332, 233, 232, 133 + 132|450|kg/ha
+R/HB/2|2016|03/12/2015|a||Ploughed; thrown south|None|None
+R/HB/2|2016|17/02/2016|a||Combination Harrowed all Site and surrounds|None|None
 R/HB/2|2016|29/02/2016|s||Drilled KWS Irina - trt Raxial Star|350|seed/m?
 R/HB/2|2016|19/04/2016|p||Sprayed Hallmark with Zeon Technology|50|ml/ha
-R/HB/2|2016|21/04/2016|a||Marked out and rotavated all paths - |None|None
+R/HB/2|2016|21/04/2016|a||Marked out and rotavated all paths|None|None
 R/HB/2|2016|05/05/2016|f||Applied Nitram @ 34.5%N to Old Series 5, Series C and Series AA (except plots 6 and 7)|417|kg/ha
-R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 114, 122, 213, 224, 312, 323, 411,424,612, 622, 632, 714, 723, 733|0|kg/ha
-R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 111, 121, 214, 221, 311, 322,413, 423, 614, 623, 633, 713, 724, 734|48|kg/ha
-R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 113, 124, 211,222, 313, 321,412,421, 611, 621, 631, 712, 721, 732|96|kg/ha
-R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 112, 123, 212, 223, 314, 324, 414,422 613, 624, 634, 711, 722, 731|144|kg/ha
+R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733|0|kg/ha
+R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 111, 121, 214, 221, 311, 322, 413, 423, 614, 623, 633, 713, 724, 734|48|kg/ha
+R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732|96|kg/ha
+R/HB/2|2016|09/05/2016|f||Applied Nitrochalk to plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731|144|kg/ha
 R/HB/2|2016|23/05/2016|p||Sprayed Refine Max|75|g/ha
 R/HB/2|2016|23/05/2016|p||Sprayed Hatchet Xtra|750|ml/ha
 R/HB/2|2016|23/05/2016|p||Sprayed Kingdom|1.25|lt/ha
-R/HB/2|2016|24/05/2016|a||Rotavated Paths et ¥|None|None
+R/HB/2|2016|24/05/2016|a||Rotavated Paths|None|None
 R/HB/2|2016|26/07/2016|a||pulled wild oats from plots (36) and surrounds |None|None
-R/HB/2|2016|23/08/2016|a||Mopped Up remaining crop - |None|None
-R/HB/2|2016|24/08/2016|a||Sampo Harvested All Plots - |None|None
-R/HB/2|2017|11/10/2016|a|| Ploughed - thrown South - |None|None
+R/HB/2|2016|23/08/2016|a||Mopped Up remaining crop|None|None
+R/HB/2|2016|24/08/2016|a||Sampo Harvested All Plots|None|None
+R/HB/2|2016|24/08/2016|a||Combined with Tucano Harvester all left over crop.|None|None
+R/HB/2|2017|11/10/2016|a||Ploughed - thrown South|None|None
 R/HB/2|2017|15/10/2016|p||Sprayed Buffalo Elite|1|It/ha
 R/HB/2|2017|15/10/2016|p||Sprayed Samurai|3|It/ha
-R/HB/2|2017|31/10/2016|f||Applied SOP to Plots 141 - 144, 241 - 244, 311 - 344, 411 - 444,551 -582,631-634|217|kg/ha
+R/HB/2|2017|31/10/2016|f||Applied SOP to Plots 141 - 144, 241 - 244, 311-344, 411-444, 551-582,631-634|217|kg/ha
 R/HB/2|2017|31/10/2016|f||Applied Kieserite to Plots 631 - 634|233|kg/ha
 R/HB/2|2017|31/10/2016|f||Applied TSP to Plots 631 - 634|215|kg/ha
-R/HB/2|2017|08/11/2016|f||Applied Silicate of Soda to Plots 433, 333, 233, 133, 432,332,232 and 132|450|kg/ha
+R/HB/2|2017|08/11/2016|f||Applied Silicate of Soda to Plots 433, 333, 233, 133, 432, 332, 232 and 132|450|kg/ha
 R/HB/2|2017|10/11/2016|f||Applied FYM to Plots 721 to 734|35|t/ha
 R/HB/2|2017|07/03/2017|p||Sprayed Buffalo Elite|1|It/ha
 R/HB/2|2017|07/03/2017|p||Sprayed Samurai|3|It/ha
 R/HB/2|2017|12/03/2017|a||Cousin Combi Harrowed |None|None
 R/HB/2|2017|15/03/2017|s||Drilled KWS Irina trt With Raxil Star|350|seeds/m?
 R/HB/2|2017|17/03/2017|a||Ring Rolled |None|None
-R/HB/2|2017|12/05/2017|a||Rotavated Paths - |None|None
+R/HB/2|2017|12/05/2017|a||Rotavated Paths|None|None
 R/HB/2|2017|22/05/2017|p||Sprayed Hallmark|50|ml/ha
-R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 113, 124, 211,222, 313,321, 412,421, 611,621, 631, 712, 721, 732|48|kg/ha
-R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 112, 123, 212, 223,314,324, 414, 422,613, 624,634, 711, 722,731|96|kg/ha
-R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 114, 122, 213, 224,312, 323,411,424,612, 622,632,714,723,733|144|kg/ha
+R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 113, 124, 211, 222, 313, 321, 412, 421, 611, 621, 631, 712, 721, 732|48|kg/ha
+R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 112, 123, 212, 223, 314, 324, 414, 422, 613, 624, 634, 711, 722, 731|96|kg/ha
+R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 114, 122, 213, 224, 312, 323, 411, 424, 612, 622, 632, 714, 723, 733|144|kg/ha
 R/HB/2|2017|24/05/2017|a||Rotavated Paths |None|None
 R/HB/2|2017|24/05/2017|f||Applied Nitram to Series AA (except 621 to 624, 721 to 724), C and Strip 5|417|kg/ha
 R/HB/2|2017|30/05/2017|p||Sprayed Refine Max|75|g/ha
 R/HB/2|2017|30/05/2017|p||Sprayed Kingdom|1.25|It/ha
 R/HB/2|2017|30/05/2017|p||Sprayed Hurler|700|ml/ha
-R/HB/2|2017|14/07/2017|a||Cut Paths - |None|None
-R/HB/2|2017|28/07/2017|a||Pulled 7 Wild Oats from within plots - |None|None
-R/HB/2|2017|11/10/2016|a|| Ploughed - thrown South - |None|None
-R/HB/2|2017|15/10/2016|p||Sprayed Buffalo Elite|1|It/ha
-R/HB/2|2017|15/10/2016|p||Sprayed Samurai|3|It/ha
-R/HB/2|2017|31/10/2016|f||Applied SOP to Plots 141 - 144, 241 - 244, 311 - 344, 411 - 444,551 -582,631-634|217|kg/ha
-R/HB/2|2017|31/10/2016|f||Applied Kieserite to Plots 631 - 634|233|kg/ha
-R/HB/2|2017|31/10/2016|f||Applied TSP to Plots 631 - 634|215|kg/ha
-R/HB/2|2017|08/11/2016|f||Applied Silicate of Soda to Plots 433, 333, 233, 133, 432,332,232 and 132|450|kg/ha
-R/HB/2|2017|10/11/2016|f||Applied FYM to Plots 721 to 734|35|t/ha
-R/HB/2|2017|07/03/2017|p||Sprayed Buffalo Elite|1|It/ha
-R/HB/2|2017|07/03/2017|p||Sprayed Samurai|3|It/ha
-R/HB/2|2017|12/03/2017|a||Cousin Combi Harrowed |None|None
-R/HB/2|2017|15/03/2017|s||Drilled KWS Irina trt With Raxil Star|350|seeds/m?
-R/HB/2|2017|17/03/2017|a||Ring Rolled |None|None
-R/HB/2|2017|12/05/2017|a||Rotavated Paths - |None|None
-R/HB/2|2017|22/05/2017|p||Sprayed Hallmark|50|ml/ha
-R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 113, 124, 211,222, 313,321, 412,421, 611,621, 631, 712, 721, 732|48|kg/ha
-R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 112, 123, 212, 223,314,324, 414, 422,613, 624,634, 711, 722,731|96|kg/ha
-R/HB/2|2017|23/05/2017|f||Applied Nitrochalk (27% N) to Plots 114, 122, 213, 224,312, 323,411,424,612, 622,632,714,723,733|144|kg/ha
-R/HB/2|2017|24/05/2017|a||Rotavated Paths |None|None
-R/HB/2|2017|24/05/2017|f||Applied Nitram to Series AA (except 621 to 624, 721 to 724), C and Strip 5|417|kg/ha
-R/HB/2|2017|30/05/2017|p||Sprayed Refine Max|75|g/ha
-R/HB/2|2017|30/05/2017|p||Sprayed Kingdom|1.25|It/ha
-R/HB/2|2017|30/05/2017|p||Sprayed Hurler|700|ml/ha
-R/HB/2|2017|14/07/2017|a||Cut Paths - |None|None
-R/HB/2|2017|28/07/2017|a||Pulled 7 Wild Oats from within plots - |None|None
+R/HB/2|2017|14/07/2017|a||Cut Paths|None|None
+R/HB/2|2017|28/07/2017|a||Pulled 7 Wild Oats from within plots|None|None
+R/HB/2|2017|29/07/2017|a||Harvested plots for yield & baled all discard and remaining swaths.|None|None

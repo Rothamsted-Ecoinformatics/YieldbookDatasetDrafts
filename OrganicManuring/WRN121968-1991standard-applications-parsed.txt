@@ -1,0 +1,167 @@
+W/RN/12|1976|winter oats|weedkiller|? ~ glyphosate at 1.7 ke in 340 1
+W/RN/12|1976|winter oats|weedkiller|ioxynil at 0.63 ke-plus mecoprop at 1.9 ke in 260 1
+W/RN/12|1976|barley|manures|(02020) at 200 kg combine drilled.
+W/RN/12|1976|barley|weedkiller|ioxynil at 0.53 kg plus mecoprop at 1.6 ke in 260 1
+W/RN/12|1977|winter oats|manures|(02020) at 290 kg, combine drilled.
+W/RN/12|1977|winter oats|weedkiller|glyphosate at 1.7 kg in 280 1
+W/RN/12|1977|winter oats|weedkiller|ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 220 1
+W/RN/12|1977|potatoes|manures|(02020) at 1140 kg in Winter
+W/RN/12|1977|potatoes|manures|(02020) at 1210 kg in spring
+W/RN/12|1977|potatoes|manures|60 kg Mg as kieserite.
+W/RN/12|1977|potatoes|weedkiller|Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 4201.
+W/RN/12|1977|potatoes|Fungicide|mancozeb at 1.3 kg on four occasions, the east three with insecticide, in 420 1, 390 1 and twice in 370 1 successively.
+W/RN/12|1977|potatoes|insecticide|pirimicarb at 0.14 kg on three
+W/RN/12|1977|potatoes|insecticide|occasions with Fungicide
+W/RN/12|1978|winter wheat|manures|110 kg P,0, es superphosphate, 60 kg Ko as muriate of potash.
+W/RN/12|1978|winter wheat|weedkiller|mecoprop, bromoxynil, and ioxynil“('Brittox' at 3.5 kg in 280 1)
+W/RN/12|1978|potatoes|manures|(02020) at 1210 kg in Winter, (02020) at 1210 kg in spring
+W/RN/12|1978|potatoes|manures|60 kg Mg as kieserite.
+W/RN/12|1978|potatoes|weedkiller|Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 280 1
+W/RN/12|1978|potatoes|weedkiller|Fungicides mancozeb at 1.3 kg on three occasions, in 280 1 on the first, in 420 1 on the second, in 420 1 with
+W/RN/12|1978|potatoes|insecticide|on the third
+W/RN/12|1978|potatoes|insecticide|Fentin acetate with maneb ('Fennite A' at 1.7 kg in 2801).
+W/RN/12|1978|potatoes|insecticide|pirimicarb at 0.14 kg, on one occasion with Fungicide, in 420 1
+W/RN/12|1978|potatoes|insecticide|Haulm desiccant undiluted BOV at 1701
+W/RN/12|1979|winter wheat|manures|P,0
+W/RN/12|1979|winter wheat|manures|at 110 kg as superphosphate, K0 at 60 kg as muriate of potash.
+W/RN/12|1979|winter wheat|weedkiller|Mathabenzthiazuron at 1°75 kg in 220 l
+W/RN/12|1979|sugar beet|manures|Chalk at 5 t, (02020) at 1210 kg in autumn, (02020) at 605 kg in spring
+W/RN/12|1979|sugar beet|manures|Mg at 60 kg as kieserite
+W/RN/12|1979|sugar beet|manures|Boron at 8.0 kg 8.03 (as "Solubor') applied with the insecticide.
+W/RN/12|1979|sugar beet|insecticide|pirimicarb at 0.14 kg in 250 1
+W/RN/12|1979|clover grass ley|manures|Chalk at 5 t, (02020) at 1210 kg in autumn, (02020) at 605 kg in spring, Mg at 60 kg as kieserite
+W/RN/12|1980|all crops|manures|P20s5 at 110.kg as superphosphate, K20 at 60 kg as muriate of potash.
+W/RN/12|1980|all crops|weedkiller|mecoprop with bromoxynil and ioxynil far 'Brittox' at 3.5 1) in 280 1
+W/RN/12|1980|all crops|weedkiller|Fungicides Tridemorph at 0.53 kg in 280 1, Ethirimol (as 'Milgo E' at 1.3 1) in 280 1
+W/RN/12|1980|sugar beet|manures|Chalk at 5.0 t, (02020) at 1210 kg in autumn, (02020) at 610 kg in spring, Mg at 60 kg as kieserite, Boron at 8.0 kg 8203 (as 'Solubor') in 300 1
+W/RN/12|1980|sugar beet|manures|first year clover grass ley Chalk at 5.0 t, (02020) at 1210 kg and ; late at 610 kg, Mg at 60 kg as kieserite, N at 60 kg as 'Nitro-chalk.
+W/RN/12|1980|sugar beet|weedkiller|paraquat at 0.84 kg ion in 450 1
+W/RN/12|1980|second year clover grass ley||P205 at 110 kg as superphosphate, K20 at 60 kg as muriate of potash
+W/RN/12|1981|all crops|manures|P205 at 110 kg as superphosphate, K20 at 60 kg as muriate of potash.
+W/RN/12|1981|all crops|weedkiller|mecoprop with bromoxynil and ioxynil] (as 'Brittox' at 3.5 1) in 280 1 with the Fungicide.
+W/RN/12|1981|all crops|Fungicide|Tridemorph at 0.53 kg
+W/RN/12|1981|all crops|Fungicide|beans
+W/RN/12|1981|all crops|weedkiller|Simazine at 0.84 kg in 280 l.
+W/RN/12|1981|all crops|insecticide|phorate at 5.6 kg, pirimicarb at 0.14 kg in 280 1 on top occasions
+W/RN/12|1981|all crops|insecticide|first second and third year clover grass ley
+W/RN/12|1981|all crops|manures|(01428) at 1000 kg, MgO at 50 kg as kieserite
+W/RN/12|1981|all crops|manures|N at 50 kg to lst year and 60 kg to second year as 'Nitro-chalk
+W/RN/12|1982|all crops|manures|N at 150 kg as 'Nitro-chalk.
+W/RN/12|1982|all crops|weedkiller|glyphosate at 1.5 kg in 280 1, isoproturon at 2.1 kg in 280 1
+W/RN/12|1982|all crops|weedkiller|beans
+W/RN/12|1982|all crops|weedkiller|glyphosate at 1.5 kg in 280 1
+W/RN/12|1982|all crops|weedkiller|Propyzamide at 0.84 kg in 280 7
+W/RN/12|1982|clover grass ley|manures|P205 at 140 kg, K20 at 280 kg as (01428), MgO at 50 kg as kieserite
+W/RN/12|1982|clover grass ley|manures|N at 50 kg as 'Nitro-chalk' to first year ley only.
+W/RN/12|1982|clover grass ley|weedkiller|glyphosate at 1.5 kg in 280 1 for first year ley only
+W/RN/12|1983|all crops|manures|N at 150 kg as 'Nitro-chalk.
+W/RN/12|1983|all crops|weedkiller|glyphosate at 1.5 kg in 280 1, mecoprop with bromoxynil and ioxynil? (as 'Brittox' at 4.2 1) in 280 1
+W/RN/12|1983|sugar beet|manures|ground Chalk at 5.0 t, NW at 150 kg as 'Nitro- Chalk.
+W/RN/12|1983|sugar beet|weedkiller|glyphosate at 1.5 kg in 280 1
+W/RN/12|1983|sugar beet|weedkiller|Phenmedipham = kg in 280 1.
+W/RN/12|1983|sugar beet|insecticide|demeton-s-methyl] at 0.24 kg in second, third, four and fifth year ley
+W/RN/12|1983|sugar beet|manures|ground Chalk at 5.0 t to third and fifth year only
+W/RN/12|1983|sugar beet|manures|P205 at 140 kg, K20 at 280 kg as (01836), MgO at 50 kg as kfeserite
+W/RN/12|1984|all crops|manures|not 90 kg as 'Nitro-chalk.
+W/RN/12|1984|all crops|weedkiller|Mathabenzthiazuron at 2.4 kg in 250 1
+W/RN/12|1984|sugar beet|manures|ground Chalk at 5.0 t, N at 150 kg as 'Nitro- Chalk.
+W/RN/12|1984|sugar beet|insecticide|demeton-s-methyl] at 0.24 kg in 250 1
+W/RN/12|1984|leys|manures|P205 at 140 kg, K20 at 280 kg as (01836), Mg@ at 50 kg as kieserite
+W/RN/12|1985|all crops|manures|N at 50 kg as 'Nitro-chalk' (27.5% N).
+W/RN/12|1985|all crops|weedkiller|mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 1
+W/RN/12|1985|all crops|weedkiller|rye
+W/RN/12|1985|all crops|manures|N at 30 kg as 'Nitro-chalk' (27.5% .N).
+W/RN/12|1985|all crops|weedkiller|mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 1
+W/RN/12|1985|leys|manures|P205 at 140 kg, K20 at 280 kg as (01836)
+W/RN/12|1985|leys|manures|MgO at 50 kg as kieserite
+W/RN/12|1986|all crops|manures|N at 90 kg as 'Nitram,
+W/RN/12|1986|all crops|weedkiller|Clopyralid at 0.05 kg with bromoxynil octanoate at 0.24 kg and mecoprop at 1.8 kg with the
+W/RN/12|1986|all crops|Fungicide|in 250 1,
+W/RN/12|1986|all crops|Fungicide|Tridemorph at 0.56 kg
+W/RN/12|1986|all crops|Fungicide|rye
+W/RN/12|1986|all crops|manures|N at 30 kg as 'Nitram
+W/RN/12|1986|fifth|manures|P205 at 140 kg, K20 at 280 kg as (01836), MgO at 50 kg as kieserite
+W/RN/12|1987|all crops|manures|(01836) at 560 kg
+W/RN/12|1987|all crops|manures|Mn at 0.16 kg as manganese sulphate in 240 1 applied with the prochloraz, carbendazim and growth regulator.
+W/RN/12|1987|all crops|weedkiller|glyphosate at 1.4 kg fn 200 1
+W/RN/12|1987|all crops|weedkiller|chlortoluron at 5.6 kg in 200 1
+W/RN/12|1987|all crops|weedkiller|Clopyraltd at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 240 , Fungicides Prochtoraz at 0.34 kg with carbendazim at 0.13 kg
+W/RN/12|1987|all crops|weedkiller|Fenpropimorph at 0.75 kg with chlorothalonil at 0.75 kg in 200 1
+W/RN/12|1987|all crops|weedkiller|propiconazole at 0.12 kg with carbendazim and maneb (as 'Septal' at 2.5 kg) in 200 1
+W/RN/12|1987|all crops|weedkiller|Growth regulator Chlormequat chloride at 1.1 kg.
+W/RN/12|1987|all crops|insecticide|Carbofuran at 7.5 kg
+W/RN/12|1987|all crops|insecticide|Molluscicide methiocarb at 0.22 kg
+W/RN/12|1987|all crops|insecticide|oats
+W/RN/12|1987|all crops|manures|N at 90 kg as 'Nitram,
+W/RN/12|1987|all crops|weedkiller|Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 240 1
+W/RN/12|1987|sixth and eighth years leys|manures|MgO at 50 kg as kieserite
+W/RN/12|1987|sixth and eighth years leys|manures|(01836) at 780 kg
+W/RN/12|1988|all crops|manures|(01836) at 560 kg
+W/RN/12|1988|all crops|manures|Mn at 0.16 kg as manganese sulphate in 220 1.
+W/RN/12|1988|all crops|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/12|1988|all crops|weedkiller|Isoproturon at 2.1 kg with bromoxynil at 0.20 kg, ioxynil at 0.20 kg and mecoprop at 1.6 kg in 220 1
+W/RN/12|1988|all crops|weedkiller|Fungicides propiconazole at 0.12 kg and Tridemorph at 0.25 kg in 220 1.
+W/RN/12|1988|all crops|insecticide|Carbofuran at 7.5 kg
+W/RN/12|1988|all crops|insecticide|Molluscicide methiocarb at 0.22 kg
+W/RN/12|1988|all crops|insecticide|second test crop
+W/RN/12|1988|potatoes|manures|(01836) at 1400 kg.
+W/RN/12|1988|potatoes|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/12|1988|potatoes|weedkiller|Linvuron at 1.$ kg in 220 1
+W/RN/12|1988|potatoes|weedkiller|Fungicides mancozeb at 1.4 kg in 220 1 on five occasions applied with the pirimicarb on the first, second and fifth
+W/RN/12|1988|potatoes|weedkiller|Fentin hydroxide at 0.28 kg in 220 1.
+W/RN/12|1988|potatoes|insecticide|pirimicarb at 0.14 kg on three occasions.
+W/RN/12|1988|potatoes|insecticide|Oxamyl at 5.0 kg
+W/RN/12|1988|potatoes|insecticide|desiccant Diquat at 0.80 kg ion in 400 1
+W/RN/12|1989|all crops||second test crop
+W/RN/12|1989|potatoes|manures|Magnesian limestone at 5.0 t
+W/RN/12|1989|potatoes|manures|Kieserite at $80 kg
+W/RN/12|1989|potatoes|manures|(01836) at 1380 kg.
+W/RN/12|1989|potatoes|weedkiller|Linuron at 1.2 kg in 220 1
+W/RN/12|1989|potatoes|weedkiller|Fungicides mancozeb at 1.4 kg in 220 1 on top occasions and at 2.0 kg in 220 1 on top occasions
+W/RN/12|1989|potatoes|weedkiller|Fentin hydroxide at 0.28 kg in 220 1.
+W/RN/12|1989|potatoes|insecticide|Oxamyl at 5 kg
+W/RN/12|1989|potatoes|insecticide|desiccant undiluted sulphuric acid at 280 1
+W/RN/12|1989|potatoes|insecticide|third test crop W
+W/RN/12|1989|potatoes|insecticide|wheat
+W/RN/12|1989|potatoes|manures|Magnesian limestone at 5.0 t
+W/RN/12|1989|potatoes|manures|(01836) at 560 kg/ha
+W/RN/12|1989|potatoes|manures|Mn at 0.096 kg as manganese sulphate in 220 1, applied on top occasions.
+W/RN/12|1989|potatoes|weedkiller|mecoprop at 2.5 kg with bromoxynil at 0.34 kg and clopyralid at 0.07 kg in 220 1
+W/RN/12|1989|potatoes|weedkiller|Fungicides Prochloraz at 0.40 kg and carbendazim at 0.15 kg applied with the growth regulator in 220 1
+W/RN/12|1989|potatoes|weedkiller|propiconazole at 0.12 kg in 220 1
+W/RN/12|1989|potatoes|weedkiller|Fenpropimorph at 0.75 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 220 1
+W/RN/12|1989|potatoes|weedkiller|Molluscicide methiocarb at 0.20 kg, gals applied with seed.
+W/RN/12|1989|potatoes|insecticide|Carbofuran at 7.5 kg
+W/RN/12|1989|potatoes|insecticide|Growth regulator Chlormequat chloride at 1.6 kg
+W/RN/12|1990|all crops|manures|(01836) at 560 kg
+W/RN/12|1990|all crops|manures|weedkiller; bromoxynil at 0.34 kg and clopyralid at 0.07 kg with isoproturon at 2.1 kg and fluroxypyr at 0.15 kg in 220 1
+W/RN/12|1990|all crops|manures|Fungicides propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 300 1.
+W/RN/12|1990|all crops|insecticide|Carbofuran at 7.5 k
+W/RN/12|1990|all crops|insecticide|Molluscicide methiocarb at 0.20 kg applied with seed
+W/RN/12|1990|all crops|insecticide|four test crop W
+W/RN/12|1990|all crops|insecticide|beans
+W/RN/12|1990|all crops|manures|(02424) at 420 kg
+W/RN/12|1990|all crops|manures|muriate of potash at 170 kg
+W/RN/12|1990|all crops|manures|Manganese at 0.19 xg in 220 1.
+W/RN/12|1990|all crops|weedkiller|paraquat at 0.80 kg ion in 220 1
+W/RN/12|1990|all crops|weedkiller|Propyzamide at 0.85 kg with simazine at 0.85 kg in 220 1.
+W/RN/12|1990|all crops|Fungicide|Fenpropimorph at 0.75 kg in 220 1.
+W/RN/12|1990|all crops|insecticide|Deltamathrin at 7.5 g in 220 1 applied on top occasions
+W/RN/12|1991|all crops|manures|(01636) at 560 kg
+W/RN/12|1991|all crops|manures|Manganese at 0.16 kg in 300 1.
+W/RN/12|1991|all crops|weedkiller|glyphosate at 0.54 kg in 220 1
+W/RN/12|1991|all crops|weedkiller|Simazine at 0.14 kg and triatazine at 0.97 kg in 220 1
+W/RN/12|1991|all crops|weedkiller|Fungicides Chlorothalonil at 1.5 kg applied with the pirimicarb in 300 1.
+W/RN/12|1991|all crops|insecticide|Azinphos-mathyl at 0.28 kg and demeton-s-methyl sulphone at 0.085 kg in 400 1
+W/RN/12|1991|all crops|insecticide|pirimicarb at 0.14 kg
+W/RN/12|1991|all crops|insecticide|Sth test crop W
+W/RN/12|1991|all crops|insecticide|wheat
+W/RN/12|1991|all crops|manures|(01636) at 560 kg
+W/RN/12|1991|all crops|manures|Manganese at 0.16 kg in 300 1.
+W/RN/12|1991|all crops|weedkiller|glyphosate at 0.54 kg in 220 1
+W/RN/12|1991|all crops|weedkiller|§ Diflufenican at 0.10 kg and isoproturon at 1.0 kg applied with
+W/RN/12|1991|all crops|insecticide|in 220 1
+W/RN/12|1991|all crops|insecticide|mecoprop at 0.80 kg gals applied with
+W/RN/12|1991|all crops|insecticide|in 220 1
+W/RN/12|1991|all crops|insecticide|Fungicides Fenpropimorph at 0.38 kg in 210 1, and on a second occasion with chlorothalonil at 0.49 kg and flutriafol at 0.078 kg in 300 1.
+W/RN/12|1991|all crops|insecticide|Deltamathrin _ at 5.0 g on top occasions

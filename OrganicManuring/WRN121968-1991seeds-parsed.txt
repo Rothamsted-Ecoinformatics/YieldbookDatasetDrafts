@@ -1,0 +1,45 @@
+W/RN/12|1972|potatoes|Pentland Crown
+W/RN/12|1972|rye|King II sown at 190 kg
+W/RN/12|1973|winter wheat|Capelle sown at 200 kg
+W/RN/12|1973|potatoes|Pentland Crown
+W/RN/12|1974|sugar beet|Klein E sown at 8.0 kg
+W/RN/12|1974|winter wheat|Capelle, dressed with dieldrin, sown at 190 kg
+W/RN/12|1975|sugar beet|Klein E sown at 5.6 kg
+W/RN/12|1975|barley|Julia, dressed with Ethirimol, sown at 160 kg
+W/RN/12|1976|winter oats|Peniarth, sown at 200 kg
+W/RN/12|1976|barley|Julia, dressed with Ethirimol, sown at 160 kg
+W/RN/12|1977|winter oats|Peniarth, sown at 200 kg
+W/RN/12|1977|potatoes|Pentland Crown
+W/RN/12|1978|winter wheat|Maris Huntsman at 210 kg.
+W/RN/12|1978|potatoes|Pentland Crown.
+W/RN/12|1979|winter wheat|Flanders, sown at 180 kg
+W/RN/12|1979|sugar beet|Klein E, sown at 5.6 kg
+W/RN/12|1979|clover grass ley|sown at 22.4 kg.
+W/RN/12|1980|barley|Georgie, dressed with Ethirimol, sown at 160 kg
+W/RN/12|1980|sugar beet|Bush Mono G, sown at 5.6 kg. 
+W/RN/12|1980|clover grass ley|Climax timothy at 7 kg, S.215 meadow fescue at 14 kg, Huia white clover at 2 kg, mixture sown at 23 kg.
+W/RN/12|1981|barley|Georgie, dressed with Ethirimol, sown at 160 kg.
+W/RN/12|1981|beans|Minden, sown at 220 kg.
+W/RN/12|1981|clover grass ley|Climax timothy at 13.4 kg, S215 meadow fescue at 11.2 kg, Huia white clover at 3.4 kg. Mixture sown at 28 kg.
+W/RN/12|1982|w wheat|Avalon, sown at 190 kg
+W/RN/12|1982|w beans|Throws NS, sown at 250 kg.
+W/RN/12|1982|clover grass ley|Climax timothy at 13.4 kg, S215 meadow fescue at 11.2 kg, Huia white clover at 3.4 kg. Mixture sown at 28 kg.
+W/RN/12|1983|w wheat|Avalon, sown at 190 kg.
+W/RN/12|1983|sugar beet|Monoire, sown by precision drill.
+W/RN/12|1984|W. oats|Panema, sown at 200 kg
+W/RN/12|1984|sugar beet|Monoire, sown by precision drill.
+W/RN/12|1985|w. oats|Panema, sown at 180 kg
+W/RN/12|1985|s. oats|Trafalgar, sown at 200 kg
+W/RN/12|1985|w rye|Animo, sown at 220 kg.
+W/RN/12|1986|s. oats|Dula,sown at 180 kg
+W/RN/12|1986|w. rye|Animo, sown at 220 kg
+W/RN/12|1987|w wheat|Mercia, sown at 190 kg.
+W/RN/12|1987|W. oats|Bulwark, sown at 140 kg.
+W/RN/12|1988|w wheat|Mercia, sown at 190 kg.
+W/RN/12|1988|potatoes|Pentland Crown.
+W/RN/12|1989|potatoes|Pentland Crown dressed 'Seedtect'
+W/RN/12|1989|w wheat|Mercia, sown at 160 kg with methiocarb pellets.
+W/RN/12|1990|w wheat|Mercia, sown at 180 kg with methiocarb pellets
+W/RN/12|1990|w beans|Banner, sown at 18 seed per square metre.
+W/RN/12|1991|w beans|Banner, sown at 120 kg
+W/RN/12|1991|w wheat|Mercia, sown at 150 kg	
