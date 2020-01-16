@@ -74,6 +74,7 @@ R/HB/2|1978|potatoes|Fungicide|mancozeb at 1.3 kg in 220 1 on three occasions, t
 R/HB/2|1978|potatoes|Fungicide|Fentin acetate and maneb ('Fennite A' at 1.7 kg) in 220 1 on two occasions.
 R/HB/2|1978|potatoes|insecticide|pirimicarb at 0.14 kg on two occasions.
 R/HB/2|1978|beans|insecticide|pirimicarb at 0.14 kg in 220 1.
+R/HB/2|1979|all crops|manures|Chalk at 2.5 t
 R/HB/2|1979|all crops|weedkiller|mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 kg) in 220 1.
 R/HB/2|1979|all crops|Fungicide|Tridemorph at 0.53 kg in 220 1.
 R/HB/2|1980|all crops|weedkiller|glyphosate at 1.5 kg in 220 1
