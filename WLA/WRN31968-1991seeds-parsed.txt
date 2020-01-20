@@ -1,0 +1,103 @@
+W/RN/3|1972|potatoes|Maris Piper
+W/RN/3|1972|winter wheat|Cappelle sown at 160 kg.
+W/RN/3|1972|barley|Julia (dressed with Ethirimol, sown at 150 kg.
+W/RN/3|1972|red clover|S123 sown at 45 kg,
+W/RN/3|1972|ley|Perennial grass S23, Cocksfoot S143, late flowering Red clover white clover S100 sown at 50 kg,
+W/RN/3|1972|hay|Perennial grass S24, late flowering Red clover Alsike clover sown at 30 kg.
+W/RN/3|1973|winter wheat|Cappelle, sown at 200 kg.
+W/RN/3|1973|barley|Julia, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1973|potatoes|Maris Piper.
+W/RN/3|1973|red clover|S123, sown at 45 kg.
+W/RN/3|1973|ley|Perennial ryegress S23, Cocksfoot S143, late flowering Red clover Alsike clover sown at 30 kg.
+W/RN/3|1974|winter wheat|Cappelle, dressed with dieldrin, sown st 190 kg.
+W/RN/3|1974|barley|Julia, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1974|potatoes|first test and treatment crop Maris Piper.
+W/RN/3|1974|red clover first year|S123, sown at 45 kg.
+W/RN/3|1974|red clover third year|re-sown English Broad Red, sown at 45 kg.
+W/RN/3|1974|ley|first year Perennial grass 23, Cocksfoot S143, late flowering Red clover Alsike clover sown at 30 kg.
+W/RN/3|1975|winter wheat|Cappelle, dressed with dieldrin, sown at 200 kg
+W/RN/3|1975|barley|Julia, dressed with Ethirimol, sown at 160 kg
+W/RN/3|1975|potatoes|first test and treatment crop Maris Piper
+W/RN/3|1975|red clover first year|S123, sown at 45 kg
+W/RN/3|1975|red clover third year|re-sown S123, sown st 40 kg
+W/RN/3|1975|ley|first year Perennial grass S23, Cccksfcot S143, late flowering Red clover, Alsike clover, sown at 30 kg.
+W/RN/3|1976|grass ley|Timothy S51 15 kg, meadow fescue S215 19 kg, sown at 34 kg.
+W/RN/3|1976|clover grass ley|Timothy S51 20 kg, meadow fescue S215 16 kg, white clover S100 4 kg, sown at 40 kg.
+W/RN/3|1976|barley|Julia, dressed with Ethirimol, sown at 160 kg
+W/RN/3|1976|oats|Manod, sown at 190 kg.
+W/RN/3|1976|winter wheat|Cappelle, sown at 210 kg
+W/RN/3|1977|grass ley|Timothy S48 15 kg, meadow fescue S215 19 kg, sown at kg.
+W/RN/3|1977|clover grass|Timothy S48 20 kg, meadow fescue S215 16 kg, Huia white clover 4 kg, sown at 40 kg.
+W/RN/3|1977|barley|Julia, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1977|oats|Manod, sown at 200 kg.
+W/RN/3|1977|winter wheat|Cappelle, sown at 210 kg.
+W/RN/3|1978|grass ley|Beret timothy 17 kg, meadow fescue S.215 17 kg, sown at 34 kg.
+W/RN/3|1978|clover grass ley|Beret timothy 20 kg, meadow fescue S.215 16 kg, Hula white clover 4 kg, sown at 40 kg.
+W/RN/3|1978|barley|Porthos, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1978|oats|Manod, sown at 200 kg.
+W/RN/3|1979|grass ley|Beret timothy 17 kg, meadow fescue S.215 17 kg, sown at 34 kg.
+W/RN/3|1979|clover grass ley|Beret timothy 20 kg, meadow fescue S.215 16 kg, Huia white clover 4 kg, sown at 40 kg.
+W/RN/3|1979|barley|Porthos, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1979|oats|Manod, sown at 200 kg.
+W/RN/3|1979|winter wheat|Flanders, sown at 180 kg.
+W/RN/3|1980|grass ley|Climax timothy at 17 kg, meadow fescue at 17 kg, . mixture sown at 34 kg.
+W/RN/3|1980|clover grass ley|Climax timothy at 18 kg, meadow fescue at 15 kg, Huia white clover at 4 kg, mixture sown at 37 kg.
+W/RN/3|1980|spring barley|Georgie, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1980|spring oats|Manod, sown at 170 kg.
+W/RN/3|1980|winter wheat|Flanders, sown at 200 kg.
+W/RN/3|1981|grass ley|Climax timothy at 17 kg, meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1981|clover grass ley|Climax timothy at 18 kg, meadow fescue at 15 kg, Huia white clover at 4 kg, mixture sown at 37 kg.
+W/RN/3|1981|spring barley|Triumph, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1981|spring beans|Minden, sown at 220 kg.
+W/RN/3|1981|winter wheat|Flanders, sown at 200 kg.
+W/RN/3|1982|grass ley|Climax timothy at 17 kg, meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1982|clover grass ley|Climax timothy at 18 kg, meadow fescue at 15 kg, Huia white clover at 4 kg, mixture sown at 37 kg.
+W/RN/3|1982|spring barley|Triumph, dressed with Ethirimol, sown at 160 kg.
+W/RN/3|1982|spring beans|Minden, sown at 220 kg.
+W/RN/3|1982|winter wheat|Avalon, sown at 200 kg.
+W/RN/3|1983|grass ley|Climax timothy at 17 kg, meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1983|clover grass ley|Climax timothy at 18 kg, meadow fescue at 15 kg, Huia white clover at 4 kg, mixture sown at 37 kg.
+W/RN/3|1983|spring barley|Triumph, dressed with triadimenol and fuberidazole, sown at 160 kg.
+W/RN/3|1983|spring beans|Minden, sown at 270 kg.
+W/RN/3|1983|winter wheat|Avalon, sown at 190 kg.
+W/RN/3|1983|potatoes|area, third treatment crop of spring beans failed and has related by potatoes.
+W/RN/3|1984|grass ley|Climax timothy at 17 kg, meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1984|clover grass ley|Climax timothy at 18 kg, meadow fescue at 15 kg, Huia white clover at 4 kg, mixture sown at 37 kg.
+W/RN/3|1984|spring barley|Triumph, dressed with triadimenol and fuberidazole, sown at 160 kg.
+W/RN/3|1984|spring beans|Minden, sown at 270 kg.
+W/RN/3|1984|winter wheat|Avalon, sown at 200 kg.
+W/RN/3|1985|grass ley|Climax timothy at 17 kg, meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1985|clover grass ley|Climax timothy at 18 kg, meadow fescue at 17 kg, Huia white clover at 4 kg, mixture sown at 39 kg.
+W/RN/3|1985|spring barley|Triumph, dressed with triadimenol and fuberidazole, sown at 160 kg.
+W/RN/3|1985|spring beans|Minden, sown at 270 kg.
+W/RN/3|1985|winter wheat|Avalon, sown at 190 kg. note spring beans failed and were re-sown at the sample rate but again failed because of bird damage.
+W/RN/3|1986|grass ley|Climax timothy at 17 kg and meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1986|clover grass ley|Climax timothy 13.5 kg, meadow fescue at 13.5 kg and Huia white clover at 6.7 kg, mixture sown at 34 kg.
+W/RN/3|1986|spring barley|Klaxon, sown at 160 kg.
+W/RN/3|1986|winter beans|Banner, sown at 250 kg.
+W/RN/3|1986|winter wheat|Avalon, sown at 190 kg.
+W/RN/3|1987|grass ley|Climax timothy at 17 kg and meadow fescue at 17 kg, mixture sown at 34 kg.
+W/RN/3|1987|clover grass ley|Climax timothy at 16 kg, meadow fescue at 14 kg and Huia white clover at 4.0 kg, mixture sown at 34 kg.
+W/RN/3|1987|spring barley|Klaxon, sown at 160 kg.
+W/RN/3|1987|winter beans|Bourdon, sown at 250 kg.
+W/RN/3|1987|winter wheat|Mercia, sown at 190 kg.
+W/RN/3|1988|grass ley|Climax timothy at 19 kg and meadow fescue at 19 kg, mixture sown at 39 kg.
+W/RN/3|1988|clover grass ley|Climax timothy at 19 kg, meadow fescue at 16 kg and Huia white clover at 4.7 kg, mixture sown at 39 kg.
+W/RN/3|1988|spring barley|Klaxon, sown at 150 kg.
+W/RN/3|1988|winter beans|Bourdon, dressed thiram and thiabendazole, sown at 250 kg.
+W/RN/3|1988|winter wheat|Mercia, sown at 190 kg.
+W/RN/3|1989|grass ley|Climax timothy at 15 kg and meadow fescue at 15 kg, mixture sown at 30 kg.
+W/RN/3|1989|clover grass ley|Climax timothy at 15 kg, meadow fescue at 12 kg and Huia white clover at 3.4 kg, mixture sown at 30 kg.
+W/RN/3|1989|spring barley|Klaxon, sown at 160 kg.
+W/RN/3|1989|winter beans|Bourdon, dressed thiram and thiabendazole, sown at 250 kg.
+W/RN/3|1989|winter wheat|Mercia, mixed with methiocarb plants, sown at 165 kg.
+W/RN/3|1990|grass ley|Climax timothy at 15 kg and meadow fescue at 15 kg, mixture sown at 30 kg.
+W/RN/3|1990|clover grass ley|Climax timothy at 15 kg, meadow fescue at 12 kg and Huia white clover at 3.4 kg, mixture sown at 30 kg. ;
+W/RN/3|1990|spring barley|Klaxon, dressed triadimenol and fuberidazole, sown at 160 kg.
+W/RN/3|1990|winter beans|Banner, sown at 18 seed per square are.
+W/RN/3|1990|winter wheat|Mercia, sown at 150 kg.
+W/RN/3|1991|grass ley|Stella meadow fescue at 15 kg, RVP Beret timothy at 15 kg, mixture sown at 30 kg.
+W/RN/3|1991|clover grass ley|Stella meadow fescue at 14 kg, RVP Beret . timothy at 14 kg, Huia white clover at 3.0 kg, mixture sown at 30 kg. .
+W/RN/3|1991|spring barley|Klaxon, dressed triadimenol and fuberidazole, sown at 135 kg.
+W/RN/3|1991|winter beans|Banner sown at 120 kg, (21 seed per square are.
+W/RN/3|1991|winter wheat|Mercia sown at 150 kg.

@@ -1,0 +1,449 @@
+W/RN/3|1973|winter wheat|manures|(0:20:20) at 300 kg
+W/RN/3|1973|winter wheat|manures|Magnesian limestone at 5 tines,
+W/RN/3|1973|winter wheat|weedkiller|paraquat at 0.56 kg ion in 280 1, ioxynil  at
+W/RN/3|1973|winter wheat|weedkiller|0.52 kg plus mecoprop at 1.58 kg in 28 1
+W/RN/3|1973|barley|manures|(15:15:15) at 4lo kg.
+W/RN/3|1973|barley|weedkiller|ioxynil at 0.52 kg plus mecoprop at 1.6 kg in 280 1
+W/RN/3|1973|potatoes|manures|(13:13:20) at 1940 kg.
+W/RN/3|1973|potatoes|weedkiller|Linvron at 1.7 kg in 2801.
+W/RN/3|1973|potatoes|fungicide|with
+W/RN/3|1973|potatoes|insecticide|mancozeb at 1.3 kg plus demeton-s-methyl at 0.25 kg in 390 1.
+W/RN/3|1973|potatoes|fungicide|mancozeb at 1.3 kg in 390 1 on the first occasion and in 370 1 on the second occasion,
+W/RN/3|1973|hay|manures|nitrogen at 130 kg as 'Nitro-chalk' plus (0:14:28) at 540 kg in spring, and (25:0:16) at 270 kg after the first cut
+W/RN/3|1973|ley|manures|nitrogen at 50 kg as 'Nitro-chalk, P205 at 190 kg as superphospaate, K20 at 130 kg as muriate of potash in the seedbed
+W/RN/3|1973|ley|manures|(25:93:16) at 360 kg died batween ton equal applications,
+W/RN/3|1973|ley|weedkiller|menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 l in 280 l)
+W/RN/3|1973|ley|manures|(25:0:16) at 540 kg in three equal applications, clover first year:
+W/RN/3|1973|ley|manures|nitrogen at 60 kg as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 kg as muriate of potash.
+W/RN/3|1973|ley|weedkiller|menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 1 in 280 1)
+W/RN/3|1973|ley|weedkiller|clover second and third year nitrogen at 60 kg as 'Nitro-chalk, K20 at 190 kz as muriate of potash,
+W/RN/3|1974|winter wheat|manures|Megnesian limestone at 5 tines
+W/RN/3|1974|winter wheat|manures|(0:20:20) at 200 xg, combine drilled.
+W/RN/3|1974|winter wheat|weedkiller|mecoprop at 0.84 kg in 280 1
+W/RN/3|1974|winter wheat|weedkiller|ioxynil at 0.52 kg plus mecoprop at 1.6 kg in 280 1
+W/RN/3|1974|barley|manures|second and third treatment crop (15:15:15) at 390 kg combine drilled.
+W/RN/3|1974|barley|weedkiller|second treatment crop menazon with 2.4-DB Hardy MCPA ('Legmmex extra' at 7.0 1 in 260 1)
+W/RN/3|1974|barley|weedkiller|third treatment ioxynil at 0.52 kg plus mecoprop at 1.6 kg in 280 1
+W/RN/3|1974|potatoes|manures|(13:13:20) at 1940 kg.
+W/RN/3|1974|potatoes|weedkiller|Linuron at 1.2 kg plus paraquat at 0.28 kg ion in 280 1.
+W/RN/3|1974|potatoes|fungicide|and
+W/RN/3|1974|potatoes|insecticide|mancozeb at 1.3 kg plus demeton-s-methyl at 0.25 kg in 450 1
+W/RN/3|1974|potatoes|insecticide|Fungicides mancozeb at 1.3 kg in h50 1
+W/RN/3|1974|hay|manures|N at 130 kg, as 'Nitro-chalk, plus (0:14:28) at 540 kg in spring
+W/RN/3|1974|hay|manures|(25:03:16) at 270 kg after the first cut
+W/RN/3|1974|ley|manures|N at 50 kg, as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 kg as muriate of potash in the seedbed
+W/RN/3|1974|ley|manures|tesronies at 360 kg in late Super.
+W/RN/3|1974|ley|weedkiller|menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 1 in 280 1)
+W/RN/3|1974|ley|manures|(25:02:16) at 360 kg for each cut, clover first year:
+W/RN/3|1974|ley|manures|N at 60-kg as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 as muriate of potash,
+W/RN/3|1974|ley|weedkiller|menazon with 2.4-DB and seed Tcne ee extra' at 7.0 1 in 280 1)
+W/RN/3|1974|ley|weedkiller|clover second and third year N at 60 kg as 'Nitro-chalk, K20 at 190 kg as muriate of potash,
+W/RN/3|1974|ley|weedkiller|third year only menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 1 in 280 1)
+W/RN/3|1976|all crops|manures|(0:14:28) at 540 kg
+W/RN/3|1976|all crops|manures|N at 80 kg as Nitro- Chalk.
+W/RN/3|1976|all crops|weedkiller|paraquat at 0.56 kg ion in 280 1
+W/RN/3|1976|all crops|weedkiller|- all clover grass ley:
+W/RN/3|1976|all crops|manures|(0:14:28) at 540 kg.
+W/RN/3|1976|all crops|weedkiller|paraquat at 0.56 kg ion in 280 l
+W/RN/3|1976|barley|manures|(20:14:14) at 400 kg, combine drilled.
+W/RN/3|1976|barley|weedkiller|ioxynil at 0.52 kg plus mecoprop at 1.6 kg in 260 l
+W/RN/3|1976|oats|manures|(20:14:14) at 400 kg combine drilled.
+W/RN/3|1976|oats|weedkiller|ioxynil at 0.52 kg plus mecoprop at 1.6 kg in 260 1
+W/RN/3|1976|winter wheat|manures|Magnesian limestone to second test crop only at 5 tines
+W/RN/3|1976|winter wheat|manures|(0:20:20) at 300 kg combine drilled.
+W/RN/3|1976|winter wheat|weedkiller|ioxynil at 0.63 kg plus mecoprop 1.9 kg in 280 1.
+W/RN/3|1976|winter wheat|insecticide|Aldicarb to first test acre only at 10 kg
+W/RN/3|1977|grass ley|manures|(0:14:28) at 500 kg
+W/RN/3|1977|grass ley|manures|N at 70 kg as 'Nitro-chalk.
+W/RN/3|1977|grass ley|weedkiller|glyphosate at 1.7 kg in 280 1
+W/RN/3|1977|grass ley|manures|Magnesian limestone at 5 t to and year only
+W/RN/3|1977|grass ley|manures|(25:0:16) at 300 kg in spring, and at 400 kg after the first cut.
+W/RN/3|1977|grass ley|weedkiller|paraquat at 0.84 kg ion in 280 1 to third 4th and 5th year only
+W/RN/3|1977|clover grass ley|manures|Magnesian limestone at 5 t to and year only
+W/RN/3|1977|clover grass ley|manures|K20 at 48 kg in spring and after toppings in July.
+W/RN/3|1977|clover grass ley|weedkiller|paraquat at 0.84 kg ion in 280 1 to third 4th and 5th year only
+W/RN/3|1977|barley|manures|1st and and treatment crop (20:14:14) at 400 kg
+W/RN/3|1977|barley|manures|and test crop Magnesian limestone at 5 t, (0:20:20) at 300 kg.
+W/RN/3|1977|barley|weedkiller|paraquat at 0.8% kg Farmon in 280 1
+W/RN/3|1977|barley|weedkiller|and test crop only glyphosate at 1.7 kg in 280 1
+W/RN/3|1977|barley|weedkiller|and test crop:
+W/RN/3|1977|barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1977|oats|manures|(20:14:14) at 400 kg.
+W/RN/3|1977|oats|weedkiller|paraquat at 0.84 kg ion in 280 1, glyphosate at 1.7 kg in 280 1
+W/RN/3|1977|winter wheat|manures|(0:20:20) at 300 kg combine drilled.
+W/RN/3|1977|winter wheat|weedkiller|paraquat at 0.84 kg ion in 280 1
+W/RN/3|1977|winter wheat|weedkiller|ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 220 1.
+W/RN/3|1977|winter wheat|insecticide|pirimicarb at 0.14 kg in 270 1.
+W/RN/3|1977|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1977|winter wheat|insecticide|fallow:
+W/RN/3|1977|winter wheat|weedkiller|glyphosate at 1.7 kg in 280 1 (1st year fallow
+W/RN/3|1977|winter wheat|weedkiller|paraquat at 0.84 kg ion in 280 1 (and year fallow
+W/RN/3|1978|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1978|grass ley|manures|N at 75 kg as 'Nitro-chalk 25' to grass ley only.
+W/RN/3|1978|grass ley|weedkiller|paraquat at 0.84 kg ion in 280 1
+W/RN/3|1978|grass ley|weedkiller|dinoseb amine at 2.0 kg in 450 1
+W/RN/3|1978|grass ley|manures|Magnesian limestone at 5 t to fifth year only
+W/RN/3|1978|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1978|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1978|clover grass ley|manures|Magnesian limestone at 5 t to 5th year only
+W/RN/3|1978|clover grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1978|clover grass ley|manures|K20 at 48 kg in spring and after the first cut
+W/RN/3|1978|barley|manures|first and second treatment crop (20:14:14) at 400 kg combine drilled
+W/RN/3|1978|barley|manures|second test crop Magnesian limestone at 5 t
+W/RN/3|1978|barley|manures|(0:20:20) at 300 kg combine drilled.
+W/RN/3|1978|barley|weedkiller|mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg in 280 1).
+W/RN/3|1978|barley|fungicide|Tridemorph at 0.53 kg in 280 1
+W/RN/3|1978|barley|fungicide|with
+W/RN/3|1978|barley|weedkiller|second test crop only:
+W/RN/3|1978|barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1978|oats|manures|(20:14:14) at 400 kg combine drilled.
+W/RN/3|1978|oats|weedkiller|mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg in 280 1)
+W/RN/3|1978|winter wheat|manures|(0:20:20) at 310 kg combine drilled.
+W/RN/3|1978|winter wheat|weedkiller|paraquat at 0.84 kg-ion in 220 l
+W/RN/3|1978|winter wheat|weedkiller|mecoprop, bromoxynil and ioxynil ('Brittox' at 3.5 kg in 280 l).
+W/RN/3|1978|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1978|winter wheat|insecticide|fallow first year paraquat at 0.84 kg ion in 280 1
+W/RN/3|1979|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1979|grass ley|manures|N at 75 kg as 'Nitro-chalk' to grass ley only
+W/RN/3|1979|grass ley|manures|Magnesian limestone at 5 t to Sth year only
+W/RN/3|1979|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1979|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1979|clover grass ley|manures|Magnesian limestone at 5 t to fifth year only
+W/RN/3|1979|clover grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1979|clover grass ley|manures|K0 at 48 kg in spring and after the first cut
+W/RN/3|1979|barley|manures|(20:14:14) at 400 kg, combine drilled.
+W/RN/3|1979|barley|weedkiller|bromoxynil and ioxynil ('Oxytril CM' at 2.1 kg) in 250 1
+W/RN/3|1979|barley|weedkiller|second test crop:
+W/RN/3|1979|barley|manures|Magnesian limestone at 5 t
+W/RN/3|1979|barley|manures|(0:20:20) at 300 kg, combine drilled.
+W/RN/3|1979|barley|weedkiller|bromoxynil and ioxynil ('Oxytril CM' at 2.1 kg) in 250 1.
+W/RN/3|1979|barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1979|oats|manures|(20:14:14) at 400 kg, combine drilled.
+W/RN/3|1979|oats|weedkiller|('Oxytril CM' at 2.1 kg) in 250 1
+W/RN/3|1979|winter wheat|manures|(0:20:20) at 310 kg, combine drilled.
+W/RN/3|1979|winter wheat|weedkiller|mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg) in 250 1.
+W/RN/3|1979|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1980|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1980|grass ley|manures|N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3|1980|grass ley|weedkiller|paraquat bales kg ion in 450 1
+W/RN/3|1980|grass ley|weedkiller|mecoprop at 2.5 1 in 280 1 to grass ley only
+W/RN/3|1980|grass ley|manures|Magnesian limestone at 5 t to 5th year only
+W/RN/3|1980|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1980|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1980|clover grass ley|manures|Magnesian limestone at 5 t to 5th year only, (0:14:28) at 540 kg
+W/RN/3|1980|clover grass ley|manures|K20 at 48 kg in spring and after the first cut
+W/RN/3|1980|spring barley|manures|(20:10:10) at 400 kg, combine drilled.
+W/RN/3|1980|spring barley|weedkiller|mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1
+W/RN/3|1980|spring barley|weedkiller|Fungicides Tridemorph at 0.53 kg in 280 1
+W/RN/3|1980|spring barley|weedkiller|Ethirimol (as 'Milgo E' at 1.3 1) in 2801
+W/RN/3|1980|spring oats|manures|(20:10:10) at 400 kg, combine drilled.
+W/RN/3|1980|spring oats|weedkiller|mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1
+W/RN/3|1980|winter wheat|manures|(0:20:20) at 310 kg, combine drilled.
+W/RN/3|1980|winter wheat|weedkiller|chlortoluron 3.6 kg in 250 1.
+W/RN/3|1980|winter wheat|insecticide|Aldicarb at 10
+W/RN/3|1980|spring barley|manures|(0:20:20) at 300 kg, combine drilled.
+W/RN/3|1980|spring barley|weedkiller|mecoprop with bromoxynil] and ioxynil (as 'Brittox' at 3.5 1) in 280 1
+W/RN/3|1980|spring barley|weedkiller|Fungicides Tridemorph at 0.53 kg in 280 1
+W/RN/3|1980|spring barley|weedkiller|Ethirimol (as 'Milgo E' at 1.3 1) in 280 1.
+W/RN/3|1980|spring barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1981|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1981|grass ley|manures|N at 75 kg as 'Nitro-chalk' to grass ley only
+W/RN/3|1981|grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1981|grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1981|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1981|clover grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1981|clover grass ley|manures|(0:14:28) at 540 kg
+W/RN/3|1981|clover grass ley|manures|K20 at 48 kg in spring and 43 kg after the first cut
+W/RN/3|1981|spring barley|manures|(20:10:10) at 400 kg
+W/RN/3|1981|spring barley|manures|N at 40 kg as 'Nitro-chalk.
+W/RN/3|1981|spring barley|weedkiller|mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1 applied with
+W/RN/3|1981|spring barley|fungicide|to lst treatment crop
+W/RN/3|1981|spring barley|fungicide|Dicamba with mecoprop and MCPA (as 'Kerrisol' at 4.9 1) in 280 1 applied with
+W/RN/3|1981|spring barley|fungicide|to and treatment crop.
+W/RN/3|1981|spring barley|fungicide|Tridemorph at 0.53 kg
+W/RN/3|1981|spring beans|manures|(0:20:20) at 200 kg.
+W/RN/3|1981|spring beans|weedkiller|Simazine at 0.84 kg in 280 1.
+W/RN/3|1981|spring beans|insecticide|pirimicarb at 0.14 kg in 280 1 on ton occasions
+W/RN/3|1981|winter wheat|manures|(0:20:20) at 310 kg.
+W/RN/3|1981|winter wheat|weedkiller|chlortoluron at 5.6 2 in 300 1, mecoprop at 2.5 1 with isoproturon at 2.5 1 in 280 1.
+W/RN/3|1981|winter wheat|fungicide|triadimenol with captafol (as 'Baylaton CF' at 2 kg) in 2801
+W/RN/3|1981|spring barley|manures|Magnesian limestone at 5.0 t
+W/RN/3|1981|spring barley|manures|(0:20:20) at 300 kg.
+W/RN/3|1981|spring barley|weedkiller|mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1 with
+W/RN/3|1981|spring barley|fungicide|Tridemorph at 0.53 kg
+W/RN/3|1982|grass ley|manures|(0:18:36) at 420 kg
+W/RN/3|1982|grass ley|manures|N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3|1982|grass ley|weedkiller|glyphosate at 1.5 kg in 280 1
+W/RN/3|1982|grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1982|grass ley|manures|(0:14:28) at 530 kg
+W/RN/3|1982|grass ley|manures|(28:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1982|clover grass ley|manures|Magnesian limestone at 5.0 t to Sth year only
+W/RN/3|1982|clover grass ley|manures|(0:14:28) at 530 kg
+W/RN/3|1982|clover grass ley|manures|K20 at 48 kg in spring and after the first cut
+W/RN/3|1982|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1982|spring barley|weedkiller|glyphosate at 1.5 kg in 280 1, Dicamba with mecoprop and MCPA (as 'Farmon' at 4.9 1) in 280 1
+W/RN/3|1982|spring barley|weedkiller|fallow first treatment crop glyphosate at 1.5 kg in 280 1
+W/RN/3|1982|spring beans|manures|(0:20 205 at 200 kg.
+W/RN/3|1982|spring beans|weedkiller|glyphosate at 1.5 kg in 280 I, 0.76 kg triatazine with 0.10 kg simazine in 280 1
+W/RN/3|1982|winter wheat|manures|(0:20:20) at 310 kg.
+W/RN/3|1982|winter wheat|weedkiller|glyphosate at 1.5 kg in 280 1, chlortoluron at 5.6 1 in 280 1.
+W/RN/3|1982|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1982|spring barley|manures|Magnesian limestone at 5.0 t
+W/RN/3|1982|spring barley|manures|(0:20:20) at 300 kg.
+W/RN/3|1982|spring barley|weedkiller|glyphosate at 1.5 kg in 280 1, Dicamba with mecoprop and MCPA (as 'Farmon' at 4.9 1) in 280 1.
+W/RN/3|1982|spring barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1983|grass ley|manures|(0:18:36) at 420 kg
+W/RN/3|1983|grass ley|manures|N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3|1983|grass ley|weedkiller|glyphosate at 1.5 g in 280 1
+W/RN/3|1983|grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1983|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1983|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1983|clover grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1983|clover grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1983|clover grass ley|manures|K20 at 48 kg as muriate of potash in spring and after the first cut
+W/RN/3|1983|spring barley|manures|(20:10:10) at 400 kg, N at 60 kg as Nitro-chalk.
+W/RN/3|1983|spring barley|weedkiller|Dicamba with mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 1
+W/RN/3|1983|spring barley|weedkiller|fallow, 1st treatment crop:
+W/RN/3|1983|spring barley|weedkiller|paraquat 0.84 kg Farmon in 280 1
+W/RN/3|1983|spring beans|manures|(0:20:20) at 200 kg.
+W/RN/3|1983|spring beans|weedkiller|Triatazine at 0.76 kg with simazine at 0.11 kg in 280 1
+W/RN/3|1983|potatoes|manures|(10:10:15+4.5 Mg) at 1990 kg.
+W/RN/3|1983|potatoes|weedkiller|Linuron at 1.0 kg with paraquat at 0.40 kg ion in 250 1
+W/RN/3|1983|potatoes|weedkiller|Fungicides mancozeb at 1.4 kg in 250 1 applied three times, with
+W/RN/3|1983|potatoes|insecticide|on the first and third occasions
+W/RN/3|1983|potatoes|insecticide|Fentin hydroxide at 0.28 kg in 250 1 applied five times, with
+W/RN/3|1983|potatoes|insecticide|on the first four occasions.
+W/RN/3|1983|potatoes|insecticide|pirimicarb at 0.14 kg on mix occasions
+W/RN/3|1983|winter wheat|manures|(0:20:20) at 310 kg.
+W/RN/3|1983|winter wheat|weedkiller|glyphosate at 1.5 kg in 280 1, mecoprop with bromoxynil and ioxynil (as "Brittox' at 3.5 1) with
+W/RN/3|1983|winter wheat|fungicide|in 250 1.
+W/RN/3|1983|winter wheat|fungicide|Prochloraz at 0.40 1,
+W/RN/3|1983|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1983|spring barley|manures|Magnesian limestone at 5.0 t
+W/RN/3|1983|spring barley|manures|(0:20:20) at 300 kg.
+W/RN/3|1983|spring barley|weedkiller|Dicamba with mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 1.
+W/RN/3|1983|spring barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1984|grass ley|manures|(0:18:36) at 420 kg
+W/RN/3|1984|grass ley|manures|N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3|1984|grass ley|weedkiller|MCPA at 2.1 kg in 250 1,
+W/RN/3|1984|grass ley|manures|Magnesian limestone at 5.0 t to Sth year only
+W/RN/3|1984|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1984|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut.
+W/RN/3|1984|grass ley|weedkiller|MCPA with MCPA (as 'Trifolextra' at 7.0 1) in 250 1 to and year only
+W/RN/3|1984|clover grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1984|clover grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1984|clover grass ley|manures|K20 at 48 kg as muriate of potash in spring and after the first cut.
+W/RN/3|1984|clover grass ley|weedkiller|MCPA with MCPA (as 'Trifolex-tra' at 7.0 1) in 250 1 to and year only
+W/RN/3|1984|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1984|spring barley|weedkiller|3, "3,6-dichloropicolinic" acid at 0.07 kg with bromoxynil} octanoate at 0.34 kg and mecoprop at 2.1 kg in 250 1,
+W/RN/3|1984|spring barley|fungicide|Tridemorph at 0.52 kg in 250 1
+W/RN/3|1984|spring beans|manures|(0:20:20) at 200 kg
+W/RN/3|1984|winter wheat|manures|(0:20:20) at 310 kg.
+W/RN/3|1984|winter wheat|weedkiller|glyphosate at 1.8 kg in 280 1
+W/RN/3|1984|winter wheat|weedkiller|chlortoluron at 3.5 kg in 250 1.
+W/RN/3|1984|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1984|barley|manures|Magnesian limestone at 5.0 t
+W/RN/3|1984|barley|manures|(0:20:20) at 310 kg.
+W/RN/3|1984|barley|weedkiller|3, "3,6-dichloropicolinic" acid at 0.07 kg bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg in 250 1.
+W/RN/3|1984|barley|fungicide|Tridemorph at 0.52 kg in 250 1.
+W/RN/3|1984|barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1985|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1985|grass ley|manures|not 50 kg as 'Nitro-chalk' (27.5% N) to grass ley only
+W/RN/3|1985|grass ley|manures|Magnesian limestone at 7.5 t to Sth year only
+W/RN/3|1985|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1985|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1985|clover grass ley|manures|Magnesian limestone at 7.5 t to 5th year only
+W/RN/3|1985|clover grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1985|clover grass ley|manures|K20 at 48 kg as muriate of potash in spring and after the first cut
+W/RN/3|1985|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1985|spring barley|weedkiller|mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil] at 0.3 kg in 250 1
+W/RN/3|1985|spring beans|manures|(0:24:24) at 170 kg
+W/RN/3|1985|winter wheat|manures|(0:20:20) at 310 kg.
+W/RN/3|1985|winter wheat|weedkiller|glyphosate at 1.5 kg in 280 1
+W/RN/3|1985|winter wheat|weedkiller|mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 1.
+W/RN/3|1985|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1985|winter wheat|insecticide|Fungicides propiconazole on ton occasfons, at 0.25 kg in 250 1 on the first occasion, at 0.12 kg on the second with Septal
+W/RN/3|1985|winter wheat|insecticide|Carbendazim with maneb (as 'Septal' at 2.5 kg) in 250 1 with propiconazole
+W/RN/3|1985|spring barley|manures|Magnesian limestone at 7.5 t
+W/RN/3|1985|spring barley|manures|(0:24:24) at 260 kg,
+W/RN/3|1985|spring barley|weedkiller|mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 1.
+W/RN/3|1985|spring barley|insecticide|Aldicarb at 10 kg
+W/RN/3|1986|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1986|grass ley|manures|not 75 Ks to grass ley and 50 kg to clover grass as 'Nitram,
+W/RN/3|1986|grass ley|weedkiller|MCPA at 0.16 kg and MCPA at 1.1 kg in 240 1
+W/RN/3|1986|grass ley|manures|Magnesian times at 7.5 t to 5th year only
+W/RN/3|1986|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1986|grass ley|manures|(25:0:16) at 300 kg fn spring and after the first cut.
+W/RN/3|1986|grass ley|weedkiller|MCPA at 0.16 kg and MCPA at 1.1 kg in 240 1
+W/RN/3|1986|clover grass ley|weedkiller|MCPA at 0.16 kg and MCPA at 1.1 kg in 240 l
+W/RN/3|1986|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1986|spring barley|weedkiller|Clopyralid at 0.07 kg with bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg applied with the
+W/RN/3|1986|spring barley|fungicide|in 250 1.
+W/RN/3|1986|spring barley|fungicide|Tridemorph at 0.52 kg
+W/RN/3|1986|winter beans|manures|(0:24:24) at 170 kg.
+W/RN/3|1986|winter beans|weedkiller|Triatazine at 0.72 kg with simazine at 0.10 kg in 250 1
+W/RN/3|1986|winter beans|weedkiller|desiccant Diquat at 0.42 kg ion in 200 1
+W/RN/3|1986|winter wheat|manures|(0:24:24) at 260 kg.
+W/RN/3|1986|winter wheat|weedkiller|glyphosate at 1.5 kg in 280 1
+W/RN/3|1986|winter wheat|weedkiller|Dicamba with mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 1.
+W/RN/3|1986|winter wheat|insecticide|Aldicarb at 10 kg
+W/RN/3|1986|spring barley|manures|Magnesian limestone at 7.5 t
+W/RN/3|1986|spring barley|manures|(0:24:24) at 260 kg.
+W/RN/3|1986|spring barley|weedkiller|Clopyralid at 0.07 kg with bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg applied with the
+W/RN/3|1986|spring barley|fungicide|in 250 1.
+W/RN/3|1986|spring barley|fungicide|Tridemorph at 0.52 kg.
+W/RN/3|1986|spring barley|insecticide|Aldicarb at 10 kg,
+W/RN/3|1987|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1987|grass ley|manures|N at 77 kg to grass ley and 50 kg to clover grass as 'Nitram
+W/RN/3|1987|grass ley|manures|(25:0:16) at 300 kg to grass ley K20 at 48 kg as muriate of potash to clover grass ley.
+W/RN/3|1987|grass ley|weedkiller|glyphosate at 1.4 kq in 200 1, paraquat at 0.40 kg ion in 200 1,
+W/RN/3|1987|grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1987|grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1987|grass ley|manures|(25:0:16) at 300 kg in spring and after each cut except the east
+W/RN/3|1987|clover grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1987|clover grass ley|manures|(0:18:36) at 410 kg
+W/RN/3|1987|clover grass ley|manures|K20 at 48 kg as muriate of potash in spring and after each cut except the east
+W/RN/3|1987|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1987|spring barley|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/3|1987|spring barley|weedkiller|Clopyralid at 0.05 kg, bromoxynil at 0.24 kg with mecoprop at 2.5 kg in 200 1 applied with the Tridemorph
+W/RN/3|1987|spring barley|weedkiller|Fungicides Tridemorph at 0.52 kg
+W/RN/3|1987|spring barley|weedkiller|triadimenol at 0.062 kg with Tridemorph at 0.37 kg in 200 1
+W/RN/3|1987|winter beans|manures|(0:20:20) at 200 ka.
+W/RN/3|1987|winter beans|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/3|1987|winter beans|weedkiller|Triatazine at 0.72 kg with simazine at 0.10 kg in 240 1
+W/RN/3|1987|winter beans|weedkiller|fallow first treatment year only:
+W/RN/3|1987|winter beans|weedkiller|glyphosate at 1.4 kg in 200 l
+W/RN/3|1987|winter wheat|manures|(0:24:24) at 260 kg.
+W/RN/3|1987|winter wheat|weedkiller|glyphosate at 1.5 kg in 200 1
+W/RN/3|1987|winter wheat|weedkiller|Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 240 1
+W/RN/3|1987|winter wheat|weedkiller|Fungicides Fenpropimorph at 0.75 kg with chlorothalonil at 0.75 kg in 200 1
+W/RN/3|1987|winter wheat|weedkiller|propiconazole at 0.12 kg with carbendazim and maneb (as 'Septal' at 2.5 kg) in 200 1.
+W/RN/3|1987|winter wheat|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1987|barley|manures|Magnesian limestone at 5.0 t, (0:20:20) at 310 kg.
+W/RN/3|1987|barley|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/3|1987|barley|weedkiller|Clopyralid at 0.05 kg, bromoxynil at be24 kg with mecoprop at 2.5 kg in 200 3 applied with the Tridemorph
+W/RN/3|1987|barley|weedkiller|Fungicides Tridemorph at 0.52 kg
+W/RN/3|1987|barley|weedkiller|triadimenol at 0.062 kg with Tridemorph at 0.38 kg in 200 1.
+W/RN/3|1987|barley|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1988|grass ley|manures|(0:18:36) at 420 kg
+W/RN/3|1988|grass ley|manures|N at 76 kg to grass icy and 50 kg to clover grass as 'Nitram,
+W/RN/3|1988|grass ley|weedkiller|glyphosate at 2.4 kq in 200 1
+W/RN/3|1988|grass ley|manures|(0:18:36) at 560 kg
+W/RN/3|1988|grass ley|manures|(25:0:16) at 300 kg in spring and after each cut except the east
+W/RN/3|1988|clover grass ley|manures|(0:18:36) at 560 kq
+W/RN/3|1988|clover grass ley|manures|K20 at 40 kg as muriate of potash in spring and after each cut except the east
+W/RN/3|1988|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1988|spring barley|weedkiller|glyphosate at 1.4 kg in 200 1, to lst treatment crop only
+W/RN/3|1988|spring barley|weedkiller|Clopyralid at 0.05 kg, bromoxynil at 0.24 kg with mecoprop at 1.8 kg in 220 1.
+W/RN/3|1988|spring barley|fungicide|Tridemorph at 0.52 kg in 220 1
+W/RN/3|1988|winter beans|weedkiller|Propyzamide at 0.85 kg in 200 1
+W/RN/3|1988|winter beans|weedkiller|Simazine at 0.85 kg in 200 1.
+W/RN/3|1988|winter beans|fungicide|Chlorothalonil at 1.5 kg in 220 1.
+W/RN/3|1988|winter beans|insecticide|Deltamathrin at 0.075 kg in 220 1
+W/RN/3|1988|winter beans|insecticide|desiccant Diquat at 0.60 kg ion in 400 1
+W/RN/3|1988|winter beans|insecticide|fallow first treatment year only:
+W/RN/3|1988|winter beans|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/3|1988|winter wheat|manures|(0:24:24) at 260 kg.
+W/RN/3|1988|winter wheat|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/3|1988|winter wheat|weedkiller|Isoproturon at 2.1 kg with mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg in 220 1
+W/RN/3|1988|winter wheat|weedkiller|Fungicides propiconazole at 0.12 kg and Tridemorph at 0.25 kg in 220 1.
+W/RN/3|1988|winter wheat|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1988|barley|manures|(0:24:24) at 260 kg.
+W/RN/3|1988|barley|weedkiller|glyphosate at 1.4 kg in 200 1
+W/RN/3|1988|barley|weedkiller|Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 2201.
+W/RN/3|1988|barley|fungicide|Tridemorph at 0.52 kg in 220 1.
+W/RN/3|1988|barley|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1989|grass ley|manures|Magnesian limestone at §.0 t
+W/RN/3|1989|grass ley|manures|(0:18:36) at 420 kg
+W/RN/3|1989|grass ley|manures|WN at 76 kg to grass ley and 50 kg to clover grass as 'Nitram
+W/RN/3|1989|grass ley|manures|Magnesian limestone at 5.0 t to Sth and 6th year only
+W/RN/3|1989|grass ley|manures|(25:0:16) at 300 kg in spring and after each cut except the east
+W/RN/3|1989|clover grass ley|manures|Magnesian limestone at 5.9 t to Sth and 6th year only
+W/RN/3|1989|clover grass ley|manures|K20 at 54 kg as muriate of potash in spring and after each cut except the east
+W/RN/3|1989|barley|manures|Magnesian limestone at 5.0 t to first treatment crop only
+W/RN/3|1989|barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1989|barley|weedkiller|bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at 2.1 kg in 220 1
+W/RN/3|1989|barley|weedkiller|Fungicides propiconazole at
+W/RN/3|1989|barley|weedkiller|0.12 kg with Tridemorph at 0.52 kg in 220 1
+W/RN/3|1989|winter beans|manures|(9:24:24) at 170 kg.
+W/RN/3|1989|winter beans|weedkiller|Simazine at 0.85 kg in 220 1.
+W/RN/3|1989|winter beans|insecticide|Deltamathrin at 0.062 kg in 220 1
+W/RN/3|1989|winter beans|insecticide|pirimicarb at 0.14 kg in 220 1
+W/RN/3|1989|winter beans|insecticide|fallow first and second treatment year:
+W/RN/3|1989|winter beans|manures|Magnesian limestone at 5.0 t to first year only
+W/RN/3|1989|winter wheat|manures|(0:24:24) at 260 kg
+W/RN/3|1989|winter wheat|manures|Manganese at 0.096 kg Mn as a Folicur spray in 220 1.
+W/RN/3|1989|winter wheat|weedkiller|glyphosate at 1.4 kg in 220 1
+W/RN/3|1989|winter wheat|weedkiller|bromoxynil at 0.34 kg and clopyralid at 0.07 kg with mecoprop at 2.5 kg in 220 1
+W/RN/3|1989|winter wheat|weedkiller|Fungicides Carbendazim at 0.15 kg and prochloraz at 0.40 kg applied with tines growth xegulator in 220 1
+W/RN/3|1989|winter wheat|weedkiller|propiconazole at 0.12 kg in 220 1
+W/RN/3|1989|winter wheat|weedkiller|Fenpropimorph at 0.75 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 220 1.
+W/RN/3|1989|winter wheat|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1989|winter wheat|insecticide|Growth regulator Chlormequat chloride at 1.6 kg
+W/RN/3|1989|barley|manures|Magnesian limestone at 5.0 t
+W/RN/3|1989|barley|manures|(0:24:24) at 260 kg.
+W/RN/3|1989|barley|weedkiller|bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at 2.1 kg in 220 1
+W/RN/3|1989|barley|weedkiller|Fungicides propiconazole at 0.12 kg with Tridemorph at 0.52 kg in 220 1.
+W/RN/3|1989|barley|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1990|grass ley|manures|(0:18:36) at 420 kg
+W/RN/3|1990|grass ley|manures|(25:0:16) at 300 kg to grass ley in spring and after the first cut
+W/RN/3|1990|grass ley|manures|K20 at 54 kg to clover grass ley in spring and after the first cut
+W/RN/3|1990|grass ley|manures|Chalk at 5.0 t to Sth year only
+W/RN/3|1990|grass ley|manures|(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1990|grass ley|manures|(0:24:24) at 620 ka
+W/RN/3|1990|clover grass ley|manures|Chalk at 5.0 t to Sth year only
+W/RN/3|1990|clover grass ley|manures|K20 at 54 kg in spring and after the first cut
+W/RN/3|1990|clover grass ley|manures|(0:24:24) at 620 kg
+W/RN/3|1990|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1990|spring barley|weedkiller|bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at 1.7 kg in 220 1.
+W/RN/3|1990|spring barley|fungicide|Fenpropimorph at 0.75 kg in 220 1
+W/RN/3|1990|winter beans|manures|(0:24:24) at 170 kg
+W/RN/3|1990|winter beans|manures|Mn at 0.19 kg in 220 1 and late at 0.096 kg in 220 1.
+W/RN/3|1990|winter beans|weedkiller|Propyzamide at 0.85 kg with simazine at 0.85 kg in 220 1.
+W/RN/3|1990|winter beans|fungicide|Fenpropimorph at 0.75 kg in 220 1.
+W/RN/3|1990|winter beans|insecticide|Deltamathrin at 7.5 g in 220 1 applied on ton occasions
+W/RN/3|1990|winter beans|insecticide|fallow first and second treatment year No applications
+W/RN/3|1990|winter wheat|manures|(0:24:24) at 260 kg.
+W/RN/3|1990|winter wheat|weedkiller|glyphosate at 1.4 kg in 220 1
+W/RN/3|1990|winter wheat|weedkiller|bromoxynil at 0.34 kg and clopyralid at 0.07 kg, with isoproturon at 2.1 kg and with fluroxypyr at 0.15 kg in 220 1
+W/RN/3|1990|winter wheat|weedkiller|Fungicides propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 300 1.
+W/RN/3|1990|winter wheat|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1990|spring barley|manures|Chalk at 5.0 t
+W/RN/3|1990|spring barley|manures|(0:24:24) at 260 kg.
+W/RN/3|1990|spring barley|weedkiller|bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at 1.7 kg in 220 1.
+W/RN/3|1990|spring barley|fungicide|Fenpropimorph at 0.75 kg in 220 1.
+W/RN/3|1990|spring barley|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1991|grass ley|manures|(0:16:36) at 470 kg
+W/RN/3|1991|grass ley|manures|not 75 kg to grass ley as 'Nitram, N at 54 kg to
+W/RN/3|1991|clover grass ley||as 'Nitro-chalk
+W/RN/3|1991|clover grass ley||(25:0:26) at 300 kg to grass
+W/RN/3|1991|ley||in spring and after the first cut
+W/RN/3|1991|ley||K20 at 54 kg to
+W/RN/3|1991|clover grass ley||in spring and after the first cut
+W/RN/3|1991|grass ley|manures|Magnesian limestone at 5.0 t to 5th year only
+W/RN/3|1991|grass ley|manures|(0:16:36) at 470 kg, (25:0:16) at 300 kg in spring and after the first cut
+W/RN/3|1991|clover grass ley|manures|Magnesian limestone at 5.0 t to Sth year only
+W/RN/3|1991|clover grass ley|manures|(0:16:36) at 470 kg, K20 at 54 kg in spring and after the first cut
+W/RN/3|1991|spring barley|manures|(20:10:10) at 400 kg.
+W/RN/3|1991|spring barley|weedkiller|Metsulfuron-methyl at 6.0 g applied with the
+W/RN/3|1991|spring barley|fungicide|in 200 1.
+W/RN/3|1991|spring barley|fungicide|Tridemorph at 0.26 kg
+W/RN/3|1991|winter beans|manures|(0:24:24) at 170 kg.
+W/RN/3|1991|winter beans|weedkiller|Simazine at 0.14 kg and triatazine at 0.97 kg in 220 1.
+W/RN/3|1991|winter beans|fungicide|Chlorothalonil at 1.5 kg applied with the
+W/RN/3|1991|winter beans|insecticide|in 300 1.
+W/RN/3|1991|winter beans|insecticide|pirimicarb at 0.14 kg
+W/RN/3|1991|winter beans|insecticide|fallow first and second treatment year No applications
+W/RN/3|1991|winter wheat|manures|(0:24:24) at 260 kg.
+W/RN/3|1991|winter wheat|weedkiller|glyphosate at 0.36 kg in 220 1
+W/RN/3|1991|winter wheat|weedkiller|Diflufenican at 0.10 kg and isoproturon at 1.0 kg applied with the deltamathrin in 220 1
+W/RN/3|1991|winter wheat|weedkiller|Fungicides Fenpropimorph at 0.38 kg in 210 1 and on a second occasion with chlorothalonil at 0.49 kg and flutriafol at 0.078 kg in 300 1.
+W/RN/3|1991|winter wheat|insecticide|Deltamathrin at 5.0 g
+W/RN/3|1991|winter wheat|insecticide|Carbofuran at 7.5 kg
+W/RN/3|1991|winter wheat|insecticide|desiccant glyphosate at 1.4 kg in 200 i
+W/RN/3|1991|spring barley|manures|Magnesian limestone at 5.0 t
+W/RN/3|1991|spring barley|manures|(0:24:24) at 260 kg.
+W/RN/3|1991|spring barley|weedkiller|Metsulfuron-methyl at 6.0 g applied with the
+W/RN/3|1991|spring barley|fungicide|in 200 1.
+W/RN/3|1991|spring barley|fungicide|Tridemorph at 0.26 kg.
+W/RN/3|1991|spring barley|insecticide|Carbofuran at 7.5 kg
