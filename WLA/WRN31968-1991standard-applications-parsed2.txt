@@ -1,0 +1,457 @@
+experiment	harvest_year	treatment	application	
+W/RN/3	1973	winter wheat	manures	
+W/RN/3	1973	winter wheat	manures	
+W/RN/3	1973	winter wheat	weedkiller	
+W/RN/3	1973	winter wheat	weedkiller	
+W/RN/3	1973	barley	manures	
+W/RN/3	1973	barley	weedkiller	
+W/RN/3	1973	potatoes	manures	
+W/RN/3	1973	potatoes	weedkiller	Linuron at l.7 kg in 280 l. 
+W/RN/3	1973	potatoes	fungicide with insecticide	mancozeb at l.3 kg plus demeton-s-methyl at 0.25 kg in 390 l.
+W/RN/3	1973	potatoes	fungicide	mancozeb at l.3 kg in 390 1 on the first occassions and in 370 1 on the second occassions
+W/RN/3	1973	hay	manures	"nitrogen at 130 kg as 'Nitro-chalk' plus (0:14:28) at 540 kg in spring, and (25:0:16) at 270 kg after the first cut"
+W/RN/3	1973	ley first year	manures	"nitrogen at 50 kg as 'Nitro-chalk, P205 at 190 kg as superphospaate, K20 at 130 kg as muriate of potash in the seedbed"
+W/RN/3	1973	ley first year	manures	"(25:93:16) at 360 kg divided between two equal applications,"
+W/RN/3	1973	ley first year	weedkiller	menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 l in 280 l)
+W/RN/3	1973	ley	manures	(25:0:16) at 540 kg in three equal applications
+W/RN/3	1973	clover first year	manures	"nitrogen at 60 kg as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 kg as muriate of potash."
+W/RN/3	1973	clover first year	weedkiller	menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 1 in 280 1)
+W/RN/3	1973	clover second and third years		"nitrogen at 60 kg as 'Nitro-chalk, K20 at 190 kg as muriate of potash"
+W/RN/3	1974	winter wheat	manures	Magnesian limestone at 5 tines
+W/RN/3	1974	winter wheat	manures	"(0:20:20) at 200 kg, combine drilled."
+W/RN/3	1974	winter wheat	weedkiller	mecoprop at 0.84 kg in 280 l
+W/RN/3	1974	winter wheat	weedkiller	ioxynil at 0.52 kg plus mecoprop at l.6 kg in 280 l
+W/RN/3	1974	barley	manures	
+W/RN/3	1974	barley	weedkiller	
+W/RN/3	1974	barley	weedkiller	
+W/RN/3	1974	potatoes	manures	(13:13:20) at 1940 kg.
+W/RN/3	1974	potatoes	weedkiller	Linuron at l.2 kg plus paraquat at 0.28 kg ion in 280 l.
+W/RN/3	1974	potatoes	fungicide	and
+W/RN/3	1974	potatoes	insecticide	mancozeb at l.3 kg plus demeton-s-methyl at 0.25 kg in 450 l.
+W/RN/3	1974	potatoes	fungicides	mancozeb at l.3 kg in h50 l
+W/RN/3	1974	hay	manures	"N at 130 kg, as 'Nitro-chalk, plus (0:14:28) at 540 kg in spring"
+W/RN/3	1974	hay	manures	(25:03:16) at 270 kg after the first cut
+W/RN/3	1974	ley first year	manures	"N at 50 kg, as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 kg as muriate of potash in the seedbed"
+W/RN/3	1974	ley first year	manures	(25:06:16) at 360 kg in late Super.
+W/RN/3	1974	ley first year	weedkiller	menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 1 in 280 1)
+W/RN/3	1974	ley	manures	"(25:02:16) at 360 kg for each cut,"
+W/RN/3	1974	clover first year	manures	"N at 60-kg as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 as muriate of potash,"
+W/RN/3	1974	clover first year	weedkiller	menazon with 2.4-DB and seed Tcne ee extra' at 7.0 1 in 280 1)
+W/RN/3	1974	clover second and third years	weedkiller	third year only menazon with 2.4-DB and MCPA ('Legumex extra' at 7.0 1 in 280 1)
+W/RN/3	1975	winter wheat	manures	Magnesian limestone at 5 tines
+W/RN/3	1975	winter wheat	manures	"(0:20:20) at 290 kg, combine drilled."
+W/RN/3	1975	winter wheat	weedkiller	ioxynil at 0.63 kg plus mecoprop at l.9 kg in 280 l
+W/RN/3	1975	winter wheat	weedkiller	barley:
+W/RN/3	1975	winter wheat	manures	"and and Red treatment crop (15:15:15) at 4ic kg, combine drilled."
+W/RN/3	1975	winter wheat	weedkiller	Red treatment crop only ioxynil at 0.52 kg plus mecoprop at l.6 kg in 28 l
+W/RN/3	1975	potatoes	manures	(13:13:20) at 1940 kg.
+W/RN/3	1975	potatoes	weedkiller	Limrcn at l.2 kg plus paraquat at 0.28 kg ion in 280 l
+W/RN/3	1975	potatoes	weedkiller	treatment crop only paraquat at 0.56 kg ion in 280 l.
+W/RN/3	1975	potatoes	insecticide	demeton-s-methyl at 0.25 kg in 280 l.
+W/RN/3	1975	potatoes	fungicide	mancozeb at l.3 kg 390 l
+W/RN/3	1975	hay	manures	"N at 130 kg, as 'Nitro-chalk, plus (0:14:28) at 540 kg in spring"
+W/RN/3	1975	hay	manures	(25:02:16) at 270 kg after the first cut
+W/RN/3	1975	ley first year	manures	"N at 50 kg as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 kg as muriate of potash in the seedbed."
+W/RN/3	1975	ley first year	weedkiller	paraquat at 0.56 kg ion in 280 l
+W/RN/3	1975	ley	manures	(25:0:16) at 360 kg for each cut
+W/RN/3	1975	clover first year	manures	"N at 60 kg as 'Nitro-chalk, P205 at 190 kg as superphosphate, K20 at 130 kg as muriate of potash."
+W/RN/3	1975	clover first year	weedkiller	paraquat at 0.56 kg ion in 28 l
+W/RN/3	1975	clover second and third years	manures	"N at 60 kg as 'Nitro-chalk, K20 at 190 kg as muriate of potash."
+W/RN/3	1975	clover second and third years	weedkiller	Red year only paraquat at 0.84 kg ion in 280 l
+W/RN/3	1976	all crops	manures	(0:14:28) at 540 kg
+W/RN/3	1976	all crops	manures	N at 80 kg as 'Nitro-chalk.
+W/RN/3	1976	all crops	weedkiller	paraquat at 0.56 kg ion in 280 l
+W/RN/3	1976	all clover grass leys	manures	(0:14:28) at 540 kg.
+W/RN/3	1976	all clover grass leys	weedkiller	paraquat at 0.56 kg ion in 280 l
+W/RN/3	1976	barley	manures	.
+W/RN/3	1976	barley	weedkiller	ioxynil at 0.52 kg plus mecoprop at l.6 kg in 260 l
+W/RN/3	1976	oats	manures	(20:14:14) at 400 kg combine drilled.
+W/RN/3	1976	oats	weedkiller	ioxynil at 0.52 kg plus mecoprop at l.6 kg in 260 l
+W/RN/3	1976	winter wheat	manures	Magnesian limestone to second test crop only at 5 tines
+W/RN/3	1976	winter wheat	manures	(0:20:20) at 300 kg combine drilled.
+W/RN/3	1976	winter wheat	weedkiller	ioxynil at 0.63 kg plus mecoprop l.9 kg in 280 l.
+W/RN/3	1976	winter wheat	insecticide	Aldicarb to first test acre only at 10 kg
+W/RN/3	1977	grass ley	manures	(0:14:28) at 500 kg
+W/RN/3	1977	grass ley	manures	N at 70 kg as 'Nitro-chalk.
+W/RN/3	1977	grass ley	weedkiller	glyphosate at l.7 kg in 280 l
+W/RN/3	1977	grass ley	manures	Magnesian limestone at 5 t to and year only
+W/RN/3	1977	grass ley	manures	"(25:0:16) at 300 kg in spring, and at 400 kg after the first cut."
+W/RN/3	1977	grass ley	weedkiller	paraquat at 0.84 kg ion in 280 1 to third 4th and 5th year only
+W/RN/3	1977	clover grass ley	manures	Magnesian limestone at 5 t to and year only
+W/RN/3	1977	clover grass ley	manures	K20 at 48 kg in spring and after toppings in July.
+W/RN/3	1977	clover grass ley	weedkiller	paraquat at 0.84 kg ion in 280 1 to third 4th and 5th year only
+W/RN/3	1977	barley	manures	first and second treatment crop (20:14:14) at 400 kg
+W/RN/3	1977	barley	manures	"second test crop Magnesian limestone at 5 t, (0:20:20) at 300 kg."
+W/RN/3	1977	barley	weedkiller	paraquat at 0.84 kg ion in 280 l
+W/RN/3	1977	barley	weedkiller	second test crop only glyphosate at 1.7 kg in 280 l
+W/RN/3	1977	barley	weedkiller	second test crop:
+W/RN/3	1977	barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1977	oats	manures	(20:14:14) at 400 kg.
+W/RN/3	1977	oats	weedkiller	"paraquat at 0.84 kg ion in 280 1, glyphosate at l.7 kg in 280 l"
+W/RN/3	1977	winter wheat	manures	(0:20:20) at 300 kg combine drilled.
+W/RN/3	1977	winter wheat	weedkiller	paraquat at 0.84 kg ion in 280 l
+W/RN/3	1977	winter wheat	weedkiller	ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 220 l.
+W/RN/3	1977	winter wheat	insecticide	pirimicarb at 0.14 kg in 270 l.
+W/RN/3	1977	winter wheat	insecticide	Aldicarb at 10 kg
+W/RN/3	1977	winter wheat	insecticide	fallow:
+W/RN/3	1977	winter wheat	weedkiller	glyphosate at l.7 kg in 280 1 (1st year fallow
+W/RN/3	1977	winter wheat	weedkiller	paraquat at 0.84 kg ion in 280 1 (and year fallow
+W/RN/3	1978	grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1978	grass ley	manures	N at 75 kg as 'Nitro-chalk 25' to grass ley only.
+W/RN/3	1978	grass ley	weedkiller	paraquat at 0.84 kg ion in 280 l
+W/RN/3	1978	grass ley	weedkiller	dinoseb amine at 2.0 kg in 450 l
+W/RN/3	1978	grass ley	manures	Magnesian limestone at 5 t to fifth year only
+W/RN/3	1978	grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1978	grass ley	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1978	clover grass ley	manures	Magnesian limestone at 5 t to 5th year only
+W/RN/3	1978	clover grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1978	clover grass ley	manures	K20 at 48 kg in spring and after the first cut
+W/RN/3	1978	barley	manures	first and second treatment crop (20:14:14) at 400 kg combine drilled
+W/RN/3	1978	barley	manures	second test crop Magnesian limestone at 5 t
+W/RN/3	1978	barley	manures	(0:20:20) at 300 kg combine drilled.
+W/RN/3	1978	barley	weedkiller	"mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg in 280 1)."
+W/RN/3	1978	barley	fungicide	Tridemorph at 0.53 kg in 280 l
+W/RN/3	1978	barley	fungicide with weedkiller	second test crop only:
+W/RN/3	1978	barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1978	oats	manures	(20:14:14) at 400 kg combine drilled.
+W/RN/3	1978	oats	weedkiller	"mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg in 280 1)"
+W/RN/3	1978	winter wheat	manures	(0:20:20) at 310 kg combine drilled.
+W/RN/3	1978	winter wheat	weedkiller	paraquat at 0.84 kg-ion in 220 l
+W/RN/3	1978	winter wheat	weedkiller	"mecoprop, bromoxynil and ioxynil ('Brittox' at 3.5 kg in 280 l)."
+W/RN/3	1978	winter wheat	insecticide	Aldicarb at 10 kg
+W/RN/3	1978	winter wheat	insecticide	fallow first year paraquat at 0.84 kg ion in 280 l
+W/RN/3	1979	grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1979	grass ley	manures	N at 75 kg as 'Nitro-chalk' to grass ley only
+W/RN/3	1979	grass ley	manures	Magnesian limestone at 5 t to fifth year only
+W/RN/3	1979	grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1979	grass ley	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1979	clover grass ley	manures	Magnesian limestone at 5 t to fifth year only
+W/RN/3	1979	clover grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1979	clover grass ley	manures	K2O at 48 kg in spring and after the first cut
+W/RN/3	1979	barley	manures	"(20:14:14) at 400 kg, combine drilled."
+W/RN/3	1979	barley	weedkiller	bromoxynil and ioxynil ('Oxytril CM' at 2.1 kg) in 250 l
+W/RN/3	1979	barley	weedkiller	second test crop:
+W/RN/3	1979	barley	manures	Magnesian limestone at 5 t
+W/RN/3	1979	barley	manures	"(0:20:20) at 300 kg, combine drilled."
+W/RN/3	1979	barley	weedkiller	bromoxynil and ioxynil ('Oxytril CM' at 2.1 kg) in 250 l.
+W/RN/3	1979	barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1979	oats	manures	"(20:14:14) at 400 kg, combine drilled."
+W/RN/3	1979	oats	weedkiller	('Oxytril CM' at 2.1 kg) in 250 l
+W/RN/3	1979	winter wheat	manures	"(0:20:20) at 310 kg, combine drilled."
+W/RN/3	1979	winter wheat	weedkiller	"mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg) in 250 l."
+W/RN/3	1979	winter wheat	insecticide	Aldicarb at 10 kg
+W/RN/3	1980	grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1980	grass ley	manures	N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3	1980	grass ley	weedkiller	paraquat bales kg ion in 450 l
+W/RN/3	1980	grass ley	weedkiller	mecoprop at 2.5 1 in 280 1 to grass ley only
+W/RN/3	1980	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5 t to 5th year only
+W/RN/3	1980	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:14:28) at 540 kg
+W/RN/3	1980	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1980	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	"Magnesian limestone at 5 t to 5th year only, (0:14:28) at 540 kg"
+W/RN/3	1980	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg in spring and after the first cut
+W/RN/3	1980	spring barley first and second treatment crops	manures	"(20:10:10) at 400 kg, combine drilled."
+W/RN/3	1980	spring barley first and second treatment crops	weedkiller	mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 l.
+W/RN/3	1980	spring barley first and second treatment crops	fungicides	Tridemorph at 0.53 kg in 280 l
+W/RN/3	1980	spring barley first and second treatment crops	fungicides	Ethirimol (as 'Milgo E' at l.3 1) in 280 l
+W/RN/3	1980	spring oats	manures	"(20:10:10) at 400 kg, combine drilled."
+W/RN/3	1980	spring oats	weedkiller	mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 l
+W/RN/3	1980	winter wheat	manures	"(0:20:20) at 310 kg, combine drilled."
+W/RN/3	1980	winter wheat	weedkiller	chlortoluron 3.6 kg in 250 l.
+W/RN/3	1980	winter wheat	insecticide	Aldicarb at 10 kg
+W/RN/3	1980	spring barley	manures	"(0:20:20) at 300 kg, combine drilled."
+W/RN/3	1980	spring barley	weedkiller	mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 l.
+W/RN/3	1980	spring barley	fungicides	Tridemorph at 0.53 kg in 280 l
+W/RN/3	1980	spring barley	fungicides	Ethirimol (as 'Milgo E' at l.3 1) in 280 l.
+W/RN/3	1980	spring barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1981	grass ley	manures	(0:14:28) at 540 kg
+W/RN/3	1981	grass ley	manures	N at 75 kg as 'Nitro-chalk' to grass ley only
+W/RN/3	1981	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1981	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:14:28) at 540 kg
+W/RN/3	1981	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1981	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1981	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:14:28) at 540 kg
+W/RN/3	1981	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg in spring and 43 kg after the first cut
+W/RN/3	1981	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg
+W/RN/3	1981	spring barley first and second treatment crops	manures	N at 40 kg as 'Nitro-chalk.
+W/RN/3	1981	spring barley first and second treatment crops	weedkiller	mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1 applied with
+W/RN/3	1981	spring barley first and second treatment crops	fungicide	to last treatment crop
+W/RN/3	1981	spring barley first and second treatment crops	fungicide	Dicamba with mecoprop and MCPA (as 'Kerrisol' at 4.9 1) in 280 1 applied with
+W/RN/3	1981	spring barley first and second treatment crops	fungicide	to and treatment crop.
+W/RN/3	1981	spring barley first and second treatment crops	fungicide	Tridemorph at 0.53 kg
+W/RN/3	1981	spring beans	manures	(0:20:20) at 200 kg.
+W/RN/3	1981	spring beans	weedkiller	Simazine at 0.84 kg in 280 l.
+W/RN/3	1981	spring beans	insecticide	pirimicarb at 0.14 kg in 280 1 on two occassions
+W/RN/3	1981	winter wheat first test crop	manures	(0:20:20) at 310 kg.
+W/RN/3	1981	winter wheat first test crop	weedkiller	"chlortoluron at 5.6 2 in 300 1, mecoprop at 2.5 1 with isoproturon at 2.5 1 in 280 l."
+W/RN/3	1981	winter wheat first test crop	fungicide	triadimenol with captafol (as 'Baylaton CF' at 2 kg) in 2801
+W/RN/3	1981	spring barley	manures	Magnesian limestone at 5.0 t
+W/RN/3	1981	spring barley	manures	(0:20:20) at 300 kg.
+W/RN/3	1981	spring barley	weedkiller	mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) in 280 1 with
+W/RN/3	1981	spring barley	fungicide	Tridemorph at 0.53 kg
+W/RN/3	1982	grass ley	manures	(0:18:36) at 420 kg
+W/RN/3	1982	grass ley	manures	N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3	1982	grass ley	weedkiller	glyphosate at l.5 kg in 280 l
+W/RN/3	1982	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1982	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:14:28) at 530 kg
+W/RN/3	1982	grass ley second third fourth fifth sixth seventh and eighth years	manures	(28:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1982	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to fifth year only
+W/RN/3	1982	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:14:28) at 530 kg
+W/RN/3	1982	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg in spring and after the first cut
+W/RN/3	1982	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1982	spring barley first and second treatment crops	weedkiller	"glyphosate at l.5 kg in 280 1, Dicamba with mecoprop and MCPA (as 'Farmon' at 4.9 1) in 280 l"
+W/RN/3	1982	fallow first treatment crop		glyphosate at l.5 kg in 280 l
+W/RN/3	1982	spring beans	manures	(0:20 205 at 200 kg.
+W/RN/3	1982	spring beans	weedkiller	"glyphosate at l.5 kg in 280 I, 0.76 kg triatazine with 0.10 kg simazine in 280 l"
+W/RN/3	1982	winter wheat first test crop	manures	(0:20:20) at 310 kg.
+W/RN/3	1982	winter wheat first test crop	weedkiller	"glyphosate at l.5 kg in 280 1, chlortoluron at 5.6 1 in 280 l."
+W/RN/3	1982	winter wheat first test crop	insecticide	Aldicarb at 10 kg
+W/RN/3	1982	spring barley	manures	Magnesian limestone at 5.0 t
+W/RN/3	1982	spring barley	manures	(0:20:20) at 300 kg.
+W/RN/3	1982	spring barley	weedkiller	"glyphosate at l.5 kg in 280 1, Dicamba with mecoprop and MCPA (as 'Farmon' at 4.9 1) in 280 l."
+W/RN/3	1982	spring barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1983	grass ley	manures	(0:18:36) at 420 kg
+W/RN/3	1983	grass ley	manures	N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3	1983	grass ley	weedkiller	glyphosate at l.5 g in 280 l
+W/RN/3	1983	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1983	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1983	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1983	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1983	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1983	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg as muriate of potash in spring and after the first cut
+W/RN/3	1983	spring barley first and second treatment crops	manures	"(20:10:10) at 400 kg, N at 60 kg as Nitro-chalk."
+W/RN/3	1983	spring barley first and second treatment crops	weedkiller	Dicamba with mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 l
+W/RN/3	1983	fallow first treatment crop	weedkiller	paraquat 0.84 kg Farmon in 280 l
+W/RN/3	1983	spring beans	manures	(0:20:20) at 200 kg.
+W/RN/3	1983	spring beans	weedkiller	Triatazine at 0.76 kg with simazine at 0.11 kg in 280 l
+W/RN/3	1983	potatoes	manures	(10:10:15+4.5 Mg) at 1990 kg.
+W/RN/3	1983	potatoes	weedkiller	Linuron at l.0 kg with paraquat at 0.40 kg ion in 250 l.
+W/RN/3	1983	potatoes	fungicides	"mancozeb at l.4 kg in 250 1 applied three times, with"
+W/RN/3	1983	potatoes	insecticide	on the first and third occassions
+W/RN/3	1983	potatoes	insecticide	"Fentin hydroxide at 0.28 kg in 250 1 applied five times, with"
+W/RN/3	1983	potatoes	insecticide	on the first four occassions.
+W/RN/3	1983	potatoes	insecticide	pirimicarb at 0.14 kg on mix occassions
+W/RN/3	1983	winter wheat first test crop	manures	(0:20:20) at 310 kg.
+W/RN/3	1983	winter wheat first test crop	weedkiller	"glyphosate at l.5 kg in 280 1, mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.5 1) with fungicide in 250 l."
+W/RN/3	1983	winter wheat first test crop	fungicide	"Prochloraz at 0.40 1,"
+W/RN/3	1983	winter wheat first test crop	insecticide	Aldicarb at 10 kg
+W/RN/3	1983	spring barley	manures	Magnesian limestone at 5.0 t
+W/RN/3	1983	spring barley	manures	(0:20:20) at 300 kg.
+W/RN/3	1983	spring barley	weedkiller	Dicamba with mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 l.
+W/RN/3	1983	spring barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1984	grass ley	manures	(0:18:36) at 420 kg
+W/RN/3	1984	grass ley	manures	N at 75 kg as 'Nitro-chalk' to grass ley only.
+W/RN/3	1984	grass ley	weedkiller	"MCPA at 2.1 kg in 250 1,"
+W/RN/3	1984	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to fifth year only
+W/RN/3	1984	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1984	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after the first cut.
+W/RN/3	1984	grass ley second third fourth fifth sixth seventh and eighth years	weedkiller	MCPA with MCPA (as 'Trifolextra' at 7.0 1) in 250 1 to and year only
+W/RN/3	1984	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1984	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1984	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg as muriate of potash in spring and after the first cut.
+W/RN/3	1984	clover grass ley second third fourth fifth sixth seventh and eighth years	weedkiller	MCPA with MCPA (as 'Trifolex-tra' at 7.0 1) in 250 1 to and year only
+W/RN/3	1984	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1984	spring barley first and second treatment crops	weedkiller	"3,6-dichloropicolinic acid at 0.07 kg with bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg in 250 1,"
+W/RN/3	1984	spring barley first and second treatment crops	fungicide	Tridemorph at 0.52 kg in 250 l
+W/RN/3	1984	spring beans	manures	(0:20:20) at 200 kg
+W/RN/3	1984	winter wheat	manures	(0:20:20) at 310 kg.
+W/RN/3	1984	winter wheat	weedkiller	glyphosate at l.8 kg in 280 l
+W/RN/3	1984	winter wheat	weedkiller	chlortoluron at 3.5 kg in 250 l.
+W/RN/3	1984	winter wheat	insecticide	Aldicarb at 10 kg
+W/RN/3	1984	barley second test crop	manures	Magnesian limestone at 5.0 t
+W/RN/3	1984	barley second test crop	manures	(0:20:20) at 310 kg.
+W/RN/3	1984	barley second test crop	weedkiller	"3,6-dichloropicolinic acid at 0.07 kg bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg in 250 l."
+W/RN/3	1984	barley second test crop	fungicide	Tridemorph at 0.52 kg in 250 l.
+W/RN/3	1984	barley second test crop	insecticide	Aldicarb at 10 kg
+W/RN/3	1985	grass ley	manures	(0:18:36) at 410 kg
+W/RN/3	1985	grass ley	manures	N at 50 kg as 'Nitro-chalk' (27.5% N) to grass ley only
+W/RN/3	1985	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 7.5 t to fifth year only
+W/RN/3	1985	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1985	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1985	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 7.5 t to 5th year only
+W/RN/3	1985	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1985	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg as muriate of potash in spring and after the first cut
+W/RN/3	1985	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1985	spring barley first and second treatment crops	weedkiller	mecoprop at l.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 l
+W/RN/3	1985	spring beans	manures	(0:24:24) at 170 kg
+W/RN/3	1985	winter wheat	manures	(0:20:20) at 310 kg.
+W/RN/3	1985	winter wheat	weedkiller	glyphosate at l.5 kg in 280 l
+W/RN/3	1985	winter wheat	weedkiller	mecoprop at 1.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 l.
+W/RN/3	1985	winter wheat	insecticide	Aldicarb at 10 kg.
+W/RN/3	1985	winter wheat	fungicides	"propiconazole on two occassions, at 0.25 kg in 250 1 on the first occassions, at 0.12 kg on the second with 'Septal"
+W/RN/3	1985	winter wheat	fungicides	Carbendazim with maneb (as 'Septal' at 2.5 kg) in 250 1 with propiconazole
+W/RN/3	1985	spring barley	manures	Magnesian limestone at 7.5 t
+W/RN/3	1985	spring barley	manures	"(0:24:24) at 260 kg,"
+W/RN/3	1985	spring barley	weedkiller	mecoprop at l.2 kg with bromoxynil at 0.3 kg and ioxynil at 0.3 kg in 250 l.
+W/RN/3	1985	spring barley	insecticide	Aldicarb at 10 kg
+W/RN/3	1986	grass ley	manures	(0:18:36) at 410 kg
+W/RN/3	1986	grass ley	manures	"not 75 Ks to grass ley and 50 kg to clover grass as 'Nitram,"
+W/RN/3	1986	grass ley	weedkiller	MCPA at 0.16 kg and MCPA at l.1 kg in 240 l
+W/RN/3	1986	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian times at 7.5 t to 5th year only
+W/RN/3	1986	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1986	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg fn spring and after the first cut.
+W/RN/3	1986	grass ley second third fourth fifth sixth seventh and eighth years	weedkiller	MCPA at 0.16 kg and MCPA at l.1 kg in 240 l
+W/RN/3	1986	clover grass ley second third fourth fifth sixth seventh and eighth years	weedkiller	MCPA at 0.16 kg and MCPA at l.1 kg in 240 l
+W/RN/3	1986	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1986	spring barley first and second treatment crops	weedkiller	Clopyralid at 0.07 kg with bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg applied with the fungicide in 250 l.
+W/RN/3	1986	spring barley first and second treatment crops	fungicide	Tridemorph at 0.52 kg
+W/RN/3	1986	winter beans	manures	(0:24:24) at 170 kg.
+W/RN/3	1986	winter beans	weedkiller	Triatazine at 0.72 kg with simazine at 0.10 kg in 250 l
+W/RN/3	1986	winter beans	weedkiller	desiccant Diquat at 0.42 kg ion in 200 l
+W/RN/3	1986	winter wheat	manures	(0:24:24) at 260 kg.
+W/RN/3	1986	winter wheat	weedkiller	glyphosate at l.5 kg in 280 l
+W/RN/3	1986	winter wheat	weedkiller	Dicamba with mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 l.
+W/RN/3	1986	winter wheat	insecticide	Aldicarb at 10 kg
+W/RN/3	1986	spring barley	manures	Magnesian limestone at 7.5 t
+W/RN/3	1986	spring barley	manures	(0:24:24) at 260 kg.
+W/RN/3	1986	spring barley	weedkiller	Clopyralid at 0.07 kg with bromoxynil octanoate at 0.34 kg and mecoprop at 2.1 kg applied with the fungicide in 250 l.
+W/RN/3	1986	spring barley	fungicide	Tridemorph at 0.52 kg.
+W/RN/3	1986	spring barley	insecticide	"Aldicarb at 10 kg,"
+W/RN/3	1987	grass ley	manures	(0:18:36) at 410 kg
+W/RN/3	1987	grass ley	manures	N at 77 kg to grass ley and 50 kg to clover grass as 'Nitram
+W/RN/3	1987	grass ley	manures	(25:0:16) at 300 kg to grass ley K20 at 48 kg as muriate of potash to clover grass ley.
+W/RN/3	1987	grass ley	weedkiller	"glyphosate at 1.4 kg in 200 1, paraquat at 0.40 kg ion in 200 1,"
+W/RN/3	1987	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1987	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1987	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after each cut except the last
+W/RN/3	1987	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1987	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 410 kg
+W/RN/3	1987	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 48 kg as muriate of potash in spring and after each cut except the last
+W/RN/3	1987	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1987	spring barley first and second treatment crops	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1987	spring barley first and second treatment crops	weedkiller	"Clopyralid at 0.05 kg, bromoxynil at 0.24 kg with mecoprop at 2.5 kg in 200 1 applied with the Tridemorph."
+W/RN/3	1987	spring barley first and second treatment crops	fungicides	Tridemorph at 0.52 kg
+W/RN/3	1987	spring barley first and second treatment crops	fungicides	triadimenol at 0.062 kg with Tridemorph at 0.37 kg in 200 l
+W/RN/3	1987	winter beans	manures	(0:20:20) at 200 kg.
+W/RN/3	1987	winter beans	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1987	winter beans	weedkiller	Triatazine at 0.72 kg with simazine at 0.10 kg in 240 l
+W/RN/3	1987	winter beans	weedkiller	fallow first treatment year only:
+W/RN/3	1987	winter beans	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1987	winter wheat first test crop	manures	(0:24:24) at 260 kg.
+W/RN/3	1987	winter wheat first test crop	weedkiller	glyphosate at l.5 kg in 200 l
+W/RN/3	1987	winter wheat first test crop	weedkiller	"Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 240 l."
+W/RN/3	1987	winter wheat first test crop	fungicides	Fenpropimorph at 0.75 kg with chlorothalonil at 0.75 kg in 200 l
+W/RN/3	1987	winter wheat first test crop	fungicides	propiconazole at 0.12 kg with carbendazim and maneb (as 'Septal' at 2.5 kg) in 200 l.
+W/RN/3	1987	winter wheat first test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1987	barley second test crop	manures	"Magnesian limestone at 5.0 t, (0:20:20) at 310 kg."
+W/RN/3	1987	barley second test crop	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1987	barley second test crop	weedkiller	"Clopyralid at 0.05 kg, bromoxynil at 0.24 kg with mecoprop at 2.5 kg in 200 l applied with the Tridemorph."
+W/RN/3	1987	barley second test crop	fungicides	Tridemorph at 0.52 kg
+W/RN/3	1987	barley second test crop	fungicides	triadimenol at 0.062 kg with Tridemorph at 0.38 kg in 200 l.
+W/RN/3	1987	barley second test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1988	grass ley	manures	(0:18:36) at 420 kg
+W/RN/3	1988	grass ley	manures	"N at 76 kg to grass icy and 50 kg to clover grass as 'Nitram,"
+W/RN/3	1988	grass ley	weedkiller	glyphosate at 2.4 kg in 200 l
+W/RN/3	1988	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 560 kg
+W/RN/3	1988	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after each cut except the east
+W/RN/3	1988	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:18:36) at 560 kg
+W/RN/3	1988	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 40 kg as muriate of potash in spring and after each cut except the last
+W/RN/3	1988	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1988	spring barley first and second treatment crops	weedkiller	"glyphosate at l.4 kg in 200 1, to last treatment crop only"
+W/RN/3	1988	spring barley first and second treatment crops	weedkiller	"Clopyralid at 0.05 kg, bromoxynil at 0.24 kg with mecoprop at 1.8 kg in 220 l."
+W/RN/3	1988	spring barley first and second treatment crops	fungicide	Tridemorph at 0.52 kg in 220 l
+W/RN/3	1988	winter beans	weedkiller	Propyzamide at 0.85 kg in 200 l
+W/RN/3	1988	winter beans	weedkiller	Simazine at 0.85 kg in 200 l.
+W/RN/3	1988	winter beans	fungicide	Chlorothalonil at l.5 kg in 220 l.
+W/RN/3	1988	winter beans	insecticide	Deltamathrin at 0.075 kg in 220 l
+W/RN/3	1988	winter beans	insecticide	desiccant Diquat at 0.60 kg ion in 400 l
+W/RN/3	1988	winter beans	insecticide	fallow first treatment year only:
+W/RN/3	1988	winter beans	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1988	winter wheat first test crop	manures	(0:24:24) at 260 kg.
+W/RN/3	1988	winter wheat first test crop	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1988	winter wheat first test crop	weedkiller	"Isoproturon at 2.1 kg with mecoprop at l.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg in 220 l."
+W/RN/3	1988	winter wheat first test crop	fungicides	propiconazole at 0.12 kg and Tridemorph at 0.25 kg in 220 l.
+W/RN/3	1988	winter wheat first test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1988	barley second test crop	manures	(0:24:24) at 260 kg.
+W/RN/3	1988	barley second test crop	weedkiller	glyphosate at l.4 kg in 200 l
+W/RN/3	1988	barley second test crop	weedkiller	"Clopyralid at 0.07 kg, bromoxynil at 0.34 kg with mecoprop at 2.5 kg in 2201."
+W/RN/3	1988	barley second test crop	fungicide	Tridemorph at 0.52 kg in 220 l.
+W/RN/3	1988	barley second test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1989	grass ley	manures	Magnesian limestone at 5.0 t
+W/RN/3	1989	grass ley	manures	(0:18:36) at 420 kg
+W/RN/3	1989	grass ley	manures	N at 76 kg to grass ley and 50 kg to clover grass as 'Nitram
+W/RN/3	1989	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to fifth and 6th year only
+W/RN/3	1989	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after each cut except the last
+W/RN/3	1989	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.9 t to fifth and 6th year only
+W/RN/3	1989	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 54 kg as muriate of potash in spring and after each cut except the last
+W/RN/3	1989	barley	manures	Magnesian limestone at 5.0 t to first treatment crop only
+W/RN/3	1989	barley	manures	(20:10:10) at 400 kg.
+W/RN/3	1989	barley	weedkiller	bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at 2.1 kg in 220 l.
+W/RN/3	1989	barley	fungicides	propiconazole at
+W/RN/3	1989	barley	fungicides	0.12 kg with Tridemorph at 0.52 kg in 220 l
+W/RN/3	1989	winter beans	manures	(9:24:24) at 170 kg.
+W/RN/3	1989	winter beans	weedkiller	Simazine at 0.85 kg in 220 l.
+W/RN/3	1989	winter beans	insecticide	Deltamathrin at 0.062 kg in 220 l
+W/RN/3	1989	winter beans	insecticide	pirimicarb at 0.14 kg in 220 l
+W/RN/3	1989	winter beans	insecticide	fallow first and second treatment year:
+W/RN/3	1989	winter beans	manures	Magnesian limestone at 5.0 t to first year only
+W/RN/3	1989	winter wheat first test crop	manures	(0:24:24) at 260 kg
+W/RN/3	1989	winter wheat first test crop	manures	manganese at 0.096 kg Mn as a Folicur spray in 220 l.
+W/RN/3	1989	winter wheat first test crop	weedkiller	glyphosate at 1.4 kg in 220 l
+W/RN/3	1989	winter wheat first test crop	weedkiller	bromoxynil at 0.34 kg and clopyralid at 0.07 kg with mecoprop at 2.5 kg in 220 l.
+W/RN/3	1989	winter wheat first test crop	fungicides	Carbendazim at 0.15 kg and prochloraz at 0.40 kg applied with tines growth regulator in 220 l
+W/RN/3	1989	winter wheat first test crop	fungicides	propiconazole at 0.12 kg in 220 l
+W/RN/3	1989	winter wheat first test crop	fungicides	Fenpropimorph at 0.75 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 220 l.
+W/RN/3	1989	winter wheat first test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1989	winter wheat first test crop	insecticide	Growth regulator Chlormequat chloride at l.6 kg
+W/RN/3	1989	barley second test crop	manures	Magnesian limestone at 5.0 t
+W/RN/3	1989	barley second test crop	manures	(0:24:24) at 260 kg.
+W/RN/3	1989	barley second test crop	weedkiller	bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at 2.1 kg in 220 l.
+W/RN/3	1989	barley second test crop	fungicides	propiconazole at 0.12 kg with Tridemorph at 0.52 kg in 220 l.
+W/RN/3	1989	barley second test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1990	grass ley	manures	(0:18:36) at 420 kg
+W/RN/3	1990	grass ley	manures	(25:0:16) at 300 kg to grass ley in spring and after the first cut
+W/RN/3	1990	grass ley	manures	K20 at 54 kg to clover grass ley in spring and after the first cut
+W/RN/3	1990	grass ley second third fourth fifth sixth seventh and eighth years	manures	Chalk at 5.0 t to fifth year only
+W/RN/3	1990	grass ley second third fourth fifth sixth seventh and eighth years	manures	(25:0:16) at 300 kg in spring and after the first cut
+W/RN/3	1990	grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:24:24) at 620 kg
+W/RN/3	1990	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Chalk at 5.0 t to fifth year only
+W/RN/3	1990	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	K20 at 54 kg in spring and after the first cut
+W/RN/3	1990	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	(0:24:24) at 620 kg
+W/RN/3	1990	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1990	spring barley first and second treatment crops	weedkiller	bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at l.7 kg in 220 l.
+W/RN/3	1990	spring barley first and second treatment crops	fungicide	Fenpropimorph at 0.75 kg in 220 l
+W/RN/3	1990	winter beans	manures	(0:24:24) at 170 kg
+W/RN/3	1990	winter beans	manures	Mn at 0.19 kg in 220 1 and late at 0.096 kg in 220 l.
+W/RN/3	1990	winter beans	weedkiller	Propyzamide at 0.85 kg with simazine at 0.85 kg in 220 l.
+W/RN/3	1990	winter beans	fungicide	Fenpropimorph at 0.75 kg in 220 l.
+W/RN/3	1990	winter beans	insecticide	Deltamathrin at 7.5 g in 220 1 applied on two occassions
+W/RN/3	1990	winter beans	insecticide	fallow first and second treatment year No applications
+W/RN/3	1990	winter wheat first test crop	manures	(0:24:24) at 260 kg.
+W/RN/3	1990	winter wheat first test crop	weedkiller	glyphosate at l.4 kg in 220 l
+W/RN/3	1990	winter wheat first test crop	weedkiller	"bromoxynil at 0.34 kg and clopyralid at 0.07 kg, with isoproturon at 2.1 kg and with fluroxypyr at 0.15 kg in 220 l."
+W/RN/3	1990	winter wheat first test crop	fungicides	propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 300 l.
+W/RN/3	1990	winter wheat first test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1990	spring barley	manures	Chalk at 5.0 t
+W/RN/3	1990	spring barley	manures	(0:24:24) at 260 kg.
+W/RN/3	1990	spring barley	weedkiller	bromoxynil at 0.24 kg and clopyralid at 0.05 kg with mecoprop at l.7 kg in 220 l.
+W/RN/3	1990	spring barley	fungicide	Fenpropimorph at 0.75 kg in 220 l.
+W/RN/3	1990	spring barley	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1991	grass ley and clover grass ley first year	manures	(0:16:36) at 470 kg.
+W/RN/3	1991	grass ley and clover grass ley first year	manures	N at 75 kg to grass ley as 'Nitram'
+W/RN/3	1991	grass ley and clover grass ley first year	manures	N at 54 kg to as 'Nitro-chalk'
+W/RN/3	1991	grass ley and clover grass ley first year	manures	(25:0:26) at 300 kg to grass in spring and after the first cut
+W/RN/3	1991	grass ley and clover grass ley first year	manures	K20 at 54 kg to clover grass ley in spring and after the first cut
+W/RN/3	1991	grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to 5th year only
+W/RN/3	1991	grass ley second third fourth fifth sixth seventh and eighth years	manures	"(0:16:36) at 470 kg, (25:0:16) at 300 kg in spring and after the first cut"
+W/RN/3	1991	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	Magnesian limestone at 5.0 t to fifth year only
+W/RN/3	1991	clover grass ley second third fourth fifth sixth seventh and eighth years	manures	"(0:16:36) at 470 kg, K20 at 54 kg in spring and after the first cut"
+W/RN/3	1991	spring barley first and second treatment crops	manures	(20:10:10) at 400 kg.
+W/RN/3	1991	spring barley first and second treatment crops	weedkiller	Metsulfuron-methyl at 6.0 g applied with the fungicide in 200 l.
+W/RN/3	1991	spring barley first and second treatment crops	fungicide	Tridemorph at 0.26 kg
+W/RN/3	1991	winter beans	manures	(0:24:24) at 170 kg.
+W/RN/3	1991	winter beans	weedkiller	Simazine at 0.14 kg and triatazine at 0.97 kg in 220 l.
+W/RN/3	1991	winter beans	fungicide	Chlorothalonil at l.5 kg applied with the insecticide in 300 l.
+W/RN/3	1991	winter beans	insecticide	pirimicarb at 0.14 kg
+W/RN/3	1991	fallow first and second treatment year		No applications
+W/RN/3	1991	winter wheat first test crop	manures	(0:24:24) at 260 kg.
+W/RN/3	1991	winter wheat first test crop	weedkiller	glyphosate at 0.36 kg in 220 l
+W/RN/3	1991	winter wheat first test crop	weedkiller	Diflufenican at 0.10 kg and isoproturon at l.0 kg applied with the deltamathrin in 220 l.
+W/RN/3	1991	winter wheat first test crop	fungicides	Fenpropimorph at 0.38 kg in 210 1 and on a second occassions with chlorothalonil at 0.49 kg and flutriafol at 0.078 kg in 300 l.
+W/RN/3	1991	winter wheat first test crop	insecticide	Deltamathrin at 5.0 g
+W/RN/3	1991	winter wheat first test crop	insecticide	Carbofuran at 7.5 kg
+W/RN/3	1991	winter wheat first test crop	insecticide	desiccant glyphosate at l.4 kg in 200 i
+W/RN/3	1991	spring barley	manures	Magnesian limestone at 5.0 t
+W/RN/3	1991	spring barley	manures	(0:24:24) at 260 kg.
+W/RN/3	1991	spring barley	weedkiller	Metsulfuron-methyl at 6.0 g applied with the fungicide in 200 l.
+W/RN/3	1991	spring barley	fungicide	Tridemorph at 0.26 kg.
+W/RN/3	1991	spring barley	insecticide	Carbofuran at 7.5 kg
