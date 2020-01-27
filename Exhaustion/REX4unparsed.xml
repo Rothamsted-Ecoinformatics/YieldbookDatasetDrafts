@@ -2186,40 +2186,7 @@ PLOT AREA HARVESTED 0.00588
 <report>
 <year>1992</year>
 <rawcontent>
-<![CDATA[92/R/EBX/4 ¥
-EXHAUSTION LAND ber d
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of -
-continuous s. barley up to 1991, w. wheat in 1992 - Hoosfield.
-The 137th year, w. wheat.
-For previous years see ‘Details’ 1967, 1973 and 74-91/R/EX/4.
-Treatments: All combinations of:-
-whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-o None
-D Farmyard manure at 35 tonnes .
-N 96 kg N as ammonium salts
-P 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate
-of magnesia
-2.9 - Phosphate applied annually from 1986 as
-superphosphate until 1987, triple superphosphate
-since:
-o None
-Pl 44 kg P
-P2 87 kg P
-P3 131 kg P
-plus
-Whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-o None
-D Parmyard manure at 35 tonnes
-N* 96 kg N as nitrate of soda
-PK 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test:
 18-Sep-91 : T : P applied as triple superphosphate to treatment plots.
 : T : Muriate of potash at 170 kg.
@@ -2233,72 +2200,12 @@ All plots:
 14-Apr-92 : B : 34.5% N applied at 560 kg.
 23-Jun-92 : B : Radar at 0.50 1 and Mistral at 0.50 1 in 200 1.
 31-Jul-92 : B : Combine harvested.
-NOTES: (1) Yields presented for K TEST are means of four plots.
-(2) Grain and straw samples were taken for chemical analysis.
-P TEST )
-GRAIN TONNES/HBECTARE
-wees* Tables of means *****
-? o Pl P2 P3 Mean
-OLD RES
-0 2.70 7.97 8.17 7.96 6.70
-D 6.85 8.21 8.03 8.11 7.80
-N 2.43 7.94 7.92 8.11 6.60
-P 5.08 7.46 7.26 7.63 6.86
-NPKNAMG 4.69 7.70 7.90 7.84 7.03
-Mean 4.35 7.86 7.86 7.93 7.00
-GRAIN MEAN DM% 87.5
-STRAW TONNES/HECTARE
-#s+¢+ Tables of means *****
-? 0 Pl P2 P3 Mean
-OLD RES
-o 1.711 6.39 6.96 6.79 5.46
-D 4.72 6.60 7.21 6.43 6.24
-N 1.87 6.62 7.50 7.18 5.79
-P 4.27 6.03 8.13 7.60 6.51
-NPKNAMG 3.82 6.39 7.20 6.91 6.08
-Mean 3.28 6.41 7.40 6.98 6.02
-STRAW MEAN DMT 85.1
-PLOT. AREA HARVESTED 0.00589
-23
 ]]></rawcontent>
 </report>
 <report>
 <year>1993</year>
 <rawcontent>
-<![CDATA[93/R/EX/4
-BRXHAUSTION LAND
-Object: To study the residual effects of manures applied 1876-1301, and
-of additional phosphate applied since 1986, on the yield of
-continuous $. barley up to 1991, w. wheat since - Hoosfield.
-The 138th year, w. wheat.
-For previous years see ‘Details’ 1967, 1973 and 74-92/R/EX/4.
-Treatments: All combinations of:-
-Whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 tonnes )
-N 96 kg N as ammonium salts ’
-P 34 kg P as superphosphate a
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-- 16 kg Na as sulphate of soda, 11 kg Mg as sulphate
-of magnesia
-2. P RBS Phosphate applied annually from 1986, as single
-superphosphate in 1986 and 1987, triple
-superphosphate from 1988 until 1992, none since:
-0 None
-Pl 44 xg P
-P2 . 87 kg P
-2 131 kg P
-plus
-Whole plots (K test, previously N test until 1391)
-OLD RES Residues of manures applied annually 1876-1901:
-o None y
-D Farmyard manure at 35 tonnes
-N* 96 kg N as nitrate of soda
-PK - 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test:
 30-Sep-92 : T : Muriate of potash at 167 kg.
 K test:
@@ -2313,153 +2220,32 @@ seeds per square metre.
 13-May-93 : B : Ally at 30 g, Cheetah R at 2.5 1 and Starane 2 at 1.0 1
 in 200 1.
 04-Jun-93 : B : Halo at 2.0 1 and Mistral at 0.50 1 in 200 1.
-16-Aug-93 : B : Combine harvested. :
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TBST
-GRAIN TONNES/HECTARE
-#e*++ Tables of means *****
-P RES o Pl P2 P3 Mean
-OLD RES
-0 2.47 6.32 7.22 5.96 5.49
-D 5.17 6.72 6.72 6.61 6.31
-N 2.84 5.52 5.78 5.32 4.86
-P 4.44 6.44 6.11 6.72 5.93
-NPKNAMG 3.98 4.99 5.63 5.05 4.91
-Mean 3.78 6.00 6.29 5.93 5.50
-GRAIN MEAN DMt 87.9
-STRAW TONNES/HECTARE
-##**+ Tables of means *****
-P RES © Pl P2 3 Mean
-OLD RES
-o 1.46 3.56 4.06 3.52 3.15
-D 2.78 3.55 3.73 3.21 3.32
-N 1.64 2.93 3.06 2.95 2.65
-P 2.01 3.23 3.80 3.46 3.12
-NPKNAMG 2.19 2.7 3.19 2.91 2.75
-Mean 2.01 3.20 3.57 3.21 3.00
-STRAW MEAN DMt 89.3
-PLOT AREA HARVESTED 0.00589
-23 .
+16-Aug-93 : B : Combine harvested.
 ]]></rawcontent>
 </report>
 <report>
 <year>1994</year>
 <rawcontent>
-<![CDATA[94/R/EX/4
-EXHAUSTION LAND
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of
-continuous s. barley up to 1991, w. wheat since - Hoosfield.
-The 139th year, w. wheat.
-For previous years see ‘Details’ 1967, 1973 and 74-93/R/EX/4.
-Treatments: All combinations of:-
-Whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-o None
-D Farmyard manure at 35 tonnes
-N 96 kg N as ammonium salts
-P 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate
-of magnesia
-2. P RES Residues of phosphate (kg P} applied annually from 1986,
-as single superphosphate in 1986 and 1987, triple
-superphosphate from 1988 until 1992, none since:
-o None
-Pl 44
-P2 87
-P3 131
-plus
-Whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 tonnes
-N* 96 kg N as nitrate of soda
-PK 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test:
 15-Oct-93 : T : Muriate of potash at 167 kg.
 K test:
 15-Oct-93 : T : Triple superphosphate at 319 kg
 All plots:
 20-0ct-93 : B : Ploughed.
-22-0ct-93 : B : Spring-tine cultivated twice, rotary harrowed, Mercia,
-Aressed Cerevax, drilled at 380 seeds per m’.
+22-0ct-93 : B : Spring-tine cultivated twice, rotary harrowed, Mercia, dressed Cerevax, drilled at 380 seeds per m’.
 12-Apr-94 : B : 34.5% N at 568 kg.
-09-May-94 : B : Ally at 30 g with Cheetah Super at 3.0 1 and Starane 2
-at 0.75 1 in 200 1.
+09-May-94 : B : Ally at 30 g with Cheetah Super at 3.0 1 and Starane 2 at 0.75 1 in 200 1.
 : B : Halo at 2.0 1 with New 5C Cycocel at 2.5 1 in 200 1.
 13-Jun-94 : B : Halo at 2.0 1 with Mallard 750 EC at 0.5 1 in 200 1.
 17-Jun-94 : B : Hostathion at 840 ml in 200 1. .
-16-Aug-94 : B : Combine harvested..
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-GRAIN TONNES/HECTARE
-sx**+* Tables of means *****
-P RES o Pl P2 P3 Mean
-OLD RES
-o 2.42 7.29 7.62 7.88 6.30
-D 6.45 8.07 8.07 7.53 7.53
-N 2.32 7.41 7.7% 7.54 6.26
-P 6.34 8.09 8.69 8.07 7.80
-NPKNAMG 5.75% 7.60 7.87 7.87 7.27
-Mean 4.66 7.69 8.00 7.78 7.03
-GRAIN MEAN DMt 86.0
-’ STRAW TONNES /HECTARE
-+s*%* Tables of means *****
-? RES o Pl $2 P3 Mean
-OLD RES
-0 1.35 4.44 4.58 4.74 3.78
-D 3.59 4.80 4.68 4.50 4.39
-N 1.08 4.42 4.45 4.18 3.53
-P 3.79 4.97 5.35 4.86 4.74
-NPKNAMG 3.22 4.74 4.54 4.36 4.22
-Mean 2.61 4.68 4.72 4.53 4.13
-STRAW MEAN DM% 91.1
-PLOT AREA HARVESTED 0.00589
-24
+16-Aug-94 : B : Combine harvested.
 ]]></rawcontent>
 </report>
 <report>
 <year>1995</year>
 <rawcontent>
-<![CDATA[95/R/EX/4
-EXHAUSTION LAND &
-object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of continuous
-s. barley up to 1991, w. wheat since - Hoosfield.
-The 140th year, w. wheat. :
-For previous years see 'Details’' 1967, 1973 and 74-94/R/EX/4.
-Treatments: All combinations of:-
-whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 3S t
-N 96 kg N as ammonium salts
-P 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate of
-magnesia
-2. P RES Residues of phosphate (kg P) applied annually from
-1986, as single superphosphate in 1986 and 1987,
-triple superphosphate from 1988 until 1992, none
-since:
-0 None
-Pl 44
-P2 87
-3 131
-plus
-whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Parmyard manure at 35 t
-NY 96 kg N as nitrate of soda
-PK 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test:
 13-Oct-94 : T : Muriate of potash at 167 kg.
 K test:
@@ -2469,80 +2255,19 @@ All plots:
 06-Oct-94 : B : Roundup at 4.0 1 in 200 1.
 14-Oct-94 : B : Ploughed.
 17-Oct-94 : B : Rotary harrowed.
-18-Oct-94 : B : Rotary harrowed, Mercia, dressed Rappor, drilled at 380
-. seeds per m’.
-24-Nov-94 : B : Alpha Isoproturon 500 at 3.0 1 with Stomp 400 at 3.3 1
-in 200 1.
+18-Oct-94 : B : Rotary harrowed, Mercia, dressed Rappor, drilled at 380. seeds per m’.
+24-Nov-94 : B : Alpha Isoproturon 500 at 3.0 1 with Stomp 400 at 3.3 1 in 200 1.
 13-Apr-95 : B : 34.5% N at 556 kg.
 16-Jun-95 : B : Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.
 29-Jun-95 : B : Pirimicarb 50 DG at 280 g in 200 1.
 03-Aug-95 : B : Combine harvested.
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-GRAIN TONNES /HECTARE
-=«#*+ Tables of means *****
-P RES 0 PL P2 P3 Mean
-OLD RES
-. 0 1.97 4.78 5.87 6.28 4.73
-D 5.10 6.06 6.43 6.41 6.00
-N 2.93 5.35 6.21 6.41 5.23
-P 4.51 6.17 6.63 6.23 5.88
-NPKNAMG 4.20 5.45 6.23 6.65 5.63
-Mean 3.74 5.56 6.27 6.40 5.49
-GRATIN MEAN DM% 90.7 $
-STRAW TONNES/HECTARE *
-taxes Tables of means *xrex
-P RES ° Pl P2 P3 Mean
-OLD RES
-0 0.70 1.59 2.56 2.55 1.85
-D 1.56 2.26 2.60 2.48 2.23
-N 0.96 1.80 2.44 2.65 1.96
-P 1.40 2.05 2.40 2.02 1.97
-NPKNAMG 0.93 1.81 2.31 2.53 1.89
-Mean 1.11 1.90 2.46 2.45 1.98
-STRAW MEAN DM% 91.6
-PLOT AREA HARVESTED 0.00589
-: 24
 ]]></rawcontent>
 </report>
 <report>
 <year>1996</year>
 <rawcontent>
-<![CDATA[96/R/BX/4
-EXHAUSTION LAND
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of continuous
-s. barley up to 1991, w. wheat since - Hoosfield.
-The 141st year, w. wheat.
-For previous years see ‘Details’ 1967, 1973 and 74-95/R/EX/4.
-Treatments: All combinations of:~-
-Whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N 96 kg N as ammonium salts
-P 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate of
-magnesia
-2. P RES Residues of phosphate (kg P) applied annually from
-1986, as single superphosphate in 1986 and 1987,
-triple superphosphate from 1988 until 1992, none
-since:
-© None
-Pl a4
-P2 87
-P3 131
-plus
-Whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N* 96 kg N as nitrate of soda
-PK 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
 Experimental diary:
+<![CDATA[
 P test:
 18-Sep-95 : T : Muriate of potash at 171 kg.
 K test:
@@ -2550,170 +2275,43 @@ K test:
 All plots:
 11-Aug-95 : B : Straw baled.
 25-Sep-95 : B : Ploughed and furrow pressed.
-29-Sep-95 : B : Rotary harrowed, Hereward, dressed Panoctine, drilled at
-380 seeds per n°.
+29-Sep-95 : B : Rotary harrowed, Hereward, dressed Panoctine, drilled at 380 seeds per n°.
 15-Apr-96 : B : 34.5% N at 580 kg.
-26-Apr-96 : B : Ally at 30 g with Cheetah Super at 1.25 1 and Barclay
-Holdup at 2.3 1 in 200 1.
+26-Apr-96 : B : Ally at 30 g with Cheetah Super at 1.25 1 and Barclay Holdup at 2.3 1 in 200 1.
 06-Jun-96 : B : Monicle at 1.0 1 in 320 1.
 08-Jul-96 : B : Pulled wild oats by hand.
 15-Aug-96 : B : Combine harvested.
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-GRAIN TONNES/HECTARE
-#+w++ Tables of means *****
-P RES o Pl P2 P3 Mean
-OLD RES
-0 3.33 7.16 7.65 7.91 6.51 .
-D 6.81 7.68 7.98 7.56 7.50
-N 3.50 7.69 7.53 7.13 6.46
-P 6.78 8.20 8.35 8.12 7.86
-NPKNAMG 6.27 7.39 7.2% 7.47 7.09
-Mean 5.34 7.62 7.718 7.64 7.09
-GRAIN MEAN DM% 86.9
-STRAW TONNES/HECTARE
-**e+* Tables of means *****
-P RES 0 Pl P2 P3 Mean
-OLD RES
-o 1.54 3.20 4.08 4.46 3.32
-D 3.07 3.66 4.04 3.92 3.68
-N 1.70 3.80 3.76 3.76 3.26
-P 2.85 3.68 3.87 3.81 3.58
-NPKNAMG 2.68 3.70 3.39 3.44 3.30
-Mean 2.37 3.61 3.83 3.88 3.42
-STRAW MEAN DM% 93.1
-PLOT AREA HARVESTED 0.00589
-26
 ]]></rawcontent>
 </report>
 <report>
 <year>1997</year>
 <rawcontent>
-<![CDATA[97/R/BX/4
-EXHAUSTION LAND
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of continuous
-s. barley up to 1991, w. wheat since - Hoosfield.
-The 142nd year, w. wheat.
-For previous years see ‘Details’ 1977, 1973 and 74-96/R/EX/4.
-Treatments: All combinations of:-
-Whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-o None
-D Farmyard manure at 35 t
-N 97 kg N as ammonium salts
-P 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate of
-magnesia
-2. P RES Residues of phosphate (kg P) applied annually from
-1986, as single superphosphate in 1986 and 1987,
-triple superphosphate from 1988 until 1992, none
-since: .
-o None
-Pl © 44
-P2 87
-P3 131
-plus
-Whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-o None
-D Farmyard manure at 35 t
-N* 97 kg N as nitrate of soda
-PK 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 K test:
 26-Sep-96 : T : Muriate of potash at 167 kg.
 P test:
 26-Sep-96 : T : Triple superphosphate at 319 kg
 All plots:
 05-Oct-96 : B : Ploughed.
-08-Oct-96 : B : Spring-tine cultivated, rotary harrowed, Hereward,
-dressed Beret Gold, drilled at 380 seeds per mw’.
+08-Oct-96 : B : Spring-tine cultivated, rotary harrowed, Hereward, dressed Beret Gold, drilled at 380 seeds per mw’.
 17-Mar-97 : B : Topik at 1.25 1 with Sprayprover at 1.0 1 in 200 1.
 07-Apr-97 : B : 34.5% N at 556 kg.
 16-Apr-97 : B : Dow Shield at 0.35 1 with Deloxil at 1.5 1 in 200 1.
 30-May-97 : B : Folicur at 0.5 1 with Pointer at 0.5 1 in 300 1.
 14-Aug-97 : B : Combine harvested.
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-GRAIN TONNES/HECTARE
-es*vv Tables of means *****
-P RES © Pl P2 P3 Mean
-OLD RES
-0 1.28 5.01 6.86 7.25 5.10
-D 4.78 6.61 7.60 7.47 6.61
-N 1.68 5.71 7.40 7.46 5.56
-? 4.58 6.69 7.71 7.44 6.61
-NPKNAMG 4.09 6.56 7.33 7.70 6.42
-Mean 3.28 6.12 7.38 7.46 6.06
-GRAIN MEAN DMt 86.9
-STRAW TORNES/HRECTARE
-##ee* Tables of means *****
-P RES o nl P2 P3 Mean
-OLD RES
-0 0.31 2.02 2.82 2.81 1.99
-D 1.61 2.66 3.01 2.58 2.46
-N 0.66 2.07 2.99 2.90 2.16
-P 1.50 2.41 2.96 2.78 2.41
-NPKNAMG 1.46 2.49 3.09 2.89 2.48
-Mean 1.11 2.33 2.97 2.79 2.30
-STRAW MEAN DM% 89.9
-PLOT AREA HARVESTED 0.00614 a
-28
 ]]></rawcontent>
 </report>
 <report>
 <year>1998</year>
 <rawcontent>
-<![CDATA[98/R/BX/4
-EXHAUSTION LAND
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of continuous
-s. barley up to 1991, w. wheat since - Hoosfield.
-The 143rd year, w. wheat.
-For previous years see 'Decails’ 1977, 1973 and 74-97/R/EX/4.
-Treatments: All combinations of:-~
-Whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N 96 Xg N as ammonium salts
-? 34 kg P as superphosphate
-NPKNAMG N and P as above plus 127 kg K as sulphate of potash.
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate
-of magnesia
-2. P RES Residues of phosphate (kg P) applied annually from
-1986, as single superphosphate in 1986 and 1987,
-triple superphosphate from 1988 until 1992, none
-since:
-0 None
-Pl 44
-P2 87
-P3 131
-plus
-Whole plots (K test, previously N test until 1851)
-OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-Nt 96 kg N as nitrate of soda ;
-PX 34 kg P as superphosphate, 137 kg K as sulphate of
-potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test
 15-0ct-97 : T : Muriate of potash at 167 kg.
 K test
-15-Oct-97 : T : Triple superphosphate at 319 kg. )
-25
-38 /R/BX/4
-Experimental diary:
+15-Oct-97 : T : Triple superphosphate at 319 kg.
 All plots:
-23-0ct~97 : B : Ploughed.
-24-Oct-97 : B : Rotary harrowed, Mercia, dressed Sibutol, drilled at 380
-seeds per mi.
+23-0ct-97 : B : Ploughed.
+24-Oct-97 : B : Rotary harrowed, Mercia, dressed Sibutol, drilled at 380 seeds per mi.
 05-Peb-98 : B : Amazon at 1.0 1 with Chiltern Cropoil at 1.0 1 in 200 1.
 24-Mar-98 : B : 34.5% N at 557 kg.
 09-May-98 : B : Opus at 0.7 1 in 200 1.
@@ -2721,127 +2319,31 @@ seeds per mi.
 15-Jun-98 : B : Bavistin DF at 0.5 kg with Folicur at €¢.5 1 in 100 1.
 06-Aug-98 : B : Alpha Glyphogan at 3.0 1 in 200 1.
 18-Aug-98 : B : Combine harvested.
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-GRAIN TONNES/HECTARE
-*»x*v Tables of means ***“*
-P RES 0 Pl P2 P3 Mean
-OLD RES
-o 3.38 7.22 7.62 8.01 6.56
-D 6.98 7.62 7.70 7.88 7.5%
-N 3.43 7.48 7.73 7.61 6.56
-Pp 6.19 7.32 7.72 7.41 7.18
-NPKNAMG 6.40 7.41 7.77 8.05 7.42
-Mean 5.28 7.41 7.71 7.7% 7.05
-GRAIN MEAN DM% 86.0
-STRAW TONNES /HECTARE
-sw#*+ Tables of means *****
-P RES 0 Pl P2 P3 Mean
-OLD RES
-0 3.18 6.13 7.13 6.88 5.83
-D 5.92 7.37 7.25 8.10 7.11
-N 3.46 6.25 7.73 7.53 6.24
-P 6.13 7.42 8.03 7.90 7.37
-NPKNAMG 5.64 6.91 7.52 7.80 6.97
-Mean 4.86 6.78 7.53 7.64 6.70
-STRAW MEAN DM% 90.6
-PLOT ARFA HARVESTED 0.00589
-28
 ]]></rawcontent>
 </report>
 <report>
 <year>1999</year>
 <rawcontent>
-<![CDATA[99/R/EX/4
-EXHAUSTION LAND
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of continuous s.
-barley up to 1991, w. wheat since - Hoosfield.
-The 144th year, w. wheat.
-For previous years see ‘Details’ 1977, 1973 and 74-98/R/EX/4.
-Treatments: All combinations of:-
-Whole plots (P test) .
-1. OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N 96 kg N as ammonium salts
-P 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate of
-magnesia
-2. P RES Residues of phosphate (kg P) applied annually from 1986, as
-single superphosphate in 1986 and 1987, triple
-superphosphate from 1988 until 1992, none since:
-oO None
-Pl 44
-P2 87
-P3 131 .
-plus
-Whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N* 96 kg N as nitrate of soda
-PK 34 kg P as superphosphate, 137 kg K as sulphate of potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test
 23-Sep-98 : T : Muriate of potash at 167 kg.
 K test
 22-Sep-98 : T : Triple superphosphate at 107 kg.
 07-Oct-98 : B : Ploughed.
-09-Oct-98 : B : Spring-tine cultivated. Rotary harrowed, Hereward, tr. Beret
-Gold, drilled at 380 seeds per m'.
+09-Oct-98 : B : Spring-tine cultivated. Rotary harrowed, Hereward, tr. Beret Gold, drilled at 380 seeds per m'.
 12-Oct-98 : B : Hardy at 7.5 kg.
-15-Mar-99 : B : Amazon at 1.0 1 with Isoguard at 2.0 1 and Cropoil at 1.0 1
-in 200 1.
-14-Apr-99 : B : 34.5% N at $80 kg.
+15-Mar-99 : B : Amazon at 1.0 1 with Isoguard at 2.0 1 and Cropoil at 1.0 1 in 200 1.
+14-Apr-99 : B : 34.5% N at 580 kg.
 01-May-99 : B : Opus at 0.7 1 in 200 1.
 01-Jun-99 : B : PFolicur at 1.0 1 with Sipcam UK Rover 500 at 1.0 1 in 100 1.
 25-Jun-99 : B : Policur at 0.25 1 in 100 1.
 03-Aug-99 : B : Combine harvested.
-22
 ]]></rawcontent>
 </report>
 <report>
 <year>2000</year>
 <rawcontent>
-<![CDATA[00/R/EX/4
-EXHAUSTION LAND .
-Object: To study the residual effects of manures applied 1876-1901, and
-of additional phosphate applied since 1986, on the yield of continuous s.
-barley up to 1991, w. wheat since - Hoosfield.
-The 145th year, w. wheat.
-For previous years see ‘Details’ 1977, 1973 and 74-99/R/EX/4.
-Treatments: All combinations of:-
-Whole plots (P test)
-1. OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N 96 kg N as ammonium salts
-Pp 34 kg P as superphosphate
-NPKNAMG N and P as above plus 137 kg K as sulphate of potash,
-16 kg Na as sulphate of soda, 11 kg Mg as sulphate of
-magnesia
-2:0 Maintenance P (20 kg P) applied annually from 2000 to
-maintain existing levels of available P in the soil.
-(Pl) (P2) and (P3) are residues of P applied annually
-1986-1992:
-2000 1686-92
-0 None None
-P(P1) 20 kg P 44 kg P
-P(P2) 20 kg P 87 kg P
-P(P3) 20 kg P 131 kg P
-NOTE: P treatments were applied at 61.5 kg P in error in 2000.
-plus )
-Whole plots (K test, previously N test until 1991)
-OLD RES Residues of manures applied annually 1876-1901:
-0 None
-D Farmyard manure at 35 t
-N* 96 xg N as nitrate of scda
-PK 34 xg P as superphosphate, 137 kg K as sulphate of potash
-N*PK N, P and K as above
-Experimental diary:
+<![CDATA[
 P test:
 10-Sep-99 : T : Muriate of potash at 250 kg.
 : T : Triple superphosphate at 300 kg.
@@ -2849,100 +2351,60 @@ K test
 10-Sep-99 : T : Triple superphosphate at 300 kg.
 All plots:
 12-Sep-99 : B : Ploughed. 2
-15-Sep-99 : B : Combination drilled, Hereward, tr. Sibutol, at 300 seeds/m
-with the Accord drill.
-14-Dec-99 : B : Lexus 50 DF at 20 g with Stomp 400 SC at 2.5 1 and Toppel 10
-at 250 ml in 200 1.
+15-Sep-99 : B : Combination drilled, Hereward, tr. Sibutol, at 300 seeds/m with the Accord drill.
+14-Dec-99 : B : Lexus 50 DF at 20 g with Stomp 400 SC at 2.5 1 and Toppel 10 at 250 ml in 200 1.
 03-May-00 : B : 34.5% N at 580 kg.
 09-May-00 : B : Opus at 0.7.1 in 100 1.
 24-May-00 : B : Amistar at 0.8 1 with Folicur at 0.75 1 in 100 1.
 17-Jul-00 : B : Hand rogued wild oats.
 12-Aug-00 : B : Combine harvested.
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-GRAIN TONNES/HECTARE
-**+++ Tables of means *****
-P 0 P(P1) P(P2) PfP3) Mean
-OLD RES
-0 0.58 3.51 3.97 3.77 2.96
-D 2-11 3.59 3.95 4.00 3.41
-N 0.79 3.91 3.43 3.92 3.01
-P 1.1 3.75 4.07 3.81 3.33
-NPKNAMG 1.87 3.64 3.83 3.68 3.25
-Mean 1.41 3.68 3.85 . 3.84 3.19
-GRAIN MEAN DM% 84.4
-STRAW TONNES/HECTARE
-**aex Tables of means *****
-» o P(P1) P(P2) P(P3) Mean
-OLD RES
-0 0.34 3.98 5.27 4.21 3.45
-D 2.21 4.15 4.49 4.29 3.80
-N 0.89 3.07 3.83 3.61 2.85
-P 2.06 4.20 4.36 4.65 3.82
-NPKNAMG 2.47 4.77 4.17 4.45 3.96
-Mean 1.60 4.03 4.42 4.24 3.58
-STRAW MEAN DM% 81.8
-PLOT AREA HARVESTED 0.00614
-24
 ]]></rawcontent>
 </report>
 <report>
 <year>2001</year>
 <rawcontent>
-<![CDATA[Experimental diary:
+<![CDATA[
 K test
-17-Oct-00 : T : : P basal: (triple superphosphate at 98 kg), plots 2,
-4, 6, 8 & 10.
+17-Oct-00 : T : : P basal: (triple superphosphate at 98 kg), plots 2, 4, 6, 8 & 10.
 P test
-17-Oct-00 : T : P : P test: (triple superphosphate at 98 kg), plots
-011-013, 031-033, 051-053, 071-073, & 091-093.
-18-Oct-00 : T : K : K basal/100 kg (muriate of potash at 250 kg),
-plots 1, 3, 5, 7 & 9.
+17-Oct-00 : T : P : P test: (triple superphosphate at 98 kg), plots 011-013, 031-033, 051-053, 071-073, & 091-093.
+18-Oct-00 : T : K : K basal/100 kg (muriate of potash at 250 kg), plots 1, 3, 5, 7 & 9.
 All plots:
 20-Oct-00 : B : : Ploughed.
-26-0ct-00 : B : : Combination drilled, Hereward, tr. Sibutol, at 450
-seeds/m’ with the Accord drill.
-21-Jan-01 : B : : Ploughed.
-Winter wheat failed, re-sown to spring wheat
-02-Apr-01 : B : : Combination drilled, Axona, tr. Sibutol, at 350
-seeds/m? with the Accord drill.
+26-0ct-00 : B : : Combination drilled, Hereward, tr. Sibutol, at 450 seeds/m’ with the Accord drill.
+21-Jan-01 : B : : Ploughed. Winter wheat failed, re-sown to spring wheat
+02-Apr-01 : B : : Combination drilled, Axona, tr. Sibutol, at 350 seeds/m? with the Accord drill.
 15-May-01 : B : : 33.5% N at 433 kg.
 15-May-01 : B : : tm)Ally at 20 g in 100 1.
 : B : : tm) Starane 2 at 0.5 1 in 100 1.
 13-Jun-01 : B : : Folicur at 0.7 1 in 100 1.
 20-Aug-01 : B : : Azural at 4.0 1 in 200 1.
-07-Sep-01 : T : . Combine harvested plots for yield, and discards.
+07-Sep-01 : T : : Combine harvested plots for yield, and discards.
 : T : Sampled, baled and weighed straw.
 : T : Swathed straw.
 11-Sep-01 : B : : Baled straw.
-Note: Winter wheat failed; re-sown to spring wheat.
-Samples of grain and straw were taken for chemical analysis.
 ]]></rawcontent>
 </report>
 <report>
 <year>2002</year>
 <rawcontent>
-<![CDATA[Experimental diary:
+<![CDATA[
 K test
-04-Oct-01 : T : P : P basal: (triple superphosphate at 98 kg), plots 2,
-- 4, 6, 8 & 10.
+04-Oct-01 : T : P : P basal: (triple superphosphate at 98 kg), plots 2, 4, 6, 8 & 10.
 P test
-04-Oct-01 : T : K : K basal/100 kg (muriate of potash at 250 kg),
-plots 1, 3, 5, 7 & 9.
-: T : P : P test: (triple superphosphate at 98 kg), plots
-011-013, 031-033, 051-053, 071-073, & 091-093.
+04-Oct-01 : T : K : K basal/100 kg (muriate of potash at 250 kg), plots 1, 3, 5, 7 & 9.
+: T : P : P test: (triple superphosphate at 98 kg), plots 011-013, 031-033, 051-053, 071-073, & 091-093.
 All plots
 04-Oct-01 : B : : Subsoiled.
 : B : : Ploughed.
-13-Oct-01 : B : - Combination drilled, Hereward, tr. Sibutol at 350
-seeds/m°.
+13-Oct-01 : B : : Combination drilled, Hereward, tr. Sibutol at 350 seeds/m°.
 11-Dec-01 : B : : tm)Hawk at 2.0 1 in 200 1.
-: B : . tm) Tolkan liquid at 1.0 1 in 200 1.
-: B . tm)Phase II at 1.0 1 in 200 1.
+: B : : tm) Tolkan liquid at 1.0 1 in 200 1.
+: B : tm)Phase II at 1.0 1 in 200 1.
 04-Apr-02 : B : . tm)Opus at 0.4 1 in 100 1.
-: B . tm) Twist at 0.6 1 in 100 1.
-: B : . tm) BASF 3C Chlormequat 720 at 1.25 1 in 100 1.
-: B : . tm)Moddus at 0.2 1 in 100 1.
+: B : tm) Twist at 0.6 1 in 100 1.
+: B : : tm) BASF 3C Chlormequat 720 at 1.25 1 in 100 1.
+: B : : tm)Moddus at 0.2 1 in 100 1.
 29-Apr-02 : B : : 33.5% N at 567 kg.
 20-May-02 : P : : Rotavated down paths.
 31-May-02 : B : . Starane 2 at 0.75 1 in 200 1.
@@ -2950,24 +2412,19 @@ seeds/m°.
 : B : tm) Twist at 0.8 1 in 200 1.
 04-Jul-02 : B : : Rogued wild oats. f
 01-Aug-02 : B : : Roundup Biactive at 3.0 1 in 100 1.
-13-Aug-02 : T : . Combine harvested, plots for yield. Swathed straw.
-Sampled, baled and weighed straw.
+13-Aug-02 : T : . Combine harvested, plots for yield. Swathed straw. Sampled, baled and weighed straw.
 24-Aug-02 : B : : Carted bales.
-NOTE: Samples of grain and straw were taken for chemical analysis.
 ]]></rawcontent>
 </report>
 <report>
 <year>2003</year>
 <rawcontent>
-<![CDATA[Experimental diary:
+<![CDATA[
 K test
-01-Oct-02 : T : P . P basal: (triple superphosphate at 98 kg), plots 2,
-4, 6, 8 & 10.
+01-Oct-02 : T : P . P basal: (triple superphosphate at 98 kg), plots 2, 4, 6, 8 & 10.
 P test
-01-Oct-02 : T : K : K basal/l100 kg (muriate of potash at 250 kg),
-plots 1, 3, 5, 7 & 9.
-: T : P : P test: (triple superphosphate at 98 kg), plots
-011-013, 031-033, 051-053, 071-073, & 091-093.
+01-Oct-02 : T : K : K basal/l100 kg (muriate of potash at 250 kg), plots 1, 3, 5, 7 & 9.
+: T : P : P test: (triple superphosphate at 98 kg), plots 011-013, 031-033, 051-053, 071-073, & 091-093.
 All plots
 05-Sep-02 : B : : Flat-lifted
 : B : : Rolled.
@@ -2975,99 +2432,69 @@ All plots
 03-Oct-02 : B : - Chalk at 4 t.
 : B : : Ploughed 25 cm wide furrows.
 05-Oct-02 : B : : Rolled.
-07-Oct-02 : B : : Combination drilled, Hereward, tr. Sibutol at 400
-seeds /m°.
+07-Oct-02 : B : : Combination drilled, Hereward, tr. Sibutol at 400 seeds /m°.
 08-Oct-02 : B : : Rolled.
-Experimental diary:
-All plots
 17-Feb-03 : B : : tm)Lexus 50 DF at 20 g in 200 1.
-
 : B : : tm)Stomp 400 SC at 3.0 1 in 200 1.
 10-Mar-03 : B : - Sulphur Gold (30% N, 7.6% S) at 167 kg
 29-Apr-03 : B : : 33.5% N at 448 kg.
 07-May-03 : B : : tm)Ally at 30 g in 200 1.
-
 : B : tm) Starane 2 at 0.75 1 in 200 1.
 10-May-03 : B : : tm)Opus at 0.5 1 in 200 1.
-
 : B : : tm)Amistar at 0.6 1 in 200 1.
 28-May-03 : B : : tm)Opus at 0.5 1 in 200 1.
-
 : B : : tm) Twist at 1.0 1 in 200 1.
 26-Jul-03 : B : : Touchdown at 4.0 1 in 200 1.
 06-Aug-03 : B : : Combine harvested, plots for yield.
-07-Aug-03 : B : : Combine harvested discards, Sampled, baled and
-
-welghed straw.
-NOTE: Samples of grain and straw were taken for chemical analysis.
+07-Aug-03 : B : : Combine harvested discards, Sampled, baled and welghed straw.
 ]]></rawcontent>
 </report>
 <report>
 <year>2004</year>
 <rawcontent>
-<![CDATA[Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during
-first two weeks in March, 200kg N as ammonium nitrate at
-GS31/mid-April (whichever comes first) and 50 kg N as ammonium
-nitrate at GS37 (not later than mid-May)
-Experimental diary:
+<![CDATA[
 K test
-26-Sep-03 : T : P : P basal: (triple superphosphate at 98 kg), plots 2,
-4, 6, 8 & 10.
+26-Sep-03 : T : P : P basal: (triple superphosphate at 98 kg), plots 2, 4, 6, 8 & 10.
 P test
-26-Sep-03 : T : K : K basal/100 kg (muriate of potash at 250 kg),
-plots 1, 3, 5, 7 & 9.
-: T : P : P test: (triple superphosphate at 98 kg), plots
-011-013, 031-033, 051-053, 071-073, & 091-093.
+26-Sep-03 : T : K : K basal/100 kg (muriate of potash at 250 kg), plots 1, 3, 5, 7 & 9.
+: T : P : P test: (triple superphosphate at 98 kg), plots 011-013, 031-033, 051-053, 071-073, & 091-093.
 All plots
 26-Sep-03 : B : : Ploughed 30 cm wide furrows.
 27-Sep-03 : B : Cultipress.
-10-Oct-03 : B : : Combination drilled, Xi 19, tr. Sibutol Secur at
-380 seeds/m?.
-
-+: B : : Rolled.
+10-Oct-03 : B : : Combination drilled, Xi 19, tr. Sibutol Secur at 380 seeds/m?.
+: B : : Rolled.
 16-Dec-03 : B : : tm)Arelon 500 at 4.0 1 in 200 1.
-
 : B : : tm)Stomp 400 SC at 2.5 1 in 200 1.
 30-Mar-04 : B : : Ammonium sulphate (21% N) at 238 kg
 14-Apr-04 : B : : tm)Ally at 30 g in 200 1.
-
 B : : tm)Oxytril CM at 0.5 1 in 200 1.
 29-Apr-04 : B : : 34.5% N at 580 kg.
 13-May-03 : B : : tm)Opus at 0.75 1 in 200 1.
-
 : B : : tm)Moddus at 0.15 1 in 200 1.
 24-May-04 : Rotavate down paths.
 25-May-04 : B : : 34.5% N at 145 kg.
 07-Jun-04 : B : : tm)Opus at 0.75 1 in 200 1.
-
 : B : tm)Twist at 0.75 1 in 200 1.
 14-Jun-04 : B : : Dursban 4 at 0.45 1 in 200 1.
 02-Sep-04 : B : : Combine harvested, plots for vield.
 03-Sep-04 : B : : Straw sampled and weighed.
-07-Sep-04 : B : : Combine harvested discards, Swathed and baled
-
-straw.
-NOTE: Samples of grain and straw were taken for chemical analysis.
+07-Sep-04 : B : : Combine harvested discards, Swathed and baled straw.
 ]]></rawcontent>
 </report>
 <report>
 <year>2005</year>
 <rawcontent>
-<![CDATA[Experimental diary:
+<![CDATA[
 K test
-29-Sep-04 : TT : P : P basal: (triple superphosphate at 98 kg), plots 2,
-4, 6, 8 & 10.
+29-Sep-04 : T : P : P basal: (triple superphosphate at 98 kg), plots 2, 4, 6, 8 & 10.
 P test
-29-Sep-04 : T : K : K basal/124.5 kg (muriate of potash at 250 kg) *,
-plots 1, 3, 5, 7 & 9.
-: T : P : P test: (triple superphosphate at 98 kg), plots
-011-013, 031-033, 051-053, 071-073, & 091-093.
+29-Sep-04 : T : K : K basal/124.5 kg (muriate of potash at 250 kg) this is wrongly entered for the 2001 - 2004 Yield Books which
+incorrectly stated that the basal K was 100 kg K., plots 1, 3, 5, 7 & 9.
+: T : P : P test: (triple superphosphate at 98 kg), plots 011-013, 031-033, 051-053, 071-073, & 091-093.
 All plots f
 29-Sep-04 : B : : Ploughed 25 cm wide furrows.
 30-Sep-04 : B : : Cultipress.
-05-Oct-04 : B : . Flexitined, combination drilled, Xi/19, tr. Sibutol
-Secur at 350 seeds/m’.
+05-Oct-04 : B : . Flexitined, combination drilled, Xi/19, tr. Sibutol Secur at 350 seeds/m’.
 : B : : Rolled.
 25-Nov-04 : B : : tm)Hawk at 2.0 1 in 200 1.
 : B : : tm)Alpha iPU 500 at 2.5 1 in 200 1.
@@ -3091,9 +2518,6 @@ Secur at 350 seeds/m’.
 25-Jul-05 : B : : Rotavate down paths
 16-Aug-05 : B : : Combine harvested, plots for yield, straw swathed.
 17-Aug-05 : B : : Straw sampled and weighed.
-* this is wrongly entered for the 2001 - 2004 Yield Books which
-incorrectly stated that the basal K was 100 kg K.
-NOTE: Samples of grain and straw were taken for chemical analysis.
 ]]></rawcontent>
 </report>
 <report>
@@ -3101,19 +2525,15 @@ NOTE: Samples of grain and straw were taken for chemical analysis.
 <rawcontent>
 <![CDATA[Experimental diary:
 K test
-27-Sep-05 : T : P . P basal: (triple superphosphate at 98 kg), plots 2,
-4, 6, 8 & 10.
+27-Sep-05 : T : P . P basal: (triple superphosphate at 98 kg), plots 2, 4, 6, 8 & 10.
 P test
-27-Sep-05 : T : P . P test: (triple superphosphate at 98 kg), plots
-011-013, 031-033, 051-053, 071-073, & 091-093.
-28-Sep-05 : T : K . K basal/124.5 kg (muriate of potash at 250 kg)*,
-plots 1, 3, 5, 7 & 9.
+27-Sep-05 : T : P . P test: (triple superphosphate at 98 kg), plots 011-013, 031-033, 051-053, 071-073, & 091-093.
+28-Sep-05 : T : K . K basal/124.5 kg (muriate of potash at 250 kg)*, plots 1, 3, 5, 7 & 9.
 All plots
 29-Sep-05 : B : : Keiserite (30 kg Mg)
-Ploughed 25 cm wide furrows.
+: B : Ploughed 25 cm wide furrows.
 04-Oct-05 : B : : Cultipress.
-07-Oct-05 : B : : Cultipressed, combination drilled, Xil9, tr.
-Redigo Twin at 350 seeds/m?, rolled.
+07-Oct-05 : B : : Cultipressed, combination drilled, Xil9, tr. Redigo Twin at 350 seeds/m?, rolled.
 17-Oct-05 : B : : Ice at 4.0 1 in 200 1.
 05-Dec-05 : B : : Hallmark with Zeon Technology at 50 ml in 200 1.
 13-Mar-06 : B : : Ammonium sulphate (21% N) at 238 kg
@@ -3123,225 +2543,162 @@ Redigo Twin at 350 seeds/m?, rolled.
 : B : : tm)Flexity at 0.2 1 in 200 1.
 17-May-06 : B : : 34.5% N at 145 kg.
 21-May-06 : B : : tm)Bravo 500 at 1.0 1 in 200 1.
-+: B : : tm)Opus at 0.75 1 in 200 1.
+: B : : tm)Opus at 0.75 1 in 200 1.
 : B : : tm)Vivid at 0.4 1 in 2001.
 : B : : tm)Starane 2 at 0.75 1 in 200 1.
 : B : : tm)Ally Max SX at 42 g in 200 1.
 06-Aug-06 : B : + Combine harvested discards, baled straw.
 23-Aug-06 : B : . Combine harvested, plots for yield, straw swathed.
 : B : : Straw sampled and weighed.
-25-Aug-06 : B : . Combine harvested discards, swathed and baled
-straw. f
+25-Aug-06 : B : . Combine harvested discards, swathed and baled straw. f
 ]]></rawcontent>
 </report>
 <report>
 <year>2007</year>
 <rawcontent>
-<![CDATA[07/RIEX/4
-2. K Potassium applied annually for 2007 as muriate of potash
-oO None
-K1 75 kg KO (62.2 kg K)
-K2 150 kg Kz0 (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes
-first) and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-Experimental diary:
+<![CDATA[
 K test
-12-Oct-06 tf Muriate of Potash - 023, 043, 063, 083, 103 125.00 kg/ha
-f Muriate of Potash — 024, 044, 064, 084, 104 250.00 kg/ha
-f Basal P (triplesuperphosphate) - plots 02, 04, 06, 98.00 kg/ha
-08,10
+12-Oct-06 f Muriate of Potash - 023, 043, 063, 083, 103 125.00 kg/ha
+12-Oct-06 f Muriate of Potash — 024, 044, 064, 084, 104 250.00 kg/ha
+12-Oct-06 f Basal P (triplesuperphosphate) - plots 02, 04, 06, 08, 10 98.00 kg/ha
 P test
-12-Oct-06 1 Triplesuperphosphate — plots 011-013, 031-033, 98.00 kg/ha
-051-053, 071-073, 091-093
-f Basal K (muriate of potash) - plots 01, 03, 05, 07. 250.00 kg/ha
-09
-All Plots Rate Unit
+12-Oct-06 f Triplesuperphosphate — plots 011-013, 031-033, 051-053, 071-073, 091-093 98.00 kg/ha
+12-Oct-06 f Basal K (muriate of potash) - plots 01, 03, 05, 07, 09 250.00 kg/ha
+All Plots
 13-Oct-06 p Barclay Gallup 360 4.00 1/200 Vha
 19-Oct-06 a Plough’ N
-30-Oct-06 a Combination Drilled
-s Xi19 tr Redigo Sib Secure 350.00 seeds/m*
+30-Oct-06 a Combination Drilled Xi19 tr Redigo Sib Secure 350.00 seeds/m*
 03-Nov-07 p Ice 4.00 1/200 ha
 08-Dec-07 p Entice 7.00 kgha
 12-Mar-07 f Sulphate of Ammonia 238.00 kgha
-11-Apr-07 p Pacifica 0.50 kg/200 'ha
-p Biopower 1.00 1/200 Vha
+11-Apr-07 p Pacifica 0.50 kg/200 l/ha
+11-Apr-07 p Biopower 1.00 1/200 Vha
 23-Apr-07 p Clean Crop Wanderer 1.00 1200 Vha
-p Deuce 1.00 1/200 Vha
+23-Apr-07 p Deuce 1.00 1/200 Vha
 26-Apr-07 1 Nitraprill 580.00 kg/ha
 22-May-07 p Amistar Opti 1.25 1200 ha
-p Opus 0.80 1200 Uha
+22-May-07 p Opus 0.80 1200 Uha
 06-Jun-07 a Mow/Rotavate paths
 14-Jun-07 a Mow/Rotavate paths
 25-Jun-07 a Mow/Rotavate paths
 07-Aug-07 a Mow/Rotavate paths
 27-Aug-07 a Combine harvest O&E's
-a Chop straw O&E's
+27-Aug-07 a Chop straw O&E's
 03-Sep-07 a Combine harvest, plots for yield
-a Swath straw
+03-Sep-07 a Swath straw
 04-Sep-07 a Sample, bale and weigh straw
-Note: Samples of grain and straw were taken for chemical analysis.
-22
 ]]></rawcontent>
 </report>
 <report>
 <year>2008</year>
 <rawcontent>
-<![CDATA[08/R/EX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-oO None
-K1 75 kg KO (62.2 kg K)
-K2 150 kg K:O (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes
-first) and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-Experimental diary
+<![CDATA[
 K Test
-Rate Unit
-1-Oct-07 1 Munate of Potash, plots 023, 043, 063, 083 & 125.00 kg/ha
-103
-I Munate of Potash, plots 024, 044, 064, 084 & 250.00 kgha
-104
-f Basal P (triplesuperphosphate) plots 02, 04, 06, 98.0 Kg/ha
-08 & 10
+1-Oct-07 f Muriate of Potash, plots 023, 043, 063, 083 & 103 125.00 kg/ha
+1-Oct-07 f Muriate of Potash, plots 024, 044, 064, 084 & 104 250.00 kgha
+1-Oct-07 f Basal P (triplesuperphosphate) plots 02, 04, 06, 08 & 10 98.0 Kg/ha
 P test
-1-Oct-07 f Triple Superphosphate, plots except 011-013, 88.00 kg/ha
-031 - 033, 051 - 053, 071 - 073 & 091 - 093
-I Basal K (muriate of potash) plots 01,03, 05,07 250.00 kgha
-&09
+1-Oct-07 f Triple Superphosphate, plots except 011-013, 031 - 033, 051 - 053, 071 - 073 & 091 - 093 88.00 kg/ha
+1-Oct-07 f Basal K (muriate of potash) plots 01,03, 05,07 &09 250.00 kgha
 Selected plots:
-6-0ct-07 1 Chalk, Plots 021, 022, 024, 061, 062, 063, 083, 2.00 vha
-102, 103, 104
-f Chalk, Plots 011, 023, 042, 044, 054, 064, 071, 4.00 tha
-082, 084
-f Chalk, Plots 041, 043, 051, 081, 101 6.00 Vha
+6-0ct-07 f Chalk, Plots 021, 022, 024, 061, 062, 063, 083, 102, 103, 104 2.00 vha
+6-0ct-07 f Chalk, Plots 011, 023, 042, 044, 054, 064, 071, 082, 084 4.00 tha
+6-0ct-07 f Chalk, Plots 041, 043, 051, 081, 101 6.00 Vha
 All plots
 30-Sep-07 p Glyphosate 360 3.00 1200 I'ha
-10-Oct-07 a Plough’ S. completed 11-Oct-2007
-22-Oct-07 a Combination Drilled
-s X19 tr Redigo Twin + Deter 350.00 seeds'm?
+10-Oct-07 a Plough / S. completed 11-Oct-2007
+22-Oct-07 a Combination Drilled X19 tr Redigo Twin + Deter 350.00 seeds'm?
 23-Oct-07 a Rolled
 30-Oct-07 p Huron 5.00 kgha
 2-Nov-07 p Liberator 0.60 V200 I'ha
-p Alpha Trifluralin 48 EC 200 1200 I’ha
+2-Nov-07 p Alpha Trifluralin 48 EC 200 1200 I’ha
 17-Nov-07 p Stomp 400 SC 330 1200 Ilha
-p  Arelon 500 2.00 1200 Ilha
-p Hallmark with Zeon Technology 50.00 ml’200 I'ha
+17-Nov-07 p  Arelon 500 2.00 1200 Ilha
+17-Nov-07 p Hallmark with Zeon Technology 50.00 ml’200 I'ha
 1-Apr-08 f Sulphate of Ammonia 238.00 kgha
 18-Apr-08 f  Nitraprill 580.00 kgha
-22
 ]]></rawcontent>
 </report>
 <report>
 <year>2009</year>
 <rawcontent>
-<![CDATA[09/R/EX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-o None
-Ki 75 kg K:0 (62.2 kg K)
-K2 150 kg K20 (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes
-first) and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-Experimental diary
+<![CDATA[
 K Test
-30-Sep-08 f Basal P (triple superphosphate) - plots 02. 75.00 kg/ha
-04,06, 08 and 10
-f  Muriate of Potash, plots 23, 43, 63, 83 & 103 125.00 kg/ha
-f  Muriate of Potash, plots 24, 44, 64, 84, 104 250.00 kg/ha
+30-Sep-08 f Basal P (triple superphosphate) - plots 02, 04,06, 08 and 10 75.00 kg/ha
+30-Sep-08 f  Muriate of Potash, plots 23, 43, 63, 83 & 103 125.00 kg/ha
+30-Sep-08 f  Muriate of Potash, plots 24, 44, 64, 84, 104 250.00 kg/ha
 P Test
-30-Sep-08 f Triple Superphosphate ~ plots 011 - 013, 75.00 kg/ha
-031-033, 051 = 053, 071 - 073 and 091-
-093
-f  Muriate of Potash, plots 01,03, 05, 07 & 09 250.00 kg/ha
+30-Sep-08 f Triple Superphosphate  plots 011 - 013, 031-033, 051 = 053, 071 - 073 and 091-093 75.00 kg/ha
+30-Sep-08 f  Muriate of Potash, plots 01,03, 05, 07 & 09 250.00 kg/ha
 All plots
-Rate Unit
 06-Oct-08 a Plough/N
 11-Oct-08 a  Cultipressed
 16-Oct-08 a Power Harrowed
-a Combination Drilled
-s  XI-19 tr Redigo Deter 350.00 seeds/m2
-18-Oct-08 p  Uberator 0.60 1200 Vha
+16-Oct-08 a Combination Drilled XI-19 tr Redigo Deter 350.00 seeds/m2
+18-Oct-08 p Liberator 0.60 1200 Vha
 17-Dec-08 p Stomp 400 SC 3.30 wha
-p Arelon 500 3.00 ha
-p Hallmark with Zeon Technology 50.00 mbha
+17-Dec-08 p Arelon 500 3.00 ha
+17-Dec-08 p Hallmark with Zeon Technology 50.00 mbha
 09-Mar-09 f Ammonium Sulphate 238.00 kg/ha
 25-Mar-09 f  Kieserite 80.00 kg/ha
 14-Apr-09 p Pacifica 0.40 kg/ha
 20-Apr-09 f  Nitram 580.00 kg/ha
-p Cherokee 1.00 Uha
+20-Apr-09 p Cherokee 1.00 Uha
 02-May-09 p Splice 1.00 Uha
-p Bravo 500 1.00 Uha
-p Talus 0.13 Uha
-p BASF 3C Chlormequat 720 225 Uha
+02-May-09 p Bravo 500 1.00 Uha
+02-May-09 p Talus 0.13 Uha
+02-May-09 p BASF 3C Chlormequat 720 225 Uha
 04-May-09 p Ally Max SX 42.00 gha
-p  Agrguard Fluroxypyr 0.75 Uha
+04-May-09 p  Agrguard Fluroxypyr 0.75 Uha
 13-May-09 f  Nitram 145.00 kg/ha
 16-May-09 a Mow / Rotavate paths
 28-May-09 p Buus 1.50 Uha
-
-p  Amistar Opti 1.25 ha
+28-May-09 p  Amistar Opti 1.25 ha
 02-Jun-09 a Mow / Rotavate paths
 29-Jun-09 a Mow/ Rotavate paths
 15-Aug-09 a Combine harvest, plots for yield
-
-a Sample, bale and weigh straw
+15-Aug-09 a Sample, bale and weigh straw
 ]]></rawcontent>
 </report>
 <report>
 <year>2010</year>
 <rawcontent>
-<![CDATA[10/R/EX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-o None
-K1 75 kg K:O (62.2 kg K)
-K2 150 kg K:O (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sulficient S) during first two weeks in
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes
-first) and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-Experimental diary
+<![CDATA[
 K Test
-29-Sep-09 f Basal P (triple su, te) - plots 02, 04, 06,
-Sep Basal P rple superphosphate) - pi 7500  kgha
-I Muriate of Potash, plots 23, 43, 63, 83 & 103 125.00 kg/ha
-f Muriate of Potash, plots 24, 44, 64, 84, 104 250.00 kg/ha
+29-Sep-09 f Basal P (triple superphosphate) - plots 02, 04, 06, 08 and 10 75.00 kg/ha
+29-Sep-09 f Muriate of Potash, plots 23, 43, 63, 83 & 103 125.00 kg/ha
+29-Sep-09 f Muriate of Potash, plots 24, 44, 64, 84, 104 250.00 kg/ha
 P Test
-29-Sep-09 f Triple Superphosphate ~ plots 011 = 013, 031 ~ 7500  kgha
-033, 051 - 053, 071 - 073 and 091- 093 f
-f Muriate of Potash, plots 01,03, 05, 07 & 09 250.00 kg/ha
-All Plots Rate Unit
+29-Sep-09 f Triple Superphosphate - plots 011 - 013, 031 - 033, 051 - 053, 071 - 073 and 091- 093 75.00  kgha
+29-Sep-09 f Muriate of Potash, plots 01,03, 05, 07 & 09 250.00 kg/ha
+All Plots
 29-Sep-09 a Spread fertiliser
 30-Sep-09 a Plough
 01-Oct-09 a Cultipressed
 02-Oct-09 a Cultipressed - Second time
-05-Oct-09 a Combination Drilled
-s Drilled Xi19 - at 350 seeds per m? 166.00 kg/ha
-p Liberator -200 It water 0.60 ha
+05-Oct-09 a Combination Drilled Xi19 - at 350 seeds per m? 166.00 kg/ha 
+05-Oct-09 p Liberator -200 It water 0.60 ha
 19-Mar-10 f Sulphate of Ammonia - As indicated on plan 238.00 kg/ha
 06-Apr-10 f Kieserite 80.00 kg/ha
 10-Apr-10 p Cherokee - 146 f water 1.00 I'ha
 15-Apr-10 f  Nitram 580.00 kg/ha
 18-Apr-10 p  Attribut - 146 It water 100.00 g/ha
-p Amber - 146 It water 1.00 Ilha
-p  Oxytril CM - 146 It water 1.00 ha
+18-Apr-10 p Amber - 146 It water 1.00 Ilha
+18-Apr-10 p  Oxytril CM - 146 It water 1.00 ha
 06-May-10 p Bravo 500 - 200 It water 1.00 Ilha
-p Tracker - 200 It water 1.00 I'ha
-p Chilormequat 3C - 200 It water 225 ha
+06-May-10 p Tracker - 200 It water 1.00 I'ha
+06-May-10 p Chilormequat 3C - 200 It water 225 ha
 12-May-10 a Mow / Rotavate paths
 18-May-10 p Tomahawk 1.00 ha
-p Cleancrop Gallifrey 1.00 ha
+18-May-10 p Cleancrop Gallifrey 1.00 ha
 19-May-10 f Nitram 14500 kg/ha
 02-Jun-10 p Comet - 200 It water 0.60 I'ha
-p Opus - 200 It water 0.60 I'ha
+02-Jun-10 p Opus - 200 It water 0.60 I'ha
 03-Jun-10 a Rotavated paths
 17-Jun-10 a Cut paths
 14-Jul-10 a Mow / Rotavate paths
-31-Aug-10 a Combine harvest, plots for yield
-a Sample, bale and weigh straw
+31-Aug-10 a Combine harvest, plots for yield 
+31-Aug-10 a Sample, bale and weigh straw
 03-Sep-10 a Combine harvest discards
 04-Sep-10 a Baled
 ]]></rawcontent>
@@ -3349,25 +2706,14 @@ a Sample, bale and weigh straw
 <report>
 <year>2011</year>
 <rawcontent>
-<![CDATA[11/RIEX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-oO None
-K1 75 kg K:0 (62.2 kg K)
-K2 150 kg K:O (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes first) and
-50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-Experimental diary
+<![CDATA[
 K Test
 07-Oct-10 f Basal P (triple superphosphate) - plots 02.04,06.08 and 75 kgha
-Muriate of Potash - plots 23,43.63,83.103 125 kg/ha
-Muriate of Potash - plots 24,44 64,84, 104 250 kg/ha
+07-Oct-10 f Muriate of Potash - plots 23,43.63,83.103 125 kg/ha
+07-Oct-10 f Muriate of Potash - plots 24,44 64,84, 104 250 kg/ha
 P Test
-07-Oct-10 f Triple Super Phosphate - plots 011-013,031-033,051- 75 kg/ha
-053, 071-073, 091-093 9
-07-Oct-10 f  Muriate of Potash - plots 011-014, 031-034, 051-054, 250 kg/ha
-071-074, 091-094.
+07-Oct-10 f Triple Super Phosphate - plots 011-013,031-033,051-053, 071-073, 091-093 75 kg/ha
+07-Oct-10 f  Muriate of Potash - plots 011-014, 031-034, 051-054, 071-074, 091-094. 250 kg/ha
 All Plots
 10-Oct-10 a Ploughed
 10-Oct-10 a Ploughed
@@ -3376,210 +2722,124 @@ All Plots
 16-Oct-10 a Rolled
 17-Oct-10 p Sprayed Regatta - water volume = 200 IVha 0.6 I/ha
 14-Mar-11 f Applied Ammonium Sulphate Fertiliser 238 kg/ha
-28-Mar-11 p Sprayed Cherokee - Water volume = 118 Itha. Applied 1.25 ha
-to WW area only f )
+28-Mar-11 p Sprayed Cherokee - Water volume = 118 Itha. Applied to WW area only f ) 1.25 ha
 06-Apr-11 f Applied Kieserite 80 kg/ha
 13-Apr-11 f Applied Nitram 580 kg/ha
-05-May-11 p Sprayed Bravo 500, 1.0 I'ha
-Tracker, 1.0 Ilha
-Agriguard Chlormequat 720, 225 I/ha
-Ally Max 42 g/ha
-and Starane 2 - 200 IVha water 0.75 I'ha
+05-May-11 p Sprayed Bravo 500 - 200 IVha water 1.0 I'ha
+05-May-11 p Sprayed Tracker - 200 IVha water 1.0 Ilha
+05-May-11 p Sprayed Agriguard Chlormequat - 200 IVha water 720, 225 I/ha
+05-May-11 p Sprayed Ally Max - 200 IVha water 42 g/ha
+05-May-11 p Sprayed Starane 2 - 200 IVha water 0.75 I'ha
 10-May-11 f Applied Nitram 146 kg/ha
 16-May-11 a Cut paths
-19-May-11 p Sprayed Opus, 0.8 I/ha
-Comet 200 0.6 I/ha
-and Bravo 500 - 100 I'na water 1.0 I'ha
+19-May-11 p Sprayed Opus - 100 I'na water 0.8 I/ha
+19-May-11 p Sprayed Comet 200 - 100 I'na water 0.6 I/ha
+19-May-11 p Sprayed  Bravo 500 - 100 I'na water 1.0 I'ha
 23-May-11 a Cut paths
-25
 03-Jun-11 a Rotavated paths
-
 08-Jun-11 a Cut paths
-
 20-Jun-11 a Cut paths
-
 01-Aug-11 a Cut paths
-
-12-Aug-11 a Combined O+Es - Opened up trials with commercial
-combine ready for yields to be taken
-
-12-Aug-11 a Baled O+Es - Baled area discard area cut to open out
-trials
-
+12-Aug-11 a Combined O+Es - Opened up trials with commercial combine ready for yields to be taken
+12-Aug-11 a Baled O+Es - Baled area discard area cut to open out trials
 16-Aug-11 a Straw weights
-
 16-Aug-11 a Combined - O+Es
-
 17-Aug-11 a straw baled
 ]]></rawcontent>
 </report>
 <report>
 <year>2012</year>
 <rawcontent>
-<![CDATA[12/R/EX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-o None
-K1 75 kg KO (62.2 kg K)
-K2 150 kg K:O (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks
-in March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever
-comes first) and 50 kg N as ammonium nitrate at GS37 (not later than mid-
-May)
-Experimental diary
-Date Application Rate Units
+<![CDATA[
+all plots
 15-Aug-11 a Combined for yields .
 15-Aug-11 a Straw weights -
 29-Sep-11 f Applied Triple Super Phosphate, as per plan. -
 29-Sep-11 f Applied Muriate of Potash, as per plan -
-30-Sep-11 a Applied Chalk, as per plan
-Plots 022,024,074. 2 vha
-Plots 011,023,044,061,062,063,064, 071, 4 tha
-082,083,084,103.
-Plots 021, 041,042,043, 051,054,081,101,102,104. 6 tha
+30-Sep-11 a Applied Chalk, as per plan Plots 022,024,074. 2 vha
+30-Sep-11 a Applied Chalk, as per planPlots 011,023,044,061,062,063,064, 071,082,083,084,103. 4 tha
+30-Sep-11 a Applied Chalk, as per planPlots 021, 041,042,043, 051,054,081,101,102,104. 6 tha
 03-Oct-11 a Ploughed -
 04-Oct-11 a  Cultipressed -
-12-Oct-11 a Rolled i
-14-Oct-11 p Sprayed Liberator in 200Vha of water 06 Vha
+12-Oct-11 a Rolled
+14-Oct-11 p Sprayed Liberator in 200Vha of water 0.6 Vha
 16-Mar-12 1 Applied Ammonium Sulphate Fertiliser 238 kg/ha
-22-Mar-12 p Sprayed Cherokee SE and Justice in 200Vha Ch1.0 Vha
-Ju0.125
+22-Mar-12 p Sprayed Cherokee SE  in 200Vha 1.0 Vha
+22-Mar-12 p Sprayed Justice  in 200Vha 0.125
 11-Apr-12 f Applied Nitram Feriliser 580 kg/ha
-05-May-12 p Sprayed AllyMax, Bravo 500, Tracker, Agriguard and Al@ 42° ‘ga
-Starane in 200U/ha of water Br@ 1.0 Vha
-T@ 1.0
-Ag@ 2.25
-SI@0.5
-05-May-12 p Sprayed AllyMax, Bravo 500, Tracker, Agriguard and A@ 42°, ‘g/ha
-Starane 2 in 200 I'ha of water Br@ 1.0, Vha
-T@ 1.0,
-Ag@ 2.25,
-SI@0.5
+05-May-12 p Sprayed Ally Max in 200 l/ha of water 42 g/ha 
+05-May-12 p Sprayed Bravo 500 in 200 l/ha of water 1.0 l/ha
+05-May-12 p Sprayed Tracker in 200 l/ha of water 1.0 l/ha
+05-May-12 p Sprayed Agriguard in 200 l/ha of water 2.25 l/ha
+05-May-12 p Sprayed Starane in 200 l/ha of water 0.5 l/ha
 17-May-12 a Cut Paths -
 17-May-12 f Applied Nitram 145 kg/ha
-23-May-12 p Sprayed Comet. Bravo 500 and Opus Co@0.6 Vha
-Br@1.0
-Op@0.8
-13-Jun-12  p Sprayed w/ Amistar and Prosaro in 1001/ha of water Am@0.3 Vha
-P@0.7
+23-May-12 p Sprayed Comet 0.6 Vha
+23-May-12 p Sprayed Bravo 500 1.0 l/ha
+23-May-12 p Sprayed Opus 0.8 l/ha
+13-Jun-12 p Sprayed Amistar in 100 l/ha of water 0.3 l/ha
+13-Jun-12 p Sprayed Prosaro in 100 l/ha of water 0.7 Vha
 14-Jun-12 a Cutpaths -
 20-Jun-12 a Cut Paths -
-25
 06-Aug-12 a Cut Paths .
-07-Aug-12 p Sprayed w/ Samurai 3 ha
+07-Aug-12 p Sprayed w/ Samurai 3 l/ha
 23-Aug-12 a Harvested. .
 24-Aug-12 a Harvested O+E's “
 24-Aug-12 a Sampled Baled and Weighed -
 20-Sep-12 p Sprayed Whole field w/ Weedazol EW 20 Vha
 28-Sep-12 f Spread Muriate of Potash - plots 103,83,63,43.23 125 kg/ha
-28-Sep-12 fSpread Muriate of Potash - plots 104-94,87-73.64- 250 kg/ha
-54.44-34,24-14
-28-Sep-12 f Spread TSP as on sheet on plots 101-93,81-73,61- 75 kg/ha
-53.41-33,21-13
-NOTE: Samples of grain and straw were taken for chemical analysis.
-P TEST
-Grain tonnes/hectare
-4*#44 Tables of means ****+
-P_RES 0 Pl P2 P3 Vean
-OLD_RES
-D 2.43 7.22 8.36 8.72 6.68
-D 4.94 B.66 8.66 8.64 7.72
-N 1.43 7.78 8.21 8.45 6.47
-P 3.64 8.23 8.42 8.77 1.26
-NPEKNAMG 3.45 8.02 8.60 8.52 7.38
-Mean 3.18 7.98 8.45 8.62 7.06
-Grain mean DMY 86.5
-Plot area harvested 0.00538
-Straw tonnes/hectare
-ERA. Tables of means LEAS
-P_RES 0 Pl P2 P3 Mean
-OLD_RES
-) 1.61 4.01 5.18 5.73 4.13
-o 2.89 5.21 6.49 6.41 5.25
-N 0.97 4.51 4.95 5.43 3.96
-v 2.0% 4.79 5.21 5.87 4.43
-NPKNANG 2.22 4.19 5.08 6.03 4.38
-Mean 1.96 4.54 5.38 5.89 4.44
-Straw mean DMV 86.3
-Plot area harvested 0.00538
-26
+28-Sep-12 f Spread Muriate of Potash - plots 104-94,87-73.64-54.44-34,24-14 250 kg/ha
+28-Sep-12 f Spread TSP as on sheet on plots 101-93,81-73,61-53.41-33,21-13 75 kg/ha
 ]]></rawcontent>
 </report>
 <report>
 <year>2013</year>
 <rawcontent>
-<![CDATA[13/R/EX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-oO None
-K1 75 kg KO (62.2 kg K)
-K2 150 kg K2O (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks
-in March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever
-comes first) and 50 kg N as ammonium nitrate at GS37 (not later than mid-
-May)
-Experimental diary
-Date Application Rate Units
+<![CDATA[
+all plots
 20-Sep-12 p Sprayed Whole field w/ Weedazol EW 20 /ha
 28-Sep-12 f Spread MOP Fertilizer on plots - 103.83.63.43.23 125 kg/ha
-28-Sep-12 f Spread MOP Fertilizer as on sheet on plots 104-94,87- 250 kg/ha
-73,64-54 44-34 24-14
-28-Sep-12 f Spread TSP as on sheet on plots 101-93,81-73,61- 75 kg/ha
-53.41-33,21-13
+28-Sep-12 f Spread MOP Fertilizer as on sheet on plots 104-94,87-73,64-54 44-34 24-14 250 kg/ha
+28-Sep-12 f Spread TSP as on sheet on plots 101-93,81-73,61-53.41-33,21-13 75 kg/ha
 15-Oct-12 a Drilled WW Xit9 400 seeds m?
-15-Nov-12 p Sprayed Liberator and PDM, also o+e’s at each end of Li@0.6 I’ha
-EX/4 PDM@2.7 ha
+15-Nov-12 p Sprayed Liberator , also o+e’s at each end of EX/4 0.6 I’ha
+15-Nov-12 p Sprayed PDM, also o+e’s at each end of EX/4 2.7 ha
 15-Nov-12 p Spread Slug Pellets (Gusto) 5 kg/ha
 11-Mar-13 f Applied Kieserite 80 kg/ha
 12-Mar-13 f Applied Ammonium Sulphate Fertiliser 238 kg/ha
 25-Apr-13 f Applied Nitram 580 kg/ha
-16-May-13 p Sprayed AllyMax, Kingdom, Bravo500, NewCycocel, AM@42 g/ha
-HatchetExtra Ki@1.25 ha
-Br500@1.0 ha
-NCy@2.0 ha
-Hal@1.0 ha
+16-May-13 p Sprayed AllyMax 42 g/ha
+16-May-13 p Sprayed Kingdom 1.25 ha
+16-May-13 p Sprayed Bravo500 1.0 l/ha
+16-May-13 p Sprayed NewCycocel 2.0 l/ha
+16-May-13 p Sprayed Hatchet Extra 1.0 ha
 21-May-13 f Applied Nitram 145 kg/ha
-06-Jun-13 p Sprayed Ingite and Comet ign@1.2 ha
-com@0.4 I/ha
+06-Jun-13 p Sprayed Ingite 1.2 ha
+06-Jun-13 p Sprayed Comet 0.4 I/ha
 18-Jun-13 p Sprayed Cello 0.55 /ha
-19-Jun-13 a Cut Paths — —
-04-Jul-13 a Cut Paths _— —_
-19-Jul-13 a Cut Paths. — —
+19-Jun-13 a Cut Paths
+04-Jul-13 a Cut Paths
+19-Jul-13 a Cut Paths. 
 12-Aug-13 a Claas - Harvested - —
-13-Aug-13 a Sampo - Harvested — —
+13-Aug-13 a Sampo - Harvested 
 13-Aug-13 a baled weighed and sampled plots - —
 20-Aug-13 a Claas - Harvested, OE's go —
-23
 ]]></rawcontent>
 </report>
 <report>
 <year>2014</year>
 <rawcontent>
-<![CDATA[14/R/EX/4
-2. K Potassium applied annually from 2007 as muriate of potash
-oO None
-K1 75 kg Kz0 (62.2 kg K)
-K2 150 kg KO (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes first)
-and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-Experimental diary
-Date Application Rate Units
+<![CDATA[
+all plots
 30-Sep-13 f Applied MOP Fertiliser - Plots 023, 043, 063, 083, 103 125 kg/ha
-30-Sep-13 f Applied MOP Fertiliser - Plots 011, 012, 013, 014, 024, 250 kg/ha
-031, 032, 033, 034, 044, 051, 052, 053, 054, 064, 071,
-072, 073, 074, 084, 091, 092, 093, 094, 104
-30-Sep-13 f Applied TSP - All Plots except Plots 014, 034, 054, 074, 75 kg/ha
-094
-01-Oct-13 a Topping - -
+30-Sep-13 f Applied MOP Fertiliser - Plots 011, 012, 013, 014, 024, 031, 032, 033, 034, 044, 051, 052, 053, 054, 064, 071, 072, 073, 074, 084, 091, 092, 093, 094, 104 250 kg/ha
+30-Sep-13 f Applied TSP - All Plots except Plots 014, 034, 054, 074, 094 75 kg/ha
+01-Oct-13 a Topping 
 02-Oct-13 a Applied Chalk - Plots 013, 014, 041, 043, 051, 054, 072 2 tha
-02-Oct-13 a Applied Chalk - Plots 021, 042, 044, 081, 071, 074, 091, 4 tha
-102, 104
-02-Oct-13 a Applied Chalk - Plots 011, 012, 022, 023, 024, 031, 052, 6 tha
-053, 061, 062, 063, 064, 082, 083, 084, 101, 103
-09-Oct-13 a Ploughed i g
-10-Oct-13 a Cultipressed - -
+02-Oct-13 a Applied Chalk - Plots 021, 042, 044, 081, 071, 074, 091, 102, 104 4 tha
+02-Oct-13 a Applied Chalk - Plots 011, 012, 022, 023, 024, 031, 052, 053, 061, 062, 063, 064, 082, 083, 084, 101, 103 6 tha
+09-Oct-13 a Ploughed
+10-Oct-13 a Cultipressed 
 18-Oct-13 s Drilled All Plots - var. Xi19 400 seeds/m”
 27-Nov-13 p Applied Major Slug Pellets 4 kg/ha
 27-Nov-13 p Sprayed Hallmark 50 mi‘ha
@@ -3597,58 +2857,19 @@ Date Application Rate Units
 16-May-14 p Sprayed Simba 30 g/ha
 16-May-14 p Sprayed Vortex 15 ha
 06-Jun-14 p Sprayed Cello 550 mlha
-25-Jun-14 a Rotavated Fallow Areas (discard surrounds) - -
-31-Jul-14 a Cut Paths - in and around experiment - -
+25-Jun-14 a Rotavated Fallow Areas (discard surrounds) 
+31-Jul-14 a Cut Paths - in and around experiment 
 19-Aug-14 a Claas Harvested OE’s . z
-21-Aug-14 a Sampo - Harvested All Plots - -
-24-Aug-14 a Sampled, Baled and Weighed Straw - all plots - -
-04-Sep-14 a Claas Combine - Harvesting Leftover Wheat from Trial - -
-Note: Samples of grain and straw were taken for chemical analysis. The yield strips on
-plots 031, 034, 071, 074, 091 & 094 were made smaller this year to avoid areas where
-the crop had already been sampled by S. McGrath et al.
-P TEST
-Grain tonnes/hectare
-#**4+ Tables of means ****+
-P_RES 0 P1 P2 P3 Mean
-OLD_RES
-0 3.63 7.34 7.91 8.06 6.74
-D 6.36 8.43 8.80 8.80 8.10
-N 2.79 8.33 8.32 8.65 7.02
-P 6.89 8.68 8.83 9.01 8.35
-NPKNAMG 5.45 8.41 8.71 9.73 8.07
-Mean 5.02 8.24 8.51 8.85 7.66
-Grain mean DM% 86.0
-Straw tonnes/hectare
-##44s Tables Of means ***4*
-P_RES o Pl P2 P3 Mean
-OLD_RES
-0 2.24 4.55 4.98 4.98 4.19
-D 3.28 4.90 5.33 5.56 4.77
-N 1.76 4.81 5.13 5.22 4.23
-P 3.56 4.88 5.07 5.62 4.78
-NPKNAMG 3.34 5.08 5.17 6.02 4.90
-Mean 2.83 4.85 5.14 5.48 4.57
-Straw mean DM% 91.0
-Plot area harvested 0.00538, 0.00252.
-27
+21-Aug-14 a Sampo - Harvested All Plots 
+24-Aug-14 a Sampled, Baled and Weighed Straw - all plots 
+04-Sep-14 a Claas Combine - Harvesting Leftover Wheat from Trial 
 ]]></rawcontent>
 </report>
 <report>
 <year>2015</year>
 <rawcontent>
-<![CDATA[o None
-K1 75 kg K:0 (62.2 kg K)
-K2 150 kg KO (124.5 kg K)
-
-Whole plots
-
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes first)
-and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-
-Experimental diary
-Date Application Rate Units
+<![CDATA[
+all plots
 02/10/2014 f Applied TSP 75 kg/ha
 02/10/2014 f Applied MOP onto plots 103 83 63 43 + 23 125 kg/ha
 02/10/2014 f Applied MOP onto plots 104-24, 91-11, 92:12, 93-13, 94-14. 250 kg'ha
@@ -3677,32 +2898,13 @@ Date Application Rate Units
 13/09/2015 a Harvested All Plots for Grain Yield . i.
 13/09/2015 a Sampled Baled and Weighed .
 17/09/2015 a removed round bales from field -
-
-Note: Samples of grain and straw were taken for chemical analysis. The yield strips on plots 031, 034,
-
-071, 074, 091 & 094 were made smaller this year to avoid areas where the crop had already been
-
-sampled by S. McGrath et al.
-
-25
 ]]></rawcontent>
 </report>
 <report>
 <year>2016</year>
 <rawcontent>
-<![CDATA[0 None
-K1 75 kg K20 (62.2 kg K)
-K2 150 kg K20 (124.5 kg K)
-
-Whole plots
-
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in
-
-March, 200 kg N as ammonium nitrate at GS31/mid-April (whichever comes first)
-and 50 kg N as ammonium nitrate at GS37 (not later than mid-May)
-
-Experimental diary
-Date Application Rate Units
+<![CDATA[
+all plots
 25/08/2015 p Sprayed Firebrand 1 Itha
 25/08/2015 p Sprayed Samurai 4 Itha
 01/10/2015 f Applied MOP - Plots 103, 83, 63, 43 + 23 125 kg/ha
@@ -3712,7 +2914,7 @@ Date Application Rate Units
 09/10/2015 a Topped all field and exp - Batwing -
 15/10/2015 a Power harrowed - Seed bed preparation -
 15/10/2015 s Drilled Crusoe trt Redigo 350 seed/m?
-18/10/2015 a Ring Rolled all new drilling - -
+18/10/2015 a Ring Rolled all new drilling 
 19/10/2015 p Sprayed WW - Liberater 0.6 Ivha
 19/10/2015 p Sprayed WW - Stomp Aqua 1.75 fIvha
 12/11/2015 p Sprayed Hallmark 40 ml/ha
@@ -3732,82 +2934,32 @@ Date Application Rate Units
 24/05/2016 p Sprayed VortexCorbel 250 ml/ha
 09/07/2016 p Sprayed Cello 550 ml/ha
 09/07/2016 p Sprayed Hallmark 50 mlha
-22/08/2016 a Cut Paths using Iseki and Mower - -
-23/08/2016 a Mopped Up remaining crop - -
-25/08/2016 a Harvested All Plots = =
-26/08/2016 a Combined all crop using Tucano - -
+22/08/2016 a Cut Paths using Iseki and Mower 
+23/08/2016 a Mopped Up remaining crop 
+25/08/2016 a Harvested All Plots
+26/08/2016 a Combined all crop using Tucano 
 25/08/2015 p Sprayed Firebrand 1 Itha
-Note: Samples of grain and straw were taken for chemical analysis. The yield strips on plots 031-034,
-071- 074, 091- 094 (12 plots in total) were made smaller this year to avoid areas where the crop had
-already been sampled by S. McGrath et al.
-16/R/EX/4
-P TEST
-Grain tonnes/hectare
-*kk*% Tables of means *#**x#%#*
-P_RES 0 P1 P2 P3 Mean
-OLD_RES
-0 2.48 7.72 8.51 9.12 6.96
-D 5.66 10.35 10.85 11.49 9.59
-N 2.33 8.07 9.90 9.59 7.47
-P 4.23 9.89 10.93 11.27 9.08
-NPKNAMG 3.96 7.98 11.11 11.83 8.72
-Mean 3.73 8.80 10.26 10.66 8.36
-Grain mean DM% 85.2
-Straw tonnes/hectare
-*kk**x Tables of means ***x*#*
-P_RES 0 P1 P2 P3 Mean
-OLD_RES
-0 2.49 6.84 7.76 7.49 6.14
-D 5.33 9.5 9.49 8.94 8.32
-N 1.90 7.56 8.45 7.68 6.40
-P 3.59 7.56 8.47 8.05 6.92
-NPKNAMG 3.92 7.22 9.13 8.80 7.21
-Mean 3.45 7.74 8.66 8.19 7.01
-Straw mean DM% 92.1
-Plot area harvested 0.00538, 0.00252.
-K TEST
-Grain tonnes/hectare
-**%x** Tables of means **x*%
-26
 ]]></rawcontent>
 </report>
 <report>
 <year>2017</year>
 <rawcontent>
-<![CDATA[Results of the Classical and other Long-term Experiments 2017
-2. K Potassium applied annually from 2007 as muriate of potash
-0 None (2 sub-plots within each treatment strip)
-K1 75 kg K20 (62.2 kg K)
-K2 150 kg K20 (124.5 kg K)
-Whole plots
-Nitrogen: 50 kg N as ammonium sulphate (to supply sufficient S) during first two weeks in March,
-200 kg N as ammonium nitrate at GS31/mid-April (whichever comes first) and 50 kg N as ammonium
-nitrate at GS37 (not later than mid-May).
-Experimental Diary
-Date Application Rate Units
-26/09/2016 a Topped all stubble - -
-26/09/2016 f Applied TSP to plots 101-104, 081-084, 75 kg/ha
-061-064, 041-044, 021-024, 091-092, 071-
-072, 051-052, 031-032 and 011-012
-26/09/2016 f Applied MOP to plots 103, 083, 063,043, 125 kg/ha
-023
-26/09/2016 f Applied MOP onto plots 104-094, 084- 250 kg/ha
-074, 064-054, 044-034 and 024-014
+<![CDATA[
+all plots
+26/09/2016 a Topped all stubble 
+26/09/2016 f Applied TSP to plots 101-104, 081-084, 061-064, 041-044, 021-024, 091-092, 071-072, 051-052, 031-032 and 011-012 75 kg/ha
+26/09/2016 f Applied MOP to plots 103, 083, 063,043,023 125 kg/ha
+26/09/2016 f Applied MOP onto plots 104-094, 084-074, 064-054, 044-034 and 024-014 250 kg/ha
 28/09/2016 a  Ploughed - thrown North -
-06/10/2016 a  Cultipressed - all ground and immediate - -
-surrounds
+06/10/2016 a  Cultipressed - all ground and immediate surrounds
 10/10/2016 a Ring Rolled All New Drilling -
-10/10/2016 s Drilled Crusoe Treated w/Redigo Pro + 350 seeds/m?
-Deter
+10/10/2016 s Drilled Crusoe Treated w/Redigo Pro + Deter 350 seeds/m?
 10/10/2016 a  Cultipressed - all sites and surrounds -
 15/10/2016 p Sprayed Liberator 600 ml/ha
 15/10/2016 p Sprayed Defy 3 It/ha
 15/10/2016 p Sprayed Deploy 400 ml/ha
 02/12/2016 p Sprayed Hallmark 50 mil/ha
-14/03/2017 f Applied Sulphate of Ammonia (21%N 238 kg/ha
-60%S03) to all plots
-21
-Results of the Classical and other Long-term Experiments 2017
+14/03/2017 f Applied Sulphate of Ammonia (21%N 60%S03) to all plots 238 kg/ha
 21/03/2017 f Applied Kieserite 80 kg/ha
 04/04/2017 f Applied Nitram 580 kg/ha
 05/04/2017 p Sprayed Artemis 1 It/ha
@@ -3820,26 +2972,11 @@ Results of the Classical and other Long-term Experiments 2017
 08/06/2017 a Cut Paths -
 19/06/2017 p Sprayed Fezan (Tebuconazole) 750 ml/ha
 26/06/2017 a cutall paths -
-27/07/2017 a cutall paths - -
+27/07/2017 a cutall paths 
 01/09/2017 a Harvested All Plots -
-02/09/2017 a Completed Straw Samples and Weights - -
-06/09/2017 a harvested leftover wheat of harvested -
-trials and surrounds
-07/09/2017 a  Baled all remaining commercial swath -
-Yields
-P TEST
-Grain Yield, tonnes/hectare
-Tables of means
-P_RES 0 (P1) (P2) (P3) Mean
-OLD_RES
-0 1.87 4.18 5.69 6.14 4.47
-D 3.49 6.23 7.49 7.68 6.22
-N 1.76 5.19 6.56 7.74 5.31
-P 2.44 5.66 7.28 7.31 5.67
-NPKNAMG 3.22 5.86 6.47 7.12 5.67
-Mean 2.56 5.43 6.70 7.20 5.47
-Grain mean DM% 86.4
-22
+02/09/2017 a Completed Straw Samples and Weights 
+06/09/2017 a harvested leftover wheat of harvested trials and surrounds
+07/09/2017 a  Baled all remaining commercial swath
 ]]></rawcontent>
 </report>
 </reports>
