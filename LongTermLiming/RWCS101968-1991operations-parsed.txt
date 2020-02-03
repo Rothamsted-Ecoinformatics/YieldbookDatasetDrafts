@@ -1,382 +1,382 @@
-RW/CS/10|1968|sawyers i|25-Sept-1967||diary record|ploughed
-RW/CS/10|1968|sawyers i|28-Mar-1968||diary record|'Nitro-chalk' applied, 1.5 cwt N as 'Nitro-chalk' broadcast before planting
-RW/CS/10|1968|sawyers i|4-Apr-1968||diary record|P and K applied plots rotary cultivated potatoes machine planted
-RW/CS/10|1968|sawyers i|3-May-1968||diary record|weedkiller applied
-RW/CS/10|1968|sawyers i|4-July-1968||diary record|Fungicide applied
-RW/CS/10|1968|sawyers i|19-July-1968||diary record|Fungicide applied
-RW/CS/10|1968|sawyers i|5-Aug-1968||diary record|Fungicide applied
-RW/CS/10|1968|sawyers i|19-July-1968||diary record|insecticide applied
-RW/CS/10|1968|sawyers i|30-Aug-1968||diary record|sprayed with undiluted BOV at 15 gals
-RW/CS/10|1968|sawyers i|3-Oct-1968||diary record|lifted
-RW/CS/10|1968|sawyers i|||variety|Majestic
-RW/CS/10|1968|stackyard series c|15-Nov-1967||diary record|ploughed
-RW/CS/10|1968|stackyard series c|26-Mar-1968||diary record|'Nitro-chalk' applied, 2.0 cwt N as 'Nitro-chalk' broadcast before planting
-RW/CS/10|1968|stackyard series c|28-Mar-1968||diary record|P and K applied plots rotary cultivated
-RW/CS/10|1968|stackyard series c|29-Mar-1968||diary record|potatoes machine planted
-RW/CS/10|1968|stackyard series c|3-May-1968||diary record|weedkiller applied
-RW/CS/10|1968|stackyard series c|13-June-1968||diary record|rotary ridged
-RW/CS/10|1968|stackyard series c|12-July-1968||diary record|Fungicide applied
-RW/CS/10|1968|stackyard series c|18-July-1968||diary record|Fungicide applied
-RW/CS/10|1968|stackyard series c|30-July-1968||diary record|Fungicide applied
-RW/CS/10|1968|stackyard series c|12-July-1968||diary record|insecticide applied
-RW/CS/10|1968|stackyard series c|4-Sept-1968||diary record|sprayed with undiluted BOV at 15 gals
-RW/CS/10|1968|stackyard series c|2-Oct-1968||diary record|lifted
-RW/CS/10|1968|stackyard series c|||variety|Majestic
-RW/CS/10|1969|sawyers i|31-Jan-1969||diary record|ploughed
-RW/CS/10|1969|sawyers i|16-Apr-1969|26-Apr-1969|diary record|rotary cultivated
-RW/CS/10|1969|sawyers i|23-May-1969||diary record|rotary cultivated
-RW/CS/10|1969|sawyers i|3-July-1969||diary record|rotary cultivated
-RW/CS/10|1969|sawyers i|5-Aug-1969||diary record|subsoiled 28 inches apart 20 inches deep
-RW/CS/10|1969|sawyers i|8-Aug-1969||diary record|deep-tine cultivated
-RW/CS/10|1969|sawyers i|||variety|fallow
-RW/CS/10|1969|stackyard series c|18-Oct-1968||diary record|Deep-tine cultivated
-RW/CS/10|1969|stackyard series c|7-Feb-1969||diary record|ploughed
-RW/CS/10|1969|stackyard series c|8-Mar-1969||diary record|ploughed
-RW/CS/10|1969|stackyard series c|17-Apr-1969||diary record|rotary cultivated
-RW/CS/10|1969|stackyard series c|1-May-1969||diary record|rotary cultivated
-RW/CS/10|1969|stackyard series c|22-May-1969||diary record|rotary cultivated
-RW/CS/10|1969|stackyard series c|17-June-1969||diary record|rotary cultivated
-RW/CS/10|1969|stackyard series c|28-June-1969||diary record|Deep-tine cultivated
-RW/CS/10|1969|stackyard series c|1-July-||diary record|subsoiled 56 inches apart 20 - 22 inches deep
-RW/CS/10|1969|stackyard series c|||variety|fallow
-RW/CS/10|1970|sawyers i|30-Dec-1969||diary record|ploughed
-RW/CS/10|1970|sawyers i|26-Mar-1970||diary record|P and K applied
-RW/CS/10|1970|sawyers i|28-Mar-1970||diary record|seed combine drilled at 140 lb, 0.75 cwt N as 'Nitro-chalk' combine drilled.
-RW/CS/10|1970|sawyers i|18-May-1970||diary record|weedkiller applied
-RW/CS/10|1970|sawyers i|15-Aug-1970||diary record|combine harvested
-RW/CS/10|1970|sawyers i|||variety|Julia
-RW/CS/10|1970|stackyard series c|30-Oct-1969|8-Nov-1969|diary record|ploughed
-RW/CS/10|1970|stackyard series c|25-Mar-1970||diary record|N applied, 1.0 cwt N as 'Nitro-chalk' broadcast before planting.
-RW/CS/10|1970|stackyard series c|26-Mar-1970||diary record|seed drilled at 135 lb.
-RW/CS/10|1970|stackyard series c|26-Mar-1970||diary record|P and K applied
-RW/CS/10|1970|stackyard series c|18-May-1970||diary record|weedkiller applied
-RW/CS/10|1970|stackyard series c|12-Aug-1970||diary record|combine harvested
-RW/CS/10|1970|stackyard series c|||variety|Julia
-RW/CS/10|1971|sawyers i|22-Sept-1970||diary record|Paraquat applied
-RW/CS/10|1971|sawyers i|28-Oct-1970||diary record|Ploughed
-RW/CS/10|1971|sawyers i|3-Mar-1971||diary record|P and K applied
-RW/CS/10|1971|sawyers i|10-Mar-1971||diary record|Seed combine drilled at 157 kg, 94 kg N as 'Nitro-chalk' combine drilled
-RW/CS/10|1971|sawyers i|4-May-1971||diary record|'Oxytril P' applied
-RW/CS/10|1971|sawyers i|16-Aug-1971||diary record|Combine harvested
-RW/CS/10|1971|sawyers i|||variety|Julia
-RW/CS/10|1971|stackyard c|16-Sept-1970||diary record|paraquat applied
-RW/CS/10|1971|stackyard c|28-Oct-1970||diary record|ploughed
-RW/CS/10|1971|stackyard c|4-Mar-1971||diary record|N, P and K applied, 126 kg N as 'Nitro-chalk' broadcast before planting.
-RW/CS/10|1971|stackyard c|17-Mar-1971||diary record|seed drilled at 157 kg
-RW/CS/10|1971|stackyard c|17-May-1971||diary record|weedkiller applied
-RW/CS/10|1971|stackyard c|17-Aug-1971||diary record|combine hervested
-RW/CS/10|1971|stackyard c|||variety|Julia
-RW/CS/10|1972|sawyers i|9-Sept-1971||diary record|Paraquat applied
-RW/CS/10|1972|sawyers i|11-Nov-1971||diary record|Ploughed
-RW/CS/10|1972|sawyers i|20-Mar-1972||diary record|P and K applied
-RW/CS/10|1972|sawyers i|20-Mar-1972||diary record|seed combine drilled, 90 kg N as 'Nitro-chalk' combine drilled
-RW/CS/10|1972|sawyers i|17-May-1972||diary record|'Tetroxone' applied
-RW/CS/10|1972|sawyers i|3-July-1972||diary record|CAO plots cut and carted because the crop had failed and plots were very weedy
-RW/CS/10|1972|sawyers i|3-July-1972||diary record|CAO plots rotary cultivated
-RW/CS/10|1972|sawyers i|11-July-1972||diary record|CAO plots rotary cultivated
-RW/CS/10|1972|sawyers i|24-Aug-1972||diary record|Combine harvested
-RW/CS/10|1972|stackyard c|9-Sept-1971||diary record|paraquat applied
-RW/CS/10|1972|stackyard c|27-Oct-1971||diary record|ploughed
-RW/CS/10|1972|stackyard c|14-Mar-1972||diary record|N, P and K applied, 130 kg N as 'Nitro-chalk' broadcast before sowing.
-RW/CS/10|1972|stackyard c|15-Mar-1972||diary record|seed drilled
-RW/CS/10|1972|stackyard c|3-July-1972||diary record|CAO plots cut and carted because the crop had failed and plots were very weedy
-RW/CS/10|1972|stackyard c|4-July-1972||diary record|CAO plots rotary cultivated
-RW/CS/10|1972|stackyard c|18-July-1972||diary record|CAO plots rotary cultivated
-RW/CS/10|1972|stackyard c|31-July-1972||diary record|CAO plots rotary cultivated
-RW/CS/10|1972|stackyard c|15-Aug-1972||diary record|combine harvested
-RW/CS/10|1973|sawyers i|29-Nov-1972||diary record|ploughed
-RW/CS/10|1973|sawyers i|26-Feb-1973||diary record|P and K applied
-RW/CS/10|1973|sawyers i|12-Mar-1973||diary record|power harrowed, seed sown, 90 kg N as 'Nitro-chalk' combine drilled
-RW/CS/10|1973|sawyers i|15-May-1973||diary record|weedkiller applied
-RW/CS/10|1973|sawyers i|2-July-1973||diary record|plots without lime rotary cultivated
-RW/CS/10|1973|sawyers i|13-Aug-1973||diary record|combine harvested
-RW/CS/10|1973|stackyard c|28-Sept-1972||diary record|Deep-tine cultivated
-RW/CS/10|1973|stackyard c|27-Dec-1972||diary record|ploughed
-RW/CS/10|1973|stackyard c|28-Feb-1973||diary record|P and K applied
-RW/CS/10|1973|stackyard c|8-Mar-1973||diary record|N applied, 130 kg N as 'Nitro-chalk' broadcast before sowing.
-RW/CS/10|1973|stackyard c|12-Mar-1973||diary record|seed sown
-RW/CS/10|1973|stackyard c|11-May-1973||diary record|weedkiller applied
-RW/CS/10|1973|stackyard c|2-July-1973||diary record|certain plots without lime rotary cultivated
-RW/CS/10|1973|stackyard c|13-Aug-1973||diary record|combine harvested
-RW/CS/10|1974|sawyers i|19-Nov-1973||diary record|ploughed
-RW/CS/10|1974|sawyers i|23-Apr-1974||diary record|Basal N applied, 190 kg has 'Nitro-chalk'.
-RW/CS/10|1974|sawyers i|24-Apr-1974||diary record|treatment P, K and Mg applied, spiked rotary cultivated, potatoes planted
-RW/CS/10|1974|sawyers i|17-May-1974||diary record|weedkiller applied
-RW/CS/10|1974|sawyers i|19-June-1974||diary record|grubbed
-RW/CS/10|1974|sawyers i|21-June-1974||diary record|rotary ridged
-RW/CS/10|1974|sawyers i|11-July-1974||diary record|Fungicide with insecticide applied
-RW/CS/10|1974|sawyers i|2-Aug-1974||diary record|Fungicide applied
-RW/CS/10|1974|sawyers i|10-Sept-1974||diary record|Haulm mechanically destroyed
-RW/CS/10|1974|sawyers i|19-Sept-1974||diary record|Sprayed with undiluted BOV at 250 l
-RW/CS/10|1974|sawyers i|10-Sept-1974||diary record|lifted
-RW/CS/10|1974|stackyard c|13-Sept-1973||diary record|aminotriazole plus ammonium thiocyanate applied
-RW/CS/10|1974|stackyard c|25-Oct-1973||diary record|subsoiled tines 140 cm apart 50 cm deep
-RW/CS/10|1974|stackyard c|13-Nov-1973||diary record|ploughed
-RW/CS/10|1974|stackyard c|4-Apr-1974||diary record|spring-tine cultivated
-RW/CS/10|1974|stackyard c|16-Apr-1974||diary record|Basal N treatment 250 kg N as 'Nitro-chalk, P, K and Mg applied
-RW/CS/10|1974|stackyard c|17-Apr-1974||diary record|rotary cultivated potatoes planted
-RW/CS/10|1974|stackyard c|15-May-1974||diary record|weedkiller applied
-RW/CS/10|1974|stackyard c|12-June-1974||diary record|rotary ridged
-RW/CS/10|1974|stackyard c|19-July-1974||diary record|Fungicide with insecticide applied
-RW/CS/10|1974|stackyard c|7-Aug-1974||diary record|Fungicide applied
-RW/CS/10|1974|stackyard c|12-Sept-1974||diary record|Haulm mechanically destroyed
-RW/CS/10|1974|stackyard c|30-Sept-1974||diary record|sprayed with undiluted BOV at 170
-RW/CS/10|1974|stackyard c|30-Sept-1974||diary record|lifted
-RW/CS/10|1975|sawyers i|7-Feb-1975||diary record|Chisel ploughed
-RW/CS/10|1975|sawyers i|11-Mar-1975||diary record|treatment P and K applied
-RW/CS/10|1975|sawyers i|25-Mar-1975||diary record|rotary cultivated, seed sown, N applied, 80 kg N as 'Nitro-chalk' combine drilled
-RW/CS/10|1975|sawyers i|19-May-1975||diary record|weedkiller applied
-RW/CS/10|1975|sawyers i|18-Aug-1975||diary record|combine harvested
-RW/CS/10|1975|stackyard c|11-Dec-1974||diary record|ploughed
-RW/CS/10|1975|stackyard c|17-Mar-1975||diary record|treatment P and K applied
-RW/CS/10|1975|stackyard c|20-Mar-1975||diary record|spring-tine cultivated, seed sown, N applied, 80 kg N as 'Nitro-chalk' combine drilled
-RW/CS/10|1975|stackyard c|22-May-1975||diary record|weedkiller applied
-RW/CS/10|1975|stackyard c|18-Aug-1975||diary record|combine harvested
-RW/CS/10|1976|sawyers i|7-Oct-1975||diary record|weedkiller applied
-RW/CS/10|1976|sawyers i|20-Oct-1975||diary record|ploughed
-RW/CS/10|1976|sawyers i|11-Mar-1976||diary record|spring-tine cultivated
-RW/CS/10|1976|sawyers i|24-Mar-1976||diary record|treatment P, K and Mg and Basal N applied at 170 kg N.
-RW/CS/10|1976|sawyers i|26-Mar-1976||diary record|spring-tine cultivated, seed sown
-RW/CS/10|1976|sawyers i|14-July-1976||diary record|harvested green
-RW/CS/10|1976|stackyard c|2-Sept-1975||diary record|Heavy spring-tine cultivated, rotary cultivated
-RW/CS/10|1976|stackyard c|21-Oct-1975||diary record|ploughed
-RW/CS/10|1976|stackyard c|9-Mar-1976||diary record|spring-tine cultivated
-RW/CS/10|1976|stackyard c|26-Mar-1976||diary record|treatment P, K and Mg applied
-RW/CS/10|1976|stackyard c|29-Mar-1976||diary record|Basal N applied at 170 kg N
-RW/CS/10|1976|stackyard c|30-Mar-1976||diary record|spring-tine cultivated with crumbler
-RW/CS/10|1976|stackyard c|31-Mar-1976||diary record|rolled, seed sown
-RW/CS/10|1976|stackyard c|7-July-1976||diary record|Harvested green
-RW/CS/10|1977|sawyers i|31-Aug-1976||diary record|Deep-tine cultivated twice
-RW/CS/10|1977|sawyers i|11-Dec-1976||diary record|ploughed
-RW/CS/10|1977|sawyers i|29-Mar-1977||diary record|treatment P and K applied
-RW/CS/10|1977|sawyers i|30-Mar-1977||diary record|treatment Mg applied
-RW/CS/10|1977|sawyers i|4-Apr-1977||diary record|power harrowed, seed sown, N at 80 kg, combine drilled
-RW/CS/10|1977|sawyers i|30-May-1977||diary record|weedkiller applied
-RW/CS/10|1977|sawyers i|5-Sept-1977||diary record|combine harvested
-RW/CS/10|1977|stackyard c|16-Aug-1976||diary record|power harrowed
-RW/CS/10|1977|stackyard c|23-Nov-1976||diary record|ploughed
-RW/CS/10|1977|stackyard c|9-Mar-1977||diary record|spring-tine cultivated with crumbler attached
-RW/CS/10|1977|stackyard c|18-Mar-1977||diary record|treatment P, K and Mg applied
-RW/CS/10|1977|stackyard c|31-Mar-1977||diary record|spring-tine cultivated with crumbler attached, seed sown, N at 95 kg, combine drilled
-RW/CS/10|1977|stackyard c|30-May-1977||diary record|weedkiller applied
-RW/CS/10|1977|stackyard c|3-Sept-1977||diary record|combine harvested
-RW/CS/10|1978|sawyers i|29-Nov-1977||diary record|ploughed
-RW/CS/10|1978|sawyers i|7-Apr-1978||diary record|spring-tine cultivated
-RW/CS/10|1978|sawyers i|19-Apr-1978||diary record|treatment P, K and Mg applied, power harrowed, seed sown, N at 80 kg, combine drilled.
-RW/CS/10|1978|sawyers i|8-June-1978||diary record|weedkiller applied
-RW/CS/10|1978|sawyers i|8-Sept-1978||diary record|combine harvested
-RW/CS/10|1978|stackyard c|23-Sept-1977||diary record|paraquat applied
-RW/CS/10|1978|stackyard c|30-Sept-1977||diary record|ploughed
-RW/CS/10|1978|stackyard c|9-Mar-1978||diary record|spring-tine cultivated
-RW/CS/10|1978|stackyard c|13-Mar-1978||diary record|P, K and Mg applied, spring-tine cultivated with crumbler attached, N at 130 kg, combine drilled.
-RW/CS/10|1978|stackyard c|15-Mar-1978||diary record|seed sown
-RW/CS/10|1978|stackyard c|3-Apr-1978||diary record|spring-tine cultivated with crumbler attached seed resown because of bird damage
-RW/CS/10|1978|stackyard c|15-May-1978||diary record|weedkiller and Fungicide applied
-RW/CS/10|1978|stackyard c|23-Aug-1978||diary record|combine harvested
-RW/CS/10|1979|sawyers i|24-Oct-1978||diary record|weedkiller applied
-RW/CS/10|1979|sawyers i|29-Nov-1978||diary record|test Chalk applied
-RW/CS/10|1979|sawyers i|21-Dec-1978||diary record|ploughed
-RW/CS/10|1979|sawyers i|12-June-1979||diary record|rotary cultivated
-RW/CS/10|1979|sawyers i|3-July-1979||diary record|deep-tine cultivated
-RW/CS/10|1979|stackyard c|14-Sept-1978||diary record|weedkiller applied
-RW/CS/10|1979|stackyard c|21-Nov-1978||diary record|test Chalk applied
-RW/CS/10|1979|stackyard c|22-Nov-1978||diary record|ploughed
-RW/CS/10|1979|stackyard c|17-Apr-1979||diary record|spring-tine cultivated with crumbler attached
-RW/CS/10|1979|stackyard c|6-June-1979||diary record|rotary cultivated
-RW/CS/10|1979|stackyard c|4-July-1979||diary record|rotary cultivated twice
-RW/CS/10|1979|stackyard c|16-Aug-1979||diary record|rotary cultivated twice
-RW/CS/10|1979|stackyard c|21-Aug-1979||diary record|Deep-tine cultivated
-RW/CS/10|1979|stackyard c|11-Sept-1979||diary record|Heavy spring-tine cultivated
-RW/CS/10|1980|sawyers i|4-Dec-1979||diary record|Ploughed
-RW/CS/10|1980|sawyers i|21-Apr-1980||diary record|Heavy spring-tine cultivated
-RW/CS/10|1980|sawyers i|22-May-1980||diary record|Spring-tine cultivated
-RW/CS/10|1980|sawyers i|19-June-1980||diary record|Rotary cultivated
-RW/CS/10|1980|sawyers i|4-Aug-1980||diary record|Rotary harrowed
-RW/CS/10|1980|stackyard c|3-Mar-1980||diary record|Heavy spring-tine cultivated
-RW/CS/10|1980|stackyard c|7-Aug-1980||diary record|Heavy spring-tine cultivated
-RW/CS/10|1980|stackyard c|29-Nov-1979||diary record|ploughed
-RW/CS/10|1980|stackyard c|29-July-1980||diary record|rotary cultivated
-RW/CS/10|1981|sawyers i|1-Dec-1980||diary record|Basal K and Mg applied, K at 120 kg as muriate of potash, Mg at 100 kg as kieserite.
-RW/CS/10|1981|sawyers i|8-Dec-1980||diary record|P treatment applied, ploughed
-RW/CS/10|1981|sawyers i|13-Apr-1981||diary record|rotary harrowed, seed sown, N at 80 kg as 'Nitro-chalk' combine drilled
-RW/CS/10|1981|sawyers i|1-June-1981||diary record|weedkiller applied
-RW/CS/10|1981|sawyers i|10-Sept-1981||diary record|combine harvested
-RW/CS/10|1981|stackyard c|13-Nov-1980||diary record|ploughed
-RW/CS/10|1981|stackyard c|12-Dec-1980||diary record|ploughed
-RW/CS/10|1981|stackyard c|8-Dec-1980||diary record|Basal K and Mg applied, K at 120 kg as muriate of potash, Mg at 100 kg as kieserite.
-RW/CS/10|1981|stackyard c|6-Apr-1981||diary record|N applied at 80 kg as 'Nitro-chalk', heavy spring-tine cultivated
-RW/CS/10|1981|stackyard c|8-Apr-1981||diary record|spring-tine cultivated with crumbler attached
-RW/CS/10|1981|stackyard c|9-Apr-1981||diary record|rotary cultivated, seed sown
-RW/CS/10|1981|stackyard c|1-June-1981||diary record|weedkiller and Fungicide applied
-RW/CS/10|1981|stackyard c|3-Sept-1981||diary record|combine harvested
-RW/CS/10|1982|sawyers i|3-Dec-1981|7-Dec-1981|diary record|ground Chalk applied
-RW/CS/10|1982|sawyers i|3-Feb-1982||diary record|ploughed
-RW/CS/10|1982|sawyers i|5-Apr-1982||diary record|spring-tine cultivated
-RW/CS/10|1982|sawyers i|14-Apr-1982||diary record|P, K and Mg applied, K at 120 kg as muriate of potash, Mg at 40 kg as kieserite. Seed sown, N at 30 kg as 'Nitro-chalk' combine drilled.
-RW/CS/10|1982|sawyers i|26-May-1982||diary record|weedkiller applied
-RW/CS/10|1982|sawyers i|26-Aug-1982|27-Aug-1982|diary record|combine harvested
-RW/CS/10|1982|stackyard c|25-Nov-1981||diary record|ground Chalk applied
-RW/CS/10|1982|stackyard c|26-Feb-1982||diary record|ploughed
-RW/CS/10|1982|stackyard c|24-Mar-1982||diary record|P and K applied, K at 120 kg as muriate of potash.
-RW/CS/10|1982|stackyard c|25-Mar-1982||diary record|Mg at 40 kg as kieserite and N at 80 kg as Nitro-chalk applied, heavy spring-tine cultivated
-RW/CS/10|1982|stackyard c|29-Mar-1982||diary record|spring-tine cultivated with crumbler attached, seed sown
-RW/CS/10|1982|stackyard c|26-May-1982||diary record|weedkiller applied
-RW/CS/10|1982|stackyard c|20-Aug-1982||diary record|combine harvested
-RW/CS/10|1983|sawyers i|26-Nov-1982||diary record|ground Chalk treatment applied
-RW/CS/10|1983|sawyers i|1-Dec-1982||diary record|ploughed
-RW/CS/10|1983|sawyers i|11-May-1983||diary record|P treatment and N, K and Mg applied, N at 250 kg as 'Nitro-chalk', K at 210 kg as muriate of potash, Mg at 40 kg as kieserite.
-RW/CS/10|1983|sawyers i|23-May-1983||diary record|rotary harrowed, potatoes planted
-RW/CS/10|1983|sawyers i|26-May-1983||diary record|rotary ridged
-RW/CS/10|1983|sawyers i|7-June-1983||diary record|weedkiller applied
-RW/CS/10|1983|sawyers i|22-June-1983||diary record|mancozeb applied
-RW/CS/10|1983|sawyers i|25-Aug-1983||diary record|mancozeb applied
-RW/CS/10|1983|sawyers i|9-Sept-1983||diary record|mancozeb applied
-RW/CS/10|1983|sawyers i|1-July-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|sawyers i|8-July-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|sawyers i|18-July-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|sawyers i|28-July-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|sawyers i|11-Aug-1983||diary record|Fentin hydroxide applied
-RW/CS/10|1983|sawyers i|11-Oct-1983||diary record|Haulm mechanically destroyed
-RW/CS/10|1983|sawyers i|19-Oct-1983||diary record|Haulm desiccant applied
-RW/CS/10|1983|sawyers i|28-Oct-1983||diary record|lifted
-RW/CS/10|1983|stackyard c|12-Sept-1982||diary record|glyphosate applied
-RW/CS/10|1983|stackyard c|8-Oct-1982||diary record|ploughed
-RW/CS/10|1983|stackyard c|4-Nov-1982||diary record|ground Chalk treatment applied
-RW/CS/10|1983|stackyard c|23-Dec-1982||diary record|ploughed
-RW/CS/10|1983|stackyard c|21-Mar-1983||diary record|Heavy spring-tine cultivated
-RW/CS/10|1983|stackyard c|22-Mar-1983||diary record|P treatment and N, K and Mg applied, N at 260 kg as 'Nitro-chalk', K at 210 kg as muriate of potash, Mg at 40 kg as keserite.
-RW/CS/10|1983|stackyard c|28-Mar-1983||diary record|Heavy spring-tine cultivated
-RW/CS/10|1983|stackyard c|11-May-1983||diary record|Heavy spring-tine cultivated
-RW/CS/10|1983|stackyard c|11-May-1983||diary record|rotary cultivated, potatoes planted
-RW/CS/10|1983|stackyard c|7-June-1983||diary record|rotary ridged, weedkiller applied
-RW/CS/10|1983|stackyard c|22-June-1983||diary record|mancozeb applied with insecticide
-RW/CS/10|1983|stackyard c|8-July-1983||diary record|mancozeb applied with insecticide
-RW/CS/10|1983|stackyard c|18-July-1983||diary record|mancozeb applied with insecticide
-RW/CS/10|1983|stackyard c|1-July-1983||diary record|mancozeb applied
-RW/CS/10|1983|stackyard c|29-July-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|stackyard c|11-Aug-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|stackyard c|26-Aug-1983||diary record|Fentin hydroxide applied with insecticide
-RW/CS/10|1983|stackyard c|9-Sept-1983||diary record|Fentin hydroxide applied
-RW/CS/10|1983|stackyard c|5-Oct-1983||diary record|Haulm mechanically destroyed
-RW/CS/10|1983|stackyard c|17-Oct-1983||diary record|Haulm desiccant applied
-RW/CS/10|1983|stackyard c|7-Nov-1983||diary record|lifted
-RW/CS/10|1984|sawyers i|11-Nov-1983||diary record|Heavy spring-tine cultivated
-RW/CS/10|1984|sawyers i|27-Apr-1984||diary record|Heavy spring-tine cultivated twice
-RW/CS/10|1984|sawyers i|9-May-1984||diary record|Heavy spring-tine cultivated twice
-RW/CS/10|1984|sawyers i|27-Apr-1984||diary record|rotary cultivated
-RW/CS/10|1984|sawyers i|15-June-1984||diary record|rotary cultivated
-RW/CS/10|1984|sawyers i|12-July-1984||diary record|rotary cultivated
-RW/CS/10|1984|sawyers i|13-July-1984||diary record|spring-tine cultivated
-RW/CS/10|1984|stackyard c|16-Jan-1984||diary record|Deep-tine cultivated
-RW/CS/10|1984|stackyard c|15-May-1984||diary record|Heavy spring-tine cultivated
-RW/CS/10|1984|stackyard c|10-July-1984||diary record|cultivated with thistle bar
-RW/CS/10|1984|stackyard c|10-Aug-1984||diary record|cultivated with thistle bar
-RW/CS/10|1984|stackyard c|25-July-1984||diary record|rotary cultivated
-RW/CS/10|1985|sawyers i|3-Jan-1985||diary record|ploughed
-RW/CS/10|1985|sawyers i|18-Mar-1985||diary record|NK applied (25:0:16) at 450 kg, spring-tine cultivated, rotary harrowed, seed sown
-RW/CS/10|1985|sawyers i|16-May-1985||diary record|weedkiller with Fungicide applied
-RW/CS/10|1985|sawyers i|23-Aug-1985||diary record|combine harvested
-RW/CS/10|1985|stackyard c|13-Mar-1985||diary record|ploughed
-RW/CS/10|1985|stackyard c|18-Mar-1985||diary record|spring-tine cultivated, NK applied (25:0:16) at 490 kg, harrowed, seed sown
-RW/CS/10|1985|stackyard c|16-May-1985||diary record|weedkiller applied
-RW/CS/10|1985|stackyard c|28-Aug-1985||diary record|combine harvested
-RW/CS/10|1986|sawyers i|23-Sept-1985||diary record|weedkiller applied
-RW/CS/10|1986|sawyers i|8-Oct-1985||diary record|ploughed
-RW/CS/10|1986|sawyers i|23-Oct-1985||diary record|rolled, disced, rotary harrowed, seed sown
-RW/CS/10|1986|sawyers i|30-Apr-1986||diary record|N applied, N at 170 kg as nitram.
-RW/CS/10|1986|sawyers i|10-Sept-1986||diary record|combine harvested
-RW/CS/10|1986|stackyard c|9-Oct-1985||diary record|ploughed
-RW/CS/10|1986|stackyard c|22-Oct-1985||diary record|rolled, power harrowed, seed sown
-RW/CS/10|1986|stackyard c|30-Apr-1986||diary record|N applied, N at 190 kg as nitram.
-RW/CS/10|1986|stackyard c|19-May-1986||diary record|weedkiller applied
-RW/CS/10|1986|stackyard c|7-Sept-1986||diary record|combine harvested
-RW/CS/10|1987|sawyers i|13-Nov-1986||diary record|Chalk treatment applied
-RW/CS/10|1987|sawyers i|14-Nov-1986||diary record|ploughed
-RW/CS/10|1987|sawyers i|31-Mar-1987||diary record|spring-tine cultivated, rotary harrowed, seed sown, harrowed
-RW/CS/10|1987|sawyers i|13-Apr-1987||diary record|weedkiller applied
-RW/CS/10|1987|sawyers i|9-July-1987||diary record|Fungicide and insecticide applied
-RW/CS/10|1987|sawyers i|17-Nov-1987||diary record|combine harvested
-RW/CS/10|1987|stackyard c|16-Sept-1986||diary record|glyphosate applied
-RW/CS/10|1987|stackyard c|13-Nov-1986||diary record|Chalk treatment applied
-RW/CS/10|1987|stackyard c|28-Nov-1986||diary record|ploughed
-RW/CS/10|1987|stackyard c|6-Apr-1987||diary record|spiked harrowed with crumbler attached, seed sown
-RW/CS/10|1987|stackyard c|13-Apr-1987||diary record|Harrowed, terbutryne and terbuthylazine applied
-RW/CS/10|1987|stackyard c|8-May-1987||diary record|Deltamathrin applied
-RW/CS/10|1987|stackyard c|13-July-1987||diary record|Benomyl and pirimicarb applied
-RW/CS/10|1987|stackyard c|18-Nov-1987||diary record|combine harvested
-RW/CS/10|1988|sawyers i|14-Dec-1987||diary record|P treatment K and Mg applied, K as muriate of potash at 160 kg, Mg as Kieserite at 270 kg.
-RW/CS/10|1988|sawyers i|15-Dec-1987||diary record|ploughed
-RW/CS/10|1988|sawyers i|5-Apr-1988||diary record|Heavy spring-tine cultivated
-RW/CS/10|1988|sawyers i|7-Apr-1988||diary record|N applied as Nitram at 250 kg
-RW/CS/10|1988|sawyers i|12-Apr-1988||diary record|weedkiller applied, spring-tine cultivated twice
-RW/CS/10|1988|sawyers i|13-Apr-1988||diary record|rotary harrowed, seed sown, harrowed
-RW/CS/10|1988|sawyers i|19-Sept-1988||diary record|desiccant applied
-RW/CS/10|1988|sawyers i|24-Oct-1988||diary record|combine harvested
-RW/CS/10|1988|stackyard c|10-Feb-1988||diary record|P treatment K and Mg applied, K as muriate of potash at 160 kg, Mg as Kieserite at 100 kg.
-RW/CS/10|1988|stackyard c|23-Feb-1988||diary record|ploughed
-RW/CS/10|1988|stackyard c|5-Apr-1988||diary record|Heavy spring-tine cultivated
-RW/CS/10|1988|stackyard c|22-Apr-1988||diary record|N applied as Nitram at 250 kg, spiked harrowed with crumbler attached, trifluralin applied, spiked harrowed with crumbler attached, seed sown
-RW/CS/10|1988|stackyard c|5-May-1988||diary record|Linuron applied
-RW/CS/10|1988|stackyard c|21-Sept-1988||diary record|desiccant applied
-RW/CS/10|1988|stackyard c|1-Nov-1988||diary record|combine harvested
-RW/CS/10|1989|sawyers i|20-Dec-1988||diary record|ploughed
-RW/CS/10|1989|sawyers i|29-Mar-1989||diary record|Heavy spring-tine cultivated, rotary harrowed
-RW/CS/10|1989|sawyers i|30-Mar-1989||diary record|rotary harrowed, seed sown, harrowed, rolled
-RW/CS/10|1989|sawyers i|31-Mar-1989||diary record|weedkiller applied
-RW/CS/10|1989|sawyers i|10-May-1989||diary record|Deltamathrin applied
-RW/CS/10|1989|sawyers i|31-May-1989||diary record|Deltamathrin applied
-RW/CS/10|1989|sawyers i|14-June-1989||diary record|pirimicarb applied
-RW/CS/10|1989|sawyers i|14-July-1989||diary record|Benomyl and fenpropimorph applied
-RW/CS/10|1989|sawyers i|14-Aug-1989||diary record|combine harvested
-RW/CS/10|1989|stackyard c|14-Dec-1988||diary record|ploughed
-RW/CS/10|1989|stackyard c|28-Mar-1989||diary record|spring-tine cultivated
-RW/CS/10|1989|stackyard c|31-Mar-1989||diary record|rotary harrowed, seed sown
-RW/CS/10|1989|stackyard c|22-Apr-1989||diary record|Simazine and trietazine applied
-RW/CS/10|1989|stackyard c|22-May-1989||diary record|Deltamathrin applied
-RW/CS/10|1989|stackyard c|7-June-1989||diary record|Deltamathrin applied
-RW/CS/10|1989|stackyard c|7-June-1989||diary record|Alloxydim-sodium applied
-RW/CS/10|1989|stackyard c|22-June-1989||diary record|Pirimicarb applied
-RW/CS/10|1989|stackyard c|12-July-1989||diary record|Benomyl and fenpropimorph applied
-RW/CS/10|1989|stackyard c|22-Aug-1989||diary record|combine harvested
-RW/CS/10|1990|sawyers i|23-Aug-1989||diary record|Tine cultivated with vibrating tines 60 cm apart 45 cm deep
-RW/CS/10|1990|sawyers i|24-Nov-1989||diary record|ploughed
-RW/CS/10|1990|sawyers i|5-Mar-1990||diary record|spring-tine cultivated
-RW/CS/10|1990|sawyers i|6-Mar-1990||diary record|rotary harrowed, phorate applied, rotary harrowed, seed sown, harrowed and rolled
-RW/CS/10|1990|sawyers i|12-Mar-1990||diary record|Simazine and triatazine applied
-RW/CS/10|1990|sawyers i|2-May-1990||diary record|Deltamithrin applied
-RW/CS/10|1990|sawyers i|17-May-1990||diary record|Deltamothrin applied
-RW/CS/10|1990|sawyers i|5-June-1990||diary record|Pirimicarb applied
-RW/CS/10|1990|sawyers i|15-Aug-1990||diary record|combine harvested
-RW/CS/10|1990|stackyard c|1-Sept-1989||diary record|glyphosate applied
-RW/CS/10|1990|stackyard c|5-Jan-1990||diary record|ploughed
-RW/CS/10|1990|stackyard c|5-Mar-1990||diary record|phorate applied, power harrowed with crumbler attached, seed sown
-RW/CS/10|1990|stackyard c|13-Mar-1990||diary record|Simazine and triatazine applied
-RW/CS/10|1990|stackyard c|25-May-1990||diary record|paraquat applied
-RW/CS/10|1991|sawyers i|23-Aug-1990||diary record|N and K applied (25:0:16) at 200 kg
-RW/CS/10|1991|sawyers i|28-Aug-1991||diary record|ploughed
-RW/CS/10|1991|sawyers i|29-Aug-1991||diary record|rolled
-RW/CS/10|1991|sawyers i|30-Aug-1991||diary record|rotary harrowed
-RW/CS/10|1991|sawyers i|31-Aug-1991||diary record|rotary harrowed, seed sown, harrowed, rolled, matazachlor applied
-RW/CS/10|1991|sawyers i|21-Sept-1991||diary record|Irrigated
-RW/CS/10|1991|sawyers i|27-Sept-1991||diary record|Irrigated
-RW/CS/10|1991|sawyers i|7-Nov-1991||diary record|Deltamathrin applied
-RW/CS/10|1991|sawyers i|3-Dec-1991||diary record|Prochloraz and Mg applied, Magnesium at 0.13 kg as 'Vytel Liquid Magnesium' in 200 1
-RW/CS/10|1991|sawyers i|17-Dec-1991||diary record|Clopyralid applied
-RW/CS/10|1991|sawyers i|4-Mar-1991||diary record|N applied as Nitram at 640 kg
-RW/CS/10|1991|sawyers i|12-Apr-1991||diary record|second deltamathrin applied
-RW/CS/10|1991|sawyers i|23-Apr-1991||diary record|second prochloraz and Mn applied, Manganese at 0.093 kg as 'Vytel Liquid Manganese' in 200 1.
-RW/CS/10|1991|sawyers i|30-July-1991||diary record|desiccant with wetting agent applied
-RW/CS/10|1991|sawyers i|7-Aug-1991||diary record|combine harvested
-RW/CS/10|1991|stackyard c|15-Aug-1990||diary record|disced
-RW/CS/10|1991|stackyard c|21-Aug-1991||diary record|subsoiled with tines 15 m apart 04 m deep
-RW/CS/10|1991|stackyard c|22-Aug-1991||diary record|ploughed and rolled
-RW/CS/10|1991|stackyard c|28-Aug-1991||diary record|N and K applied, (25:0:16) at 200 kg
-RW/CS/10|1991|stackyard c|30-Aug-1991||diary record|rotary harrowed with crumbler attached, seed sown
-RW/CS/10|1991|stackyard c|1-Nov-1991||diary record|weedkiller and adjuvant applied
-RW/CS/10|1991|stackyard c|15-Nov-1991||diary record|Deltamathrin applied
-RW/CS/10|1991|stackyard c|3-Dec-1991||diary record|Mg applied, Magnesium at 0.13 kg as 'Vytel Liquid Magnesium' in 200 1
-RW/CS/10|1991|stackyard c|15-Mar-1991||diary record|N applied as Nitram at 580 kg
-RW/CS/10|1991|stackyard c|12-Apr-1991||diary record|second deltamathrin applied with Fungicide
-RW/CS/10|1991|stackyard c|9-May-1991||diary record|Mn applied, Manganese at 0.078 kg as 'Vytel Liquid Manganese' in 300 1.
-RW/CS/10|1991|stackyard c|1-Aug-1991||diary record|desiccant with wetting agent applied
-RW/CS/10|1991|stackyard c|13-Aug-1991||diary record|combine harvested
+RW/CS/10	1968	sawyers i	25-Sep-67		diary record	ploughed
+RW/CS/10	1968	sawyers i	28-Mar-68		diary record	"'Nitro-chalk' applied, 1.5 cwt N as 'Nitro-chalk' broadcast before planting"
+RW/CS/10	1968	sawyers i	04-Apr-68		diary record	P and K applied plots rotary cultivated potatoes machine planted
+RW/CS/10	1968	sawyers i	03-May-68		diary record	paraquat at 0.38 lb ion and linuron at 0.75 lb in 36 gals.
+RW/CS/10	1968	sawyers i	04-Jul-68		diary record	mancozeb at 1.2 lb in 37 gals
+RW/CS/10	1968	sawyers i	19-Jul-68		diary record	mancozeb at 1.2 lb in 37 gals
+RW/CS/10	1968	sawyers i	05-Aug-68		diary record	mancozeb at 1.2 lb in 37 gals
+RW/CS/10	1968	sawyers i	19-Jul-68		diary record	demeton-s-methyl at 3.5 oz in 37 gals
+RW/CS/10	1968	sawyers i	30-Aug-68		diary record	sprayed with undiluted BOV at 15 gals
+RW/CS/10	1968	sawyers i	03-Oct-68		diary record	lifted
+RW/CS/10	1968	sawyers i			variety	Majestic
+RW/CS/10	1968	stackyard series c	15-Nov-67		diary record	ploughed
+RW/CS/10	1968	stackyard series c	26-Mar-68		diary record	"'Nitro-chalk' applied, 2.0 cwt N as 'Nitro-chalk' broadcast before planting"
+RW/CS/10	1968	stackyard series c	28-Mar-68		diary record	P and K applied plots rotary cultivated
+RW/CS/10	1968	stackyard series c	29-Mar-68		diary record	potatoes machine planted
+RW/CS/10	1968	stackyard series c	03-May-68		diary record	paraquat at 0.38 1b ion and linuron at 0.5 1b in 50 gals.
+RW/CS/10	1968	stackyard series c	13-Jun-68		diary record	rotary ridged
+RW/CS/10	1968	stackyard series c	12-Jul-68		diary record	mancozeb at 1.2 lb in 38 gals
+RW/CS/10	1968	stackyard series c	18-Jul-68		diary record	mancozeb at 1.2 lb in 38 gals
+RW/CS/10	1968	stackyard series c	30-Jul-68		diary record	mancozeb at 1.2 lb in 38 gals
+RW/CS/10	1968	stackyard series c	12-Jul-68		diary record	demeton-s-methyl at 3.5 oz in 38 gals
+RW/CS/10	1968	stackyard series c	04-Sep-68		diary record	sprayed with undiluted BOV at 15 gals
+RW/CS/10	1968	stackyard series c	02-Oct-68		diary record	lifted
+RW/CS/10	1968	stackyard series c			variety	Majestic
+RW/CS/10	1969	sawyers i	31-Jan-69		diary record	ploughed
+RW/CS/10	1969	sawyers i	16-Apr-69	26-Apr-69	diary record	rotary cultivated
+RW/CS/10	1969	sawyers i	23-May-69		diary record	rotary cultivated
+RW/CS/10	1969	sawyers i	03-Jul-69		diary record	rotary cultivated
+RW/CS/10	1969	sawyers i	05-Aug-69		diary record	subsoiled 28 inches apart 20 inches deep
+RW/CS/10	1969	sawyers i	08-Aug-69		diary record	deep-tine cultivated
+RW/CS/10	1969	sawyers i			variety	fallow
+RW/CS/10	1969	stackyard series c	18-Oct-68		diary record	Deep-tine cultivated
+RW/CS/10	1969	stackyard series c	07-Feb-69		diary record	ploughed
+RW/CS/10	1969	stackyard series c	08-Mar-69		diary record	ploughed
+RW/CS/10	1969	stackyard series c	17-Apr-69		diary record	rotary cultivated
+RW/CS/10	1969	stackyard series c	01-May-69		diary record	rotary cultivated
+RW/CS/10	1969	stackyard series c	22-May-69		diary record	rotary cultivated
+RW/CS/10	1969	stackyard series c	17-Jun-69		diary record	rotary cultivated
+RW/CS/10	1969	stackyard series c	28-Jun-69		diary record	Deep-tine cultivated
+RW/CS/10	1969	stackyard series c	1-July-		diary record	subsoiled 56 inches apart 20 - 22 inches deep
+RW/CS/10	1969	stackyard series c			variety	fallow
+RW/CS/10	1970	sawyers i	30-Dec-69		diary record	ploughed
+RW/CS/10	1970	sawyers i	26-Mar-70		diary record	P and K applied
+RW/CS/10	1970	sawyers i	28-Mar-70		diary record	"seed combine drilled at 140 lb, 0.75 cwt N as 'Nitro-chalk' combine drilled."
+RW/CS/10	1970	sawyers i	18-May-70		diary record	"2,4-D at 0.5 lb and dichlorprop at 2 lb in 20 gals"
+RW/CS/10	1970	sawyers i	15-Aug-70		diary record	combine harvested
+RW/CS/10	1970	sawyers i			variety	Julia
+RW/CS/10	1970	stackyard series c	30-Oct-69	08-Nov-69	diary record	ploughed
+RW/CS/10	1970	stackyard series c	25-Mar-70		diary record	"N applied, 1.0 cwt N as 'Nitro-chalk' broadcast before planting."
+RW/CS/10	1970	stackyard series c	26-Mar-70		diary record	seed drilled at 135 lb.
+RW/CS/10	1970	stackyard series c	26-Mar-70		diary record	P and K applied
+RW/CS/10	1970	stackyard series c	18-May-70		diary record	ioxynil at 7.5 oz and mecoprop at 22.5 oz in 25 gals
+RW/CS/10	1970	stackyard series c	12-Aug-70		diary record	combine harvested
+RW/CS/10	1970	stackyard series c			variety	Julia
+RW/CS/10	1971	sawyers i	22-Sep-70		diary record	paraquat at 0.84 kg ion in 225 l.
+RW/CS/10	1971	sawyers i	28-Oct-70		diary record	Ploughed
+RW/CS/10	1971	sawyers i	03-Mar-71		diary record	P and K applied
+RW/CS/10	1971	sawyers i	10-Mar-71		diary record	"Seed combine drilled at 157 kg, 94 kg N as 'Nitro-chalk' combine drilled"
+RW/CS/10	1971	sawyers i	04-May-71		diary record	"ioxynil octanoate, bromoxynil octanoate and the iso-octyl ester of dichlorprop ('Oxytril P' at 1.4 l in 225 l)"
+RW/CS/10	1971	sawyers i	16-Aug-71		diary record	Combine harvested
+RW/CS/10	1971	sawyers i			variety	Julia
+RW/CS/10	1971	stackyard c	16-Sep-70		diary record	paraquat at 0.56 kg ion in 261 1 (treatment CAO PO Kl received 1.12 kg ion in 281 1)
+RW/CS/10	1971	stackyard c	28-Oct-70		diary record	ploughed
+RW/CS/10	1971	stackyard c	04-Mar-71		diary record	"N, P and K applied, 126 kg N as 'Nitro-chalk' broadcast before planting."
+RW/CS/10	1971	stackyard c	17-Mar-71		diary record	seed drilled at 157 kg
+RW/CS/10	1971	stackyard c	17-May-71		diary record	ioxynil at 0.525 kg and mecoprop at 1.58 kg in 281 l.
+RW/CS/10	1971	stackyard c	17-Aug-71		diary record	combine hervested
+RW/CS/10	1971	stackyard c			variety	Julia
+RW/CS/10	1972	sawyers i	09-Sep-71		diary record	paraquat at 0.56 kg ion in 220 l
+RW/CS/10	1972	sawyers i	11-Nov-71		diary record	Ploughed
+RW/CS/10	1972	sawyers i	20-Mar-72		diary record	P and K applied
+RW/CS/10	1972	sawyers i	20-Mar-72		diary record	"seed combine drilled, 90 kg N as 'Nitro-chalk' combine drilled"
+RW/CS/10	1972	sawyers i	17-May-72		diary record	"ioxynil, bromoxynil, 2,4-DP and MCPA ('Tetroxone' at 5.6 l in 220 l)"
+RW/CS/10	1972	sawyers i	03-Jul-72		diary record	CAO plots cut and carted because the crop had failed and plots were very weedy
+RW/CS/10	1972	sawyers i	03-Jul-72		diary record	CAO plots rotary cultivated
+RW/CS/10	1972	sawyers i	11-Jul-72		diary record	CAO plots rotary cultivated
+RW/CS/10	1972	sawyers i	24-Aug-72		diary record	Combine harvested
+RW/CS/10	1972	stackyard c	09-Sep-71		diary record	paraquat at 0.56 kg ion in 280 l
+RW/CS/10	1972	stackyard c	27-Oct-71		diary record	ploughed
+RW/CS/10	1972	stackyard c	14-Mar-72		diary record	"N, P and K applied, 130 kg N as 'Nitro-chalk' broadcast before sowing."
+RW/CS/10	1972	stackyard c	15-Mar-72		diary record	seed drilled
+RW/CS/10	1972	stackyard c	03-Jul-72		diary record	CAO plots cut and carted because the crop had failed and plots were very weedy
+RW/CS/10	1972	stackyard c	04-Jul-72		diary record	CAO plots rotary cultivated
+RW/CS/10	1972	stackyard c	18-Jul-72		diary record	CAO plots rotary cultivated
+RW/CS/10	1972	stackyard c	31-Jul-72		diary record	CAO plots rotary cultivated
+RW/CS/10	1972	stackyard c	15-Aug-72		diary record	combine harvested
+RW/CS/10	1973	sawyers i	29-Nov-72		diary record	ploughed
+RW/CS/10	1973	sawyers i	26-Feb-73		diary record	P and K applied
+RW/CS/10	1973	sawyers i	12-Mar-73		diary record	"power harrowed, seed sown, 90 kg N as 'Nitro-chalk' combine drilled"
+RW/CS/10	1973	sawyers i	15-May-73		diary record	"MCPA, mecoprop and Dicamba ('Banlene Plus' at 5.6 1 in 220 l)"
+RW/CS/10	1973	sawyers i	02-Jul-73		diary record	plots without lime rotary cultivated
+RW/CS/10	1973	sawyers i	13-Aug-73		diary record	combine harvested
+RW/CS/10	1973	stackyard c	28-Sep-72		diary record	Deep-tine cultivated
+RW/CS/10	1973	stackyard c	27-Dec-72		diary record	ploughed
+RW/CS/10	1973	stackyard c	28-Feb-73		diary record	P and K applied
+RW/CS/10	1973	stackyard c	08-Mar-73		diary record	"N applied, 130 kg N as 'Nitro-chalk' broadcast before sowing."
+RW/CS/10	1973	stackyard c	12-Mar-73		diary record	seed sown
+RW/CS/10	1973	stackyard c	11-May-73		diary record	ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 280 l
+RW/CS/10	1973	stackyard c	02-Jul-73		diary record	certain plots without lime rotary cultivated
+RW/CS/10	1973	stackyard c	13-Aug-73		diary record	combine harvested
+RW/CS/10	1974	sawyers i	19-Nov-73		diary record	ploughed
+RW/CS/10	1974	sawyers i	23-Apr-74		diary record	"Basal N applied, 190 kg has 'Nitro-chalk'."
+RW/CS/10	1974	sawyers i	24-Apr-74		diary record	"treatment P, K and Mg applied, spiked rotary cultivated, potatoes planted"
+RW/CS/10	1974	sawyers i	17-May-74		diary record	Linuron at 1.2 kg plus paraquat at 0.42 kg ion in 450 1.
+RW/CS/10	1974	sawyers i	19-Jun-74		diary record	grubbed
+RW/CS/10	1974	sawyers i	21-Jun-74		diary record	rotary ridged
+RW/CS/10	1974	sawyers i	11-Jul-74		diary record	demeton-s-methyl at 0.25 kg and mancozeb at 1.3 kg in 450 l.
+RW/CS/10	1974	sawyers i	02-Aug-74		diary record	mancozeb at 1.3 kg in 450 l
+RW/CS/10	1974	sawyers i	10-Sep-74		diary record	Haulm mechanically destroyed
+RW/CS/10	1974	sawyers i	19-Sep-74		diary record	Sprayed with undiluted BOV at 250 l
+RW/CS/10	1974	sawyers i	10-Sep-74		diary record	lifted
+RW/CS/10	1974	stackyard c	13-Sep-73		diary record	aminotriazole at 4.5 kg plus ammonium thiocyanate at 4.1 kg in 370 1
+RW/CS/10	1974	stackyard c	25-Oct-73		diary record	subsoiled tines 140 cm apart 50 cm deep
+RW/CS/10	1974	stackyard c	13-Nov-73		diary record	ploughed
+RW/CS/10	1974	stackyard c	04-Apr-74		diary record	spring-tine cultivated
+RW/CS/10	1974	stackyard c	16-Apr-74		diary record	"Basal N treatment 250 kg N as 'Nitro-chalk, P, K and Mg applied"
+RW/CS/10	1974	stackyard c	17-Apr-74		diary record	rotary cultivated potatoes planted
+RW/CS/10	1974	stackyard c	15-May-74		diary record	"Linuron at 1.2 kg plus paraquat at 0.28 kg ion in 280 1,"
+RW/CS/10	1974	stackyard c	12-Jun-74		diary record	rotary ridged
+RW/CS/10	1974	stackyard c	19-Jul-74		diary record	demeton-s-methyl at 0.25 kg and mancozeb at 1.3 kg in 450 1.
+RW/CS/10	1974	stackyard c	07-Aug-74		diary record	mancozeb at 1.3 kg in 450 1
+RW/CS/10	1974	stackyard c	12-Sep-74		diary record	Haulm mechanically destroyed
+RW/CS/10	1974	stackyard c	30-Sep-74		diary record	sprayed with undiluted BOV at 170
+RW/CS/10	1974	stackyard c	30-Sep-74		diary record	lifted
+RW/CS/10	1975	sawyers i	07-Feb-75		diary record	Chisel ploughed
+RW/CS/10	1975	sawyers i	11-Mar-75		diary record	treatment P and K applied
+RW/CS/10	1975	sawyers i	25-Mar-75		diary record	"rotary cultivated, seed sown, N applied, 80 kg N as 'Nitro-chalk' combine drilled"
+RW/CS/10	1975	sawyers i	19-May-75		diary record	Dicamba with mecoprop and MCPA ('Banlene Plus' at 5.6 1 in 220 1)
+RW/CS/10	1975	sawyers i	18-Aug-75		diary record	combine harvested
+RW/CS/10	1975	stackyard c	11-Dec-74		diary record	ploughed
+RW/CS/10	1975	stackyard c	17-Mar-75		diary record	treatment P and K applied
+RW/CS/10	1975	stackyard c	20-Mar-75		diary record	"spring-tine cultivated, seed sown, N applied, 80 kg N as 'Nitro-chalk' combine drilled"
+RW/CS/10	1975	stackyard c	22-May-75		diary record	ioxynil at 0.52 kg with mecoprop at 1.6 kg in 280 1
+RW/CS/10	1975	stackyard c	18-Aug-75		diary record	combine harvested
+RW/CS/10	1976	sawyers i	07-Oct-75		diary record	paraquat at 0.56 kg for in 220 l
+RW/CS/10	1976	sawyers i	20-Oct-75		diary record	ploughed
+RW/CS/10	1976	sawyers i	11-Mar-76		diary record	spring-tine cultivated
+RW/CS/10	1976	sawyers i	24-Mar-76		diary record	"treatment P, K and Mg and Basal N applied at 170 kg N."
+RW/CS/10	1976	sawyers i	26-Mar-76		diary record	"spring-tine cultivated, seed sown"
+RW/CS/10	1976	sawyers i	14-Jul-76		diary record	harvested green
+RW/CS/10	1976	stackyard c	02-Sep-75		diary record	"Heavy spring-tine cultivated, rotary cultivated"
+RW/CS/10	1976	stackyard c	21-Oct-75		diary record	ploughed
+RW/CS/10	1976	stackyard c	09-Mar-76		diary record	spring-tine cultivated
+RW/CS/10	1976	stackyard c	26-Mar-76		diary record	"treatment P, K and Mg applied"
+RW/CS/10	1976	stackyard c	29-Mar-76		diary record	Basal N applied at 170 kg N
+RW/CS/10	1976	stackyard c	30-Mar-76		diary record	spring-tine cultivated with crumbler
+RW/CS/10	1976	stackyard c	31-Mar-76		diary record	"rolled, seed sown"
+RW/CS/10	1976	stackyard c	07-Jul-76		diary record	Harvested green
+RW/CS/10	1977	sawyers i	31-Aug-76		diary record	Deep-tine cultivated twice
+RW/CS/10	1977	sawyers i	11-Dec-76		diary record	ploughed
+RW/CS/10	1977	sawyers i	29-Mar-77		diary record	treatment P and K applied
+RW/CS/10	1977	sawyers i	30-Mar-77		diary record	treatment Mg applied
+RW/CS/10	1977	sawyers i	04-Apr-77		diary record	"power harrowed, seed sown, N at 80 kg, combine drilled"
+RW/CS/10	1977	sawyers i	30-May-77		diary record	Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 1 in 220 1)
+RW/CS/10	1977	sawyers i	05-Sep-77		diary record	combine harvested
+RW/CS/10	1977	stackyard c	16-Aug-76		diary record	power harrowed
+RW/CS/10	1977	stackyard c	23-Nov-76		diary record	ploughed
+RW/CS/10	1977	stackyard c	09-Mar-77		diary record	spring-tine cultivated with crumbler attached
+RW/CS/10	1977	stackyard c	18-Mar-77		diary record	"treatment P, K and Mg applied"
+RW/CS/10	1977	stackyard c	31-Mar-77		diary record	"spring-tine cultivated with crumbler attached, seed sown, N at 95 kg, combine drilled"
+RW/CS/10	1977	stackyard c	30-May-77		diary record	ioxynil at 0.53 kg plus mecoprop at 1.6 kg in 420 1
+RW/CS/10	1977	stackyard c	03-Sep-77		diary record	combine harvested
+RW/CS/10	1978	sawyers i	29-Nov-77		diary record	ploughed
+RW/CS/10	1978	sawyers i	07-Apr-78		diary record	spring-tine cultivated
+RW/CS/10	1978	sawyers i	19-Apr-78		diary record	"treatment P, K and Mg applied, power harrowed, seed sown, N at 80 kg, combine drilled."
+RW/CS/10	1978	sawyers i	08-Jun-78		diary record	Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 1 in 220 1)
+RW/CS/10	1978	sawyers i	08-Sep-78		diary record	combine harvested
+RW/CS/10	1978	stackyard c	23-Sep-77		diary record	paraquat at 0.56 kg ion in 220 1
+RW/CS/10	1978	stackyard c	30-Sep-77		diary record	ploughed
+RW/CS/10	1978	stackyard c	09-Mar-78		diary record	spring-tine cultivated
+RW/CS/10	1978	stackyard c	13-Mar-78		diary record	"P, K and Mg applied, spring-tine cultivated with crumbler attached, N at 130 kg, combine drilled."
+RW/CS/10	1978	stackyard c	15-Mar-78		diary record	seed sown
+RW/CS/10	1978	stackyard c	03-Apr-78		diary record	spring-tine cultivated with crumbler attached seed resown because of bird damage
+RW/CS/10	1978	stackyard c	15-May-78		diary record	"mecoprop, bromoxynil and ioxynil ('Brittox' at 2.5 kg) and Tridemorph at 0.53 kg in 280 1 "
+RW/CS/10	1978	stackyard c	23-Aug-78		diary record	combine harvested
+RW/CS/10	1979	sawyers i	24-Oct-78		diary record	glyphosate at 1.5 kg in 220 l
+RW/CS/10	1979	sawyers i	29-Nov-78		diary record	test Chalk applied
+RW/CS/10	1979	sawyers i	21-Dec-78		diary record	ploughed
+RW/CS/10	1979	sawyers i	12-Jun-79		diary record	rotary cultivated
+RW/CS/10	1979	sawyers i	03-Jul-79		diary record	deep-tine cultivated
+RW/CS/10	1979	stackyard c	14-Sep-78		diary record	glyphosate at 1.5 kg in 280 l
+RW/CS/10	1979	stackyard c	21-Nov-78		diary record	test Chalk applied
+RW/CS/10	1979	stackyard c	22-Nov-78		diary record	ploughed
+RW/CS/10	1979	stackyard c	17-Apr-79		diary record	spring-tine cultivated with crumbler attached
+RW/CS/10	1979	stackyard c	06-Jun-79		diary record	rotary cultivated
+RW/CS/10	1979	stackyard c	04-Jul-79		diary record	rotary cultivated twice
+RW/CS/10	1979	stackyard c	16-Aug-79		diary record	rotary cultivated twice
+RW/CS/10	1979	stackyard c	21-Aug-79		diary record	Deep-tine cultivated
+RW/CS/10	1979	stackyard c	11-Sep-79		diary record	Heavy spring-tine cultivated
+RW/CS/10	1980	sawyers i	04-Dec-79		diary record	Ploughed
+RW/CS/10	1980	sawyers i	21-Apr-80		diary record	Heavy spring-tine cultivated
+RW/CS/10	1980	sawyers i	22-May-80		diary record	Spring-tine cultivated
+RW/CS/10	1980	sawyers i	19-Jun-80		diary record	Rotary cultivated
+RW/CS/10	1980	sawyers i	04-Aug-80		diary record	Rotary harrowed
+RW/CS/10	1980	stackyard c	03-Mar-80		diary record	Heavy spring-tine cultivated
+RW/CS/10	1980	stackyard c	07-Aug-80		diary record	Heavy spring-tine cultivated
+RW/CS/10	1980	stackyard c	29-Nov-79		diary record	ploughed
+RW/CS/10	1980	stackyard c	29-Jul-80		diary record	rotary cultivated
+RW/CS/10	1981	sawyers i	01-Dec-80		diary record	"Basal K and Mg applied, K at 120 kg as muriate of potash, Mg at 100 kg as kieserite."
+RW/CS/10	1981	sawyers i	08-Dec-80		diary record	"P treatment applied, ploughed"
+RW/CS/10	1981	sawyers i	13-Apr-81		diary record	"rotary harrowed, seed sown, N at 80 kg as 'Nitro-chalk' combine drilled"
+RW/CS/10	1981	sawyers i	01-Jun-81		diary record	"Dicamba, mecoprop and MCPA (as 'Herrisol' at 5.0 1) in 250 1"
+RW/CS/10	1981	sawyers i	10-Sep-81		diary record	combine harvested
+RW/CS/10	1981	stackyard c	13-Nov-80		diary record	ploughed
+RW/CS/10	1981	stackyard c	12-Dec-80		diary record	ploughed
+RW/CS/10	1981	stackyard c	08-Dec-80		diary record	"Basal K and Mg applied, K at 120 kg as muriate of potash, Mg at 100 kg as kieserite."
+RW/CS/10	1981	stackyard c	06-Apr-81		diary record	"N applied at 80 kg as 'Nitro-chalk', heavy spring-tine cultivated"
+RW/CS/10	1981	stackyard c	08-Apr-81		diary record	spring-tine cultivated with crumbler attached
+RW/CS/10	1981	stackyard c	09-Apr-81		diary record	"rotary cultivated, seed sown"
+RW/CS/10	1981	stackyard c	01-Jun-81		diary record	"Dicamba, mecoprop and MCPA (as 'Banlene Plus' at 4.9 1) and Tridemorph at 0.53 l in 280 l"
+RW/CS/10	1981	stackyard c	03-Sep-81		diary record	combine harvested
+RW/CS/10	1982	sawyers i	03-Dec-81	07-Dec-81	diary record	ground Chalk applied
+RW/CS/10	1982	sawyers i	03-Feb-82		diary record	ploughed
+RW/CS/10	1982	sawyers i	05-Apr-82		diary record	spring-tine cultivated
+RW/CS/10	1982	sawyers i	14-Apr-82		diary record	"P, K and Mg applied, K at 120 kg as muriate of potash, Mg at 40 kg as kieserite. Seed sown, N at 30 kg as 'Nitro-chalk' combine drilled."
+RW/CS/10	1982	sawyers i	26-May-82		diary record	"Dicamba, mecoprop and MCPA (as 'Banlene Plus' at 5.0 1) in 250 1"
+RW/CS/10	1982	sawyers i	26-Aug-82	27-Aug-82	diary record	combine harvested
+RW/CS/10	1982	stackyard c	25-Nov-81		diary record	ground Chalk applied
+RW/CS/10	1982	stackyard c	26-Feb-82		diary record	ploughed
+RW/CS/10	1982	stackyard c	24-Mar-82		diary record	"P and K applied, K at 120 kg as muriate of potash."
+RW/CS/10	1982	stackyard c	25-Mar-82		diary record	"Mg at 40 kg as kieserite and N at 80 kg as Nitro-chalk applied, heavy spring-tine cultivated"
+RW/CS/10	1982	stackyard c	29-Mar-82		diary record	"spring-tine cultivated with crumbler attached, seed sown"
+RW/CS/10	1982	stackyard c	26-May-82		diary record	"Dicamba, mecoprop and MCPA (as 'Herrisol' at 4.9 1) in 280 1"
+RW/CS/10	1982	stackyard c	20-Aug-82		diary record	combine harvested
+RW/CS/10	1983	sawyers i	26-Nov-82		diary record	ground Chalk treatment applied
+RW/CS/10	1983	sawyers i	01-Dec-82		diary record	ploughed
+RW/CS/10	1983	sawyers i	11-May-83		diary record	"P treatment and N, K and Mg applied, N at 250 kg as 'Nitro-chalk', K at 210 kg as muriate of potash, Mg at 40 kg as kieserite."
+RW/CS/10	1983	sawyers i	23-May-83		diary record	"rotary harrowed, potatoes planted"
+RW/CS/10	1983	sawyers i	26-May-83		diary record	rotary ridged
+RW/CS/10	1983	sawyers i	07-Jun-83		diary record	Linuron at 1.0 1 with paraquat at 0.4 kg for in 500 1.
+RW/CS/10	1983	sawyers i	22-Jun-83		diary record	mancozeb at 1.4 kg in 250 1
+RW/CS/10	1983	sawyers i	25-Aug-83		diary record	mancozeb at 1.4 kg in 250 1
+RW/CS/10	1983	sawyers i	09-Sep-83		diary record	mancozeb at 1.4 kg in 250 1
+RW/CS/10	1983	sawyers i	01-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 l
+RW/CS/10	1983	sawyers i	08-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 l
+RW/CS/10	1983	sawyers i	18-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 l
+RW/CS/10	1983	sawyers i	28-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 l
+RW/CS/10	1983	sawyers i	11-Aug-83		diary record	Fentin hydroxide at 0.28 kg in 250 1
+RW/CS/10	1983	sawyers i	11-Oct-83		diary record	Haulm mechanically destroyed
+RW/CS/10	1983	sawyers i	19-Oct-83		diary record	Haulm desiccant undiluted BOV at 170 l
+RW/CS/10	1983	sawyers i	28-Oct-83		diary record	lifted
+RW/CS/10	1983	stackyard c	12-Sep-82		diary record	glyphosate at 1.5 kg in 280 1
+RW/CS/10	1983	stackyard c	08-Oct-82		diary record	ploughed
+RW/CS/10	1983	stackyard c	04-Nov-82		diary record	ground Chalk treatment applied
+RW/CS/10	1983	stackyard c	23-Dec-82		diary record	ploughed
+RW/CS/10	1983	stackyard c	21-Mar-83		diary record	Heavy spring-tine cultivated
+RW/CS/10	1983	stackyard c	22-Mar-83		diary record	"P treatment and N, K and Mg applied, N at 260 kg as 'Nitro-chalk', K at 210 kg as muriate of potash, Mg at 40 kg as keserite."
+RW/CS/10	1983	stackyard c	28-Mar-83		diary record	Heavy spring-tine cultivated
+RW/CS/10	1983	stackyard c	11-May-83		diary record	Heavy spring-tine cultivated
+RW/CS/10	1983	stackyard c	11-May-83		diary record	"rotary cultivated, potatoes planted"
+RW/CS/10	1983	stackyard c	07-Jun-83		diary record	"rotary ridged##Linuron at 1.0 1 with paraquat at 0.4 kg ion in 250 1,"
+RW/CS/10	1983	stackyard c	22-Jun-83		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+RW/CS/10	1983	stackyard c	08-Jul-83		diary record	mancozeb at 1.4 kg in 250 1
+RW/CS/10	1983	stackyard c	18-Jul-83		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+RW/CS/10	1983	stackyard c	01-Jul-83		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+RW/CS/10	1983	stackyard c	29-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+RW/CS/10	1983	stackyard c	11-Aug-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+RW/CS/10	1983	stackyard c	26-Aug-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+RW/CS/10	1983	stackyard c	09-Sep-83		diary record	Fentin hydroxide at 0.28 kg in 250 1
+RW/CS/10	1983	stackyard c	05-Oct-83		diary record	Haulm mechanically destroyed
+RW/CS/10	1983	stackyard c	17-Oct-83		diary record	Haulm desiccant Diquat at 0.50 kg for in 250 1
+RW/CS/10	1983	stackyard c	07-Nov-83		diary record	lifted
+RW/CS/10	1984	sawyers i	11-Nov-83		diary record	Heavy spring-tine cultivated
+RW/CS/10	1984	sawyers i	27-Apr-84		diary record	Heavy spring-tine cultivated twice
+RW/CS/10	1984	sawyers i	09-May-84		diary record	Heavy spring-tine cultivated twice
+RW/CS/10	1984	sawyers i	27-Apr-84		diary record	rotary cultivated
+RW/CS/10	1984	sawyers i	15-Jun-84		diary record	rotary cultivated
+RW/CS/10	1984	sawyers i	12-Jul-84		diary record	rotary cultivated
+RW/CS/10	1984	sawyers i	13-Jul-84		diary record	spring-tine cultivated
+RW/CS/10	1984	stackyard c	16-Jan-84		diary record	Deep-tine cultivated
+RW/CS/10	1984	stackyard c	15-May-84		diary record	Heavy spring-tine cultivated
+RW/CS/10	1984	stackyard c	10-Jul-84		diary record	cultivated with thistle bar
+RW/CS/10	1984	stackyard c	10-Aug-84		diary record	cultivated with thistle bar
+RW/CS/10	1984	stackyard c	25-Jul-84		diary record	rotary cultivated
+RW/CS/10	1985	sawyers i	03-Jan-85		diary record	ploughed
+RW/CS/10	1985	sawyers i	18-Mar-85		diary record	"NK applied (25:0:16) at 450 kg, spring-tine cultivated, rotary harrowed, seed sown"
+RW/CS/10	1985	sawyers i	16-May-85		diary record	mecoprop at 1.6 kg with bromoxynil at 0.20 kg and ioxynil at 0.20 kg and Tridemorph at 9.52 kg in 200 l.
+RW/CS/10	1985	sawyers i	23-Aug-85		diary record	combine harvested
+RW/CS/10	1985	stackyard c	13-Mar-85		diary record	ploughed
+RW/CS/10	1985	stackyard c	18-Mar-85		diary record	"spring-tine cultivated, NK applied (25:0:16) at 490 kg, harrowed, seed sown"
+RW/CS/10	1985	stackyard c	16-May-85		diary record	mecoprop at 1.2 kg with bromoxynil at 0.26 kg and ioxynil at 0.26 kg in 250 l.
+RW/CS/10	1985	stackyard c	28-Aug-85		diary record	combine harvested
+RW/CS/10	1986	sawyers i	23-Sep-85		diary record	glyphosate at 1.4 kg in 200 1
+RW/CS/10	1986	sawyers i	08-Oct-85		diary record	ploughed
+RW/CS/10	1986	sawyers i	23-Oct-85		diary record	"rolled, disced, rotary harrowed, seed sown"
+RW/CS/10	1986	sawyers i	30-Apr-86		diary record	"N applied, N at 170 kg as nitram."
+RW/CS/10	1986	sawyers i	10-Sep-86		diary record	combine harvested
+RW/CS/10	1986	stackyard c	09-Oct-85		diary record	ploughed
+RW/CS/10	1986	stackyard c	22-Oct-85		diary record	"rolled, power harrowed, seed sown"
+RW/CS/10	1986	stackyard c	30-Apr-86		diary record	"N applied, N at 190 kg as nitram."
+RW/CS/10	1986	stackyard c	19-May-86		diary record	Clopyralid at 0.05 kg with bromoxynil octanoate at 0.24 kg and mecoprop at 2.1 kg in 250 l.
+RW/CS/10	1986	stackyard c	07-Sep-86		diary record	combine harvested
+RW/CS/10	1987	sawyers i	13-Nov-86		diary record	Chalk treatment applied
+RW/CS/10	1987	sawyers i	14-Nov-86		diary record	ploughed
+RW/CS/10	1987	sawyers i	31-Mar-87		diary record	"spring-tine cultivated, rotary harrowed, seed sown, harrowed"
+RW/CS/10	1987	sawyers i	13-Apr-87		diary record	terbutryne at 0.98 kg with terbuthylazine at 0.42 kg in 200 1.
+RW/CS/10	1987	sawyers i	09-Jul-87		diary record	benomyl at 0.50 kg and pirimicarb at 0.14 kg and a wetting agent ('Agral' at 0.06 1) in 200 l.
+RW/CS/10	1987	sawyers i	17-Nov-87		diary record	combine harvested
+RW/CS/10	1987	stackyard c	16-Sep-86		diary record	glyphosate at 1.4 kg in 200 1
+RW/CS/10	1987	stackyard c	13-Nov-86		diary record	Chalk treatment applied
+RW/CS/10	1987	stackyard c	28-Nov-86		diary record	ploughed
+RW/CS/10	1987	stackyard c	06-Apr-87		diary record	"spiked harrowed with crumbler attached, seed sown"
+RW/CS/10	1987	stackyard c	13-Apr-87		diary record	Harrowed##terbutryne at 0.56 kg with terbuthylazine at 0.24 kg in 240 1.
+RW/CS/10	1987	stackyard c	08-May-87		diary record	Deltamathrin at 0.038 kg in 200 1
+RW/CS/10	1987	stackyard c	13-Jul-87		diary record	benomyl at 1.0 kg and pirimicarb at 0.15 kg and a wetting agent ('Enhance' at 0.06 1) in 200 1.
+RW/CS/10	1987	stackyard c	18-Nov-87		diary record	combine harvested
+RW/CS/10	1988	sawyers i	14-Dec-87		diary record	"P treatment K and Mg applied, K as muriate of potash at 160 kg, Mg as Kieserite at 270 kg."
+RW/CS/10	1988	sawyers i	15-Dec-87		diary record	ploughed
+RW/CS/10	1988	sawyers i	05-Apr-88		diary record	Heavy spring-tine cultivated
+RW/CS/10	1988	sawyers i	07-Apr-88		diary record	N applied as Nitram at 250 kg
+RW/CS/10	1988	sawyers i	12-Apr-88		diary record	Trifluralin at 1.1 kg in 450 l##spring-tine cultivated twice
+RW/CS/10	1988	sawyers i	13-Apr-88		diary record	"rotary harrowed, seed sown, harrowed"
+RW/CS/10	1988	sawyers i	19-Sep-88		diary record	desiccant Diquat 0.60 kg ion applied with a wetting agent ('Agral' at 0.50 1) in 240 1
+RW/CS/10	1988	sawyers i	24-Oct-88		diary record	combine harvested
+RW/CS/10	1988	stackyard c	10-Feb-88		diary record	"P treatment K and Mg applied, K as muriate of potash at 160 kg, Mg as Kieserite at 100 kg."
+RW/CS/10	1988	stackyard c	23-Feb-88		diary record	ploughed
+RW/CS/10	1988	stackyard c	05-Apr-88		diary record	Heavy spring-tine cultivated
+RW/CS/10	1988	stackyard c	22-Apr-88		diary record	N applied as Nitram at 250 kg##spiked harrowed with crumbler attached##Trifluralin at 0.84 kg in 200 l##spiked harrowed with crumbler attached##seed sown
+RW/CS/10	1988	stackyard c	05-May-88		diary record	Linuron at 0.26 kg in 220 1
+RW/CS/10	1988	stackyard c	21-Sep-88		diary record	desiccant Diquat at 0.60 kg ion in 400 1
+RW/CS/10	1988	stackyard c	01-Nov-88		diary record	combine harvested
+RW/CS/10	1989	sawyers i	20-Dec-88		diary record	ploughed
+RW/CS/10	1989	sawyers i	29-Mar-89		diary record	"Heavy spring-tine cultivated, rotary harrowed"
+RW/CS/10	1989	sawyers i	30-Mar-89		diary record	"rotary harrowed, seed sown, harrowed, rolled"
+RW/CS/10	1989	sawyers i	31-Mar-89		diary record	Simazine at 0.17 kg and triatazine at 1.2 kg in 200 1.
+RW/CS/10	1989	sawyers i	10-May-89		diary record	Deltamathrin at 7.5 kg in 400 1
+RW/CS/10	1989	sawyers i	31-May-89		diary record	Deltamathrin at 7.5 kg in 400 1
+RW/CS/10	1989	sawyers i	14-Jun-89		diary record	pirimicarb at 0.14 kg im 200 1
+RW/CS/10	1989	sawyers i	14-Jul-89		diary record	benomyl at 0.55 kg and Fenpropimorph at 0.75 kg in 200 1.
+RW/CS/10	1989	sawyers i	14-Aug-89		diary record	combine harvested
+RW/CS/10	1989	stackyard c	14-Dec-88		diary record	ploughed
+RW/CS/10	1989	stackyard c	28-Mar-89		diary record	spring-tine cultivated
+RW/CS/10	1989	stackyard c	31-Mar-89		diary record	"rotary harrowed, seed sown"
+RW/CS/10	1989	stackyard c	22-Apr-89		diary record	Simazine at 0.14 kg and triatazine at 1.0 kg in 220 1.
+RW/CS/10	1989	stackyard c	22-May-89		diary record	Deltamathrin at 6.2 g in 220 1
+RW/CS/10	1989	stackyard c	07-Jun-89		diary record	Deltamathrin  at 7.5 g in 220 1
+RW/CS/10	1989	stackyard c	07-Jun-89		diary record	Alloxydim-sodium at 1.5 kg in 220 1.
+RW/CS/10	1989	stackyard c	22-Jun-89		diary record	pirimicarb at 0.14 kg in 220 1.
+RW/CS/10	1989	stackyard c	12-Jul-89		diary record	benomyl at 0.55 kg applied with a wetting agent and Fenpropimorph at 0.75 kg in 220 1
+RW/CS/10	1989	stackyard c	22-Aug-89		diary record	combine harvested
+RW/CS/10	1990	sawyers i	23-Aug-89		diary record	Tine cultivated with vibrating tines 60 cm apart 45 cm deep
+RW/CS/10	1990	sawyers i	24-Nov-89		diary record	ploughed
+RW/CS/10	1990	sawyers i	05-Mar-90		diary record	spring-tine cultivated
+RW/CS/10	1990	sawyers i	06-Mar-90		diary record	rotary harrowed##phorate at 2.2 kg##rotary harrowed##seed sown##harrowed##rolled
+RW/CS/10	1990	sawyers i	12-Mar-90		diary record	Simazine at 0.17 kg and triatazine at 1.2 kg in 200 1.
+RW/CS/10	1990	sawyers i	02-May-90		diary record	Deltamathrin at 7.5 g in 200 1
+RW/CS/10	1990	sawyers i	17-May-90		diary record	Deltamathrin at 7.5 g in 200 1
+RW/CS/10	1990	sawyers i	05-Jun-90		diary record	pirimicarb at 0.14 kg in 200 1
+RW/CS/10	1990	sawyers i	15-Aug-90		diary record	combine harvested
+RW/CS/10	1990	stackyard c	01-Sep-89		diary record	glyphosate at 1.4 kg in 220 1
+RW/CS/10	1990	stackyard c	05-Jan-90		diary record	ploughed
+RW/CS/10	1990	stackyard c	05-Mar-90		diary record	phorate at 1.8 kg##power harrowed with crumbler attached##seed sown
+RW/CS/10	1990	stackyard c	13-Mar-90		diary record	Simazine at 0.14 kg and triatazine at 0.97 kg in 220 1
+RW/CS/10	1990	stackyard c	25-May-90		diary record	paraquat at 0.60 kg ion.
+RW/CS/10	1991	sawyers i	23-Aug-90		diary record	N and K applied (25:0:16) at 200 kg
+RW/CS/10	1991	sawyers i	28-Aug-91		diary record	ploughed
+RW/CS/10	1991	sawyers i	29-Aug-91		diary record	rolled
+RW/CS/10	1991	sawyers i	30-Aug-91		diary record	rotary harrowed
+RW/CS/10	1991	sawyers i	31-Aug-91		diary record	rotary harrowed##seed sown##harrowed##rolled##Matazachlor at 0.75 kg in 200 1
+RW/CS/10	1991	sawyers i	21-Sep-91		diary record	Irrigated 25 mm 
+RW/CS/10	1991	sawyers i	27-Sep-91		diary record	Irrigated 25 mm 
+RW/CS/10	1991	sawyers i	07-Nov-91		diary record	Deltamathrin at 6.2 g in 200 1
+RW/CS/10	1991	sawyers i	03-Dec-91		diary record	"Prochloraz at 0.50 kg in 200 1##Mg applied, Magnesium at 0.13 kg as 'Vytel Liquid Magnesium' in 200 1"
+RW/CS/10	1991	sawyers i	17-Dec-91		diary record	Clopyralid at 0.10 kg in 200 1.
+RW/CS/10	1991	sawyers i	04-Mar-91		diary record	N applied as Nitram at 640 kg
+RW/CS/10	1991	sawyers i	12-Apr-91		diary record	deltamathrin at 12 g in 200 1
+RW/CS/10	1991	sawyers i	23-Apr-91		diary record	"prochloraz 0.40 kg in 200 1.##Mn applied, Manganese at 0.093 kg as 'Vytel Liquid Manganese' in 200 1."
+RW/CS/10	1991	sawyers i	30-Jul-91		diary record	"desiccant Diquat at 0.60 kg ion applied with wetting agent, 'Vassgro' at 0.52 1, in 520 1"
+RW/CS/10	1991	sawyers i	07-Aug-91		diary record	combine harvested
+RW/CS/10	1991	stackyard c	15-Aug-90		diary record	disced
+RW/CS/10	1991	stackyard c	21-Aug-91		diary record	subsoiled with tines 15 m apart 04 m deep
+RW/CS/10	1991	stackyard c	22-Aug-91		diary record	ploughed and rolled
+RW/CS/10	1991	stackyard c	28-Aug-91		diary record	"N and K applied, (25:0:16) at 200 kg"
+RW/CS/10	1991	stackyard c	30-Aug-91		diary record	"rotary harrowed with crumbler attached, seed sown"
+RW/CS/10	1991	stackyard c	01-Nov-91		diary record	Quizalofop-ethyl at 38 g with metazachlor at 0.75 kg applied with adjuvant 'Cropspray 11 E' at 2.0 1 in 220 1.
+RW/CS/10	1991	stackyard c	15-Nov-91		diary record	Deltamathrin at 6.2 g in 220 1
+RW/CS/10	1991	stackyard c	03-Dec-91		diary record	"Mg applied, Magnesium at 0.13 kg as 'Vytel Liquid Magnesium' in 200 1"
+RW/CS/10	1991	stackyard c	15-Mar-91		diary record	N applied as Nitram at 580 kg
+RW/CS/10	1991	stackyard c	12-Apr-91		diary record	Deltamathrin at 6.2 g and Prochloraz at 0.28 kg in 220 1
+RW/CS/10	1991	stackyard c	09-May-91		diary record	"Mn applied, Manganese at 0.078 kg as 'Vytel Liquid Manganese' in 300 1."
+RW/CS/10	1991	stackyard c	01-Aug-91		diary record	"desiccant Diquat at 0.60 kg ion applied with a wetting agent, 'Agral' at 0.40 1, in 400 1"
+RW/CS/10	1991	stackyard c	13-Aug-91		diary record	combine harvested

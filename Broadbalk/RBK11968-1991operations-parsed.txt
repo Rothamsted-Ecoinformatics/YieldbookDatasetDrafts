@@ -1,786 +1,790 @@
-R/BK/1|1968|all sections|11-Sept-1967||diary record|Ground Chalk applied (including extra chalking)
-R/BK/1|1968|all sections|18-Sept-1967||diary record|FYM applied
-R/BK/1|1968|all sections|19-Sept-1967||diary record|plots 1 - 3 ploughed, all autumn fertilizers applied
-R/BK/1|1968|all sections|20-Sept-1967||diary record|remaining plots ploughed
-R/BK/1|1968|winter wheat|7-Dec-1967||diary record|seed drilled at 180 lb
-R/BK/1|1968|winter wheat|10-Apr-1968||diary record|'Nitro-Chalk' applied (plot 20 omitted in error)
-R/BK/1|1968|winter wheat|4-May-1968||diary record|all sections except 8 and 9 sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals
-R/BK/1|1968|winter wheat|6-May-1968||diary record|section 9 sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals, section 5 sprayed with ioxynil at 7.5 oz and mecoprop at 22.5 oz in 20 gals and sections 0, 1, 3 and 4 resprayed with ioxynil at 6 oz and mecoprop at 18 oz in 20 gals. The second spray was applied because of rain during spring on 4th May
-R/BK/1|1968|winter wheat|17-June-1968||diary record|'Nitro-chalk' applied to plot 20
-R/BK/1|1968|winter wheat|26-Aug-1968||diary record|combine harvested
-R/BK/1|1968|potatoes|29-Apr-1968||diary record|machine planted
-R/BK/1|1968|potatoes|20-May-1968||diary record|grubbed
-R/BK/1|1968|potatoes|28-May-1968||diary record|rotary ridged
-R/BK/1|1968|potatoes|19-June-1968||diary record|grubbed and then rotary ridged
-R/BK/1|1968|potatoes|4-July-1968||diary record|sprayed with mancozeb at 1.2 lb in 37 gals
-R/BK/1|1968|potatoes|19-July-1968||diary record|sprayed with mancozeb at 1.2 lb and demeton-s-methyl at 3.5 oz in 37 gals
-R/BK/1|1968|potatoes|5-Aug-1968||diary record|sprayed with mancozeb at 1.2 lb in 37 gals
-R/BK/1|1968|potatoes|31-Aug-1968||diary record|sprayed with undiluted BOV at 20 gals
-R/BK/1|1968|potatoes|13-Sept-1968||diary record|Haulm destroyed mechanically
-R/BK/1|1968|potatoes|19-Sept-1968||diary record|lifted
-R/BK/1|1968|spring beans|4-Mar-1968||diary record|seed drilled at 200 lb
-R/BK/1|1968|spring beans|5-Mar-1968||diary record|sprayed with simazine at 1 lb in 33 gals
-R/BK/1|1968|spring beans|26-Mar-1968||diary record|'Nitro-chalk' applied
-R/BK/1|1968|spring beans|22-June-1968||diary record|1.04 lb phorate applied in granules
-R/BK/1|1968|spring beans|6-Sept-1968||diary record|combine harvested
-R/BK/1|1968|fallow section|28-May-1968||diary record|ploughed second time
-R/BK/1|1968|fallow section|5-Aug-1968||diary record|ploughed third time
-R/BK/1|1968|cultivations to section 00|21-Sept-1967||diary record|As section 0 except- rotary cultivated
-R/BK/1|1968|cultivations to section 00|27-Sept-1967||diary record|Methyl bromide applied
-R/BK/1|1968|cultivations to section 00|25-Aug-1968||diary record|combine harvested
-R/BK/1|1969|all sections|25-Sept-1968||diary record|autumn fertilizers applied
-R/BK/1|1969|all sections|4-Oct-1968||diary record|FYM applied
-R/BK/1|1969|all sections|1-Oct-1968|5-Oct-1968|diary record|ploughed
-R/BK/1|1969|winter wheat|5-Sept-1968|10-Sept-1968|diary record|paraquat applied
-R/BK/1|1969|winter wheat|17-Oct-1968||diary record|seed drilled at 180 lb
-R/BK/1|1969|winter wheat|18-Oct-1968||diary record|'Prebane' applied
-R/BK/1|1969|winter wheat|17-Apr-1969||diary record|'Nitro-chalk' applied
-R/BK/1|1969|winter wheat|1-May-1969||diary record|MCPA/mecoprop/dicamba applied
-R/BK/1|1969|winter wheat|29-Aug-1969||diary record|combine harvested
-R/BK/1|1969|winter wheat|21-Aug-1969||diary record|Cultivations to section 00 As above except harvested by small combine
-R/BK/1|1969|potatoes|5-Sept-1968||diary record|paraquat applied
-R/BK/1|1969|potatoes|9-Apr-1969||diary record|'Nitro-chalk' applied
-R/BK/1|1969|potatoes|10-Apr-1969||diary record|potatoes machine planted
-R/BK/1|1969|potatoes|12-May-1969||diary record|paraquat plus linuron applied
-R/BK/1|1969|potatoes|18-June-1969||diary record|grubbed
-R/BK/1|1969|potatoes|23-June-1969||diary record|rotary ridged
-R/BK/1|1969|potatoes|15-July-1969||diary record|Fungicide applied
-R/BK/1|1969|potatoes|4-Aug-1969||diary record|Fungicide applied
-R/BK/1|1969|potatoes|22-Aug-1969||diary record|Fungicide applied
-R/BK/1|1969|potatoes|4-Aug-1969||diary record|insecticide applied
-R/BK/1|1969|potatoes|20-Sept-1969||diary record|Haulm destroyed mechanically (except treatments N2, N2P, N2PNa and R, where Haulm died early)
-R/BK/1|1969|potatoes|25-Sept-1969||diary record|lifted
-R/BK/1|1969|spring beans|24-Mar-1969||diary record|seed drilled at 200 lb
-R/BK/1|1969|spring beans|9-Apr-1969||diary record|'Nitro-chalk' applied
-R/BK/1|1969|spring beans|19-June-1969||diary record|insecticide applied
-R/BK/1|1969|spring beans|10-Sept-1969||diary record|combine harvested
-R/BK/1|1969|fallow section|5-Sept-1968||diary record|weedkiller applied
-R/BK/1|1969|fallow section|13-May-1969||diary record|ploughed second time
-R/BK/1|1969|fallow section|8-July-1969||diary record|ploughed third time
-R/BK/1|1970|winter wheat|12-Sept-1969||diary record|rotary cultivated
-R/BK/1|1970|all sections|29-Sept-1969||diary record|Autumn fertilizers applied
-R/BK/1|1970|all sections|01-Oct-1969||diary record|Plot 01 shallow rotary cultivated to incorporate fertiliser, FYM applied
-R/BK/1|1970|all sections|02-Oct-1969|04-Oct-1969|diary record|Ploughed 
-R/BK/1|1970|winter wheat|12-Sept-1969||diary record|rotary cultivated
-R/BK/1|1970|winter wheat|13-Oct-1969||diary record|all plots rotary cultivated second time, plots 15 - 19, sections 0 and 1 rotary cultivated third time
-R/BK/1|1970|winter wheat|15-Oct-1969||diary record|seed drilled at 180 lb
-R/BK/1|1970|winter wheat|17-Oct-1969||diary record|'Prebane' applied
-R/BK/1|1970|winter wheat|30-Apr-1970||diary record|N applied
-R/BK/1|1970|winter wheat|6-May-1970||diary record|MPA/mecoprop/dicamba applied
-R/BK/1|1970|winter wheat|27-Aug-1970||diary record|combine harvested
-R/BK/1|1970|potatoes|12-Sept-196||diary record|Rotary cultivated
-R/BK/1|1970|potatoes|17-Apr-1970||diary record|N applied
-R/BK/1|1970|potatoes|30-Apr-1970||diary record|plots rotary cultivated, potatoes machine planted
-R/BK/1|1970|potatoes|20-May-1970||diary record|weedkiller applied
-R/BK/1|1970|potatoes|30-June-1970||diary record|all plots except 1, 21, 22, 7, 8, 9, 13, 15 grubbed and rotary ridged
-R/BK/1|1970|potatoes|28-July-1970||diary record|Fungicide and insecticide applied
-R/BK/1|1970|potatoes|14-Aug-1970||diary record|Fungicide applied
-R/BK/1|1970|potatoes|3-Sept-1970||diary record|sprayed with undiluted BOV at 15 gals
-R/BK/1|1970|potatoes|15-Sept-1970||diary record|lifted
-R/BK/1|1970|spring beans|21-Mar-1970||diary record|seed drilled at 200 lb
-R/BK/1|1970|spring beans|17-Apr-1970||diary record|N applied
-R/BK/1|1970|spring beans|19-June-1970||diary record|insecticide applied
-R/BK/1|1970|spring beans|2-Sept-1970||diary record|combine harvested
-R/BK/1|1970|fallow section|12-Sept-1969||diary record|rotary cultivated
-R/BK/1|1970|fallow section|20-May-1970||diary record|ploughed second time
-R/BK/1|1970|fallow section|9-July-1970||diary record|ploughed third time
-R/BK/1|1971|all sections|18-Sept-1970||diary record|autumn fertilizers applied
-R/BK/1|1971|all sections|22-Sept-1970||diary record|FYM applied
-R/BK/1|1971|all sections|21-Sept-1970|23-Sept-1970|diary record|ploughed
-R/BK/1|1971|winter wheat|11-Sept-1970||diary record|paraquat applied to section 0
-R/BK/1|1971|winter wheat|9-Oct-1970||diary record|seed drilled at 202 kg
-R/BK/1|1971|winter wheat|10-Oct-1970||diary record|'Prebane' applied
-R/BK/1|1971|winter wheat|8-Apr-1971||diary record|N applied
-R/BK/1|1971|winter wheat|15-Apr-1971||diary record|MCPA/mecoprop/dicamba applied
-R/BK/1|1971|winter wheat|28-July-1971||diary record|plot 19, section 8 cut green and all produce removed (because of excessive weed infestation) and then deep-tine cultivated twice
-R/BK/1|1971|winter wheat|27-Aug-1971||diary record|combine harvested
-R/BK/1|1971|potatoes|4-Feb-1971||diary record|paraquat applied
-R/BK/1|1971|potatoes|2-Apr-1971||diary record|N applied, plots rotary cultivated
-R/BK/1|1971|potatoes|3-Apr-1971||diary record|potatoes machine planted
-R/BK/1|1971|potatoes|8-May-1971||diary record|Linuron plus paraquat applied
-R/BK/1|1971|potatoes|3-June-1971||diary record|plots 0l, 21, 22 grubbed
-R/BK/1|1971|potatoes|4-June-1971||diary record|plots 0l, 21, 22 rotary ridged
-R/BK/1|1971|potatoes|5-June-1971||diary record|remaining plots grubbed
-R/BK/1|1971|potatoes|10-June-1971||diary record|and rotary ridged
-R/BK/1|1971|potatoes|23-June-1971||diary record|Fungicide applied
-R/BK/1|1971|potatoes|16-Aug-1971||diary record|Fungicide applied
-R/BK/1|1971|potatoes|26-Aug-1971||diary record|Haulm destroyed mechanically
-R/BK/1|1971|potatoes|14-Sept-1971||diary record|lifted
-R/BK/1|1971|spring beans|4-Feb-1971||diary record|paraquat applied
-R/BK/1|1971|spring beans|24-Feb-1971||diary record|N applied
-R/BK/1|1971|spring beans|25-Feb-1971||diary record|seed drilled at 224 kg
-R/BK/1|1971|spring beans|1-July-1971||diary record|insecticide applied
-R/BK/1|1971|spring beans|2-Sept-1971||diary record|combine harvested
-R/BK/1|1971|fallow section|19-Apr-1971||diary record|ploughed second time
-R/BK/1|1971|fallow section|8-July-1971||diary record|ploughed third time
-R/BK/1|1972|all sections|21-Sept-1971||diary record|autumn fertiliser applied
-R/BK/1|1972|all sections|29-Sept-1971||diary record|FYM applied
-R/BK/1|1972|all sections|30-Sept-1971||diary record|Ploughed
-R/BK/1|1972|winter wheat|10-Sept-1971||diary record|aminotriazole and ammonium thiocyanate applied
-R/BK/1|1972|winter wheat|22-Oct-1971||diary record|seed drilled
-R/BK/1|1972|winter wheat|25-Oct-1971||diary record|'Prebane' applied
-R/BK/1|1972|winter wheat|18-Apr-1972||diary record|N applied
-R/BK/1|1972|winter wheat|27-Apr-1972||diary record|MCPA/mecoprop/dicamba applied
-R/BK/1|1972|winter wheat|1-Sept-1972||diary record|combine harvested
-R/BK/1|1972|potatoes|10-Sept-1971||diary record|aminotriazole and ammonium thiocyanate applied
-R/BK/1|1972|potatoes|18-Apr-1972||diary record|N applied
-R/BK/1|1972|potatoes|19-Apr-1972||diary record|Plots rotary cultivated, potatoes machine planted
-R/BK/1|1972|potatoes|17-May-1972||diary record|sprayed with linuron and paraquat
-R/BK/1|1972|potatoes|14-June-1972||diary record|grubbed
-R/BK/1|1972|potatoes|15-June-1972|24-June-1972|diary record|rotary ridged
-R/BK/1|1972|potatoes|12-July-1972||diary record|fungicide applied
-R/BK/1|1972|potatoes|21-July-1972||diary record|fungicide applied
-R/BK/1|1972|potatoes|10-Aug-1972||diary record|fungicide applied
-R/BK/1|1972|potatoes|21-July-1972||diary record|insecticide applied
-R/BK/1|1972|potatoes|16-Sept-1972||diary record|Sprayed with undiluted BOV at 150 l
-R/BK/1|1972|potatoes|28-Sept-1972||diary record|lifted
-R/BK/1|1972|spring beans|16-Mar-1972||diary record|N applied, seed drilled
-R/BK/1|1972|spring beans|17-June-1972||diary record|Phorate applied
-R/BK/1|1972|spring beans|5-Aug-1972||diary record|Demeton-s-methyl applied
-R/BK/1|1972|spring beans|27-Sept-1972||diary record|combine harvested
-R/BK/1|1972|fallow sections|10-Sept-1971||diary record|aminotriazole and ammonium thiocyanate applied to se 5
-R/BK/1|1972|fallow sections|12-May-1972|14-May-1972|diary record|ploughed second time
-R/BK/1|1972|fallow sections|10-July-1972||diary record|ploughed third time
-R/BK/1|1973|all sections|3-Oct-1972||diary record|autumn fertilizers applied
-R/BK/1|1973|all sections|11-Oct-1972||diary record|FYM applied
-R/BK/1|1973|all sections|10-Oct-1972|12-Oct-1972|diary record|ploughed
-R/BK/1|1973|winter wheat|17-Oct-1972||diary record|seed sown
-R/BK/1|1973|winter wheat|20-Oct-1972||diary record|'Prebane' applied
-R/BK/1|1973|winter wheat|13-Apr-1973||diary record|N applied
-R/BK/1|1973|winter wheat|26-Apr-1973||diary record|'Tetralex Plus' applied
-R/BK/1|1973|winter wheat|20-Aug-1973||diary record|combine harvested
-R/BK/1|1973|potatoes|21-Mar-1973||diary record|N applied
-R/BK/1|1973|potatoes|6-Apr-1973||diary record|potatoes machine planted
-R/BK/1|1973|potatoes|11-May-1973||diary record|Linuron plus paraquat applied
-R/BK/1|1973|potatoes|2-July-1973||diary record|mancozeb and demeton-s-methyl applied
-R/BK/1|1973|potatoes|24-July-1973||diary record|mancozeb applied
-R/BK/1|1973|potatoes|9-Aug-1973||diary record|mancozeb applied
-R/BK/1|1973|potatoes|31-Aug-1973||diary record|Haulm destroyed mechanically, sprayed with undiluted BOV at 220 1
-R/BK/1|1973|potatoes|25-Sept-1973||diary record|lifted
-R/BK/1|1973|spring beans|8-Mar-1973||diary record|N applied
-R/BK/1|1973|spring beans|9-Mar-1973||diary record|seed sown
-R/BK/1|1973|spring beans|8-June-1973||diary record|insecticide applied
-R/BK/1|1973|spring beans|3-Sept-1973||diary record|combine harvested
-R/BK/1|1973|fallow section|16-May-1973||diary record|ploughed second time
-R/BK/1|1973|fallow section|9-July-1973||diary record|ploughed third time
-R/BK/1|1974|all sections|4-Oct-1973||diary record|autumn fertilizers applied
-R/BK/1|1974|all sections|5-Oct-1973||diary record|Castor meal applied
-R/BK/1|1974|all sections|9-Oct-1973||diary record|FYM applied
-R/BK/1|1974|all sections|10-Oct-1973||diary record|ploughed
-R/BK/1|1974|winter wheat|12-Sept-1973||diary record|'Weedazol' applied
-R/BK/1|1974|winter wheat|13-Oct-1973||diary record|disced
-R/BK/1|1974|winter wheat|18-Oct-1973||diary record|power harrowed and seed sown
-R/BK/1|1974|winter wheat|22-Oct-1973||diary record|'Prebane' applied
-R/BK/1|1974|winter wheat|11-Apr-1974||diary record|N applied
-R/BK/1|1974|winter wheat|18-Apr-1974||diary record|'Banlene Plus' applied
-R/BK/1|1974|winter wheat|29-Aug-1974||diary record|combine harvested
-R/BK/1|1974|potatoes|11-Apr-1974||diary record|spring-tine cultivated
-R/BK/1|1974|potatoes|16-Apr-1974||diary record|N applied
-R/BK/1|1974|potatoes|17-Apr-1974||diary record|rotary cultivated and potatoes machine planted
-R/BK/1|1974|potatoes|17-May-1974||diary record|Linuron plus paraquat applied
-R/BK/1|1974|potatoes|19-June-1974||diary record|grubbed
-R/BK/1|1974|potatoes|22-June-1974||diary record|rotary ridged plots 01, 21, 22
-R/BK/1|1974|potatoes|24-June-1974||diary record|rotary ridged plots 6 - 9 and 13 - 19
-R/BK/1|1974|potatoes|10-July-1974||diary record|rotary ridged plots 3, 5, 10, 11, 122
-R/BK/1|1974|potatoes|11-July-1974||diary record|insecticide with Fungicide applied
-R/BK/1|1974|potatoes|2-Aug-1974||diary record|Fungicide applied
-R/BK/1|1974|potatoes|10-Sept-1974||diary record|Haulm mechanically destroyed
-R/BK/1|1974|potatoes|16-Sept-1974||diary record|sprayed with undiluted BOV at 220 1
-R/BK/1|1974|potatoes|10-Oct-1974|14-Oct-1974|diary record|lifted
-R/BK/1|1974|spring beans|27-Sept-1973||diary record|spring-tine cultivated
-R/BK/1|1974|spring beans|8-Mar-1974||diary record|N applied
-R/BK/1|1974|spring beans|9-Mar-1974||diary record|spring-tine cultivated
-R/BK/1|1974|spring beans|27-Mar-1974||diary record|power harrowed, seed sown and spring-tine cultivated
-R/BK/1|1974|spring beans|13-June-1974||diary record|insecticide applied
-R/BK/1|1974|spring beans|26-Sept-1974||diary record|combine harvested
-R/BK/1|1974|fallow section|11-Apr-1974||diary record|spring-tine cultivated
-R/BK/1|1974|fallow section|9-July-1974||diary record|spring-tine cultivated
-R/BK/1|1974|fallow section|8-Aug-1974||diary record|spring-tine cultivated
-R/BK/1|1974|fallow section|7-May-1974||diary record|ploughed
-R/BK/1|1974|fallow section|22-July-1974||diary record|ploughed
-R/BK/1|1975|all sections|21-Oct-1974||diary record|superphosphate applied
-R/BK/1|1975|all sections|24-Oct-1974||diary record|fertilisers and castor meal applied
-R/BK/1|1975|all sections|25-Oct-1974||diary record|ploughed plots 3-20
-R/BK/1|1975|all sections|4-Nov-1974||diary record|FYM applied
-R/BK/1|1975|all sections|5-Nov-1974||diary record|Ploughed plots 01, 21, 22
-R/BK/1|1975|winter wheat|6-Nov-1974||diary record|rotary harrowed
-R/BK/1|1975|winter wheat|7-Nov-1974||diary record|seed sown 
-R/BK/1|1975|winter wheat|22-Apr-1975||diary record|N applied
-R/BK/1|1975|winter wheat|9-May-1975||diary record|weedkiller applied
-R/BK/1|1975|winter wheat|13-Aug-1975||diary record|combine harvested
-R/BK/1|1975|potatoes|01-May-1975||diary record|spring-tine cultivated
-R/BK/1|1975|potatoes|05-May-1975||diary record|N applied
-R/BK/1|1975|potatoes|7-May-1975||diary record|Spike rotary cultivated, planted
-R/BK/1|1975|potatoes|12-May-1975||diary record|grubbed
-R/BK/1|1975|potatoes|4-June-1975||diary record|Linuron plus paraquat applied
-R/BK/1|1975|potatoes|27-June-1975||diary record|insecticide applied and grubbed
-R/BK/1|1975|potatoes|18-July-1975||diary record|rotary cultivated
-R/BK/1|1975|potatoes|21-July-1975||diary record|insecticide with fungicide applied
-R/BK/1|1975|potatoes|16-Sept-1975||diary record|Haulm mechanically destroyed plot 014 only
-R/BK/1|1975|potatoes|19-Sept-1975||diary record|Haulm mechanically destroyed remaining plots
-R/BK/1|1975|potatoes|19-Sept-1975||diary record|lifted
-R/BK/1|1975|spring beans|4-Mar-1975||diary record|N applied
-R/BK/1|1975|spring beans|25-Mar-1975||diary record|rotary cultivated, seed sown and spring-tine cultivated
-R/BK/1|1975|spring beans|21-May-1975||diary record|tractor hoed
-R/BK/1|1975|spring beans|24-June-1975||diary record|tractor hoed
-R/BK/1|1975|spring beans|9-July-1975||diary record|insecticide applied
-R/BK/1|1975|spring beans|29-Aug-1975||diary record|combine harvested
-R/BK/1|1975|fallow section|1-May-1975||diary record|spring-tine cultivated
-R/BK/1|1975|fallow section|16-May-1975||diary record|ploughed
-R/BK/1|1975|fallow section|27-May-1975||diary record|spring-tine cultivated
-R/BK/1|1975|fallow section|15-July-1975||diary record|ploughed
-R/BK/1|1976|all sections|30-Sept-1975||diary record|autumn fertilizers and castor meal applied
-R/BK/1|1976|all sections|9-Oct-1975||diary record|FYM applied
-R/BK/1|1976|all sections|11-Oct-1975||diary record|ploughed
-R/BK/1|1976|winter wheat|24-Sept-1975||diary record|glyphosate applied
-R/BK/1|1976|winter wheat|29-Sept-1975||diary record|Chalk applied
-R/BK/1|1976|winter wheat|14-Oct-1975||diary record|rotary harrowed sections 5, 6, 7, 8 and 9
-R/BK/1|1976|winter wheat|14-Oct-1975||diary record|spring-tine cultivated and rotary harrowed twice sections 0, 1
-R/BK/1|1976|winter wheat|16-Oct-1975||diary record|seed sown
-R/BK/1|1976|winter wheat|18-Oct-1975||diary record|'Prebane' applied
-R/BK/1|1976|winter wheat|31-Mar-1976||diary record|N applied
-R/BK/1|1976|winter wheat|8-Apr-1976||diary record|Dimethoate applied
-R/BK/1|1976|winter wheat|29-Apr-1976||diary record|'Banlene Plus' applied
-R/BK/1|1976|winter wheat|24-June-1976||diary record|Pirimicarb applied
-R/BK/1|1976|winter wheat|30-July-1976||diary record|combine harvested
-R/BK/1|1976|potatoes|29-Sept-1975||diary record|Chalk applied
-R/BK/1|1976|potatoes|9-Dec-1975||diary record|Deep-tine cultivated
-R/BK/1|1976|potatoes|22-Mar-1976||diary record|spring-tine cultivated
-R/BK/1|1976|potatoes|25-Mar-1976||diary record|N applied
-R/BK/1|1976|potatoes|20-Mar-1976||diary record|rotary cultivated and potatoes machine planted
-R/BK/1|1976|potatoes|30-Mar-1976||diary record|grubbed
-R/BK/1|1976|potatoes|5-May-1976||diary record|weedkiller applied
-R/BK/1|1976|potatoes|17-June-1976||diary record|insecticide applied
-R/BK/1|1976|potatoes|21-June-1976||diary record|grubbed and rotary ridged
-R/BK/1|1976|potatoes|28-July-1976||diary record|Fungicide applied
-R/BK/1|1976|potatoes|13-Sept-1976||diary record|Haulm mechanically destroyed
-R/BK/1|1976|potatoes|24-Sept-1976||diary record|lifted
-R/BK/1|1976|spring beans|9-Dec-1975||diary record|Deep-tine cultivated
-R/BK/1|1976|spring beans|27-Feb-1976||diary record|N applied
-R/BK/1|1976|spring beans|3-Mar-1976||diary record|Heavy spring-tine cultivated
-R/BK/1|1976|spring beans|4-Mar-1976||diary record|seed sown
-R/BK/1|1976|spring beans|27-Apr-1976||diary record|Tractor hoed
-R/BK/1|1976|spring beans|25-May-1976||diary record|Tractor hoed
-R/BK/1|1976|spring beans|20-July-1976||diary record|combine harvested
-R/BK/1|1976|fallow section|20-Sept-1975||diary record|Chalk applied
-R/BK/1|1976|fallow section|9-Dec-1975||diary record|Deep-tine cultivated
-R/BK/1|1976|fallow section|22-Mar-1976||diary record|spring-tine cultivated
-R/BK/1|1976|fallow section|20-July-1976||diary record|spring-tine cultivated
-R/BK/1|1976|fallow section|20-Apr-1976||diary record|Heavy spring-tine cultivated
-R/BK/1|1976|fallow section|11-June-1976||diary record|Heavy spring-tine cultivated
-R/BK/1|1976|fallow section|2-June-1976||diary record|ploughed
-R/BK/1|1976|fallow section|8-July-1976||diary record|ploughed
-R/BK/1|1977|all sections|5-Oct-1976||diary record|Superphosphate, sulphate of potash applied
-R/BK/1|1977|all sections|8-Oct-1976||diary record|Sulphate of soda, kieserite, castor meal applied
-R/BK/1|1977|all sections|11-Oct-1976||diary record|FYM applied
-R/BK/1|1977|all sections|11-Oct-1976|13-Oct-1976|diary record|ploughed
-R/BK/1|1977|winter wheat|6-Aug-1976||diary record|Diquat applied
-R/BK/1|1977|winter wheat|6-Sept-1976||diary record|glyphosate applied
-R/BK/1|1977|winter wheat|7-Sept-1976||diary record|Chalk applied
-R/BK/1|1977|winter wheat|3-Nov-1976||diary record|sections 8 and 9 rotary harrowed
-R/BK/1|1977|winter wheat|4-Nov-1976||diary record|sections 0 and 1 rotary harrowed
-R/BK/1|1977|winter wheat|4-Nov-1976||diary record|sections 3, 4 and 5 heavy spring-tine cultivated
-R/BK/1|1977|winter wheat|22-Nov-1976||diary record|sections 3, 4 and 5 rotary harrowed
-R/BK/1|1977|winter wheat|24-Nov-1976||diary record|seed sown, spring-tine cultivated
-R/BK/1|1977|winter wheat|18-Apr-1977||diary record|N applied
-R/BK/1|1977|winter wheat|10-May-1977||diary record|spring weedkiller applied to sections 3, 4, 5 and 9
-R/BK/1|1977|winter wheat|23-May-1977||diary record|spring weedkiller applied to sections 0 and 1
-R/BK/1|1977|winter wheat|12-July-1977||diary record|insecticide applied
-R/BK/1|1977|winter wheat|8-Sept-1977||diary record|combine harvested
-R/BK/1|1977|potatoes|6-Sept-1976||diary record|Chalk applied
-R/BK/1|1977|potatoes|18-Apr-1977||diary record|spring-tine cultivated and N applied
-R/BK/1|1977|potatoes|19-Apr-1977||diary record|spike rotary cultivated and potatoes machine planted
-R/BK/1|1977|potatoes|21-Apr-1977||diary record|grubbed
-R/BK/1|1977|potatoes|21-June-1977||diary record|grubbed
-R/BK/1|1977|potatoes|23-May-1977||diary record|weedkiller applied
-R/BK/1|1977|potatoes|22-June-1977||diary record|FYM plots rotary ridged
-R/BK/1|1977|potatoes|23-June-1977||diary record|Fungicide applied
-R/BK/1|1977|potatoes|5-July-1977||diary record|Fungicide applied
-R/BK/1|1977|potatoes|30-June-1977||diary record|remaining plots grubbed and rotary ridged
-R/BK/1|1977|potatoes|26-July-1977||diary record|Fungicide with insecticide applied
-R/BK/1|1977|potatoes|10-Aug-1977||diary record|Fungicide with insecticide applied
-R/BK/1|1977|potatoes|14-Sept-1977||diary record|lifted
-R/BK/1|1977|spring beans|7-Mar-1977||diary record|N applied
-R/BK/1|1977|spring beans|9-Mar-1977||diary record|rotary harrowed
-R/BK/1|1977|spring beans|10-Mar-1977||diary record|seed sown
-R/BK/1|1977|spring beans|18-May-1977||diary record|Tractor hoed
-R/BK/1|1977|spring beans|19-July-1977||diary record|insecticide applied
-R/BK/1|1977|spring beans|15-Sept-1977||diary record|combine harvested
-R/BK/1|1977|fallow section|6-Sept-1976||diary record|Chalk applied
-R/BK/1|1977|fallow section|29-Apr-1977||diary record|spring-tine cultivated
-R/BK/1|1977|fallow section|11-Aug-1977||diary record|spring-tine cultivated
-R/BK/1|1977|fallow section|25-May-1977||diary record|ploughed
-R/BK/1|1977|fallow section|20-July-1977||diary record|ploughed
-R/BK/1|1978|all sections|22-Sept-1977||diary record|Superphosphate, sulphate of soda, kieserite, and castor meal applied
-R/BK/1|1978|all sections|23-Sept-1977||diary record|Sulphate of potash applied
-R/BK/1|1978|all sections|28-Sept-1977||diary record|subsoiled, tines 160 cm apart and 38 cm deep
-R/BK/1|1978|all sections|4-Oct-1977||diary record|FYM applied
-R/BK/1|1978|all sections|6-Oct-1977||diary record|ploughed
-R/BK/1|1978|winter wheat|19-Sept-1977||diary record|Chalk applied
-R/BK/1|1978|winter wheat|17-Oct-1977||diary record|rotary harrowed
-R/BK/1|1978|winter wheat|19-Oct-1977||diary record|seed sown
-R/BK/1|1978|winter wheat|24-Oct-1977||diary record|Terbutryne applied
-R/BK/1|1978|winter wheat|30-Mar-1978||diary record|section 6 insecticide applied
-R/BK/1|1978|winter wheat|8-May-1978||diary record|N and 'Banlene Plus' applied
-R/BK/1|1978|winter wheat|29-Aug-1978||diary record|sections 0, 1, 2, 3, 8 and 9, combine harvested
-R/BK/1|1978|winter wheat|30-Aug-1978||diary record|section 6 combine harvested
-R/BK/1|1978|potatoes|20-Sept-1977||diary record|Chalk applied
-R/BK/1|1978|potatoes|31-Mar-1978||diary record|Heavy spring-tine cultivated
-R/BK/1|1978|potatoes|25-Apr-1978||diary record|N applied
-R/BK/1|1978|potatoes|8-May-1978||diary record|paraquat applied
-R/BK/1|1978|potatoes|3-May-1978||diary record|spike rotary cultivated, planted
-R/BK/1|1978|potatoes|15-May-1978||diary record|Linuron applied
-R/BK/1|1978|potatoes|26-June-1978||diary record|grubbed and rotary ridged
-R/BK/1|1978|potatoes|5-July-1978||diary record|mancozeb applied
-R/BK/1|1978|potatoes|18-July-1978||diary record|mancozeb and pirimicarb applied twice
-R/BK/1|1978|potatoes|4-Aug-1978||diary record|mancozeb and pirimicarb applied twice
-R/BK/1|1978|potatoes|17-Aug-1978||diary record|'Fennite A' applied
-R/BK/1|1978|potatoes|7-Sept-1978||diary record|Haulm pulverized
-R/BK/1|1978|potatoes|27-Sept-1978||diary record|lifted
-R/BK/1|1978|spring beans|9-Mar-1978||diary record|spring-tine cultivated
-R/BK/1|1978|spring beans|10-Mar-1978||diary record|N applied, rotary harrowed, seed sown
-R/BK/1|1978|spring beans|19-May-1978||diary record|Tractor hoed twice
-R/BK/1|1978|spring beans|8-June-1978||diary record|Tractor hoed twice
-R/BK/1|1978|spring beans|7-July-1978||diary record|pirimicarb applied
-R/BK/1|1978|spring beans|19-Sept-1978||diary record|Haulm desiccant applied
-R/BK/1|1978|spring beans|22-Sept-1978||diary record|combine harvested
-R/BK/1|1978|fallow section|20-Sept-1977||diary record|Chalk applied
-R/BK/1|1978|fallow section|31-Mar-1978||diary record|Heavy spring-tine cultivated
-R/BK/1|1978|fallow section|8-May-1978||diary record|paraquat applied
-R/BK/1|1978|fallow section|24-May-1978||diary record|ploughed twice
-R/BK/1|1978|fallow section|6-July-1978||diary record|ploughed twice
-R/BK/1|1978|fallow section|15-June-1978||diary record|Heavy spring-tine cultivated
-R/BK/1|1978|fallow section|12-July-1978||diary record|spring-tine cultivated
-R/BK/1|1979|all sections|2-Oct-1978||diary record|Sulphate of potash, sulphate of soda, kieserite and castor meal applied
-R/BK/1|1979|all sections|3-Oct-1978||diary record|Superphosphate applied
-R/BK/1|1979|all sections|4-Oct-1978||diary record|FYM applied
-R/BK/1|1979|all sections|5-Oct-1978||diary record|ploughed
-R/BK/1|1979|wheat|22-Sept-1978||diary record|glyphosate applied
-R/BK/1|1979|wheat|3-Oct-1978||diary record|Chalk applied
-R/BK/1|1979|wheat|9-Oct-1978||diary record|disced harrowed and rotary harrowed
-R/BK/1|1979|wheat|10-Oct-1978||diary record|seed sown
-R/BK/1|1979|wheat|12-Oct-1978||diary record|Chlortoluron applied
-R/BK/1|1979|wheat|3-May-1979||diary record|N applied
-R/BK/1|1979|wheat|9-May-1979||diary record|'Banlene Plus' applied
-R/BK/1|1979|wheat|27-June-1979||diary record|triadimenol applied
-R/BK/1|1979|wheat|28-Aug-1979||diary record|combine harvested
-R/BK/1|1979|potatoes|01-May-1979||diary record|spring-tine cultivated
-R/BK/1|1979|potatoes|14-May-1979||diary record|N applied, spike rotary cultivated, potatoes planted
-R/BK/1|1979|potatoes|18-May-1979||diary record|grubbed twice
-R/BK/1|1979|potatoes|3-July-1979||diary record|grubbed twice
-R/BK/1|1979|potatoes|30-May-1979||diary record|weedkiller applied
-R/BK/1|1979|potatoes|26-June-1979||diary record|insecticide and Fungicide applied
-R/BK/1|1979|potatoes|5-July-1979||diary record|insecticide and Fungicide applied
-R/BK/1|1979|potatoes|20-July-1979||diary record|insecticide and Fungicide applied
-R/BK/1|1979|potatoes|3-Aug-1979||diary record|Fungicide applied
-R/BK/1|1979|potatoes|15-Aug-1979||diary record|Fungicide applied
-R/BK/1|1979|potatoes|4-Sept-1979||diary record|Haulm pulverized
-R/BK/1|1979|potatoes|14-Sept-1979||diary record|lifted
-R/BK/1|1979|fallow section|3-Oct-1979||diary record|Chalk applied
-R/BK/1|1979|fallow section|1-May-1979||diary record|spring-tine cultivated
-R/BK/1|1979|fallow section|23-May-1979||diary record|ploughed twice
-R/BK/1|1979|fallow section|10-July-1979||diary record|ploughed twice
-R/BK/1|1979|fallow section|14-June-1979||diary record|Heavy spring-tine cultivated twice
-R/BK/1|1979|fallow section|31-July-1979||diary record|Heavy spring-tine cultivated twice
-R/BK/1|1980|all sections|19-Sept-1979||diary record|Chalk applied
-R/BK/1|1980|all sections|24-Sept-1979||diary record|Sulphate of potash, sulphate of soda, and kieserite applied
-R/BK/1|1980|all sections|25-Sept-1979||diary record|Castor meal and superphosphate applied
-R/BK/1|1980|all sections|26-Sept-1979||diary record|FYM applied
-R/BK/1|1980|all sections|27-Sept-1979||diary record|ploughed
-R/BK/1|1980|winter wheat|1-Oct-1979||diary record|rotary harrowed
-R/BK/1|1980|winter wheat|2-Oct-1979||diary record|sections 1 and 2 rotary harrowed again
-R/BK/1|1980|winter wheat|4-Oct-1979||diary record|seed sown
-R/BK/1|1980|winter wheat|8-Oct-1979||diary record|chlortoluron applied
-R/BK/1|1980|winter wheat|29-Feb-1980||diary record|'Folimat' applied (section 3 only)
-R/BK/1|1980|winter wheat|10-Apr-1980||diary record|N and 'Banlene Plus' applied
-R/BK/1|1980|winter wheat|3-June-1980||diary record|Fungicide applied
-R/BK/1|1980|winter wheat|23-June-1980||diary record|demeton-s-methyl applied
-R/BK/1|1980|winter wheat|21-Aug-1980||diary record|combine harvested
-R/BK/1|1980|potatoes|25-Jan-1980||diary record|Chisel ploughed
-R/BK/1|1980|potatoes|17-Apr-1980||diary record|spring-tine cultivated, N applied
-R/BK/1|1980|potatoes|18-Apr-1980||diary record|spiked rotary cultivated; potatoes planted
-R/BK/1|1980|potatoes|25-Apr-1980||diary record|grubbed
-R/BK/1|1980|potatoes|2-May-1980||diary record|rotary ridged
-R/BK/1|1980|potatoes|19-May-1980||diary record|weedkiller applied
-R/BK/1|1980|potatoes|18-June-1980||diary record|Fungicide applied with pirimicarb
-R/BK/1|1980|potatoes|30-June-1980||diary record|Fungicide applied with pirimicarb
-R/BK/1|1980|potatoes|11-July-1980||diary record|Fungicide applied with pirimicarb
-R/BK/1|1980|potatoes|24-July-1980||diary record|Fungicide applied with pirimicarb
-R/BK/1|1980|potatoes|5-Aug-1980||diary record|Fungicide applied with pirimicarb
-R/BK/1|1980|potatoes|18-Aug-1980||diary record|Fungicide applied alone
-R/BK/1|1980|potatoes|28-Aug-1980||diary record|Haulm mechanically destroyed
-R/BK/1|1980|potatoes|4-Sept-1980||diary record|lifted
-R/BK/1|1980|fallow|1-Feb-1980||diary record|Chisel ploughed
-R/BK/1|1980|fallow|21-Apr-1980||diary record|Heavy spring-tine cultivated
-R/BK/1|1980|fallow|12-May-1980||diary record|ploughed twice
-R/BK/1|1980|fallow|17-June-1980||diary record|ploughed twice
-R/BK/1|1980|fallow|23-May-1980||diary record|spring-tine cultivated twice
-R/BK/1|1980|fallow|19-June-1980||diary record|spring-tine cultivated twice
-R/BK/1|1980|fallow|1-Aug-1980||diary record|rotary harrowed
-R/BK/1|1981|all sections|8-Sept-1980||diary record|Superphosphate, sulphate of potash, sulphate of soda, kieserite, and castor meal applied
-R/BK/1|1981|all sections|10-Sept-1980||diary record|FYM applied
-R/BK/1|1981|all sections|11-Sept-1980||diary record|ploughed
-R/BK/1|1981|all sections|15-Sept-1980||diary record|rolled
-R/BK/1|1981|winter wheat|2-Sept-1980||diary record|glyphosate applied
-R/BK/1|1981|winter wheat|30-Sept-1980||diary record|rotary harrowed
-R/BK/1|1981|winter wheat|1-Oct-1980||diary record|seed sown
-R/BK/1|1981|winter wheat|3-Oct-1980||diary record|chlortoluron applied
-R/BK/1|1981|winter wheat|15-Apr-1981||diary record|N applied
-R/BK/1|1981|winter wheat|21-Apr-1981||diary record|'Brittox' applied
-R/BK/1|1981|winter wheat|5-May-1981||diary record|Prochloraz applied alone
-R/BK/1|1981|winter wheat|19-June-1981||diary record|Prochloraz, maneb, and zineb applied
-R/BK/1|1981|winter wheat|22-June-1981||diary record|Prochloraz, maneb, and zineb applied
-R/BK/1|1981|winter wheat|19-Aug-1981||diary record|combine harvested
-R/BK/1|1981|potatoes|16-Jan-1981||diary record|Chisel ploughed
-R/BK/1|1981|potatoes|16-Apr-1981||diary record|spring-tine cultivated
-R/BK/1|1981|potatoes|17-Apr-1981||diary record|N applied
-R/BK/1|1981|potatoes|13-May-1981||diary record|spike rotary cultivated, potatoes planted
-R/BK/1|1981|potatoes|1-June-1981||diary record|weedkiller applied
-R/BK/1|1981|potatoes|23-June-1981||diary record|Fungicide applied with pirimicarb
-R/BK/1|1981|potatoes|1-July-1981||diary record|Fungicide applied with pirimicarb
-R/BK/1|1981|potatoes|13-July-1981||diary record|Fungicide applied with pirimicarb
-R/BK/1|1981|potatoes|27-July-1981||diary record|Fungicide applied with pirimicarb
-R/BK/1|1981|potatoes|11-Aug-1981||diary record|Fungicide applied with pirimicarb
-R/BK/1|1981|potatoes|9-July-1981||diary record|ridged
-R/BK/1|1981|potatoes|24-Aug-1981||diary record|Haulm mechanically destroyed
-R/BK/1|1981|potatoes|25-Aug-1981||diary record|desiccant applied
-R/BK/1|1981|potatoes|14-Sept-1981||diary record|lifted
-R/BK/1|1981|fallow|4-Sept-1980||diary record|Chalk applied
-R/BK/1|1981|fallow|6-Jan-1981||diary record|Chisel ploughed section 4 only
-R/BK/1|1981|fallow|16-Jan-1981||diary record|Chisel ploughed section 8 only
-R/BK/1|1981|fallow|16-Apr-1981||diary record|spring-tine cultivated
-R/BK/1|1981|fallow|30-June-1981||diary record|spring-tine cultivated
-R/BK/1|1981|fallow|20-July-1981||diary record|spring-tine cultivated
-R/BK/1|1981|fallow|11-Aug-1981||diary record|spring-tine cultivated
-R/BK/1|1981|fallow|15-May-1981||diary record|rotary harrowed
-R/BK/1|1981|fallow|16-June-1981||diary record|ploughed twice
-R/BK/1|1981|fallow|16-July-1981||diary record|ploughed twice
-R/BK/1|1981|fallow|19-June-1981||diary record|Heavy spring-tine cultivated
-R/BK/1|1982|all sections|21-Sept-1981||diary record|superphosphate, sulphate of potash, sulphate of soda, kieserite, and castor meal applied
-R/BK/1|1982|all sections|25-Sept-1981||diary record|FYM applied
-R/BK/1|1982|all sections|28-Sept-1981||diary record|ploughed
-R/BK/1|1982|all sections|14-Oct-1981||diary record|disced
-R/BK/1|1982|w wheat|14-Oct-1981||diary record|rotary harrowed
-R/BK/1|1982|w wheat|16-Oct-1981||diary record|seed sown
-R/BK/1|1982|w wheat|17-Oct-1981||diary record|chlortoluron applied
-R/BK/1|1982|w wheat|15-Apr-1982||diary record|N applied
-R/BK/1|1982|w wheat|16-Apr-1982||diary record|mecoprop, bromoxynil and ioxynil applied
-R/BK/1|1982|w wheat|26-May-1982||diary record|propiconazole applied
-R/BK/1|1982|w wheat|17-June-1982||diary record|propiconazole with insecticide applied
-R/BK/1|1982|w wheat|10-Aug-1982||diary record|glyphosate applied
-R/BK/1|1982|w wheat|20-Aug-1982||diary record|combine harvested
-R/BK/1|1982|potatoes|16-Apr-1982||diary record|spring-tine cultivated
-R/BK/1|1982|potatoes|17-Apr-1982||diary record|N applied
-R/BK/1|1982|potatoes|20-Apr-1982||diary record|spike rotary cultivated, potatoes planted
-R/BK/1|1982|potatoes|10-May-1982||diary record|rotary ridged
-R/BK/1|1982|potatoes|17-May-1982||diary record|weedkiller applied
-R/BK/1|1982|potatoes|14-June-1982||diary record|mancozeb with the insecticide applied
-R/BK/1|1982|potatoes|30-June-1982||diary record|mancozeb with the insecticide applied
-R/BK/1|1982|potatoes|12-July-1982||diary record|mancozeb applied
-R/BK/1|1982|potatoes|26-July-1982||diary record|Ofurace and maneb with the insecticide applied
-R/BK/1|1982|potatoes|9-Aug-1982||diary record|Ofurace and maneb applied
-R/BK/1|1982|potatoes|21-Aug-1982||diary record|Haulm mechanically destroyed
-R/BK/1|1982|potatoes|24-Aug-1982||diary record|desiccant applied
-R/BK/1|1982|potatoes|13-Sept-1982||diary record|lifted
-R/BK/1|1982|fallow|11-Sept-1981||diary record|Chalk applied
-R/BK/1|1982|fallow|16-Apr-1982||diary record|spring-tine cultivated
-R/BK/1|1982|fallow|4-May-1982||diary record|ploughed
-R/BK/1|1982|fallow|12-May-1982||diary record|rolled, spring-tine cultivated
-R/BK/1|1982|fallow|21-June-1982||diary record|ploughed
-R/BK/1|1982|fallow|30-June-1982||diary record|spring-tine cultivated
-R/BK/1|1982|fallow|28-July-1982||diary record|rotary harrowed
-R/BK/1|1983|all sections|16-Sept-1982||diary record|Superphosphate, sulphate of potash, sulphate of soda, kieserite and castor meal applied
-R/BK/1|1983|all sections|20-Sept-1982||diary record|FYM applied, ploughed
-R/BK/1|1983|all sections|28-Oct-1982||diary record|spring-tine cultivated
-R/BK/1|1983|winter wheat|2-Sept-1982||diary record|Chalk to sections 6, 8 and 9
-R/BK/1|1983|winter wheat|16-Sept-1982||diary record|autumn N applied to plot 18
-R/BK/1|1983|winter wheat|4-Nov-1982||diary record|rotary harrowed, seed sown
-R/BK/1|1983|winter wheat|15-Apr-1983||diary record|spring N applied
-R/BK/1|1983|winter wheat|16-Apr-1983||diary record|weedkiller applied
-R/BK/1|1983|winter wheat|26-May-1983||diary record|propiconazole applied
-R/BK/1|1983|winter wheat|30-June-1983||diary record|propiconazole applied
-R/BK/1|1983|winter wheat|10-Aug-1983||diary record|combine harvested
-R/BK/1|1983|potatoes|10-Feb-1983||diary record|Chisel ploughed
-R/BK/1|1983|potatoes|5-May-1983||diary record|N applied, heavy spring-tine cultivated
-R/BK/1|1983|potatoes|10-May-1983||diary record|rotary harrowed, potatoes planted
-R/BK/1|1983|potatoes|26-May-1983||diary record|rotary ridged
-R/BK/1|1983|potatoes|3-June-1983||diary record|weedkiller applied
-R/BK/1|1983|potatoes|22-June-1983||diary record|mancozeb applied
-R/BK/1|1983|potatoes|1-July-1983||diary record|Fentin hydroxide with the insecticide applied
-R/BK/1|1983|potatoes|8-July-1983||diary record|Fentin hydroxide with the insecticide applied
-R/BK/1|1983|potatoes|18-July-1983||diary record|Fentin hydroxide with the insecticide applied
-R/BK/1|1983|potatoes|28-July-1983||diary record|Fentin hydroxide with the insecticide applied
-R/BK/1|1983|potatoes|11-Aug-1983||diary record|Fentin hydroxide applied
-R/BK/1|1983|potatoes|30-Aug-1983||diary record|Haulm mechanically destroyed
-R/BK/1|1983|potatoes|1-Sept-1983||diary record|lifted
-R/BK/1|1983|fallow|2-Sept-1982||diary record|Chalk applied
-R/BK/1|1983|fallow|10-Feb-1983||diary record|Chisel ploughed
-R/BK/1|1983|fallow|27-May-1983||diary record|Heavy spring-tine cultivated
-R/BK/1|1983|fallow|17-June-1983||diary record|ploughed
-R/BK/1|1983|fallow|23-June-1983||diary record|spring-tine cultivated
-R/BK/1|1983|fallow|13-July-1983||diary record|ploughed
-R/BK/1|1983|fallow|21-July-1983||diary record|spring-tine cultivated
-R/BK/1|1984|all sections|6-Sept-1983||diary record|Sulphate of potash, sulphate of soda, kieserite and castor meal applied
-R/BK/1|1984|all sections|7-Sept-1983||diary record|Superphosphate applied
-R/BK/1|1984|all sections|8-Sept-1983||diary record|FYM applied
-R/BK/1|1984|all sections|9-Sept-1983||diary record|ploughed
-R/BK/1|1984|all sections|4-Oct-1983||diary record|spring-tine cultivated
-R/BK/1|1984|winter wheat|31-Aug-1983||diary record|Chalk to sections 0 and 5
-R/BK/1|1984|winter wheat|7-Sept-1983||diary record|autumn N applied
-R/BK/1|1984|winter wheat|6-Oct-1983||diary record|rotary harrowed, seed sown
-R/BK/1|1984|winter wheat|1-Dec-1983||diary record|chlortoluron applied (except section 8)
-R/BK/1|1984|winter wheat|10-Apr-1984||diary record|Cyanazine and mecoprop applied (except section 8)
-R/BK/1|1984|winter wheat|13-Apr-1984||diary record|spring N applied
-R/BK/1|1984|winter wheat|11-June-1984||diary record|Fungicide applied
-R/BK/1|1984|winter wheat|28-June-1984||diary record|insecticide applied
-R/BK/1|1984|winter wheat|14-Aug-1984||diary record|combine harvested
-R/BK/1|1984|potatoes|13-Dec-1983||diary record|Chisel ploughed
-R/BK/1|1984|potatoes|3-Apr-1984||diary record|N applied
-R/BK/1|1984|potatoes|4-Apr-1984||diary record|rotary harrowed, potatoes planted
-R/BK/1|1984|potatoes|10-Apr-1984||diary record|rotary ridged
-R/BK/1|1984|potatoes|3-May-1984||diary record|weedkiller applied
-R/BK/1|1984|potatoes|19-June-1984||diary record|Fentin hydroxide with the insecticide applied
-R/BK/1|1984|potatoes|16-July-1984||diary record|Fentin hydroxide with the insecticide applied
-R/BK/1|1984|potatoes|3-July-1984||diary record|Fentin hydroxide applied
-R/BK/1|1984|potatoes|30-July-1984||diary record|Fentin hydroxide applied
-R/BK/1|1984|potatoes|13-Aug-1984||diary record|Fentin hydroxide applied
-R/BK/1|1984|potatoes|28-Aug-1984||diary record|Fentin hydroxide applied
-R/BK/1|1984|potatoes|3-Sept-1984||diary record|Haulm mechanically destroyed
-R/BK/1|1984|potatoes|4-Sept-1984||diary record|lifted
-R/BK/1|1984|fallow|31-Aug-1983||diary record|Chalk applied
-R/BK/1|1984|fallow|13-Dec-1983||diary record|Chisel ploughed
-R/BK/1|1984|fallow|1-May-1984||diary record|ploughed
-R/BK/1|1984|fallow|8-May-1984||diary record|Heavy spring-tine cultivated
-R/BK/1|1984|fallow|18-June-1984||diary record|ploughed
-R/BK/1|1984|fallow|25-June-1984||diary record|spring-tine cultivated
-R/BK/1|1984|fallow|23-July-1984||diary record|rotary cultivated
-R/BK/1|1985|all sections|18-Sept-1984||diary record|Sulphate of soda, kieserite and castor meal applied
-R/BK/1|1985|all sections|28-Sept-1984||diary record|Sulphate of potash, superphosphate applied
-R/BK/1|1985|all sections|1-Oct-1984||diary record|FYM applied, ploughed
-R/BK/1|1985|all sections|16-Oct-1984||diary record|spring-tine cultivated
-R/BK/1|1985|w wheat|8-Sept-1984||diary record|Chalk to sections 1, 2 and 3
-R/BK/1|1985|w wheat|28-Sept-1984||diary record|autumn N treatment applied
-R/BK/1|1985|w wheat|31-Oct-1984||diary record|rotary harrowed, seed sown
-R/BK/1|1985|w wheat|10-Apr-1985||diary record|weedkiller applied (except section 8)
-R/BK/1|1985|w wheat|18-Apr-1985||diary record|spring N treatments applied
-R/BK/1|1985|w wheat|19-Apr-1985||diary record|Prochloraz, carbendazim and the growth regulator applied (except section 6)
-R/BK/1|1985|w wheat|14-June-1985||diary record|Fenpropimorph and captafol applied (except section 6)
-R/BK/1|1985|w wheat|2-July-1985||diary record|propiconazole and 'Septal' applied (except section 6)
-R/BK/1|1985|w wheat|17-July-1985||diary record|insecticide applied (except section 6)
-R/BK/1|1985|w wheat|6-Sept-1985||diary record|combine harvested
-R/BK/1|1985|potatoes|24-Apr-1985||diary record|planted
-R/BK/1|1985|potatoes|17-May-1985||diary record|weedkiller applied
-R/BK/1|1985|potatoes|20-June-1985||diary record|mancozeb applied
-R/BK/1|1985|potatoes|6-Aug-1985||diary record|mancozeb applied
-R/BK/1|1985|potatoes|3-July-1985||diary record|mancozeb with the insecticide applied
-R/BK/1|1985|potatoes|23-July-1985||diary record|mancozeb with the insecticide applied
-R/BK/1|1985|potatoes|21-Aug-1985||diary record|Fentin hydroxide applied
-R/BK/1|1985|potatoes|3-Sept-1985||diary record|Haulm mechanically destroyed
-R/BK/1|1985|potatoes|5-Sept-1985||diary record|Haulm desiccant applied
-R/BK/1|1985|potatoes|17-Sept-1985||diary record|lifted
-R/BK/1|1985|fallow|2-May-1985||diary record|ploughed
-R/BK/1|1985|fallow|15-July-1985||diary record|ploughed
-R/BK/1|1985|fallow|16-May-1985||diary record|spring-tine cultivated
-R/BK/1|1985|fallow|2-Aug-1985||diary record|spring-tine cultivated
-R/BK/1|1986|all sections|23-Sept-1985||diary record|Superphosphate, sulphate of potash, sulphate of soda and castor meal applied
-R/BK/1|1986|all sections|24-Sept-1985||diary record|Kieserite applied
-R/BK/1|1986|all sections|25-Sept-1985||diary record|FYM applied
-R/BK/1|1986|all sections|26-Sept-1985||diary record|ploughed
-R/BK/1|1986|all sections|30-Sept-1985||diary record|rotary harrowed
-R/BK/1|1986|w wheat|19-Sept-1985||diary record|Chalk to sections 6, 7, 8 and 9
-R/BK/1|1986|w wheat|23-Sept-1985||diary record|autumn N treatment applied
-R/BK/1|1986|w wheat|3-Oct-1985||diary record|rotary harrowed, seed sown
-R/BK/1|1986|w wheat|31-Oct-1985||diary record|insecticide applied (to section 4 only)
-R/BK/1|1986|w wheat|28-Apr-1986||diary record|weedkiller applied (except section 8)
-R/BK/1|1986|w wheat|1-May-1986||diary record|Prochloraz, carbendazim and the growth regulator applied (except section 6)
-R/BK/1|1986|w wheat|2-May-1986||diary record|spring N treatments applied
-R/BK/1|1986|w wheat|16-June-1986||diary record|Fenpropimorph and captafol applied (except section 6)
-R/BK/1|1986|w wheat|1-July-1986||diary record|propiconazole and Septal applied (except section 6)
-R/BK/1|1986|w wheat|2-Sept-1986||diary record|combine harvested
-R/BK/1|1986|potatoes|7-May-1986||diary record|planted
-R/BK/1|1986|potatoes|30-May-1986||diary record|weedkiller applied
-R/BK/1|1986|potatoes|30-June-1986||diary record|mancozeb applied
-R/BK/1|1986|potatoes|14-July-1986||diary record|mancozeb applied
-R/BK/1|1986|potatoes|28-July-1986||diary record|mancozeb with insecticide applied
-R/BK/1|1986|potatoes|12-Aug-1986||diary record|mancozeb with insecticide applied
-R/BK/1|1986|potatoes|29-Aug-1986||diary record|Haulm desiccant applied
-R/BK/1|1986|potatoes|15-Sept-1986||diary record|Haulm mechanically destroyed
-R/BK/1|1986|potatoes|16-Sept-1986||diary record|lifted
-R/BK/1|1986|fallow|13-May-1986||diary record|spring-tine cultivated
-R/BK/1|1986|fallow|6-June-1986||diary record|spring-tine cultivated
-R/BK/1|1986|fallow|19-June-1986||diary record|spring-tine cultivated
-R/BK/1|1986|fallow|28-July-1986||diary record|spring-tine cultivated
-R/BK/1|1986|fallow|4-July-1986||diary record|cultivated with thistle bar
-R/BK/1|1986|fallow|22-Aug-1986||diary record|cultivated with thistle bar
-R/BK/1|1987|all sections|19-Sept-1986||diary record|Kieserite, sulphate of soda and castor meal applied
-R/BK/1|1987|all sections|22-Sept-1986||diary record|Sulphate of potash applied
-R/BK/1|1987|all sections|6-Oct-1986||diary record|Superphosphate applied
-R/BK/1|1987|all sections|8-Oct-1986||diary record|FYM applied, ploughed, disced, rotary harrowed
-R/BK/1|1987|w wheat|5-Sept-1986||diary record|Straw chopped (section 0)
-R/BK/1|1987|w wheat|26-Sept-1986||diary record|Chalk applied (sections 0, 4 and 5)
-R/BK/1|1987|w wheat|10-Oct-1986||diary record|rotary harrowed, seed sown
-R/BK/1|1987|w wheat|17-Oct-1986||diary record|Methabenzthiazuron applied (except section 8)
-R/BK/1|1987|w wheat|14-Apr-1987||diary record|N treatments applied
-R/BK/1|1987|w wheat|15-Apr-1987||diary record|remaining weedkiller applied (except section 8)
-R/BK/1|1987|w wheat|6-May-1987||diary record|Prochloraz, carbendazim and the growth regulator applied (except section 6)
-R/BK/1|1987|w wheat|16-June-1987||diary record|Fenpropimorph and chiorothalonil applied (except section 6)
-R/BK/1|1987|w wheat|10-July-1987||diary record|propiconazole with carbendazim and maneb applied (except section 6)
-R/BK/1|1987|w wheat|8-Sept-1987||diary record|combine harvested
-R/BK/1|1987|potatoes|17-Feb-1987||diary record|Heavy spring-tine cultivated
-R/BK/1|1987|potatoes|14-Apr-1987||diary record|N treatments applied
-R/BK/1|1987|potatoes|16-Apr-1987||diary record|rotary harrowed, potatoes planted
-R/BK/1|1987|potatoes|27-Apr-1987||diary record|rotary ridged
-R/BK/1|1987|potatoes|30-Apr-1987||diary record|weedkiller applied
-R/BK/1|1987|potatoes|24-June-1987||diary record|mancozeb applied
-R/BK/1|1987|potatoes|8-July-1987||diary record|mancozeb applied
-R/BK/1|1987|potatoes|28-July-1987||diary record|mancozeb applied
-R/BK/1|1987|potatoes|10-Aug-1987||diary record|mancozeb applied
-R/BK/1|1987|potatoes|8-July-1987||diary record|pirimicarb applied
-R/BK/1|1987|potatoes|28-Aug-1987||diary record|Fentin hydroxide applied
-R/BK/1|1987|potatoes|4-Sept-1987||diary record|Haulm desiccant applied
-R/BK/1|1987|potatoes|23-Sept-1987||diary record|lifted
-R/BK/1|1987|fallow|17-Feb-1987||diary record|Heavy spring-tine cultivated
-R/BK/1|1987|fallow|27-Apr-1987||diary record|rotary harrowed
-R/BK/1|1987|fallow|28-Apr-1987||diary record|Deep-tine cultivated
-R/BK/1|1987|fallow|29-Apr-1987||diary record|spring-tine cultivated
-R/BK/1|1987|fallow|22-June-1987||diary record|glyphosate applied
-R/BK/1|1987|fallow|30-June-1987||diary record|Heavy spring-tine cultivated
-R/BK/1|1987|fallow|17-Aug-1987||diary record|glyphosate applied
-R/BK/1|1988|all sections|28-Sept-1987||diary record|Triple superphosphate, sulphate of potash, sulphate of soda, kieserite, castor meal and FYM applied
-R/BK/1|1988|all sections|30-Sept-1987||diary record|ploughed
-R/BK/1|1988|w wheat|9-Sept-1987||diary record|Straw chopped (section 0)
-R/BK/1|1988|w wheat|28-Sept-1987||diary record|autumn N treatment applied
-R/BK/1|1988|w wheat|5-Nov-1987||diary record|rotary harrowed, Brimstone seed sown
-R/BK/1|1988|w wheat|6-Nov-1987||diary record|rotary harrowed, Squareheads Master seed sown
-R/BK/1|1988|w wheat|8-Apr-1988||diary record|spring N treatments applied
-R/BK/1|1988|w wheat|26-Apr-1988||diary record|Fluroxypyr, clopyralid and bromoxynil applied
-R/BK/1|1988|w wheat|6-May-1988||diary record|Growth regulator with prochloraz and carbendazim applied (except to section 6), diclofop-methyl with fluroxypyr applied
-R/BK/1|1988|w wheat|6-June-1988||diary record|propiconazole with Tridemorph and pirimicarb applied (except to section 6)
-R/BK/1|1988|w wheat|23-June-1988||diary record|Carbendazim, maneb and propiconazole applied (except to section 6)
-R/BK/1|1988|w wheat|5-Sept-1988||diary record|combine harvested Brimstone (except section 9)
-R/BK/1|1988|w wheat|6-Sept-1988||diary record|combine harvested Brimstone (section 9) and Squareheads Master
-R/BK/1|1988|potatoes|7-Apr-1988||diary record|N treatments applied
-R/BK/1|1988|potatoes|8-Apr-1988||diary record|Heavy spring-tine cultivated, rotary harrowed, potatoes planted
-R/BK/1|1988|potatoes|25-Apr-1988||diary record|rotary ridged
-R/BK/1|1988|potatoes|5-May-1988||diary record|weedkiller applied
-R/BK/1|1988|potatoes|15-June-1988||diary record|mancozeb with pirimicarb applied
-R/BK/1|1988|potatoes|30-June-1988||diary record|mancozeb with pirimicarb applied
-R/BK/1|1988|potatoes|8-July-1988||diary record|Manganese zinc ethylene bisdithiocarbamate applied
-R/BK/1|1988|potatoes|18-July-1988||diary record|mancozeb applied
-R/BK/1|1988|potatoes|1-Aug-1988||diary record|mancozeb applied
-R/BK/1|1988|potatoes|15-Aug-1988||diary record|mancozeb applied
-R/BK/1|1988|potatoes|30-Aug-1988||diary record|Fentin hydroxide applied
-R/BK/1|1988|potatoes|5-Sept-1988||diary record|Haulm mechanically destroyed
-R/BK/1|1988|potatoes|15-Sept-1988||diary record|lifted
-R/BK/1|1988|fallow|29-Apr-1988||diary record|Heavy spring-tine cultivated
-R/BK/1|1988|fallow|13-May-1988||diary record|cultivated with rotary grubber
-R/BK/1|1988|fallow|13-June-1988||diary record|cultivated with rotary grubber
-R/BK/1|1988|fallow|15-July-1988||diary record|ploughed
-R/BK/1|1988|fallow|29-July-1988||diary record|disced and rolled
-R/BK/1|1988|fallow|1-Aug-1988||diary record|ploughed
-R/BK/1|1989|all sections|26-Sept-1988||diary record|P applied to plots 17 and 18
-R/BK/1|1989|all sections|7-Oct-1988||diary record|P applied to remaining plots
-R/BK/1|1989|all sections|5-Oct-1988||diary record|K, Na and Mg applied
-R/BK/1|1989|all sections|14-Oct-1988||diary record|FYM applied, ploughed
-R/BK/1|1989|all sections|24-Oct-1988||diary record|rotary harrowed
-R/BK/1|1989|w wheat|9-Sept-1988||diary record|Straw chopped (section 0)
-R/BK/1|1989|w wheat|20-Sept-1988||diary record|glyphosate applied (except to sections 2 and 8)
-R/BK/1|1989|w wheat|7-Oct-1988||diary record|autumn N treatments applied
-R/BK/1|1989|w wheat|11-Oct-1988||diary record|Chalk applied (sections 1 and 3)
-R/BK/1|1989|w wheat|26-Oct-1988||diary record|rotary harrowed, Brimstone seed sown
-R/BK/1|1989|w wheat|27-Oct-1988||diary record|rotary harrowed, Squareheads Master seed sown
-R/BK/1|1989|w wheat|15-Nov-1988||diary record|Isoproturon applied (except to section 8)
-R/BK/1|1989|w wheat|18-Apr-198||diary record|spring N treatments applied
-R/BK/1|1989|w wheat|19-Apr-198||diary record|Prochloraz and carbendazim with the growth regulator applied (except to section 6)
-R/BK/1|1989|w wheat|5-May-198||diary record|mecoprop, bromoxynil, ioxynil with isoproturon applied (except to section 8)
-R/BK/1|1989|w wheat|31-May-198||diary record|Fenpropimorph with chlorothalonil applied (except to section 6)
-R/BK/1|1989|w wheat|20-June-198||diary record|propiconazole with carbendazim and maneb applied (except to section 6)
-R/BK/1|1989|w wheat|7-Aug-198||diary record|combine harvested Brimstone
-R/BK/1|1989|w wheat|8-Aug-198||diary record|combine harvested Squareheads Master
-R/BK/1|1989|potatoes|28-Mar-1989||diary record|Deep-tine cultivated
-R/BK/1|1989|potatoes|18-Apr-1989||diary record|N treatments applied
-R/BK/1|1989|potatoes|24-Apr-1989||diary record|rotary harrowed, potatoes planted
-R/BK/1|1989|potatoes|25-May-1989||diary record|rotary ridged
-R/BK/1|1989|potatoes|31-May-1989||diary record|weedkiller applied
-R/BK/1|1989|potatoes|3-July-1989||diary record|mancozeb applied
-R/BK/1|1989|potatoes|17-July-1989||diary record|mancozeb applied
-R/BK/1|1989|potatoes|28-July-1989||diary record|mancozeb applied
-R/BK/1|1989|potatoes|14-Aug-1989||diary record|mancozeb applied
-R/BK/1|1989|potatoes|20-Aug-1989||diary record|Fentin hydroxide applied
-R/BK/1|1989|potatoes|5-Sept-1989||diary record|Haulm mechanically destroyed
-R/BK/1|1989|potatoes|12-Sept-1989||diary record|lifted
-R/BK/1|1989|fallow|20-Sept-1988||diary record|glyphosate applied
-R/BK/1|1989|fallow|9-May-1989||diary record|rotary cultivated
-R/BK/1|1989|fallow|19-June-1989||diary record|rotary cultivated
-R/BK/1|1989|fallow|12-July-1989||diary record|cultivated with thistle bar
-R/BK/1|1990|all sections|14-Sept-1989||diary record|K, Na and Mg applied
-R/BK/1|1990|all sections|15-Sept-1989||diary record|P applied
-R/BK/1|1990|all sections|27-Sept-1989||diary record|FYM applied
-R/BK/1|1990|all sections|28-Sept-1989||diary record|ploughed
-R/BK/1|1990|all sections|7-Oct-1989||diary record|spiked rotary cultivated
-R/BK/1|1990|all sections|9-Oct-1989||diary record|spiked rotary cultivated, rotary harrowed
-R/BK/1|1990|w wheat|16-Aug-1989||diary record|Straw chopped (section 0)
-R/BK/1|1990|w wheat|29-Aug-1989||diary record|glyphosate applied (except to sections 7 and 8)
-R/BK/1|1990|w wheat|13-Sept-1989||diary record|Chalk applied (sections 2 and 8)
-R/BK/1|1990|w wheat|15-Sept-1989||diary record|autumn N treatments applied
-R/BK/1|1990|w wheat|11-Oct-1989||diary record|rotary harrowed, all seed sown.
-R/BK/1|1990|w wheat|17-Nov-1989||diary record|Isoproturon with mecoprop applied (except to section 8)
-R/BK/1|1990|w wheat|9-Apr-1990||diary record|spring N treatments applied
-R/BK/1|1990|w wheat|24-Apr-1990||diary record|Prochloraz with the growth regulator applied (except to section 6)
-R/BK/1|1990|w wheat|25-Apr-1990||diary record|mecoprop, bromoxynil and ioxynil applied to sections 0, 1, 2 and 3 and separately to sections 6, 7 and 9
-R/BK/1|1990|w wheat|17-May-1990||diary record|Chlorothalonil with fenpropimorph (except to section 6) and fluroxypyr (except to section 8) applied
-R/BK/1|1990|w wheat|14-June-1990||diary record|propiconazole with carbendazim and maneb applied (except to section 6)
-R/BK/1|1990|w wheat|8-Aug-1990||diary record|combine harvested
-R/BK/1|1990|potatoes|29-Aug-1989||diary record|glyphosate applied
-R/BK/1|1990|potatoes|24-Nov-1989||diary record|Deep-tine cultivated
-R/BK/1|1990|potatoes|5-Apr-1990||diary record|N treatments applied, rotary harrowed, potatoes planted, rotary ridged
-R/BK/1|1990|potatoes|6-Apr-1990||diary record|Linuron applied
-R/BK/1|1990|potatoes|15-June-1990||diary record|maneb and zinc oxide with demeton-s-methyl applied
-R/BK/1|1990|potatoes|29-June-1990||diary record|mancozeb applied
-R/BK/1|1990|potatoes|13-July-1990||diary record|mancozeb applied
-R/BK/1|1990|potatoes|27-July-1990||diary record|maneb and zinc oxide with the wetting agent applied
-R/BK/1|1990|potatoes|13-Aug-1990||diary record|Fentin hydroxide applied
-R/BK/1|1990|potatoes|28-Aug-1990||diary record|Fentin hydroxide applied
-R/BK/1|1990|potatoes|6-Sept-1990||diary record|Haulm mechanically destroyed
-R/BK/1|1990|potatoes|21-Sept-1990||diary record|lifted
-R/BK/1|1990|fallow|29-Aug-1989||diary record|glyphosate applied
-R/BK/1|1990|fallow|24-Nov-1989||diary record|Deep-tine cultivated
-R/BK/1|1990|fallow|23-Apr-1990||diary record|Heavy spring-tine cultivated
-R/BK/1|1990|fallow|17-May-1990||diary record|cultivated by rotary grubber
-R/BK/1|1990|fallow|29-June-1990||diary record|Heavy spring-tine cultivated
-R/BK/1|1990|fallow|17-July-1990||diary record|Heavy spring-tine cultivated
-R/BK/1|1991|all sections|1-Oct-1990||diary record|K, Na and Mg applied
-R/BK/1|1991|all sections|2-Oct-1990||diary record|P applied
-R/BK/1|1991|all sections|9-Oct-1990||diary record|FYM applied, ploughed and furrow pressed
-R/BK/1|1991|all sections|15-Oct-1990||diary record|rotary harrowed
-R/BK/1|1991|w wheat|14-Aug-1990||diary record|Straw chopped (section 0)
-R/BK/1|1991|w wheat|23-Aug-1990||diary record|glyphosate alone applied (except to sections 4 and 8)
-R/BK/1|1991|w wheat|27-Sept-1990||diary record|Chalk applied (sections 7 and 9)
-R/BK/1|1991|w wheat|2-Oct-1990||diary record|autumn N treatments applied
-R/BK/1|1991|w wheat|16-Oct-1990||diary record|rotary harrowed, seed sown
-R/BK/1|1991|w wheat|21-Nov-1990||diary record|Diflufenican with isoproturon applied (except to section 8)
-R/BK/1|1991|w wheat|9-Apr-1991||diary record|spring N treatments applied
-R/BK/1|1991|w wheat|24-Apr-1991||diary record|Prochloraz with the growth regulator applied (except to section 6)
-R/BK/1|1991|w wheat|20-June-1991||diary record|propiconazole with chlorothalonil applied (except to section 6)
-R/BK/1|1991|w wheat|2-July-1991||diary record|Fenpropimorph applied (except to section 6)
-R/BK/1|1991|w wheat|12-Aug-1991||diary record|glyphosate with the wetting agent applied (except to section 8)
-R/BK/1|1991|w wheat|25-Aug-1991||diary record|combine harvested
-R/BK/1|1991|potatoes|11-Sept-1990||diary record|glyphosate applied
-R/BK/1|1991|potatoes|14-Dec-1990||diary record|Deep-tine cultivated
-R/BK/1|1991|potatoes|9-Apr-1991||diary record|N treatments applied
-R/BK/1|1991|potatoes|16-Apr-1991||diary record|Heavy spring-tine cultivated
-R/BK/1|1991|potatoes|17-Apr-1991||diary record|rotary harrowed, potatoes planted
-R/BK/1|1991|potatoes|9-May-1991||diary record|rotary ridged
-R/BK/1|1991|potatoes|21-May-1991||diary record|Linuron applied
-R/BK/1|1991|potatoes|1-July-1991||diary record|maneb and zinc oxide with the wetting agent applied
-R/BK/1|1991|potatoes|22-July-1991||diary record|maneb and zinc oxide with the wetting agent applied
-R/BK/1|1991|potatoes|10-July-1991||diary record|maneb and zinc oxide with the insecticide applied
-R/BK/1|1991|potatoes|1-Aug-1991||diary record|mancozeb with the wetting agent applied
-R/BK/1|1991|potatoes|12-Aug-1991||diary record|Fentin hydroxide with the wetting agent applied
-R/BK/1|1991|potatoes|28-Aug-1991||diary record|Haulm mechanically destroyed
-R/BK/1|1991|potatoes|24-Sept-1991||diary record|lifted
-R/BK/1|1991|fallow|14-Dec-1990||diary record|Deep-tine cultivated
-R/BK/1|1991|fallow|25-Apr-1991||diary record|Heavy spring-tine cultivated
-R/BK/1|1991|fallow|21-June-1991||diary record|cultivated by rotary grubber
-R/BK/1|1991|fallow|8-July-1991||diary record|Heavy spring-tine cultivated
-R/BK/1|1991|fallow|12-July-1991||diary record|glyphosate with wetting agent applied
+R/BK/1	1968	all sections	11-Sep-67		diary record	Ground Chalk applied (including extra chalking)
+R/BK/1	1968	all sections	18-Sep-67		diary record	FYM applied
+R/BK/1	1968	all sections	19-Sep-67		diary record	"plots 1 - 3 ploughed, all autumn fertilizers applied"
+R/BK/1	1968	all sections	20-Sep-67		diary record	remaining plots ploughed
+R/BK/1	1968	winter wheat	07-Dec-67		diary record	seed drilled at 180 lb
+R/BK/1	1968	winter wheat	10-Apr-68		diary record	'Nitro-Chalk' applied (plot 20 omitted in error)
+R/BK/1	1968	winter wheat	04-May-68		diary record	all sections except 8 and 9 sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals
+R/BK/1	1968	winter wheat	06-May-68		diary record	"section 9 sprayed with ioxynil at 9 oz and mecoprop at 27 oz in 20 gals, section 5 sprayed with ioxynil at 7.5 oz and mecoprop at 22.5 oz in 20 gals and sections 0, 1, 3 and 4 resprayed with ioxynil at 6 oz and mecoprop at 18 oz in 20 gals. The second spray was applied because of rain during spring on 4th May"
+R/BK/1	1968	winter wheat	17-Jun-68		diary record	'Nitro-chalk' applied to plot 20
+R/BK/1	1968	winter wheat	26-Aug-68		diary record	combine harvested
+R/BK/1	1968	potatoes	29-Apr-68		diary record	machine planted
+R/BK/1	1968	potatoes	20-May-68		diary record	grubbed
+R/BK/1	1968	potatoes	28-May-68		diary record	rotary ridged
+R/BK/1	1968	potatoes	19-Jun-68		diary record	grubbed and then rotary ridged
+R/BK/1	1968	potatoes	04-Jul-68		diary record	sprayed with mancozeb at 1.2 lb in 37 gals
+R/BK/1	1968	potatoes	19-Jul-68		diary record	sprayed with mancozeb at 1.2 lb and demeton-s-methyl at 3.5 oz in 37 gals
+R/BK/1	1968	potatoes	05-Aug-68		diary record	sprayed with mancozeb at 1.2 lb in 37 gals
+R/BK/1	1968	potatoes	31-Aug-68		diary record	sprayed with undiluted BOV at 20 gals
+R/BK/1	1968	potatoes	13-Sep-68		diary record	Haulm destroyed mechanically
+R/BK/1	1968	potatoes	19-Sep-68		diary record	lifted
+R/BK/1	1968	spring beans	04-Mar-68		diary record	seed drilled at 200 lb
+R/BK/1	1968	spring beans	05-Mar-68		diary record	sprayed with simazine at 1 lb in 33 gals
+R/BK/1	1968	spring beans	26-Mar-68		diary record	'Nitro-chalk' applied
+R/BK/1	1968	spring beans	22-Jun-68		diary record	1.04 lb phorate applied in granules
+R/BK/1	1968	spring beans	06-Sep-68		diary record	combine harvested
+R/BK/1	1968	fallow section	28-May-68		diary record	ploughed second time
+R/BK/1	1968	fallow section	05-Aug-68		diary record	ploughed third time
+R/BK/1	1968	cultivations to section 00	21-Sep-67		diary record	As section 0 except- rotary cultivated
+R/BK/1	1968	cultivations to section 00	27-Sep-67		diary record	Methyl bromide applied
+R/BK/1	1968	cultivations to section 00	25-Aug-68		diary record	combine harvested
+R/BK/1	1969	all sections	25-Sep-68		diary record	autumn fertilizers applied
+R/BK/1	1969	all sections	04-Oct-68		diary record	FYM applied
+R/BK/1	1969	all sections	01-Oct-68	05-Oct-68	diary record	ploughed
+R/BK/1	1969	winter wheat	05-Sep-68	10-Sep-68	diary record	paraquat at 0.75 lb ion in 20 gals to all sections except 6 (following fallow) and 8 (no weedkillers) applied
+R/BK/1	1969	winter wheat	17-Oct-68		diary record	seed drilled at 180 lb
+R/BK/1	1969	winter wheat	18-Oct-68		diary record	"terbutryne and related triazines, ('Prebane' at 4 lb in 25 gals) applied to all sections except 8 "
+R/BK/1	1969	winter wheat	17-Apr-69		diary record	'Nitro-chalk' applied
+R/BK/1	1969	winter wheat	01-May-69		diary record	"MCPA, mecoprop and Dicamba ('Banlene Plus' at 4 pints in 20 gals) applied to all sections except 8. "
+R/BK/1	1969	winter wheat	29-Aug-69		diary record	combine harvested
+R/BK/1	1969	winter wheat	21-Aug-69		diary record	Cultivations to section 00 As above except harvested by small combine
+R/BK/1	1969	potatoes	05-Sep-68		diary record	paraquat at 0.75 lb ion in 20 gals applied
+R/BK/1	1969	potatoes	09-Apr-69		diary record	'Nitro-chalk' applied
+R/BK/1	1969	potatoes	10-Apr-69		diary record	potatoes machine planted
+R/BK/1	1969	potatoes	12-May-69		diary record	paraquat at 0.375 lb ion plus linuron at 0.75 lb in 37 gals applied
+R/BK/1	1969	potatoes	18-Jun-69		diary record	grubbed
+R/BK/1	1969	potatoes	23-Jun-69		diary record	rotary ridged
+R/BK/1	1969	potatoes	15-Jul-69		diary record	mancozeb at 1.2 lb in 37 gals applied
+R/BK/1	1969	potatoes	04-Aug-69		diary record	mancozeb at 1.2 lb and demeton-s-methyl at 3.5 oz in 37 gals applied
+R/BK/1	1969	potatoes	22-Aug-69		diary record	mancozeb at 1.2 lb in 37 gals applied
+R/BK/1	1969	potatoes	04-Aug-69		diary record	demeton-s-methyl at 3.5 oz in 37 gals (no weedkiller) applied
+R/BK/1	1969	potatoes	20-Sep-69		diary record	"Haulm destroyed mechanically (except treatments N2, N2P, N2PNa and R, where Haulm died early)"
+R/BK/1	1969	potatoes	25-Sep-69		diary record	lifted
+R/BK/1	1969	spring beans	24-Mar-69		diary record	seed drilled at 200 lb
+R/BK/1	1969	spring beans	09-Apr-69		diary record	'Nitro-chalk' applied
+R/BK/1	1969	spring beans	19-Jun-69		diary record	demeton-s-methyl at 3.5 oz in 37 gals (no weedkiller) applied
+R/BK/1	1969	spring beans	10-Sep-69		diary record	combine harvested
+R/BK/1	1969	fallow section	05-Sep-68		diary record	paraquat at 0.75 lb ion in 20 gals applied
+R/BK/1	1969	fallow section	13-May-69		diary record	ploughed second time
+R/BK/1	1969	fallow section	08-Jul-69		diary record	ploughed third time
+R/BK/1	1970	winter wheat	12-Sep-69		diary record	rotary cultivated
+R/BK/1	1970	all sections	29-Sep-69		diary record	Autumn fertilizers applied
+R/BK/1	1970	all sections	01-Oct-69		diary record	"Plot 01 shallow rotary cultivated to incorporate fertiliser, FYM applied"
+R/BK/1	1970	all sections	02-Oct-69	04-Oct-69	diary record	Ploughed 
+R/BK/1	1970	winter wheat	12-Sep-69		diary record	rotary cultivated
+R/BK/1	1970	winter wheat	13-Oct-69		diary record	"all plots rotary cultivated second time, plots 15 - 19, sections 0 and 1 rotary cultivated third time"
+R/BK/1	1970	winter wheat	15-Oct-69		diary record	seed drilled at 180 lb
+R/BK/1	1970	winter wheat	17-Oct-69		diary record	terbutryne and related triazines ('Prebane' at 4 lb in 20 gals) applied to all sections except 8 (no weedkillers)
+R/BK/1	1970	winter wheat	30-Apr-70		diary record	N applied
+R/BK/1	1970	winter wheat	06-May-70		diary record	"MCPA, mecoprop and Dicamba ('Banlene Plus' at 4 pints in 20 gals)  applied to all sections except 8"
+R/BK/1	1970	winter wheat	27-Aug-70		diary record	combine harvested
+R/BK/1	1970	potatoes	12-Sept-196		diary record	Rotary cultivated
+R/BK/1	1970	potatoes	17-Apr-70		diary record	N applied
+R/BK/1	1970	potatoes	30-Apr-70		diary record	"plots rotary cultivated, potatoes machine planted"
+R/BK/1	1970	potatoes	20-May-70		diary record	paraquat at 0.375 lb ion plus linuron at 1 lb in 20 gals applied
+R/BK/1	1970	potatoes	30-Jun-70		diary record	"all plots except 1, 21, 22, 7, 8, 9, 13, 15 grubbed and rotary ridged"
+R/BK/1	1970	potatoes	28-Jul-70		diary record	mancozeb at 1.2 lb in 40 gals and demeton-s-methyl at 3.5 oz applied
+R/BK/1	1970	potatoes	14-Aug-70		diary record	mancozeb at 1.2 lb in 40 gals applied
+R/BK/1	1970	potatoes	03-Sep-70		diary record	sprayed with undiluted BOV at 15 gals
+R/BK/1	1970	potatoes	15-Sep-70		diary record	lifted
+R/BK/1	1970	spring beans	21-Mar-70		diary record	seed drilled at 200 lb
+R/BK/1	1970	spring beans	17-Apr-70		diary record	N applied
+R/BK/1	1970	spring beans	19-Jun-70		diary record	demeton-s-methyl at 3.5 oz in 40 gals applied
+R/BK/1	1970	spring beans	02-Sep-70		diary record	combine harvested
+R/BK/1	1970	fallow section	12-Sep-69		diary record	rotary cultivated
+R/BK/1	1970	fallow section	20-May-70		diary record	ploughed second time
+R/BK/1	1970	fallow section	09-Jul-70		diary record	ploughed third time
+R/BK/1	1971	all sections	18-Sep-70		diary record	autumn fertilizers applied
+R/BK/1	1971	all sections	22-Sep-70		diary record	FYM applied
+R/BK/1	1971	all sections	21-Sep-70	23-Sep-70	diary record	ploughed
+R/BK/1	1971	winter wheat	11-Sep-70		diary record	paraquat at 0.84 kg ion in 225 1 applied to section 0 only
+R/BK/1	1971	winter wheat	09-Oct-70		diary record	seed drilled at 202 kg
+R/BK/1	1971	winter wheat	10-Oct-70		diary record	terbutryne and related triazines ('Prebane' at 4.48 kg in 225 l) applied
+R/BK/1	1971	winter wheat	08-Apr-71		diary record	N applied
+R/BK/1	1971	winter wheat	15-Apr-71		diary record	"MCPA, mecoprop and Dicamba ('Banlene Plus' at 5.6 1 in 225 l) applied to all sections except 8 "
+R/BK/1	1971	winter wheat	28-Jul-71		diary record	"plot 19, section 8 cut green and all produce removed (because of excessive weed infestation) and then deep-tine cultivated twice"
+R/BK/1	1971	winter wheat	27-Aug-71		diary record	combine harvested
+R/BK/1	1971	potatoes	04-Feb-71		diary record	paraquat at 0.56 kg ion in 225 1 applied
+R/BK/1	1971	potatoes	02-Apr-71		diary record	"N applied, plots rotary cultivated"
+R/BK/1	1971	potatoes	03-Apr-71		diary record	potatoes machine planted
+R/BK/1	1971	potatoes	08-May-71		diary record	Linuron at 0.84 kg plus paraquat at 0.42 kg ion in 427 l applied
+R/BK/1	1971	potatoes	03-Jun-71		diary record	"plots 0l, 21, 22 grubbed"
+R/BK/1	1971	potatoes	04-Jun-71		diary record	"plots 0l, 21, 22 rotary ridged"
+R/BK/1	1971	potatoes	05-Jun-71		diary record	remaining plots grubbed
+R/BK/1	1971	potatoes	10-Jun-71		diary record	and rotary ridged
+R/BK/1	1971	potatoes	23-Jun-71		diary record	mancozeb at 1.34 kg in 438 l applied
+R/BK/1	1971	potatoes	16-Aug-71		diary record	mancozeb at 1.34 kg in 438 l applied
+R/BK/1	1971	potatoes	26-Aug-71		diary record	Haulm destroyed mechanically
+R/BK/1	1971	potatoes	14-Sep-71		diary record	lifted
+R/BK/1	1971	spring beans	04-Feb-71		diary record	paraquat at 0.56 kg ion in 225 1 applied
+R/BK/1	1971	spring beans	24-Feb-71		diary record	N applied
+R/BK/1	1971	spring beans	25-Feb-71		diary record	seed drilled at 224 kg
+R/BK/1	1971	spring beans	01-Jul-71		diary record	demeton-s-methyl at 245 g in 438 l applied
+R/BK/1	1971	spring beans	02-Sep-71		diary record	combine harvested
+R/BK/1	1971	fallow section	19-Apr-71		diary record	ploughed second time
+R/BK/1	1971	fallow section	08-Jul-71		diary record	ploughed third time
+R/BK/1	1972	all sections	21-Sep-71		diary record	autumn fertiliser applied
+R/BK/1	1972	all sections	29-Sep-71		diary record	FYM applied
+R/BK/1	1972	all sections	30-Sep-71		diary record	Ploughed
+R/BK/1	1972	winter wheat	10-Sep-71		diary record	"aminotriazole at 4.5 kg plus ammonium thiocyanate at 4.2 kg in 220 l applied (not applied to section 6, first wheat crop after fallow) "
+R/BK/1	1972	winter wheat	22-Oct-71		diary record	seed drilled
+R/BK/1	1972	winter wheat	25-Oct-71		diary record	terbutryne and related triazines ('Prebane' at 4.5 kg in 220 l) applied
+R/BK/1	1972	winter wheat	18-Apr-72		diary record	N applied
+R/BK/1	1972	winter wheat	27-Apr-72		diary record	"MCPA, mecoprop and Dicamba ('Banlene Plus' at 5.6 1 in 220 l) applied"
+R/BK/1	1972	winter wheat	01-Sep-72		diary record	combine harvested
+R/BK/1	1972	potatoes	10-Sep-71		diary record	aminotriazole at 4.5 kg plus ammonium thiocyanate at 4.2 kg in 220 1 applied
+R/BK/1	1972	potatoes	18-Apr-72		diary record	N applied
+R/BK/1	1972	potatoes	19-Apr-72		diary record	"Plots rotary cultivated, potatoes machine planted"
+R/BK/1	1972	potatoes	17-May-72		diary record	sprayed with Linuron at 0.84 kg plus paraquat at 0.42 kg ion in 440 1
+R/BK/1	1972	potatoes	14-Jun-72		diary record	grubbed
+R/BK/1	1972	potatoes	15-Jun-72	24-Jun-72	diary record	rotary ridged
+R/BK/1	1972	potatoes	12-Jul-72		diary record	mancozeb at 1.4 kg in 440 l applied
+R/BK/1	1972	potatoes	21-Jul-72		diary record	mancozeb at 1.4 kg and demeton-s-methyl at 0.25 kg in 440 l applied
+R/BK/1	1972	potatoes	10-Aug-72		diary record	mancozeb at 1.4 kg in 440 l applied
+R/BK/1	1972	potatoes	21-Jul-72		diary record	demeton-s-methyl at 0.25 kg applied
+R/BK/1	1972	potatoes	16-Sep-72		diary record	Sprayed with undiluted BOV at 150 l
+R/BK/1	1972	potatoes	28-Sep-72		diary record	lifted
+R/BK/1	1972	spring beans	16-Mar-72		diary record	"N applied, seed drilled"
+R/BK/1	1972	spring beans	17-Jun-72		diary record	phorate at 1.1 kg applied as granules
+R/BK/1	1972	spring beans	05-Aug-72		diary record	"demeton-s-methyl at 0.25 kg in 440 l applied to ends of plots,"
+R/BK/1	1972	spring beans	27-Sep-72		diary record	combine harvested
+R/BK/1	1972	fallow sections	10-Sep-71		diary record	aminotriazole and ammonium thiocyanate applied to section 5
+R/BK/1	1972	fallow sections	12-May-72	14-May-72	diary record	ploughed second time
+R/BK/1	1972	fallow sections	10-Jul-72		diary record	ploughed third time
+R/BK/1	1973	all sections	03-Oct-72		diary record	autumn fertilizers applied
+R/BK/1	1973	all sections	11-Oct-72		diary record	FYM applied
+R/BK/1	1973	all sections	10-Oct-72	12-Oct-72	diary record	ploughed
+R/BK/1	1973	winter wheat	17-Oct-72		diary record	seed sown
+R/BK/1	1973	winter wheat	20-Oct-72		diary record	terbutryne and related triazines ('Prebane' at 4.5 kg in 220 l) applied
+R/BK/1	1973	winter wheat	13-Apr-73		diary record	N applied
+R/BK/1	1973	winter wheat	26-Apr-73		diary record	"Dicamba, mecoprop and MCPA ('Tetralex Plus' at 9.1 1 in 290 l) applied"
+R/BK/1	1973	winter wheat	20-Aug-73		diary record	combine harvested
+R/BK/1	1973	potatoes	21-Mar-73		diary record	N applied
+R/BK/1	1973	potatoes	06-Apr-73		diary record	potatoes machine planted
+R/BK/1	1973	potatoes	11-May-73		diary record	Linuron at 3.8 kg plus paraquat at 0.42 kg ion in 450 l applied
+R/BK/1	1973	potatoes	02-Jul-73		diary record	mancozeb at 1.35 kg in and demeton-s-methyl at 0.25 kg in 370 l applied
+R/BK/1	1973	potatoes	24-Jul-73		diary record	mancozeb at 1.35 kg in 370 l applied
+R/BK/1	1973	potatoes	09-Aug-73		diary record	mancozeb at 1.35 kg in 370 l applied
+R/BK/1	1973	potatoes	31-Aug-73		diary record	"Haulm destroyed mechanically, sprayed with undiluted BOV at 220 1"
+R/BK/1	1973	potatoes	25-Sep-73		diary record	lifted
+R/BK/1	1973	spring beans	08-Mar-73		diary record	N applied
+R/BK/1	1973	spring beans	09-Mar-73		diary record	seed sown
+R/BK/1	1973	spring beans	08-Jun-73		diary record	demeton-s-methyl at 0.25 kg in 370 1 applied
+R/BK/1	1973	spring beans	03-Sep-73		diary record	combine harvested
+R/BK/1	1973	fallow section	16-May-73		diary record	ploughed second time
+R/BK/1	1973	fallow section	09-Jul-73		diary record	ploughed third time
+R/BK/1	1974	all sections	04-Oct-73		diary record	autumn fertilizers applied
+R/BK/1	1974	all sections	05-Oct-73		diary record	Castor meal applied
+R/BK/1	1974	all sections	09-Oct-73		diary record	FYM applied
+R/BK/1	1974	all sections	10-Oct-73		diary record	ploughed
+R/BK/1	1974	winter wheat	12-Sep-73		diary record	sections 0 and 9: aminotriazole plus ammonium thiocyanate ('Weedazol' at 22.5 1 in 220 l) applied
+R/BK/1	1974	winter wheat	13-Oct-73		diary record	disced
+R/BK/1	1974	winter wheat	18-Oct-73		diary record	power harrowed and seed sown
+R/BK/1	1974	winter wheat	22-Oct-73		diary record	"sections 0, 1, 3, 4, 5 and 9: terbutryne and related triazines ('Prebane' at 4.5 kg in 220 l) applied"
+R/BK/1	1974	winter wheat	11-Apr-74		diary record	N applied
+R/BK/1	1974	winter wheat	18-Apr-74		diary record	Dicamba with mecoprop and MCPA ('Banlene Plus' at 5.6 1 in 220 l) applied
+R/BK/1	1974	winter wheat	29-Aug-74		diary record	combine harvested
+R/BK/1	1974	potatoes	11-Apr-74		diary record	spring-tine cultivated
+R/BK/1	1974	potatoes	16-Apr-74		diary record	N applied
+R/BK/1	1974	potatoes	17-Apr-74		diary record	rotary cultivated and potatoes machine planted
+R/BK/1	1974	potatoes	17-May-74		diary record	Linuron at 1.2 kg plus paraquat at 0.42 kg ion in 450 1 applied
+R/BK/1	1974	potatoes	19-Jun-74		diary record	grubbed
+R/BK/1	1974	potatoes	22-Jun-74		diary record	"rotary ridged plots 01, 21, 22"
+R/BK/1	1974	potatoes	24-Jun-74		diary record	rotary ridged plots 6 - 9 and 13 - 19
+R/BK/1	1974	potatoes	10-Jul-74		diary record	"rotary ridged plots 3, 5, 10, 11, 122"
+R/BK/1	1974	potatoes	11-Jul-74		diary record	demeton-s-methyl at 0.25 kg with mancozeb at 1.3 kg in 450 1 applied
+R/BK/1	1974	potatoes	02-Aug-74		diary record	mancozeb at 1.3 kg in 450 1 applied
+R/BK/1	1974	potatoes	10-Sep-74		diary record	Haulm mechanically destroyed
+R/BK/1	1974	potatoes	16-Sep-74		diary record	sprayed with undiluted BOV at 220 1
+R/BK/1	1974	potatoes	10-Oct-74	14-Oct-74	diary record	lifted
+R/BK/1	1974	spring beans	27-Sep-73		diary record	spring-tine cultivated
+R/BK/1	1974	spring beans	08-Mar-74		diary record	N applied
+R/BK/1	1974	spring beans	09-Mar-74		diary record	spring-tine cultivated
+R/BK/1	1974	spring beans	27-Mar-74		diary record	"power harrowed, seed sown and spring-tine cultivated"
+R/BK/1	1974	spring beans	13-Jun-74		diary record	demeton-s-methyl at 0.25 kg in 450 1 applied
+R/BK/1	1974	spring beans	26-Sep-74		diary record	combine harvested
+R/BK/1	1974	fallow section	11-Apr-74		diary record	spring-tine cultivated
+R/BK/1	1974	fallow section	09-Jul-74		diary record	spring-tine cultivated
+R/BK/1	1974	fallow section	08-Aug-74		diary record	spring-tine cultivated
+R/BK/1	1974	fallow section	07-May-74		diary record	ploughed
+R/BK/1	1974	fallow section	22-Jul-74		diary record	ploughed
+R/BK/1	1975	all sections	21-Oct-74		diary record	superphosphate applied
+R/BK/1	1975	all sections	24-Oct-74		diary record	fertilisers and castor meal applied
+R/BK/1	1975	all sections	25-Oct-74		diary record	ploughed plots 3-20
+R/BK/1	1975	all sections	04-Nov-74		diary record	FYM applied
+R/BK/1	1975	all sections	05-Nov-74		diary record	"Ploughed plots 01, 21, 22"
+R/BK/1	1975	winter wheat	06-Nov-74		diary record	rotary harrowed
+R/BK/1	1975	winter wheat	07-Nov-74		diary record	seed sown 
+R/BK/1	1975	winter wheat	22-Apr-75		diary record	N applied
+R/BK/1	1975	winter wheat	09-May-75		diary record	ioxynil with mecoprop ('Actril C' at 7.7 1 in 220 l) except section 8 applied
+R/BK/1	1975	winter wheat	13-Aug-75		diary record	combine harvested
+R/BK/1	1975	potatoes	01-May-75		diary record	spring-tine cultivated
+R/BK/1	1975	potatoes	05-May-75		diary record	N applied
+R/BK/1	1975	potatoes	07-May-75		diary record	"Spike rotary cultivated, planted"
+R/BK/1	1975	potatoes	12-May-75		diary record	grubbed
+R/BK/1	1975	potatoes	04-Jun-75		diary record	Linuron at 1.1 kg plus paraquat at 0.42 kg ion in 450 1 applied
+R/BK/1	1975	potatoes	27-Jun-75		diary record	demeton-s-methyl at 0.25 kg in 450 1 applied and grubbed
+R/BK/1	1975	potatoes	18-Jul-75		diary record	rotary cultivated
+R/BK/1	1975	potatoes	21-Jul-75		diary record	mancozeb at 1.3 kg with demeton-s-methyl at 0.25 kg in 450 1 applied
+R/BK/1	1975	potatoes	16-Sep-75		diary record	Haulm mechanically destroyed plot 014 only
+R/BK/1	1975	potatoes	19-Sep-75		diary record	Haulm mechanically destroyed remaining plots
+R/BK/1	1975	potatoes	19-Sep-75		diary record	lifted
+R/BK/1	1975	spring beans	04-Mar-75		diary record	N applied
+R/BK/1	1975	spring beans	25-Mar-75		diary record	"rotary cultivated, seed sown and spring-tine cultivated"
+R/BK/1	1975	spring beans	21-May-75		diary record	tractor hoed
+R/BK/1	1975	spring beans	24-Jun-75		diary record	tractor hoed
+R/BK/1	1975	spring beans	09-Jul-75		diary record	demeton-s-methyl at 0.25 kg in 450 1 applied
+R/BK/1	1975	spring beans	29-Aug-75		diary record	combine harvested
+R/BK/1	1975	fallow section	01-May-75		diary record	spring-tine cultivated
+R/BK/1	1975	fallow section	16-May-75		diary record	ploughed
+R/BK/1	1975	fallow section	27-May-75		diary record	spring-tine cultivated
+R/BK/1	1975	fallow section	15-Jul-75		diary record	ploughed
+R/BK/1	1976	all sections	30-Sep-75		diary record	autumn fertilizers and castor meal applied
+R/BK/1	1976	all sections	09-Oct-75		diary record	FYM applied
+R/BK/1	1976	all sections	11-Oct-75		diary record	ploughed
+R/BK/1	1976	winter wheat	24-Sep-75		diary record	"sections 0, 1 and 9: glyphosate applied at 1.7 kg in 220 1 "
+R/BK/1	1976	winter wheat	29-Sep-75		diary record	section 1: Chalk applied at 3.1 t. 
+R/BK/1	1976	winter wheat	14-Oct-75		diary record	"rotary harrowed sections 5, 6, 7, 8 and 9"
+R/BK/1	1976	winter wheat	14-Oct-75		diary record	"spring-tine cultivated and rotary harrowed twice sections 0, 1"
+R/BK/1	1976	winter wheat	16-Oct-75		diary record	seed sown
+R/BK/1	1976	winter wheat	18-Oct-75		diary record	"sections 0, 1, 5, 6, 7 and terbutryne and related triazines (Prebane at 4.5 kg in 220 l) applied"
+R/BK/1	1976	winter wheat	31-Mar-76		diary record	N applied
+R/BK/1	1976	winter wheat	08-Apr-76		diary record	section 9 only Dimethoate applied at 0.11 kg in 220 l. 
+R/BK/1	1976	winter wheat	29-Apr-76		diary record	Dicamba with mecoprop and MCPA ('Banlene Plus' at 5.6 1 in 220 l). applied
+R/BK/1	1976	winter wheat	24-Jun-76		diary record	pirimicarb at 0.14 kg in 220 1 applied
+R/BK/1	1976	winter wheat	30-Jul-76		diary record	combine harvested
+R/BK/1	1976	potatoes	29-Sep-75		diary record	Chalk applied at 3.1 t.
+R/BK/1	1976	potatoes	09-Dec-75		diary record	Deep-tine cultivated
+R/BK/1	1976	potatoes	22-Mar-76		diary record	spring-tine cultivated
+R/BK/1	1976	potatoes	25-Mar-76		diary record	N applied
+R/BK/1	1976	potatoes	20-Mar-76		diary record	rotary cultivated and potatoes machine planted
+R/BK/1	1976	potatoes	30-Mar-76		diary record	grubbed
+R/BK/1	1976	potatoes	05-May-76		diary record	Linuron at 1.2 kg plus paraquat at 0.42 kg ion in 220 1 applied
+R/BK/1	1976	potatoes	17-Jun-76		diary record	pirimicarb at 0.14 kg in 450 1 applied
+R/BK/1	1976	potatoes	21-Jun-76		diary record	grubbed and rotary ridged
+R/BK/1	1976	potatoes	28-Jul-76		diary record	mancozeb at 1.3 kg in 450 1 applied
+R/BK/1	1976	potatoes	13-Sep-76		diary record	Haulm mechanically destroyed
+R/BK/1	1976	potatoes	24-Sep-76		diary record	lifted
+R/BK/1	1976	spring beans	09-Dec-75		diary record	Deep-tine cultivated
+R/BK/1	1976	spring beans	27-Feb-76		diary record	N applied
+R/BK/1	1976	spring beans	03-Mar-76		diary record	Heavy spring-tine cultivated
+R/BK/1	1976	spring beans	04-Mar-76		diary record	seed sown
+R/BK/1	1976	spring beans	27-Apr-76		diary record	Tractor hoed
+R/BK/1	1976	spring beans	25-May-76		diary record	Tractor hoed
+R/BK/1	1976	spring beans	20-Jul-76		diary record	combine harvested
+R/BK/1	1976	fallow section	20-Sep-75		diary record	Chalk applied at 3.1 t.
+R/BK/1	1976	fallow section	09-Dec-75		diary record	Deep-tine cultivated
+R/BK/1	1976	fallow section	22-Mar-76		diary record	spring-tine cultivated
+R/BK/1	1976	fallow section	20-Jul-76		diary record	spring-tine cultivated
+R/BK/1	1976	fallow section	20-Apr-76		diary record	Heavy spring-tine cultivated
+R/BK/1	1976	fallow section	11-Jun-76		diary record	Heavy spring-tine cultivated
+R/BK/1	1976	fallow section	02-Jun-76		diary record	ploughed
+R/BK/1	1976	fallow section	08-Jul-76		diary record	ploughed
+R/BK/1	1977	all sections	05-Oct-76		diary record	"Superphosphate, sulphate of potash applied"
+R/BK/1	1977	all sections	08-Oct-76		diary record	"Sulphate of soda, kieserite, castor meal applied"
+R/BK/1	1977	all sections	11-Oct-76		diary record	FYM applied
+R/BK/1	1977	all sections	11-Oct-76	13-Oct-76	diary record	ploughed
+R/BK/1	1977	winter wheat	06-Aug-76		diary record	section 4: Diquat applied at 0.59 kg ion in 450 1 
+R/BK/1	1977	winter wheat	06-Sep-76		diary record	"sections 0, 1 and 9: glyphosate applied at 1.7 kg in 220 1 "
+R/BK/1	1977	winter wheat	07-Sep-76		diary record	sections 8 and 9: Chalk applied at 2.9 t
+R/BK/1	1977	winter wheat	03-Nov-76		diary record	sections 8 and 9 rotary harrowed
+R/BK/1	1977	winter wheat	04-Nov-76		diary record	sections 0 and 1 rotary harrowed
+R/BK/1	1977	winter wheat	04-Nov-76		diary record	"sections 3, 4 and 5 heavy spring-tine cultivated"
+R/BK/1	1977	winter wheat	22-Nov-76		diary record	"sections 3, 4 and 5 rotary harrowed"
+R/BK/1	1977	winter wheat	24-Nov-76		diary record	"seed sown, spring-tine cultivated"
+R/BK/1	1977	winter wheat	18-Apr-77		diary record	N applied
+R/BK/1	1977	winter wheat	10-May-77		diary record	"sections 0, 1, 3, 4, 5 and 9 applied in spring: ioxynil at 0.53 kg with mecoprop at 1.6 kg in 220 1 "
+R/BK/1	1977	winter wheat	23-May-77		diary record	applied in spring to sections 0 and 1 ioxynil at 0.53 kg with mecoprop at 1.6 kg in 220 1 
+R/BK/1	1977	winter wheat	12-Jul-77		diary record	pirimicarb applied at 0.14 kg in 280 1. 
+R/BK/1	1977	winter wheat	08-Sep-77		diary record	combine harvested
+R/BK/1	1977	potatoes	06-Sep-76		diary record	Chalk applied at 2.9 t
+R/BK/1	1977	potatoes	18-Apr-77		diary record	spring-tine cultivated and N applied
+R/BK/1	1977	potatoes	19-Apr-77		diary record	spike rotary cultivated and potatoes machine planted
+R/BK/1	1977	potatoes	21-Apr-77		diary record	grubbed
+R/BK/1	1977	potatoes	21-Jun-77		diary record	grubbed
+R/BK/1	1977	potatoes	23-May-77		diary record	applied Linuron at 1.3 kg plus paraquat at 0.42 kg ion in 340 1 
+R/BK/1	1977	potatoes	22-Jun-77		diary record	FYM plots rotary ridged
+R/BK/1	1977	potatoes	23-Jun-77		diary record	mancozeb applied at 1.3 kg in 340 1. 
+R/BK/1	1977	potatoes	05-Jul-77		diary record	mancozeb applied at 1.3 kg in 340 1. 
+R/BK/1	1977	potatoes	30-Jun-77		diary record	remaining plots grubbed and rotary ridged
+R/BK/1	1977	potatoes	26-Jul-77		diary record	applied mancozeb at 1.3 kg in 340 1 with pirimicarb at 0.14 kg 
+R/BK/1	1977	potatoes	10-Aug-77		diary record	applied mancozeb at 1.3 kg in 340 1 with pirimicarb at 0.14 kg 
+R/BK/1	1977	potatoes	14-Sep-77		diary record	lifted
+R/BK/1	1977	spring beans	07-Mar-77		diary record	N applied
+R/BK/1	1977	spring beans	09-Mar-77		diary record	rotary harrowed
+R/BK/1	1977	spring beans	10-Mar-77		diary record	seed sown
+R/BK/1	1977	spring beans	18-May-77		diary record	Tractor hoed
+R/BK/1	1977	spring beans	19-Jul-77		diary record	pirimicarb applied at 0.14 kg in 280 1
+R/BK/1	1977	spring beans	15-Sep-77		diary record	combine harvested
+R/BK/1	1977	fallow section	06-Sep-76		diary record	Chalk applied at 2.9 t 
+R/BK/1	1977	fallow section	29-Apr-77		diary record	spring-tine cultivated
+R/BK/1	1977	fallow section	11-Aug-77		diary record	spring-tine cultivated
+R/BK/1	1977	fallow section	25-May-77		diary record	ploughed
+R/BK/1	1977	fallow section	20-Jul-77		diary record	ploughed
+R/BK/1	1978	all sections	22-Sep-77		diary record	"Superphosphate, sulphate of soda, kieserite, and castor meal applied"
+R/BK/1	1978	all sections	23-Sep-77		diary record	Sulphate of potash applied
+R/BK/1	1978	all sections	28-Sep-77		diary record	"subsoiled, tines 160 cm apart and 38 cm deep"
+R/BK/1	1978	all sections	04-Oct-77		diary record	FYM applied
+R/BK/1	1978	all sections	06-Oct-77		diary record	ploughed
+R/BK/1	1978	winter wheat	19-Sep-77		diary record	section 0: Chalk applied at 2.9 t.
+R/BK/1	1978	winter wheat	17-Oct-77		diary record	rotary harrowed
+R/BK/1	1978	winter wheat	19-Oct-77		diary record	seed sown
+R/BK/1	1978	winter wheat	24-Oct-77		diary record	(not applied to section 8) terbutryne applied at 2.8 kg in 220 1
+R/BK/1	1978	winter wheat	30-Mar-78		diary record	(section 6 only) Omethoate applied at 0.65 kg in 220 1. 
+R/BK/1	1978	winter wheat	08-May-78		diary record	N applied and applied Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.9 1 in 220 l) 
+R/BK/1	1978	winter wheat	29-Aug-78		diary record	"sections 0, 1, 2, 3, 8 and 9, combine harvested"
+R/BK/1	1978	winter wheat	30-Aug-78		diary record	section 6 combine harvested
+R/BK/1	1978	potatoes	20-Sep-77		diary record	Chalk applied at 2.9 t.
+R/BK/1	1978	potatoes	31-Mar-78		diary record	Heavy spring-tine cultivated
+R/BK/1	1978	potatoes	25-Apr-78		diary record	N applied
+R/BK/1	1978	potatoes	08-May-78		diary record	paraquat applied at 0.84 kg ion in 220 1
+R/BK/1	1978	potatoes	03-May-78		diary record	"spike rotary cultivated, planted"
+R/BK/1	1978	potatoes	15-May-78		diary record	Linuron at 1.1 kg in 220 1 applied
+R/BK/1	1978	potatoes	26-Jun-78		diary record	grubbed and rotary ridged
+R/BK/1	1978	potatoes	05-Jul-78		diary record	mancozeb applied at 1.3 kg in 220 1 
+R/BK/1	1978	potatoes	18-Jul-78		diary record	applied mancozeb at 1.3 kg in 220 1 and pirimicarb at 0.14 kg in 220 1
+R/BK/1	1978	potatoes	04-Aug-78		diary record	applied mancozeb at 1.3 kg in 220 1 and pirimicarb at 0.14 kg in 220 1
+R/BK/1	1978	potatoes	17-Aug-78		diary record	Fentin acetate and maneb applied ('Fennite A' at 1.7 kg in 220 l) 
+R/BK/1	1978	potatoes	07-Sep-78		diary record	Haulm pulverized
+R/BK/1	1978	potatoes	27-Sep-78		diary record	lifted
+R/BK/1	1978	spring beans	09-Mar-78		diary record	spring-tine cultivated
+R/BK/1	1978	spring beans	10-Mar-78		diary record	"N applied, rotary harrowed, seed sown"
+R/BK/1	1978	spring beans	19-May-78		diary record	Tractor hoed twice
+R/BK/1	1978	spring beans	08-Jun-78		diary record	Tractor hoed twice
+R/BK/1	1978	spring beans	07-Jul-78		diary record	pirimicarb applied at 0.14 kg in 220 1 
+R/BK/1	1978	spring beans	19-Sep-78		diary record	Haulm desiccant Diquat applied at 0.59 kg ion with 'Agral' (a wetting agent) at 0.28 kg in 220 1 
+R/BK/1	1978	spring beans	22-Sep-78		diary record	combine harvested
+R/BK/1	1978	fallow section	20-Sep-77		diary record	Chalk applied at 2.9 t.
+R/BK/1	1978	fallow section	31-Mar-78		diary record	Heavy spring-tine cultivated
+R/BK/1	1978	fallow section	08-May-78		diary record	paraquat applied at 0.84 kg ion in 220 l 
+R/BK/1	1978	fallow section	24-May-78		diary record	ploughed twice
+R/BK/1	1978	fallow section	06-Jul-78		diary record	ploughed twice
+R/BK/1	1978	fallow section	15-Jun-78		diary record	Heavy spring-tine cultivated
+R/BK/1	1978	fallow section	12-Jul-78		diary record	spring-tine cultivated
+R/BK/1	1979	all sections	02-Oct-78		diary record	"Sulphate of potash, sulphate of soda, kieserite and castor meal applied"
+R/BK/1	1979	all sections	03-Oct-78		diary record	Superphosphate applied
+R/BK/1	1979	all sections	04-Oct-78		diary record	FYM applied
+R/BK/1	1979	all sections	05-Oct-78		diary record	ploughed
+R/BK/1	1979	wheat	22-Sep-78		diary record	"glyphosate (applied to sections 0, 1, 6 and 9 only) at 1.5 kg in 220 1"
+R/BK/1	1979	wheat	03-Oct-78		diary record	section 1 only: Chalk applied at 2.9 t.
+R/BK/1	1979	wheat	09-Oct-78		diary record	disced harrowed and rotary harrowed
+R/BK/1	1979	wheat	10-Oct-78		diary record	seed sown
+R/BK/1	1979	wheat	12-Oct-78		diary record	chlortoluron applied  to all wheat sections except 8 at 3.6 kg in 220 1
+R/BK/1	1979	wheat	03-May-79		diary record	N applied
+R/BK/1	1979	wheat	09-May-79		diary record	Dicamba with mecoprop and MCPA ('Banlene Plus' at 4.2 kg in 220 l) applied to all wheat sections except 8 
+R/BK/1	1979	wheat	27-Jun-79		diary record	triadimefon applied at 0.13 kg in 220 1. 
+R/BK/1	1979	wheat	28-Aug-79		diary record	combine harvested
+R/BK/1	1979	potatoes	01-May-79		diary record	spring-tine cultivated
+R/BK/1	1979	potatoes	14-May-79		diary record	"N applied, spike rotary cultivated, potatoes planted"
+R/BK/1	1979	potatoes	18-May-79		diary record	grubbed twice
+R/BK/1	1979	potatoes	03-Jul-79		diary record	grubbed twice
+R/BK/1	1979	potatoes	30-May-79		diary record	weedkiller applied
+R/BK/1	1979	potatoes	26-Jun-79		diary record	pirimicarb at 0.14 kg and mancozeb at 1.4 kg in 220 1 applied
+R/BK/1	1979	potatoes	05-Jul-79		diary record	pirimicarb at 0.14 kg and mancozeb at 1.4 kg in 220 1 applied
+R/BK/1	1979	potatoes	20-Jul-79		diary record	pirimicarb at 0.14 kg and mancozeb at 1.4 kg in 220 1 applied
+R/BK/1	1979	potatoes	03-Aug-79		diary record	mancozeb at 1.4 kg in 220 1 applied
+R/BK/1	1979	potatoes	15-Aug-79		diary record	mancozeb at 1.4 kg in 220 1 applied
+R/BK/1	1979	potatoes	04-Sep-79		diary record	Haulm pulverized
+R/BK/1	1979	potatoes	14-Sep-79		diary record	lifted
+R/BK/1	1979	fallow section	03-Oct-79		diary record	Sections 2 and 3 chalk applied at 2.9 t
+R/BK/1	1979	fallow section	01-May-79		diary record	spring-tine cultivated
+R/BK/1	1979	fallow section	23-May-79		diary record	ploughed twice
+R/BK/1	1979	fallow section	10-Jul-79		diary record	ploughed twice
+R/BK/1	1979	fallow section	14-Jun-79		diary record	Heavy spring-tine cultivated twice
+R/BK/1	1979	fallow section	31-Jul-79		diary record	Heavy spring-tine cultivated twice
+R/BK/1	1980	all sections	19-Sep-79		diary record	"sections 6, 7, 8 and 9 only Chalk applied at 2.9 t. "
+R/BK/1	1980	all sections	24-Sep-79		diary record	"Sulphate of potash, sulphate of soda, and kieserite applied"
+R/BK/1	1980	all sections	25-Sep-79		diary record	Castor meal and superphosphate applied
+R/BK/1	1980	all sections	26-Sep-79		diary record	FYM applied
+R/BK/1	1980	all sections	27-Sep-79		diary record	ploughed
+R/BK/1	1980	winter wheat	01-Oct-79		diary record	rotary harrowed
+R/BK/1	1980	winter wheat	02-Oct-79		diary record	sections 1 and 2 rotary harrowed again
+R/BK/1	1980	winter wheat	04-Oct-79		diary record	seed sown
+R/BK/1	1980	winter wheat	08-Oct-79		diary record	(not section 8) chlortoluron  applied at 5.6 kg in 220 1
+R/BK/1	1980	winter wheat	29-Feb-80		diary record	Omethoate (to section 3 only) applied (as 'Folimat' at 1.1 l) in 220 1
+R/BK/1	1980	winter wheat	10-Apr-80		diary record	N applied and applied Dicamba with mecoprop and MCPA (as 'Banlene Plus' at 5.0 l) in 250 1. 
+R/BK/1	1980	winter wheat	03-Jun-80		diary record	triadimefon applied at 0.13 kg in 250 1. 
+R/BK/1	1980	winter wheat	23-Jun-80		diary record	demeton-s-methyl applied at 0.24 kg in 250 1 
+R/BK/1	1980	winter wheat	21-Aug-80		diary record	combine harvested
+R/BK/1	1980	potatoes	25-Jan-80		diary record	Chisel ploughed
+R/BK/1	1980	potatoes	17-Apr-80		diary record	"spring-tine cultivated, N applied"
+R/BK/1	1980	potatoes	18-Apr-80		diary record	"spiked rotary cultivated; potatoes planted; phorate at 1.7 kg, at planting"
+R/BK/1	1980	potatoes	25-Apr-80		diary record	grubbed
+R/BK/1	1980	potatoes	02-May-80		diary record	rotary ridged
+R/BK/1	1980	potatoes	19-May-80		diary record	Linuron applied at 1.1 kg in 900 1. 
+R/BK/1	1980	potatoes	18-Jun-80		diary record	applied mancozeb at 1.4 kg with pirimicarb at 0.14 kg in 250 1
+R/BK/1	1980	potatoes	30-Jun-80		diary record	applied mancozeb at 1.4 kg with pirimicarb at 0.14 kg in 250 1
+R/BK/1	1980	potatoes	11-Jul-80		diary record	applied mancozeb at 1.4 kg with pirimicarb at 0.14 kg in 250 1
+R/BK/1	1980	potatoes	24-Jul-80		diary record	applied mancozeb at 1.4 kg with pirimicarb at 0.14 kg in 250 1
+R/BK/1	1980	potatoes	05-Aug-80		diary record	applied mancozeb at 1.4 kg with pirimicarb at 0.14 kg in 250 1
+R/BK/1	1980	potatoes	18-Aug-80		diary record	mancozeb applied at 1.4 kg in 250 1
+R/BK/1	1980	potatoes	28-Aug-80		diary record	Haulm mechanically destroyed
+R/BK/1	1980	potatoes	04-Sep-80		diary record	lifted
+R/BK/1	1980	fallow	01-Feb-80		diary record	Chisel ploughed
+R/BK/1	1980	fallow	21-Apr-80		diary record	Heavy spring-tine cultivated
+R/BK/1	1980	fallow	12-May-80		diary record	ploughed twice
+R/BK/1	1980	fallow	17-Jun-80		diary record	ploughed twice
+R/BK/1	1980	fallow	23-May-80		diary record	spring-tine cultivated twice
+R/BK/1	1980	fallow	19-Jun-80		diary record	spring-tine cultivated twice
+R/BK/1	1980	fallow	01-Aug-80		diary record	rotary harrowed
+R/BK/1	1981	winter wheat			diary record	sections 0 and 5 only Chalk at 2.9 t.
+R/BK/1	1981	all sections	08-Sep-80		diary record	"Superphosphate, sulphate of potash, sulphate of soda, kieserite, and castor meal applied"
+R/BK/1	1981	all sections	10-Sep-80		diary record	FYM applied
+R/BK/1	1981	all sections	11-Sep-80		diary record	ploughed
+R/BK/1	1981	all sections	15-Sep-80		diary record	rolled
+R/BK/1	1981	winter wheat	02-Sep-80		diary record	section 9 only glyphosate at 1.5 1 in 250 1.
+R/BK/1	1981	winter wheat	30-Sep-80		diary record	rotary harrowed
+R/BK/1	1981	winter wheat	01-Oct-80		diary record	seed sown
+R/BK/1	1981	winter wheat	03-Oct-80		diary record	(not applied to section 8) chlortoluron at 5.6 1 in 250 1
+R/BK/1	1981	winter wheat	15-Apr-81		diary record	N applied
+R/BK/1	1981	winter wheat	21-Apr-81		diary record	mecoprop with bromoxynil and ioxynil (as 'Brittox' at 3.7 l) in 250 1
+R/BK/1	1981	winter wheat	05-May-81		diary record	Prochloraz at 0.4 1 in 250 1
+R/BK/1	1981	winter wheat	19-Jun-81		diary record	"Applied to to sections 0, 1, 2, 3 and plots 01, 21, 22 and 03 of sections 5 and 6 Prochloraz at 0.4 1 with maneb at 1.2 kg and zineb at 0.13 kg in 250 1"
+R/BK/1	1981	winter wheat	22-Jun-81		diary record	"Applied to to sections 0, 1, 2, 3 and plots 01, 21, 22 and 03 of sections 5 and 6 and to remaining wheat (rain was believed to have washed off the first applications). Prochloraz at 0.4 1 with maneb at 1.2 kg and zineb at 0.13 kg in 250 1"
+R/BK/1	1981	winter wheat	19-Aug-81		diary record	combine harvested
+R/BK/1	1981	potatoes	16-Jan-81		diary record	Chisel ploughed
+R/BK/1	1981	potatoes	16-Apr-81		diary record	spring-tine cultivated
+R/BK/1	1981	potatoes	17-Apr-81		diary record	N applied
+R/BK/1	1981	potatoes	13-May-81		diary record	"spike rotary cultivated,##potatoes planted##phorate at 1.7 kg at planting"
+R/BK/1	1981	potatoes	01-Jun-81		diary record	Linuron at 1.1 kg and paraquat at 0.6 kg ion in 250 1.
+R/BK/1	1981	potatoes	23-Jun-81		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1981	potatoes	01-Jul-81		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1981	potatoes	13-Jul-81		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1981	potatoes	27-Jul-81		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1981	potatoes	11-Aug-81		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1981	potatoes	09-Jul-81		diary record	ridged
+R/BK/1	1981	potatoes	24-Aug-81		diary record	Haulm mechanically destroyed
+R/BK/1	1981	potatoes	25-Aug-81		diary record	desiccant applied BOV at 170 1.
+R/BK/1	1981	potatoes	14-Sep-81		diary record	lifted
+R/BK/1	1981	fallow	04-Sep-80		diary record	Chalk at 2.9 t to section 4 only.
+R/BK/1	1981	fallow	06-Jan-81		diary record	Chisel ploughed section 4 only
+R/BK/1	1981	fallow	16-Jan-81		diary record	Chisel ploughed section 8 only
+R/BK/1	1981	fallow	16-Apr-81		diary record	spring-tine cultivated
+R/BK/1	1981	fallow	30-Jun-81		diary record	spring-tine cultivated
+R/BK/1	1981	fallow	20-Jul-81		diary record	spring-tine cultivated
+R/BK/1	1981	fallow	11-Aug-81		diary record	spring-tine cultivated
+R/BK/1	1981	fallow	15-May-81		diary record	rotary harrowed
+R/BK/1	1981	fallow	16-Jun-81		diary record	ploughed twice
+R/BK/1	1981	fallow	16-Jul-81		diary record	ploughed twice
+R/BK/1	1981	fallow	19-Jun-81		diary record	Heavy spring-tine cultivated
+R/BK/1	1982	all sections	21-Sep-81		diary record	"superphosphate, sulphate of potash, sulphate of soda, kieserite, and castor meal applied"
+R/BK/1	1982	all sections	25-Sep-81		diary record	FYM applied
+R/BK/1	1982	all sections	28-Sep-81		diary record	ploughed
+R/BK/1	1982	all sections	14-Oct-81		diary record	disced
+R/BK/1	1982	w wheat			diary record	sections 1 and 3 only Chalk at 2.9 t.
+R/BK/1	1982	w wheat	14-Oct-81		diary record	rotary harrowed
+R/BK/1	1982	w wheat	16-Oct-81		diary record	seed sown
+R/BK/1	1982	w wheat	17-Oct-81		diary record	(not applied to section 8) chlortoluron at 5.6 1 in 250 l.
+R/BK/1	1982	w wheat	15-Apr-82		diary record	N applied
+R/BK/1	1982	w wheat	16-Apr-82		diary record	"mecoprop, bromoxynil and ioxynil (as 'Brittox' at 3.5 l) in 250 1"
+R/BK/1	1982	w wheat	26-May-82		diary record	propiconazole at 0.12 kg in 250 1
+R/BK/1	1982	w wheat	17-Jun-82		diary record	propiconazole at 0.12 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1982	w wheat	10-Aug-82		diary record	"plots 03, 05 and 06, sections 0, 1, 5, 6 and 7 and plot 05, section 9: glyphosate at 1.4 kg in 250 1."
+R/BK/1	1982	w wheat	20-Aug-82		diary record	combine harvested
+R/BK/1	1982	potatoes	16-Apr-82		diary record	spring-tine cultivated
+R/BK/1	1982	potatoes	17-Apr-82		diary record	N applied
+R/BK/1	1982	potatoes	20-Apr-82		diary record	"spike rotary cultivated, potatoes planted"
+R/BK/1	1982	potatoes	10-May-82		diary record	rotary ridged
+R/BK/1	1982	potatoes	17-May-82		diary record	Linuron at 1.1 kg and paraquat at 0.5 kg ion in 250 1.
+R/BK/1	1982	potatoes	14-Jun-82		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1982	potatoes	30-Jun-82		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1982	potatoes	12-Jul-82		diary record	mancozeb at 1.4 kg in 250 1
+R/BK/1	1982	potatoes	26-Jul-82		diary record	Ofurace at 0.12 kg and maneb at 1.2 kg and pirimicarb at 0.14 kg in 250 l
+R/BK/1	1982	potatoes	09-Aug-82		diary record	Ofurace at 0.12 kg and maneb at 1.2 kg  in 250 l
+R/BK/1	1982	potatoes	21-Aug-82		diary record	Haulm mechanically destroyed
+R/BK/1	1982	potatoes	24-Aug-82		diary record	desiccant applied BOV at 170 1.
+R/BK/1	1982	potatoes	13-Sep-82		diary record	lifted
+R/BK/1	1982	fallow	11-Sep-81		diary record	Chalk at 2.9 t.
+R/BK/1	1982	fallow	16-Apr-82		diary record	spring-tine cultivated
+R/BK/1	1982	fallow	04-May-82		diary record	ploughed
+R/BK/1	1982	fallow	12-May-82		diary record	"rolled, spring-tine cultivated"
+R/BK/1	1982	fallow	21-Jun-82		diary record	ploughed
+R/BK/1	1982	fallow	30-Jun-82		diary record	spring-tine cultivated
+R/BK/1	1982	fallow	28-Jul-82		diary record	rotary harrowed
+R/BK/1	1983	all sections	16-Sep-82		diary record	"Superphosphate, sulphate of potash, sulphate of soda, kieserite and castor meal applied"
+R/BK/1	1983	all sections	20-Sep-82		diary record	"FYM applied, ploughed"
+R/BK/1	1983	all sections	28-Oct-82		diary record	spring-tine cultivated
+R/BK/1	1983	winter wheat	02-Sep-82		diary record	"sections 6, 8 and 9 only Chalk at 2.9 t"
+R/BK/1	1983	winter wheat	16-Sep-82		diary record	autumn N applied to plot 18
+R/BK/1	1983	winter wheat	04-Nov-82		diary record	"rotary harrowed, seed sown"
+R/BK/1	1983	winter wheat	15-Apr-83		diary record	spring N applied
+R/BK/1	1983	winter wheat	16-Apr-83		diary record	"(not applied to section 8) mecoprop, bromoxynil and ioxynil (as 'Brittox' at 3.5 l) with isoproturon at 2.1 kg in 250 1."
+R/BK/1	1983	winter wheat	26-May-83		diary record	propiconazole at 0.12 kg in 500 l
+R/BK/1	1983	winter wheat	30-Jun-83		diary record	propiconazole at 0.12 kg in 250 1
+R/BK/1	1983	winter wheat	10-Aug-83		diary record	combine harvested
+R/BK/1	1983	potatoes	10-Feb-83		diary record	Chisel ploughed
+R/BK/1	1983	potatoes	05-May-83		diary record	"N applied, heavy spring-tine cultivated"
+R/BK/1	1983	potatoes	10-May-83		diary record	"rotary harrowed, potatoes planted"
+R/BK/1	1983	potatoes	26-May-83		diary record	rotary ridged
+R/BK/1	1983	potatoes	03-Jun-83		diary record	Linuron at 1.6 1 and paraquat at 0.56 kg ion in 500 1.
+R/BK/1	1983	potatoes	22-Jun-83		diary record	mancozeb at 1.4 kg in 250 1
+R/BK/1	1983	potatoes	01-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1983	potatoes	08-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1983	potatoes	18-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1983	potatoes	28-Jul-83		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 1
+R/BK/1	1983	potatoes	11-Aug-83		diary record	Fentin hydroxide at 0.28 kg in 250 1
+R/BK/1	1983	potatoes	30-Aug-83		diary record	Haulm mechanically destroyed
+R/BK/1	1983	potatoes	01-Sep-83		diary record	lifted
+R/BK/1	1983	fallow	02-Sep-82		diary record	Chalk at 2.9 t.
+R/BK/1	1983	fallow	10-Feb-83		diary record	Chisel ploughed
+R/BK/1	1983	fallow	27-May-83		diary record	Heavy spring-tine cultivated
+R/BK/1	1983	fallow	17-Jun-83		diary record	ploughed
+R/BK/1	1983	fallow	23-Jun-83		diary record	spring-tine cultivated
+R/BK/1	1983	fallow	13-Jul-83		diary record	ploughed
+R/BK/1	1983	fallow	21-Jul-83		diary record	spring-tine cultivated
+R/BK/1	1984	all sections	06-Sep-83		diary record	"Sulphate of potash, sulphate of soda, kieserite and castor meal applied"
+R/BK/1	1984	all sections	07-Sep-83		diary record	Superphosphate applied
+R/BK/1	1984	all sections	08-Sep-83		diary record	FYM applied
+R/BK/1	1984	all sections	09-Sep-83		diary record	ploughed
+R/BK/1	1984	all sections	04-Oct-83		diary record	spring-tine cultivated
+R/BK/1	1984	winter wheat	31-Aug-83		diary record	sections 0 and 5 only Chalk at 2.9 t.
+R/BK/1	1984	winter wheat	07-Sep-83		diary record	autumn N applied
+R/BK/1	1984	winter wheat	06-Oct-83		diary record	"rotary harrowed, seed sown"
+R/BK/1	1984	winter wheat	01-Dec-83		diary record	(not applied to section 8) chlortoluron at 3.5 kg in 250 1
+R/BK/1	1984	winter wheat	10-Apr-84		diary record	Cyanazine at 0.30 1 and mecoprop at 2.0 1 in 250 1.
+R/BK/1	1984	winter wheat	13-Apr-84		diary record	spring N applied
+R/BK/1	1984	winter wheat	11-Jun-84		diary record	propiconazole at 0.25 kg in 250 1.
+R/BK/1	1984	winter wheat	28-Jun-84		diary record	pirimicarb at 0.14 kg in 500 1.
+R/BK/1	1984	winter wheat	14-Aug-84		diary record	combine harvested
+R/BK/1	1984	potatoes	13-Dec-83		diary record	Chisel ploughed
+R/BK/1	1984	potatoes	03-Apr-84		diary record	N applied
+R/BK/1	1984	potatoes	04-Apr-84		diary record	"rotary harrowed, potatoes planted"
+R/BK/1	1984	potatoes	10-Apr-84		diary record	rotary ridged
+R/BK/1	1984	potatoes	03-May-84		diary record	Linuron at 1.3 kg and paraquat at 0.50 kg ion in 500 1.
+R/BK/1	1984	potatoes	19-Jun-84		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 250 l
+R/BK/1	1984	potatoes	16-Jul-84		diary record	Fentin hydroxide at 0.28 kg and pirimicarb at 0.14 kg in 200 l
+R/BK/1	1984	potatoes	03-Jul-84		diary record	Fentin hydroxide at 0.28 kg in 200 l
+R/BK/1	1984	potatoes	30-Jul-84		diary record	Fentin hydroxide at 0.28 kg in 200 l
+R/BK/1	1984	potatoes	13-Aug-84		diary record	Fentin hydroxide at 0.28 kg in 200 l
+R/BK/1	1984	potatoes	28-Aug-84		diary record	Fentin hydroxide at 0.28 kg in 200 l
+R/BK/1	1984	potatoes	03-Sep-84		diary record	Haulm mechanically destroyed
+R/BK/1	1984	potatoes	04-Sep-84		diary record	lifted
+R/BK/1	1984	fallow	31-Aug-83		diary record	Chalk at 2.9 t.
+R/BK/1	1984	fallow	13-Dec-83		diary record	Chisel ploughed
+R/BK/1	1984	fallow	01-May-84		diary record	ploughed
+R/BK/1	1984	fallow	08-May-84		diary record	Heavy spring-tine cultivated
+R/BK/1	1984	fallow	18-Jun-84		diary record	ploughed
+R/BK/1	1984	fallow	25-Jun-84		diary record	spring-tine cultivated
+R/BK/1	1984	fallow	23-Jul-84		diary record	rotary cultivated
+R/BK/1	1985	all sections	18-Sep-84		diary record	"Sulphate of soda, kieserite and castor meal applied"
+R/BK/1	1985	all sections	28-Sep-84		diary record	"Sulphate of potash, superphosphate applied"
+R/BK/1	1985	all sections	01-Oct-84		diary record	"FYM applied, ploughed"
+R/BK/1	1985	all sections	16-Oct-84		diary record	spring-tine cultivated
+R/BK/1	1985	w wheat	08-Sep-84		diary record	"sections 1, 2 and 3 only Chalk at 2.9 t."
+R/BK/1	1985	w wheat	28-Sep-84		diary record	autumn N treatment applied
+R/BK/1	1985	w wheat	31-Oct-84		diary record	"rotary harrowed, seed sown"
+R/BK/1	1985	w wheat	10-Apr-85		diary record	"(not applied to section 8) Isoproturon at 2.0 kg with mecoprop at 1.6 kg, bromoxynil at 0.20 kg and ioxynil at 0.20 kg in 200 1."
+R/BK/1	1985	w wheat	18-Apr-85		diary record	spring N treatments applied
+R/BK/1	1985	w wheat	19-Apr-85		diary record	(not applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg and Chlormequat at 1.3 kg in 200 1
+R/BK/1	1985	w wheat	14-Jun-85		diary record	(except section 6) Fenpropimorph at 0.75 kg with captafol at 1.3 kg in 200 1
+R/BK/1	1985	w wheat	02-Jul-85		diary record	(except section 6) propiconazole at 0.12 kg with carbendazim and maneb (as 'Septal' at 2.5 kg) in 200 1.
+R/BK/1	1985	w wheat	17-Jul-85		diary record	(not applied to section 6) pirimicarb at 0.14 kg in 200 1
+R/BK/1	1985	w wheat	06-Sep-85		diary record	combine harvested
+R/BK/1	1985	potatoes	24-Apr-85		diary record	planted
+R/BK/1	1985	potatoes	17-May-85		diary record	Linuron at 1.3 kg with paraquat at 0.50 kg ion in 500 1.
+R/BK/1	1985	potatoes	20-Jun-85		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1985	potatoes	06-Aug-85		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1985	potatoes	03-Jul-85		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kgin 200 1
+R/BK/1	1985	potatoes	23-Jul-85		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kgin 200 1
+R/BK/1	1985	potatoes	21-Aug-85		diary record	Fentin hydroxide at 0.28 kg in 200 1.
+R/BK/1	1985	potatoes	03-Sep-85		diary record	Haulm mechanically destroyed
+R/BK/1	1985	potatoes	05-Sep-85		diary record	Haulm desiccant Diquat at 0.80 kg ion in 500 1.
+R/BK/1	1985	potatoes	17-Sep-85		diary record	lifted
+R/BK/1	1985	fallow	02-May-85		diary record	ploughed
+R/BK/1	1985	fallow	15-Jul-85		diary record	ploughed
+R/BK/1	1985	fallow	16-May-85		diary record	spring-tine cultivated
+R/BK/1	1985	fallow	02-Aug-85		diary record	spring-tine cultivated
+R/BK/1	1986	all sections	23-Sep-85		diary record	"Superphosphate, sulphate of potash, sulphate of soda and castor meal applied"
+R/BK/1	1986	all sections	24-Sep-85		diary record	Kieserite applied
+R/BK/1	1986	all sections	25-Sep-85		diary record	FYM applied
+R/BK/1	1986	all sections	26-Sep-85		diary record	ploughed
+R/BK/1	1986	all sections	30-Sep-85		diary record	rotary harrowed
+R/BK/1	1986	w wheat	19-Sep-85		diary record	"sections 6, 7, 8 and 9 only Chalk at 2.9 t."
+R/BK/1	1986	w wheat	23-Sep-85		diary record	autumn N treatment applied
+R/BK/1	1986	w wheat	03-Oct-85		diary record	"rotary harrowed, seed sown"
+R/BK/1	1986	w wheat	31-Oct-85		diary record	(to section 4 only) Chlorfenvinphos at 1.0 kg in 200 1
+R/BK/1	1986	w wheat	28-Apr-86		diary record	"(not applied to section 8) Isoproturon at 2.0 kg with clopyralid at 0.07 kg, bromoxynil octanoate at 0.34 kg and mecoprop at 2.5 kg in 200 1."
+R/BK/1	1986	w wheat	01-May-86		diary record	(not applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg and Chlormequat chloride at 1.3 kg in 200 1 applied
+R/BK/1	1986	w wheat	02-May-86		diary record	spring N treatments applied
+R/BK/1	1986	w wheat	16-Jun-86		diary record	Fenpropimorph at 0.75 kg with captafol at 1.4 kg in 200 1 (except section 6)
+R/BK/1	1986	w wheat	01-Jul-86		diary record	(except section 6) propiconazole at 0.12 kg with carbendazim and maneb (as 'Septal' at 2.5 kg) in 200 1.
+R/BK/1	1986	w wheat	02-Sep-86		diary record	combine harvested
+R/BK/1	1986	potatoes	07-May-86		diary record	planted
+R/BK/1	1986	potatoes	30-May-86		diary record	Linuron at 1.3 kg in 500 1.
+R/BK/1	1986	potatoes	30-Jun-86		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1986	potatoes	14-Jul-86		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1986	potatoes	28-Jul-86		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 500 1
+R/BK/1	1986	potatoes	12-Aug-86		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg in 200 1
+R/BK/1	1986	potatoes	29-Aug-86		diary record	Haulm desiccant Diquat at 0.80 kg ion in 500 1.
+R/BK/1	1986	potatoes	15-Sep-86		diary record	Haulm mechanically destroyed
+R/BK/1	1986	potatoes	16-Sep-86		diary record	lifted
+R/BK/1	1986	fallow	13-May-86		diary record	spring-tine cultivated
+R/BK/1	1986	fallow	06-Jun-86		diary record	spring-tine cultivated
+R/BK/1	1986	fallow	19-Jun-86		diary record	spring-tine cultivated
+R/BK/1	1986	fallow	28-Jul-86		diary record	spring-tine cultivated
+R/BK/1	1986	fallow	04-Jul-86		diary record	cultivated with thistle bar
+R/BK/1	1986	fallow	22-Aug-86		diary record	cultivated with thistle bar
+R/BK/1	1987	all sections	19-Sep-86		diary record	"Kieserite, sulphate of soda and castor meal applied"
+R/BK/1	1987	all sections	22-Sep-86		diary record	Sulphate of potash applied
+R/BK/1	1987	all sections	06-Oct-86		diary record	Superphosphate applied
+R/BK/1	1987	all sections	08-Oct-86		diary record	"FYM applied, ploughed, disced, rotary harrowed"
+R/BK/1	1987	w wheat	05-Sep-86		diary record	Straw chopped (section 0)
+R/BK/1	1987	w wheat	26-Sep-86		diary record	"Chalk at 2.9 t (sections 0, 4 and 5 only)."
+R/BK/1	1987	w wheat	10-Oct-86		diary record	"rotary harrowed, seed sown"
+R/BK/1	1987	w wheat	17-Oct-86		diary record	(not applied to section 8) Methabenzthiazuron at 3.2 kg in 200 1
+R/BK/1	1987	w wheat	14-Apr-87		diary record	N treatments applied
+R/BK/1	1987	w wheat	15-Apr-87		diary record	"(except section 8) Clopyralid at 0.07 kg, bromoxynil at 0.34 kg and mecoprop at 2.5 kg in 200 1."
+R/BK/1	1987	w wheat	06-May-87		diary record	(not applied to section 6) Prochloraz at 0.40 kg and carbendazim at 0.15 kg and Chlormequat chloride at 1.3 kg. in 200 1 
+R/BK/1	1987	w wheat	16-Jun-87		diary record	(except section 6) Fenpropimorph at 0.75 kg with chlorothalonil at 1.0 kg in 200 l.
+R/BK/1	1987	w wheat	10-Jul-87		diary record	(except section 6) propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 1
+R/BK/1	1987	w wheat	08-Sep-87		diary record	combine harvested
+R/BK/1	1987	potatoes	17-Feb-87		diary record	Heavy spring-tine cultivated
+R/BK/1	1987	potatoes	14-Apr-87		diary record	N treatments applied
+R/BK/1	1987	potatoes	16-Apr-87		diary record	"rotary harrowed, potatoes planted"
+R/BK/1	1987	potatoes	27-Apr-87		diary record	rotary ridged
+R/BK/1	1987	potatoes	30-Apr-87		diary record	Linuron at 1.6 kg in 500 1.
+R/BK/1	1987	potatoes	24-Jun-87		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1987	potatoes	08-Jul-87		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1987	potatoes	28-Jul-87		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1987	potatoes	10-Aug-87		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1987	potatoes	08-Jul-87		diary record	pirimicarb at 0.14 kg in 200 l
+R/BK/1	1987	potatoes	28-Aug-87		diary record	Fentin hydroxide at 0.28 kg in 200 1.
+R/BK/1	1987	potatoes	04-Sep-87		diary record	Haulm desiccant Diquat at 0.80 kg ion in 500 1
+R/BK/1	1987	potatoes	23-Sep-87		diary record	lifted
+R/BK/1	1987	fallow	17-Feb-87		diary record	Heavy spring-tine cultivated
+R/BK/1	1987	fallow	27-Apr-87		diary record	rotary harrowed
+R/BK/1	1987	fallow	28-Apr-87		diary record	Deep-tine cultivated
+R/BK/1	1987	fallow	29-Apr-87		diary record	spring-tine cultivated
+R/BK/1	1987	fallow	22-Jun-87		diary record	glyphosate at 1.4 kg in 200 1
+R/BK/1	1987	fallow	30-Jun-87		diary record	Heavy spring-tine cultivated
+R/BK/1	1987	fallow	17-Aug-87		diary record	glyphosate at 1.4 kg in 200 1
+R/BK/1	1988	all sections	28-Sep-87		diary record	"Triple superphosphate, sulphate of potash, sulphate of soda, kieserite, castor meal and FYM applied"
+R/BK/1	1988	all sections	30-Sep-87		diary record	ploughed
+R/BK/1	1988	w wheat	09-Sep-87		diary record	Straw chopped (section 0)
+R/BK/1	1988	w wheat	28-Sep-87		diary record	autumn N treatment applied
+R/BK/1	1988	w wheat	05-Nov-87		diary record	"rotary harrowed, Brimstone seed sown"
+R/BK/1	1988	w wheat	06-Nov-87		diary record	"rotary harrowed, Squareheads Master seed sown"
+R/BK/1	1988	w wheat	08-Apr-88		diary record	spring N treatments applied
+R/BK/1	1988	w wheat	26-Apr-88		diary record	Fluroxypyr at 0.20 kg with clopyralid at 0.07 kg and bromoxynil at 0.34 kg in 200 1
+R/BK/1	1988	w wheat	06-May-88		diary record	"(not applied to section 6) Chlormequat chloride at 1.3 kg and Prochloraz at 0.40 kg and carbendazim at 0.15 kg in 260 1, Diclofop-methyl at 1.1 kg with fluroxypyr at 0.15 kg in 260 1."
+R/BK/1	1988	w wheat	06-Jun-88		diary record	(except to section 6) propiconazole at 0.12 kg and Tridemorph at 0.25 kg with pirimicarb at 0.14 kg in 200 1
+R/BK/1	1988	w wheat	23-Jun-88		diary record	(except to section 6) Carbendazim at 0.25 kg and maneb at 1.6 kg with propiconazole at 0.12 kg in 200 1.
+R/BK/1	1988	w wheat	05-Sep-88		diary record	combine harvested Brimstone (except section 9)
+R/BK/1	1988	w wheat	06-Sep-88		diary record	combine harvested Brimstone (section 9) and Squareheads Master
+R/BK/1	1988	potatoes	07-Apr-88		diary record	N treatments applied
+R/BK/1	1988	potatoes	08-Apr-88		diary record	"Heavy spring-tine cultivated, rotary harrowed, potatoes planted"
+R/BK/1	1988	potatoes	25-Apr-88		diary record	rotary ridged
+R/BK/1	1988	potatoes	05-May-88		diary record	Linuron at 1.6 kg in 260 1.
+R/BK/1	1988	potatoes	15-Jun-88		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg.
+R/BK/1	1988	potatoes	30-Jun-88		diary record	mancozeb at 1.4 kg and pirimicarb at 0.14 kg.
+R/BK/1	1988	potatoes	08-Jul-88		diary record	Manganese zinc ethylene bisdithiocarbamate at 1.4 kg in 200 1
+R/BK/1	1988	potatoes	18-Jul-88		diary record	mancozeb at 1.4 kg
+R/BK/1	1988	potatoes	01-Aug-88		diary record	mancozeb at 1.4 kg
+R/BK/1	1988	potatoes	15-Aug-88		diary record	mancozeb at 1.4 kg
+R/BK/1	1988	potatoes	30-Aug-88		diary record	Fentin hydroxide at 0.27 kg in 200 1.
+R/BK/1	1988	potatoes	05-Sep-88		diary record	Haulm mechanically destroyed
+R/BK/1	1988	potatoes	15-Sep-88		diary record	lifted
+R/BK/1	1988	fallow	29-Apr-88		diary record	Heavy spring-tine cultivated
+R/BK/1	1988	fallow	13-May-88		diary record	cultivated with rotary grubber
+R/BK/1	1988	fallow	13-Jun-88		diary record	cultivated with rotary grubber
+R/BK/1	1988	fallow	15-Jul-88		diary record	ploughed
+R/BK/1	1988	fallow	29-Jul-88		diary record	disced and rolled
+R/BK/1	1988	fallow	01-Aug-88		diary record	ploughed
+R/BK/1	1989	all sections	26-Sep-88		diary record	P applied to plots 17 and 18
+R/BK/1	1989	all sections	07-Oct-88		diary record	P applied to remaining plots
+R/BK/1	1989	all sections	05-Oct-88		diary record	"K, Na and Mg applied"
+R/BK/1	1989	all sections	14-Oct-88		diary record	"FYM applied, ploughed"
+R/BK/1	1989	all sections	24-Oct-88		diary record	rotary harrowed
+R/BK/1	1989	w wheat	09-Sep-88		diary record	Straw chopped (section 0)
+R/BK/1	1989	w wheat	20-Sep-88		diary record	glyphosate at 1.4 kg in 200 1 (except to sections 2 and 8)
+R/BK/1	1989	w wheat	07-Oct-88		diary record	autumn N treatments applied
+R/BK/1	1989	w wheat	11-Oct-88		diary record	Chalk at 2.9 t (to sections 1 and 3 only).
+R/BK/1	1989	w wheat	26-Oct-88		diary record	"rotary harrowed, Brimstone seed sown"
+R/BK/1	1989	w wheat	27-Oct-88		diary record	"rotary harrowed, Squareheads Master seed sown"
+R/BK/1	1989	w wheat	15-Nov-88		diary record	Isoproturon at 2.5 kg in 200 1 (except to section 8)
+R/BK/1	1989	w wheat	18-Apr-198		diary record	spring N treatments applied
+R/BK/1	1989	w wheat	19-Apr-198		diary record	(except to section 6} Prochloraz at 0.40 kg and carbendazim at 0.15 kg and Chlormequat chloride at 1.6 kg. in 200 1
+R/BK/1	1989	w wheat	5-May-198		diary record	"mecoprop at 2.2 kg, bromoxynil at 0.28 kg and ioxynil at 0.28 kg with isoproturon at 2.1 kg in 200 1 (except to section 8)."
+R/BK/1	1989	w wheat	31-May-198		diary record	Fenpropimorph at 0.56 kg with chlorothalonil at 0.75 kg in 200 1
+R/BK/1	1989	w wheat	20-June-198		diary record	propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 1
+R/BK/1	1989	w wheat	7-Aug-198		diary record	combine harvested Brimstone
+R/BK/1	1989	w wheat	8-Aug-198		diary record	combine harvested Squareheads Master
+R/BK/1	1989	potatoes	28-Mar-89		diary record	Deep-tine cultivated
+R/BK/1	1989	potatoes	18-Apr-89		diary record	N treatments applied
+R/BK/1	1989	potatoes	24-Apr-89		diary record	"rotary harrowed, potatoes planted"
+R/BK/1	1989	potatoes	25-May-89		diary record	rotary ridged
+R/BK/1	1989	potatoes	31-May-89		diary record	Metribuzin at 1.0 kg in 300 1.
+R/BK/1	1989	potatoes	03-Jul-89		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1989	potatoes	17-Jul-89		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1989	potatoes	28-Jul-89		diary record	mancozeb at 1.4 kg in 200 1
+R/BK/1	1989	potatoes	14-Aug-89		diary record	mancozeb at 1.0 kg in 200 1
+R/BK/1	1989	potatoes	20-Aug-89		diary record	Fentin hydroxide at 0.27 kg in 260 1.
+R/BK/1	1989	potatoes	05-Sep-89		diary record	Haulm mechanically destroyed
+R/BK/1	1989	potatoes	12-Sep-89		diary record	lifted
+R/BK/1	1989	fallow	20-Sep-88		diary record	glyphosate at 1.4 kg in 200 1.
+R/BK/1	1989	fallow	09-May-89		diary record	rotary cultivated
+R/BK/1	1989	fallow	19-Jun-89		diary record	rotary cultivated
+R/BK/1	1989	fallow	12-Jul-89		diary record	cultivated with thistle bar
+R/BK/1	1990	all sections	14-Sep-89		diary record	"K, Na and Mg applied"
+R/BK/1	1990	all sections	15-Sep-89		diary record	P applied
+R/BK/1	1990	all sections	27-Sep-89		diary record	FYM applied
+R/BK/1	1990	all sections	28-Sep-89		diary record	ploughed
+R/BK/1	1990	all sections	07-Oct-89		diary record	spiked rotary cultivated
+R/BK/1	1990	all sections	09-Oct-89		diary record	"spiked rotary cultivated, rotary harrowed"
+R/BK/1	1990	w wheat	16-Aug-89		diary record	Straw chopped (section 0)
+R/BK/1	1990	w wheat	29-Aug-89		diary record	glyphosate at 1.4 kg in 200 1 (except to sections 7 and 8)
+R/BK/1	1990	w wheat	13-Sep-89		diary record	Chalk at 2.9 t (o sections 2 and 8 only).
+R/BK/1	1990	w wheat	15-Sep-89		diary record	autumn N treatments applied
+R/BK/1	1990	w wheat	11-Oct-89		diary record	"rotary harrowed, all seed sown."
+R/BK/1	1990	w wheat	17-Nov-89		diary record	Isoproturon at 1.7 kg with mecoprop at 2.0 kg in 200 1 (except to section 8)
+R/BK/1	1990	w wheat	09-Apr-90		diary record	spring N treatments applied
+R/BK/1	1990	w wheat	24-Apr-90		diary record	(except to section 6): Prochloraz at 0.40 kg applied with Chlormequat chloride at 1.6 kg in 200 1
+R/BK/1	1990	w wheat	25-Apr-90		diary record	"mecoprop at 2.2 kg, bromoxynil at 0.28 kg and ioxynil at 0.28 kg in 200 1 (to sections 0, 1, 2 and 3)"
+R/BK/1	1990	w wheat	25-Apr-90		diary record	"mecoprop at 3.6 kg, bromoxynil at 0.45 kg and ioxynil at 0.45 kg in 200 1 (to sections 6, 7 and 9)"
+R/BK/1	1990	w wheat	17-May-90		diary record	Chlorothalonil at 1.0 kg with fenpropimorph at 0.75 kg in 200 1 (except to section 6)
+R/BK/1	1990	w wheat	17-May-90		diary record	Fluroxypyr at 0.40 kg in 200 1 (except to section 8).
+R/BK/1	1990	w wheat	14-Jun-90		diary record	propiconazole at 0.12 kg with carbendazim at 0.25 kg and maneb at 1.6 kg in 200 1
+R/BK/1	1990	w wheat	08-Aug-90		diary record	combine harvested
+R/BK/1	1990	potatoes	29-Aug-89		diary record	glyphosate at 1.4 kg in 200 1
+R/BK/1	1990	potatoes	24-Nov-89		diary record	Deep-tine cultivated
+R/BK/1	1990	potatoes	05-Apr-90		diary record	"N treatments applied, rotary harrowed, potatoes planted, rotary ridged"
+R/BK/1	1990	potatoes	06-Apr-90		diary record	Linuron at 1.6 kg in 200 1.
+R/BK/1	1990	potatoes	15-Jun-90		diary record	maneb at 0.96 kg and zinc oxide at 0.022 kg applied with demeton-s-methyl at 0.24 kg in 200 1.
+R/BK/1	1990	potatoes	29-Jun-90		diary record	mancozeb at 1.0 kg in 200 1
+R/BK/1	1990	potatoes	13-Jul-90		diary record	mancozeb at 1.0 kg in 200 1
+R/BK/1	1990	potatoes	27-Jul-90		diary record	"maneb at 0.96 kg and zinc oxide at 0.022 kg with a wetting agent, 'Bond' at 0.20 1, in 200 1"
+R/BK/1	1990	potatoes	13-Aug-90		diary record	Fentin hydroxide at 0.27 kg in 200 1
+R/BK/1	1990	potatoes	28-Aug-90		diary record	Fentin hydroxide at 0.27 kg in 200 1
+R/BK/1	1990	potatoes	06-Sep-90		diary record	Haulm mechanically destroyed
+R/BK/1	1990	potatoes	21-Sep-90		diary record	lifted
+R/BK/1	1990	fallow	29-Aug-89		diary record	glyphosate at 1.4 kg in 200 1.
+R/BK/1	1990	fallow	24-Nov-89		diary record	Deep-tine cultivated
+R/BK/1	1990	fallow	23-Apr-90		diary record	Heavy spring-tine cultivated
+R/BK/1	1990	fallow	17-May-90		diary record	cultivated by rotary grubber
+R/BK/1	1990	fallow	29-Jun-90		diary record	Heavy spring-tine cultivated
+R/BK/1	1990	fallow	17-Jul-90		diary record	Heavy spring-tine cultivated
+R/BK/1	1991	all sections	01-Oct-90		diary record	"K, Na and Mg applied"
+R/BK/1	1991	all sections	02-Oct-90		diary record	P applied
+R/BK/1	1991	all sections	09-Oct-90		diary record	"FYM applied, ploughed and furrow pressed"
+R/BK/1	1991	all sections	15-Oct-90		diary record	rotary harrowed
+R/BK/1	1991	w wheat	14-Aug-90		diary record	Straw chopped (section 0)
+R/BK/1	1991	w wheat	23-Aug-90		diary record	glyphosate at 1.4 kg in 200 1 (except to sections 4 and 8)
+R/BK/1	1991	w wheat	27-Sep-90		diary record	Chalk at 2.9 t (to sections 7 and 9 only).
+R/BK/1	1991	w wheat	02-Oct-90		diary record	autumn N treatments applied
+R/BK/1	1991	w wheat	16-Oct-90		diary record	"rotary harrowed, seed sown"
+R/BK/1	1991	w wheat	21-Nov-90		diary record	Diflufenican at 0.12 kg and isoproturon at 2.2 kg in 200 1 (except to section 8)
+R/BK/1	1991	w wheat	09-Apr-91		diary record	spring N treatments applied
+R/BK/1	1991	w wheat	24-Apr-91		diary record	(except to section 6) Prochloraz at 0.40 kg with Chlormequat chloride at 1.6 kg in 200 1
+R/BK/1	1991	w wheat	20-Jun-91		diary record	(except to section 6) propiconazole at 0.12 kg with chlorothalonil at 0.50 kg in 200 1
+R/BK/1	1991	w wheat	02-Jul-91		diary record	(except to section 6) Fenpropimorph at 0.75 kg in 200 1
+R/BK/1	1991	w wheat	12-Aug-91		diary record	"glyphosate at 2.2 kg with a wetting agent, 'MAFF Adjuvant no 0004' at 2.9 1, at 150 1 (except to section 8)."
+R/BK/1	1991	w wheat	25-Aug-91		diary record	combine harvested
+R/BK/1	1991	potatoes	11-Sep-90		diary record	glyphosate at 1.4 kg in 200 1
+R/BK/1	1991	potatoes	14-Dec-90		diary record	Deep-tine cultivated
+R/BK/1	1991	potatoes	09-Apr-91		diary record	N treatments applied
+R/BK/1	1991	potatoes	16-Apr-91		diary record	Heavy spring-tine cultivated
+R/BK/1	1991	potatoes	17-Apr-91		diary record	"rotary harrowed, potatoes planted"
+R/BK/1	1991	potatoes	09-May-91		diary record	rotary ridged
+R/BK/1	1991	potatoes	21-May-91		diary record	Linuron at 1.6 kg in 200 1.
+R/BK/1	1991	potatoes	01-Jul-91		diary record	"maneb at 0.96 kg and zinc oxide at 22 g and wetting agent, 'Bond' at 0.20 1 in 200 1"
+R/BK/1	1991	potatoes	22-Jul-91		diary record	maneb at 0.96 kg and zinc oxide at 22 g and pirimicarb at 0.14 kg. in 200 1
+R/BK/1	1991	potatoes	10-Jul-91		diary record	"maneb at 0.96 kg and zinc oxide at 22 g and wetting agent, 'Bond' at 0.20 1 in 200 1"
+R/BK/1	1991	potatoes	01-Aug-91		diary record	"mancozeb at 1.4 kg with a wetting agent, 'Bond' at 0.20 l in 200 1"
+R/BK/1	1991	potatoes	12-Aug-91		diary record	"Fentin hydroxide at 0.27 kg with a wetting agent, 'Nu-film P' at 0.18 l in 200 1."
+R/BK/1	1991	potatoes	28-Aug-91		diary record	Haulm mechanically destroyed
+R/BK/1	1991	potatoes	24-Sep-91		diary record	lifted
+R/BK/1	1991	fallow	14-Dec-90		diary record	Deep-tine cultivated
+R/BK/1	1991	fallow	25-Apr-91		diary record	Heavy spring-tine cultivated
+R/BK/1	1991	fallow	21-Jun-91		diary record	cultivated by rotary grubber
+R/BK/1	1991	fallow	08-Jul-91		diary record	Heavy spring-tine cultivated
+R/BK/1	1991	fallow	12-Jul-91		diary record	"glyphosate at 2.2 kg with a wetting agent, 'MAFF Adjuvant no 0004' at 2.9 1, in 150 1."
