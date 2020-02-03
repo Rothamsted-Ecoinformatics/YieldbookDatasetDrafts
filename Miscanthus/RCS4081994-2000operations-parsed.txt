@@ -1,0 +1,35 @@
+R/CS/408|1994|all plots|25-May-1993|crop planted
+R/CS/408|1994|all plots|02-Feb-94|Hytane 500 Sc at 4.0 1 in 220 1.
+R/CS/408|1994|all plots|08-Apr-94|Scythe at 5.0 1 in 220 1.
+R/CS/408|1994|all plots|06-May-94|muriate of potash at 233 kg.
+R/CS/408|1994|all plots|06-May-94|nitrogen Nl: 34.5% N at 60 kgN/ha in 174 kg.
+R/CS/408|1994|all plots|06-May-94|nitrogen N2: 34.5% N at 120 kgN/ha in 348 kg.
+R/CS/408|1994|all plots|22-Feb-95|cut
+R/CS/408|1995|all plots|15-May-95|muriate of potash at 281 kg.
+R/CS/408|1995|all plots|15-May-95|N1: 27% N applied at 60 kgN/ha
+R/CS/408|1995|all plots|15-May-95|N2: 27% N applied at 120 kgN/ha.
+R/CS/408|1995|all plots|30-Jan-96|cut.
+R/CS/408|1996|all plots|23-May-96|muriate of potash at 233 kg.
+R/CS/408|1996|all plots|23-May-96|nitrogen Nl: 34.5% N at 60 kgN/ha in 174 kg.
+R/CS/408|1996|all plots|23-May-96|nitrogen N2: 34.5% N at 120 kgN/ha in 348 kg.
+R/CS/408|1996|all plots|05-Jun-96|Duplosan new System CMPP at 2.5 1 with Oxytril CM at 0.9 1 in 200 1.
+R/CS/408|1996|all plots|06-Mar-97|hand harvested.
+R/CS/408|1997|all plots|10-Mar-97|Barclay Gallup at.4.0 1 in 200 1.
+R/CS/408|1997|all plots|11-Apr-97|muriate of potash at 281 kg.
+R/CS/408|1997|all plots|22-May-1997|nitrogen Nl: 34.5% N at 60 kgN/ha in 174 kg.
+R/CS/408|1997|all plots|22-May-1997|nitrogen N2: 34.5% N at 120 kgN/ha in 348 kg.
+R/CS/408|1997|all plots|04-Feb-98|hand harvested.
+R/CS/408|1998|all plots|08-May-98|Dow Shield at 0.5 1 in 220 1, spot treated thistles.
+R/CS/408|1998|all plots|04-June-1998|nitrogen Nl: 34.5% N at 60 kgN/ha in 174 kg.
+R/CS/408|1998|all plots|04-June-1998|nitrogen N2: 34.5% N at 120 kgN/ha in 348 kg.
+R/CS/408|1998|all plots|16-June-98|muriate of potash at 286 kg.
+R/CS/408|1998|all plots|01-Feb-99|hand harvested.
+R/CS/408|1999|all plots|07-Apr-99|: Decoy at 15 kg.
+R/CS/408|1999|all plots|07-Apr-99|: Starane 2 at 1.0 1 in 220 1 eastern 6 m.
+R/CS/408|1999|all plots|07-Apr-99|: Starane 2 at 1.0 1 in 400 1 except eastern 6 m.
+R/CS/408|1999|all plots|03-Jun-99|nitrogen Nl: 34.5% N at 60 kgN/ha in 174 kg.
+R/CS/408|1999|all plots|03-Jun-99|nitrogen N2: 34.5% N at 120 kgN/ha in 348 kg.
+R/CS/408|1999|all plots|27-Jan-00|cut.
+R/CS/408|2000|all plots|19-May-00|: muriate of potash at 583 kg. Triple superphosphate at 291 kg.
+R/CS/408|2000|all plots|25-May-00|nitrogen Nl: 34.5% N at 60 kgN/ha in 174 kg.
+R/CS/408|2000|all plots|25-May-00|nitrogen N2: 34.5% N at 120 kgN/ha in 348 kg.

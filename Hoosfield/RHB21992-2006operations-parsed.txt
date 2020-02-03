@@ -1,210 +1,211 @@
-R/HB/2|1992||15-Oct-1991|Chalk applied at 2.9 t.|B
-R/HB/2|1992||07-Dec-1991|Sting CT at 2.0 1 in 200 1.|B
-R/HB/2|1992||11-Dec-1991|Silicate of soda and kieserite applied.|T
-R/HB/2|1992||12-Dec-1991|P and K applied.|T
-R/HB/2|1992||06-Jan-1992|FYM applied.|P
-R/HB/2|1992||13-Jan-1992|ploughed.|B
-R/HB/2|1992||25-Feb-1992|spring-tine cultivated.|B
-R/HB/2|1992||26-Feb-1992|rotary harrowed, Alexis, dressed Baytan, drilled at 150 kg, rolled.|B
-R/HB/2|1992||06-May-1992|N applied.|T
-R/HB/2|1992||15-May-1992|Deloxil at 1.0 1, Duplosan new System CMPP at 2.0 1 and Calixin at 0.70 1 in 200 1.|B
-R/HB/2|1992||09-Jun-1992|Calixin at 0.50 1 and Radar at 0.50 1 in 200 1.|B
-R/HB/2|1992||05-Aug-1992|combine harvested.|B
-R/HB/2|1993||06-Jul-1992|Straw baled.|B
-R/HB/2|1993||21-Dec-1992|Si and K applied.|T
-R/HB/2|1993||22-Dec-1992|P applied.|T
-R/HB/2|1993||19-Jan-1993|FYM applied.|T
-R/HB/2|1993||20-Jan-1993|ploughed.|B
-R/HB/2|1993||03-Mar-1993|Heavy spring-tine cultivated, twice.|B
-R/HB/2|1993||04-Mar-1993|rotary harrowed, Alexis, dressed Baytan, drilled at 350 seed per square metre, rolled.|B
-R/HB/2|1993||30-Apr-1993|N applied.|T
-R/HB/2|1993||13-May-1993|ally at 30 g and Starane 2 at 1.0 1 in 200 1.|B
-R/HB/2|1993||08-Jun-1993|Alto 100 SL at 0.80 1 and Derosal WDG at 0.31 kg in 200 1.|B
-R/HB/2|1993||14-Aug-1993|combine harvested.|B
-R/HB/2|1994||19-Nov-1993|P applied.|T
-R/HB/2|1994||22-Nov-1993|Si and K applied.|T
-R/HB/2|1994||15-Dec-1993|FYM applied.|T
-R/HB/2|1994||16-Dec-1993|ploughed.|B
-R/HB/2|1994||14-Mar-1994|spring-tine cultivated twice, rotary harrowed, Alexis, dressed Baytan, drilled at 350 seed per m2, rolled.|B
-R/HB/2|1994||27-Apr-1994|N applied.|T
-R/HB/2|1994||27-May-1994|Duplosan new System CMPP at 2.0 1 with Vindex at 1.4 1 in 200 1.|B
-R/HB/2|1994||23-Jun-1994|Derosal WDG at 312 g with during at 1.0 1 in 260 1.|B
-R/HB/2|1994||09-Aug-1994|combine harvested.|B
-R/HB/2|1995||08-Aug-1994|Straw baled.|B
-R/HB/2|1995||03-Nov-1994|P applied.|T
-R/HB/2|1995||07-Nov-1994|K applied.|PT
-R/HB/2|1995||08-Nov-1994|Mg applied.|T
-R/HB/2|1995||10-Nov-1994|Si applied.|T
-R/HB/2|1995||15-Nov-1994|Stubble topped.|B
-R/HB/2|1995||15-Dec-1994|Farmyard manures applied.|T
-R/HB/2|1995||22-Dec-1994|ploughed.|B
-R/HB/2|1995||16-Mar-1995|spring-tine cultivated, rotary harrowed, Alexis, dressed Baytan, drilled at 350 seed per m2.|B
-R/HB/2|1995||04-May-1995|N applied.|T
-R/HB/2|1995||23-May-1995|Duplosan new System CMPP at 1.5 1 with Vindex at 1.4 1 in 260 1.|B
-R/HB/2|1995||08-Aug-1995|combine harvested.|B
-R/HB/2|1996||06-Aug-1995|Straw baled.|B
-R/HB/2|1996||02-Nov-1995|P applied.|T
-R/HB/2|1996||08-Nov-1995|K applied.|T
-R/HB/2|1996||11-Dec-1995|Si applied.|T
-R/HB/2|1996||14-Dec-1995|Farmyard manures applied.|T
-R/HB/2|1996||19-Dec-1995|ploughed.|B
-R/HB/2|1996||15-Mar-1996|spring-tine cultivated, rotary harrowed, Cooper, dressed Baytan Flowable, drilled at 350 seed per m2.|B
-R/HB/2|1996||18-Mar-1996|rolled.|B
-R/HB/2|1996||30-Apr-1996|N applied.|T
-R/HB/2|1996||02-Jun-1996|Duplosan new System CMPP at 2.0 1 with Vindex at 1.4 1 in 200 1.|B
-R/HB/2|1996||11-Jul-1996|Pulled wild oats by hand.|B
-R/HB/2|1996||22-Aug-1996|combine harvested.|T
-R/HB/2|1997||02-Sep-1996|Straw baled.|B
-R/HB/2|1997||26-Nov-1996|P applied.|T
-R/HB/2|1997||04-Dec-1996|K applied.|T
-R/HB/2|1997||05-Dec-1996|Si applied.|T
-R/HB/2|1997||17-Dec-1996|Farmyard manures applied.|T
-R/HB/2|1997||19-Dec-1996|ploughed.|B
-R/HB/2|1997||10-Mar-1997|spring-tine cultivated.|B
-R/HB/2|1997||11-Mar-1997|rotary harrowed, Cooper, dressed Baytan Flowable, drilled at 350 seed per m2.|B
-R/HB/2|1997||12-Mar-1997|rolled.|B
-R/HB/2|1997||24-Apr-1997|N applied.|T
-R/HB/2|1997||22-May-1997|MSS Optica at 2.0 1 with Vindex at 1.0 1 in 300 1.|B
-R/HB/2|1997||01-Jul-1997|hand rogued wild oats.|B
-R/HB/2|1997||22-Jul-1997|hand rogued wild oats.|B
-R/HB/2|1997||22-Aug-1997|combine harvested.|B
-R/HB/2|1998||21-Aug-1997|Straw baled.|B
-R/HB/2|1998||13-Nov-1997|Alpha Glyphogan at 1.5 1 with Vassgro non ionic at 250 ml in 200 1.|B
-R/HB/2|1998||26-Nov-1997|Si applied.|T
-R/HB/2|1998||03-Dec-1997|P applied.|T
-R/HB/2|1998||06-Jan-1998|K and Mg applied.|T
-R/HB/2|1998||13-Jan-1998|Farmyard manures applied.|T
-R/HB/2|1998||14-Jan-1998|ploughed.|B
-R/HB/2|1998||04-Feb-1998|spring-tine cultivated.|B
-R/HB/2|1998||05-Feb-1998|rotary harrowed, Cooper, dressed Baytan Flowable, drilled at 350 seed per m2.|B
-R/HB/2|1998||23-Mar-1998|N applied.|T
-R/HB/2|1998||08-May-1998|ally at 20 g with MSS Optica at 2.0 1 in 200 1.|B
-R/HB/2|1998||08-May-1998|Bavistin DF at 0.5 kg with Opus at 0.3 1 in 200 1.|B
-R/HB/2|1998||07-Jul-1998|hand rogued wild oats.|B
-R/HB/2|1998||10-Aug-1998|combine harvested.|B
-R/HB/2|1999||17-Nov-1998|Roundup at 2.0 1 in 200 1.|B
-R/HB/2|1999||06-Jan-1999|P and K applied.|T
-R/HB/2|1999||07-Jan-1999|Farmyard manures and Si applied.|T
-R/HB/2|1999||11-Jan-1999|ploughed.|B
-R/HB/2|1999||12-Jan-1999|ploughing completed.|B
-R/HB/2|1999||08-Feb-1999|spring-tine cultivated.|B
-R/HB/2|1999||12-Feb-1999|rotary harrowed, Cooper, tr. Raxil S, drilled at 350 seed per m2.|B
-R/HB/2|1999||30-Apr-1999|N applied.|T
-R/HB/2|1999||06-May-1999|Punch C at 0.4 1 in 200 1.|B
-R/HB/2|1999||15-May-1999|ally at 30 g with Duplosan at 1.0 1 in 200 1.|B
-R/HB/2|1999||01-Jun-1999|Punch C at 0.5 1 in 200 1.|B
-R/HB/2|1999||14-Jul-1999|hand rogued wild oats.|B
-R/HB/2|1999||29-Jul-1999|Roundup active at 4.0 1 in 200 1.|B
-R/HB/2|1999||24-Aug-1999|combine harvested.|B
-R/HB/2|2000||08-Dec-1999|P and K applied.|T
-R/HB/2|2000||14-Dec-1999|Si applied.|T
-R/HB/2|2000||15-Dec-1999|Farmyard manures applied.|T
-R/HB/2|2000||17-Dec-1999|ploughed.|B
-R/HB/2|2000||06-Mar-2000|Combination drilled, Optic, tr. Raxil S, at 350 seeds/m2 with the Accord drill.|B
-R/HB/2|2000||07-Mar-2000|rolled.|B
-R/HB/2|2000||10-May-2000|N treatments applied as 27.0 % N.|T
-R/HB/2|2000||24-May-2000|Opus at 0.3 1 with Unix at 0.5 kg in 100 1.|B
-R/HB/2|2000||03-Jun-2000|ally at 30 g with Duplosan at 1.0 1 in 200 1.|B
-R/HB/2|2000||20-Jun-2000|Opus at 0.3 1 in 200 1.|B
-R/HB/2|2000||17-Jul-2000|hand rogued wild oats.|B
-R/HB/2|2000||24-Aug-2000|combine harvested. |B
-R/HB/2|2001||02-Jan-2001|P, P2, K and Mg applied. K and Mg completed 05-Jan-01.|T
-R/HB/2|2001||03-Jan-2001|FYM and Si applied.|T
-R/HB/2|2001||08-Jan-2001|ploughed.|B
-R/HB/2|2001||30-Mar-2001|Combination drilled, Optic, tr. Raxil S, at 350 seeds/m2 with the Accord drill.|B
-R/HB/2|2001||19-May-2001|tm) ally at 20 g in 100 1.|B
-R/HB/2|2001||19-May-2001|tm) Starane 2 at 0.5 1 in 100 1.|B
-R/HB/2|2001||21-May-2001|N applied (27.5% N) applied by hand.|T
-R/HB/2|2001||11-Jun-2001|Opus at 0.4 1 in 100 1.|B
-R/HB/2|2001||02-Jul-2001|Folicur at 0.5 1 in 200 1.|B
-R/HB/2|2001||06-Sep-2001|combine harvested, plots for yield, sampled and weighed straw, swathed straw, started.|T
-R/HB/2|2001||07-Sep-2001|combine harvested remaining plots for yield, and discards. sampled and weighed straw. swathed  straw.|T
-R/HB/2|2001||11-Sep-2001|baled straw.|B
-R/HB/2|2002||13-Dec-2001|K, P and P2 applied.|T
-R/HB/2|2002||19-Dec-2001|FYM, Si and MG2 applied.|T
-R/HB/2|2002||20-Dec-2001|ploughed.|B
-R/HB/2|2002||18-Feb-2002|Combination drilled, Optic, tr. Raxil S, at 350 seeds/m2 with the Accord 1 drill.|B
-R/HB/2|2002||19-Apr-2002|sprayed plants.|P
-R/HB/2|2002||25-Apr-2002|N (27.5% N) applied by hand.|T
-R/HB/2|2002||03-May-2002|tm) ally at 30 g in 200 1.|B
-R/HB/2|2002||03-May-2002|tm) Duplosan KV at 1.0 1 in 200 1.|B
-R/HB/2|2002||03-May-2002|tm) Amistar at 0.4 1 in 200 1.|B
-R/HB/2|2002||03-May-2002|tm) Unix at 0.5 kg in 200 1|B
-R/HB/2|2002||04-Jul-2002|Rogued wild oats, 3 plants.|B
-R/HB/2|2002||07-Aug-2002|Roundup active at 3.0 1 in 200 1.|B
-R/HB/2|2002||27-Aug-2002|combine harvested plots for yield, started. swathed straw and baled o&e's.|T
-R/HB/2|2002||28-Aug-2002|combine harvested plots for yield, completed.|T
-R/HB/2|2002||28-Aug-2002|sampled, baled and weighed straw. swathed straw.|T
-R/HB/2|2002||02-Sep-2002|combine harvested all remaining barley. swathed and baled straw.|B
-R/HB/2|2002||03-Sep-2002|carted bales.|B
-R/HB/2|2003||08-Jan-2003|K, K*, P2, Si, Mg ( to plot 63) applied.|T
-R/HB/2|2003||09-Jan-2003|FYM, applied.|T
-R/HB/2|2003||10-Jan-2002|ploughed 25 cm wide furrow.|B
-R/HB/2|2003||20-Feb-2003|Combination drilled, Optic, tr. Raxil S, at 350 seeds/m2 with the Accord 1 drill.|B
-R/HB/2|2003||21-Mar-2003|rolled.|B
-R/HB/2|2003||31-Mar-2003|sprayed paths.|P
-R/HB/2|2003||03-Apr-2003|N (27.5% N) applied by hand.|T
-R/HB/2|2003||22-Apr-2003|tm) ally at 30 g in 200 1.|B
-R/HB/2|2003||22-Apr-2003|tm) Oxytril CM at 0.75 1 in 200 1.|B
-R/HB/2|2003||11-May-2003|tm) Opus at 0.25 1 in 200 1.|B
-R/HB/2|2003||11-May-2003|tm) Unix at 0.4 kg in 200 1.|B
-R/HB/2|2003||11-May-2003|tm) Amistar at 0.4 1 in 200 1.|B
-R/HB/2|2003||08-Jun-2003|tm) Acanto at 0.4 1 in 200 1.|B
-R/HB/2|2003||08-Jun-2003|tm) Opus at 0.25 1 in 200 1.|B
-R/HB/2|2003||02-Jul-2003|Rogued wild oats.|B
-R/HB/2|2003||26-Jul-2003|Touchdown at 4.0 1 in 200 1.|B
-R/HB/2|2003||04-Aug-2003|combine harvested plots for yield.|B
-R/HB/2|2003||04-Aug-2003|combine harvested discards.|B
-R/HB/2|2003||04-Aug-2003|sampled and weighed straw.|B
-R/HB/2|2003||07-Aug-2003|combine harvested all remaining barley.
-R/HB/2|2003||07-Aug-2003|baled straw.|B
-R/HB/2|2004||27-Nov-2003|K, K*, Si, Mg ( to plot 63) applied.|T
-R/HB/2|2004||28-Nov-2003|P applied|T
-R/HB/2|2004||10-Dec-2003|FYM, applied.|T
-R/HB/2|2004||10-Dec-2003|ploughed 30 cm wide furrow.|T
-R/HB/2|2004||12-Feb-2004|Combination drilled, Optic, tr. Raxil S, at 350 seeds/m2 with the Accord drill.|B
-R/HB/2|2004||21-Feb-2004|rolled.|B
-R/HB/2|2004||01-Mar-2004|Avadex Excel 15G at 15 kg.|B
-R/HB/2|2004||14-Apr-2004|tm) ally at 30 g in 200 1.|B
-R/HB/2|2004||14-Apr-2004|tm) Oxytril CM at 0.5 1 in 200 1.|B
-R/HB/2|2004||20-Apr-2004|N (27% N).|T
-R/HB/2|2004||26-Apr-2004|tm) Acanto at 0.4 1 in 200 1.
-R/HB/2|2004||26-Apr-2004|tm) Unix at 0.4 kg in 200 1.|B
-R/HB/2|2004||06-Aug-2004|combine harvested plots for yield.|B
-R/HB/2|2004||06-Aug-2004|combine harvested discards.|B
-R/HB/2|2004||06-Aug-2004|sampled and weighed straw.|B
-R/HB/2|2004||01-Sep-2004|baled straw.|B
-R/HB/2|2005||18-Oct-2004|glyphosate 360 at 3.0 1 in 200 1.|B
-R/HB/2|2005||04-Nov-2004|P, K, Mg ( to plot 63) applied.|T
-R/HB/2|2005||05-Nov-2004|Si and FYM applied|T
-R/HB/2|2005||05-Nov-2004|ploughed 25 cm wide furrow.|T
-R/HB/2|2005||19-Feb-2005|springtined, combination drilled, Optic, tr. Raxil S, at 375 seeds/m2 with the Accord drill.|B
-R/HB/2|2005||21-Apr-2005|N (27% N) to main plots (rolled series O, A).|T
-R/HB/2|2005||22-Apr-2005|N (34.5% N) to remainder.|T
-R/HB/2|2005||15-May-2005|tm) Corbel at 0.75 1 in 200 1.|B
-R/HB/2|2005||15-May-2005|tm) Fandango at 1.0 1 in 200 1.|B
-R/HB/2|2005||15-May-2005|tm) Farmon M SX at 100 g in 200 1.|B
-R/HB/2|2005||11-Jul-2005|rogued wild oats.|
-R/HB/2|2005||30-Aug-2005|combine harvested plots for yield.|B
-R/HB/2|2005||30-Aug-2005|sampled and weighed straw.|B
-R/HB/2|2005||01-Sep-2005|combine harvested discards, swathed straw.|B
-R/HB/2|2005||02-Sep-2005|baled straw.|B
-R/HB/2|2006||09-Sep-2005|Weedazol-TL at 20.0 1 in 200 1, series O only.|B
-R/HB/2|2006||16-Nov-2005|P, K, Mg ( to plot 63) applied.|T
-R/HB/2|2006||17-Nov-2005|Si applied.|T
-R/HB/2|2006||17-Nov-2005|Azural at 2.0 1 in 200 1.|T
-R/HB/2|2006||21-Nov-2005|FYM applied.|T
-R/HB/2|2006||23-Nov-2005|ploughed 25 cm wide furrow.|B
-R/HB/2|2006||03-Feb-2006|cultipressed, combination drilled, Optic, tr. Raxil Pro, at 375 seeds/m2 with the Accord drill, rolled.|B
-R/HB/2|2006||25-Apr-2006|N (27% N) to main plots (rolled series O, A) and plots 6 and 7 series AA.|T
-R/HB/2|2006||26-Apr-2006|N (34.5% N) to remainder.|T
-R/HB/2|2006||17-May-2006|tm) Acanto at 0.5 1 in 200 1.|B
-R/HB/2|2006||17-May-2006|tm) Unix at 0.5 kg in 200 1.|B
-R/HB/2|2006||17-May-2006|tm) Quantum SX at 30 g in 200 1.|B
-R/HB/2|2006||17-May-2006|tm) Duplosan KV at 2.3 1 in 200 1.|B
-R/HB/2|2006||16-Jun-2006|Fandango at 1.25 1 in 200 1.|B
-R/HB/2|2006||17-Jul-2006|rogued wild oats.|:
-R/HB/2|2006||11-Aug-2006|combine harvested discards, swathed straw, baled.|B
-R/HB/2|2006||16-Aug-2006|combine harvested plots for yield.|B 
-R/HB/2|2006||16-Aug-2006|sampled and weighed straw, baled straw.|B 
-R/HB/2|2006||16-Aug-2006|combine harvested remaining discards, swathed  straw. baled straw.|B
+R/HB/2|1992|all plots|15-Oct-91|Chalk applied at 2.9 t.
+R/HB/2|1992|all plots|07-Dec-91|Sting CT at 2.0 1 in 200 1. ¥
+R/HB/2|1992|all plots|11-Dec-91|Silicate of soda and kieserite applied.
+R/HB/2|1992|all plots|12-Dec-91|P and K applied. 5
+R/HB/2|1992|all plots|06-Jan-92|FYM applied. :
+R/HB/2|1992|all plots|13-Jan-92|ploughed.
+R/HB/2|1992|all plots|25-Feb-92|spring-tine cultivated.
+R/HB/2|1992|all plots|26-Feb-92|rotary harrowed, Alexis, dressed Baytan, drilled at 150 kg, rolled.
+R/HB/2|1992|all plots|06-May-92|N applied.
+R/HB/2|1992|all plots|15-May-92|Deloxil at 1.0 1, Duplosan new System CMPP at 2.0 1 and Calixin at 0.70 1 in 200 1.
+R/HB/2|1992|all plots|09-Jun-92|Calixin at 0.50 1 and Radar at 0.50 1 in 200 1.
+R/HB/2|1992|all plots|05-Aug-92|combine harvested.
+R/HB/2|1993|all plots|06-Jul-92|Straw baled.
+R/HB/2|1993|all plots|21-Dec-92|Si and K applied.
+R/HB/2|1993|all plots|22-Dec-92|P applied.
+R/HB/2|1993|all plots|19-Jan-93|FYM applied.
+R/HB/2|1993|all plots|20-Jan-93|ploughed.
+R/HB/2|1993|all plots|03-Mar-93|hay spring-tine cultivated, twice.
+R/HB/2|1993|all plots|04-Mar-93|rotary harrowed, Alexis, dressed Baytan, drilled at 350 seed per square are, rolled.
+R/HB/2|1993|all plots|30-Apr-93|N applied.
+R/HB/2|1993|all plots|13-May-93|ally at 30 g and Starane 2 at 1.0 1 in 200 1.
+R/HB/2|1993|all plots|08-Jun-93|Alto 100 SL at 0.80 1 and Derosal WDG at 0.31 kg in 200 1.
+R/HB/2|1993|all plots|14-Aug-93|combine harvested.
+R/HB/2|1994|all plots|19-Nov-93|P applied.
+R/HB/2|1994|all plots|22-Nov-93|Si and K applied.
+R/HB/2|1994|all plots|15-Dec-93|FYM applied.
+R/HB/2|1994|all plots|16-Dec-93|ploughed.
+R/HB/2|1994|all plots|14-Mar-94|spring-tine cultivated twice, rotary harrowed, Alexis, dressed Baytan, drilled at 350 seed per m’, rolled.
+R/HB/2|1994|all plots|27-Apr-94|N applied.
+R/HB/2|1994|all plots|27-May-94|Duplosan new System CMPP at 2.0 1 with Vindex at 1.4 1 in 200 1.
+R/HB/2|1994|all plots|23-Jun-94|Derosal WDG at 312 g with during at ‘1.0 1 in"260 1.
+R/HB/2|1994|all plots|09-Aug-94|combine harvested. :
+R/HB/2|1995|all plots|08-Aug-94|Straw baled.
+R/HB/2|1995|all plots|03-Nov-94|P applied.
+R/HB/2|1995|all plots|07-Nov-94|K applied.
+R/HB/2|1995|all plots|08-Nov-94|Mg applied.
+R/HB/2|1995|all plots|10-Nov-94|Si applied.
+R/HB/2|1995|all plots|15-Nov-94|Stubble topped.
+R/HB/2|1995|all plots|15-Dec-94|Farmyard manures applied.
+R/HB/2|1995|all plots|22-Dec-94|ploughed.
+R/HB/2|1995|all plots|16-Mar-95|spring-tine cultivated, rotary harrowed, Alexis, dressed Baytan, drilled at 350 seed per m’.
+R/HB/2|1995|all plots|04-May-95|N applied.
+R/HB/2|1995|all plots|23-May-95|Duplosan new System CMPP at 1.5 1 with Vindex at 1.4 1 in 260 1.
+R/HB/2|1995|all plots|08-Aug-95|combine harvested.
+R/HB/2|1996|all plots|06-Aug-95|Straw baled.
+R/HB/2|1996|all plots|02-Nov-95|P applied.
+R/HB/2|1996|all plots|08-Nov-95|K applied.
+R/HB/2|1996|all plots|11-Dec-95|Si applied.
+R/HB/2|1996|all plots|14-Dec-95|Farmyard manures applied.
+R/HB/2|1996|all plots|19-Dec-95|ploughed.
+R/HB/2|1996|all plots|15-Mar-96|spring-tine cultivated, rotary harrowed, Copper, dressed Baytan Flowable, drilled at 350 seed per nm’.
+R/HB/2|1996|all plots|18-Mar-96|rolled.
+R/HB/2|1996|all plots|30-Apr-96|N applied.
+R/HB/2|1996|all plots|02-Jun-96|Duplosan new System CMPP at 2.0 1 with Vindex at 1.4 1 in 200 1.
+R/HB/2|1996|all plots|11-Jul-96|pulled wild oats by hand.
+R/HB/2|1996|all plots|22-Aug-96|combine harvested.
+R/HB/2|1997|all plots|02-Sep-96|Straw baled.
+R/HB/2|1997|all plots|26-Nov-96|P applied.
+R/HB/2|1997|all plots|04-Dec-96|K applied.
+R/HB/2|1997|all plots|05-Dec-96|Si applied.
+R/HB/2|1997|all plots|17-Dec-96|Farmyard manures applied.
+R/HB/2|1997|all plots|19-Dec-96|ploughed.
+R/HB/2|1997|all plots|10-Mar-97|spring-tine cultivated.
+R/HB/2|1997|all plots|11-Mar-97|rotary harrowed, Copper, dressed Baytan Flowable, drilled at 350 seed per mi.
+R/HB/2|1997|all plots|12-Mar-97|rolled.
+R/HB/2|1997|all plots|24-Apr-97|N applied.
+R/HB/2|1997|all plots|22-May-97|MSS Optica at 2.0 1 with Vindex at 1.0 1 in 300 1.
+R/HB/2|1997|all plots|01-Jul-97|hand rogued wild oats.
+R/HB/2|1997|all plots|22-Jul-97|hand rogued wild oats.
+R/HB/2|1997|all plots|22-Aug-97|combine harvested.
+R/HB/2|1998|all plots|21-Aug-97|Straw baled.
+R/HB/2|1998|all plots|13-Nov-97|Alpha Glyphogan at 1.5 1 with Vassgro non ionic at 250 ml in 200 1.
+R/HB/2|1998|all plots|26-Nov-97|Si applied.
+R/HB/2|1998|all plots|03-Dec-97|P applied.
+R/HB/2|1998|all plots|06-Jan-98|K and Mg applied.
+R/HB/2|1998|all plots|13-Jan-98|Farmyard manures applied.
+R/HB/2|1998|all plots|14-Jan-98|ploughed.
+R/HB/2|1998|all plots|04-Feb-98|spring-tine cultivated.
+R/HB/2|1998|all plots|05-Feb-98|rotary harrowed, Copper, dressed Baytan Flowable, drilled at 350 seed per me.
+R/HB/2|1998|all plots|23-Mar-98|N applied.
+R/HB/2|1998|all plots|08-May-98|ally at 20 g with MSS Optica at 2.0 1 in 200 1.
+R/HB/2|1998|all plots|08-May-98|Bavistin DF at 0.5 kg with Opus at 0.3 1 in 200 1.
+R/HB/2|1998|all plots|07-Jul-98|hand rogued wild oats.
+R/HB/2|1998|all plots|10-Aug-98|combine harvested.
+R/HB/2|1999|all plots|17-Nov-98|Roundup at 2.0 1 in 200 1.
+R/HB/2|1999|all plots|06-Jan-99|P and X applied.
+R/HB/2|1999|all plots|07-Jan-99|Farmyard manures and Si applied.
+R/HB/2|1999|all plots|11-Jan-99|ploughed.
+R/HB/2|1999|all plots|12-Jan-99|ploughing completed.
+R/HB/2|1999|all plots|08-Feb-99|spring-tine cultivated.
+R/HB/2|1999|all plots|12-Feb-99|rotary harrowed, Copper, tr. Raxil s, drilled at 350 seed per m'.
+R/HB/2|1999|all plots|30-Apr-99|N applied.
+R/HB/2|1999|all plots|06-May-99|Punch C at 0.4 1 in 200 1.
+R/HB/2|1999|all plots|15-May-99|ally at 30 g with Duplosan at 1.0 1 in 200 1.
+R/HB/2|1999|all plots|01-Jun-99|Punch C at 0.5 1 in 200 1.
+R/HB/2|1999|all plots|14-Jul-99|hand rogued wild oats.
+R/HB/2|1999|all plots|29-Jul-99|Roundup Biactive at 4.0 1 in 200 1.
+R/HB/2|1999|all plots|24-Aug-99|combine harvested.
+R/HB/2|2000|all plots|08-Dec-99|P and K applied.
+R/HB/2|2000|all plots|14-Dec-99|Si applied.
+R/HB/2|2000|all plots|15-Dec-99|Farmyard manures applied.
+R/HB/2|2000|all plots|17-Dec-99|ploughed.
+R/HB/2|2000|all plots|06-Mar-00|Combination drilled, Optic, tr. Raxil S, at 350 seed with the Accord drill.
+R/HB/2|2000|all plots|07-Mar-00|rolled.
+R/HB/2|2000|all plots|10-May-00|N treatment applied as 27.0 % N.
+R/HB/2|2000|all plots|24-May-00|Opus at 0.3 1 with Unix at 0.5 kg in 100 1.
+R/HB/2|2000|all plots|03-Jun-00|ally at 30 g with Duplosan at 1.0 1 in 200 1.
+R/HB/2|2000|all plots|20-Jun-00|Opus at 0.3 1 in 200 1.
+R/HB/2|2000|all plots|17-Jul-00|hand rogued wild oats.
+R/HB/2|2000|all plots|24-Aug-00|combine harvested.
+R/HB/2|2001|all plots|02-Jan-01|P, P2, K and Mg applied. K and Mg completed 05-Jan-01.
+R/HB/2|2001|all plots|03-Jan-01|FYM and Si applied.
+R/HB/2|2001|all plots|08-Jan-01|ploughed.
+R/HB/2|2001|all plots|30-Mar-01|Combination drilled, Optic, tr. Raxil S, at 350 seed with the Accord drill.
+R/HB/2|2001|all plots|19-May-01|tm) ally at 20 g in 100 1.
+R/HB/2|2001|all plots|19-May-01|tm) Starane 2 at 0.5 1 in 100 1.
+R/HB/2|2001|all plots|21-May-01|N applied (27.5% N) applied by hand.
+R/HB/2|2001|all plots|11-Jun-01|Opus at 0.4 1 in 100 1.
+R/HB/2|2001|all plots|02-Jul-01|Folicur at 0.5 1 in 200 1.
+R/HB/2|2001|all plots|06-Sep-01|combine harvested, plots for yield, sampled and weighed straw, swathed straw, started.
+R/HB/2|2001|all plots|07-Sep-01|combine harvested remaining plots for yield, and discards. sampled and weighed straw. swathed straw.
+R/HB/2|2001|all plots|11-Sep-01|baled straw.
+R/HB/2|2002|all plots|13-Dec-01|: K, P and P2 applied.
+R/HB/2|2002|all plots|19-Dec-01|: FYM, Si and MG2 applied.
+R/HB/2|2002|all plots|20-Dec-01|: ploughed.
+R/HB/2|2002|all plots|18-Feb-02|: Combination drilled, Optic, tr. Raxil S, at 350 seed? with the Accord 1 drill.
+R/HB/2|2002|all plots|19-Apr-02|: sprayed plants.
+R/HB/2|2002|all plots|25-Apr-02|: N (27.5% N) applied by hand.
+R/HB/2|2002|all plots|03-May-02|: tm) ally at 30 g in 200 1.
+R/HB/2|2002|all plots|03-May-02|: tm) Duplosan KV at 1.0 1 in 200 1.
+R/HB/2|2002|all plots|03-May-02|tm) Amistar at 0.4 1 in 200 1.
+R/HB/2|2002|all plots|03-May-02|tm) Unix at 0.5 kg in 200 1
+R/HB/2|2002|all plots|04-Jul-02|: Rogued wild oats, 3 plants.
+R/HB/2|2002|all plots|07-Aug-02|: Roundup Biactive at 3.0 1 in 200 1.
+R/HB/2|2002|all plots|27-Aug-02|: combine harvested plots for yield, started.
+R/HB/2|2002|all plots|27-Aug-02|swathed straw and baled o&e's.
+R/HB/2|2002|all plots|28-Aug-02|: combine harvested plots for yield, completed.
+R/HB/2|2002|all plots|28-Aug-02|sampled, baled and weighed straw. swathed straw.
+R/HB/2|2002|all plots|02-Sep-02|: combine harvested all remaining barley. swathed and baled straw.
+R/HB/2|2002|all plots|03-Sep-02|: carted bales.
+R/HB/2|2003|all plots|08-Jan-03|: K, K*, P2, Si, Mg ( to plot 63) applied.
+R/HB/2|2003|all plots|09-Jan-03|: FYM, applied.
+R/HB/2|2003|all plots|10-Jan-02|: ploughed 25 cm wide furrow.
+R/HB/2|2003|all plots|20-Feb-03|: Combination drilled, Optic, tr. Raxil S, at 350 seed with the Accord 1 drill.
+R/HB/2|2003|all plots|21-Mar-03|rolled.
+R/HB/2|2003|all plots|31-Mar-03|: sprayed plants.
+R/HB/2|2003|all plots|03-Apr-03|N (27.5% N) applied by hand.
+R/HB/2|2003|all plots|22-Apr-03|: tm) ally at 30 g in 200 1.
+R/HB/2|2003|all plots|22-Apr-03|: tm) Oxytril CM at 0.75 1 in 200 1.
+R/HB/2|2003|all plots|11-May-03|: tm) Opus at 0.25 1 in 200 1.
+R/HB/2|2003|all plots|11-May-03|: tm) Unix at 0.4 kg in 200 1.
+R/HB/2|2003|all plots|11-May-03|: tm) Amistar at 0.4 1 in 200 1.
+R/HB/2|2003|all plots|08-Jun-03|: tm) Acanto at 0.4 1 in 200 1.
+R/HB/2|2003|all plots|08-Jun-03|: tm) Opus at 0.25 1 in 200 1.
+R/HB/2|2003|all plots|02-Jul-03|: Rogued wild oats.
+R/HB/2|2003|all plots|26-Jul-03|Touchdown at 4.0 1 in 200 1.
+R/HB/2|2003|all plots|04-Aug-03|: combine harvested plots for yield.
+R/HB/2|2003|all plots|04-Aug-03|combine harvested discards.
+R/HB/2|2003|all plots|04-Aug-03|: sampled and weighed straw.
+R/HB/2|2003|all plots|07-Aug-03|: combine harvested all remaining barley.
+R/HB/2|2003|all plots|07-Aug-03|: baled straw.
+R/HB/2|2004|all plots|27-Nov-03|: K, K*, Si, Mg ( to plot 63) applied.
+R/HB/2|2004|all plots|28-Nov-03|P applied
+R/HB/2|2004|all plots|10-Dec-03|: FYM, applied.
+R/HB/2|2004|all plots|10-Dec-03|: ploughed 30 cm wide furrow.
+R/HB/2|2004|all plots|12-Feb-04|: Combination drilled, Optic, tr. Raxil S, at 350 seed with the Accord drill.
+R/HB/2|2004|all plots|21-Feb-04|rolled.
+R/HB/2|2004|all plots|01-Mar-04|- Avadex Excel 15G at 15 kg.
+R/HB/2|2004|all plots|14-Apr-04|: tm) ally at 30 g in 200 1.
+R/HB/2|2004|all plots|14-Apr-04|: tm) Oxytril CM at 0.5 1 in 200 1.
+R/HB/2|2004|all plots|20-Apr-04|: N (27% N).
+R/HB/2|2004|all plots|26-Apr-04|: tm) Acanto at 0.4 1 in 200 1.
+R/HB/2|2004|all plots|26-Apr-04|tm) Unix at 0.4 kg in 200 1.
+R/HB/2|2004|all plots|06-Aug-04|: combine harvested plots for yield.
+R/HB/2|2004|all plots|06-Aug-04|combine harvested discards.
+R/HB/2|2004|all plots|06-Aug-04|: sampled and weighed straw.
+R/HB/2|2004|all plots|01-Sep-04|: baled straw.
+R/HB/2|2005|all plots|18-Oct-04|glyphosate 360 at 3.0 1 in 200 1.
+R/HB/2|2005|all plots|04-Nov-04|: P, K, Mg ( to plot 63) applied.
+R/HB/2|2005|all plots|05-Nov-04|: S1 and FYM applied
+R/HB/2|2005|all plots|05-Nov-04|: ploughed 25 cm wide furrow.
+R/HB/2|2005|all plots|19-Feb-05|: springtined, combination drilled, Optic, tr. Raxil S, at 375 seed with the Accord drill.
+R/HB/2|2005|all plots|21-Apr-05|N (27% N) to main plots (rolled series 0O, A).
+R/HB/2|2005|all plots|22-Apr-05|N (34.5% N) to remainder.
+R/HB/2|2005|all plots|15-May-05|: tm) Corbel at 0.75 1 in 200 1.
+R/HB/2|2005|all plots|15-May-05|tm) Fandango at 1.0 1 in 200 1.
+R/HB/2|2005|all plots|15-May-05|: tm) Harmony M SX at 100 g in 200 1.
+R/HB/2|2005|all plots|11-Jul-05|hand rogued wild oats.
+R/HB/2|2005|all plots|30-Aug-05|: combine harvested plots for yield.
+R/HB/2|2005|all plots|30-Aug-05|: sampled and weighed straw.
+R/HB/2|2005|all plots|01-Sep-05|: combine harvested discards, swathed straw.
+R/HB/2|2005|all plots|02-Sep-05|: baled straw.
+R/HB/2|2006|all plots|09-Sep-05|Weedazol-TL at 20.0 1 in 200 1, series O only.
+R/HB/2|2006|all plots|16-Nov-05|: P, K, Mg ( to plot 63) applied.
+R/HB/2|2006|all plots|17-Nov-05|: S1 applied.
+R/HB/2|2006|all plots|17-Nov-05|: Azural at 2.0 1 in 200 1.
+R/HB/2|2006|all plots|21-Nov-05|: FYM applied.
+R/HB/2|2006|all plots|23-Nov-05|: ploughed 25 cm wide furrow.
+R/HB/2|2006|all plots|03-Feb-06|: cultipressed, combination drilled, Optic, tr. Raxil Pro, at 375 seed with the Accord drill, rolled.
+R/HB/2|2006|all plots|25-Apr-06|: N (27% N) to main plots (rolled series O, A) and plots 6 and 7 series AA.
+R/HB/2|2006|all plots|26-Apr-06|: N (34.5% N) to remainder.
+R/HB/2|2006|all plots|17-May-06|: tm) Acanto at 0.5 1 in 200 1.
+R/HB/2|2006|all plots|17-May-06|: tm) Unix at 0.5 kg in 200 1.
+R/HB/2|2006|all plots|17-May-06|: tm) Quantum SX at 30 g in 200 1.
+R/HB/2|2006|all plots|17-May-06|: tm) Duplosan KV at LLC2-3 1 in 200 1.
+R/HB/2|2006|all plots|16-Jun-06|: Fandango at 1.25 1 in 200 1.
+R/HB/2|2006|all plots|17-Jul-06|hand rogued wild oats.
+R/HB/2|2006|all plots|11-Aug-06|. combine harvested discards, swathed straw, baled.
+R/HB/2|2006|all plots|16-Aug-06|. combine harvested plots for yield.
+R/HB/2|2006|all plots|16-Aug-06|: sampled and weighed straw, baled straw.
+R/HB/2|2006|all plots|16-Aug-06|. combine harvested remaining discards, swathed straw. baled straw.

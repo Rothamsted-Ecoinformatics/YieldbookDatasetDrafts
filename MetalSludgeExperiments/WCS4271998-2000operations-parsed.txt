@@ -1,0 +1,37 @@
+W/CS/427|1998|all plots|26-Jun-97|Sludges applied as treatment.
+W/CS/427|1998|all plots|29-Jul-97|mechanically Spreader cultivated.
+W/CS/427|1998|all plots|03-Sep-97|rolled.
+W/CS/427|1998|all plots|10-Sep-97|Gallup at 6.0 1 in 2001.
+W/CS/427|1998|all plots|18-Sep-97|rotary harrowed, Atalja Italian grass, drilled at 40 kg.
+W/CS/427|1998|all plots|22-Sep-97|rolled.
+W/CS/427|1998|all plots|31-Mar-98|muriate of potash at 120 kg. 34.5% N at 261 kg.
+W/CS/427|1998|all plots|07-Apr-98|SLUDGE Tl, T19, T20: Triple superphosphate at 64 kg.
+W/CS/427|1998|all plots|07-Apr-98|SLUDGE Tl, Tin, T17, T18, T19, T20: 27% N at 222 kg.
+W/CS/427|1998|all plots|09-May-98|Legumex extra at 7.0 1 in 200 1.
+W/CS/427|1998|all plots|02-Jul-98|cut.
+W/CS/427|1998|all plots|09-Sep-98|cut, no yield
+W/CS/427|1999|all plots|24-Sep-98|: tm) Alpha Glyphogan at 3.0 1 in 200 1.
+W/CS/427|1999|all plots|24-Sep-98|tm) Codacide spoilt at 0.5 1 in 200 1.
+W/CS/427|1999|all plots|16-Oct-98|: Sludges applied as treatment.
+W/CS/427|1999|all plots|17-Nov-98|: mechanically Spreader cultivated.
+W/CS/427|1999|all plots|19-Nov-98|: rolled. drilled Riband, tr. Anchor, at 380 seed with the Accord drill.
+W/CS/427|1999|all plots|23-Nov-98|: Decoy at 5.0 kg.
+W/CS/427|1999|all plots|19-Mar-99|: tm) Isogard at 2.0 1 in 200 1.
+W/CS/427|1999|all plots|19-Mar-99|: tm) Platform S at 1.0 kg in 200 1.
+W/CS/427|1999|all plots|03-Apr-99|: 34.5% N at 116 kg.
+W/CS/427|1999|all plots|25-Apr-99|: tm) Folicur at 0.5 1 in 200 1.
+W/CS/427|1999|all plots|25-Apr-99|: tm) Tripart Brevis at 2.0 1 in 200 1.
+W/CS/427|1999|all plots|29-Apr-99|: muriate of potash at 150 kg. 27% N at 370 kg.
+W/CS/427|1999|all plots|07-May-99|: ally at 30 g in 200 1.
+W/CS/427|1999|all plots|27-May-99|: tm) Folicur at 0.75 1 in 200 1.
+W/CS/427|1999|all plots|27-May-99|: tm) Sipcam UK clover 500 at 1.0 1 in 200 Ll.
+W/CS/427|1999|all plots|22-Aug-99|: combine harvested, straw chopped.
+W/CS/427|2000|all plots|25-Sep-99|: treatment applied. mechanically Spreader cultivated the times.
+W/CS/427|2000|all plots|05-Oct-99|: rotary harrowed.
+W/CS/427|2000|all plots|12-Oct-99|: broadcast Cotswold grass mix A at 40 kg. rolled.
+W/CS/427|2000|all plots|12-Nov-99|: Spannit at 1.5 1 in 1001.
+W/CS/427|2000|all plots|25-Feb-00|: muriate of potash at 100 kg. 34.5% N at 116 kg.
+W/CS/427|2000|all plots|25-Feb-00|T1,T19,T20 : Triple superphosphate at 63.8 kg.
+W/CS/427|2000|all plots|19-Mar-00|: Legumex extra at 7.0 1 in 200 1.
+W/CS/427|2000|all plots|07-Apr-00|: broadcast Danergo and Ligrane grass 50:50 mix at 30 kg.
+W/CS/427|2000|all plots|11-Apr-00|: 27.0% N at 259 kg.

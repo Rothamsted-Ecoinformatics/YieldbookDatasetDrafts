@@ -1938,14 +1938,14 @@ all plots
 30-May-94 : B : Cyclone at 1.0 1 with Mistral at 0.5 1 in 200 1.
 14-Jun-94 : B : Hostathion at 0.84 1 in 200 1.
 21-Aug-94 : T : CROPSEQ WHEAT 4: Combine harvested.
-22-Aug-94 : 2 : CROPSEQ WHEAT 3: Combine harvested.
+22-Aug-94 : T : CROPSEQ WHEAT 3: Combine harvested.
 ]]></rawcontent>
 </report>
 <report>
 <year>1995</year>
 <rawcontent>
 <![CDATA[
-all plots:
+all plots
 09-Sep-94 : B : Dolomite at 7.5 ct.
 26-Sep-94 : B : Barclay Gallup at 4.0 1 in 200 1.
 03-Oct-94 : B : Ploughed.
@@ -1993,7 +1993,7 @@ all plots
 <rawcontent>
 <![CDATA[
 all plots:
-17-Sep-97 : 3 : Ploughed. Rolled.
+17-Sep-97 : B : Ploughed. Rolled.
 29-Sep-97 : B : PK as (0:20:32) at 500 kg.
 30-Sep-97 : B : Rotary harrowed, Mereward, dressed Sibutol, drilled at 385 seeds per m.
 13-Nov-97 : B : Stomp 400 SC at 2.0 1 with Isoproturon 500 at 1.0 1 and Cyperkill 10 at 0.25 1 in 200 2.
@@ -2083,7 +2083,7 @@ all plots:
 <year>2002</year>
 <rawcontent>
 <![CDATA[
-all plots:
+all plots
 20-Sep-01 : B : Sulphate of potash at 200 kg. 
 20-Sep-01 : B : Triple superphosphate at 106 kg. 
 20-Sep-01 : B : Ploughed.
@@ -2108,7 +2108,7 @@ all plots:
 <year>2003</year>
 <rawcontent>
 <![CDATA[
-all plots:
+all plots
 19-Sep-02 : B : CleanCrop Egret at 4.0 1 in 200 l
 25-Sep-02 : B : Chalk applied at 5.0 t.
 01-Oct-02 : B : Ploughed 35cm wide furrows
@@ -2117,7 +2117,7 @@ all plots:
 : T : Rolled Lc plots.
 08-Oct-02 : T : Power harrowed rye plots.
 : T : Drilled, Picasso/Nikita mix, tr. Baytan, at 302 seeds/m* with 4.0 m Accord drill.
-T : : Rolled.
+: T : : Rolled.
 26-Nov-02 : T : tm)Lexus Class WSB at 60 g in 200 l.
 : T : tm)Hallmark with Zeon Technology at 25 ml in 200 l. to rye plots.
 03-Apr-03 : T : Triple superphosphate at 97.5 (not to Dg25 plots).
@@ -2129,14 +2129,14 @@ T : : Rolled.
 10-Aug-03 : T : Combine harvested, plots for yield.
 11-Aug-03 : T : Combine harvested all remaining wheat.
 : T : Weighted straw.
-13-Aug-03 :T : Baled straw.
+13-Aug-03 : T : Baled straw.
 ]]></rawcontent>
 </report>
 <report>
 <year>2004</year>
 <rawcontent>
 <![CDATA[
-all plots:
+all plots
 14-Aug-03 : T : Drilled Albatross, White mustard, at 10 kg with Moore Unidrill to CC plots.
 22-Sep-03 : T : Chopped straw applied at 7.5 t to St plots.
 09-Mar-04 : T : Compost applied at 40 t to CO plots.
@@ -2148,7 +2148,7 @@ all plots:
 : B : Drilled, Optic, tr. Sibutol, at 400 seeds/m* with 4.0 m Accord drill.
 : B : Rolled.
 07-May-04 : T : Nitrogen treatments applied as Nitro-chalk 27% N by hand.
-24-May-04 T : Sulphate of Potash at 200 kg (not to Dg25)
+24-May-04 : T : Sulphate of Potash at 200 kg (not to Dg25)
 : T : Triple Superphosphate at 97.5 kg (not to Dg25).
 02-Jun-04 : B : Harmony M at 60 6 in 200 1 to barley plots.
 03-Jun-04 : B : tm)Opus at 0.4 1 in 200 1 to barley plots.
@@ -2180,7 +2180,7 @@ all plots
 11-May-05 : B : tm)Bravo 500 at 1.0 1 in 200 1 to bean plots.
 : B : tm)Folicur at 0.5 1 in 200 1 to bean plots.
 : B : tm)Hallmark with Zeon Technology at 0.75 1 in 200 1 to bean plots.
-13-Jul-05 18 cut yield strips Lc plots only, weighed and sampled.
+13-Jul-05 : B : cut yield strips Lc plots only, weighed and sampled.
 01-Aug-05 : T : Topped, Lc plots only.
 03-Sep-05 : T : Combine harvested, bean plots for yield, swathed straw.
 03-Sep-05 : T : Combine harvested discards, swathed straw.
@@ -2205,19 +2205,19 @@ all plots:
 : B : tm)Stomp 400 SC at 2.5 1 in 200 l
 : B : tm)Hallmark with Zeon Technology at 50 ml in 200 1
 : B : tm)Mantrac 500 at 1.01 in 200 1, to wheat plots.
-01-Mar-06 T : Sulphate of Potash at 200 kg (not to Dg25).
+01-Mar-06 : T : Sulphate of Potash at 200 kg (not to Dg25).
 : T : Triple Superphosphate at 97.5 kg (not to Dg25).
-13-Mar-06 1st N applied as 27% N to wheat plots.
-20-Apr-06 Main dressing applied as 27% N to wheat plots.
+13-Mar-06 : B : 1st N applied as 27% N to wheat plots.
+20-Apr-06 : B : Main dressing applied as 27% N to wheat plots.
 24-Apr-06 : B : tm)Bravo 500 at 1.25 1 in 200 1
 : B : : tm)Opus at 0.75 1 in 200 1
-B tm)Mantrac 500 at 1.25 1 in 200 1 to wheat plots.
-16-May-06 tm)Quantum SX at 30 g in 200 l
-tm)Copper Man at 2.0 kg in 200 1 to wheat plots.
+: B : tm)Mantrac 500 at 1.25 1 in 200 1 to wheat plots.
+16-May-06 : B : tm)Quantum SX at 30 g in 200 l
+: B : tm)Copper Man at 2.0 kg in 200 1 to wheat plots.
 07-Jun-06 : B : tm)Bravo 500 at 1.01 in 200 1
 : B : : tm)Opus at 0.75 1 in 200 1
 : B : tm)Vivid at 0.4 1 in 200 1 to wheat plots.
-28-Jun-06 1st cut yield strips Lc plots only, weighed and sampled. Mowed discards.
+28-Jun-06 : B : 1st cut yield strips Lc plots only, weighed and sampled. Mowed discards.
 29-Jun-06 : B : Baled.
 25-Aug-06 : T : Combine harvested, wheat plots for yield, swathed straw. Combine harvested discards, swathed straw.
 ]]></rawcontent>

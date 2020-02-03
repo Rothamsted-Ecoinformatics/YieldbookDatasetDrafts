@@ -1,84 +1,85 @@
-RW/CS/10|1992|sawyers i r|25-Aug-1991|Deep-tine cultivated with vibrating tines 60 cm apart, 45 cm deep.|B
-RW/CS/10|1992|sawyers i r|26-Aug-1991|ploughed, rolled.|B
-RW/CS/10|1992|sawyers i r|04-Sep-1991|rotary harrowed.|B
-RW/CS/10|1992|sawyers i r|05-Sep-1991|rotary harrowed, Libravo, dressed Hydraguard and Rovral WP, drilled at 6.1 kg, rolled.|B
-RW/CS/10|1992|sawyers i r|06-Sep-1991|Butisan S at 2.5 1 in 200 1.|B
-RW/CS/10|1992|sawyers i r|24-Oct-1991|NK as (25:0:16) at 200 kg.|B
-RW/CS/10|1992|sawyers i r|02-Dec-1991|Vytel Liquid Chelated Magnesium at 2.0 1 in 200 1.|B
-RW/CS/10|1992|sawyers i r|05-Mar-1992|SULPHUR 30: 30 kg S as gypsun.|T
-RW/CS/10|1992|sawyers i r|05-Mar-1992|34.5% N at 220 kg.|B
-RW/CS/10|1992|sawyers i r|13-Apr-1992|ploughed (crop failed).|B
-RW/CS/10|1992|stackyard c w|03-Sep-1991|ploughed.|B
-RW/CS/10|1992|stackyard c w|06-Sep-1991|rotary cultivated, Libravo, dressed Hydraguard and Rovral wp, drilled at 6.0 kg, rolled.|B
-RW/CS/10|1992|stackyard c w|29-Oct-1991|NK as (25:0:16) at 200 kg.|B
-RW/CS/10|1992|stackyard c w|15-Jan-1992|Benazalox at 1.25 kg in 200 1.|B
-RW/CS/10|1992|stackyard c w|05-Mar-1992|SULPHUR 30: 30 kg S as gypsum.|2
-RW/CS/10|1992|stackyard c w|06-Mar-1992|34.5% N at 220 kg.|B
-RW/CS/10|1992|stackyard c w|13-May-1992|ploughed (crop failed).|B
-RW/CS/10|1993|sawyers i r|29-Sep-1992|ploughed.|B
-RW/CS/10|1993|sawyers i r|07-Oct-1992|rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg.|B
-RW/CS/10|1993|sawyers i r|13-Oct-1992|Opogard 500 FW at 2.8 1 in 200 1.|B
-RW/CS/10|1993|sawyers i r|16-Apr-1993|SULPHUR 30: 30 kg S as gypsum.|T
-RW/CS/10|1993|sawyers i r|22-Jun-1993|Power Dimathoate 40 at 1.7 1 in 200 1.|B.
-RW/CS/10|1993|sawyers i r|02-Jul-1993|Mistral at 1.0 1 in 200 1.|B
-RW/CS/10|1993|sawyers i r|02-Jul-1993|Sportak 45 at 1.1 1 in 200 1.|B
-RW/CS/10|1993|sawyers i r|06-Sep-1993|Stefes Diquat at 3.0 1 with Vassgro Spreader at 0.30 1 in 260 1.|B
-RW/CS/10|1993|sawyers i r|10-Oct-1993|combine harvested.|B
-RW/CS/10|1993|stackyard c w|02-Oct-1992|rotary harrowed, CH 304/70, inoculated with rhizobium, drilled at 100 kg.|B
-RW/CS/10|1993|stackyard c w|12-Oct-1992|Opogard 500 FW at 1.8 1 and Scythe at 3.0 1 in 200 1.|B
-RW/CS/10|1993|stackyard c w|22-Mar-1993|ploughed (crop failed).|B
-RW/CS/10|1993|stackyard c w|08-Jul-1993|rotary cultivated.|B
-RW/CS/10|1994|sawyers i r|16-Oct-1993|ploughed.|B
-RW/CS/10|1994|sawyers i r|19-Oct-1993|disced.|B
-RW/CS/10|1994|sawyers i r|20-Oct-1993|spring-tine cultivated, CH304/70 drilled at 40 seeds per m2.|B
-RW/CS/10|1994|sawyers i r|26-Oct-1993|Opogard 500 FW at 2.8 1 in 200 1.|B
-RW/CS/10|1994|sawyers i r|16-Feb-1994|Atlas Simazine at 1.0 1 in 200 1.|B
-RW/CS/10|1994|sawyers i r|13-Jun-1994|SULPHUR 30: 30 kg S as gypsum.|T
-RW/CS/10|1994|sawyers i r|06-Sep-1994|Barclay Gallup at 4.0 1 in 200 1.|B
-RW/CS/10|1994|stackyard c w|16-Sep-1993|ploughed.|B
-RW/CS/10|1994|stackyard c w|24-Sep-1993|rotary harrowed, CH304/70 drilled at 40 seeds per m2.|B
-RW/CS/10|1994|stackyard c w|18-Feb-1994|Atlas Simazine at 1.0 1 in 200 1.|B
-RW/CS/10|1994|stackyard c w|10-Mar-1994|SULPHUR 30: 30 kg S as gypsum.|T
-RW/CS/10|1994|stackyard c w|09-May-1994|Sportak 45 at 1.5 1 in 200 1.|B
-RW/CS/10|1995|sawyers i r|06-Sep-19S4|Barclay Gallup at 4.0 1 in 200 1.|B
-RW/CS/10|1995|sawyers i r|12-Sep-1994|topped.|B
-RW/CS/10|1995|sawyers i r|14-Sep-1994|ploughed.|B
-RW/CS/10|1995|sawyers i r|29-Sep-1994|disced, heavy spring-tine cultivated.|B
-RW/CS/10|1995|sawyers i r|30-Sep-1994|rotary harrowed, Genesis, dressed Rappor, drilled at 380 seeds per m2.|B
-RW/CS/10|1995|sawyers i r|24-Nov-1994|Alpha Isoproturon 500 at 2.5 1 with Stomp 400 at 2.5 1 in 200 1.|B
-RW/CS/10|1995|sawyers i r|13-Apr-1995|34.5% N at 435 kg.|B
-RW/CS/10|1995|sawyers i r|01-May-1995|SULPHUR 30: Gypsum (17.5% S) at 171 kg.|T
-RW/CS/10|1995|sawyers i r|10-May-1995|Halo at 2.0 1 in 200 1.|B
-RW/CS/10|1995|sawyers i r|16-Jun-1995|Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.|B
-RW/CS/10|1995|sawyers i r|02-Aug-1995|combine harvested.|B
-RW/CS/10|1995|stackyard c w|23-Sep-1994|ploughed|B
-RW/CS/10|1995|stackyard c w|30-Sep-1994|rotary harrowed, Genesis, dressed Rappor, drilled at 300 seeds per m2. rolled.|B
-RW/CS/10|1995|stackyard c w|28-Nov-1994|Panther at 2.0 1 with Decis at 0.20 1 in 200 1.|B
-RW/CS/10|1995|stackyard c w|13-Mar-1995|SULPHUR 30: Gypsum (17.5% S) at 171 kg.|T
-RW/CS/10|1995|stackyard c w|15-Mar-1995|34.5% N at 116 kg.|B
-RW/CS/10|1995|stackyard c w|21-Apr-1995|34.5% N at 348 kg.|B
-RW/CS/10|1995|stackyard c w|28-Apr-1995|Halo at 2.0 1 in 200 1.|B
-RW/CS/10|1995|stackyard c w|01-Jun-1995|Cyclone at 1.0 1 with Mallard at 0.3 1 in 200 1.|B
-RW/CS/10|1995|stackyard c w|30-Sun-1995|primicarb 50 DG at 280 g in 300 1.|B
-RW/CS/10|1995|stackyard c w|04-Aug-1995|combine harvested. 
-RW/CS/10|1996|sawyers i r|10-Aug-1995|Straw baled.|B
-RW/CS/10|1996|sawyers i r|22-Aug-1995|sub-soiled.|B
-RW/CS/10|1996|sawyers i r|25-Sep-1995|ploughed.|B
-RW/CS/10|1996|sawyers i r|28-Sep-1995|rotary harrowed, Hereward, dressed Panoctine, drilled at 380 seed per m2.|B
-RW/CS/10|1996|sawyers i r|11-Mar-1996|34.5% N at 116 kg.|B
-RW/CS/10|1996|sawyers i r|09-Apr-1996|SULPHUR 30: Gypsum (17.5% S) at 171 kg.|T
-RW/CS/10|1996|sawyers i r|15-Apr-1996|34.5% N at 463 kg.|B
-RW/CS/10|1996|sawyers i r|26-Apr-1996|ally at 30 g with Cheetah Super at 1.25 1 and Barclay Holdup at 2.3 1 in 200 1.|B
-RW/CS/10|1996|sawyers i r|13-Jun-1996|Alto 100 SL at 0.6 1 with Mallard 750 EC at 0.4 1 in 300 1.|B
-RW/CS/10|1996|sawyers i r|09-Aug-1996|combine harvested.|B
-RW/CS/10|1996|stackyard c www|25-Aug-1995|sub-soiled.|B
-RW/CS/10|1996|stackyard c www|19-Sep-1995|ploughed.|B
-RW/CS/10|1996|stackyard c www|23-Sep-1995|rolled.|B
-RW/CS/10|1996|stackyard c www|03-Oct-1995|rotary harrowed, Hereward, dressed Sibutol, drilled at 375 seed per m2.|B
-RW/CS/10|1996|stackyard c www|13-Nov-1995|Panther at 2.0 1 in 200 1.|B
-RW/CS/10|1996|stackyard c www|13-Mar-1996|34.5% N at 116 kg.|B
-RW/CS/10|1996|stackyard c www|19-Mar-1996|SULPHUR 30: Gypsum (17.5% S) at 171 kg.|T
-RW/CS/10|1996|stackyard c www|16-Apr-1996|34.5% N at 348 kg.|B
-RW/CS/10|1996|stackyard c www|30-Apr-1996|Halo at 1.5 1 in 200 1.|B
-RW/CS/10|1996|stackyard c www|06-Jun-1996|Silvacur at 1.0 1 in 300 1.|B
-RW/CS/10|1996|stackyard c www|19-Aug-1996|combine harvested.|B
+source_id	sequence	Experiment	harvest_year	plots	start_date_orig	start date	end_date_orig	end_date	type	flag	orig_record	record	rate	unit	water_volume	water_volume_unit
+7378		RW/CS/10	1992	Sawyers I (R)-	25-Aug-91						"Deep-tine cultivated with vibrating tines 60 cm apart, 45 cm deep."	"Deep-tine cultivated with vibrating tines 60 cm apart, 45 cm deep."				
+7379		RW/CS/10	1992	Sawyers I (R)-	26-Aug-91						"ploughed, rolled."	"ploughed, rolled."				
+7380		RW/CS/10	1992	Sawyers I (R)-	04-Sep-91						rotary harrowed.	rotary harrowed.				
+7381		RW/CS/10	1992	Sawyers I (R)-	05-Sep-91						"rotary harrowed, Libravo, dressed Hydraguard and Rovral WP, drilled at 6.1 kg, rolled."	"rotary harrowed, Libravo, dressed Hydraguard and Rovral WP, drilled at 6.1 kg, rolled."				
+7382		RW/CS/10	1992	Sawyers I (R)-	06-Sep-91						Butisan S at 2.5 1 in 200 1.	Butisan S at 2.5 1 in 200 1.				
+7383		RW/CS/10	1992	Sawyers I (R)-	24-Oct-91						NK as (25:0:16) at 200 kg.	NK as (25:0:16) at 200 kg.				
+7384		RW/CS/10	1992	Sawyers I (R)-	02-Dec-91						Vytel Liquid chelated magnesium at 2.0 1 in 200 1.	Vytel Liquid chelated magnesium at 2.0 1 in 200 1.				
+7385		RW/CS/10	1992	Sawyers I (R)-	05-Mar-92						sulphur 30: 30 kg S as gypsun.	sulphur 30: 30 kg S as gypsun.				
+7386		RW/CS/10	1992	Sawyers I (R)-	05-Mar-92						34.5% N at 220 kg.	34.5% N at 220 kg.				
+7387		RW/CS/10	1992	Sawyers I (R)-	13-Apr-92						ploughed (crop failed.	ploughed (crop failed.				
+7388		RW/CS/10	1992	Stackyard C (W).	03-Sep-91						ploughed.	ploughed.				
+7389		RW/CS/10	1992	Stackyard C (W).	06-Sep-91						"rotary cultivated, Libravo, dressed Hydraguard and Rovral wp, drilled at 6.0 kg, rolled. :"	"rotary cultivated, Libravo, dressed Hydraguard and Rovral wp, drilled at 6.0 kg, rolled. :"				
+7390		RW/CS/10	1992	Stackyard C (W).	29-Oct-91						NK as (25:0:16) at 200 kg.	NK as (25:0:16) at 200 kg.				
+7391		RW/CS/10	1992	Stackyard C (W).	15-Jan-92						Benazalox at 1.25 kg in 200 1.	Benazalox at 1.25 kg in 200 1.				
+7392		RW/CS/10	1992	Stackyard C (W).	05-Mar-92						sulphur 30: 30 kg S as gypsum	sulphur 30: 30 kg S as gypsum				
+7393		RW/CS/10	1992	Stackyard C (W).	06-Mar-92						34.5% N at 220 kg.	34.5% N at 220 kg.				
+7394		RW/CS/10	1992	Stackyard C (W).	13-May-92						ploughed (crop failed.	ploughed (crop failed.				
+7395		RW/CS/10	1993	Sawyers I (R):	29-Sep-92						ploughed.	ploughed.				
+7396		RW/CS/10	1993	Sawyers I (R):	07-Oct-92						"rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg."	"rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg."				
+7397		RW/CS/10	1993	Sawyers I (R):	13-Oct-92						Isogard 500 FW at LLC2-8 1 in 200 1.	Isogard 500 FW at LLC2-8 1 in 200 1.				
+7398		RW/CS/10	1993	Sawyers I (R):	16-Apr-93						sulphur 30: 30 kg S ae gypsum.	sulphur 30: 30 kg S ae gypsum.				
+7399		RW/CS/10	1993	Sawyers I (R):	22-Jun-93						power Dimathoate 40 at 1.7 1 in 200 1.	power Dimathoate 40 at 1.7 1 in 200 1.				
+7400		RW/CS/10	1993	Sawyers I (R):	02-Jul-93						Mistral at 1.0 1 in 200 1.	Mistral at 1.0 1 in 200 1.				
+7401		RW/CS/10	1993	Sawyers I (R):	02-Jul-93						Sportak 45 at 1.1 1 in 200 1.	Sportak 45 at 1.1 1 in 200 1.				
+7402		RW/CS/10	1993	Sawyers I (R):	06-Sep-93						Stefes Diquat at 3.0 1 with Vassgro Spreader at 0.30 1 in 260 1.	Stefes Diquat at 3.0 1 with Vassgro Spreader at 0.30 1 in 260 1.				
+7403		RW/CS/10	1993	Sawyers I (R):	10-Oct-93						combine harvested.	combine harvested.				
+7404		RW/CS/10	1993	Stackyard C (W):	02-Oct-92						"rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg."	"rotary harrowed, CH 304/70, cultivated with rhizobium, drilled at 100 kg."				
+7405		RW/CS/10	1993	Stackyard C (W):	12-Oct-92						Isogard 500 FW at 1.8 1 and Scythe at 3.0 1 in 200 1.	Isogard 500 FW at 1.8 1 and Scythe at 3.0 1 in 200 1.				
+7406		RW/CS/10	1993	Stackyard C (W):	22-Mar-93						ploughed (crop failed.	ploughed (crop failed.				
+7407		RW/CS/10	1993	Stackyard C (W):	08-Jul-93						rotary cultivated.	rotary cultivated.				
+7408		RW/CS/10	1994	Sawyers I (R):	16-Oct-93						ploughed.	ploughed.				
+7409		RW/CS/10	1994	Sawyers I (R):	19-Oct-93						disced.	disced.				
+7410		RW/CS/10	1994	Sawyers I (R):	20-Oct-93						"spring-tine cultivated, CH304/70 drilled at 40 seed per m."	"spring-tine cultivated, CH304/70 drilled at 40 seed per m."				
+7411		RW/CS/10	1994	Sawyers I (R):	26-Oct-93						Isogard 500 FW at LLC2-8 1 in 200 1.	Isogard 500 FW at LLC2-8 1 in 200 1.				
+7412		RW/CS/10	1994	Sawyers I (R):	16-Feb-94						Atlantis Simazine at 1.0 1 in 200 1.	Atlantis Simazine at 1.0 1 in 200 1.				
+7413		RW/CS/10	1994	Sawyers I (R):	13-Jun-94						sulphur 30: 30 kg S as gypsum.	sulphur 30: 30 kg S as gypsum.				
+7414		RW/CS/10	1994	Sawyers I (R):	06-Sep-94						Barclay Gallup at 4.0 1 in 200 1.	Barclay Gallup at 4.0 1 in 200 1.				
+7415		RW/CS/10	1994	Stackyard C (W):	16-Sep-93						ploughed.	ploughed.				
+7416		RW/CS/10	1994	Stackyard C (W):	24-Sep-93						"rotary harrowed, CH304/70 drilled at 40 seed per m’."	"rotary harrowed, CH304/70 drilled at 40 seed per m’."				
+7417		RW/CS/10	1994	Stackyard C (W):	18-Feb-94						Atlantis Simazine at 1.0 1 in 200 1.	Atlantis Simazine at 1.0 1 in 200 1.				
+7418		RW/CS/10	1994	Stackyard C (W):	10-Mar-94						sulphur 30: 30 kg S as gypsum.	sulphur 30: 30 kg S as gypsum.				
+7419		RW/CS/10	1994	Stackyard C (W):	09-May-94						Sportak 45 at 1.5 1 in 200 1.	Sportak 45 at 1.5 1 in 200 1.				
+7420		RW/CS/10	1995	Sawyers I (R):	06-Sep-94						Barclay Gallup at 4.0 1 in 200 1.	Barclay Gallup at 4.0 1 in 200 1.				
+7421		RW/CS/10	1995	Sawyers I (R):	12-Sep-94						topped.	topped.				
+7422		RW/CS/10	1995	Sawyers I (R):	14-Sep-94						ploughed.	ploughed.				
+7423		RW/CS/10	1995	Sawyers I (R):	29-Sep-94						"disced, hay spring-tine cultivated."	"disced, hay spring-tine cultivated."				
+7424		RW/CS/10	1995	Sawyers I (R):	30-Sep-94						"rotary harrowed, Genesis, dressed Rappor, drilled at 380 seed per m."	"rotary harrowed, Genesis, dressed Rappor, drilled at 380 seed per m."				
+7425		RW/CS/10	1995	Sawyers I (R):	24-Nov-94						Alpha Isoproturon 500 at 2.5 1 with Stomp 400 at 2.5 1 in 200 1.	Alpha Isoproturon 500 at 2.5 1 with Stomp 400 at 2.5 1 in 200 1.				
+7426		RW/CS/10	1995	Sawyers I (R):	13-Apr-95						34.5% N at 435 kg.	34.5% N at 435 kg.				
+7427		RW/CS/10	1995	Sawyers I (R):	01-May-95						sulphur 30: Gypsum (17.5% S) at 171 kg.	sulphur 30: Gypsum (17.5% S) at 171 kg.				
+7428		RW/CS/10	1995	Sawyers I (R):	10-May-95						Halo at 2.0 1 in 200 1.	Halo at 2.0 1 in 200 1.				
+7429		RW/CS/10	1995	Sawyers I (R):	16-Jun-95						Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.	Halo at 2.0 1 with Patrol at 0.5 1 in 300 1.				
+7430		RW/CS/10	1995	Sawyers I (R):	02-Aug-95						combine harvested.	combine harvested.				
+7431		RW/CS/10	1995	Stackyard C (W):	23-Sep-94						ploughed	ploughed				
+7432		RW/CS/10	1995	Stackyard C (W):	30-Sep-94						"rotary harrowed, Genesis, dressed Rappor, drilled at 300 seed per m. rolled."	"rotary harrowed, Genesis, dressed Rappor, drilled at 300 seed per m. rolled."				
+7433		RW/CS/10	1995	Stackyard C (W):	28-Nov-94						Panther at 2.0 1 with Decis at 0.20 1 in 200 1.	Panther at 2.0 1 with Decis at 0.20 1 in 200 1.				
+7434		RW/CS/10	1995	Stackyard C (W):	13-Mar-95						sulphur 30: Gypsum (17.5% S) at 171 kg.	sulphur 30: Gypsum (17.5% S) at 171 kg.				
+7435		RW/CS/10	1995	Stackyard C (W):	15-Mar-95						34.5% N at 116 kg.	34.5% N at 116 kg.				
+7436		RW/CS/10	1995	Stackyard C (W):	21-Apr-95						34.5% N at 348 kg.	34.5% N at 348 kg.				
+7437		RW/CS/10	1995	Stackyard C (W):	28-Apr-95						Halo at 2.0 1 in 200 1.	Halo at 2.0 1 in 200 1.				
+7438		RW/CS/10	1995	Stackyard C (W):	01-Jun-95						Cyclone at 1.0 1 with Mallard at 0.3 1 in 200 1.	Cyclone at 1.0 1 with Mallard at 0.3 1 in 200 1.				
+7439		RW/CS/10	1995	Stackyard C (W):	30-Jun-95						pirimicarb 50 DG at 280 ¢ in 300 1.	pirimicarb 50 DG at 280 ¢ in 300 1.				
+7440		RW/CS/10	1995	Stackyard C (W):	04-Aug-95						combine harvested.	combine harvested.				
+7441		RW/CS/10	1996	Sawyers I (R):	10-Aug-95						Straw baled.	Straw baled.				
+7442		RW/CS/10	1996	Sawyers I (R):	22-Aug-95						subsoiled.	subsoiled.				
+7443		RW/CS/10	1996	Sawyers I (R):	25-Sep-95						ploughed.	ploughed.				
+7444		RW/CS/10	1996	Sawyers I (R):	28-Sep-95						"rotary harrowed, Hereward, dressed Panoctine, drilled at 380 seed per m*."	"rotary harrowed, Hereward, dressed Panoctine, drilled at 380 seed per m*."				
+7445		RW/CS/10	1996	Sawyers I (R):	11-Mar-96						34.5% N at 116 kg.	34.5% N at 116 kg.				
+7446		RW/CS/10	1996	Sawyers I (R):	09-Apr-96						sulphur 30: Gypsum (17.5% S) at 171 kg.	sulphur 30: Gypsum (17.5% S) at 171 kg.				
+7447		RW/CS/10	1996	Sawyers I (R):	15-Apr-96						34.5% N at 463 kg.	34.5% N at 463 kg.				
+7448		RW/CS/10	1996	Sawyers I (R):	26-Apr-96						ally at 30 g with Cheetah Super at 1.25 1 and Barclay Holdup at LLC2-3 1 in 200 1.	ally at 30 g with Cheetah Super at 1.25 1 and Barclay Holdup at LLC2-3 1 in 200 1.				
+7449		RW/CS/10	1996	Sawyers I (R):	13-Jun-96						Alto 100 SL at 0.6 1 with Mallard 750 Ec at 0.4 1 in 300 1.	Alto 100 SL at 0.6 1 with Mallard 750 Ec at 0.4 1 in 300 1.				
+7450		RW/CS/10	1996	Sawyers I (R):	09-Aug-96						combine harvested.	combine harvested.				
+7451		RW/CS/10	1996	Stackyard C (WwW):	25-Aug-95						subsoiled.	subsoiled.				
+7452		RW/CS/10	1996	Stackyard C (WwW):	19-Sep-95						ploughed.	ploughed.				
+7453		RW/CS/10	1996	Stackyard C (WwW):	23-Sep-95						rolled.	rolled.				
+7454		RW/CS/10	1996	Stackyard C (WwW):	03-Oct-95						"rotary harrowed, Hereward, dressed Sibutol, drilled at 375 seed per m*."	"rotary harrowed, Hereward, dressed Sibutol, drilled at 375 seed per m*."				
+7455		RW/CS/10	1996	Stackyard C (WwW):	13-Nov-95						Panther at 2.0 1 in 200 1.	Panther at 2.0 1 in 200 1.				
+7456		RW/CS/10	1996	Stackyard C (WwW):	13-Mar-96						34.5% N at 116 kg.	34.5% N at 116 kg.				
+7457		RW/CS/10	1996	Stackyard C (WwW):	19-Mar-96						sulphur 30: Gypsum (17.5% S) at 171 kg.	sulphur 30: Gypsum (17.5% S) at 171 kg.				
+7458		RW/CS/10	1996	Stackyard C (WwW):	16-Apr-96						34.5% N at 348 kg.	34.5% N at 348 kg.				
+7459		RW/CS/10	1996	Stackyard C (WwW):	30-Apr-96						Halo at 1.5 1 in 200 1.	Halo at 1.5 1 in 200 1.				
+7460		RW/CS/10	1996	Stackyard C (WwW):	06-Jun-96						Silvacur at 1.0 1 in 300 1.	Silvacur at 1.0 1 in 300 1.				
+7461		RW/CS/10	1996	Stackyard C (WwW):	19-Aug-96						combine harvested.	combine harvested.				

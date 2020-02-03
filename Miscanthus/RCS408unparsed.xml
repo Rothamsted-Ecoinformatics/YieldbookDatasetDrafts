@@ -17,10 +17,10 @@ all plots
 <year>1995</year>
 <rawcontent>
 <![CDATA[
-all plots:
+all plots
 15-May-95 : B : Muriate of potash at 281 kg.
-: f : N1: 27% N applied at 60 kgN/ha
-: f : N2: 27% N applied at 120 kgN/ha.
+: B : N1: 27% N applied at 60 kgN/ha
+: B : N2: 27% N applied at 120 kgN/ha.
 30-Jan-96 : B : Cut.
 ]]></rawcontent>
 </report>
@@ -65,9 +65,9 @@ all plots
 <rawcontent>
 <![CDATA[
 all plots
-07-Apr-99 : B: : Decoy at 15 kg.
-: B: : Starane 2 at 1.0 1 in 220 1 eastern 6 m.
-: B: : Starane 2 at 1.0 1 in 400 1 except eastern 6 m.
+07-Apr-99 : B : : Decoy at 15 kg.
+: B : : Starane 2 at 1.0 1 in 220 1 eastern 6 m.
+: B : : Starane 2 at 1.0 1 in 400 1 except eastern 6 m.
 03-Jun-99 : T : NITROGEN Nl: 34.5% N at 60 kgN/ha in 174 kg.
 : T : NITROGEN N2: 34.5% N at 120 kgN/ha in 348 kg.
 27-Jan-00 : B : Cut.
@@ -78,7 +78,7 @@ all plots
 <rawcontent>
 <![CDATA[
 all plots
-19-May-00 : B: : Muriate of potash at 583 kg. Triple superphosphate at 291 kg.
+19-May-00 : B : : Muriate of potash at 583 kg. Triple superphosphate at 291 kg.
 25-May-00 : T : NITROGEN Nl: 34.5% N at 60 kgN/ha in 174 kg.
 : T : NITROGEN N2: 34.5% N at 120 kgN/ha in 348 kg.
 16-Jun-00 : B: : Starane 2 at 1.0 1 in 300 1.
