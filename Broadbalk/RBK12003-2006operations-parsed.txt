@@ -1,0 +1,206 @@
+R/BK/1|2003|all sections|19-Sep-02|rolled.
+R/BK/1|2003|all sections|20-Sep-02|rolled.
+R/BK/1|2003|all sections|20-Sep-02|tm) CleanCrop Egret at 4.0 1 in 100 1 (excluding section 0
+R/BK/1|2003|all sections|20-Sep-02|tm) Mixture B at 2.0 1 in 100 l. and 8)
+R/BK/1|2003|all sections|01-Oct-02|K* muriate of potash at 181 kg, strip 14.
+R/BK/1|2003|all sections|01-Oct-02|P top at 171 kg, strips 11, 13, 14, 17, & 18.
+R/BK/1|2003|all sections|02-Oct-02|FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 0 or 7.
+R/BK/1|2003|all sections|02-Oct-02|ploughed 25 cm furrows. power harrowed.
+R/BK/1|2003|all sections|19-Feb-03|MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, & 20.
+R/BK/1|2003|all sections|19-Feb-03|MG2 Kieserite at 160 kg, strip 12.
+R/BK/1|2003|all sections|20-Feb-03|K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20.
+R/BK/1|2003|all sections|20-Feb-03|K2 Sulphate of potash at 434 kg, strip 12.
+R/BK/1|2003|all sections|31-Mar-03|plants sprayed.
+R/BK/1|2003|all sections|15-May-03|power harrowed discards.
+R/BK/1|2003|all sections|28|May-03 rotavated plants.
+R/BK/1|2003|all sections|01-Jul-03|Rogued wild oats.
+R/BK/1|2003|Winter wheat|04-Oct-02|Combination drilled, Hereward, tr. Sibutol, at 400 seed with the Accord drill. rolled. .
+R/BK/1|2003|Winter wheat|07-Oct-02|Piece at 4.0 1 in 200 1, excluding section 8.
+R/BK/1|2003|Winter wheat|12-Mar-03|1st split N applied. .
+R/BK/1|2003|Winter wheat|17-Mar-03|Harmony M at 75 g in 200 1, excluding section 8.
+R/BK/1|2003|Winter wheat|15-Apr-03|main N and 2nd split N applied.
+R/BK/1|2003|Winter wheat|07-May-03|Red split N applied.
+R/BK/1|2003|Winter wheat|09-May-03|Opera at 1.5 1 in 200 1, excluding section 6.
+R/BK/1|2003|Winter wheat|29-May-03|Landmark at 1.01 in 200 1, excluding section 6.
+R/BK/1|2003|Winter wheat|31-May-03|Starane 2 at 1.01 in 200 l.
+R/BK/1|2003|Winter wheat|04-Aug-03|combine harvested, all discards to open up plots.
+R/BK/1|2003|Winter wheat|05-Aug-03|combine harvested plots for yield. swathed straw.
+R/BK/1|2003|Winter wheat|06-Aug-93|sampled, baled and weighed straw, sections 1 and 9.
+R/BK/1|2003|Winter wheat|06-Aug-93Combine|harvested all remaining wheat.
+R/BK/1|2003|Winter wheat|08-Aug-03|baled remaining straw.
+R/BK/1|2003|w oats|04-Oct-02|Combination drilled, Gerald, tr. Sibutol Secur, at 350 seed with the Accord drill. rolled.
+R/BK/1|2003|w oats|18-Nov-02|tm) Lexus Class WSB at 60 g in 200 l.
+R/BK/1|2003|w oats|18-Nov-02|tm) Hallmark with Zeon technology at 25 ml in 200 l.
+R/BK/1|2003|w oats|29-May-03|Landmark at 1.0 1 in 200 l.
+R/BK/1|2003|w oats|03-Aug-03|combine harvested discards.
+R/BK/1|2003|w oats|03-Aug-03|combine harvested plots for yield. swathed straw.
+R/BK/1|2003|w oats|03-Aug-03|sampled, baled and weighed straw.
+R/BK/1|2003|forage maize|11-Apr-03|Sting ECO at 4.0 1 in 200 l.
+R/BK/1|2003|forage maize|30-Apr-03|springtined.
+R/BK/1|2003|forage maize|01-May-03|springtined.
+R/BK/1|2003|forage maize|07-May-03|main N and 1st split N applied.
+R/BK/1|2003|forage maize|08-May-03|power harrowed. drilled, Hudson, tr. Mesurol at 10 seed, with the Nodet Gougis drill.
+R/BK/1|2003|forage maize|12-Jun-03|2nd split N applied.
+R/BK/1|2003|forage maize|13-Jun-03|planted Hudson maize to area affected by spray drift.
+R/BK/1|2003|forage maize|17-Jun-03|tm) Barclay Mutiny at 1.5 1 in 200 l.
+R/BK/1|2003|forage maize|17-Jun-03|tm) Lentagran WP at 2.0 1 in 200 l.
+R/BK/1|2003|forage maize|20-Aug-03|cut sample area by hand, weighed, and sampled.
+R/BK/1|2003|forage maize|01-Sep-03|carted maize.
+R/BK/1|2003|section 0|03-Jun-03|Touchdown at 3.0 1st to plots not being seed for CS/595 Control of Equisatum.
+R/BK/1|2003|section 0|09-Jun-03|treatment applied to CS/595.
+R/BK/1|2004|all sections|03-Sep-03|rolled (excluding section QO).
+R/BK/1|2004|all sections|03-Sep-03|Harvest at 3.0 1 in 200 L (excluding section 0 & 8).
+R/BK/1|2004|all sections|23-Sep-03|K* muriate of potash at 181 kg, strip 14.
+R/BK/1|2004|all sections|23-Sep-03|P top at 170 kg, strips 11, 13, 14, 17, & 18.
+R/BK/1|2004|all sections|25-Sep-03|FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 0 or 4
+R/BK/1|2004|all sections|27-Sep-03|ploughed 25 cm wide furrows, cultipressed, not to section 5
+R/BK/1|2004|all sections|29-Sep-03|cultipressed, not to section 0.
+R/BK/1|2004|all sections|23-Feb-04|MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16 17 18, 19, & 20.
+R/BK/1|2004|all sections|23-Feb-04|MG2 Kieserite at 160 kg, strip 12.
+R/BK/1|2004|all sections|23-Feb-04|K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13 16, 17, 18, 19 & 20. per hoed AS,
+R/BK/1|2004|all sections|23-Feb-04|K2 Sulphate of potash at 434 kg, strip 12.
+R/BK/1|2004|all sections|24-May-04|rotavated plants.
+R/BK/1|2004|all sections|22|Jun-04 rotavated plants.
+R/BK/1|2004|all sections|29-Jun-04|power harrowed discards.
+R/BK/1|2004|all sections|30-Jun-04|Rogued wild oats.
+R/BK/1|2004|all sections|02-Sep-04|topped fallow area.
+R/BK/1|2004|Winter wheat|30-Sep-03|Combination drilled, Hereward, tr. Sibutol Secur, at 350 seed with the Accord drill. rolled. | |
+R/BK/1|2004|Winter wheat|05-Dec-03|tm) Lexus Class WSB at 60 g in 200 l, excluding section 8.
+R/BK/1|2004|Winter wheat|05-Dec-03|tm) Hallmark with Zeon Technology at 50 ml in 200 1, excluding section 8. .
+R/BK/1|2004|Winter wheat|18-Dec-03|Arelon 500 at 3.5 1 in 200 l, excluding section 8.
+R/BK/1|2004|Winter wheat|09-Apr-04|tm) Topik at 3.5 1 in 200 l, excluding section 8.
+R/BK/1|2004|Winter wheat|09-Apr-04|tm) ABe at 0.5 1 in 200 1, excluding section 8.
+R/BK/1|2004|Winter wheat|17-Mar-04|1st split N applied. |
+R/BK/1|2004|Winter wheat|06-May-04|tm) ally at 30 g in 200 1, excluding section 8.
+R/BK/1|2004|Winter wheat|06-May-04|tm) Starane 2 at 0.7 1 in 200 1, excluding section 8.
+R/BK/1|2004|Winter wheat|07-May-04|main N and 2nd split N applied.
+R/BK/1|2004|Winter wheat|13-May-04|Landmark at 1.0 1 in 200 1, excluding section 6.
+R/BK/1|2004|Winter wheat|25-May-04|Red split N applied. |
+R/BK/1|2004|Winter wheat|10-Jun-04|tm) Opera at 1.0 1 in 200 1, excluding section 6.
+R/BK/1|2004|Winter wheat|10-Jun-04|tm) Hallmark with Zeon Technology at 50 ml in 200 l, excluding section 6.
+R/BK/1|2004|Winter wheat|16-Aug-04|combine harvested discards, swathed straw.
+R/BK/1|2004|Winter wheat|02-Sep-04|combine harvested plots for yield. swathed straw. (except section 8).
+R/BK/1|2004|Winter wheat|02-Sep-04|combine harvested discards, swathed straw.
+R/BK/1|2004|Winter wheat|03-Sep-04|combine harvested section 8. (wheat barley laid, not all plots harvested).
+R/BK/1|2004|Winter wheat|03-Sep-04|sampled and weighed straw.
+R/BK/1|2004|Winter wheat|03-Sep-04|combine harvested discards.
+R/BK/1|2004|Winter wheat|04-Sep-04|baled straw.
+R/BK/1|2004|w oats|30-Sep-03|Combination drilled, Gerald, tr. Sibutol Secur, at 350 seed with the Accord drill. rolled.
+R/BK/1|2004|w oats|05-Dec-03|tm) Lexus Class WSB at 60 g in 200 1l.
+R/BK/1|2004|w oats|05-Dec-03|tm) Hallmark with Zeon technology at 50 ml in 200 l.
+R/BK/1|2004|w oats|06-May-04|tm) ally at 30 g in 200 1
+R/BK/1|2004|w oats|06-May-04|tm) Starane 2 at 0.7 1 in 200 1
+R/BK/1|2004|w oats|13-May-04|Landmark at 1.01 in 200 1.
+R/BK/1|2004|w oats|03-Sep-04|combine harvested discards, swathed straw.
+R/BK/1|2004|w oats|03-Sep-04|combine harvested plots for yield. swathed straw.
+R/BK/1|2004|w oats|03-Sep-04|sampled and weighed straw.
+R/BK/1|2004|w oats|04-Sep-04|baled straw.
+R/BK/1|2004|forage maize|09-Apr-04|late at 3.01 in 200 1. |
+R/BK/1|2004|forage maize|13-May-03|main N and 1st split N applied.
+R/BK/1|2004|forage maize|14-May-04|flexitined.
+R/BK/1|2004|forage maize|19-May-04|power harrowed.
+R/BK/1|2004|forage maize|20-May-04|pxiiied, Hudson, tr. Mesurol at 10.2 seed, with the Nodet drill.
+R/BK/1|2004|forage maize|17-Jun-04|2nd split N applied.
+R/BK/1|2004|forage maize|22-Jun-04|Samson at 1.5 1 in 200 1.
+R/BK/1|2004|forage maize|20-Sep-04|cut sample area by hand, weighed, and sampled.
+R/BK/1|2004|forage maize|21-Sep-04|carted maize.
+R/BK/1|2004|section 0|06-Jul-04|Weedazol-TL at 30 1 in 200 1 to plots not being seed for CS/595 Control of Equisatum.
+R/BK/1|2004|section 0|06-Jul-04|treatment applied to CS/595.
+R/BK/1|2004|section 0|09-Sep-04|treatment applied to CS/595.
+R/BK/1|2005|Winter wheat|05-Nov-04|Combination drilled, Hereward, tr. Sibutol Secur, at 400 seed with the Accord drill.
+R/BK/1|2005|Winter wheat|20-Nov-04|Lupus at 5 kg
+R/BK/1|2005|Winter wheat|14-Jan-05|tm) Hawk at 2.0 1 in 200 1, excluding section 8.
+R/BK/1|2005|Winter wheat|14-Jan-05|tm) ABe at 1.0 1 in 200 1, excluding section 8.
+R/BK/1|2005|Winter wheat|14-Jan-05|tm) Tolkan Liquid at 2.5 1 in 200 1, excluding section 8.
+R/BK/1|2005|Winter wheat|07-Mar-05|1st split N applied.
+R/BK/1|2005|Winter wheat|14-Apr-05|main N and 2nd split N applied.
+R/BK/1|2005|Winter wheat|20-Apr-05|tm) Harmony M SX at 100 g in 200 1, excluding section 8.
+R/BK/1|2005|Winter wheat|20-Apr-05|tm) Duplosan KV at 1.6 1 in 200 1, excluding section 8.
+R/BK/1|2005|Winter wheat|10-May-05|Red split N applied.
+R/BK/1|2005|Winter wheat|15-May-05|Starane 2 at 0.5 1 in 200 1, excluding section 8.
+R/BK/1|2005|Winter wheat|15-May-05|tm) Bravo 500 at 1.0 1 in 200 1, excluding section 6.
+R/BK/1|2005|Winter wheat|15-May-05|tm) Opus at 0.75 1 in 200 1, excluding section 6.
+R/BK/1|2005|Winter wheat|31-May-05|tm) Opus at 0.75 1 in 200 1, excluding section 6. —
+R/BK/1|2005|Winter wheat|31-May-05|tm) Amistar Opti at 1.5 1 in 200 1, excluding section 6.
+R/BK/1|2005|Winter wheat|31-May-05|tm) Corbel at 0.6 1 in 200 1, excluding section 6.
+R/BK/1|2005|Winter wheat|10-Aug-05|combine harvested plots for yield, swathed straw, sampled and weighed straw.
+R/BK/1|2005|Winter wheat|10-Aug-05|baled straw.
+R/BK/1|2005|Winter wheat|16-Aug-05|combine harvested discards, swathed straw.
+R/BK/1|2005|Winter wheat|18-Aug-05|baled remaining straw.
+R/BK/1|2005|w oats|06-Nov-04|Combination drilled, Gerald, tr. Sibutol Secur, at 400 seed with the Accord drill.
+R/BK/1|2005|w oats|20-Nov-04|Lupus at 5 kg
+R/BK/1|2005|w oats|14-Dec-04|Lexus Class WSB at 60 g in 200 l.
+R/BK/1|2005|w oats|20-Apr-05|tm) Harmony M SX at 100 g in 200 l.
+R/BK/1|2005|w oats|20-Apr-05|tm) Duplosan KV at 1.61 in 200 l.
+R/BK/1|2005|w oats|11-May-05|Corbel at 0.75 1 in 200 l.
+R/BK/1|2005|w oats|15-May-05|Starane 2 at 0.5 1 in 200 l.
+R/BK/1|2005|w oats|16-Aug-05|combine harvested plots for yield, swathed straw.
+R/BK/1|2005|w oats|16-Aug-05|combined discards, swathed straw.
+R/BK/1|2005|w oats|17-Aug-05|sampled and weighed straw.
+R/BK/1|2005|w oats|18-Aug-05|baled straw.
+R/BK/1|2005|forage maize|07-Apr-05|springtined.
+R/BK/1|2005|forage maize|29-Apr-05|main N and 1st split N applied.
+R/BK/1|2005|forage maize|05-May-05|power harrowed. drilled, Hudson, tr. Mesurol at 10.2 seed, with the Nodet Gougis drill, rolled.
+R/BK/1|2005|forage maize|10-May-05|2nd split N applied.
+R/BK/1|2005|forage maize|11-May-05|Samson at 1.5 1 in 200 l.
+R/BK/1|2005|forage maize|22-Sep-04|cut sample area by hand, weighed, and sampled.
+R/BK/1|2005|forage maize|26-Sep-04|carted maize.
+R/BK/1|2005|all sections|25-Sep-04|Weedazol-TL at 30 l in 200 l (excluding section 08 and plots 03, 05 and 19 on section 0)
+R/BK/1|2005|all sections|13-Oct-04|K* muriate of potash at 181 kg, strip 14
+R/BK/1|2005|all sections|13-Oct-04|P top at 170 kg, strips 11, 13, 14, 17, & 18
+R/BK/1|2005|all sections|18-Oct-04|FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 5
+R/BK/1|2005|all sections|13-Oct-04|ploughed 25 cm wide furrows.
+R/BK/1|2005|all sections|15-Mar-05|MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, & 20
+R/BK/1|2005|all sections|15-Mar-05|MG2 Kieserite at 160 kg, strip 12.
+R/BK/1|2005|all sections|15-Mar-05|K Sulphate of potash at 217 kg strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20.
+R/BK/1|2005|all sections|15-Mar-05|K2 Sulphate of potash at 434 kg, strip 12
+R/BK/1|2005|all sections|18-Mar-05|rolled, not to section 4.
+R/BK/1|2006|all sections|27-Aug-05|Weedazol-TL at 20 1 in 200 L (excluding sections 4 and 8).
+R/BK/1|2006|all sections|27-Sep-05|P top at 171 kg, strips 11, 13, 14, 17, & 18.
+R/BK/1|2006|all sections|28-Sep-05|K* muriate of potash at 181 kg, strip 14.
+R/BK/1|2006|all sections|28-Sep-05|FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 3
+R/BK/1|2006|all sections|29-Sep-05|ploughed 25 cm wide furrows.
+R/BK/1|2006|all sections|10-Oct-05|cultipressed.
+R/BK/1|2006|all sections|13-Mar-06|MG Kieserite at 80 kg, strips 5 - 9, 11, 12, 15 - 20.
+R/BK/1|2006|all sections|13-Mar-06|K Sulphate of potash at 217 kg, strips 5 - 9, 12, 13, 15 - 20
+R/BK/1|2006|all sections|18-Mar-05|rolled, not to section 4.
+R/BK/1|2006|Winter wheat|11-Oct-05|Combination drilled, Hereward, tr. Sibutol Secur, 350 seed with the Accord drill and rolled.
+R/BK/1|2006|Winter wheat|17-Oct-05|Piece at 4.00 1 in 200 1, excluding section 8
+R/BK/1|2006|Winter wheat|27-Oct-05|Decoy water at 5.0 kg
+R/BK/1|2006|Winter wheat|07-Dec-05|Hallmark with Zeon Technology at 50 ml in 200 l
+R/BK/1|2006|Winter wheat|21-Dec-05|Decoy water at 5.0 kg
+R/BK/1|2006|Winter wheat|14-Jan-05|IPU 500 at 5.0 1 in 200 1, excluding section 8 (2.9m east blend of plot 218 sprayed in error).
+R/BK/1|2006|Winter wheat|13-Mar-06|1st split N applied.
+R/BK/1|2006|Winter wheat|17-Apr-06|tm) Bravo 500 at 1.0 1 in 200 1, excluding section 6
+R/BK/1|2006|Winter wheat|17-Apr-06|tm) flexitined at 0.2 1 in 200 1, excluding section 6
+R/BK/1|2006|Winter wheat|17-Apr-06|tm) Opus at 0.75 1 in 200 1, excluding section 6
+R/BK/1|2006|Winter wheat|20-Apr-06|main N and 2nd split N applied.
+R/BK/1|2006|Winter wheat|12-May-06|ally Max SX at 42 g in 200 1, excluding section 8.
+R/BK/1|2006|Winter wheat|17-May-06|Red split N applied.
+R/BK/1|2006|Winter wheat|28-May-06|Starane 2 at 0.75 1 in 200 1, excluding section 8.
+R/BK/1|2006|Winter wheat|01-Jun-06|tm) Vivid at 0.4 1 in 200 1, excluding section 6.
+R/BK/1|2006|Winter wheat|01-Jun-06|tm) Bravo 500 at 1.0 1 in 200 1, excluding section 6.
+R/BK/1|2006|Winter wheat|01-Jun-06|tm) Opus at 0.75 1 in 200 1, excluding section 6.
+R/BK/1|2006|Winter wheat|06-Aug-06|combine harvested discards, baled straw.
+R/BK/1|2006|Winter wheat|23-Aug-06|combine harvested plots for yield, swathed straw, sampled and weighed straw.
+R/BK/1|2006|Winter wheat|25-Aug-06|combine harvested discards, swathed and baled straw.
+R/BK/1|2006|w oats|11-Oct-05|Combination drilled, Gerald, tr. Sibutol, at 350 seed with the Accord drill and rolled.
+R/BK/1|2006|w oats|27-Oct-05|Decoy water at 5.0 kg
+R/BK/1|2006|w oats|14-Nov-05|Lexus Class at 60 g in 200 l.
+R/BK/1|2006|w oats|14-Nov-05|Hallmark with Zeon Technology at 50 ml in 200 1.
+R/BK/1|2006|w oats|21-Dec-05|Decoy water at 5.0 kg
+R/BK/1|2006|w oats|12-May-06|ally Max SX at 42 g in 200 l.
+R/BK/1|2006|w oats|28-May-06|Starane 2 at 0.75 1 in 200 l.
+R/BK/1|2006|w oats|02-Jun-06|tm) Amistar at 0.6 1 in 200 l.
+R/BK/1|2006|w oats|02-Jun-06|tm) Opus at 0.4 1 in 200 1.
+R/BK/1|2006|w oats|02-Jun-06|tm) flexitined at 0.2 1 in 200 l.
+R/BK/1|2006|w oats|25-Jul-06|combine harvested plots for yield, swathed straw. combined discards, swathed straw.
+R/BK/1|2006|w oats|26-Jul-06|sampled and weighed straw. baled straw.
+R/BK/1|2006|forage maize|26-Apr-06|Azural at 3.0 1 in 200 l.
+R/BK/1|2006|forage maize|10-May-06|main N and 1st split N applied.
+R/BK/1|2006|forage maize|10-May-06|flexitined twice.
+R/BK/1|2006|forage maize|11-May-06|power harrowed. drilled, Hudson, tr. Thiram, methiocarb, Fludioxonil, Metalaxyl at 10.2 seed, with the Nodet Gougis drill.
+R/BK/1|2006|forage maize|05-Jun-06|2nd split N applied.
+R/BK/1|2006|forage maize|08-Jun-06|Samson at 1.5 1 in 200 1.
+R/BK/1|2006|forage maize|25-Sep-06|cut sample area by hand, weighed, and sampled.
+R/BK/1|2006|forage maize|29-Sep-06|carted maize.

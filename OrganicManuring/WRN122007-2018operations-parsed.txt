@@ -1,337 +1,330 @@
-W/RN/12|2007|25-Sep-06|p||Azural|4.00|V200 Vha
-W/RN/12|2007|29-Sep-06|a||Direct Drill|None|None
-W/RN/12|2007|29-Sep-06|s||Rivona Mustard, CC plots|350.00|seeds/m?®
-W/RN/12|2007|27-Mar-07|p||Clinic Ace maize plots|4.00|v200lha
-W/RN/12|2007|12-Apr-07|f||DG 10 plots, F.Y.M.|10.00|tha
-W/RN/12|2007|12-Apr-07|f||DG 25 plots, F.Y.M.|25.00|tha
-W/RN/12|2007|12-Apr-07|f||CO plots. Compost|40.00|tha
-W/RN/12|2007|13-Apr-07|f||ST plots, Wheat straw|7.50|tha
-W/RN/12|2007|13-Apr-07|a||Topped ST plots, to chop straw|2.00|None
-W/RN/12|2007|16-Apr-07|a||Plough / NW|None|None
-W/RN/12|2007|30-Apr-07|t||Sulphate of Potash all plots except Dg25|200.00|kg/ha
-W/RN/12|2007|30-Apr-07|f||Triple Superphosphate all plots except Dg25|97.50|kg/ha
-W/RN/12|2007|01-May-07|a||Nodet Drilled|None|None
-W/RN/12|2007|01-May-07|s||Hudson tr Mesurol|10.20|seeds/m?
-W/RN/12|2007|23-May-07|f||Nitraprill - N plots, maize|145.00|kg/ha
-W/RN/12|2007|01-Jun-07|p||Callisto - maize|1.50|l/200 l/ha
-W/RN/12|2007|11-Jun-07|a||1st cut grass/clover|None|None
-W/RN/12|2007|12-Jun-07|a||Turned hay - grass plots|None|None
-W/RN/12|2007|19-Jun-07|a||Rowed up hay — grass/clover plots|None|None
-W/RN/12|2007|19-Jun-07|a||Baled grass plots|None|None
-W/RN/12|2007|22-Jun-07|a||Topped grass/clover plots, to tidy|None|None
-W/RN/12|2007|26-Jun-07|f||Nitraprill - Post emergent N, Maize, N2 plots, completed 26-Jun-07|145.00|kg/ha
-W/RN/12|2007|26-Jun-07|f||Nitraprill - Post emergent N, Maize, N3 plots, completed 26-Jun-07|290.00|kg/ha
-W/RN/12|2007|26-Jun-07|f||Nitraprill - Post emergent N, Maize, N4 plots, completed 26-Jun-07|345.00|kg/ha
-W/RN/12|2007|26-Jun-07|f||Nitraprill - Post emergent N, Maize, NS plots, completed 26-Jun-07|580.00|kg/ha
-W/RN/12|2007|25-Jul-07|p||Alpha Bromotril P - maize plots|2.50|l/200 l/ha
-W/RN/12|2007|19-Sep-07|a||Cut harvest strips, weighed and sampled|None|None
-W/RN/12|2007|25-Sep-07|a||Mowed maize plots|None|None
-W/RN/12|2007|25-Sep-07|a||Baled maize plots|None|None
-W/RN/12|2007|27-Sep-07|a||Rowed up and baled remaining maize tops|None|None
-W/RN/12|2007|12-Nov-07|a||2nd cut grass/clover, harvest strips, weighed and sampled|None|None
-W/RN/12|2007|12-Nov-07|a||Mowed and baled.
-W/RN/12|2008|2-Oct-07|p||Azural stubbles|4.00|l/200 l/ha
-W/RN/12|2008|12-Oct-07|f||FYM, Dg 10 plots|10.00|t/ha
-W/RN/12|2008|12-Oct-07|f||FYM, Dg 25 plots|25.00|t/ha
-W/RN/12|2008|12-Oct-07|f||Compost, Co plots|40.00|t/ha
-W/RN/12|2008|12-Oct-07|f||Straw, St plots|7.50|t/ha
-W/RN/12|2008|13-Oct-07|a||Topped to chop wheat straw|None|None
-W/RN/12|2008|13-Oct-07|a||Plough / SE, completed 14-Oct-07 (Rye plots)|None|None
-W/RN/12|2008|18-Oct-07|a||Power harrowed rye plots|None|None
-W/RN/12|2008|23-Oct-07|a||Accord Drilled|None|None
-W/RN/12|2008|23-Oct-07|s||Matador recleaned rye plots|350.00|seeds/m?
-W/RN/12|2008|23-Oct-07|a||rolled|None|None
-W/RN/12|2008|13-Dec-07|p||Stomp 400 SC Rye plots|3.30|l/200 Vha
-W/RN/12|2008|14-Mar-08|f||Sulphate of potash all except Dg 25 plots|200.00|kg/ha
-W/RN/12|2008|15-Mar-08|f||Triple Superphosphate all except Dg 25 plots|97.50|kg/ha
-W/RN/12|2008|2-May-08|p||Quantum SX rye plots|30.00|g/200 Vha
-W/RN/12|2008|8-May-08|f||Nitraprill N1 plots, completed 9-May-08|87.00|kg/ha 
-W/RN/12|2008|8-May-08|f||Nitraprill N2 plots, completed 9-May-08|174.00|kg/ha
-W/RN/12|2008|8-May-08|f||Nitraprill N3 plots, completed 9-May-08|261.00|kg/ha
-W/RN/12|2008|8-May-08|f||Nitraprill N4 plots, completed 9-May-08|348.00|kg/ha
-W/RN/12|2008|8-May-08|f||Nitraprill N5 plots, completed 9-May-08|435.00|kg/ha
-W/RN/12|2008|25-Jun-08|a||Cut harvest strips, weighed and sampled ley plots|None|None
-W/RN/12|2008|25-Jun-08|a||Mowed all grass discards|None|None
-W/RN/12|2008|26-Jun-08|a||Rowed up hay Ley plots
-W/RN/12|2008|26-Jun-08|a||Baled Ley plots|None|None
-W/RN/12|2008|14-Sep-08|a||Combine harvest discards|None|None
-W/RN/12|2008|14-Sep-08|a||Swath straw|None|None
-W/RN/12|2008|18-Sep-08|a||Combine harvest, plots for yield|None|None
-W/RN/12|2008|18-Sep-08|a||Swath straw|None|None
-W/RN/12|2008|19-Sep-08|a||Combine harvest discards|None|None
-W/RN/12|2008|19-Sep-08|a||Swath straw|None|None
-W/RN/12|2008|21-Sep-08|a||Baled|None|None
-W/RN/12|2008|19-Nov-08|a||Cut harvest strips, weighed and sampled ley plots, 2nd cut||
-W/RN/12|2009|30-Sep-08|a||Direct drill - CC plots 004, 010, 019 and 032 Zlata (Mustard) - CC plots|10.00|kg/ha
-W/RN/12|2009|28-Oct-08|f||Chopped wheat straw - plots 003, 015, 017 and 031, all chopped using McConnell topper|7.50|tha
-W/RN/12|2009|17-Mar-09|f||Potassium Sulphate - all plots except 005, 011, 023 and 026|200.00|kg/ha 
-W/RN/12|2009|17-Mar-09|f||Triple Superphosphate - all plots except 005, 011, 023 and 026|97.5|kg/ha
-W/RN/12|2009|19-Mar-09|f||FYM, Dg 10 plots FYM|10.00|t/ha 
-W/RN/12|2009|19-Mar-09|f||Dg 25 plots|25.00|t/ha 
-W/RN/12|2009|19-Mar-09|f||Compost. Co plots|40.00|t/haha
-W/RN/12|2009|02-Apr-09|a||Combination drilled
-W/RN/12|2009|02-Apr-09|a||Tipple Tr Raxil Pro|350.00|seedsim2
-W/RN/12|2009|02-Apr-09|a||Rolled|None|None
-W/RN/12|2009|14-May-09|p||Cherokee|1.25|l/200 l/ha
-W/RN/12|2009|14-May-09|p||Cycocel|2.25|l/200 l/ha
-W/RN/12|2009|14-May-09|p||Headland Manganese 500|1.00|l/200 l/ha
-W/RN/12|2009|14-May-09|p||Flexity|0.00|l/200 l/ha
-W/RN/12|2009|14-May-09|p||Fandango|1.00|l/200 l/ha
-W/RN/12|2009|14-May-09|p||Flexity|0.20|l/200 l/ha
-W/RN/12|2009|14-May-09|p||Ally Max SX|30.00|g/200 l/ha
-W/RN/12|2009|28-May-09|a||Nitro-chalk N1 plots|130.00|kg/ha
-W/RN/12|2009|28-May-09|a||Nitro-chalk N2 plots|259.00|kg/ha
-W/RN/12|2009|28-May-09|a||Nitro-chalk N3 plots|389.00|kg/ha
-W/RN/12|2009|28-May-09|a||Nitro-chalk N4 plots|519.00|kg/ha 
-W/RN/12|2009|28-May-09|a||Nitro-chalk N5 plots|648.00|kg/ha
-W/RN/12|2009|03-Jun-09|p||Opus|0.50|l/200 l/ha
-W/RN/12|2009|03-Jun-09|p||Amistar|0.40|l/200 l/ha
-W/RN/12|2009|24-Jun-09|a||Cut harvest strips ley plots, weighed and sampled|None|None
-W/RN/12|2009|28-Jun-09|a||Baled|None|None
-W/RN/12|2009|17-Jul-09|a||Topped Ley plots|None|None
-W/RN/12|2009|23-Aug-09|a||Combine harvest, plots for yield|None|None
-W/RN/12|2009|23-Aug-09|a||Combine harvest, spring barley plots for yield|None|None
-W/RN/12|2009|24-Aug-09|a||Combine harvest discards|None|None
-W/RN/12|2009|26-Aug-09|a||Baled|None|None
-W/RN/12|2009|26-Aug-09|a||Remove bales
-W/RN/12|2010|11-Sep-09|a||Load straw|7.50|t/ha
-W/RN/12|2010|21-Sep-09|p||Nufosate Ace - 200 It water|4.00|Vha
-W/RN/12|2010|09-Nov-09|f||Chalk|5.00|t/ha
-W/RN/12|2010|09-Nov-09|a||Spread straw|None|None
-W/RN/12|2010|11-Nov-09|f||Chalk - Finished|5.00|t/ha
-W/RN/12|2010|11-Nov-09|a||Spread straw|None|None
-W/RN/12|2010|28-Jan-10|a||Compost - Co plots|40.00|t/ha
-W/RN/12|2010|02-Feb-10|a||FYM-Dg, 10 plot|10.00|t/ha
-W/RN/12|2010|03-Feb-10|a||FYM-ODG, 25 plot|25.00|t/ha
-W/RN/12|2010|08-Mar-10|a||Plough - Bean plots|None|None
-W/RN/12|2010|09-Mar-10|s||Fuego|42.00|s/m2
-W/RN/12|2010|09-Mar-10|a||Combination Drilled|None|None
-W/RN/12|2010|17-Mar-10|p||Skirmish - 200 It water on Beans|1.00|l/ha
-W/RN/12|2010|23-Apr-10|a||Harrowed|None|None
-W/RN/12|2010|24-Apr-10|s||Fuego|32.00|seeds/m2
-W/RN/12|2010|24-Apr-10|a||Combination Drilled|None|None
-W/RN/12|2010|26-May-10|a||Baled - Ley plots|None|None
-W/RN/12|2010|24-Jun-10|a||Cut harvest strips, weighed and sampled - Ley plots|None|None
-W/RN/12|2010|09-Sep-10|a||Combine harvest, plots for yield|None|None
-W/RN/12|2010|22-Sep-10|a||Baled - removed|None|None
-W/RN/12|2010|10-Oct-10|a||Other operation - straw treatments applied as scheduled, chopped and spread|None|None
-W/RN/12|2010|11-Oct-10|f||compost - as scheduled|None|None
-W/RN/12|2010|11-Oct-10|f||FYM - as scheduled|None|None 
-W/RN/12|2011|30-Sep-10|p||Sprayed Gallup 360 in 200 l|4.0|Vha
-W/RN/12|2011|10-Oct-10|a||Straw treatment applied, chopped and spread -Straw plots only.|None|None
-W/RN/12|2011|11-Oct-10|a||Compost and FYM treatments applied by manure spreader as scheduled.|None|None
-W/RN/12|2011|12-Oct-10|a||Ploughed - With Ransomes 3 furrow. Arable plots only.||.
-W/RN/12|2011|14-Oct-10|s||Rotary Harrowed. drilled Gallant, dressed Redigo, arable plots only.|360|seeds/m?
-W/RN/12|2011|21-Mar-11|f||Broadcast Nitrochalk, 27%N Early N application (N1) as scheduled to N1, N2, N3, N4 and N5 plots.|185|kg/ha
-W/RN/12|2011|25-Mar-11|f||Broadcast Potassium Sulphate - All plots except Dg 25|200|kg/ha
-W/RN/12|2011|25-Mar-11|f||Broadcast TSP - All plots except Dg 25|97.5|kg/ha
-W/RN/12|2011|28-Mar-11|p||Sprayed Cherokee in 200 l/ha - Wheat|1.25|Vha 
-W/RN/12|2011|28-Mar-11|f||Sprayed Manganese in 200 l/ha - Wheat|1.5|Vha
-W/RN/12|2011|13-Apr-11|f||Broadcast Nitrochalk, 27%N. Main N application to wheat, as scheduled - N2, N3, N4 or N5 plots|370-926|kg/ha
-W/RN/12|2011|11-May-11|p||Sprayed Tracker - Wheat only.|1.0|l/200 l/ha
-W/RN/12|2011|11-May-11|p||Sprayed Bravo 500 - Wheat only.|1.0|l/200 l/ha
-W/RN/12|2011|11-May-11|p||Sprayed Justice - Wheat only.|0.25|l/200 l/ha
-W/RN/12|2011|11-May-11|p||Sprayed CCC - Wheat only.|2.25|l/200 l/ha
-W/RN/12|2011|21-Jun-11|a||Yield strip mown, sampled and weighed. - Ley plots only.|None|None
-W/RN/12|2011|22-Jun-11|a||Mown with Kuhn. Leys only.|None|None
-W/RN/12|2011|25-Jun-11|a||Tedded|None|None
-W/RN/12|2011|26-Jun-11|a||Windrowed - Leys only.|None|None
-W/RN/12|2011|27-Jun-11|a||Round baled - Ley plots only.|None|None
-W/RN/12|2011|15-Aug-11|p||Sprayed Hoedown - Wheat only.|4.0|l/200 l/ha
-W/RN/12|2011|01-Sep-11|a||Combined plots for yield|None|None
-W/RN/12|2011|02-Sep-11|a||Combined O+Es|None|None
-W/RN/12|2011|07-Sep-11|a||Baled and removed straw|None|None
-W/RN/12|2012|30-Sep-11|s||Spread mustard by hand, as per plan|None|None
-W/RN/12|2012|30-Sep-11|a||Shallow power harrow to incorporate mustard seeds per plan|None|None
-W/RN/12|2012|24-Nov-11|a||Cut and weighed grass plots for yield (yield cut 2 in 2011).||
-W/RN/12|2012|30-Nov-11|a||Cut and removed grass - grass plot only|None|None
-W/RN/12|2012|01-Dec-11|a||Topped grass a second time to tidy up|None|None
-W/RN/12|2012|29-Mar-12|f||Spread Fert TSP with Kuhn, as per plan|97.5|kg/ha
-W/RN/12|2012|29-Mar-12|f||Spread Fert SOP with Kuhn, as per plan|200|kg/ha
-W/RN/12|2012|29-Mar-12|f||Applied basal fertilisers as plans, TSP except plots 5, 11, 23, 26.|97.5|kg/ha
-W/RN/12|2012|29-Mar-12|f||Applied basal fertilisers as plans, Sulphate of Potash except plots 5, 11, 23, 26.|200|kg/ha
-W/RN/12|2012|19-Apr-12|a||Spread FYM, straw, compost by hand|None|kg/ha
-W/RN/12|2012|20-Apr-12|a||Spread FYM, straw, compost by hand to finish|None|kg/ha
-W/RN/12|2012|20-Apr-12|a||chopped straw with orsi|None|None
-W/RN/12|2012|18-May-12|a||Ploughed soil to the south|None|None
-W/RN/12|2012|23-May-12|a||Powerharrowed maize areas|None|None
-W/RN/12|2012|24-May-12|f||Applied N treatments, as per plan|None|kg/haNone
-W/RN/12|2012|25-May-12|s||Drilled Maize, Hudson Maize trt Mesurol, rolled plots after drilling|10.1|seeds/m?
-W/RN/12|2012|26-Jun-12|p||Spray Samson Extra herbicide on maize areas only|0.75|l/200 l/ha
-W/RN/12|2012|26-Jun-12|p||Spray Callisto on maize areas only|1.0|l/200 l/ha
-W/RN/12|2012|12-Jul-12|A||Applied Nitro-chalk as per plan See above|None|None
-W/RN/12|2012|17-Jul-12|a||Cut and weighed grass plots for yield cut 1|
-W/RN/12|2012|17-Jul-12|a||Cut paths|None|None
-W/RN/12|2012|24-Jul-12|a||Grass areas topped|None|None
-W/RN/12|2012|25-Jul-12|a||Turned hay|None|None
-W/RN/12|2012|28-Jul-12|a||Rowed up hay|None|None
-W/RN/12|2012|28-Jul-12|a||Baled and Removed|None|None
-W/RN/12|2012|15-Aug-12|a||Cut paths|None|None
-W/RN/12|2012|02-Oct-12|a||Cut Maize for yields|None|None
-W/RN/12|2012|03-Oct-12|a||Cut Maize for yields|None|None
-W/RN/12|2012|10-Oct-12|a||Mowed, Baled and removed maize|None|None
-W/RN/12|2012|05-Nov-12|a||Cut and weighed grass plots for yield cut 2|
-W/RN/12|2013|20-Oct-12|9||Sprayed glyphosate, grass plots not sprayed.|4|l/ha
-W/RN/12|2013|24-Oct-12|a||Applied compost. plots 7, 12, 21 and 27|40|t/ha
-W/RN/12|2013|24-Oct-12|a||Applied straw, Plots 3, 15, 17, 31.|7.5|t/ha
-W/RN/12|2013|05-Nov-12|a||Applied FYM as per plan|None|None
-W/RN/12|2013|06-Nov-12|a||Applied FYM -finished — |None|None
-W/RN/12|2013|06-Nov-12|a||Topped grass plots, unable to bale and remove, too little grass.|None|None
-W/RN/12|2013|06-Nov-12|a||Ploughed - East|None|None
-W/RN/12|2013|08-Nov-12|a||Ploughed: finished|None|None
-W/RN/12|2013|10-Dec-12|a||Power harrowed - prep site|None|None
-W/RN/12|2013|12-Dec-12|s||Drilled Kapitan, drilled as a solid block|450|seeds/m?
-W/RN/12|2013|13-Dec-12|s||Drilled Kapitan - finished|450|seedsim?
-W/RN/12|2013|20-Apr-13|f||Applied Sulphate of Potash, applied to whole trial except plots 5, 11, 23 and 26.|200|kg/ha
-W/RN/12|2013|20-Apr-13|f||Applied TSP - applied to all plots except 5, 11, 23 and 26|97.5|kg/ha
-W/RN/12|2013|01-May-13|p||Sprayed Ally Max. Sprayed alll rye plots but not the grass.|42|l/200 g/ha
-W/RN/12|2013|01-May-13|p||Sprayed Folicur. Sprayed alll rye plots but not the grass.|0.5|l/200 l/ha
-W/RN/12|2013|01-May-13|p||Sprayed Amistar. Sprayed alll rye plots but not the grass.|0.5|l/200 l/ha
-W/RN/12|2013|01-May-13|p||Sprayed Moddus. Sprayed alll rye plots but not the grass.|0.25|l/200 l/ha
-W/RN/12|2013|01-May-13|p||Sprayed New 5C Cycocel. Sprayed alll rye plots but not the grass.|1.5|l/200 l/ha
-W/RN/12|2013|07-May-13|f||Applied Nitro-chalk, applied to treated plots.|None|None
-W/RN/12|2013|03-Jun-13|p||Sprayed Amistar - Rye only|0.5|l/ha
-W/RN/12|2013|03-Jun-13|p||Sprayed Folicur - Rye only|0.5|l/ha
-W/RN/12|2013|01-Jul-13|a||Cut grass plots, cut for yield|None|None
-W/RN/12|2013|03-Jul-13|a||Mowed grass, mowed rest of grass plots|None|None
-W/RN/12|2013|08-Jul-13|a||Rowed up grass, ley plots|None|None
-W/RN/12|2013|08-Jul-13|a||Baled and removed, ley plots|None|None
-W/RN/12|2013|31-Aug-13|a||Cut plots for yield|None|None
-W/RN/12|2013|04-Sep-13|a||Combined|None|None
-W/RN/12|2013|06-Sep-13|a||Baled|None|None
-W/RN/12|2013|13-Nov-13|a||Cut and weighed grass plots for yield, plots 1, 13, 24 and 29|None|None
-W/RN/12|2013|13-Nov-13|a||Topped grass plots, grass too short to bale and remove.
-W/RN/12|2014|10-Sep-13|s||Broadcast mustard cv. Asta undressed - Plots 4, 10, 19 and 32|10|kg/ha
-W/RN/12|2014|10-Sep-13|a||Power harrowed to cover mustard. Plots 4, 10, 19 and 32|None|None
-W/RN/12|2014|10-Sep-13|a||Rolled plots 4, 10, 19 and 32||
-W/RN/12|2014|27-Sep-13|p||Sprayed Samurai - Grass and Mustard plots NOT sprayed|4.0|Vha
-W/RN/12|2014|27-Sep-13|p||Sprayed Firebrand - Grass and Mustard plots NOT sprayed|1.0|Vha
-W/RN/12|2014|05-Mar-14|p||Sprayed Gallup 360. Prep for spring crop. Grass plots not sprayed.|1.0|Vha
-W/RN/12|2014|18-Mar-14|f||Applied FYM Plots 8, 14, 18, 28.|10|tha
-W/RN/12|2014|18-Mar-14|f||Applied FYM Plots 5, 11, 23, 26.|25|t/ha
-W/RN/12|2014|18-Mar-14|a||Applied straw Plots 3, 15, 17 and 31|7.5|t/ha
-W/RN/12|2014|18-Mar-14|a||Applied compost Plots 7, 12, 21 and 27.|40|t/ha
-W/RN/12|2014|20-Mar-14|a||Ploughed|None|None
-W/RN/12|2014|01-Apr-14|s||Drilled Barley var. Tipple|350|seeds/m?
-W/RN/12|2014|15-Apr-14|f||Applied TSP - Applied to all plots apart from 5, 11, 23 and 26|97.5|kg/ha
-W/RN/12|2014|15-Apr-14|t||Applied SOP - Applied to all plots apart from 5, 11, 23 and 26|200|kg/ha
-W/RN/12|2014|30-Apr-14|p||Sprayed Hallmark with Zeon Technology|40|ml/200 l/ha
-W/RN/12|2014|13-May-14|f||Applied Nitro Chalk applied by hand at rates given above|None|None
-W/RN/12|2014|21-May-14|p||Sprayed Refine Max|75|g/150 l/ha
-W/RN/12|2014|21-May-14|p||Sprayed Kingdom|1.25|l/150 l/ha
-W/RN/12|2014|21-May-14|p||Sprayed Bravo 500|1.0|l/150 l/ha
-W/RN/12|2014|21-May-14|p||Sprayed Hatchet Xtra|0.75|l/150 l/ha
-W/RN/12|2014|13-Jun-14|p||Sprayed Fezan - barley only|0.6|l/ha
-W/RN/12|2014|14-Jun-14|p||Sprayed Hallmark - barley only|40|ml/ha
-W/RN/12|2014|26-Jun-14|a||Cut grass plots for yield|None|None
-W/RN/12|2014|30-Jun-14|a||Mowed grass plots|None|None
-W/RN/12|2014|01-Jul-14|a||Turned hay|None|None
-W/RN/12|2014|02-Jul-14|a||Turned hay|None|None
-W/RN/12|2014|03-Jul-14|a||Baled and Removed hay|None|None
-W/RN/12|2014|24-Aug-14|a||Combined plots for yield|None|None
-W/RN/12|2014|06-Sep-14|a||Baled and Removed|None|None
-W/RN/12|2014|11-Sep-14|p||Sprayed Firebrand. Problem with Auto control on sprayer, switched to manual.|1.0|l/200 l/ha
-W/RN/12|2014|11-Sep-14|p||Sprayed Samurai. Problem with Auto control on sprayer, switched to manual.|4.0|l/200 l/ha
-W/RN/12|2014|03-Dec-14|a||Cut grass plots for yield|None|None
-W/RN/12|2014|12-Dec-14|a||Topped grass plots|None|None
-W/RN/12|2015|07/10/2014|a||Applied Compost to allocated plots 7, 12, 21, 27|40|t/ha
-W/RN/12|2015|08/10/2014|a||Applied Straw to plots 3, 15, 17, 31|7.5|t/ha
-W/RN/12|2015|08/10/2014|a||Topped straw|None|None
-W/RN/12|2015|09/10/2014|f||Applied FYM - plots 5, 11, 23, 26|25|t/ha
-W/RN/12|2015|20/10/2014|a||Ploughed (thrown east)|None|None
-W/RN/12|2015|29/10/2014|a||Power harrowed|None|None
-W/RN/12|2015|05/11/2014|s||Drilled Wizzard Winter beans|35|seedim?
-W/RN/12|2015|18/02/2015|p||Sprayed Crawler|3.5|l/200 l/ha
-W/RN/12|2015|26/05/2015|a||Cut paths|None|None
-W/RN/12|2015|27/08/2015|P||Sprayed San 703 in 131 ha water volume|1.5|l/131 l/ha
-W/RN/12|2015|27/05/2015|P||Sprayed Hallmark with Zeon Technology|75|ml/131 l/ha
-W/RN/12|2015|08/07/2015|a||Cut grass plots for yield|None|None
-W/RN/12|2015|09/07/2015|a||Mowed grass plots|None|None
-W/RN/12|2015|09/07/2015|a||Turned grass|None|None
-W/RN/12|2015|10/07/2015|a||Turned grass|None|None
-W/RN/12|2015|16/07/2015|a||Turned hay|None|None
-W/RN/12|2015|17/07/2015|a||Rowed up hay|None|None
-W/RN/12|2015|17/07/2015|a||Baled hay|None|None
-W/RN/12|2015|23/07/2015|a||Cut paths|
-W/RN/12|2015|03/09/2015|a||Cut paths|None|None
-W/RN/12|2015|11/09/2015|a||Combined plots for yield|None|None
-W/RN/12|2015|11/09/2015|a||Combined O+Es|None|None
-W/RN/12|2015|25/09/2015|P||Sprayed Firebrand - Bean stubble|1|l/150 l/ha
-W/RN/12|2015|25/09/2015|p||Sprayed Samurai - Bean stubdie|4|l/150 l/ha
-W/RN/12|2015|09/12/2015|p||Cut grass plots for yield - 2nd and final cut||
-W/RN/12|2016|29/10/2015|f||Applied FYM; Plots 5, 11, 23, 26|25.00|t/ha
-W/RN/12|2016|29/10/2015|f||Applied FYM; Plots 8, 14, 18, 28|10.00|tha
-W/RN/12|2016|30/10/2015|f||Applied compost; Plots 7 and 21|40.00|t/ha
-W/RN/12|2016|02/11/2015|f||Applied compost; Plots 12 and 27|40.00|t/ha
-W/RN/12|2016|02/11/2015|f||Applied straw; Plots 3, 15, 17, 31|7.50|tha
-W/RN/12|2016|09/11/2015|f||Topped straw plots; Plots 3, 15, 17, 31.|None|None
-W/RN/12|2016|10/11/2015|a||Ploughed; Thrown west|None|None
-W/RN/12|2016|12/11/2015|a||Power harrowed|None|None
-W/RN/12|2016|16/11/2015|s||Drilled Gallant, tr Redigo Pro; 4m tine drill|400.00|seeds/m?
-W/RN/12|2016|29/02/2016|f||Applied SOP; all plots except plots 5, 11, 23 and 26 (Dg25)|200.00|kg/ha
-W/RN/12|2016|04/03/2016|f||Applied TSP Fertilizer; all plots including grass except plots 5, 11, 23 and 26 (Dg25)|97.50|kg/ha
-W/RN/12|2016|31/03/2016|p||Sprayed Atlantis; wheat only|0.40|kg/150 l/ha
-W/RN/12|2016|31/03/2016|p||Sprayed Compitox; wheat only|1.00|l/150 l/ha
-W/RN/12|2016|31/03/2016|p||Sprayed Biopower; wheat only|1.00|/150 l/ha
-W/RN/12|2016|11/04/2016|f||Applied Nitro-chalk (27% N); 1st nitrogen treatment; by hand to wheat only|185.00|kg/ha
-W/RN/12|2016|27/04/2016|f||Applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|185.00|kg/ha
-W/RN/12|2016|27/04/2016|f||Applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|370.00|kg/ha
-W/RN/12|2016|27/04/2016|f||Applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|556.00|kg/ha
-W/RN/12|2016|27/04/2016|f||Applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|741.00|kg/ha
-W/RN/12|2016|30/04/2016|p||Sprayed Sprinter; wheat only|2.00|l/150 l/ha
-W/RN/12|2016|30/04/2016|p||Sprayed Simba; wheat only|20.00|g/150 l/ha
-W/RN/12|2016|30/04/2016|p||Sprayed Cortez; wheat only|0.75|l/150 l/ha
-W/RN/12|2016|30/04/2016|p||Sprayed Bravo 500;|1.00|l/150 l/ha
-W/RN/12|2016|23/05/2016|p||Sprayed Sprinter; wheat only|2.00|l/150 l/ha
-W/RN/12|2016|23/05/2016|p||Sprayed Vortex; wheat only|1.50|l/150 l/ha
-W/RN/12|2016|23/05/2016|p||Sprayed Hunter; wheat only|1.50|l/150 l/ha
-W/RN/12|2016|26/05/2016|a||Cut paths|None|None
-W/RN/12|2016|09/06/2016|p||Sprayed Cello; wheat only|0.60|l/150 l/ha
-W/RN/12|2016|09/06/2016|p||Sprayed Cyflamid; wheat only|0.15|l/150 l/ha
-W/RN/12|2016|09/06/2016|p||Sprayed Hallmark; wheat only|50.00|ml/150 l/ha
-W/RN/12|2016|11/07/2016|a||Cut paths|None|None
-W/RN/12|2016|12/07/2016|a||Cut paths|None|None
-W/RN/12|2016|13/07/2016|a||Cut grass plots for yield|None|None
-W/RN/12|2016|14/07/2016|a||Mowed all grass plots|None|None
-W/RN/12|2016|14/07/2016|a||Turned grass|None|None
-W/RN/12|2016|18/07/2016|a||Turned hay|None|None
-W/RN/12|2016|18/07/2016|a||Rowed up and baled hay; Grass plots only|None|None
-W/RN/12|2016|13/08/2016|a||Combined plots for yield; All wheat plots|None|None
-W/RN/12|2016|15/08/2016|a||Combined; Commercial combine swathed rest of the plots|None|None
-W/RN/12|2016|19/08/2016|a||Removed all bales|None|None
-W/RN/12|2016|08/09/2016|a||Baled Straw|None|None
-W/RN/12|2016|12/09/2016|a||Removed bales|None|None
-W/RN/12|2016|10/11/2016|a||Cut grass plots for yield (2nd cut)||
-W/RN/12|2017|09/09/2016|s||Hand broadcast mustard Zlata - plots 4, 10, 19 and 32 only. Cover Crop plots (CC).|10.00|kg/ha
-W/RN/12|2017|09/09/2016|a||Power harrowed - Cover crop plots lightly.|None|None
-W/RN/12|2017|13/04/2017|p||Sprayed Firebrand - Sprayed off stubble only.|1.00|It/ha
-W/RN/12|2017|13/04/2017|p||Sprayed Samurai - Sprayed off stubble only.|4.00|It/ha
-W/RN/12|2017|20/04/2017|f||Applied Chalk - all plots|5.00|t/ha
-W/RN/12|2017|21/04/2017|f||Applied SOP (50% K20, 45% SO3) - all plots apart from 5, 11, 23, 26.|200.00|kg/ha
-W/RN/12|2017|21/04/2017|f||Applied MOP - all plots a part from 5, 11, 23, 26.|97.50|kg/ha
-W/RN/12|2017|24/04/2017|f||Applied compost - plots 7, 12, 21, 27|40.00|t/ha
-W/RN/12|2017|25/04/2017|f||Applied straw - plots 3, 15, 17, 31|7.50|t/ha
-W/RN/12|2017|25/04/2017|f||Applied FYM - plots 5, 11, 23, 26|25.00|t/ha
-W/RN/12|2017|25/04/2017|f||Applied FYM - plots 8, 14, 18, 28|10.00|t/ha
-W/RN/12|2017|26/04/2017|a||Topped straw plots|None|None
-W/RN/12|2017|27/04/2017|a||Ploughed - thrown south east|None|None
-W/RN/12|2017|03/05/2017|a||Power harrowed|None|None
-W/RN/12|2017|04/05/2017|a||Rolled prior to drilling|None|None
-W/RN/12|2017|04/05/2017|s||Drilled maize Severus tr. Mesural|10.10|s/m2
-W/RN/12|2017|25/05/2017|f||Applied Nitro-chalk (27% N) by hand - N1 to N5 treatments|185.00|kg/ha
-W/RN/12|2017|19/06/2017|a||Cut paths|None|None
-W/RN/12|2017|22/06/2017|f||Applied Nitro-chalk (27% N) by hand. To plots 0025, 0033, 0044, 0054, 0064, 0076, 0085, 0091, 0102, 0111, 0123, 0142, 0154, 0162, 0176, 0181, 0192, 0201, 0211, 0223, 0236, 0252, 0262, 0273, 0283, 0305, 0312, 0323 - Maize plots only|185.00|kg/ha
-W/RN/12|2017|22/06/2017|f||Applied Nitro-chalk (27% N) by hand. To plots 0023, 0034, 0042, 0051, 0061, 0074, 0086, 0094, 0103, 0114, 0125, 0141, 0152, 0165, 0172, 0183, 0191, 0204, 0216, 0221, 0234, 0254, 0264, 0275, 0281, 0306, 0316, 0321 - Maize plots only|370.00|kg/ha
-W/RN/12|2017|22/06/2017|f||Applied Nitro-chalk (27% N) by hand. To plots 0026, 0031, 0041, 0052, 0066, 0075, 0081, 0096, 0101, 0115, 0122, 0145, 0151, 0161, 0174, 0184, 0196, 0203, 0213, 0224, 0233, 0251, 0261, 0276, 0285, 0301, 0314, 0322 - Maize plots only|556.00|kg/ha
-W/RN/12|2017|22/06/2017|f||Applied Nitro-chalk (27% N) by hand. To plots 0024, 0032, 0045, 0053, 0065, 0073, 0084, 0093, 0106, 0116, 0126, 0146, 0155, 0163, 0171, 0185, 0193, 0202, 0215, 0226, 0235, 0256, 0266, 0272, 0282, 0304, 0311, 0325 - Maize plots only|741.00|kg/ha
-W/RN/12|2017|26/06/2017|p||Sprayed Callisto - maize plots only|1.50|l/200 l/ha
-W/RN/12|2017|26/06/2017|p||Sprayed Samson Extra|0.75|l/200 l/ha
-W/RN/12|2017|27/06/2017|a||Cut grass plots for yield (1st Cut)|None|None
-W/RN/12|2017|06/07/2017|a||Mowed all remaining grass on plots|None|None
-W/RN/12|2017|10/07/2017|a||Baled and removed all remaining grass|None|None
-W/RN/12|2017|11/08/2017|a||Topped Surrounds and paths|None|None
-W/RN/12|2017|20/09/2017|a||Started Harvesting Maize for Yield|None|None
-W/RN/12|2017|21/09/2017|a||Finished Harvesting Maize for Yield|None|None
-W/RN/12|2017|29/09/2017|a||Topped Trial Site|None|None
-W/RN/12|2017|09/09/2016|s||Hand broadcast mustard Zlata - plots 4, 10, 19 and 32 only. Cover Crop plots (CC).|10.00|kg/ha
-W/RN/12|2017|29/09/2017|a||Cut grass plots for yield (2nd cut)
+W/RN/12|2007|25-Sep-06|p|all plots|Azural|4.00|V200 had
+W/RN/12|2007|29-Sep-06|a|all plots|Direct drill Rivona mustard, CC plots|350.00|seed
+W/RN/12|2007|27-Mar-07|p|all plots|Clinic Ace maize plots|4.00|v200lha
+W/RN/12|2007|12-Apr-07|f|all plots|DG 10 plots, F.Y.M.|10.00|had
+W/RN/12|2007|12-Apr-07|f|all plots|DG 25 plots, F.Y.M.|25.00|had
+W/RN/12|2007|12-Apr-07|f|all plots|CO plots. Compost|40.00|had
+W/RN/12|2007|13-Apr-07|f|all plots|ST plots, wheat straw|7.50|had
+W/RN/12|2007|13-Apr-07|a|all plots|topped ST plots, to crop straw 2.00|None|None
+W/RN/12|2007|16-Apr-07|a|all plots|ploughed / NW|None|None
+W/RN/12|2007|30-Apr-07|t|all plots|Sulphate of potash all plots except Dg25|200.00|kg/ha
+W/RN/12|2007|30-Apr-07|f|all plots|Triple Superphosphate all plots except Dg25|97.50|kg/ha
+W/RN/12|2007|01-May-07|a|all plots|Nodet drilled Hudson tr Mesurol|10.20|seed?
+W/RN/12|2007|23-May-07|a|all plots|Nitraprill - N plots, maize|145.00|kg/ha
+W/RN/12|2007|01-Jun-07|p|all plots|Callisto - maize|1.50|¥200 had
+W/RN/12|2007|11-Jun-07|a|all plots||1st|cut grass/clover
+W/RN/12|2007|12-Jun-07|a|all plots|Turned hay - grass plots|None|None
+W/RN/12|2007|19-Jun-07|a|all plots|harrowed up hay — grass/clover plots|None|None
+W/RN/12|2007|19-Jun-07|a|all plots|baled grass plots|None|None
+W/RN/12|2007|22-Jun-07|a|all plots|topped grass/clover plots, to tidy|None|None
+W/RN/12|2007|26-Jun-07|f|all plots|Nitraprill - plot emergent N, Maize, N2 plots,|145.00|kg/ha
+W/RN/12|2007|26-Jun-07|f|all plots|Nitraprill - plot emergent N, Maize, N3 plots,|290.00|kg/ha
+W/RN/12|2007|26-Jun-07|f|all plots|Nitraprill - plot emergent N, Maize, N4 plots,|345.00|kg/ha
+W/RN/12|2007|26-Jun-07|f|all plots|Nitraprill - plot emergent N, Maize, NS plots,|580.00|kg/ha
+W/RN/12|2007|25-Jul-07|p|all plots|Alpha Biotril P - maize plots|2.50|¥200 Vvha
+W/RN/12|2007|19-Sep-07|a|all plots|cut harvest strips, weighed and sampled|None|None
+W/RN/12|2007|25-Sep-07|a|all plots|mow maize plots|None|None
+W/RN/12|2007|25-Sep-07|a|all plots|baled maize plots|None|None
+W/RN/12|2007|27-Sep-07|a|all plots|harrowed up and baled remaining maize tops|None|None
+W/RN/12|2007|12-Nov-07|a|all plots|2nd cut grass/clover, harvest strips, weighed and sampled|None|None
+W/RN/12|2007|12-Nov-07|a|all plots|mow and baled|None|None
+W/RN/12|2008|2-Oct-07|p|all plots|Azural stubbles 4.00|200|had
+W/RN/12|2008|12-Oct-07|f|all plots|FYM, Dg 10 plots|10.00|wheat
+W/RN/12|2008|12-Oct-07|f|all plots|FYM, Dg 25 plots|25.00|wheat
+W/RN/12|2008|12-Oct-07|f|all plots|Compost, Co plots|40.00|wheat
+W/RN/12|2008|12-Oct-07|f|all plots|Straw, St plots|7.50|had
+W/RN/12|2008|13-Oct-07|a|all plots|topped to crop wheat straw|None|None
+W/RN/12|2008|13-Oct-07|a|all plots|ploughed / SE, completed|14-Oct-07|(rye plots)
+W/RN/12|2008|18-Oct-07|a|all plots|power harrowed rye plots|None|None
+W/RN/12|2008|23-Oct-07|a|all plots|Accord drilled Matador recleaned rye plots|350.00|seed?
+W/RN/12|2008|23-Oct-07|a|all plots|rolled|None|None
+W/RN/12|2008|13-Dec-07|p|all plots|Stomp 400 SC rye plots 3.30|200|had
+W/RN/12|2008|14-Mar-08|f|all plots|Sulphate of potash all except Dg 25 plots|200.00|kg/ha
+W/RN/12|2008|15-Mar-08|f|all plots|Triple Superphosphate all except Dg 25 plots|97.50|kg/ha
+W/RN/12|2008|2-May-08|p|all plots|Quantum SX rye plots 30.00|9/200|had
+W/RN/12|2008|8-May-08|f|all plots|Nitraprill N1 plots, completed 9-May-08|87.00|kg/ha
+W/RN/12|2008|8-May-08|t|all plots|Nitrapnill N2 plots, completed 9-May-08|174.00|kg/ha
+W/RN/12|2008|8-May-08|f|all plots|Nitraprill N3 plots, completed 9-May-08|261.00|kg/ha
+W/RN/12|2008|8-May-08|f|all plots|Nitraprill N4 plots, completed 9-May-08|348.00|kg/ha
+W/RN/12|2008|8-May-08|f|all plots|Nitrpnill NS plots, completed 9-May-08|435.00|kg/ha
+W/RN/12|2008|25-Jun-08|a|all plots|cut harvest strips, weighed and sampled ley plots|None|None
+W/RN/12|2008|25-Jun-08|a|all plots|mow all grass discards|None|None
+W/RN/12|2008|26-Jun-08|a|all plots|harrowed up hay ley plots|None|None
+W/RN/12|2008|26-Jun-08|a|all plots|baled ley plots|None|None
+W/RN/12|2008|14-Sep-08|a|all plots|combine harvest discards|None|None
+W/RN/12|2008|14-Sep-08|a|all plots|swathed straw|None|None
+W/RN/12|2008|18-Sep-08|a|all plots|combine harvest, plots for yield|None|None
+W/RN/12|2008|18-Sep-08|a|all plots|swathed straw|None|None
+W/RN/12|2008|19-Sep-08|a|all plots|combine harvest discards|None|None
+W/RN/12|2008|19-Sep-08|a|all plots|swathed straw|None|None
+W/RN/12|2008|21-Sep-08|a|all plots|baled|None|None
+W/RN/12|2008|19-Nov-08|a|all plots|cut harvest strips. weighed and sampled, ley plots, second cut|None|None
+W/RN/12|2009|30-Sep-08|a|all plots|Direct drill - CC plots 004, 010, 019 and 032 Zlata (mustard) - CC plots|10.00|kg/ha
+W/RN/12|2009|28-Oct-08|f|all plots|chopped wheat straw - plots 003,015,017 and 031, all chopped Sting McConnell Copper|7.50|had
+W/RN/12|2009|17-Mar-09|s|all plots|Potassium Sulphate - all plots except 005,011, 023 and 026|200.00|kg/ha
+W/RN/12|2009|17-Mar-09|t|all plots|Tripie Superphosphate - all plots except 005, 011, 023 and 026|97.5|kg/ha
+W/RN/12|2009|19-Mar-09|f|all plots|FYM, Dg 10 plots|10.00|wheat
+W/RN/12|2009|19-Mar-09|f|all plots|FYM, Dg 25 plots|25.00|wheat
+W/RN/12|2009|19-Mar-09|f|all plots|Compost. Co plots|40.00|wheat
+W/RN/12|2009|02-Apr-09|a|all plots|Combination drilled Tipple Tr Raxil Pro|350.00|seedsim2
+W/RN/12|2009|02-Apr-09|a|all plots|rolled|None|None
+W/RN/12|2009|14-May-09|p|all plots|ally|30.00|g/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|Cherokee|1.25|l/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|Cycocel|2.25|l/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|Headland manganese 500|1.00|l/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|Fandango|1.00|l/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|flexitined|0.20|l/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|ally Max SX|30.00|g/200 l/ha
+W/RN/12|2009|14-May-09|p|all plots|Headland manganese 500|1.00|l/200 l/ha
+W/RN/12|2009|28-May-09|a|all plots|Nitro-chalk N1 plots|130.00|kg/ha
+W/RN/12|2009|28-May-09|a|all plots|Nitro-chalk N2 plots|259.00|kg/ha
+W/RN/12|2009|28-May-09|a|all plots|Nitro-chalk N3 plots|389.00|kg/ha
+W/RN/12|2009|28-May-09|a|all plots|Nitro-chalk N4 plots|519.00|kg/ha
+W/RN/12|2009|28-May-09|a|all plots|Nitro-chalk N5 plots|648.00|kg/ha
+W/RN/12|2009|03-Jun-09|p|all plots|Opus 0.50 L in|200|had
+W/RN/12|2009|03-Jun-09|p|all plots|Amistar 0.40 L in|200|had
+W/RN/12|2009|24-Jun-09|a|all plots|cut harvest strips ley plots, weighed and sampled|None|None
+W/RN/12|2009|28-Jun-09|a|all plots|baled|None|None
+W/RN/12|2009|17-Jul-09|a|all plots|topped ley plots|None|None
+W/RN/12|2009|23-Aug-09|a|all plots|combine harvest, plots for yield a combine harvest, spring barley plots for yield|None|None
+W/RN/12|2009|24-Aug-09|a|all plots|combine harvest discards|None|None
+W/RN/12|2009|26-Aug-09|a|all plots|baled|None|None
+W/RN/12|2009|02-Sep-09|a|all plots|Remove bales|None|None
+W/RN/12|2010|11-Sep-09|a|all plots|Road straw|7.50|had
+W/RN/12|2010|21-Sep-09|p|all plots|Nufosate Ace - 200 It water|4.00|had
+W/RN/12|2010|09-Nov-09|f|all plots|Chalk|5.00|had
+W/RN/12|2010|09-Nov-09|a|all plots|spread straw|None|None
+W/RN/12|2010|11-Nov-09|f|all plots|Chalk - Finished|5.00|had
+W/RN/12|2010|11-Nov-09|a|all plots|spread straw|None|None
+W/RN/12|2010|28-Jan-10|a|all plots|Compost - Co plots|40.00|had
+W/RN/12|2010|02-Feb-10|a|all plots|FYM-Dg, plot|10.00|had
+W/RN/12|2010|03-Feb-10|a|all plots|FYM-ODG, 25 plot|25.00|had
+W/RN/12|2010|08-Mar-10|a|all plots|ploughed - beans plots|None|None
+W/RN/12|2010|09-Mar-10|s|all plots|Combination drilled Fuego|42.00|s/m2
+W/RN/12|2010|17-Mar-10|p|all plots|Skirmish - 200 It water on beans|1,00|had
+W/RN/12|2010|23-Apr-10|a|all plots|harrowed|None|None
+W/RN/12|2010|24-Apr-10|s|all plots|Combination drilled Fuego|32.00|seeds/m2
+W/RN/12|2010|26-May-10|a|all plots|baled - ley plots|None|None
+W/RN/12|2010|24-Jun-10|a|all plots|cut harvest strips, weighed and sampled ley plots|None|None
+W/RN/12|2010|09-Sep-10|a|all plots|combine harvest, plots for yield|None|None
+W/RN/12|2010|22-Sep-10|a|all plots|baled - removed|None|None
+W/RN/12|2010|10-Oct-10|a|all plots|others Opera - straw treatment applied as chelated, chopped and spread|None|None
+W/RN/12|2010|11-Oct-10|f|all plots|compost - as chelated|None|None
+W/RN/12|2010|11-Oct-10|f|all plots|FYM - as chelated|None|None
+W/RN/12|2011|30-Sep-10|p|all plots|sprayed Gallup 360 in 2001|4.0|had
+W/RN/12|2011|10-Oct-10|a|all plots|Straw treatment applied, chopped and spread -Straw plots only.|None|None
+W/RN/12|2011|11-Oct-10|a|all plots|Compost and FYM treatment applied by manures Spreader as chelated.|None|None
+W/RN/12|2011|12-Oct-10|a|all plots|ploughed - with Ransomes 3 furrow. Arable plots only.|None|None
+W/RN/12|2011|14-Oct-10|s|all plots|rotary harrowed, drilled gallons. dressed Redigo, arable plots only.|360|seed.
+W/RN/12|2011|21-Mar-11|f|all plots|broadcast Nitrochalk, 27%N early N applications (N1) as chelated to N1, N2, N3, N4 and N5 plots.|185|kg/ha
+W/RN/12|2011|25-Mar-11|f|all plots|broadcast Potassium Sulphate - all plots except Dg 25|200|kg/ha
+W/RN/12|2011|25-Mar-11|f|all plots|top - all plots except Dg 25.|97.5|kg/ha
+W/RN/12|2011|28-Mar-11|p|all plots|sprayed Cherokee 1.25 had with manganese in 200V/ha - wheat|1.5|had
+W/RN/12|2011|13-Apr-11|f|all plots|broadcast Nitrochalk, 27%N. main N applications to wheat, as chelated - N2, N3, N4 or N5 plots|370-926|kg/ha
+W/RN/12|2011|11-May-11|p|all plots|sprayed take. - wheat only.|1.0|l/200 l/ha
+W/RN/12|2011|11-May-11|p|all plots|sprayed Bravo. - wheat only. 500|1.0|l/200 l/ha
+W/RN/12|2011|11-May-11|p|all plots|sprayed Justice. - wheat only.|0.25|l/200 l/ha
+W/RN/12|2011|11-May-11|p|all plots|sprayed CCC. - wheat only.|2.25|l/200 l/ha
+W/RN/12|2011|21-Jun-11|a|all plots|yield strip mow, sampled and weighed. - ley plots only.|None|None
+W/RN/12|2011|22-Jun-11|a|all plots|mow with Kuhn. ley only.|None|None
+W/RN/12|2011|25-Jun-11|a|all plots|ley tedded.|None|None
+W/RN/12|2011|26-Jun-11|a|all plots|Windrowed - ley only.|None|None
+W/RN/12|2011|27-Jun-11|a|all plots|ground baled - ley plots only.|None|None
+W/RN/12|2011|15-Aug-11|p|all plots|sprayed Hoedown in 200! - wheat only.|4.0|had
+W/RN/12|2011|01-Sep-11|a|all plots|combined plots for yield|None|None
+W/RN/12|2011|02-Sep-11|a|all plots|combined O+Es|None|None
+W/RN/12|2011|07-Sep-11|a|all plots|baled and removed straw|None|None
+W/RN/12|2012|01-Sep-11|a|all plots|combined plots -|None|None
+W/RN/12|2012|30-Sep-11|s|all plots|spread mustard by hand, as per plan -|None|None
+W/RN/12|2012|30-Sep-11|a|all plots|shallow power harrowed to incorporate mustard seed : as per plan|None|None
+W/RN/12|2012|24-Nov-11|a|all plots|cut and weighed grass plots for yield (yield cut|2|in -2011).
+W/RN/12|2012|30-Nov-11|a|all plots|cut and removed grass - grass plot only -|None|None
+W/RN/12|2012|01-Dec-11|a|all plots|topped grass a second time to tidy up -|None|None
+W/RN/12|2012|29-Mar-12|f|all plots|spread Fert top with Kuhn, as per plan|97.5|kg/ha
+W/RN/12|2012|29-Mar-12|f|all plots|spread Fert SOP with Kuhn, as per plan|200|kg/ha
+W/RN/12|2012|29-Mar-12|f|all plots|applied Basal fertilizers as plants, except plots 5,11,23,26.|97.5|kg/ha
+W/RN/12|2012|29-Mar-12|f|all plots|Sulphate of potash applied except plots 5,11,23,.26.|200|kg/ha
+W/RN/12|2012|19-Apr-12|a|all plots|spread FYM, straw, compost by hand - kg/ha|None|None
+W/RN/12|2012|20-Apr-12|a|all plots|spread FYM, straw, compost by hand to finish - kg/ha|None|None
+W/RN/12|2012|20-Apr-12|a|all plots|chopped straw with orsi -|None|None
+W/RN/12|2012|18-May-12|a|all plots|ploughed spoilt to the out :|None|None
+W/RN/12|2012|23-May-12|a|all plots|harrowed maize area :|None|None
+W/RN/12|2012|24-May-12|f|all plots|applied N treatment, as per plan - kg/ha|None|None
+W/RN/12|2012|25-May-12|s|all plots|drilled Maize, Hudson Maize trt Mesurol, rolled plots after drill|10.1|seed?
+W/RN/12|2012|26-Jun-12|p|all plots|spray Samson extra n maize area only|0.75|l/200 l/ha
+W/RN/12|2012|26-Jun-12|p|all plots|spray Callisto on maize area only|1.0|l/200 l/ha
+W/RN/12|2012|12-Jul-12|f|all plots|applied Nitro-chalk as per plan seed above|None|None
+W/RN/12|2012|17-Jul-12|a|all plots|cut and weighed grass plots for yield - cut|1|-
+W/RN/12|2012|17-Jul-12|a|all plots|cut plants -|None|None
+W/RN/12|2012|24-Jul-12|a|all plots|grass area topped -|None|None
+W/RN/12|2012|25-Jul-12|a|all plots|Turned hay :|None|None
+W/RN/12|2012|28-Jul-12|a|all plots|harrowed up hay :|None|None
+W/RN/12|2012|28-Jul-12|a|all plots|baled and Removed :|None|None
+W/RN/12|2012|15-Aug-12|a|all plots|cut plants :|None|None
+W/RN/12|2012|02-Oct-12|a|all plots|cut Maize for yield :|None|None
+W/RN/12|2012|03-Oct-12|a|all plots|cut Maize for yield -|None|None
+W/RN/12|2012|10-Oct-12|a|all plots|mow, baled and removed maize :|None|None
+W/RN/12|2012|05-Nov-12|a|all plots|cut and weighed grass plots for yield cut|2|-
+W/RN/12|2012|05-Nov-12|a|all plots|applied FYM as per plan seed plan|None|None
+W/RN/12|2013|20-Oct-12|p|all plots|sprayed glyphosate, grass plots not sprayed.|4|had
+W/RN/12|2013|24-Oct-12|a|all plots|applied compost. plots 7, 12, 21 and 27|40|had
+W/RN/12|2013|24-Oct-12|a|all plots|applied straw, plots 3, 15, 17, 31.|7.5|had
+W/RN/12|2013|06-Nov-12|a|all plots|applied FYM -finished — _|None|None
+W/RN/12|2013|06-Nov-12|a|all plots|topped grass plots, unable to baled and remove, ton Little grass.|None|None
+W/RN/12|2013|06-Nov-12|a|all plots|ploughed - east = —|None|None
+W/RN/12|2013|08-Nov-12|a|all plots|ploughed: finished _- _-|None|None
+W/RN/12|2013|10-Dec-12|a|all plots|power harrowed- prep sites _ _-|None|None
+W/RN/12|2013|12-Dec-12|s|all plots|drilled Kapitan, drilled as a solid block|450|seed?
+W/RN/12|2013|13-Dec-12|s|all plots|drilled Kapitan - finished|450|seed?
+W/RN/12|2013|20-Apr-13|f|all plots|applied Sulphate of potash, applied to whole material except plots 5, 11, 23 and 26.|200|kg/ha
+W/RN/12|2013|20-Apr-13|f|all plots|applied top- applied to all plots except 5, 11, 23 and 26|97.5|kg/ha
+W/RN/12|2013|01-May-13|p|all plots|sprayed ally Max sprayed all rye plots but not the grass.|42|g/200 l/ha
+W/RN/12|2013|01-May-13|p|all plots|sprayed Folicur sprayed all rye plots but not the grass.|0.5|l/200 l/ha
+W/RN/12|2013|01-May-13|p|all plots|sprayed Amistar sprayed all rye plots but not the grass.|0.5|l/200 l/ha
+W/RN/12|2013|01-May-13|p|all plots|sprayed Moddus sprayed all rye plots but not the grass.|0.25|l/200 l/ha
+W/RN/12|2013|01-May-13|p|all plots|sprayed new 5C Cycocel sprayed all rye plots but not the grass.|1.5|l/200 l/ha
+W/RN/12|2013|07-May-13|f|all plots|applied Nitro-chalk, applied to treated plots.|None|None
+W/RN/12|2013|03-Jun-13|p|all plots|sprayed Amistar rye only|0.5|had
+W/RN/12|2013|03-Jun-13|p|all plots|sprayed Folicur rye only|0.5|had
+W/RN/12|2013|01-Jul-13|a|all plots|cut grass plots, cut for yield|None|None
+W/RN/12|2013|03-Jul-13|a|all plots|mow grass, mow east of grass plots|None|None
+W/RN/12|2013|08-Jul-13|a|all plots|harrowed up grass, ley plots|None|None
+W/RN/12|2013|08-Jul-13|a|all plots|baled and removed, ley plots|None|None
+W/RN/12|2013|31-Aug-13|a|all plots|cut plots for yield|None|None
+W/RN/12|2013|04-Sep-13|a|all plots|combined|None|None
+W/RN/12|2013|06-Sep-13|a|all plots|baled|None|None
+W/RN/12|2013|13-Nov-13|a|all plots|cut and weighed grass plots for yield, plots|1,13,24|and 29
+W/RN/12|2013|13-Nov-13.|a|all plots|topped grass plots, grass ton short to baled and remove|None|None
+W/RN/12|2014|10-Sep-13|s|all plots|broadcast mustard cv. east undressed - plots 4, 10, 19 and 32|10|kg/ha
+W/RN/12|2014|10-Sep-13|a|all plots|power harrowed to clover mustard. plots|4,10,19|and 32
+W/RN/12|2014|10-Sep-13|a|all plots|rolled plots 4, 10,|19|and 32
+W/RN/12|2014|27-Sep-13|p|all plots|sprayed Samurai - grass and mustard plots not sprayed|4.0|had
+W/RN/12|2014|27-Sep-13|p|all plots|sprayed Firebrand - grass and mustard plots not sprayed|1.0|had
+W/RN/12|2014|05-Mar-14|p|all plots|sprayed Gallup 360. Prep for spring crop grass plots not sprayed.|1.0|had
+W/RN/12|2014|18-Mar-14|f|all plots|applied FYM plots 8, 14, 18, 28.|10|had
+W/RN/12|2014|18-Mar-14|f|all plots|applied FYM plots 5, 11, 23, 26.|25|had
+W/RN/12|2014|18-Mar-14|a|all plots|applied straw plots 3, 15, 17 and 31|7.5|had
+W/RN/12|2014|18-Mar-14|a|all plots|applied compost plots 7, 12, 21 and 27.|40|had
+W/RN/12|2014|20-Mar-14|a|all plots|ploughed - :|None|None
+W/RN/12|2014|01-Apr-14|s|all plots|drilled barley Apr. Tipple|350|seed?
+W/RN/12|2014|15-Apr-14|f|all plots|applied top - applied to all plots apart from 5,11,23 and 26|97.5|kg/ha
+W/RN/12|2014|15-Apr-14|t|all plots|applied SOP - applied to all plots apart from 5,11,23 and 26|200|kg/ha
+W/RN/12|2014|30-Apr-14|p|all plots|sprayed Hallmark with Zeon Technology in|40|l/200 ml/ha
+W/RN/12|2014|13-May-14|f|all plots|applied Nitro Chalk applied by hand at rate given above|None|None
+W/RN/12|2014|21-May-14|p|all plots|sprayed Refine Max in 150 I'/ha water volume|75|g/ha
+W/RN/12|2014|21-May-14|p|all plots|sprayed King in 150 had water volume|1,25|had
+W/RN/12|2014|21-May-14|p|all plots|sprayed Bravo 500 in 150 had water volume|1.0|had
+W/RN/12|2014|21-May-14|p|all plots|sprayed Hatchet Xtra in 150 I/ha water volume|0.75|had
+W/RN/12|2014|13-Jun-14|p|all plots|sprayed Fezan - barley only|0.6|had
+W/RN/12|2014|14-Jun-14|p|all plots|sprayed Hallmark - barley only|40|misha
+W/RN/12|2014|26-Jun-14|a|all plots|cut grass plots for yield :|None|None
+W/RN/12|2014|30-Jun-14|a|all plots|mow grass plots :|None|None
+W/RN/12|2014|01-Jul-14|a|all plots|Turned hay|None|None
+W/RN/12|2014|02-Jul-14|a|all plots|Turned hay :|None|None
+W/RN/12|2014|03-Jul-14|a|all plots|baled and Removed hay|None|None
+W/RN/12|2014|24-Aug-14|a|all plots|combined plots for yield :|None|None
+W/RN/12|2014|06-Sep-14|a|all plots|baled and Removed :|None|None
+W/RN/12|2014|11-Sep-14|p|all plots|sprayed Firebrand in 200 ha water volume. Problem with "Auto control” on sprayed, swathed to manual.|1.0|had
+W/RN/12|2014|11-Sep-14|p|all plots|sprayed Samurai in 200 I/ha water volume. Problem with "Auto control” on sprayed, swathed to manual.|4.0|had
+W/RN/12|2014|03-Dec-14|a|all plots|cut grass plots for yield|None|None
+W/RN/12|2014|10-Dec-14|a|all plots|topped grass plots|None|None
+W/RN/12|2015|07/10/2014|a|all plots|applied Compost to fallowed plots 7, 12, 21, 27|40|vVha
+W/RN/12|2015|08/10/2014|a|all plots|applied Straw to plots 3, 15, 17, 31|75|had
+W/RN/12|2015|08/10/2014|a|all plots|topped straw|None|None
+W/RN/12|2015|09/10/2014|a|all plots|applied FYM - plots S, 11, 23, 26|25|wheat
+W/RN/12|2015|20/10/2014|a|all plots|ploughed (thrown east)|None|None
+W/RN/12|2015|29/10/2014|a|all plots|power harrowed|None|None
+W/RN/12|2015|05/11/2014|s|all plots|drilled Wizzard Winter beans|35|seed?
+W/RN/12|2015|18/02/2015|p|all plots|sprayed Crawler in 200 ha water volume|35|wheat
+W/RN/12|2015|26/05/2015|a|all plots|cut plants|None|None
+W/RN/12|2015|27/08/2015|p|all plots|sprayed San 703 in 131 ha water volume|15|wheat
+W/RN/12|2015|27/05/2015|p|all plots|sprayed Hallmark with Zeon Technology in|75|l/131 ml/ha
+W/RN/12|2015|08/07/2015|a|all plots|cut grass plots for yield --|None|None
+W/RN/12|2015|09/07/2015|a|all plots|mow grass plots --|None|None
+W/RN/12|2015|09/07/2015|a|all plots|Turned grass 7|None|None
+W/RN/12|2015|10/07/2015|a|all plots|Turned grass es|None|None
+W/RN/12|2015|16/07/2015|a|all plots|Turned hay -|None|None
+W/RN/12|2015|17/07/2015|a|all plots|harrowed up hay -|None|None
+W/RN/12|2015|17/07/2015|a|all plots|baled hay 7|None|None
+W/RN/12|2015|23/07/2015|a|all plots|cut plants|7|+
+W/RN/12|2015|03/09/2015|a|all plots|cut plants --|None|None
+W/RN/12|2015|11/09/2015|a|all plots|combined plots for yield|None|None
+W/RN/12|2015|11/09/2015|a|all plots|combined O+Es|None|None
+W/RN/12|2015|25/09/2015|p|all plots|sprayed Firebrand in 150 had water volume - beans stubble|1|wheat
+W/RN/12|2015|25/09/2015|p|all plots|sprayed Samurai in 150 had water volume - beans stubble|4|had
+W/RN/12|2015|09/12/2015|a|all plots|cut grass plots for yield - second and final cut -|None|None
+W/RN/12|2016|29/10/2015|f|all plots|applied FYM; plots 5,11,23,26|25.00|t/ha
+W/RN/12|2016|29/10/2015|f|all plots|applied FYM; plots 8,14,18,28|10.00|had
+W/RN/12|2016|30/10/2015|f|all plots|applied compost; plots 7 and 21|40.00|t/ha
+W/RN/12|2016|02/11/2015|f|all plots|applied compost; plots 12 and 27|40.00|t/ha
+W/RN/12|2016|02/11/2015|f|all plots|applied straw; plots 3,15,17,31|7.50|had
+W/RN/12|2016|09/11/2015|f|all plots|topped straw plots; plots 3,15,17,31.|None|None
+W/RN/12|2016|10/11/2015|a|all plots|ploughed; Thrown east ss|None|None
+W/RN/12|2016|12/11/2015|a|all plots|power harrowed = 4|None|None
+W/RN/12|2016|16/11/2015|s|all plots|drilled gallons, tr Redigo Pro; 4m tines drill|400.00|seed?
+W/RN/12|2016|29/02/2016|f|all plots|applied SOP; all plots except plots 5,11,23 and (Dg25) 26|200.00|kg/ha
+W/RN/12|2016|04/03/2016|f|all plots|applied top fertilizers; all plots including grass except plots 5,11,23 and 26 (Dg25)|97.50|kg/ha
+W/RN/12|2016|31/03/2016|p|all plots|sprayed Atlantis (in 150 It/ha water volume); wheat only|0.40|kg/ha
+W/RN/12|2016|31/03/2016|p|all plots|sprayed Compitox Opus (in 150 It/ha water volume); wheat only|1.00|with
+W/RN/12|2016|31/03/2016|p|all plots|sprayed Biopower (in 150 It/ha water volume); wheat only|1.00|with
+W/RN/12|2016|11/04/2016|f|all plots|applied Nitro-chalk (27% N); 1st nitrogen treatment; by hand to wheat only|185.00|kg/ha
+W/RN/12|2016|27/04/2016|f|all plots|applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|185.00|kg/ha
+W/RN/12|2016|27/04/2016|f|all plots|applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|370.00|kg/ha
+W/RN/12|2016|27/04/2016|f|all plots|applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|556.00|kg/ha
+W/RN/12|2016|27/04/2016|f|all plots|applied Nitro-chalk (27% N); second nitrogen treatment; by hand to wheat only|741.00|kg/ha
+W/RN/12|2016|30/04/2016|p|all plots|sprayed Sprinter (in 150 It/ha water volume); wheat only|2.00|It/ha
+W/RN/12|2016|30/04/2016|p|all plots|sprayed Simba (in 150 It/ha water volume); wheat only|20.00|g/ha
+W/RN/12|2016|30/04/2016|p|all plots|sprayed Cortez (in 150 It/ha water volume); wheat only|0.75|It/ha
+W/RN/12|2016|30/04/2016|p|all plots|sprayed Bravo 500 (in 150 It/ha water volume); wheat only|1.00|It/ha
+W/RN/12|2016|23/05/2016|p|all plots|sprayed Sprinter (in 150 It/ha water volume); wheat only|2.00|It/ha
+W/RN/12|2016|23/05/2016|p|all plots|sprayed Vortex (in 150 It/ha water volume); wheat only|1.50|Itvha
+W/RN/12|2016|23/05/2016|p|all plots|sprayed Hunter (in 150 It/na water volume); wheat only|1.50|with
+W/RN/12|2016|26/05/2016|a|all plots|cut plants|None|None
+W/RN/12|2016|09/06/2016|p|all plots|sprayed Cello (in 150 It/ha water volume); wheat only|0.60|= It/ha
+W/RN/12|2016|09/06/2016|p|all plots|sprayed Cyflamid (in 150 It/ha water volume); wheat only|0.15|It/ha
+W/RN/12|2016|09/06/2016|p|all plots|sprayed Hallmark (in 150 It/ha water volume); wheat only|50.00|mi/ha
+W/RN/12|2016|11/07/2016|a|all plots|cut plants|None|None
+W/RN/12|2016|12/07/2016|a|all plots|cut plants -“|None|None
+W/RN/12|2016|13/07/2016|a|all plots|cut grass plots for yield 3|None|None
+W/RN/12|2016|14/07/2016|a|all plots|mow all grass plots a|None|None
+W/RN/12|2016|14/07/2016|a|all plots|Turned grass - :|None|None
+W/RN/12|2016|18/07/2016|a|all plots|Turned hay|None|None
+W/RN/12|2016|18/07/2016|a|all plots|harrowed up and baled hay; grass plots only -|None|None
+W/RN/12|2016|13/08/2016|a|all plots|combined plots for yield; all wheat plots|None|None
+W/RN/12|2016|15/08/2016|a|all plots|combined; Mercia combine swathed east of the plots|None|None
+W/RN/12|2016|19/08/2016|a|all plots|Removed all bales 3|None|None
+W/RN/12|2016|08/09/2016|a|all plots|baled Straw|None|None
+W/RN/12|2016|12/09/2016|a|all plots|Removed bales|None|None
+W/RN/12|2016|10/11/2016|a|all plots|cut grass plots for yield (second cut)|None|None
+W/RN/12|2017|09/09/2016|s|all plots|hand broadcast mustard Zlata - plots 4, 10, 19 and 32 only. clover crop plots (CC).|10.00|kg/ha
+W/RN/12|2017|09/09/2016|a|all plots|power harrowed - clover crop plots lightly.|None|None
+W/RN/12|2017|13/04/2017|p|all plots|sprayed Firebrand - sprayed off stubble only.|1.00|It/ha
+W/RN/12|2017|13/04/2017|p|all plots|sprayed Samurai - sprayed off stubble only.|4.00|It/ha
+W/RN/12|2017|20/04/2017|f|all plots|applied Chalk - all plots|5.00|t/ha
+W/RN/12|2017|21/04/2017|f|all plots|applied SOP (50% K2O, 45% SOP) - all plots apart from 5, 11, 23, 26.|200.00|kg/ha
+W/RN/12|2017|21/04/2017|f|all plots|applied MOP - all plots a part from 5,11,23,26.|97.50|kg/ha
+W/RN/12|2017|24/04/2017|f|all plots|applied compost - plots 7, 12, 21, 27|40.00|t/ha
+W/RN/12|2017|25/04/2017|f|all plots|applied straw - plots 3, 15, 17, 31|7.50|t/ha
+W/RN/12|2017|25/04/2017|f|all plots|applied FYM - plots 5, 11, 23, 26|25.00|t/ha
+W/RN/12|2017|25/04/2017|f|all plots|applied FYM - plots 8, 14, 18, 28|10.00|t/ha
+W/RN/12|2017|26/04/2017|a|all plots|topped straw plots|None|None
+W/RN/12|2017|27/04/2017|a|all plots|ploughed - thrown out east|None|None
+W/RN/12|2017|03/05/2017|a|all plots|power harrowed|None|None
+W/RN/12|2017|04/05/2017|a|all plots|rolled Pro to drill|None|None
+W/RN/12|2017|04/05/2017|s|all plots|drilled maize Severus tr. material|10.10|s/m42
+W/RN/12|2017|25/05/2017|f|all plots|applied Nitro-chalk (27% N) by hand - N1 to N5 treatment|185.00|kg/ha
+W/RN/12|2017|19/06/2017|a|all plots|cut plants|None|None
+W/RN/12|2017|22/06/2017|f|all plots|applied Nitro-chalk (27% N) by hand. To plots 0025, 0033, 0044, 0054, 0064, 0076, 0085, 0091, 0102, 0111, 0123, 0142, 0154, 0162, 0176, 0181, 0192, 0201, 0211, 0223, 0236, 0252, 0262, 0273, 0283, 0305, 0312, 0323 - Maize plots only|185.00|kg/ha
+W/RN/12|2017|22/06/2017|f|all plots|applied Nitro-chalk (27% N) by hand. To plots 0023, 0034, 0042, 0051, 0061, 0074, 0086, 0094, 0103, 0114, 0125, 0141, 0152, 0165, 0172, 0183, 0191, 0204, 0216, 0221, 0234, 0254, 0264, 0275, 0281, 0306, 0316, 0321 - Maize plots only|370.00|kg/ha
+W/RN/12|2017|22/06/2017|f|all plots|applied Nitro-chalk (27% N) by hand. To plots 0026, 0031, 0041, 0052, 0066, 0075, 0081, 0096, 0101, 0115, 0122, 0145, 0151, 0161, 0174, 0184, 0196, 0203, 0213, 0224, 0233, 0251, 0261, 0276, 0285, 0301, 0314, 0322 - Maize plots only|556.00|kg/ha
+W/RN/12|2017|22/06/2017|f|all plots|applied Nitro-chalk (27% N) by hand. To plots 0024, 0032, 0045, 0053, 0065, 0073, 0084, 0093, 0106, 0116, 0126, 0146, 0155, 0163, 0171, 0185, 0193, 0202, 0215, 0226, 0235, 0256, 0266, 0272, 0282, 0304, 0311, 0325 - Maize plots only|741.00|kg/ha
+W/RN/12|2017|26/06/2017|p|all plots|sprayed Callisto in 200 It/ha water volume - maize plots only|1.50|It/ha
+W/RN/12|2017|26/06/2017|p|all plots|sprayed Samson extra in 200 It/ha water volume|0.75|It/ha
+W/RN/12|2017|27/06/2017|a|all plots|cut grass plots for yield (1% cut)|None|None
+W/RN/12|2017|06/07/2017|a|all plots|mow all remaining grass on plots|None|None
+W/RN/12|2017|10/07/2017|a|all plots|baled and removed all remaining grass|None|None
+W/RN/12|2017|11/08/2017|a|all plots|topped Surrounds and plants|None|None
+W/RN/12|2017|20/09/2017|a|all plots|started having Maize for yield|None|None
+W/RN/12|2017|21/09/2017|a|all plots|Finished having Maize for yield|None|None
+W/RN/12|2017|29/09/2017|a|all plots|topped material sites|None|None
+W/RN/12|2017|17/11/2017|a|all plots|cut grass plots for yield (2nd cut)|None|None

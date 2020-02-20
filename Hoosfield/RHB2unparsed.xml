@@ -1467,7 +1467,7 @@ Harvested: 18 Aug.
 <![CDATA[81/R/HB/2
 D14F None D PKMg omitted 14 after fallow
 (0)14F (0) - . 14 after fallow
-(A)14F (Ashes) - - 14 after fallow
+(A)14F (Ashes)  14 after fallow
 -14F None - . 14 after fallow
 Form of N: A, sulphate of ammonia: N, nitrate of soda - each to supply
 48 kg N, C, castor meal to supply 96 kg N
@@ -1619,9 +1619,9 @@ PLOT AREA HARVESTED 0.00306
 <rawcontent>
 <![CDATA[83/R/HB/2
 D16F None 0 - 16 after fallow
-(D)16F (0) - - 16 after fallow
-(A)16F (Ashes) - - 16 after fallow
--16F None - - 16 after fallow
+(D)16F (0)  16 after fallow
+(A)16F (Ashes)  16 after fallow
+-16F None  16 after fallow
 Form of N: A, sulphate of ammonia: N, nitrate of soda - each to supply
 48 kg N: C, castor meal to supply 96 kg N
 P: 35 kg P as single superphosphate (triple superphosphate in 1974)
@@ -2597,7 +2597,7 @@ all plots
 25-Oct-10 a Spread FYM - Spread according lo plan on plots 721,722,723,724,731,732,733,734 (Used 3.600 kg) 35 Vha
 25-Oct-10 f Applied Sulphate of Potash - Applied according to plan 217 kg/ha
 25-Oct-10 f Applied Triple Superphosphate - Plots 634, 633, 632, 631 215 kg/ha
-26-Oct-10  f Applied Kieserite -To plots 634, 533, 632, 631 233kg kg/ha
+26-Oct-10 f Applied Kieserite -To plots 634, 533, 632, 631 233kg kg/ha
 01-Nov-10 f Applied silicate of soda - plots 433. 333, 233. 133, 432, 332,232,132 450 kg kg/ha
 03-Nov-10 a Ploughed
 04-Nov-10 a Ploughed - Finished
@@ -2647,7 +2647,7 @@ all plots
 23-Apr-12 f Nitrochalk Applied by hand. main to Plots 48 kgN/ha
 23-Apr-12 f Nitrochalk Applied by hand. main to Plots 96 kgN/ha
 23-Apr-12 f Nitrochalk Applied by hand. main to Plots 144 kgN/ha
-10-May-12 t Nitram Applied by hand to Plots 13, 23, 33, 43, 44,34,24, 14, 55, 56, 57 and 58 (Silicate & P Test Plots) 144 kgN/ha
+10-May-12 f Nitram Applied by hand to Plots 13, 23, 33, 43, 44,34,24, 14, 55, 56, 57 and 58 (Silicate & P Test Plots) 144 kgN/ha
 16-May-12 f Nitram Applied to surrounding areas. 417 kg/ha
 22-May-12 p Sprayed Spring Barley w/ Amistar 1.0 l/ha
 22-May-12 p Sprayed Spring Barley w/ Corbel 0.25 l/ha
@@ -2673,20 +2673,20 @@ all plots
 28-Sep-12 f Spread Fert Kieserite as on sheet sections 631-634 233 kg/ha
 01-Oct-12 a Spread Soda Silicate onto plots 432-132, 433-133 450 kg/ha
 03-Oct-12 a Applied FYM to 734 to 731 and 724 to 721 35 tha
-08-Oct-12 A Ploughed 
+08-Oct-12 a Ploughed 
 01-Mar-13 a Drlling W Barley var Tipple 350 Seeds m’
-04-Mar-13 a Ring Rolled - -
+04-Mar-13 a Ring Rolled 
 30-Apr-13 a Rotated Paths _- _-
 01-May-13 f Applied N as Nitro Chalk Plots 113,124,211,222,313,321,412,421,611,621,631,712,721,732. 178 kg/ha
 01-May-13 f Applied N as Nitro Chalk Plots 112,123,212,223,314,324,414 422 613, 624,634,711,722,731. 356 kg/ha
 01-May-13 f Applied N as Nitro Chalk Plots 114,122,213,224,312,323.411,424,612, 622,632,714,723,733. 533 kg/ha
-01-May-13 {Applied Nitram - Plots: Series AA old plots, Series C and Strip 5, as per plan 417 kg/ha
+01-May-13 f Applied Nitram - Plots: Series AA old plots, Series C and Strip 5, as per plan 417 kg/ha
 02-Jun-13 p Sprayed Mobius 0.6 Ina
 02-Jun-13 p Sprayed Clyfamid 0.125 l/ha
 26-Jun-13 p Sprayed Mobius 04 l/ha
-09-Jul-13 a Cut/Cultivated Paths _- -
-10-Jul-13 a Pulling Wild Oats. 7 in plots - -
-12-Aug-13 a Claas - Harvested (opened up exp) —- -
+09-Jul-13 a Cut/Cultivated Paths _
+10-Jul-13 a Pulling Wild Oats. 7 in plots 
+12-Aug-13 a Claas - Harvested (opened up exp) —
 27-Aug-13 a Claas - Harvested discards OF's -
 27-Aug-13 a Sampo - Harvested for yield All plots _-
 28-Aug-13 a Baled Sampled and Weighed All Plots -
@@ -2705,24 +2705,23 @@ all plots
 03-Dec-13 a Applied Chalk - Plots 734-711, 634-611, 551-582, 444-411, 344-311, 244-241, 144-141 4 Vha
 03-Dec-13 f Applied Silicate of Soda - Plots 433-133 432-132 450 kg/ha
 04-Dec-13 f Applied FYM - Plots 721-734 35 tha
-06-Dec-13 a Started Ploughing - finished 09 Dec, soil thrown south ~~ - -
-10-Mar-14 a Flexitined ploughed ground - drill prep - -
-12-Mar-14 a Power-harrowed - All site and all Plots. - -
+06-Dec-13 a Started Ploughing - finished 09 Dec, soil thrown south 
+10-Mar-14 a Flexitined ploughed ground - drill prep 
+12-Mar-14 a Power-harrowed - All site and all Plots. 
 14-Mar-14 s Drilled Spring Barley - var. Tipple 350 seed/m?
-14-Mar-14 a Rolled - -
+14-Mar-14 a Rolled 
 14-Mar-14 p Sprayed Crystal - pre emergent 20 I'ha
-29-Apr-14 a Rotavated Paths - -
+29-Apr-14 a Rotavated Paths 
 30-Apr-14 f Applied Nitrochalk by hand - Plots 113,124,211,222,313,321,412,421,611,621,631,712,721,732. 0 kg Nha
 30-Apr-14 f Applied Nitrochalk by hand - Plots 112,123,212,223,314,324 414 422 613, 624,634,711,722.731. 48 kg Nha
 30-Apr-14 f Applied Nitrochalk by hand - Plots 114,122,213,224,312,323,411,424 612, 622,632,714,723,733. 96 kg N/ha
 30-Apr-14 f Applied Nitrochalk by hand - Plots 111,121,214,221,311,322,413,423,614,623,633,713,724,734. 144 kg N/ha
 30-Apr-14 f Applied Nitram @ 35%N - Plots 131-134,141-144 231-234,241-244,331-334,341-344, 431-434, 441-444 551-582 417 kg/ha
 18-Jun-14 p Sprayed Mobius - Sp Barley only 400 mlha
-10-Jul-14 a Removed wild oats from trial - 46 in total - -
+10-Jul-14 a Removed wild oats from trial - 46 in total 
 05-Sep-14 a Cut discard areas and baled straw with Class round baler; removed grain and straw.
 06-Sep-14 a Sampo - harvested all plots for grain yields - .
-08-Sep-14 a Baled and weighed straw for yields - -
-21
+08-Sep-14 a Baled and weighed straw for yields
 ]]></rawcontent>
 </report>
 <report>
@@ -2777,11 +2776,11 @@ all plots
 23/11/2015 p Sprayed Samurai 3 t/ha
 26/11/2015 f Applied FYM onto plots 721-724 & 731-734 35 tha
 26/11/2015 f Applied Silicate of Soda onto plots 433, 432, 333, 332, 233,232,133 + 132 450 kg/ha
-03/12/2015 a Ploughed; thrown south - -
-17/02/2016 a Combination Harrowed all Site and surrounds - -
+03/12/2015 a Ploughed; thrown south 
+17/02/2016 a Combination Harrowed all Site and surrounds 
 29/02/2016 s Drilled KWS Irina - trt Raxial Star 350 seed/m?
 19/04/2016 p Sprayed Hallmark with Zeon Technology 50 ml/ha
-21/04/2016 a Marked out and rotavated all paths - -
+21/04/2016 a Marked out and rotavated all paths 
 05/05/2016 f Applied Nitram @ 34.5%N to Old Series 5, Series C and Series AA (except plots 6 and 7) 417 kg/ha
 09/05/2016 f Applied Nitrochalk to plots 114, 122, 213, 224, 312, 323, 411,424,612, 622, 632, 714, 723, 733 0 kg/ha
 09/05/2016 f Applied Nitrochalk to plots 111, 121, 214, 221, 311, 322,413, 423, 614, 623, 633, 713, 724, 734 48 kg/ha
@@ -2792,9 +2791,9 @@ all plots
 23/05/2016 p Sprayed Kingdom 1.25 lt/ha
 24/05/2016 a Rotavated Paths
 26/07/2016 a pulled wild oats from plots (36) and surrounds -
-23/08/2016 a Mopped Up remaining crop - -
-24/08/2016 a Sampo Harvested All Plots - -
-25/08/2016 a Combined with Tucano Harvester all leftover crop - -
+23/08/2016 a Mopped Up remaining crop 
+24/08/2016 a Sampo Harvested All Plots 
+25/08/2016 a Combined with Tucano Harvester all leftover crop 
 ]]></rawcontent>
 </report>
 <report>
@@ -2802,10 +2801,10 @@ all plots
 <rawcontent>
 <![CDATA[
 all plots
-11/10/2016 a  Ploughed - thrown South - -
+11/10/2016 a  Ploughed - thrown South 
 15/10/2016 p Sprayed Buffalo Elite 1 It/ha
 15/10/2016 p Sprayed Samurai 3 It/ha
-31/10/2016 ff Applied SOP to Plots 141 - 144, 241 - 244, 311 - 344, 411 - 444,551 -582,631-634 217 kg/ha
+31/10/2016 f Applied SOP to Plots 141 - 144, 241 - 244, 311 - 344, 411 - 444,551 -582,631-634 217 kg/ha
 31/10/2016 f Applied Kieserite to Plots 631 - 634 233 kg/ha
 31/10/2016 f Applied TSP to Plots 631 - 634 215 kg/ha
 08/11/2016 f Applied Silicate of Soda to Plots 433, 333, 233, 133,432,332,232 and 132 450 kg/ha
@@ -2815,7 +2814,7 @@ all plots
 12/03/2017 a Cousin Combi Harrowed -
 15/03/2017 s Drilled KWS Irina trt With Raxil Star 350 seeds/m?
 17/03/2017 a Ring Rolled -
-12/05/2017 a Rotavated Paths - -
+12/05/2017 a Rotavated Paths 
 22/05/2017 p Sprayed Hallmark 50 ml/ha
 23/05/2017 f Applied Nitrochalk (27% N) to Plots 113, 124, 211,222, 313,321, 412,421, 611,621, 631, 712, 721, 732 48 kg/ha
 23/05/2017 f Applied Nitrochalk (27% N) to Plots 112, 123, 212, 223,314,324, 414, 422,613, 624,634, 711, 722,731 96 kg/ha
@@ -2825,8 +2824,8 @@ all plots
 30/05/2017 p Sprayed Refine Max 75 g/ha
 30/05/2017 p Sprayed Kingdom 1.25 It/ha
 30/05/2017 p Sprayed Hurler 700 ml/ha
-14/07/2017 a Cut Paths - -
-28/07/2017 a Pulled 7 Wild Oats from within plots - -
+14/07/2017 a Cut Paths 
+28/07/2017 a Pulled 7 Wild Oats from within plots 
 29/08/2017 a Harvested plots for yield & baled all discard and remaining swaths.
 ]]></rawcontent>
 </report>
