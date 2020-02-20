@@ -9,7 +9,7 @@ W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and 
 W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|03-Apr-03|muriate of potash at 167 kg.
 W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|15-May-03|Setter 33 at 5.0 1 in 200 l.
 W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|19-Jun-03|cut yield strips, weighed and sampled.
-W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|19-Jun-03|Mowed for hay.
+W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|19-Jun-03|mow for hay.
 W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|20-Jun-03|Tedded hay.
 W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|21-Jun-03|Tedded hay.
 W/RN/3|2003|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:|25-Jun-03|Tedded hay.
@@ -23,7 +23,7 @@ W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|03-Apr-03
 W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|04-Apr-03|33.5% N at 224 kg
 W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|15-May-03|Setter 33 at 5.0 1 in 200 l.
 W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|19-Jun-03|cut yield strips, weighed and sampled.
-W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|19-Jun-03|Mowed for hay.
+W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|19-Jun-03|mow for hay.
 W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|20-Jun-03|Tedded hay.
 W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|21-Jun-03|Tedded hay.
 W/RN/3|2003|grass ley second to eighth year rotation LLN2-3 and LLN2-8|25-Jun-03|Tedded hay.
@@ -36,7 +36,7 @@ W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|0
 W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|03-Apr-03|muriate of potash at 167 kg.
 W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|15-May-03|Setter 33 at 5.01 in 200 l.
 W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|19-Jun-03|cut yield strips, weighed and sampled.
-W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|19-Jun-03|Mowed for hay.
+W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|19-Jun-03|mow for hay.
 W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|20-Jun-03|Tedded hay.
 W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|21-Jun-03|Tedded hay.
 W/RN/3|2003|clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8|25-Jun-03|Tedded hay.
@@ -101,7 +101,7 @@ W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and 
 W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|10-Oct-03|27.0% N at 93 kg, first year grass/clover ley; at 185 kg, first year grass ley.
 W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|24-Mar-04|muriate of potash at 167 kg.
 W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|06-Jul-04|cut yield strips, weighed and sampled.
-W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|14-Jul-04|Mowed for hay.
+W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|14-Jul-04|mow for hay.
 W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|15-Jul-04|Tedded hay.
 W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|17-Jul-04|Tedded hay.
 W/RN/3|2004|grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)|19-Jul-04|Tedded hay.
@@ -121,21 +121,21 @@ W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|19-Jul-0
 W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|20-Jul-04|harrowed up hay and baled.
 W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|26-Jul-04|muriate of potash at 83 kg
 W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|26-Jul-04|34.5% N at 217 kg.
-W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|15-Sep-04|277 cut, sampled, weighed and mowed plots due for wheat (ie. 9, 10, 13, 14).
-W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|16-Sep-04|Mowed plots cut previous diary, baled and removed.
+W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|15-Sep-04|277 cut, sampled, weighed and mow plots due for wheat (ie. 9, 10, 13, 14).
+W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|16-Sep-04|mow plots cut previous diary, baled and removed.
 W/RN/3|2004|grass ley second to eighth year rotation LLN2-3 and LLN2-8:|03-Nov-04|2nd cut yield strips, weighed and sampled (all others long ley plots.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|24-Mar-04|Potassium sulphate at 140 kg,
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|24-Mar-04|Triple superphosphate at 213 kg.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|24-Mar-04|muriate of potash at 167 kg.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|06-Jul-04|cut yield strips, weighed and sampled.
-W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|14-Jul-04|Mowed for hay.
+W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|14-Jul-04|mow for hay.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|15-Jul-04|Tedded hay.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|17-Jul-04|Tedded hay.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|19-Jul-04|Tedded hay.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|20-Jul-04|harrowed up hay and baled.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|26-Jul-04|muriate of potash at 83 kg.
-W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|15-Sep-04|2nd cut, sampled, weighed and mowed plots due for wheat (ie 3, 4, 15, 16).
-W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|16-Sep-04|Mowed plots cut previous diary, baled and removed.
+W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|15-Sep-04|2nd cut, sampled, weighed and mow plots due for wheat (ie 3, 4, 15, 16).
+W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|16-Sep-04|mow plots cut previous diary, baled and removed.
 W/RN/3|2004|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|03-Nov-04|2nd cut yield strips, weighed and sampled (all others long ley plots)
 W/RN/3|2004|Winter beans second and third treatment crop rotation AM and ABe|02-Oct-03|Triple superphosphate at 127 kg.
 W/RN/3|2004|Winter beans second and third treatment crop rotation AM and ABe|03-Nov-03|broadcast, Clipper, recleaned at 25 seeds/m2 by hand.
@@ -207,7 +207,7 @@ W/RN/3|2005|grass ley second to eighth year rotation LLN2-3 and LLN2-8|03-Aug-05
 W/RN/3|2005|grass ley second to eighth year rotation LLN2-3 and LLN2-8|03-Aug-05|34.5% N at 218 kg.
 W/RN/3|2005|grass ley second to eighth year rotation LLN2-3 and LLN2-8|10-Aug-05|Azural at 4.0 1 in 200 1 to ley plots owing into wheat.
 W/RN/3|2005|grass ley second to eighth year rotation LLN2-3 and LLN2-8|20-Dec-05|second cut yield strips, weighed and sampled (all others owing ley plots.
-W/RN/3|2005|grass ley second to eighth year rotation LLN2-3 and LLN2-8|21-Dec-05|discards down and Cultivations removed.
+W/RN/3|2005|grass ley second to eighth year rotation LLN2-3 and LLN2-8|21-Dec-05|discards mow and Cultivations removed.
 W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|16-Mar-05|Potassium sulphate at 140 kg,
 W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|17-Mar-05|muriate of potash at 167 kg.
 W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|17-Mar-05|Triple superphosphate at 213 kg.
@@ -216,7 +216,7 @@ W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|01
 W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|03-Aug-05|muriate of potash at 83 kg.
 W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|10-Aug-05|Azural at 4.0 1 in 200 1 to ley plots owing into wheat.
 W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|20-Dec-05|second cut yield strips, weighed and sampled (all others owing ley plots.
-W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|21-Dec-05|discards down and Cultivations removed.
+W/RN/3|2005|clover grass ley second to eighth year rotation LLC2-3 and LLC2-8|21-Dec-05|discards mow and Cultivations removed.
 W/RN/3|2005|Winter beans second and third treatment crop rotation AM and ABe|13-Oct-04|Triple superphosphate at 127 kg.
 W/RN/3|2005|Winter beans second and third treatment crop rotation AM and ABe|23-Nov-04|broadcast, Clipper, recleaned at 30 seeds/m2.
 W/RN/3|2005|Winter beans second and third treatment crop rotation AM and ABe|24-Nov-04|ploughed 35 cm wide furrows.
@@ -331,7 +331,7 @@ W/RN/3|2006|w wheat first test crop W|11-Oct-05|rolled.
 W/RN/3|2006|w wheat first test crop W|14-Oct-05|power harrowed. drilled Hereward, tr Sibutol Secur, at 350 seeds/m2 with the Accord drill. rolled.
 W/RN/3|2006|w wheat first test crop W|13-Nov-05|tm) Alpha IPU 500 at 2.0 1 in 200 l.
 W/RN/3|2006|w wheat first test crop W|13-Nov-05|tm) Stomp 400 SC at 2.5 1 in 200 l.
-W/RN/3|2006|w wheat first test crop W|13-Nov-05|tm) Halimark with Zeon Technology at 50 ml in 200 l.
+W/RN/3|2006|w wheat first test crop W|13-Nov-05|tm) Hallmark with Zeon Technology at 50 ml in 200 l.
 W/RN/3|2006|w wheat first test crop W|13-Nov-05|tm) Mantrac 500 at l.01 in 200 l.
 W/RN/3|2006|w wheat first test crop W|01-Mar-06|Potassium sulphate at 140 kg
 W/RN/3|2006|w wheat first test crop W|19-Apr-06|34.5% N treatment.

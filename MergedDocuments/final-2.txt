@@ -1,0 +1,570 @@
+W/RN/3	2003	19-Sep-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	CleanCrop Egret at 4.0 1 in 200 l.	
+W/RN/3	2003	20-Sep-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Triplesuperphosphate at 213 kg	
+W/RN/3	2003	26-Sep-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Chalk at 5.0	
+W/RN/3	2003	01-Oct-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	ploughed and rolled.	
+W/RN/3	2003	04-Oct-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	"drilled Promesse Timothy + Senu Fescue, 50:50. @ 30 kg and Promesse Timothy + Senu Fescue + Merwi white clover 45:45:10 @ 30 kg with 4.0 m Accord drill. rolled."	
+W/RN/3	2003	04-Oct-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	"27.0% N at 93 kg, first year grass/clover ley;"	
+W/RN/3	2003	04-Oct-02	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	"27.0% N at 185 kg, first year grass ley."	
+W/RN/3	2003	03-Apr-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Potassium sulphate at 140 kg.	
+W/RN/3	2003	03-Apr-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	muriate of potash at 167 kg.	
+W/RN/3	2003	15-May-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Setter 33 at 5.0 1 in 200 l.	
+W/RN/3	2003	19-Jun-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	"cut yield strips, weighed and sampled."	
+W/RN/3	2003	19-Jun-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	mow for hay.	
+W/RN/3	2003	20-Jun-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Tedded hay.	
+W/RN/3	2003	21-Jun-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Tedded hay.	
+W/RN/3	2003	25-Jun-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	Tedded hay.	
+W/RN/3	2003	26-Jun-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	baled hay.	
+W/RN/3	2003	01-Jul-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	topped to tidy.	
+W/RN/3	2003	04-Jul-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	muriate of potash at 83 kg.	
+W/RN/3	2003	10-Oct-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1:	topped.	
+W/RN/3	2003	03-Apr-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2003	03-Apr-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2003	03-Apr-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	muriate of potash at 167 kg.	
+W/RN/3	2003	04-Apr-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	33.5% N at 224 kg	
+W/RN/3	2003	15-May-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Setter 33 at 5.0 1 in 200 l.	
+W/RN/3	2003	19-Jun-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2003	19-Jun-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	mow for hay.	
+W/RN/3	2003	20-Jun-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Tedded hay.	
+W/RN/3	2003	21-Jun-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Tedded hay.	
+W/RN/3	2003	25-Jun-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Tedded hay.	
+W/RN/3	2003	26-Jun-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	baled hay.	
+W/RN/3	2003	04-Jul-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	muriate of potash at 83 kg.	
+W/RN/3	2003	04-Jul-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	34.5% N at 217 kg.	
+W/RN/3	2003	22-Sep-03	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"2nd cut yield strips, weighed and sampled."	
+W/RN/3	2003	03-Apr-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2003	03-Apr-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2003	03-Apr-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	muriate of potash at 167 kg.	
+W/RN/3	2003	15-May-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	Setter 33 at 5.01 in 200 l.	
+W/RN/3	2003	19-Jun-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2003	19-Jun-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	mow for hay.	
+W/RN/3	2003	20-Jun-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	Tedded hay.	
+W/RN/3	2003	21-Jun-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	Tedded hay.	
+W/RN/3	2003	25-Jun-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	Tedded hay.	
+W/RN/3	2003	26-Jun-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	baled hay.	
+W/RN/3	2003	01-Jul-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	topped to tidy.	
+W/RN/3	2003	04-Jul-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	muriate of potash at 83 kg.	
+W/RN/3	2003	22-Sep-03	clover grass ley second to eighth year rotation LLC2-3 and. LLC2-8	"2nd cut yield strips, weighed and sampled."	
+W/RN/3	2003	20-Sep-02	Winter beans second and third treatment crop rotation AM and ABe	Triple superphosphate at 127 kg.	
+W/RN/3	2003	20-Sep-02	Winter beans second and third treatment crop rotation AM and ABe	"broadcast, Clipper, recleaned at 28 seed /m2"	
+W/RN/3	2003	17-Feb-03	Winter beans second and third treatment crop rotation AM and ABe	ploughed 35 cm furrows. Sim2 by hand.	
+W/RN/3	2003	03-Apr-03	Winter beans second and third treatment crop rotation AM and ABe	Gesatop at 2.0 1 in 200 l.	
+W/RN/3	2003	03-Apr-03	Winter beans second and third treatment crop rotation AM and ABe	Potassium Sulphate at 140 kg	
+W/RN/3	2003	07-May-03	Winter beans second and third treatment crop rotation AM and ABe	tm) Laser at l.0 1 in 200 l.	
+W/RN/3	2003	09-Jun-03	Winter beans second and third treatment crop rotation AM and ABe	tm) Clayton Turret at LN5 1 in 200 l.	
+W/RN/3	2003	09-Jun-03	Winter beans second and third treatment crop rotation AM and ABe	tm) Amistar at 0.5 1 in 200 l.	
+W/RN/3	2003	10-Aug-03	Winter beans second and third treatment crop rotation AM and ABe	"combine harvested plots for yield, combined discards. Straw swathed."	
+W/RN/3	2003	13-Aug-03	Winter beans second and third treatment crop rotation AM and ABe	Straw baled and removed.	
+W/RN/3	2003	20-Sep-02	forage maize second and third treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2003	03-Apr-03	forage maize second and third treatment crop rotation ABe and AM	Potassium sulphate at 140 kg	
+W/RN/3	2003	12-May-02	forage maize second and third treatment crop rotation ABe and AM	"power harrowed. drilled, Hudson, tr Mesurol, at 10.2 seeds/m2 with the Nodet drill."	
+W/RN/3	2003	29-May-03	forage maize second and third treatment crop rotation ABe and AM	27% N at 370 kg.	
+W/RN/3	2003	13-Jun-03	forage maize second and third treatment crop rotation ABe and AM	tm) Esprit at 3.0 1 in 200 l.	
+W/RN/3	2003	13-Jun-03	forage maize second and third treatment crop rotation ABe and AM	tm) Phase II at 2.0 l in 200 l.	
+W/RN/3	2003	27-Aug-03	forage maize second and third treatment crop rotation ABe and AM	cut sampled and weighed.	
+W/RN/3	2003	04-Sep-03	forage maize second and third treatment crop rotation ABe and AM	cut discards.	
+W/RN/3	2003	19-Sep-02	w wheat first test crop W	CleanCrop Egret at 4.0 1 in 200 l.	
+W/RN/3	2003	20-Sep-02	w wheat first test crop W	"muriate of potash (corrective K) by hand at 250 kg K2O to plots 53, 54, 63, 64."	
+W/RN/3	2003	20-Sep-02	w wheat first test crop W	Triple superphosphate at 127 kg.	
+W/RN/3	2003	17-Oct-02	w wheat first test crop W	ploughed 35 cm furrows.	
+W/RN/3	2003	18-Oct-02	w wheat first test crop W	"power harrowed, drilled Claire, tr Sibutol, at 350 seeds/m2 with the Accord drill. rolled."	
+W/RN/3	2003	26-Nov-02	w wheat first test crop W	tm) Lexus Class WSB at 60 g in 200 l.	
+W/RN/3	2003	26-Nov-02	w wheat first test crop W	tm) Hallmark with Zeon Technology at 25 ml in 200 l.	
+W/RN/3	2003	07-Mar-03	w wheat first test crop W	1st N (27% N) applied to split N plots.	
+W/RN/3	2003	02-Apr-03	w wheat first test crop W	27% N to single applications plots	
+W/RN/3	2003	13-Mar-03	w wheat first test crop W	Dursban 4 at l.0 1 in 200 l	
+W/RN/3	2003	03-Apr-03	w wheat first test crop W	Potassium sulphate at 140 kg	
+W/RN/3	2003	06-May-03	w wheat first test crop W	Opus at 0.75 1 in 200 l.	
+W/RN/3	2003	06-May-03	w wheat first test crop W	2nd (27% N) applied to split N plots.	
+W/RN/3	2003	07-May-03	w wheat first test crop W	ally at 30 g in 200 l.	
+W/RN/3	2003	09-Jun-03	w wheat first test crop W	Landmark at 0.75 1 in 200 l.	
+W/RN/3	2003	10-Aug-03	w wheat first test crop W	"combine harvested plots for yield, combined discards. Straw swathed."	
+W/RN/3	2003	11-Aug-03	w wheat first test crop W	cut straw. sampled and weighed straw.	
+W/RN/3	2003	13-Aug-03	w wheat first test crop W	Straw baled and removed.	
+W/RN/3	2003	20-Sep-02	Winter rye second test crop and first treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2003	26-Sep-02	Winter rye second test crop and first treatment crop rotation ABe and AM	Chalk at 5.0 t.	
+W/RN/3	2003	02-Oct-02	Winter rye second test crop and first treatment crop rotation ABe and AM	ploughed and rolled.	
+W/RN/3	2003	18-Oct-02	Winter rye second test crop and first treatment crop rotation ABe and AM	"power harrowed. drilled, Picasso/Nikita blend (90:10), tr Baytan, at 98 seeds/m2 with 4.0 m Accord drill. rolled"	
+W/RN/3	2003	26-Nov-02	Winter rye second test crop and first treatment crop rotation ABe and AM	tm) Lexus Class WSB at 60 g in 200 l.	
+W/RN/3	2003	26-Nov-02	Winter rye second test crop and first treatment crop rotation ABe and AM	tm) Hallmark with Zeon Technology at 25 ml in 200 1	
+W/RN/3	2003	02-Apr-03	Winter rye second test crop and first treatment crop rotation ABe and AM	27% N at 296 kg to second test crop only.	
+W/RN/3	2003	03-Apr-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Potassium sulphate at 140 kg	
+W/RN/3	2003	04-Apr-03	Winter rye second test crop and first treatment crop rotation ABe and AM	33.5% N at 239 kg to treatment crop only.	
+W/RN/3	2003	06-May-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Opus at 0.75 1 in 200 l.	
+W/RN/3	2003	07-May-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Quantum 75 DF at 20 g in 200 l.	
+W/RN/3	2003	10-Aug-03	Winter rye second test crop and first treatment crop rotation ABe and AM	"combine harvested plots for yield, combined discards. Straw swathed"	
+W/RN/3	2003	11-Aug-03	Winter rye second test crop and first treatment crop rotation ABe and AM	cut straw. sampled and weighed straw.	
+W/RN/3	2003	13-Aug-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Straw baled and removed.	
+W/RN/3	2004	02-Oct-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	Triplesuperphosphate at 213 kg	
+W/RN/3	2004	02-Oct-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	Potassium sulphate at 140 kg.	
+W/RN/3	2004	07-Oct-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	ploughed 30cm wide furrows and power harrowed.	
+W/RN/3	2004	08-Oct-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	"drilled Promesse Timothy + Senu Fescue, 50:50. @ 30 kg and Promesse Timothy + Senu Fescue + Maris white clover 45:45:10 @ 30 kg with 4.0 m Accord drill. 08-Oct-03 rolled."	
+W/RN/3	2004	10-Oct-03	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	"27.0% N at 93 kg, first year grass/clover ley; at 185 kg, first year grass ley."	
+W/RN/3	2004	24-Mar-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	muriate of potash at 167 kg.	
+W/RN/3	2004	06-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	"cut yield strips, weighed and sampled."	
+W/RN/3	2004	14-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	mow for hay.	
+W/RN/3	2004	15-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	Tedded hay.	
+W/RN/3	2004	17-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	Tedded hay.	
+W/RN/3	2004	19-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	Tedded hay.	
+W/RN/3	2004	20-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	harrowed up hay and baled.	
+W/RN/3	2004	26-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	muriate of potash at 83 kg to all ley.	
+W/RN/3	2004	26-Jul-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	34.5% N at 217 kg to grass ley only.	
+W/RN/3	2004	03-Nov-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1)	"2nd cut yield strips, weighed and sampled."	
+W/RN/3	2004	18-Mar-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	34.5% N at 218 kg	
+W/RN/3	2004	24-Mar-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	"Potassium sulphate at 140 kg,"	
+W/RN/3	2004	24-Mar-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	Triple superphosphate at 213 kg.	
+W/RN/3	2004	24-Mar-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	muriate of potash at 167 kg.	
+W/RN/3	2004	06-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	"cut yield strips, weighed and sampled."	
+W/RN/3	2004	14-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	Mowead for hay.	
+W/RN/3	2004	15-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	Tedded hay.	
+W/RN/3	2004	17-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	Tedded hay.	
+W/RN/3	2004	19-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	Tedded hay.	
+W/RN/3	2004	20-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	harrowed up hay and baled.	
+W/RN/3	2004	26-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	muriate of potash at 83 kg	
+W/RN/3	2004	26-Jul-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	34.5% N at 217 kg.	
+W/RN/3	2004	15-Sep-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	"277 cut, sampled, weighed and mow plots due for wheat (ie. 9, 10, 13, 14)."	
+W/RN/3	2004	16-Sep-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	"mow plots cut previous diary, baled and removed."	
+W/RN/3	2004	03-Nov-04	grass ley second to eighth year rotation LLN2-3 and LLN2-8:	"2nd cut yield strips, weighed and sampled (all others long ley plots."	
+W/RN/3	2004	24-Mar-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2004	24-Mar-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2004	24-Mar-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	muriate of potash at 167 kg.	
+W/RN/3	2004	06-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2004	14-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	mow for hay.	
+W/RN/3	2004	15-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Tedded hay.	
+W/RN/3	2004	17-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Tedded hay.	
+W/RN/3	2004	19-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Tedded hay.	
+W/RN/3	2004	20-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	harrowed up hay and baled.	
+W/RN/3	2004	26-Jul-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	muriate of potash at 83 kg.	
+W/RN/3	2004	15-Sep-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"2nd cut, sampled, weighed and mow plots due for wheat (ie 3, 4, 15, 16)."	
+W/RN/3	2004	16-Sep-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"mow plots cut previous diary, baled and removed."	
+W/RN/3	2004	03-Nov-04	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"2nd cut yield strips, weighed and sampled (all others long ley plots)"	
+W/RN/3	2004	02-Oct-03	Winter beans second and third treatment crop rotation AM and ABe	Triple superphosphate at 127 kg.	
+W/RN/3	2004	03-Nov-03	Winter beans second and third treatment crop rotation AM and ABe	"broadcast, Clipper, recleaned at 25 seeds/m2 by hand."	
+W/RN/3	2004	03-Nov-03	Winter beans second and third treatment crop rotation AM and ABe	ploughed 30 cm furrows.	
+W/RN/3	2004	08-Dec-03	Winter beans second and third treatment crop rotation AM and ABe	tm) Carbatamex at 3.0 kg in 200 l.	
+W/RN/3	2004	08-Dec-03	Winter beans second and third treatment crop rotation AM and ABe	tm) Alpha Simazine 50 SC at 2.0 1 in 200 l.	
+W/RN/3	2004	24-Mar-04	Winter beans second and third treatment crop rotation AM and ABe	Potassium sulphate at 140 kg	
+W/RN/3	2004	25-May-04	Winter beans second and third treatment crop rotation AM and ABe	tm) Amistar at 0.5 1 in 200 l.	
+W/RN/3	2004	25-May-04	Winter beans second and third treatment crop rotation AM and ABe	tm) Folicur at 0.5 1 in 200 l.	
+W/RN/3	2004	05-Sep-04	Winter beans second and third treatment crop rotation AM and ABe	"combine harvested plots for yield, combined discards. Straw swathed."	
+W/RN/3	2004	18-Sep-04	Winter beans second and third treatment crop rotation AM and ABe	Straw baled and removed.	
+W/RN/3	2004	02-Oct-03	"forage maize, second and third treatment crop rotation ABe and AM"	Triple superphosphate at 127 kg.	
+W/RN/3	2004	03-Nov-03	"forage maize, second and third treatment crop rotation ABe and AM"	ploughed 30cm furrows.	
+W/RN/3	2004	24-Mar-04	"forage maize, second and third treatment crop rotation ABe and AM"	Potassium sulphate at 140 kg	
+W/RN/3	2004	09-Apr-04	"forage maize, second and third treatment crop rotation ABe and AM"	late at 3.0 1 in 200 1	
+W/RN/3	2004	12-May-04	"forage maize, second and third treatment crop rotation ABe and AM"	"power harrowed. drilled, Hudson, tr Mesurol, at 10.2 seeds/m2 with the Nodet drill."	
+W/RN/3	2004	24-May-04	"forage maize, second and third treatment crop rotation ABe and AM"	34.5% N at 290 kg.	
+W/RN/3	2004	22-Sep-04	"forage maize, second and third treatment crop rotation ABe and AM"	cut sampled and weighed.	
+W/RN/3	2004	05-Oct-04	"forage maize, second and third treatment crop rotation ABe and AM"	cut and removed discards.	
+W/RN/3	2004	16-Sep-03	Winter wheat first test crop W	"Touchdown at 4.0 1 in 200 1 (to previous ley plots: 21, 22, 27, 28, 29, 30, 31, 32."	
+W/RN/3	2004	02-Oct-03	Winter wheat first test crop W	Triple superphosphate at 127 kg.	
+W/RN/3	2004	02-Oct-03	Winter wheat first test crop W	"muriate of potash (corrective K) at 460 kg K2O to plot 17,"	
+W/RN/3	2004	02-Oct-03	Winter wheat first test crop W	"muriate of potash (corrective K) at 520 kg to 18, 310 kg to 19, 270 kg to 20."	
+W/RN/3	2004	02-Oct-03	Winter wheat first test crop W	"muriate of potash (corrective K) at 60 kg to 22 and 32,"	
+W/RN/3	2004	02-Oct-03	Winter wheat first test crop W	muriate of potash (corrective K) at 20 kg to 26	
+W/RN/3	2004	02-Oct-03	Winter wheat first test crop W	muriate of potash (corrective K) at 50 kg to 31.	
+W/RN/3	2004	07-Oct-03	Winter wheat first test crop W	ploughed 30 cm wide furrows and power harrowed.	
+W/RN/3	2004	08-Oct-03	Winter wheat first test crop W	"drilled Hereward, tr Sibutol Secur, at 350 seeds/m2 with the Accord drill. rolled."	
+W/RN/3	2004	17-Dec-03	Winter wheat first test crop W	Arelon 500 at 3.5 1 in 200 l.	
+W/RN/3	2004	15-Mar-04	Winter wheat first test crop W	1st N (27% N) applied to split N plots.	
+W/RN/3	2004	24-Mar-04	Winter wheat first test crop W	Potassium sulphate at 140 kg	
+W/RN/3	2004	10-Apr-04	Winter wheat first test crop W	27% N to single applications plots	
+W/RN/3	2004	17-Apr-04	Winter wheat first test crop W	Quantum 75 DF at 20 g in 200 l.	
+W/RN/3	2004	05-May-04	Winter wheat first test crop W	2nd N (27% N) applied to split N plots.	
+W/RN/3	2004	03-Jun-04	Winter wheat first test crop W	Opus at 0.75 1 in 200 l.	
+W/RN/3	2004	04-Sep-04	Winter wheat first test crop W	"combine harvested plots for yield, combined discards. Straw swathed, sampled and weighed."	
+W/RN/3	2004	18-Sep-04	Winter wheat first test crop W	Straw baled and removed.	
+W/RN/3	2004	02-Oct-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2004	03-Oct-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Chalk at 5.0 t.	
+W/RN/3	2004	07-Oct-03	Winter rye second test crop and first treatment crop rotation ABe and AM	ploughed 30cm wide furrows and power harrowed.	
+W/RN/3	2004	08-Oct-03	Winter rye second test crop and first treatment crop rotation ABe and AM	"drilled, Picasso/Nikita blend (90:10), tr Baytan, at 306 seeds/m2 with 4.0 m Accord drill. rolled."	
+W/RN/3	2004	19-Dec-03	Winter rye second test crop and first treatment crop rotation ABe and AM	Lexus Class WSB at 60 g in 200 l.	
+W/RN/3	2004	24-Mar-04	Winter rye second test crop and first treatment crop rotation ABe and AM	Potassium sulphate at 140 kg	
+W/RN/3	2004	23-Apr-04	Winter rye second test crop and first treatment crop rotation ABe and AM	27% N at 296 kg to 2nd test crop only.	
+W/RN/3	2004	03-Jun-04	Winter rye second test crop and first treatment crop rotation ABe and AM	Opus at 0.75 1 in 200 l.	
+W/RN/3	2004	04-Sep-04	Winter rye second test crop and first treatment crop rotation ABe and AM	"combine harvested plots for yield, combined discards. Straw swathed, sampled and weighed."	
+W/RN/3	2004	18-Sep-04	Winter rye second test crop and first treatment crop rotation ABe and AM	Straw baled and removed.	
+W/RN/3	2005	01-Oct-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	glyphosate 360 @ 4.0 1 in 200 l.	
+W/RN/3	2005	12-Oct-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	ploughed 35cm wide furrows.	
+W/RN/3	2005	13-Oct-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	Triplesuperphosphate at 213 kg	
+W/RN/3	2005	26-Oct-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"power harrowed. drilled Promesse Timothy + Senu Fescue, 50:50. @ 30 kg and Promesse Timothy + Senu Fescue + Merwi white clover 45:45:10 @ 30 kg with the Accord drill. rolled."	
+W/RN/3	2005	16-Nov-04	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"27.0% N at 93 kg, first year grass/clover ley; at 185 kg, first year grass ley."	
+W/RN/3	2005	16-Mar-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	Potassium sulphate at 140 kg.	
+W/RN/3	2005	17-Mar-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	muriate of potash at 167 kg.	
+W/RN/3	2005	27-May-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	Alistel at 3.0 1 in 200 1 to grass ley only.	
+W/RN/3	2005	12-Jul-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"cut yield strips, weighed and sampled."	
+W/RN/3	2005	01-Aug-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	topped to tidy.	
+W/RN/3	2005	03-Aug-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	muriate of potash at 83 kg to all ley.	
+W/RN/3	2005	03-Aug-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	34.5% N at 218 kg to grass ley only.	
+W/RN/3	2005	20-Dec-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"2nd cut yield strips, weighed and sampled."	
+W/RN/3	2005	16-Mar-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2005	16-Mar-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	34.5% N at 218 kg	
+W/RN/3	2005	17-Mar-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	muriate of potash at 167 kg.	
+W/RN/3	2005	17-Mar-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2005	27-May-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Alistel at 3.01 in 200 1 to grass ley only.	
+W/RN/3	2005	12-Jul-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2005	01-Aug-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	topped to tidy.	
+W/RN/3	2005	03-Aug-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	muriate of potash at 83 kg	
+W/RN/3	2005	03-Aug-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	34.5% N at 218 kg.	
+W/RN/3	2005	10-Aug-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Azural at 4.0 1 in 200 1 to ley plots owing into wheat.	
+W/RN/3	2005	20-Dec-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"second cut yield strips, weighed and sampled (all others owing ley plots."	
+W/RN/3	2005	21-Dec-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	discards mow and Cultivations removed.	
+W/RN/3	2005	16-Mar-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2005	17-Mar-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	muriate of potash at 167 kg.	
+W/RN/3	2005	17-Mar-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2005	12-Jul-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2005	01-Aug-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	topped to tidy.	
+W/RN/3	2005	03-Aug-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	muriate of potash at 83 kg.	
+W/RN/3	2005	10-Aug-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Azural at 4.0 1 in 200 1 to ley plots owing into wheat.	
+W/RN/3	2005	20-Dec-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"second cut yield strips, weighed and sampled (all others owing ley plots."	
+W/RN/3	2005	21-Dec-05	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	discards mow and Cultivations removed.	
+W/RN/3	2005	13-Oct-04	Winter beans second and third treatment crop rotation AM and ABe	Triple superphosphate at 127 kg.	
+W/RN/3	2005	23-Nov-04	Winter beans second and third treatment crop rotation AM and ABe	"broadcast, Clipper, recleaned at 30 seeds/m2."	
+W/RN/3	2005	24-Nov-04	Winter beans second and third treatment crop rotation AM and ABe	ploughed 35 cm wide furrows.	
+W/RN/3	2005	16-Mar-05	Winter beans second and third treatment crop rotation AM and ABe	Potassium sulphate at 140 kg.	
+W/RN/3	2005	25-Apr-05	Winter beans second and third treatment crop rotation AM and ABe	Basagran SG at l.65 kg in 200 l.	
+W/RN/3	2005	11-May-05	Winter beans second and third treatment crop rotation AM and ABe	tm) Bravo at l.0 1 in 200 l.	
+W/RN/3	2005	11-May-05	Winter beans second and third treatment crop rotation AM and ABe	tm) Folicur at 0.5 1 in 200 l.	
+W/RN/3	2005	11-May-05	Winter beans second and third treatment crop rotation AM and ABe	tm) Hallmark with Zeon Technology at 0.75 1 in 200 l.	
+W/RN/3	2005	03-Sep-05	Winter beans second and third treatment crop rotation AM and ABe	combine harvested plots for yield. Straw swathed.	
+W/RN/3	2005	04-Sep-05	Winter beans second and third treatment crop rotation AM and ABe	combine harvested discards. Straw swathed.	
+W/RN/3	2005	08-Sep-05	Winter beans second and third treatment crop rotation AM and ABe	Straw baled and removed.	
+W/RN/3	2005	13-Oct-04	forage maize second and third treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2005	24-Nov-04	forage maize second and third treatment crop rotation ABe and AM	ploughed 35 cm wide furrows.	
+W/RN/3	2005	16-Mar-05	forage maize second and third treatment crop rotation ABe and AM	Potassium sulphate at 140 kg.	
+W/RN/3	2005	18-Apr-05	forage maize second and third treatment crop rotation ABe and AM	flexitined.	
+W/RN/3	2005	04-May-05	forage maize second and third treatment crop rotation ABe and AM	"power harrowed. drilled, Hudson, tr Thiram + methiocarb + fludioxonil + Metalaxyl M, at 10.2 seeds/m2 with the Nodet drill."	
+W/RN/3	2005	14-May-05	forage maize second and third treatment crop rotation ABe and AM	34.5% N at 290 kg.	
+W/RN/3	2005	08-Jun-05	forage maize second and third treatment crop rotation ABe and AM	tm) Esprit at 3.01 in 220 l.	
+W/RN/3	2005	08-Jun-05	forage maize second and third treatment crop rotation ABe and AM	tm) Phase 2 at 3.0 1 in 220 l.	
+W/RN/3	2005	22-Sep-05	forage maize second and third treatment crop rotation ABe and AM	cut sampled and weighed.	
+W/RN/3	2005	12-Oct-04	Winter wheat first test crop W	ploughed 35 cm wide furrows.	
+W/RN/3	2005	13-Oct-04	Winter wheat first test crop W	Triple superphosphate at 127 kg.	
+W/RN/3	2005	13-Oct-04	Winter wheat first test crop W	muriate of potash (corrective K) at 420 kg K2O to plot l.	
+W/RN/3	2005	13-Oct-04	Winter wheat first test crop W	muriate of potash (corrective K) at 360 kg to 2	
+W/RN/3	2005	13-Oct-04	Winter wheat first test crop W	muriate of potash (corrective K) at 460 kg to 5	
+W/RN/3	2005	13-Oct-04	Winter wheat first test crop W	muriate of potash (corrective K) at 350 kg to 6	
+W/RN/3	2005	26-Oct-04	Winter wheat first test crop W	"power harrowed. drilled Hereward, tr Sibutol Secur, at 375 seeds/m*2with the Accord drill. rolled."	
+W/RN/3	2005	16-Mar-05	Winter wheat first test crop W	Potassium sulphate at 140 kg	
+W/RN/3	2005	24-Mar-05	Winter wheat first test crop W	1st N (27% N) applied to split N plots.	
+W/RN/3	2005	14-Apr-05	Winter wheat first test crop W	27% N to single applications plots	
+W/RN/3	2005	07-May-05	Winter wheat first test crop W	2nd N (27% N) applied to split N plots.	
+W/RN/3	2005	15-May-05	Winter wheat first test crop W	tm) Starane 2 at 0.5 1 in 200 l.	
+W/RN/3	2005	15-May-05	Winter wheat first test crop W	tm) Amistar Opti at LN5 L in 200 l.	
+W/RN/3	2005	15-May-05	Winter wheat first test crop W	tm) Opus at 0.75 1 in 200 l.	
+W/RN/3	2005	09-Jun-05	Winter wheat first test crop W	Opus at 0.5 1 in 200 l.	
+W/RN/3	2005	03-Sep-05	Winter wheat first test crop W	combine harvested plots for yield. Straw swathed.	
+W/RN/3	2005	04-Sep-05	Winter wheat first test crop W	combine harvested discards. Straw swathed.	
+W/RN/3	2005	08-Sep-05	Winter wheat first test crop W	Straw baled and removed.	
+W/RN/3	2005	16-Sep-04	Winter rye second test crop and first treatment crop rotation ABe and AM	"Chalk at 5.0 t, (not to rotation ABe and AM plots."	
+W/RN/3	2005	01-Oct-04	Winter rye second test crop and first treatment crop rotation ABe and AM	glyphosate 360 @ 4.0 1 in 200 l.	
+W/RN/3	2005	12-Oct-04	Winter rye second test crop and first treatment crop rotation ABe and AM	ploughed 35 cm wide furrows.	
+W/RN/3	2005	13-Oct-04	Winter rye second test crop and first treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2005	27-Oct-04	Winter rye second test crop and first treatment crop rotation ABe and AM	"power harrowed. drilled, Protector, tr Beret Gold, at 300 seeds/m2 with the Accord drill. rolled."	
+W/RN/3	2005	16-Mar-05	Winter rye second test crop and first treatment crop rotation ABe and AM	Potassium sulphate at 140 kg	
+W/RN/3	2005	18-Apr-05	Winter rye second test crop and first treatment crop rotation ABe and AM	27% N to second test crop only.	
+W/RN/3	2005	14	Winter rye second test crop and first treatment crop rotation ABe and AM	May-05 34.5% N at 232 kg to 1? treatment crop.	
+W/RN/3	2005	09-Jun-05	Winter rye second test crop and first treatment crop rotation ABe and AM	Opus at 0.5 1 in 200 l.	
+W/RN/3	2005	03-Sep-05	Winter rye second test crop and first treatment crop rotation ABe and AM	combine harvested plots for yield. Straw swathed.	
+W/RN/3	2005	04-Sep-05	Winter rye second test crop and first treatment crop rotation ABe and AM	combine harvested discards. Straw swathed.	
+W/RN/3	2005	08-Sep-05	Winter rye second test crop and first treatment crop rotation ABe and AM	Straw baled and removed.	
+W/RN/3	2006	21-Sep-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	Azural at 3.0 1 in 200 l.	
+W/RN/3	2006	08-Oct-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	Triplesuperphosphate at 213 kg	
+W/RN/3	2006	08-Oct-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	Potassium sulphate at 140 kg.	
+W/RN/3	2006	10-Oct-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	ploughed 35cm wide furrows.	
+W/RN/3	2006	11-Oct-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	rolled.	
+W/RN/3	2006	14-Oct-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"power harrowed. drilled Promesse Timothy + Tyko Fescue, 50:50. @ 30 kg and Promesse Timothy + Tyko Fescue + Chieftan white clover 44:44:12 @ 30 kg with the Accord drill."	
+W/RN/3	2006	18-Oct-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	rolled.	
+W/RN/3	2006	02-Nov-05	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"27.0% N at 93 kg, first year grass/clover ley; at 185 kg, first year grass ley."	
+W/RN/3	2006	02-Mar-06	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	muriate of potash at 167 kg.	
+W/RN/3	2006	17-Mar-06	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	34.5% N at 218 kg.	
+W/RN/3	2006	28-Jun-06	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	"cut yield strips, weighed and sampled."	
+W/RN/3	2006	29-Jun-06	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	baled.	
+W/RN/3	2006	03-Jul-06	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	muriate of potash at 83 kg to all ley.	
+W/RN/3	2006	03-Jul-06	grass ley and clover grass ley first year rotation LN1 LLN1 LC1 and LLC1	34.5% N at 218 kg to grass ley only.	
+W/RN/3	2006	01-Mar-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2006	01-Mar-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2006	02-Mar-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	muriate of potash at 167 kg.	
+W/RN/3	2006	17-Mar-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	34.5% N at 203 kg	
+W/RN/3	2006	28-Jun-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2006	29-Jun-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	baled.	
+W/RN/3	2006	03-Jul-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	muriate of potash at 83 kg	
+W/RN/3	2006	03-Jul-06	grass ley second to eighth year rotation LLN2-3 and LLN2-8	34.5% N at 218 kg.	
+W/RN/3	2006	10-Aug-05	grass ley second to eighth year rotation LLN2-3 and LLN2-8	Azural at 4.0 1 in 200 1 to ley plots owing into wheat.	
+W/RN/3	2006	01-Mar-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"Potassium sulphate at 140 kg,"	
+W/RN/3	2006	01-Mar-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Triple superphosphate at 213 kg.	
+W/RN/3	2006	02-Mar-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	muriate of potash at 167 kg.	
+W/RN/3	2006	28-Jun-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	"cut yield strips, weighed and sampled."	
+W/RN/3	2006	29-Jun-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	baled.	
+W/RN/3	2006	03-Jul-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	muriate of potash at 83 kg.	
+W/RN/3	2006	18-Jul-06	clover grass ley second to eighth year rotation LLC2-3 and LLC2-8	Azural at 5.0 1 in 200 1 to ley plots owing into wheat.	
+W/RN/3	2006	08-Oct-05	Winter beans second and third treatment crop rotation AM and ABe:	Triple superphosphate at 127 kg.	
+W/RN/3	2006	20-Oct-05	Winter beans second and third treatment crop rotation AM and ABe:	"broadcast, Wizard, recleaned at 20 seeds/m2."	
+W/RN/3	2006	20-Oct-05	Winter beans second and third treatment crop rotation AM and ABe:	"ploughed 35 cm wide furrows, springtine."	
+W/RN/3	2006	27-Oct-05	Winter beans second and third treatment crop rotation AM and ABe:	Stomp 400 SC at 3.3 l.	
+W/RN/3	2006	01-Mar-06	Winter beans second and third treatment crop rotation AM and ABe:	Potassium sulphate at 140 kg.	
+W/RN/3	2006	16-May-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) Bravo 500 at l.01 in 200 l.	
+W/RN/3	2006	16-May-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) Folicur at 0.5 1 in 200 l.	
+W/RN/3	2006	16-May-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) Decis at 0.3 1 in 200 l.	
+W/RN/3	2006	16-May-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) mancozeb at l.01 in 200 l.	
+W/RN/3	2006	18-Jun-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) Bravo 500 at 2.0 in 200 l.	
+W/RN/3	2006	18-Jun-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) Folicur at 0.75 in 200 l.	
+W/RN/3	2006	18-Jun-06	Winter beans second and third treatment crop rotation AM and ABe:	tm) Aphox at 0.28 g in 200 l.	
+W/RN/3	2006	27-Aug-06	Winter beans second and third treatment crop rotation AM and ABe:	combine harvested plots for yield. Straw swathed.	
+W/RN/3	2006	27-Aug-06	Winter beans second and third treatment crop rotation AM and ABe:	combine harvested discards. Straw swathed.	
+W/RN/3	2006	08-Oct-05	forage maize second and third treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2006	10-Oct-05	forage maize second and third treatment crop rotation ABe and AM	ploughed 35 cm wide furrows.	
+W/RN/3	2006	01-Mar-06	forage maize second and third treatment crop rotation ABe and AM	Potassium sulphate at 140 kg.	
+W/RN/3	2006	11-May-06	forage maize second and third treatment crop rotation ABe and AM	flexitined and power harrowed.	
+W/RN/3	2006	12-May-06	forage maize second and third treatment crop rotation ABe and AM	"drilled, Hudson, tr Thiram + methiocarb + fludioxonil + Metalaxyl M, at 10.2 seeds/m2 with the Nodet drill."	
+W/RN/3	2006	12-May-06	forage maize second and third treatment crop rotation ABe and AM	34.5% N at 290 kg.	
+W/RN/3	2006	07-Jun-06	forage maize second and third treatment crop rotation ABe and AM	tm) Jester at 0.5 1 in 200 l.	
+W/RN/3	2006	07-Jun-06	forage maize second and third treatment crop rotation ABe and AM	tm) Griffin Gex 1664 at 0.2 1 in 200 l.	
+W/RN/3	2006	05-Oct-06	forage maize second and third treatment crop rotation ABe and AM	cut sampled and weighed.	
+W/RN/3	2006	10-Aug-05	w wheat first test crop W	Azural at 4.0 1 in 200 1	
+W/RN/3	2006	08-Sep-05	w wheat first test crop W	baled	
+W/RN/3	2006	08-Oct-05	w wheat first test crop W	Triple superphosphate at 127 kg.	
+W/RN/3	2006	08-Oct-05	w wheat first test crop W	muriate of potash (corrective K) at 190 kg K2O to plots 39 and 40	
+W/RN/3	2006	08-Oct-05	w wheat first test crop W	muriate of potash (corrective K) at 230 kg to 45	
+W/RN/3	2006	08-Oct-05	w wheat first test crop W	muriate of potash (corrective K) at 330 kg to 46	
+W/RN/3	2006	10-Oct-05	w wheat first test crop W	ploughed 35 cm wide furrows.	
+W/RN/3	2006	11-Oct-05	w wheat first test crop W	rolled.	
+W/RN/3	2006	14-Oct-05	w wheat first test crop W	"power harrowed. drilled Hereward, tr Sibutol Secur, at 350 seeds/m2 with the Accord drill. rolled."	
+W/RN/3	2006	13-Nov-05	w wheat first test crop W	tm) Alpha IPU 500 at 2.0 1 in 200 l.	
+W/RN/3	2006	13-Nov-05	w wheat first test crop W	tm) Stomp 400 SC at 2.5 1 in 200 l.	
+W/RN/3	2006	13-Nov-05	w wheat first test crop W	tm) Hallmark with Zeon Technology at 50 ml in 200 l.	
+W/RN/3	2006	13-Nov-05	w wheat first test crop W	tm) Mantrac 500 at l.01 in 200 l.	
+W/RN/3	2006	01-Mar-06	w wheat first test crop W	Potassium sulphate at 140 kg	
+W/RN/3	2006	19-Apr-06	w wheat first test crop W	34.5% N treatment.	
+W/RN/3	2006	24-Apr-06	w wheat first test crop W	tm) Opus at 0.75 1 in 200 l.	
+W/RN/3	2006	24-Apr-06	w wheat first test crop W	tm) Bravo 500 at l.25 1 in 200 l.	
+W/RN/3	2006	24-Apr-06	w wheat first test crop W	tm) Mantrac 500 at l.25 1 in 200 l.	
+W/RN/3	2006	16-May-06	w wheat first test crop W	tm) Quantum SX at 30 g in 200 l.	
+W/RN/3	2006	16-May-06	w wheat first test crop W	tm) Copper man at 2.0 kg in 200 l.	
+W/RN/3	2006	16-May-06	w wheat first test crop W	tm) Opus at 0.75 1 in 200 l.	
+W/RN/3	2006	07-Jun-06	w wheat first test crop W	tm) Opus at 0.75 1 in 200 l.	
+W/RN/3	2006	07-Jun-06	w wheat first test crop W	tm) Bravo 500 l.0 1 in 200 l.	
+W/RN/3	2006	07-Jun-06	w wheat first test crop W	tm) Vivid 0.4 1 in 200 l.	
+W/RN/3	2006	27-Aug-06	w wheat first test crop W	combine harvested plots for yield. Straw swathed.	
+W/RN/3	2006	21-Sep-05	Winter rye second test crop and first treatment crop rotation ABe and AM	Azural at 3.0 1 in 200 l.	
+W/RN/3	2006	08-Oct-05	Winter rye second test crop and first treatment crop rotation ABe and AM	"Chalk at 5.0 t, (not to rotation ABe and AM plots."	
+W/RN/3	2006	08-Oct-05	Winter rye second test crop and first treatment crop rotation ABe and AM	Triple superphosphate at 127 kg.	
+W/RN/3	2006	10-Oct-05	Winter rye second test crop and first treatment crop rotation ABe and AM	ploughed 35 cm wide furrows.	
+W/RN/3	2006	11-Oct-05	Winter rye second test crop and first treatment crop rotation ABe and AM	rolled.	
+W/RN/3	2006	18-Oct-05	Winter rye second test crop and first treatment crop rotation ABe and AM	"power harrowed. drilled, Matador, tr Robust and Premis, at 125 kg/ha with the Accord drill. rolled."	
+W/RN/3	2006	13-Nov-05	Winter rye second test crop and first treatment crop rotation ABe and AM	Stomp 400 SC at 2.5 1 in 200 l.	
+W/RN/3	2006	13-Nov-05	Winter rye second test crop and first treatment crop rotation ABe and AM	tm) Hallmark with Zeon Technology at 50 ml in 200 l.	
+W/RN/3	2006	13-Nov-05	Winter rye second test crop and first treatment crop rotation ABe and AM	tm) Mantrac 500 at l.0 1 in 200 l.	
+W/RN/3	2006	01-Mar-06	Winter rye second test crop and first treatment crop rotation ABe and AM	Potassium sulphate at 140 kg	
+W/RN/3	2006	19-Apr-06	Winter rye second test crop and first treatment crop rotation ABe and AM	34.5% N treatment to second test crop only.	
+W/RN/3	2006	24-Apr-06	Winter rye second test crop and first treatment crop rotation ABe and AM	Opus at 0.75 1 in 200 l.	
+W/RN/3	2006	24-Apr-06	Winter rye second test crop and first treatment crop rotation ABe and AM	Moddus at 0.2 1 in 200 l.	
+W/RN/3	2006	26	Winter rye second test crop and first treatment crop rotation ABe and AM	Apr-06 34.5% N at 232 kg to 1st treatment crop.	
+W/RN/3	2006	16-May-06	Winter rye second test crop and first treatment crop rotation ABe and AM	tm) Quantum SX at 30 g in 200 l.	
+W/RN/3	2006	16-May-06	Winter rye second test crop and first treatment crop rotation ABe and AM	tm) Copper man at 2.0 kg in 200 l.	
+W/RN/3	2006	27-Aug-06	Winter rye second test crop and first treatment crop rotation ABe and AM	combine harvested plots for yield. Straw swathed.	
+R/BK/1	2003	19-Sep-02	all sections	rolled.	
+R/BK/1	2003	20-Sep-02	all sections	rolled.	
+R/BK/1	2003	20-Sep-02	all sections	tm) CleanCrop Egret at 4.0 1 in 100 1 (excluding section 0	
+R/BK/1	2003	20-Sep-02	all sections	tm) Mixture B at 2.0 1 in 100 l. and 8)	
+R/BK/1	2003	01-Oct-02	all sections	"K* muriate of potash at 181 kg, strip 14."	
+R/BK/1	2003	01-Oct-02	all sections	"P top at 171 kg, strips 11, 13, 14, 17, & 18."	
+R/BK/1	2003	02-Oct-02	all sections	"FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 0 or 7."	
+R/BK/1	2003	02-Oct-02	all sections	ploughed 25 cm furrows. power harrowed.	
+R/BK/1	2003	19-Feb-03	all sections	"MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, & 20."	
+R/BK/1	2003	19-Feb-03	all sections	"MG2 Kieserite at 160 kg, strip 12."	
+R/BK/1	2003	20-Feb-03	all sections	"K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20."	
+R/BK/1	2003	20-Feb-03	all sections	"K2 Sulphate of potash at 434 kg, strip 12."	
+R/BK/1	2003	31-Mar-03	all sections	plants sprayed.	
+R/BK/1	2003	15-May-03	all sections	power harrowed discards.	
+R/BK/1	2003	28	all sections	May-03 rotavated plants.	
+R/BK/1	2003	01-Jul-03	all sections	Rogued wild oats.	
+R/BK/1	2003	04-Oct-02	Winter wheat	"Combination drilled, Hereward, tr. Sibutol, at 400 seed with the Accord drill. rolled. ."	
+R/BK/1	2003	07-Oct-02	Winter wheat	"Piece at 4.0 1 in 200 1, excluding section 8."	
+R/BK/1	2003	12-Mar-03	Winter wheat	1st split N applied. .	
+R/BK/1	2003	17-Mar-03	Winter wheat	"Harmony M at 75 g in 200 1, excluding section 8."	
+R/BK/1	2003	15-Apr-03	Winter wheat	main N and 2nd split N applied.	
+R/BK/1	2003	07-May-03	Winter wheat	Red split N applied.	
+R/BK/1	2003	09-May-03	Winter wheat	"Opera at 1.5 1 in 200 1, excluding section 6."	
+R/BK/1	2003	29-May-03	Winter wheat	"Landmark at 1.01 in 200 1, excluding section 6."	
+R/BK/1	2003	31-May-03	Winter wheat	Starane 2 at 1.01 in 200 l.	
+R/BK/1	2003	04-Aug-03	Winter wheat	"combine harvested, all discards to open up plots."	
+R/BK/1	2003	05-Aug-03	Winter wheat	combine harvested plots for yield. swathed straw.	
+R/BK/1	2003	06-Aug-93	Winter wheat	"sampled, baled and weighed straw, sections 1 and 9."	
+R/BK/1	2003	06-Aug-93Combine	Winter wheat	harvested all remaining wheat.	
+R/BK/1	2003	08-Aug-03	Winter wheat	baled remaining straw.	
+R/BK/1	2003	04-Oct-02	w oats	"Combination drilled, Gerald, tr. Sibutol Secur, at 350 seed with the Accord drill. rolled."	
+R/BK/1	2003	18-Nov-02	w oats	tm) Lexus Class WSB at 60 g in 200 l.	
+R/BK/1	2003	18-Nov-02	w oats	tm) Hallmark with Zeon technology at 25 ml in 200 l.	
+R/BK/1	2003	29-May-03	w oats	Landmark at 1.0 1 in 200 l.	
+R/BK/1	2003	03-Aug-03	w oats	combine harvested discards.	
+R/BK/1	2003	03-Aug-03	w oats	combine harvested plots for yield. swathed straw.	
+R/BK/1	2003	03-Aug-03	w oats	"sampled, baled and weighed straw."	
+R/BK/1	2003	11-Apr-03	forage maize	Sting ECO at 4.0 1 in 200 l.	
+R/BK/1	2003	30-Apr-03	forage maize	springtined.	
+R/BK/1	2003	01-May-03	forage maize	springtined.	
+R/BK/1	2003	07-May-03	forage maize	main N and 1st split N applied.	
+R/BK/1	2003	08-May-03	forage maize	"power harrowed. drilled, Hudson, tr. Mesurol at 10 seed, with the Nodet Gougis drill."	
+R/BK/1	2003	12-Jun-03	forage maize	2nd split N applied.	
+R/BK/1	2003	13-Jun-03	forage maize	planted Hudson maize to area affected by spray drift.	
+R/BK/1	2003	17-Jun-03	forage maize	tm) Barclay Mutiny at 1.5 1 in 200 l.	
+R/BK/1	2003	17-Jun-03	forage maize	tm) Lentagran WP at 2.0 1 in 200 l.	
+R/BK/1	2003	20-Aug-03	forage maize	"cut sample area by hand, weighed, and sampled."	
+R/BK/1	2003	01-Sep-03	forage maize	carted maize.	
+R/BK/1	2003	03-Jun-03	section 0	Touchdown at 3.0 1st to plots not being seed for CS/595 Control of Equisatum.	
+R/BK/1	2003	09-Jun-03	section 0	treatment applied to CS/595.	
+R/BK/1	2004	03-Sep-03	all sections	rolled (excluding section QO).	
+R/BK/1	2004	03-Sep-03	all sections	Harvest at 3.0 1 in 200 L (excluding section 0 & 8).	
+R/BK/1	2004	23-Sep-03	all sections	"K* muriate of potash at 181 kg, strip 14."	
+R/BK/1	2004	23-Sep-03	all sections	"P top at 170 kg, strips 11, 13, 14, 17, & 18."	
+R/BK/1	2004	25-Sep-03	all sections	"FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 0 or 4"	
+R/BK/1	2004	27-Sep-03	all sections	"ploughed 25 cm wide furrows, cultipressed, not to section 5"	
+R/BK/1	2004	29-Sep-03	all sections	"cultipressed, not to section 0."	
+R/BK/1	2004	23-Feb-04	all sections	"MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16 17 18, 19, & 20."	
+R/BK/1	2004	23-Feb-04	all sections	"MG2 Kieserite at 160 kg, strip 12."	
+R/BK/1	2004	23-Feb-04	all sections	"K Sulphate of potash at 217 kg, strips 5, 6, 7, 8, 9, 13 16, 17, 18, 19 & 20. per hoed AS,"	
+R/BK/1	2004	23-Feb-04	all sections	"K2 Sulphate of potash at 434 kg, strip 12."	
+R/BK/1	2004	24-May-04	all sections	rotavated plants.	
+R/BK/1	2004	22	all sections	Jun-04 rotavated plants.	
+R/BK/1	2004	29-Jun-04	all sections	power harrowed discards.	
+R/BK/1	2004	30-Jun-04	all sections	Rogued wild oats.	
+R/BK/1	2004	02-Sep-04	all sections	topped fallow area.	
+R/BK/1	2004	30-Sep-03	Winter wheat	"Combination drilled, Hereward, tr. Sibutol Secur, at 350 seed with the Accord drill. rolled. "	 
+R/BK/1	2004	05-Dec-03	Winter wheat	"tm) Lexus Class WSB at 60 g in 200 l, excluding section 8."	
+R/BK/1	2004	05-Dec-03	Winter wheat	"tm) Hallmark with Zeon Technology at 50 ml in 200 1, excluding section 8. ."	
+R/BK/1	2004	18-Dec-03	Winter wheat	"Arelon 500 at 3.5 1 in 200 l, excluding section 8."	
+R/BK/1	2004	09-Apr-04	Winter wheat	"tm) Topik at 3.5 1 in 200 l, excluding section 8."	
+R/BK/1	2004	09-Apr-04	Winter wheat	"tm) ABe at 0.5 1 in 200 1, excluding section 8."	
+R/BK/1	2004	17-Mar-04	Winter wheat	1st split N applied. 	
+R/BK/1	2004	06-May-04	Winter wheat	"tm) ally at 30 g in 200 1, excluding section 8."	
+R/BK/1	2004	06-May-04	Winter wheat	"tm) Starane 2 at 0.7 1 in 200 1, excluding section 8."	
+R/BK/1	2004	07-May-04	Winter wheat	main N and 2nd split N applied.	
+R/BK/1	2004	13-May-04	Winter wheat	"Landmark at 1.0 1 in 200 1, excluding section 6."	
+R/BK/1	2004	25-May-04	Winter wheat	Red split N applied. 	
+R/BK/1	2004	10-Jun-04	Winter wheat	"tm) Opera at 1.0 1 in 200 1, excluding section 6."	
+R/BK/1	2004	10-Jun-04	Winter wheat	"tm) Hallmark with Zeon Technology at 50 ml in 200 l, excluding section 6."	
+R/BK/1	2004	16-Aug-04	Winter wheat	"combine harvested discards, swathed straw."	
+R/BK/1	2004	02-Sep-04	Winter wheat	combine harvested plots for yield. swathed straw. (except section 8).	
+R/BK/1	2004	02-Sep-04	Winter wheat	"combine harvested discards, swathed straw."	
+R/BK/1	2004	03-Sep-04	Winter wheat	"combine harvested section 8. (wheat barley laid, not all plots harvested)."	
+R/BK/1	2004	03-Sep-04	Winter wheat	sampled and weighed straw.	
+R/BK/1	2004	03-Sep-04	Winter wheat	combine harvested discards.	
+R/BK/1	2004	04-Sep-04	Winter wheat	baled straw.	
+R/BK/1	2004	30-Sep-03	w oats	"Combination drilled, Gerald, tr. Sibutol Secur, at 350 seed with the Accord drill. rolled."	
+R/BK/1	2004	05-Dec-03	w oats	tm) Lexus Class WSB at 60 g in 200 1l.	
+R/BK/1	2004	05-Dec-03	w oats	tm) Hallmark with Zeon technology at 50 ml in 200 l.	
+R/BK/1	2004	06-May-04	w oats	tm) ally at 30 g in 200 1	
+R/BK/1	2004	06-May-04	w oats	tm) Starane 2 at 0.7 1 in 200 1	
+R/BK/1	2004	13-May-04	w oats	Landmark at 1.01 in 200 1.	
+R/BK/1	2004	03-Sep-04	w oats	"combine harvested discards, swathed straw."	
+R/BK/1	2004	03-Sep-04	w oats	combine harvested plots for yield. swathed straw.	
+R/BK/1	2004	03-Sep-04	w oats	sampled and weighed straw.	
+R/BK/1	2004	04-Sep-04	w oats	baled straw.	
+R/BK/1	2004	09-Apr-04	forage maize	late at 3.01 in 200 1. 	
+R/BK/1	2004	13-May-03	forage maize	main N and 1st split N applied.	
+R/BK/1	2004	14-May-04	forage maize	flexitined.	
+R/BK/1	2004	19-May-04	forage maize	power harrowed.	
+R/BK/1	2004	20-May-04	forage maize	"pxiiied, Hudson, tr. Mesurol at 10.2 seed, with the Nodet drill."	
+R/BK/1	2004	17-Jun-04	forage maize	2nd split N applied.	
+R/BK/1	2004	22-Jun-04	forage maize	Samson at 1.5 1 in 200 1.	
+R/BK/1	2004	20-Sep-04	forage maize	"cut sample area by hand, weighed, and sampled."	
+R/BK/1	2004	21-Sep-04	forage maize	carted maize.	
+R/BK/1	2004	06-Jul-04	section 0	Weedazol-TL at 30 1 in 200 1 to plots not being seed for CS/595 Control of Equisatum.	
+R/BK/1	2004	06-Jul-04	section 0	treatment applied to CS/595.	
+R/BK/1	2004	09-Sep-04	section 0	treatment applied to CS/595.	
+R/BK/1	2005	05-Nov-04	Winter wheat	"Combination drilled, Hereward, tr. Sibutol Secur, at 400 seed with the Accord drill."	
+R/BK/1	2005	20-Nov-04	Winter wheat	Lupus at 5 kg	
+R/BK/1	2005	14-Jan-05	Winter wheat	"tm) Hawk at 2.0 1 in 200 1, excluding section 8."	
+R/BK/1	2005	14-Jan-05	Winter wheat	"tm) ABe at 1.0 1 in 200 1, excluding section 8."	
+R/BK/1	2005	14-Jan-05	Winter wheat	"tm) Tolkan Liquid at 2.5 1 in 200 1, excluding section 8."	
+R/BK/1	2005	07-Mar-05	Winter wheat	1st split N applied.	
+R/BK/1	2005	14-Apr-05	Winter wheat	main N and 2nd split N applied.	
+R/BK/1	2005	20-Apr-05	Winter wheat	"tm) Harmony M SX at 100 g in 200 1, excluding section 8."	
+R/BK/1	2005	20-Apr-05	Winter wheat	"tm) Duplosan KV at 1.6 1 in 200 1, excluding section 8."	
+R/BK/1	2005	10-May-05	Winter wheat	Red split N applied.	
+R/BK/1	2005	15-May-05	Winter wheat	"Starane 2 at 0.5 1 in 200 1, excluding section 8."	
+R/BK/1	2005	15-May-05	Winter wheat	"tm) Bravo 500 at 1.0 1 in 200 1, excluding section 6."	
+R/BK/1	2005	15-May-05	Winter wheat	"tm) Opus at 0.75 1 in 200 1, excluding section 6."	
+R/BK/1	2005	31-May-05	Winter wheat	"tm) Opus at 0.75 1 in 200 1, excluding section 6. ÔÇö"	
+R/BK/1	2005	31-May-05	Winter wheat	"tm) Amistar Opti at 1.5 1 in 200 1, excluding section 6."	
+R/BK/1	2005	31-May-05	Winter wheat	"tm) Corbel at 0.6 1 in 200 1, excluding section 6."	
+R/BK/1	2005	10-Aug-05	Winter wheat	"combine harvested plots for yield, swathed straw, sampled and weighed straw."	
+R/BK/1	2005	10-Aug-05	Winter wheat	baled straw.	
+R/BK/1	2005	16-Aug-05	Winter wheat	"combine harvested discards, swathed straw."	
+R/BK/1	2005	18-Aug-05	Winter wheat	baled remaining straw.	
+R/BK/1	2005	06-Nov-04	w oats	"Combination drilled, Gerald, tr. Sibutol Secur, at 400 seed with the Accord drill."	
+R/BK/1	2005	20-Nov-04	w oats	Lupus at 5 kg	
+R/BK/1	2005	14-Dec-04	w oats	Lexus Class WSB at 60 g in 200 l.	
+R/BK/1	2005	20-Apr-05	w oats	tm) Harmony M SX at 100 g in 200 l.	
+R/BK/1	2005	20-Apr-05	w oats	tm) Duplosan KV at 1.61 in 200 l.	
+R/BK/1	2005	11-May-05	w oats	Corbel at 0.75 1 in 200 l.	
+R/BK/1	2005	15-May-05	w oats	Starane 2 at 0.5 1 in 200 l.	
+R/BK/1	2005	16-Aug-05	w oats	"combine harvested plots for yield, swathed straw."	
+R/BK/1	2005	16-Aug-05	w oats	"combined discards, swathed straw."	
+R/BK/1	2005	17-Aug-05	w oats	sampled and weighed straw.	
+R/BK/1	2005	18-Aug-05	w oats	baled straw.	
+R/BK/1	2005	07-Apr-05	forage maize	springtined.	
+R/BK/1	2005	29-Apr-05	forage maize	main N and 1st split N applied.	
+R/BK/1	2005	05-May-05	forage maize	"power harrowed. drilled, Hudson, tr. Mesurol at 10.2 seed, with the Nodet Gougis drill, rolled."	
+R/BK/1	2005	10-May-05	forage maize	2nd split N applied.	
+R/BK/1	2005	11-May-05	forage maize	Samson at 1.5 1 in 200 l.	
+R/BK/1	2005	22-Sep-04	forage maize	"cut sample area by hand, weighed, and sampled."	
+R/BK/1	2005	26-Sep-04	forage maize	carted maize.	
+R/BK/1	2005	25-Sep-04	all sections	"Weedazol-TL at 30 l in 200 l (excluding section 08 and plots 03, 05 and 19 on section 0)"	
+R/BK/1	2005	13-Oct-04	all sections	"K* muriate of potash at 181 kg, strip 14"	
+R/BK/1	2005	13-Oct-04	all sections	"P top at 170 kg, strips 11, 13, 14, 17, & 18"	
+R/BK/1	2005	18-Oct-04	all sections	"FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 5"	
+R/BK/1	2005	13-Oct-04	all sections	ploughed 25 cm wide furrows.	
+R/BK/1	2005	15-Mar-05	all sections	"MG Kieserite at 80 kg, strips 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, & 20"	
+R/BK/1	2005	15-Mar-05	all sections	"MG2 Kieserite at 160 kg, strip 12."	
+R/BK/1	2005	15-Mar-05	all sections	"K Sulphate of potash at 217 kg strips 5, 6, 7, 8, 9, 13, 15, 16, 17, 18, 19 & 20."	
+R/BK/1	2005	15-Mar-05	all sections	"K2 Sulphate of potash at 434 kg, strip 12"	
+R/BK/1	2005	18-Mar-05	all sections	"rolled, not to section 4."	
+R/BK/1	2006	27-Aug-05	all sections	Weedazol-TL at 20 1 in 200 L (excluding sections 4 and 8).	
+R/BK/1	2006	27-Sep-05	all sections	"P top at 171 kg, strips 11, 13, 14, 17, & 18."	
+R/BK/1	2006	28-Sep-05	all sections	"K* muriate of potash at 181 kg, strip 14."	
+R/BK/1	2006	28-Sep-05	all sections	"FYM FYM at 35.0 tines, strips 2.1 & 2.2, not to section 3"	
+R/BK/1	2006	29-Sep-05	all sections	ploughed 25 cm wide furrows.	
+R/BK/1	2006	10-Oct-05	all sections	cultipressed.	
+R/BK/1	2006	13-Mar-06	all sections	"MG Kieserite at 80 kg, strips 5 - 9, 11, 12, 15 - 20."	
+R/BK/1	2006	13-Mar-06	all sections	"K Sulphate of potash at 217 kg, strips 5 - 9, 12, 13, 15 - 20"	
+R/BK/1	2006	18-Mar-05	all sections	"rolled, not to section 4."	
+R/BK/1	2006	11-Oct-05	Winter wheat	"Combination drilled, Hereward, tr. Sibutol Secur, 350 seed with the Accord drill and rolled."	
+R/BK/1	2006	17-Oct-05	Winter wheat	"Piece at 4.00 1 in 200 1, excluding section 8"	
+R/BK/1	2006	27-Oct-05	Winter wheat	Decoy water at 5.0 kg	
+R/BK/1	2006	07-Dec-05	Winter wheat	Hallmark with Zeon Technology at 50 ml in 200 l	
+R/BK/1	2006	21-Dec-05	Winter wheat	Decoy water at 5.0 kg	
+R/BK/1	2006	14-Jan-05	Winter wheat	"IPU 500 at 5.0 1 in 200 1, excluding section 8 (2.9m east blend of plot 218 sprayed in error)."	
+R/BK/1	2006	13-Mar-06	Winter wheat	1st split N applied.	
+R/BK/1	2006	17-Apr-06	Winter wheat	"tm) Bravo 500 at 1.0 1 in 200 1, excluding section 6"	
+R/BK/1	2006	17-Apr-06	Winter wheat	"tm) flexitined at 0.2 1 in 200 1, excluding section 6"	
+R/BK/1	2006	17-Apr-06	Winter wheat	"tm) Opus at 0.75 1 in 200 1, excluding section 6"	
+R/BK/1	2006	20-Apr-06	Winter wheat	main N and 2nd split N applied.	
+R/BK/1	2006	12-May-06	Winter wheat	"ally Max SX at 42 g in 200 1, excluding section 8."	
+R/BK/1	2006	17-May-06	Winter wheat	Red split N applied.	
+R/BK/1	2006	28-May-06	Winter wheat	"Starane 2 at 0.75 1 in 200 1, excluding section 8."	
+R/BK/1	2006	01-Jun-06	Winter wheat	"tm) Vivid at 0.4 1 in 200 1, excluding section 6."	
+R/BK/1	2006	01-Jun-06	Winter wheat	"tm) Bravo 500 at 1.0 1 in 200 1, excluding section 6."	
+R/BK/1	2006	01-Jun-06	Winter wheat	"tm) Opus at 0.75 1 in 200 1, excluding section 6."	
+R/BK/1	2006	06-Aug-06	Winter wheat	"combine harvested discards, baled straw."	
+R/BK/1	2006	23-Aug-06	Winter wheat	"combine harvested plots for yield, swathed straw, sampled and weighed straw."	
+R/BK/1	2006	25-Aug-06	Winter wheat	"combine harvested discards, swathed and baled straw."	
+R/BK/1	2006	11-Oct-05	w oats	"Combination drilled, Gerald, tr. Sibutol, at 350 seed with the Accord drill and rolled."	
+R/BK/1	2006	27-Oct-05	w oats	Decoy water at 5.0 kg	
+R/BK/1	2006	14-Nov-05	w oats	Lexus Class at 60 g in 200 l.	
+R/BK/1	2006	14-Nov-05	w oats	Hallmark with Zeon Technology at 50 ml in 200 1.	
+R/BK/1	2006	21-Dec-05	w oats	Decoy water at 5.0 kg	
+R/BK/1	2006	12-May-06	w oats	ally Max SX at 42 g in 200 l.	
+R/BK/1	2006	28-May-06	w oats	Starane 2 at 0.75 1 in 200 l.	
+R/BK/1	2006	02-Jun-06	w oats	tm) Amistar at 0.6 1 in 200 l.	
+R/BK/1	2006	02-Jun-06	w oats	tm) Opus at 0.4 1 in 200 1.	
+R/BK/1	2006	02-Jun-06	w oats	tm) flexitined at 0.2 1 in 200 l.	
+R/BK/1	2006	25-Jul-06	w oats	"combine harvested plots for yield, swathed straw. combined discards, swathed straw."	
+R/BK/1	2006	26-Jul-06	w oats	sampled and weighed straw. baled straw.	
+R/BK/1	2006	26-Apr-06	forage maize	Azural at 3.0 1 in 200 l.	
+R/BK/1	2006	10-May-06	forage maize	main N and 1st split N applied.	
+R/BK/1	2006	10-May-06	forage maize	flexitined twice.	
+R/BK/1	2006	11-May-06	forage maize	"power harrowed. drilled, Hudson, tr. Thiram, methiocarb, Fludioxonil, Metalaxyl at 10.2 seed, with the Nodet Gougis drill."	
+R/BK/1	2006	05-Jun-06	forage maize	2nd split N applied.	
+R/BK/1	2006	08-Jun-06	forage maize	Samson at 1.5 1 in 200 1.	
+R/BK/1	2006	25-Sep-06	forage maize	"cut sample area by hand, weighed, and sampled."	
+R/BK/1	2006	29-Sep-06	forage maize	carted maize.	

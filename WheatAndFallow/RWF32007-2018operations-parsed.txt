@@ -1,241 +1,239 @@
-R/WF/3|2007|13-Oct-06|p||Barclay Gallup 360|4.00|l/200 l/ha
-R/WF/3|2007|19-Oct-06|a||Plough/N|None|None
-R/WF/3|2007|01-Nov-06|a||Combination Drilled|None|None
-R/WF/3|2007|01-Nov-06|s||Hereward tr Redigo Twin + Deter, Plot 2|350.00|seeds/m2
-R/WF/3|2007|03-Nov-06|p||Ice|4.00|l/200 l/ha
-R/WF/3|2007|08-Dec-06|p||Entice|7.00|kgha
-R/WF/3|2007|12-Mar-07|a||Springtined fallow, Plot 1|None|None
-R/WF/3|2007|11-Apr-07|p||Pacifica - wheat|0.50|kg/200 ha
-R/WF/3|2007|11-Apr-07|p||Biopower - wheat|1.00|V200 I'ha
-R/WF/3|2007|23-Apr-07|p||Clean Crop Wanderer|1.00|V200 Ia
-R/WF/3|2007|23-Apr-07|p||Deuce|1.00|V200 I'ha
-R/WF/3|2007|02-May-07|a||Power harrowed fallow plots|None|None
-R/WF/3|2007|22-May-07|p||Amistar Opti|1.25|l/200 l/ha
-R/WF/3|2007|22-May-07|p||Opus|0.80|l/200 l/ha
-R/WF/3|2007|06-Jun-07|a||Mow/Rotavate paths|None|None
-R/WF/3|2007|14-Jun-07|a||Mow/Rotavate paths|None|None
-R/WF/3|2007|26-July-07|a||Rotavate fallow|None|None
-R/WF/3|2007|27-Aug-07|a||Combine harvest and chop straw - O&E's|None|None
-R/WF/3|2007|03-Sep-07|a||Combine harvest, plots for yield|None|None
-R/WF/3|2007|03-Sep-07|a||Swath, sample, bale and weigh straw|None|None
-R/WF/3|2008|30-Sep-07|p||Glyphosate 360|3.00|V200 l/ha
-R/WF/3|2008|10-Oct-07|a||Plough/S|None|None
-R/WF/3|2008|22-Oct-07|a||Combination drilled, Plot 1|None|None
-R/WF/3|2008|22-Oct-07|s||Hereward tr redigo twin + deter, Plot 1|400.00|seeds/m?
-R/WF/3|2008|23-0ct-07|a||Rolled|None|None
-R/WF/3|2008|30-Oct-07|p||Huron|5.00|kg/ha
-R/WF/3|2008|2-Nov-07|p||Liberator wheat plots|0.60|l/200 l/ha
-R/WF/3|2008|2-Nov-07|p||Alpha Trifluralin 48 EC wheat plot|2.00|l/200 l/ha
-R/WF/3|2008|17-Nov-07|p||Stomp 400 SC|3.30|l/200 l/ha
-R/WF/3|2008|17-Nov-07|p||Arelon 500|2.00|V200 l/ha
-R/WF/3|2008|17-Nov-07|p||Hallmark with Zeon Technology|50.00|ml/200 Uha
-R/WF/3|2008|8-May-08|p||Deuce|1.00|V150 l/ha
-R/WF/3|2008|8-May-08|p||Bravo 500|0.75|V150 l/ha
-R/WF/3|2008|8-May-08|p||Flexity|0.20|V150 ha
-R/WF/3|2008|8-May-08|p||BASF 3C Chlormequat 720|1.00|V150 l/ha
-R/WF/3|2008|19-May-08|p||Ally Max SX wheat|42.00|g/200 l/ha
-R/WF/3|2008|19-May-08|p||Starane 2 wheat|0.75|V200 l/ha
-R/WF/3|2008|31-May-08|p||Amistar Opti|1.25|l/200 l/ha
-R/WF/3|2008|31-May-08|p||Opus Team|1.00|l/200 l/ha
-R/WF/3|2008|2-Jun-08|a||Power harrowed fallow|None|None
-R/WF/3|2008|16-Jun-08|a||Mow / Rotavate paths|None|None
-R/WF/3|2008|14-Jul-08|a||Flexitined fallow plot|None|None
-R/WF/3|2008|15-Jul-08|a||Power harrowed fallow plot|None|None
-R/WF/3|2008|25-Jul-08|a||Rogue wild oats/thistles/ weeds|None|None
-R/WF/3|2008|27-Aug-08|a||Combine harvest, plots for yield, swath straw, sample, bale and weigh straw|None|None
-R/WF/3|2008|30-Aug-08|a||Baled|None|None
-R/WF/3|2009|10-Oct-08|a||Plough N|None|None
-R/WF/3|2009|11-Oct-08|a||Cultipressed|None|None
-R/WF/3|2009|20-Oct-08|a||Combination Drilled|None|None
-R/WF/3|2009|20-Oct-08|s||Hereward tr Redigo Deter|400.00|seeds/m2
-R/WF/3|2009|17-Dec-08|p||Stomp 400 SC|3.30|Ivha
-R/WF/3|2009|17-Dec-08|p||Arelon 500|3.00|ha
-R/WF/3|2009|17-Dec-08|p||Hallmark with Zeon Technology|50.00|ml/ha
-R/WF/3|2009|26-Mar-09|a||Springtined - Fallow area only|None|None
-R/WF/3|2009|20-Apr-09|p||Cherokee|1.00|Uha
-R/WF/3|2009|02-May-09|p||Splice|1.00|l/ha
-R/WF/3|2009|02-May-09|p||Bravo 500|1.00|l/ha
-R/WF/3|2009|02-May-09|p||Talius|0.13|Uha
-R/WF/3|2009|02-May-09|p||BASF 3C Chlormequat 720|2.25|l/ha
-R/WF/3|2009|04-May-09|p||Ally Max SX|42.00|g/ha
-R/WF/3|2009|04-May-09|p||Agriguard Fluroxypyr|0.75|Uha
-R/WF/3|2009|28-May-09|p||Brutus|1.50|Uha
-R/WF/3|2009|28-May-09|p||Amistar Opti|1.25|Uha
-R/WF/3|2009|02-Jun-09|a||Mow / Rotavate paths|None|None
-R/WF/3|2009|03-Aug-09|a||Rotavate fallows|None|None
-R/WF/3|2009|15-Aug-09|a||Combine harvest, plots for yield|None|None
-R/WF/3|2009|15-Aug-09|a||Sample, bale and weight straw||
-R/WF/3|2010|30-Sep-09|a||Plough|None|None
-R/WF/3|2010|01-Oct-09|a||Cultipressed|None|None
-R/WF/3|2010|05-Oct-09|s||Hereward - At 350 seeds per m2|145.00|kg/ha
-R/WF/3|2010|05-Oct-09|p||Liberator - 200 It water|0.60|ha
-R/WF/3|2010|05-Oct-09|a||Combination Drilled|None|None
-R/WF/3|2010|10-Apr-10|p||Cherokee - 146 l water|1.00|ha
-R/WF/3|2010|18-Apr-10|p||Attribut - 146 It water|100.00|g/ha
-R/WF/3|2010|18-Apr-10|p||Amber - 146 It water|1.00|I'ha
-R/WF/3|2010|18-Apr-10|p||Oxytril CM - 146 It water|1.00|I'ha
-R/WF/3|2010|27-Apr-10|a||Flexi tined - Fallow plots|None|None
-R/WF/3|2010|27-Apr-10|a||Powerharrowed - Fallow plots|None|None
-R/WF/3|2010|06-May-10|p||Bravo 500 - 200 It water|1.00|ha
-R/WF/3|2010|06-May-10|p||Tracker - 200 It water|1.00|ha
-R/WF/3|2010|06-May-10|p||Chlormequat 3C - 200 It water|2.25|ha
-R/WF/3|2010|18-May-10|p||Tomahawk|1.00|ha
-R/WF/3|2010|18-May-10|p||Cleancrop Gallifrey|1.00|I'ha
-R/WF/3|2010|20-May-10|a||Rotavate - fallow areas|None|None
-R/WF/3|2010|02-Jun-10|p||Comet - 200 It water|0.60|l/ha
-R/WF/3|2010|02-Jun-10|p||Opus - 200 It water|0.60|ha
-R/WF/3|2010|21-Jul-10|a||Rotavate - fallows|None|None
-R/WF/3|2010|31-Aug-10|a||Combine harvest, plots for yield|None|None
-R/WF/3|2010|31-Aug-10|a||Sample, bale and weigh straw|None|None
-R/WF/3|2010|03-Sep-10|a||Combine harvest discards|None|None
-R/WF/3|2010|04-Sep-10|a||baled|None|None
-R/WF/3|2010|22-Sep-10|a||Other operation - removed bales|None|None
-R/WF/3|2011|10-Oct-10|a||Ploughed|None|None
-R/WF/3|2011|13-Oct-10|a||Cultipressed|None|None
-R/WF/3|2011|15-Oct-10|S||Drilled Hereward trt Redigo Deter - 350 seeds / metre sq|158|kg/ha
-R/WF/3|2011|16-Oct-10|a||Rolled|None|None
-R/WF/3|2011|17-Oct-10|P||Sprayed Regatta - water volume = 200 l/ha|0.6|l/ha
-R/WF/3|2011|24-Mar-11|a||Flexi Tined - Fallow areas only|None|None
-R/WF/3|2011|28-Mar-11|P||Sprayed Cherokee - Water volume = 118 l/ha. Applied to WW area only|1.25l/ha
-R/WF/3|2011|13-Apr-11|a||Flexi Tined - Fallow plot|None|None
-R/WF/3|2011|14-Apr-11|a||Power harrowed - Fallow section|None|None
-R/WF/3|2011|05-May-11|p||Sprayed Bravo 500 - 200 l/ha water|1.0|l/ha
-R/WF/3|2011|05-May-11|p||Sprayed Tracker - 200 l/ha water|1.0|l/ha 
-R/WF/3|2011|05-May-11|p||Sprayed Agriguard Chlormequat 720 - 200 l/ha water|2.25|l/ha 
-R/WF/3|2011|05-May-11|p||Sprayed Ally Max 42 - 200 l/ha water|42|g/ha 
-R/WF/3|2011|05-May-11|p||Sprayed Starane 2 - 200 l/ha water|0.75|l/ha
-R/WF/3|2011|16-May-11|a||Cut paths|None|None
-R/WF/3|2011|19-May-11|p||Sprayed Opus - 100 l/ha water|0.8|l/ha
-R/WF/3|2011|19-May-11|p||Comet 200 - 100 l/ha water|0.6|l/ha 
-R/WF/3|2011|19-May-11|p||Bravo 500 - 100 l/ha water|1.0|l/ha
-R/WF/3|2011|23-May-11|a||Cut paths|None|None
-R/WF/3|2011|23-May-11|a||Rotavated fallows|None|None
-R/WF/3|2011|20-Jun-11|a||Cut paths|None|None
-R/WF/3|2011|01-Aug-11|a||Cut paths|None|None
-R/WF/3|2011|12-Aug-11|a||Combined O+Es - Opened up trials with commercial combine ready for yields to be taken|None|None
-R/WF/3|2011|12-Aug-11|a||Baled O+Es - Baled area discard area cut to open out trials|None|None
-R/WF/3|2011|03-Sep-11|a||Combined for yields|None|None
-R/WF/3|2011|03-Sep-11|a||Straw weights|None|None
-R/WF/3|2011|05-Sep-11|a||Combined discards|None|None
-R/WF/3|2012|03-Oct-11|a||Ploughed|None|None
-R/WF/3|2012|04-Oct-11|a||Culitpressed|None|None
-R/WF/3|2012|12-Oct-11|a||Rolled|None|None
-R/WF/3|2012|14-Oct-11|p||Sprayed Liberator in 200 l/ha of water|0.6|ha
-R/WF/3|2012|22-Feb-12|a||Drilled Crusoe trt Redigo Deter|450|Sm?
-R/WF/3|2012|22-Mar-12|p||Sprayed Cherokee SE in 200 l/ha of water|1.0|l/ha
-R/WF/3|2012|22-Mar-12|p||Sprayed Justice in 200 l/ha of water|0.125|l/ha
-R/WF/3|2012|10-Apr-12|a||Rotovated fallow areas -|None|None
-R/WF/3|2012|05-May-12|p||Sprayed Ally Max in 200 l/ha of water|42|g/ha
-R/WF/3|2012|05-May-12|p||Sprayed Bravo 500 in 200 l/ha of water|1.0|l/ha
-R/WF/3|2012|05-May-12|p||Sprayed Tracker in 200 l/ha of water|1.0|l/ha
-R/WF/3|2012|05-May-12|p||Sprayed Agriguard in 200 l/ha of water|2.25|l/ha
-R/WF/3|2012|05-May-12|p||Sprayed Starane 2 in 200 l/ha of water|0.5|l/ha
-R/WF/3|2012|23-May-12|p||Sprayed Comet, Bravo 500 and Opus Co@0.6Br@1.0 ha Op@0.8|None|None
-R/WF/3|2012|13-Jun-12|p||Sprayed w/ Amistar|0.3|l/ha
-R/WF/3|2012|13-Jun-12|p||Sprayed w/ Prosaro|0.7|l/ha
-R/WF/3|2012|14-Jun-12|a||Cut paths -|None|None
-R/WF/3|2012|01-Aug-12|a||Marking out Experiment|None|None
-R/WF/3|2012|07-Aug-12|a||Paths Cut and Cultivated|None|None
-R/WF/3|2012|23-Aug-12|a||Harvested.|None|None
-R/WF/3|2012|24-Aug-12|a||Harvested O+E's|None|None
-R/WF/3|2012|24-Aug-12|a||Sampled Baled and Weighed|None|None
-R/WF/3|2012|14-Sep-12|a||Rotovated Fallows.|None|None
-R/WF/3|2012|20-Sep-12|p||Sprayed Whole field w/ Weedazol EW|20|l/ha
-R/WF/3|2012|04-Oct-12|p||Ploughed
-R/WF/3|2013|22-Feb-13|a||Drilled Crusoe trt Redigo Deter|450|seeds/m2
-R/WF/3|2013|01-Mar-13|p||Pre-em herbicide Defy|3.0|l/ha
-R/WF/3|2013|01-Mar-13|p||Pre-em herbicide Stomp Aqua|2.9|l/ha
-R/WF/3|2013|2-Apr-13|a||Springtined plot 1|
-R/WF/3|2013|26-May-13|p||Sprayed with Simba (metasulfuron-methyl -20%)|30|g/ha
-R/WF/3|2013|26-May-13|p||Sprayed with Vortex (nonylphenoxypolyethanoxyethanol)|1.5|l/ha
-R/WF/3|2013|22-May-13|a||Rotavated Fallows|None|None
-R/WF/3|2013|19-Jun-13|a||Cut Paths|None|None
-R/WF/3|2013|04-Jul-13|a||Cut Paths|None|None
-R/WF/3|2013|11-Jul-13|a||Rotavated Fallow|None|None
-R/WF/3|2013|19-Jul-13|a||Cul Paths|None|None
-R/WF/3|2013|12-Aug-13|a||Claas - Harvested, opened up exp.|None|None
-R/WF/3|2013|28-Aug-13|a||Sampo - Harvested all Plots|None|None
-R/WF/3|2013|29-Aug-13|a||Sampo - Harvested|None|None
-R/WF/3|2013|29-Aug-13|a||Baled Sampled and Weighed|None|None
-R/WF/3|2013|31-Aug-13|a||Claas - harvested OE's|None|None
-R/WF/3|2014|01-Oct-13|a||Topping|None|None
-R/WF/3|2014|09-Oct-13|a||Ploughed|None|None
-R/WF/3|2014|10-Oct-13|a||Cultipressed|None|None
-R/WF/3|2014|18-Oct-13|s||Drilled All plots - var. Crusoe|400|seeds/m®
-R/WF/3|2014|27-Nov-13|P||Applied Major Slug Pellets|4|kg/ha
-R/WF/3|2014|27-Nov-13|P||Sprayed Hallmark|50|ml/ha
-R/WF/3|2014|27-Nov-13|p||Sprayed Liberator|600|ml/ha
-R/WF/3|2014|27-Nov-13|p||Sprayed Stomp|1.7|lha
-R/WF/3|2014|03-Apr-14|P||Sprayed Artemis|1.0|l/ha
-R/WF/3|2014|03-Apr-14|p||Sprayed Bravo 500|1.0|lha
-R/WF/3|2014|03-Apr-14|p||Sprayed BASF 3C 720|1.75|lha
-R/WF/3|2014|04-Apr-14|a||Rotavated All Fallow Plots|None|None
-R/WF/3|2014|09-Apr-14|a||Power-harrowed - Fallows and Fallow plots|None|None
-R/WF/3|2014|28-Apr-14|a||Sprayed Kingdom|1.25|l/ha
-R/WF/3|2014|21-Aug-14|a||Harvested
-R/WF/3|2015|08/10/2014|a||Ploughed (thrown North) .|None|None
-R/WF/3|2015|28/10/2014|a||Drilled WW Crusoe dr Redgio|350|seeds/m2
-R/WF/3|2015|10/11/2014|p||Sprayed Crystal|4|l/ha
-R/WF/3|2015|04/12/2014|p||Sprayed Hallmark|50|l/ha
-R/WF/3|2015|05/04/2015|p||Sprayed Artemis|1|l/ha
-R/WF/3|2015|05/04/2015|p||Sprayed Bravo 500|1|wha
-R/WF/3|2015|05/04/2015|P||Sprayed Chlormequat 750|1.25|l/ha
-R/WF/3|2015|05/04/2015|p||Sprayed Moddus|150|ml/ha
-R/WF/3|2015|20/04/2015|a||Powerharrowed Fallow|None|None
-R/WF/3|2015|27/04/2015|p||Sprayed Kingdom|1.25|l/ha
-R/WF/3|2015|27/04/2015|p||Sprayed Balear 720|700|ml/ha
-R/WF/3|2015|11/05/2015|a||Powerharrowed all fallow ground|None|None
-R/WF/3|2015|27/05/2015|p||Sprayed Ally Max|30|gm/ha
-R/WF/3|2015|27/05/2015|p||Sprayed Bassoon|750|ml/ha
-R/WF/3|2015|27/05/2015|p||Sprayed Gemstone|1|l/ha
-R/WF/3|2015|27/05/2015|P||Sprayed Bravo 500|None|None
-R/WF/3|2015|15/06/2015|p||Sprayed Proline onto WW|500|ml/ha
-R/WF/3|2015|16/06/2015|a||Rotavated Fallows|None|None
-R/WF/3|2015|13/09/2015|a||Harvested All Plots for Grain Yield|None|None
-R/WF/3|2015|13/09/2015|a||Sampled Baled and Weighed|None|None
-R/WF/3|2015|17/09/2015|a||Removed round bales from field|None|None
-R/WF/3|2016|09/10/2015|a||Ploughed - thrown south|None|None
-R/WF/3|2016|09/10/2015|a||Topped all field and experiment - Batwing|None|None
-R/WF/3|2016|15/10/2015|a||Powerharrowed - seed bed preparation|None|None
-R/WF/3|2016|15/10/2015|s||Drilled Winter Wheat var. Crusoe trt Redigo|350|seed/m?
-R/WF/3|2016|18/10/2015|a||Ring Rolled all new drilling|None|None
-R/WF/3|2016|19/10/2015|p||Sprayed Liberater - wheat only|0.6|It/ha
-R/WF/3|2016|19/10/2015|p||Sprayed Stomp Aqua - wheat only|1.75|It/ha
-R/WF/3|2016|12/11/2015|p||Sprayed Hallmark|40|ml/ha
-R/WF/3|2016|03/12/2015|p||Applied TDS Major|5|kg/ha
-R/WF/3|2016|12/12/2015|p||Sprayed Hallmark|40|ml/ha
-R/WF/3|2016|08/04/2016|p||Sprayed Moddus|150|ml/ha
-R/WF/3|2016|08/04/2016|p||Sprayed BASF 3C Chlormequat 750|1.25|It/ha
-R/WF/3|2016|08/04/2016|p||Sprayed Odin|500|ml/ha
-R/WF/3|2016|08/04/2016|p||Sprayed Mirage 40ec|500|ml/ha
-R/WF/3|2016|09/04/2016|p||Sprayed Bravo 500|1|It/ha
-R/WF/3|2016|05/05/2016|p||Sprayed Keystone - wheat only|800|ml/ha
-R/WF/3|2016|05/05/2016|p||Sprayed Balear 720 - wheat only|700|ml/ha
-R/WF/3|2016|25/05/2016|p||Sprayed Simba SX - wheat only|20|gms/ha
-R/WF/3|2016|25/05/2016|p||Sprayed Vortex - wheat only|1.5|It/ha
-R/WF/3|2016|25/05/2016|p||Sprayed Spiggot - wheat only|250|ml/ha
-R/WF/3|2016|09/07/2016|p||Sprayed Cello|550|ml/ha
-R/WF/3|2016|09/07/2016|p||Sprayed Hallmark|50|ml/ha
-R/WF/3|2016|23/08/2016|a||Mopped Up remaining crop (Harvest)|None|None
-R/WF/3|2016|26/08/2016|a||Round baled and removed straw|None|None
-R/WF/3|2017|28/09/2016|a||Ploughed - thrown North|None|None
-R/WF/3|2017|02/10/2016|p||Sprayed Buffalo Elite|1|It/ha
-R/WF/3|2017|02/10/2016|p||Sprayed Samurai|3|It/ha
-R/WF/3|2017|06/10/2016|a||Cultipressed All Ground|None|None
-R/WF/3|2017|10/10/2016|a||Ring Rolled All New Drilling|None|None
-R/WF/3|2017|10/10/2016|s||Drilled Crusoe trt w/Redigo Pro + Deter|350|seed/m?
-R/WF/3|2017|10/10/2016|a||Cultipressed -all sites and surrounds|None|None
-R/WF/3|2017|15/10/2016|p||Sprayed Liberator|600|ml/ha
-R/WF/3|2017|15/10/2016|p||Sprayed Defy|3|It/ha
-R/WF/3|2017|15/10/2016|p||Sprayed Deploy|400|ml/ha
-R/WF/3|2017|02/12/2016|p||Sprayed Hallmark|50|ml/ha
-R/WF/3|2017|04/04/2017|f||Applied Nitram|145|kg/ha
-R/WF/3|2017|05/04/2017|p||Sprayed Artemis|1|It/ha
-R/WF/3|2017|05/04/2017|p||Sprayed Claw 500|1|It/ha
-R/WF/3|2017|05/04/2017|p||Sprayed 3C Chlormequat 750|2|lIt/ha
-R/WF/3|2017|27/04/2017|p||Sprayed keystone|600|ml/ha
-R/WF/3|2017|27/04/2017|p||Sprayed epic|400|ml/ha
-R/WF/3|2017|27/04/2017|p||Sprayed balear 720sc|700|ml/ha
-R/WF/3|2017|19/06/2017|p||Sprayed Fezan (Tebuconazole)|750|ml/ha
-R/WF/3|2017|24/08/2017|a||Harvested wheat|None|None
-R/WF/3|2017|07/09/2017|a||Straw baled and removed|None|None
+R/WF/3|2007|13-Oct-06|p|all plots|Barclay Gallup 360|4.00|V200 I'ha
+R/WF/3|2007|19-Oct-06|a|all plots|ploughing|None|None
+R/WF/3|2007|01-Nov-06|a|all plots|Combination drilled Hereward tr Redigo Tin + water, plot 2|350.00|seed
+R/WF/3|2007|03-Nov-06|p|all plots|Piece|4.00|l200 I'ma
+R/WF/3|2007|08-Dec-06|p|all plots|Entice|7.00|kgha
+R/WF/3|2007|12-Mar-07|a|all plots|springtined fallow, plot 1|None|None
+R/WF/3|2007|11-Apr-07|p|all plots|Pacifica - wheat|0.50|kg/200 ha
+R/WF/3|2007|11-Apr-07|p|all plots|Biopower - wheat|1.00|V200 I'ha
+R/WF/3|2007|23-Apr-07|p|all plots|recleaned crop Wanderer|1.00|V200 Ia
+R/WF/3|2007|23-Apr-07|p|all plots|Dec|1.00|V200 I'ha
+R/WF/3|2007|02-May-07|a|all plots|power harrowed fallow plots|None|None
+R/WF/3|2007|22-May-07|p|all plots|Amistar Opti|1.25|v200 Simba
+R/WF/3|2007|22-May-07|p|all plots|Opus|0.80|V200 Ilha
+R/WF/3|2007|06-Jun-07|a|all plots|rotavated plants|None|None
+R/WF/3|2007|14-Jun-07|a|all plots|rotavated plants|None|None
+R/WF/3|2007|26-July-07|a|all plots|rotavated fallow|None|None
+R/WF/3|2007|27-Aug-07|a|all plots|combine harvest and crop straw - O8E's|None|None
+R/WF/3|2007|03-Sep-07|a|all plots|combine harvest, plots for yield|None|None
+R/WF/3|2007|04-Sep-07|a|all plots|swathed, sample, baled and weight straw|None|None
+R/WF/3|2008|30-Sep-07|p|all plots|glyphosate 360|3.00|V200 had
+R/WF/3|2008|10-Oct-07|a|all plots|ploughed|None|None
+R/WF/3|2008|22-Oct-07|a|all plots|Combination drilled, plot 1 Hereward tr Redigo Tin + water, plot 1|400.00|seed?
+R/WF/3|2008|23-Oct-07|a|all plots|rolled|None|None
+R/WF/3|2008|30-Oct-07|p|all plots|Huron|5.00|kg/ha
+R/WF/3|2008|2-Nov-07|p|all plots|Liberator wheat plots 0.60|1200|had
+R/WF/3|2008|2-Nov-07|p|all plots|Alpha Trifluralin 48 EC wheat plot 2.00|1200|had
+R/WF/3|2008|17-Nov-07|p|all plots|Stomp 400 SC 3.30|1200|had
+R/WF/3|2008|17-Nov-07|p|all plots|Arelon 500|2.00|V200 had
+R/WF/3|2008|17-Nov-07|p|all plots|Hallmark with Zeon Technology|50.00|ml’200 had
+R/WF/3|2008|8-May-08|p|all plots|Dec|1.00|V150 had
+R/WF/3|2008|8-May-08|p|all plots|Bravo 500|0.75|V150 had
+R/WF/3|2008|8-May-08|p|all plots|flexitined|0.20|V150 ha
+R/WF/3|2008|8-May-08|p|all plots|BASF 3C Chlormequat 720|1.00|V150 had
+R/WF/3|2008|19-May-08|p|all plots|ally Max SX wheat|42.00|@/200 ha
+R/WF/3|2008|19-May-08|p|all plots|Starane 2 wheat|0.75|V200 had
+R/WF/3|2008|31-May-08|p|all plots|Amistar Opli 1.25|1200|had
+R/WF/3|2008|31-May-08|p|all plots|Opus Team 1.00|1200|had
+R/WF/3|2008|2-Jun-08|a|all plots|power harrowed fallow|None|None
+R/WF/3|2008|16-Jun-08|a|all plots|mow / rotavated plants|None|None
+R/WF/3|2008|14-Jul-08|a|all plots|flexitined fallow plot|None|None
+R/WF/3|2008|15-Jul-08|a|all plots|power harrowed fallow plot|None|None
+R/WF/3|2008|25-Jul-08|a|all plots|Rogue wild thistles/ weeds|None|None
+R/WF/3|2008|27-Aug-08|a|all plots|combine harvest, plots for yield, swathed straw sample, baled and weight straw|None|None
+R/WF/3|2008|30|Aug-08|all plots|a baled|None|None
+R/WF/3|2009|10-Oct-08|a|all plots|ploughed N|None|None
+R/WF/3|2009|11-Oct-08|a|all plots|cultipressed|None|None
+R/WF/3|2009|20-Oct-08|a|all plots|Combination drilled Hereward tr Redigo water|400.00|seeds/m2
+R/WF/3|2009|17-Dec-08|p|all plots|Stomp 400 SC|3.30|Ivha
+R/WF/3|2009|17-Dec-08|p|all plots|Arelon 500|3.00|ha
+R/WF/3|2009|17-Dec-08|p|all plots|Hallmark with Zeon Technology|50.00|mbha
+R/WF/3|2009|26-Mar-09|a|all plots|springtined - fallow area only|None|None
+R/WF/3|2009|20-Apr-09|p|all plots|Cherokee|1.00|had
+R/WF/3|2009|02-May-09|p|all plots|Piece|1.00|had
+R/WF/3|2009|02-May-09|p|all plots|Bravo 500|1.00|had
+R/WF/3|2009|02-May-09|p|all plots|Talus|0.13|had
+R/WF/3|2009|02-May-09|p|all plots|BASF 3C Chlormequat 720|225|had
+R/WF/3|2009|04-May-09|p|all plots|ally Max SX|42.00|g/ha
+R/WF/3|2009|04-May-09|p|all plots|Agnguard Fluroxypyr|0.75|had
+R/WF/3|2009|28-May-09|p|all plots|Brus|1.50|had
+R/WF/3|2009|04-May-09|p|all plots|Amistar Opti|1.25|had
+R/WF/3|2009|02-Jun-09|a|all plots|mow / rotavated plants|None|None
+R/WF/3|2009|03-Aug-09|a|all plots|rotavated fallow|None|None
+R/WF/3|2009|15-Aug-09|a|all plots|combine harvest, plots for yield|None|None
+R/WF/3|2009|15-Aug-09|a|all plots|sample. baled and weight straw|None|None
+R/WF/3|2010|30-Sep-09|a|all plots|ploughed|None|None
+R/WF/3|2010|01-Oct-09|a|all plots|cultipressed|None|None
+R/WF/3|2010|05-Oct-09|s|all plots|Combination drilled Hereward - At 350 seed per m2|145.00|kg/ha
+R/WF/3|2010|05-Oct-09|p|all plots|Liberator - 200 It water|0.60|ha
+R/WF/3|2010|10-Apr-10|p|all plots|Cherokee - 146 | water|1.00|ha
+R/WF/3|2010|18-Apr-10|p|all plots|Attribut - 146 It water|100.00|g/ha
+R/WF/3|2010|18-Apr-10|p|all plots|ABe - 146 It water|1.00|I'ha
+R/WF/3|2010|18-Apr-10|p|all plots|Oxytril CM - 146 It water|1.00|I'ha
+R/WF/3|2010|27-Apr-10|a|all plots|Alexis tines - fallow plots|None|None
+R/WF/3|2010|27-Apr-10|a|all plots|harrowed - fallow plots|None|None
+R/WF/3|2010|06-May-10|p|all plots|Bravo 500 - 200 It water|1.00|ha
+R/WF/3|2010|06-May-10|p|all plots|take - 200 It water|1.00|ha
+R/WF/3|2010|06-May-10|p|all plots|Chlormequat 3C - 200 It water|225|ha
+R/WF/3|2010|18-May-10|p|all plots|Tomahawk|1.00|ha
+R/WF/3|2010|18-May-10|p|all plots|Cleancrop Gallifrey|1.00|I'ha
+R/WF/3|2010|20-May-10|a|all plots|rotavated - fallow area|None|None
+R/WF/3|2010|02-Jun-10|p|all plots|Comat - 200 It water|0.60|had
+R/WF/3|2010|02-Jun-10|p|all plots|Opus - 200 It water|0.60|ha
+R/WF/3|2010|21-Jul-10|a|all plots|rotavated - fallow|None|None
+R/WF/3|2010|31-Aug-10|a|all plots|combine harvest, plots for yield|None|None
+R/WF/3|2010|31-Aug-10|a|all plots|sample, baled and weight straw|None|None
+R/WF/3|2010|03-Sep-10|a|all plots|combine harvest discards|None|None
+R/WF/3|2010|04-Sep-10|a|all plots|baled|None|None
+R/WF/3|2010|22-Sep-10|a|all plots|others Opera - removed bales|None|None
+R/WF/3|2011|10-Oct-10|a|all plots|ploughed|None|None
+R/WF/3|2011|13-Oct-10|a|all plots|cultipressed|None|None
+R/WF/3|2011|15-Oct-10|s|all plots|drilled Hereward trt Redigo water - 350 seed / are sq|158|kg/ha
+R/WF/3|2011|16-Oct-10|a|all plots|rolled|None|None
+R/WF/3|2011|17-Oct-10|p|all plots|sprayed Regatta - water volume = 200 had|0.6|had
+R/WF/3|2011|24-Mar-11|a|all plots|Alexis tines fallow area only|None|None
+R/WF/3|2011|28-Mar-11|p|all plots|sprayed Cherokee- water volume = 118 IVha. applied to WW area only|125|had
+R/WF/3|2011|13-Apr-11|a|all plots|Alexis tines - fallow plot|None|None
+R/WF/3|2011|14-Apr-11|a|all plots|power harrowed - fallow section|None|None
+R/WF/3|2011|05-May-11|p|all plots|sprayed Bravo 500 - 200 Ivha water|1.0|had
+R/WF/3|2011|05-May-11|p|all plots|sprayed take - 200 Ivha water|1.0|ha
+R/WF/3|2011|05-May-11|p|all plots|sprayed Agriguard Chlormequat 720 - 200 Ivha water|225|ha
+R/WF/3|2011|05-May-11|p|all plots|sprayed ally Max - 200 Ivha water|42|had
+R/WF/3|2011|05-May-11|p|all plots|sprayed Starane 2 - 200 Ivha water|0.75|Vlha
+R/WF/3|2011|16-May-11|a|all plots|cut plants|None|None
+R/WF/3|2011|19-May-11|p|all plots|sprayed Opus- 100 I'ha water|08|Ilha
+R/WF/3|2011|19-May-11|p|all plots|Comat 200- 100 I'ha water|06|Ilha
+R/WF/3|2011|19-May-11|p|all plots|Bravo 500 - 100 I'ha water|10|ha
+R/WF/3|2011|23-May-11|a|all plots|cut plants|None|None
+R/WF/3|2011|23-May-11|a|all plots|rotavated fallow|None|None
+R/WF/3|2011|20-Jun-11|a|all plots|cut plants|None|None
+R/WF/3|2011|01-Aug-11|a|all plots|cut plants|None|None
+R/WF/3|2011|12-Aug-11|a|all plots|combined O+Es - Opened up material with Mercia combine ready for yield to be taken|None|None
+R/WF/3|2011|12-Aug-11|a|all plots|baled O+Es - baled area discard area cut 10 open out material|None|None
+R/WF/3|2011|03-Sep-11|a|all plots|combined for yield|None|None
+R/WF/3|2011|03-Sep-11|a|all plots|Straw weights|None|None
+R/WF/3|2011|05-Sep-11|a|all plots|combined - discards|None|None
+R/WF/3|2012|03-Oct-11|a|all plots|ploughed .|None|None
+R/WF/3|2012|04-Oct-11|a|all plots|cultipressed -|None|None
+R/WF/3|2012|12-Oct-11|a|all plots|rolled -|None|None
+R/WF/3|2012|14-Oct-11|p|all plots|sprayed Liberator in 200Vha of water|0.6|ha
+R/WF/3|2012|22-Feb-12|a|all plots|drilled Crusoe trt Redigo water|450|Sm?
+R/WF/3|2012|22-Mar-12|p|all plots|sprayed Cherokee SE in 200Vha of water|1.0|l/ha
+R/WF/3|2012|22-Mar-12|p|all plots|sprayed Justice in 200Vha of water|0.125|l/ha
+R/WF/3|2012|10-Apr-12|a|all plots|rotavated allow area -|None|None
+R/WF/3|2012|05-May-12|p|all plots|sprayed ally, in 2001'ha of water|42|g/ha
+R/WF/3|2012|05-May-12|p|all plots|sprayed Bravo 500, in 2001'ha of water|2.0|l/ha
+R/WF/3|2012|05-May-12|p|all plots|sprayed take, in 2001'ha of water|1.0|l/ha
+R/WF/3|2012|05-May-12|p|all plots|sprayed Agriguard in 2001'ha of water|2.25|l/ha
+R/WF/3|2012|05-May-12|p|all plots|sprayed Starane 2 in 2001'ha of water|0.5|l/ha
+R/WF/3|2012|23-May-12|p|all plots|sprayed Comat|0.6|l/ha
+R/WF/3|2012|23-May-12|p|all plots|sprayed Bravo 500|1.0|l/ha
+R/WF/3|2012|23-May-12|p|all plots|sprayed Opus|0.8|l/ha
+R/WF/3|2012|13-Jun-12|p|all plots|sprayed Amistar|0.3|l/ha
+R/WF/3|2012|13-Jun-12|p|all plots|sprayed Prosaro|0.7|l/ha
+R/WF/3|2012|14-Jun-12|a|all plots|Cutpaths -|None|None
+R/WF/3|2012|01-Aug-12|a|all plots|taking out experiment -|None|None
+R/WF/3|2012|07-Aug-12|a|all plots|plants cut and cultivated -|None|None
+R/WF/3|2012|23-Aug-12|a|all plots|Harvested. -|None|None
+R/WF/3|2012|24-Aug-12|a|all plots|Harvested O+E's -|None|None
+R/WF/3|2012|24-Aug-12|a|all plots|sampled baled and weighed -|None|None
+R/WF/3|2012|14-Sep-12|a|all plots|rotavated fallow .|None|None
+R/WF/3|2012|20-Sep-12|p|all plots|sprayed Whole field w/ Weedazol EW|20|ha
+R/WF/3|2012|04-Oct-12|a|all plots|ploughed .|None|None
+R/WF/3|2013|22-Feb-13|a|all plots|drilled Crusoe trt Redigo water|450|seed
+R/WF/3|2013|01-Mar-13|p|all plots|Pre-em herbicide Defy|3.0|had
+R/WF/3|2013|01-Mar-13|p|all plots|Pre-em herbicide Stomp Aqua|2.9|l/ha
+R/WF/3|2013|2-Apr-13|a|all plots|springtined plot 1|None|None
+R/WF/3|2013|26-May-13|p|all plots|sprayed Simba (Metsulfuron-methyl -20%)|30|had
+R/WF/3|2013|26-May-13|p|all plots|sprayed Vortex (nonylphenoxypolyathanoxyathanol)|15|had
+R/WF/3|2013|22-May-13|a|all plots|rotavated fallow|None|None
+R/WF/3|2013|19-Jun-13|a|all plots|cut plants _— —|None|None
+R/WF/3|2013|04-Jul-13|a|all plots|cut plants -— ——|None|None
+R/WF/3|2013|11-Jul-13|a|all plots|rotavated fallow -_ —_|None|None
+R/WF/3|2013|19-Jul-13|a|all plots|cut plants, - —_|None|None
+R/WF/3|2013|12-Aug-13|a|all plots|Claas - Harvested, opened up except. — -—|None|None
+R/WF/3|2013|28-Aug-13|a|all plots|sample - Harvested all plots _|None|None
+R/WF/3|2013|29-Aug-13|a|all plots|sample - Harvested = —|None|None
+R/WF/3|2013|29-Aug-13|a|all plots|baled sampled and weighed - —|None|None
+R/WF/3|2013|31-Aug-13|a|all plots|Claas - Harvested OE's — —|None|None
+R/WF/3|2014|01-Oct-13|a|all plots|toppings .|None|None
+R/WF/3|2014|09-Oct-13|a|all plots|ploughed -|None|None
+R/WF/3|2014|10-Oct-13|a|all plots|cultipressed|None|None
+R/WF/3|2014|18-Oct-13|s|all plots|drilled all plots - Apr. Crusoe|400|seed
+R/WF/3|2014|27-Nov-13|p|all plots|applied Mar Slug plants|4|kg/ha
+R/WF/3|2014|27-Nov-13|p|all plots|sprayed Hallmark|50|miha
+R/WF/3|2014|27-Nov-13|p|all plots|sprayed Liberator|600|miha
+R/WF/3|2014|27-Nov-13|p|all plots|sprayed Stomp|1.7|BLA
+R/WF/3|2014|03-Apr-14|p|all plots|sprayed Premis|1.0|had
+R/WF/3|2014|03-Apr-14|p|all plots|sprayed Bravo 500|1.0|BLA
+R/WF/3|2014|03-Apr-14|p|all plots|sprayed BASF 3C 720|1.75|BLA
+R/WF/3|2014|04-Apr-14|a|all plots|rotavated all fallow plots -|None|None
+R/WF/3|2014|09-Apr-14|a|all plots|harrowed - fallow and fallow plots|None|None
+R/WF/3|2014|28-Apr-14|a|all plots|sprayed King|1.25|BLA
+R/WF/3|2014|21-Aug-14|a|all plots|Harvested|None|None
+R/WF/3|2015|08/10/2014|a|all plots|ploughed (thrown not) .|None|None
+R/WF/3|2015|28/10/2014|a|all plots|drilled WW Crusoe dr Redigo|350|seeds/m2
+R/WF/3|2015|10/11/2014|p|all plots|sprayed Crystal|4|wheat
+R/WF/3|2015|04/12/2014|p|all plots|sprayed Hallmark|50|wheat
+R/WF/3|2015|05/04/2015|p|all plots|sprayed Premis|1|ha
+R/WF/3|2015|05/04/2015|p|all plots|sprayed Bravo 500|1|wheat
+R/WF/3|2015|05/04/2015|P|all plots|sprayed Chlormequat 750|125|wheat
+R/WF/3|2015|05/04/2015|p|all plots|sprayed Moddus|150|miha
+R/WF/3|2015|20/04/2015|a|all plots|harrowed fallow -|None|None
+R/WF/3|2015|27/04/2015|p|all plots|sprayed King|125|wheat
+R/WF/3|2015|27/04/2015|p|all plots|sprayed baler|700|miha
+R/WF/3|2015|11/05/2015|a|all plots|harrowed all fallow ground|None|None
+R/WF/3|2015|27/05/2015|p|all plots|sprayed ally Max|30|gmha
+R/WF/3|2015|27/05/2015|p|all plots|sprayed Bassoon|750|miha
+R/WF/3|2015|27/05/2015|p|all plots|sprayed Gemstone|1|Lk
+R/WF/3|2015|27/05/2015|p|all plots|sprayed Bravo500 .|None|None
+R/WF/3|2015|15/06/2015|p|all plots|sprayed iprodione onto WW|500|miha
+R/WF/3|2015|16/06/2015|a|all plots|rotavated fallow :|None|None
+R/WF/3|2015|13/09/2015|a|all plots|Harvested all plots for grain yield . .|None|None
+R/WF/3|2015|13/09/2015|a|all plots|sampled baled and weighed|None|None
+R/WF/3|2015|17/09/2015|a|all plots|removed ground bales from field|None|None
+R/WF/3|2016|09/10/2015|a|all plots|ploughed - thrown out|None|None
+R/WF/3|2016|09/10/2015|a|all plots|topped all field and experiment - Batwing|None|None
+R/WF/3|2016|15/10/2015|a|all plots|harrowed - seed Bead preparation|None|None
+R/WF/3|2016|15/10/2015|s|all plots|drilled Winter wheat Apr. Crusoe trt Redigo|350|seed?
+R/WF/3|2016|18/10/2015|a|all plots|during rolled all new drill|None|None
+R/WF/3|2016|19/10/2015|p|all plots|sprayed Liberater - wheat only|0.6|It/ha
+R/WF/3|2016|19/10/2015|p|all plots|sprayed Stomp Aqua - wheat only|1.75|It/ha
+R/WF/3|2016|12/11/2015|p|all plots|sprayed Hallmark|40|ml/ha
+R/WF/3|2016|03/12/2015|p|all plots|applied TDS Mar|5|kg/ha
+R/WF/3|2016|12/12/2015|p|all plots|sprayed Hallmark|40|ml/ha
+R/WF/3|2016|08/04/2016|p|all plots|sprayed Moddus|150|ml/ha
+R/WF/3|2016|08/04/2016|p|all plots|sprayed BASF 3C Chlormequat750|1.25|It/ha
+R/WF/3|2016|08/04/2016|p|all plots|sprayed Odin|500|ml/ha
+R/WF/3|2016|08/04/2016|p|all plots|sprayed Mirage 40ec|500|ml/ha
+R/WF/3|2016|09/04/2016|p|all plots|sprayed Bravo500|1|It/ha
+R/WF/3|2016|05/05/2016|p|all plots|sprayed Keystone - wheat only|800|ml/ha
+R/WF/3|2016|05/05/2016|p|all plots|sprayed baler - wheat only|700|ml/ha
+R/WF/3|2016|25/05/2016|p|all plots|sprayed Simba SX - wheat only|20|gms/ha
+R/WF/3|2016|25/05/2016|p|all plots|sprayed Vortex - wheat only|1.5|It/ha
+R/WF/3|2016|25/05/2016|p|all plots|sprayed spot - wheat only|250|ml/ha
+R/WF/3|2016|09/07/2016|p|all plots|sprayed Cello|550|ml/ha
+R/WF/3|2016|09/07/2016|p|all plots|sprayed Hallmark|50|ml/ha
+R/WF/3|2016|23/08/2016|a|all plots|topped Up remaining crop (Harvest)|None|None
+R/WF/3|2016|26/08/2016|a|all plots|ground baled and removed straw|None|None
+R/WF/3|2018|28/09/2016|a|plots|ploughed - thrown not|None|None
+R/WF/3|2018|02/10/2016|p|plots|sprayed Buffalo Elite|1|It/ha
+R/WF/3|2018|02/10/2016|p|plots|sprayed Samurai|3|It/ha
+R/WF/3|2018|06/10/2016|a|plots|cultipressed all ground -|None|None
+R/WF/3|2018|10/10/2016|a|plots|during rolled all new drill|None|None
+R/WF/3|2018|10/10/2016|s|plots|drilled Crusoe trt Redigo Pro + water|350|seed?
+R/WF/3|2018|10/10/2016|a|plots|cultipressed all sites and surrounds|None|None
+R/WF/3|2018|15/10/2016|p|plots|sprayed Liberator|600|ml/ha
+R/WF/3|2018|15/10/2016|p|plots|sprayed Defy|3|It/ha
+R/WF/3|2018|15/10/2016|p|plots|sprayed Decoy|400|ml/ha
+R/WF/3|2018|02/12/2016|p|plots|sprayed Hallmark|50|ml/ha
+R/WF/3|2018|04/04/2017|f|plots|applied Nitram|145|kg/ha
+R/WF/3|2018|05/04/2017|p|plots|sprayed Premis|1|It/ha
+R/WF/3|2018|05/04/2017|p|plots|sprayed Claw 500|1|It/ha
+R/WF/3|2018|05/04/2017|p|plots|sprayed 3C Chlormequat 750|2|lIt/ha
+R/WF/3|2018|27/04/2017|p|plots|sprayed keystone|600|ml/ha
+R/WF/3|2018|27/04/2017|p|plots|sprayed epic|400|ml/ha
+R/WF/3|2018|27/04/2017|p|plots|sprayed baler 720sc|700|ml/ha
+R/WF/3|2018|19/06/2017|p|plots|sprayed Fezan (Tebuconazole)|750|ml/ha
+R/WF/3|2018|24/08/2017|a|plots|Harvested wheat|None|None
+R/WF/3|2018|07/09/2017|a|plots|Straw baled and removed|None|None
