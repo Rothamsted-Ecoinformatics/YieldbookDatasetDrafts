@@ -1,0 +1,230 @@
+R/AG/6|1952|all plots|4-Sept-1951||diary record|ploughed
+R/AG/6|1952|all plots|13-Feb-1952||diary record|ploughed
+R/AG/6|1952|all plots|5-Sept-1952||diary record|ploughed
+R/AG/6|1953|all plots|5-Sept-1952||diary record|ploughed
+R/AG/6|1953|all plots|2-Mar-1953||diary record|seed drilled Plumage Archer at 3 bushels per acre
+R/AG/6|1953|all plots|26-May-1953||diary record|Sprayed with MCPA, 2 pints per acre
+R/AG/6|1953|all plots|28-Aug-1953||diary record|harvested
+R/AG/6|1954|all plots|29-Sept-1953||diary record|ploughed
+R/AG/6|1954|all plots|6-Jan-1954||diary record|Ground chalk applied to certain areas
+R/AG/6|1954|all plots|19-Mar-1954||diary record|Ground chalk applied to certain areas
+R/AG/6|1954|all plots|19-Mar-1954||diary record|basal dressing of 2 cwt sulphate of ammonia per acre applied
+R/AG/6|1954|all plots|18-June-1954||diary record|seed drilled Plumage Archer at 3 bushels per acre, basal dressing of 3 cwt sulphate of ammonia per acre applied
+R/AG/6|1954|all plots|3-Oct-1954||diary record|harvested
+R/AG/6|1955|all plots|4-Nov-1954||diary record|ploughed
+R/AG/6|1955|all plots|4-Apr-1955||diary record|seed drilled Koga II at 2 bushels per acre
+R/AG/6|1955|all plots|5-Apr-1955||diary record|basal dressing of nitro-chalk, 4 cwt per acre applied
+R/AG/6|1955|all plots|23-May-1955||diary record|Sprayed with MCPA at 2.25 plots. in 18 gallons per acre
+R/AG/6|1955|all plots|2-Sept-1955||diary record|Combine harvested
+R/AG/6|1956|all plots|8-Oct-1955|10-Oct-1955|diary record|ploughed
+R/AG/6|1956|all plots|29-Oct-1955||diary record|seed drilled S.Q.Giant at 275 lbs per acre
+R/AG/6|1956|all plots|4-Oct-1956|6-Oct-1956|diary record|Combine harvested
+R/AG/6|1957|all plots|15-Oct-1956||diary record|ploughed
+R/AG/6|1957|all plots|25-Apr-1957||diary record|5 cwt sulphate of ammonia per acre. applied
+R/AG/6|1957|all plots|30-Apr-1957||diary record|Ridged, potash machine planted Ulster Supreme
+R/AG/6|1957|all plots|9-July-1957||diary record|Earthed up
+R/AG/6|1957|all plots|31-July-1957||diary record|Sprayed with copper fungicide, 5 1b in 40 gallons per acre
+R/AG/6|1957|all plots|21-Aug-1957||diary record|Sprayed with copper fungicide, 5 1b in 40 gallons per acre
+R/AG/6|1957|all plots|3-Sept-1957||diary record|Sprayed with copper fungicide, 5 1b in 40 gallons per acre
+R/AG/6|1957|all plots|3-Oct-1957||diary record|Sprayed with sulphuric acid, 20% BOV at 100 gallons per acre
+R/AG/6|1957|all plots|7-Oct-1957||diary record|Sprayed with sulphuric acid, 20% BOV at 100 gallons per acre on part area
+R/AG/6|1957|all plots|16-Oct-1957|22-Oct-1957|diary record|Lifted
+R/AG/6|1958|all plots|22-Nov-1957||diary record|ploughed
+R/AG/6|1958|all plots|23-Apr-1958||diary record|Nitrogen fertilizer applied to grass 0.8 cwt N per acre as nitro-chalk
+R/AG/6|1958|all plots|2-Apr-1958||diary record|seed sown Italian Ryegrass S22 at 60 1b per acre
+R/AG/6|1958|all plots|27-May-1958||diary record|The whole field sprayed with MCPA at 4 pints in 40 gallons per acre;
+R/AG/6|1958|all plots|8-July-1958||diary record|The whole field sprayed with MCPA at 6 pints in 4O gallons per acre
+R/AG/6|1958|all plots|31-July-1958||diary record|Cut
+R/AG/6|1958|all plots|28-Oct-1958||diary record|Cut
+R/AG/6|1958|all plots|1-Aug-1958||diary record|Nitrogen fertilizer applied to grass 0.8 cwt N per acre as nitro-chalk
+R/AG/6|1958|all plots|8-Aug-1958||diary record|Fallow plots ploughed
+R/AG/6|1959|all plots|10-Feb-1959||diary record|Ground chalk applied to plots 1 2 at 36 cwt per acre
+R/AG/6|1959|all plots|12-Feb-1959||diary record|Fallow halves ploughed
+R/AG/6|1959|Grass|10-Apr-1959||diary record|Nitra-Shell applied
+R/AG/6|1959|Grass|27-May-1959||diary record|Cut for silage
+R/AG/6|1959|Grass|7-July-1959||diary record|Cut for silage
+R/AG/6|1959|Grass|24-Aug-1959||diary record|Cut for silage
+R/AG/6|1959|Grass|27-May-1959||diary record|Nitra-Shell at 0.80 cwt N applied
+R/AG/6|1959|Grass|7-July-1959||diary record|Nitra-Shell at 0.80 cwt N applied
+R/AG/6|1959|Grass|24-Aug-1959||diary record|nitro-chalk 21 at 0.80 cwt N applied
+R/AG/6|1959|Barley|2-Apr-1959||diary record|Fertilizers broadcast 0.50 cwt N per acre as sulphate of ammonia at 0.60 cwt K20 per acre as sulphate of potash, treatment P at 0 cwt P2O5 as superphosphate, treatment P at 0.25 cwt P2O5 as superphosphate, treatment P at 1.00 cwt P2O5 as superphosphate, seed drilled Proctor at 2.5 bushels per acre
+R/AG/6|1959|Barley|12-Aug-1959||diary record|harvested
+R/AG/6|1959|Potatoes|11-May-1959||diary record|Ridged, fertilizers applied 1.00 cwt N per acre as sulphate of ammonia and 1.20 cwt K20 per acre as sulphate of potash, treatment P at 0 cwt P2O5 as superphosphate, treatment P at 0.25 cwt P2O5 as superphosphate, treatment P at 1.00 cwt P2O5 as superphosphate, potash planted Majestic (chitted)
+R/AG/6|1959|Sugar beet|5-May-1959||diary record|Fertilizers applied 1.00 cwt N per acre as sulphate of ammonia at 1.20 cwt K20 per acre as sulphate of potash, treatment P at 0 cwt P2O5 as superphosphate, treatment P at 0.25 cwt P2O5 as superphosphate, treatment P at 1.00 cwt P2O5 as superphosphate, seed drilled Klein E at 19 1b. per acre
+R/AG/6|1959|Sugar beet|26-May-1959||diary record|Hand sprayed with miscible DDT at 3 pints in 8 gallons per acre against mangold fly
+R/AG/6|1959|Sugar beet|19-June-1959|27-June-1959|diary record|Singled
+R/AG/6|1959|Sugar beet|3-July-1959||diary record|Hand sprayed with demeton methyl at 16 fluid oz, in 8 gallons per acre against aphis
+R/AG/6|1959|Sugar beet|18-Nov-1959||diary record|Lifted
+R/AG/6|1960|All plots|23-Nov-1959||diary record|ploughed
+R/AG/6|1960|Grass,|8-Apr-1960||diary record|seed drilled S37 Cocksfoot at 40 1b per acre
+R/AG/6|1960|Grass,|19-May-1960||diary record|nitro-chalk at 0.80 cwt N applied
+R/AG/6|1960|Grass,|30-June-1960||diary record|Sprayed with CMPP at 5 pints in 18 gallons per acre; parts of plots 4 5 6 re-drilled
+R/AG/6|1960|Grass,|7-July-1960||diary record|Part of plot 3 re-drilled
+R/AG/6|1960|Grass,|22-July-1960||diary record|plots 1 2 cut, other plots topped
+R/AG/6|1960|Grass,|26-July-1960||diary record|nitro-chalk at 0.80 cwt N applied
+R/AG/6|1960|Grass,|26-Sept-1960||diary record|plots 1 2 cut (2nd cut), plots 3 4 5 6 cut (1st cut)
+R/AG/6|1960|Barley|7-Apr-1960||diary record|treatment fertilisers applied, treatment P at 0 cwt P2O5 as superphosphate, treatment P at 0.25 cwt P2O5 as superphosphate, treatment P at 1.00 cwt P2O5 as superphosphate, treatment P at 1.50 cwt P2O5 as superphosphate
+R/AG/6|1960|Barley|8-Apr-1960||diary record|seed drilled Proctor at 3 bushels per acre; basal NK applied 0.6 cwt N per acre as sulphate of ammonia at 0.6 cwt K20 per acre as sulphate of potash
+R/AG/6|1960|Barley|30-May-1960||diary record|Sprayed with CMPP at 4 pints in 25 gallons per acre
+R/AG/6|1960|Barley|18-Aug-1960|25-Aug-1960|diary record|harvested
+R/AG/6|1960|Potatoes|14-Apr-1960||diary record|Rotary cultivated
+R/AG/6|1960|Potatoes|19-Apr-1960||diary record|Ridged
+R/AG/6|1960|Potatoes|20-Apr-1960||diary record|Fertilisers applied 1.2 cwt N per acre as sulphate of ammonia at 1.2 cwt K20 per acre as sulphate of potash; potash hand planted Majestic (chitted)
+R/AG/6|1960|Potatoes|9-June-1960||diary record|Earthed up
+R/AG/6|1960|Potatoes|15-July-1960||diary record|Sprayed with copper fungicide at 5 1b in 40 gallons per acre
+R/AG/6|1960|Potatoes|10-Aug-1960||diary record|Sprayed with copper fungicide at 5 1b in 40 gallons per acre
+R/AG/6|1960|Potatoes|27-July-1960||diary record|Sprayed with demeton methyl at 12 fluid oz in 25 gallons per acre
+R/AG/6|1960|Potatoes|27-Sept-1960||diary record|Lifted
+R/AG/6|1960|Sugar beet|7-Apr-1960||diary record|Fertilisers applied 1.2 cwt N per acre as sulphate of ammonia at 1.2 cwt K20 per acre as sulphate of potash
+R/AG/6|1960|Sugar beet|8-Apr-1960||diary record|seed drilled Klein E at 20 1b per acre
+R/AG/6|1960|Sugar beet|7-May-1960||diary record|Dusted with aldrin against flea beatle
+R/AG/6|1960|Sugar beet|8-June-1960||diary record|Singled
+R/AG/6|1960|Sugar beet|22-June-1960||diary record|Sprayed with demeton methyl at 12 fluid oz in 25 gallons per acre
+R/AG/6|1960|Sugar beet|15-July-1960||diary record|Sprayed with demeton methyl at 12 fluid oz in 25 gallons per acre
+R/AG/6|1960|Sugar beet|27-July-1960||diary record|Sprayed with demeton methyl at 12 fluid oz in 25 gallons per acre
+R/AG/6|1960|Sugar beet|18-Oct-1960||diary record|harvested
+R/AG/6|1961|Grass|9-Mar-1961||diary record|nitro-chalk at 0.80 cwt N applied
+R/AG/6|1961|Grass|17-May-1961||diary record|Cut
+R/AG/6|1961|Grass|18-July-1961||diary record|Cut
+R/AG/6|1961|Grass|15-Sept-1961||diary record|Cut
+R/AG/6|1961|Grass|18-July-1961||diary record|nitro-chalk at 0.80 cwt N applied after 2nd cut
+R/AG/6|1961|Fallow areas.|17-Jan-1961||diary record|ploughed
+R/AG/6|1961|Fallow areas.|11-May-1961||diary record|rotary cultivated
+R/AG/6|1961|Fallow areas.|3-June-1961||diary record|rotary cultivated
+R/AG/6|1961|Barley|5-Dec-1960||diary record|0.3 cwt K2O as sulphate of potash applied for ploughing in
+R/AG/6|1961|Barley|5-Dec-1960||diary record|treatment P at 0 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Barley|5-Dec-1960||diary record|treatment P at 0.75 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Barley|5-Dec-1960||diary record|treatment P at 1.5 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Barley|17-Jan-1961||diary record|ploughed
+R/AG/6|1961|Barley|16-Mar-1961||diary record|seedbed fertilisers applied, 0.6 cwt N and 0.6 cwt K2O as compound fertiliser (16:0:16)
+R/AG/6|1961|Barley|16-Mar-1961||diary record|treatment P at 0 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1961|Barley|16-Mar-1961||diary record|treatment P at 0.75 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1961|Barley|16-Mar-1961||diary record|treatment P at 1.5 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1961|Barley|16-Mar-1961||diary record|seed drilled Proctor at 3 bushels per acre
+R/AG/6|1961|Barley|9-Aug-1961||diary record|harvested
+R/AG/6|1961|Potatoes:|5-Dec-1960||diary record|treatment P at 0 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Potatoes:|5-Dec-1960||diary record|treatment P at 0.75 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Potatoes:|5-Dec-1960||diary record|treatment P at 1.5 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Potatoes:|17-Jan-1961||diary record|ploughed
+R/AG/6|1961|Potatoes:|7-Mar-1961||diary record|K at 0.6 K20 sulphate of potash applied after ploughing
+R/AG/6|1961|Potatoes:|25-Apr-1961||diary record|Rotary cultivated and ridged, 1.2 cwt N and 1.2 cwt K2O as compound fertiliser (16:0:16) applied in the bouts
+R/AG/6|1961|Potatoes:|25-Apr-1961||diary record|treatment P at 0 P2O5 as superphosphate applied in the bouts
+R/AG/6|1961|Potatoes:|25-Apr-1961||diary record|treatment P at 0.75 P2O5 as superphosphate applied in the bouts
+R/AG/6|1961|Potatoes:|25-Apr-1961||diary record|treatment P at 1.5 P2O5 as superphosphate applied in the bouts
+R/AG/6|1961|Potatoes:|1-May-1961||diary record|potash planted Majestic (chitted)
+R/AG/6|1961|Potatoes:|7-June-1961||diary record|Sprayed 3 times with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/AG/6|1961|Potatoes:|16-June-1961||diary record|Sprayed 3 times with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/AG/6|1961|Potatoes:|11-July-1961||diary record|Sprayed 3 times with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/AG/6|1961|Potatoes:|15-Aug-1961||diary record|Sprayed twice with copper fungicide at 5 1b in 40 gallons per acre
+R/AG/6|1961|Potatoes:|1-Sept-1961||diary record|Sprayed twice with copper fungicide at 5 1b in 40 gallons per acre
+R/AG/6|1961|Potatoes:|25-Sept-1961||diary record|Lifted
+R/AG/6|1961|Sugar beet.|5-Dec-1960||diary record|treatment P at 0 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Sugar beet.|5-Dec-1960||diary record|treatment P at 0.75 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Sugar beet.|5-Dec-1960||diary record|treatment P at 1.5 P2O5 as superphosphate for ploughing in
+R/AG/6|1961|Sugar beet.|17-Jan-1961||diary record|ploughed
+R/AG/6|1961|Sugar beet.|7-Mar-1961||diary record|K at 1.0 K20 sulphate of potash applied after ploughing
+R/AG/6|1961|Sugar beet.|23-Mar-1961||diary record|seedbed fertilisers applied, 1.0 cwt N and 1.0 cwt K2O as compound fertiliser (16:0:16)
+R/AG/6|1961|Sugar beet.|23-Mar-1961||diary record|treatment P at 0 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1961|Sugar beet.|23-Mar-1961||diary record|treatment P at 0.75 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1961|Sugar beet.|23-Mar-1961||diary record|treatment P at 1.5 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1961|Sugar beet.|23-Mar-1961||diary record|seed drilled Klein B at 10 lb per acre (rubbed and graded)
+R/AG/6|1961|Sugar beet.|29-May-1961||diary record|Singled
+R/AG/6|1961|Sugar beet.|7-June-1961||diary record|Sprayed 3 times with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/AG/6|1961|Sugar beet.|16-June-1961||diary record|Sprayed 3 times with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/AG/6|1961|Sugar beet.|11-July-1961||diary record|Sprayed 3 times with demeton methyl at 12 fluid oz in 40 gallons per acre
+R/AG/6|1961|Sugar beet.|10-Oct-1961||diary record|Lifted
+R/AG/6|1962|Grass|19-Mar-1962||diary record|nitro-chalk applied
+R/AG/6|1962|Grass|6-June-1962||diary record|Cut 3 times
+R/AG/6|1962|Grass|20-Aug-1962||diary record|Cut 3 times
+R/AG/6|1962|Grass|2-Oct-1962||diary record|Cut 3 times
+R/AG/6|1962|Grass|2-Oct-1962||diary record|nitro-chalk applied after 2nd cut
+R/AG/6|1962|Fallow areas.|4-Nov-1961||diary record|ploughed
+R/AG/6|1962|Fallow areas.|20-June-1962||diary record|Rotary cultivated
+R/AG/6|1962|Microplots.|12-Oct-1961||diary record|Fertiliser applied for ploughing in
+R/AG/6|1962|Microplots.|21-Oct-1961||diary record|ploughed
+R/AG/6|1962|Barley|12-Oct-1961||diary record|0.3 cwt K2O as sulphate of potash applied for ploughing in
+R/AG/6|1962|Barley|12-Oct-1961||diary record|treatment P at 0 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Barley|12-Oct-1961||diary record|treatment P at 0.75 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Barley|12-Oct-1961||diary record|treatment P at 1.5 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Barley|21-Oct-1961||diary record|ploughed
+R/AG/6|1962|Barley|21-Mar-1962||diary record|seedbed fertilisers applied, 0.6 cwt N and 0.6 cwt K2O as compound fertiliser (16:0:16)
+R/AG/6|1962|Barley|21-Mar-1962||diary record|treatment P at 0 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1962|Barley|21-Mar-1962||diary record|treatment P at 0.75 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1962|Barley|21-Mar-1962||diary record|treatment P at 1.5 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1962|Barley|21-Mar-1962||diary record|seed drilled Proctor at 2.5 bushels per acre
+R/AG/6|1962|Barley|9-May-1962||diary record|Sprayed with CMPP at 5 pints in 50 gallons per acre
+R/AG/6|1962|Potatoes.|12-Oct-1961||diary record|treatment P at 0 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Potatoes.|12-Oct-1961||diary record|treatment P at 0.75 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Potatoes.|12-Oct-1961||diary record|treatment P at 1.5 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Potatoes.|21-Oct-1961||diary record|ploughed
+R/AG/6|1962|Potatoes.|23-Feb-1962||diary record|K at 0.6 K20 sulphate of potash applied after ploughing
+R/AG/6|1962|Potatoes.|27-Apr-1962||diary record|Ridged
+R/AG/6|1962|Potatoes.|27-Apr-1962||diary record|1.2 cwt N and 1.2 cwt K2O as compound fertiliser (16:0:16) applied in the bouts
+R/AG/6|1962|Potatoes.|27-Apr-1962||diary record|treatment P at 0 P2O5 as superphosphate applied in the bouts
+R/AG/6|1962|Potatoes.|27-Apr-1962||diary record|treatment P at 0.75 P2O5 as superphosphate applied in the bouts
+R/AG/6|1962|Potatoes.|27-Apr-1962||diary record|treatment P at 1.5 P2O5 as superphosphate applied in the bouts
+R/AG/6|1962|Potatoes.|27-Apr-1962||diary record|potash planted Majestic (chitted)
+R/AG/6|1962|Potatoes.|14-June-1962||diary record|Sprayed twice with demeton methyl at 12 fluid oz in 50 gallons per acre
+R/AG/6|1962|Potatoes.|17-Aug-1962||diary record|Sprayed twice with demeton methyl at 12 fluid oz in 50 gallons per acre
+R/AG/6|1962|Potatoes.|19-July-1962||diary record|Sprayed four times with copper oxychloride fungicide at 2.3 1b Cu in 40 gallons per acre
+R/AG/6|1962|Potatoes.|1-Aug-1962||diary record|Sprayed four times with copper oxychloride fungicide at 2.3 1b Cu in 40 gallons per acre
+R/AG/6|1962|Potatoes.|10-Aug-1962||diary record|Sprayed four times with copper oxychloride fungicide at 2.3 1b Cu in 40 gallons per acre
+R/AG/6|1962|Potatoes.|5-Sept-1962||diary record|Sprayed four times with copper oxychloride fungicide at 2.3 1b Cu in 40 gallons per acre
+R/AG/6|1962|Potatoes.|8-Oct-1962||diary record|Lifted
+R/AG/6|1962|Sugar beet|12-Oct-1961||diary record|treatment P at 0 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Sugar beet|12-Oct-1961||diary record|treatment P at 0.75 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Sugar beet|12-Oct-1961||diary record|treatment P at 1.5 P2O5 as superphosphate for ploughing in
+R/AG/6|1962|Sugar beet|21-Oct-1961||diary record|ploughed
+R/AG/6|1962|Sugar beet|23-Feb-1962||diary record|K at 1.0 K20 sulphate of potash applied after ploughing
+R/AG/6|1962|Sugar beet|21-Mar-1962||diary record|seedbed fertilisers applied 1.0 cwt N and 1.0 cwt K2O as compound fertiliser (16:0:16)
+R/AG/6|1962|Sugar beet|21-Mar-1962||diary record|treatment P at 0 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1962|Sugar beet|21-Mar-1962||diary record|treatment P at 0.75 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1962|Sugar beet|21-Mar-1962||diary record|treatment P at 1.5 P2O5 as superphosphate broadcast in seedbed
+R/AG/6|1962|Sugar beet|21-Mar-1962||diary record|seed drilled Klein E (rubbed and graded seed) at 10 1b per acre
+R/AG/6|1962|Sugar beet|30-May-1962||diary record|Singled
+R/AG/6|1962|Sugar beet|14-June-1962||diary record|Sprayed four times with demeton methyl at 12 fluid oz in 50 gallons per acre
+R/AG/6|1962|Sugar beet|29-June-1962||diary record|Sprayed four times with demeton methyl at 12 fluid oz in 50 gallons per acre
+R/AG/6|1962|Sugar beet|7-July-1962||diary record|Sprayed four times with demeton methyl at 12 fluid oz in 50 gallons per acre
+R/AG/6|1962|Sugar beet|17-Aug-1962||diary record|Sprayed four times with demeton methyl at 12 fluid oz in 50 gallons per acre
+R/AG/6|1962|Sugar beet|5-Oct-1962||diary record|Lifted
+R/AG/6|1963|Grass|25-Mar-1963||diary record|nitro-chalk applied
+R/AG/6|1963|Grass|6-June-1963||diary record|Cut
+R/AG/6|1963|Grass|15-June-1963||diary record|grass destroyed with paraquat at 2 1b in 4 gallons per acre
+R/AG/6|1963|Fallow areas|8-Apr-1963||diary record|ploughed
+R/AG/6|1964|all plots|27-Nov-1963|2-Dec-1963|diary record|ploughed
+R/AG/6|1964|all plots|11-Mar-1964||diary record|basal K at 10 cwt K2O as muriate of potash to P plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|basal P at 16 cwt P2O5 as superphosphate to K plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment K at 0 cwt K20 as muriate of potash to K0 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment K at 2.5 cwt K20 as muriate of potash to K1 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment K at 5.0 cwt K20 as muriate of potash to K2 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment K at 10.0 cwt K20 as muriate of potash to K4 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment P at 0 cwt P2O5 as superphosphate to P0 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment P at 4 cwt P2O5 as superphosphate to P1 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment P at 8 cwt P2O5 as superphosphate to P2 plots
+R/AG/6|1964|all plots|11-Mar-1964||diary record|treatment P at 16 cwt P2O5 as superphosphate to P4 plots
+R/AG/6|1964|Grass: Old grass|17-Oct-1963||diary record|Sprayed with dalapon at 11 1b a.e. in 40 gals
+R/AG/6|1964|Grass: Old grass|8-May-1964||diary record|seed sown at 30 1b with Timothy S51 seedbed nitro-chalk at 0.8 cwt N applied
+R/AG/6|1964|Grass: Old grass|10-June-1964||diary record|Sprayed with 24 - D butoxyathylester at 0.44 1b a.e. in 40 gals
+R/AG/6|1964|Grass: Old grass|20-Aug-1964||diary record|Cut for silage
+R/AG/6|1965|Grass:|1-Apr-1965||diary record|nitro-chalk applied
+R/AG/6|1965|Grass:|19-May-1965||diary record|Cut 3 times for silage
+R/AG/6|1965|Grass:|26-July-1965||diary record|Cut 3 times for silage
+R/AG/6|1965|Grass:|6-Oct-1965||diary record|Cut 3 times for silage
+R/AG/6|1965|Grass:|19-May-1965||diary record|nitro-chalk at 0.8 cwt N applied
+R/AG/6|1965|Grass:|26-July-1965||diary record|nitro-chalk at 0.8 cwt N applied
+R/AG/6|1965|Fallow:|19-Oct-1964||diary record|ploughed
+R/AG/6|1965|Fallow:|30-June-1965||diary record|Rotary cultivated
+R/AG/6|1965|Fallow:|6-Aug-1965||diary record|Chisel ploughed
+R/AG/6|1966|Grass|25-May-1966||diary record|P and K fertilisers applied
+R/AG/6|1966|Grass|25-May-1966||diary record|K at 1.48 cwt K2O as muriate of potash to plots 1 2 3 4 except K0 plots
+R/AG/6|1966|Grass|25-May-1966||diary record|K at 1.66 cwt K2O as muriate of potash to plots 5 6 except K0 plots
+R/AG/6|1966|Grass|25-May-1966||diary record|Balancing P at various rates as triple superphosphate to balance withdrawals by grass in 1965. P between 0.54 and 1.13 cwt P2O5 except P0 plots
+R/AG/6|1966|Grass|19-May-1966||diary record|Cut for silage
+R/AG/6|1966|Grass|29-June-1966||diary record|Cut for silage
+R/AG/6|1966|Grass|12-Aug-1966||diary record|Cut for silage
+R/AG/6|1966|Grass|12-Oct-1966||diary record|Cut for silage
+R/AG/6|1966|Grass|18-Mar-1966||diary record|nitro-chalk applied at 0.8 cwt N
+R/AG/6|1966|Grass|19-May-1966||diary record|nitro-chalk applied at 0.8 cwt N
+R/AG/6|1966|Grass|29-June-1966||diary record|nitro-chalk applied at 0.8 cwt N
+R/AG/6|1966|Grass|12-Aug-1966||diary record|nitro-chalk applied at 0.8 cwt N in error
+R/AG/6|1966|Fallow|13-Jan-1966||diary record|ploughed

@@ -1,0 +1,176 @@
+R/BN/7|1952|all plots|13-Dec-1951||diary record|Dung applied
+R/BN/7|1952|all plots|13-Feb-1952||diary record|ploughed
+R/BN/7|1952|all plots|23-Apr-1952||diary record|Fertilizers applied
+R/BN/7|1952|all plots|28-Apr-1952||diary record|seed drilled, mangolds Yellow Globe 9 lb per acre, sugar beat Klein E 18 lb per acre
+R/BN/7|1952|all plots|19-May-1952||diary record|Sprayed with DDT emulsion
+R/BN/7|1952|all plots|23-May-1952||diary record|Sprayed with DDT emulsion
+R/BN/7|1952|all plots|18-June-1952||diary record|Singling commenced
+R/BN/7|1952|all plots|8-July-1952||diary record|Top dressings applied
+R/BN/7|1952|all plots|11-Nov-1952|20-Dec-1952|diary record|mangolds lifted
+R/BN/7|1952|all plots|22-Dec-1952|30-Dec-1952|diary record|Sugar beat lifted
+R/BN/7|1953|all plots|16-Jan-1953||diary record|Dung-applicd
+R/BN/7|1953|all plots|20-Jan-1953||diary record|ploughed
+R/BN/7|1953|all plots|19-Mar-1953||diary record|Fertilizers applied
+R/BN/7|1953|all plots|10-Apr-1953||diary record|seed drilled, mangolds Yellow Globe - 9 1b per acre, sugar beat Klein E - 18 1b per acre
+R/BN/7|1953|all plots|11-May-1953||diary record|Sprayed with D.D.T. emulsion
+R/BN/7|1953|all plots|22-June-1953||diary record|Singling commenced
+R/BN/7|1953|all plots|14-July-1953||diary record|Top dressings applied
+R/BN/7|1953|all plots|29-Oct-1953||diary record|Lifted: mangolds
+R/BN/7|1953|all plots|11-Nov-1953||diary record|lifted sugar beat -
+R/BN/7|1954|All plots|16-Nov-1953||diary record|Dung applied
+R/BN/7|1954|All plots|21-Nov-1953||diary record|ploughed
+R/BN/7|1954|All plots|11-Apr-1954||diary record|Fertilizers applied
+R/BN/7|1954|All plots|15-Apr-1954||diary record|seed drilled, mangolds Yellow Globe - 9 1b, Sugar beat Klein E - 18 lb per acre
+R/BN/7|1954|All plots|19-June-1954|21-July-1954|diary record|Singled
+R/BN/7|1954|All plots|19-July-1954||diary record|Sprayed with miscible D,D.T. 3 pints per acre
+R/BN/7|1954|All plots|17-July-1954||diary record|Top dressings applied
+R/BN/7|1954|All plots|5-Nov-1954||diary record|Lifted: mangolds -
+R/BN/7|1954|All plots|13-Nov-1954||diary record|lifted Sugar beat -
+R/BN/7|1955|all plots|30-Dec-1954||diary record|Dung applied
+R/BN/7|1955|all plots|3-Jan-1955||diary record|ploughed
+R/BN/7|1955|all plots|9-Apr-1955||diary record|the O series and plot 1N sprayed to control Couch grass (Agropyron repens) with trichloracatic acid, sodium salt: at 20. 1b, in 40 gallons per acre
+R/BN/7|1955|all plots|22-Apr-1955||diary record|Fertilizers applied
+R/BN/7|1955|all plots|2-June-1955||diary record|seed drilled, mangolds Yellow globe - 9 1b; Suger beat Klein E - 16 1b per acre. Calcium chloride applied to 4NB only
+R/BN/7|1955|all plots|11-June-1955||diary record|Sprayed with miscible D.D.T. 3 pints per acre
+R/BN/7|1955|all plots|19-July-1955||diary record|Singling started
+R/BN/7|1955|all plots|20-July-1955||diary record|Top dressings applied; nitrate of soda -
+R/BN/7|1955|all plots|22-July-1955||diary record|sulphate of ammonia -
+R/BN/7|1955|all plots|13-Nov-1955||diary record|Lifting; started: mangolds
+R/BN/7|1955|all plots|16-Nov-1955||diary record|lifting started Sugar beat -
+R/BN/7|1956|all plots|15-Nov-1955|17-Nov-1955|diary record|Dung applied
+R/BN/7|1956|all plots|29-Nov-1955|1-Dec-1955|diary record|ploughed
+R/BN/7|1956|all plots|8-Mar-1956||diary record|plot 1N and series O Sprayed with TCA, sodium salt, at 20 1b in 30 gallons per acre
+R/BN/7|1956|all plots|24-Mar-1956||diary record|N half of plot 1N, N half of series O sprayed with TCA, sodium salt, at 20 1b in 30 gallons per acre
+R/BN/7|1956|all plots|29-Mar-1956||diary record|Ground chalk at 2.5 tons to Series A and AC, excluding plot 9 applied
+R/BN/7|1956|all plots|7-Apr-1956||diary record|Ground chalk at 2.5 tons to Series A and AC, excluding plot 9 applied
+R/BN/7|1956|all plots|18-Apr-1956||diary record|Fertilizers applied: apr 11 - 17. Sugar beat Kelin E seed drilled at 16 - 20 1b per acre
+R/BN/7|1956|all plots|19-Apr-1956||diary record|mangolds seed Yellow Globe drilled at 8 1b per acre
+R/BN/7|1956|all plots|5-June-1956|15-June-1956|diary record|Singled
+R/BN/7|1956|all plots|26-June-1956||diary record|Abandoned crop on part of field due to spring drought
+R/BN/7|1956|all plots|29-June-1956||diary record|Top dressed remaining plots
+R/BN/7|1956|all plots|16-July-1956||diary record|3rd application to plot 9 of TCA, sodium salt, at 20 1b in 80 gallons per acre
+R/BN/7|1956|all plots|22-Nov-1956|26-Nov-1956|diary record|Lifted: mangolds
+R/BN/7|1956|all plots|26-Nov-1956|29-Nov-1956|diary record|lifted Sugar beat
+R/BN/7|1956|all plots|26-June-1956|28-June-1956|diary record|abandoned plots Thistle bar
+R/BN/7|1956|all plots|6-July-1956|7-July-1956|diary record|abandoned plots Thistle bar
+R/BN/7|1956|all plots|13-July-1956||diary record|abandoned plots Thistle bar
+R/BN/7|1956|all plots|9-Aug-1956||diary record|abandoned plots Thistle bar
+R/BN/7|1956|all plots|22-Aug-1956||diary record|abandoned plots Thistle bar
+R/BN/7|1956|all plots|25-Sept-1956||diary record|abandoned plots Springtined
+R/BN/7|1957|all plots|30-Nov-1956||diary record|Ground chalk applied at 6 cwt to Series A
+R/BN/7|1957|all plots|30-Nov-1956||diary record|Ground chalk applied at 9 cwt to Series AC
+R/BN/7|1957|all plots|30-Nov-1956||diary record|Ground chalk applied at 3 cwt to Series C
+R/BN/7|1957|all plots|28-Nov-1956|1-Dec-1956|diary record|Dung applied
+R/BN/7|1957|all plots|1-Dec-1956|5-Dec-1956|diary record|ploughed
+R/BN/7|1957|all plots|10-May-1957|14-May-1957|diary record|Fertilizers applied
+R/BN/7|1957|all plots|17-May-1957||diary record|Sugar beat Kelin E drilled at 16 - 20 1b per acre; mangolds Yellow globe drilled at 8 1b per acre
+R/BN/7|1957|all plots|30-May-1957||diary record|Sprayed the uncropped west side of plots 1N and 10 only before emergence with 2 gallons Pentachlorophenol(PCP) in 40 gallons of water per acre
+R/BN/7|1957|all plots|9-July-1957|16-July-1957|diary record|Singled
+R/BN/7|1957|all plots|10-July-1957||diary record|Removed discarded rows by thistle bar
+R/BN/7|1957|all plots|16-July-1957|18-July-1957|diary record|Top dressings applied to reduced plot areas
+R/BN/7|1957|all plots|26-Oct-1957|7-Nov-1957|diary record|Lifted
+R/BN/7|1957|all plots|11-July-1957||diary record|Abandoned areas Thistle bar
+R/BN/7|1957|all plots|25-July-1957||diary record|Abandoned areas Thistle bar
+R/BN/7|1957|all plots|29-July-1957||diary record|Abandoned areas Thistle bar
+R/BN/7|1957|all plots|17-Sept-1957||diary record|Abandoned areas Thistle bar
+R/BN/7|1958|all plots|25-Nov-1957||diary record|Dung applied, ploughed
+R/BN/7|1958|all plots|5-May-1958||diary record|Fertilizers applied
+R/BN/7|1958|all plots|8-May-1958||diary record|Sugar beat Klein E drilled at 18 1b per acre, mangolds Yellow Globe drilled at 8 1b per acre
+R/BN/7|1958|all plots|11-June-1958|5-July-1958|diary record|Singled
+R/BN/7|1958|all plots|7-July-1958||diary record|Sprayed with demeton methyl at 12 oz in 40 gallons per acre
+R/BN/7|1958|all plots|14-July-1958||diary record|Top dressings applied
+R/BN/7|1958|all plots|11-Oct-1958|24-Nov-1958|diary record|Lifted
+R/BN/7|1959|all plots|24-Nov-1958|27-Nov-1958|diary record|Dung applied
+R/BN/7|1959|all plots|3-Dec-1958||diary record|Dung ploughed in
+R/BN/7|1959|all plots|10-Feb-1959||diary record|remainder ploughed
+R/BN/7|1959|all plots|4-May-1959|6-May-1959|diary record|Fertilizers applied
+R/BN/7|1959|all plots|11-May-1959||diary record|Sugar beat Klein E drilled at 19 1b per acre, mangolds Yellow globe drilled at 8 1b per acre
+R/BN/7|1959|all plots|26-June-1959|9-July-1959|diary record|Singled
+R/BN/7|1959|all plots|14-July-1959||diary record|Top dressings applied
+R/BN/7|1959|all plots|22-Oct-1959|12-Nov-1959|diary record|Lifted
+R/BN/7|1962|all plot|20-Nov-1961||diary record|Dung applied
+R/BN/7|1962|all plot|21-Nov-1961||diary record|ploughed
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 0 cwt N
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 0.6 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 1.2 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 1.8 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 0.6 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 1.2 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1962|Mangolds:|1-May-1962||diary record|Test N at 1.8 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1962|Mangolds:|3-May-1962||diary record|seed Prizewinner Yellow Globe (rubbed and greded) drilled at 6 1b per acre
+R/BN/7|1962|Mangolds:|12-June-1962|23-June-1962|diary record|Singled
+R/BN/7|1962|Mangolds:|29-Nov-1962|13-Dec-1962|diary record|Lifted
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 0 cwt N
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 0.6 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 1.2 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 1.8 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 0.6 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 1.2 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1962|Potatoes:|1-May-1962||diary record|Test N at 1.8 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1962|Potatoes:|2-May-1962||diary record|potatoes machine planted Majestic
+R/BN/7|1962|Potatoes:|17-July-1962||diary record|Earthed up
+R/BN/7|1962|Potatoes:|10-Aug-1962||diary record|Sprayed with copper oxychloride fungicide at 2.3 1b Cu in 20 gallons per acre
+R/BN/7|1962|Potatoes:|27-Sept-1962||diary record|Haulm destroyed with diquat at 3 pints in 40 gallons per acre
+R/BN/7|1962|Potatoes:|17-Oct-1962||diary record|Lifted
+R/BN/7|1963|Fallow and potatoes.|19-Dec-1562||diary record|Ground chalk applied to Series A, AC 2nd C (total applied - 2 tons per acre
+R/BN/7|1963|Fallow and potatoes.|28-Dec-1562||diary record|Ground chalk applied to Series A, AC 2nd C (total applied - 2 tons per acre
+R/BN/7|1963|Fallow and potatoes.|18-Feb-1963||diary record|Dung applied
+R/BN/7|1963|Fallow and potatoes.|28-Mar-1963||diary record|ploughed
+R/BN/7|1963|Fallow and potatoes.|16-May-1963||diary record|Mineral fertilisers applied
+R/BN/7|1963|Potatoes.|16-May-1963||diary record|Nitrogen applied at 1.2 cwt N per acre as ammonia sulphate to Series C, AC and A
+R/BN/7|1963|Potatoes.|16-May-1963||diary record|Nitrogen applied at 1.2 cwt N per acre as nitrate of soda to Series N
+R/BN/7|1963|Potatoes.|17-May-1963||diary record|Rotary cultivated twice, potatoes machine planted Majestic (chitted seed
+R/BN/7|1963|Potatoes.|6-July-1963||diary record|Earthed up
+R/BN/7|1963|Potatoes.|12-July-1963||diary record|Sprayed with maneb at 1.2 1b in 20 gallons per acre
+R/BN/7|1963|Potatoes.|l4-Aug-1963||diary record|Sprayed with copper oxychloride fungicide at 2.3 1b Cu plus 0.35 pints menazon in 20 gallons per acre
+R/BN/7|1963|Potatoes.|19-Oct-1963||diary record|Lifted
+R/BN/7|1964|all plots|19-Dec-1963||diary record|Dung applied
+R/BN/7|1964|all plots|17-Jan-1964|5-Feb-1964|diary record|ploughed
+R/BN/7|1964|all plots|13-May-1964||diary record|Compound PK (0:14:28) (122.5 lb P2O5) to strips 2 4 and 6
+R/BN/7|1964|all plots|13-May-1964||diary record|Granular superphosphate at 122.5 lb P2O5 to strips 5 and 7
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 0 cwt N
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 0.6 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 1.2 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 1.8 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 0.6 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 1.2 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1964|Mangolds:|14-May-1964||diary record|Test N at 1.8 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1964|Mangolds:|15-May-1964||diary record|seed drilled at 9 1b
+R/BN/7|1964|Mangolds:|16-June-1964|2-July-1964|diary record|Singled
+R/BN/7|1964|Mangolds:|23-July-1964||diary record|Sprayed with menazon at 0.38 1b in 35 gals
+R/BN/7|1964|Mangolds:|8-Oct-1964||diary record|Lifted
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 0 cwt N
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 0.6 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 1.2 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 1.8 cwt N as sulphate of ammonia to Series C, AC, and A
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 0.6 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 1.2 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|Test N at 1.8 cwt N as nitrate of soda to Series N and plot 9
+R/BN/7|1964|Potatoes:|14-May-1964||diary record|all plots rotary cultivated
+R/BN/7|1964|Potatoes:|15-May-1964||diary record|Rotary cultivated 2nd time, potatoes machine planted
+R/BN/7|1964|Potatoes:|29-June-1964||diary record|Earthed up
+R/BN/7|1964|Potatoes:|1-July-1964||diary record|Sprayed twice with mancozeb at 1.2 1b in 35 gals
+R/BN/7|1964|Potatoes:|6-Aug-1964||diary record|Sprayed twice with mancozeb at 1.2 1b in 35 gals
+R/BN/7|1964|Potatoes:|22-Sept-1964||diary record|Haulm destroyed mechanically
+R/BN/7|1964|Potatoes:|29-Sept-1964||diary record|Lifted
+R/BN/7|1965|all plots|9-Nov-1964||diary record|Dung applied, all plots ploughed
+R/BN/7|1965|all plots|14-May-1965||diary record|Compound PK (0:14:28) (122.5 lb P2O5) to strips 2 4 and 6
+R/BN/7|1965|all plots|14-May-1965||diary record|Granular superphosphate at 122.5 lb P2O5 to strips 5 and 7
+R/BN/7|1965|all plots|17-May-1965||diary record|Rotary cultivated
+R/BN/7|1965|all plots|21-July-1965|4-Aug-1965|diary record|ploughed second time
+R/BN/7|1966|all plotS|29-Dec-1965||diary record|Dung applied
+R/BN/7|1966|all plotS|10-Jan-1966||diary record|-
+R/BN/7|1966|all plotS|11-Jan-1966||diary record|ploughed
+R/BN/7|1966|all plotS|26-May-1966|31-May-1966|diary record|Compound PK (0:14:28) (122.5 lb P2O5) to strips 2 4 and 6
+R/BN/7|1966|all plotS|26-May-1966|31-May-1966|diary record|Granular superphosphate at 122.5 lb P2O5 to strips 5 and 7
+R/BN/7|1966|all plotS|6-June-1966||diary record|Deep-tine cultivated
+R/BN/7|1966|all plotS|16-Aug-1966|26-Aug-1966|diary record|ploughed second time
+R/BN/7|1967|all plots|4-Jan-1967||diary record|Dung applied
+R/BN/7|1967|all plots|4-Jan-1967||diary record|Compound PK (0:14:28) (122.5 lb P2O5) to strips 2 4 and 6
+R/BN/7|1967|all plots|4-Jan-1967||diary record|Granular superphosphate at 122.5 lb P2O5 to strips 5 and 7
+R/BN/7|1967|all plots|8-Feb-1967|16-Feb-1967|diary record|ploughed
+R/BN/7|1967|all plots|23-Mar-1967||diary record|seed drilled Maris Bead at 200 1b
+R/BN/7|1967|all plots|23-Mar-1967||diary record|Sprayed with simazine at 1 1b in 32 gals
+R/BN/7|1967|all plots|13-June-1967||diary record|Sprayed with demeton-s-methyl (Matasystox at 12 fluid oz in 32 gallons
+R/BN/7|1967|all plots|7-July-1967||diary record|Sides of plots sprayed with demeton-s-methyl (Matasystox at 12 fluid oz in 32 gallons
+R/BN/7|1967|all plots|8-Sept-1967||diary record|Combine harvested
