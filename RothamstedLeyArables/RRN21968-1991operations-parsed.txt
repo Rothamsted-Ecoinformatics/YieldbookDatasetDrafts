@@ -1,27 +1,27 @@
 R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|20-Nov-1967||diary record|basal PK compound applied:
 R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|28-Mar-1968||diary record|NK compound applied:
-R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|23-May-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|1-July-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|12-Aug-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|25-Oct-1968||diary record|Cut:
+R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|23-May-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|1-July-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|12-Aug-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|25-Oct-1968||diary record|cut:
 R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|23-May-1968||diary record|NK compound applied after cut:
 R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|1-July-1968||diary record|NK compound applied after cut:
 R/RN/2|1968|2nd year Treatment Crops: All-grass ley:|12-Aug-1968||diary record|NK compound applied after cut:
 R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|20-Nov-1967||diary record|basal PK compound applied:
 R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|28-Mar-1968||diary record|muriate of potash applied:
-R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|23-May-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|1-July-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|12-Aug-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|25-Oct-1968||diary record|Cut:
+R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|23-May-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|1-July-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|12-Aug-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|25-Oct-1968||diary record|cut:
 R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|23-May-1968||diary record|muriate of potash applied after cut:
 R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|1-July-1968||diary record|muriate of potash applied after cut:
 R/RN/2|1968|2nd year Treatment Crops: Clover-grass ley:|12-Aug-1968||diary record|muriate of potash applied after cut:
 R/RN/2|1968|2nd year Treatment Crops: Lucerne:|20-Nov-1967||diary record|basal PK compound applied:
 R/RN/2|1968|2nd year Treatment Crops: Lucerne:|22-Jan-1968||diary record|Sprayed with paraquat at 2 1b low in 37 gals:
-R/RN/2|1968|2nd year Treatment Crops: Lucerne:|30-May-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: Lucerne:|4-July-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: Lucerne:|30-Aug-1968||diary record|Cut:
-R/RN/2|1968|2nd year Treatment Crops: Lucerne:|28-Oct-1968||diary record|Cut:
+R/RN/2|1968|2nd year Treatment Crops: Lucerne:|30-May-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: Lucerne:|4-July-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: Lucerne:|30-Aug-1968||diary record|cut:
+R/RN/2|1968|2nd year Treatment Crops: Lucerne:|28-Oct-1968||diary record|cut:
 R/RN/2|1968|2nd year Treatment Crops: Sugar beet:|25-July-1967||diary record|ploughed:
 R/RN/2|1968|2nd year Treatment Crops: Sugar beet:|18-Sept-1967||diary record|ploughed second time:
 R/RN/2|1968|2nd year Treatment Crops: Sugar beet:|4-Jan-1968||diary record|muriate of potash applied:
@@ -33,19 +33,19 @@ R/RN/2|1968|2nd year Treatment Crops: Sugar beet:|12-June-1968||diary record|Spr
 R/RN/2|1968|2nd year Treatment Crops: Sugar beet:|12-Dec-1968||diary record|Lifted:
 R/RN/2|1968|3rd year Treatment Crops All-grass ley:|20-Nov-1967||diary record|basal PK compound applied:
 R/RN/2|1968|3rd year Treatment Crops All-grass ley:|28-Mar-1968||diary record|NK compound applied:
-R/RN/2|1968|3rd year Treatment Crops All-grass ley:|23-May-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops All-grass ley:|1-July-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops All-grass ley:|12-Aug-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops All-grass ley:|25-Oct-1968||diary record|Cut:
+R/RN/2|1968|3rd year Treatment Crops All-grass ley:|23-May-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops All-grass ley:|1-July-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops All-grass ley:|12-Aug-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops All-grass ley:|25-Oct-1968||diary record|cut:
 R/RN/2|1968|3rd year Treatment Crops All-grass ley:|23-May-1968||diary record|NK compound applied after cut:
 R/RN/2|1968|3rd year Treatment Crops All-grass ley:|1-July-1968||diary record|NK compound applied after cut:
 R/RN/2|1968|3rd year Treatment Crops All-grass ley:|12-Aug-1968||diary record|NK compound applied after cut:
 R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|20-Nov-1967||diary record|basal PK compound applied:
 R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|28-Mar-1968||diary record|muriate of potash applied:
-R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|23-May-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|1-July-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|12-Aug-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|25-Oct-1968||diary record|Cut:
+R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|23-May-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|1-July-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|12-Aug-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|25-Oct-1968||diary record|cut:
 R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|23-May-1968||diary record|muriate of potash applied after cut:
 R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|1-July-1968||diary record|muriate of potash applied after cut:
 R/RN/2|1968|3rd year Treatment Crops Clover-grass ley:|12-Aug-1968||diary record|muriate of potash applied after cut:
@@ -53,9 +53,9 @@ R/RN/2|1968|3rd year Treatment Crops Lucerne:|20-Nov-1967||diary record|basal PK
 R/RN/2|1968|3rd year Treatment Crops Lucerne:|22-Jan-1968||diary record|Sprayed with paraquat at 2 1b ion in 37 gals:
 R/RN/2|1968|3rd year Treatment Crops Lucerne:|9-July-1968||diary record|Sprayed with paraquat at 0.9 1b ion in 37 gals:
 R/RN/2|1968|3rd year Treatment Crops Lucerne:|30-Aug-1968||diary record|Sprayed with paraquat at 0.75 1b ion in 20 gals:
-R/RN/2|1968|3rd year Treatment Crops Lucerne:|30-May-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops Lucerne:|4-July-1968||diary record|Cut:
-R/RN/2|1968|3rd year Treatment Crops Lucerne:|30-Aug-1968||diary record|Cut:
+R/RN/2|1968|3rd year Treatment Crops Lucerne:|30-May-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops Lucerne:|4-July-1968||diary record|cut:
+R/RN/2|1968|3rd year Treatment Crops Lucerne:|30-Aug-1968||diary record|cut:
 R/RN/2|1968|3rd year Treatment Crops Oats:|22-Nov-1967||diary record|ploughed:
 R/RN/2|1968|3rd year Treatment Crops Oats:|8-Mar-1968||diary record|seed combine drilled at 160 lb
 R/RN/2|1968|3rd year Treatment Crops Oats:|14-Mar-1968||diary record|nitro-chalk applied:
@@ -72,7 +72,7 @@ R/RN/2|1968|lst Test Crop, Potatoes:-|7-June-1968||diary record|Rotary ridged:
 R/RN/2|1968|lst Test Crop, Potatoes:-|3-July-1968||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals:
 R/RN/2|1968|lst Test Crop, Potatoes:-|5-Aug-1968||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals:
 R/RN/2|1968|lst Test Crop, Potatoes:-|19-July-1968||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals and demeton-s-methyl at 3.5 oz:
-R/RN/2|1968|lst Test Crop, Potatoes:-|30-Aug-1968||diary record|Sprayed with undiluted BOV at 15 gals
+R/RN/2|1968|lst Test Crop, Potatoes:-|30-Aug-1968||diary record|Sprayed with undiluted Nov at 15 gals
 R/RN/2|1968|lst Test Crop, Potatoes:-|27-Sept-1968||diary record|Lifted:
 R/RN/2|1968|2nd Test Crop, Potatoes:-|30-Oct-1967||diary record|FYM applied, plots ploughed:
 R/RN/2|1968|2nd Test Crop, Potatoes:-|4-Apr-1968|9-Apr-1968|diary record|NPK fertilisers applied:
@@ -83,7 +83,7 @@ R/RN/2|1968|2nd Test Crop, Potatoes:-|12-June-1968||diary record|Rotary ridged:
 R/RN/2|1968|2nd Test Crop, Potatoes:-|3-July-1968||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals:
 R/RN/2|1968|2nd Test Crop, Potatoes:-|5-Aug-1968||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals:
 R/RN/2|1968|2nd Test Crop, Potatoes:-|19-July-1968||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals and demeton-s-methyl at 3.5 oz:
-R/RN/2|1968|2nd Test Crop, Potatoes:-|30-Aug-1968||diary record|Sprayed with undiluted BOV at 15 gals:
+R/RN/2|1968|2nd Test Crop, Potatoes:-|30-Aug-1968||diary record|Sprayed with undiluted Nov at 15 gals:
 R/RN/2|1968|2nd Test Crop, Potatoes:-|27-Sept-1968||diary record|Lifted:
 R/RN/2|1968|3rd Test Crop, Barley:-|25-Sept-1967||diary record|ploughed:
 R/RN/2|1968|3rd Test Crop, Barley:-|27-Feb-1968||diary record|seed combine drilled at 140 1b:
@@ -92,39 +92,39 @@ R/RN/2|1968|3rd Test Crop, Barley:-|2-May-1968||diary record|Sprayed with mecopr
 R/RN/2|1968|3rd Test Crop, Barley:-|21-Aug-1968||diary record|Combine harvested:
 R/RN/2|1968|4th Test Crop, Wheat:|18-Sept-1967||diary record|ploughed:
 R/RN/2|1968|4th Test Crop, Wheat:|19-Oct-1967||diary record|seed combine drilled at 180 Lb:
-R/RN/2|1968|4th Test Crop, Wheat:|4-Dec-1967||diary record|remaining half of basal PK compound applied by hands
+R/RN/2|1968|4th Test Crop, Wheat:|4-Dec-1967||diary record|remaining half of basal PK compound applied by and
 R/RN/2|1968|4th Test Crop, Wheat:|17-Apr-1967||diary record|nitro-chalk applied:
 R/RN/2|1968|4th Test Crop, Wheat:|2-May-1967||diary record|Sprayed with mecoprop at 42 oz and "2,4-D" at 10.5 oz in 40 gals
 R/RN/2|1968|4th Test Crop, Wheat:|24-Aug-1967||diary record|Combine harvested:
 R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|20-Nov-1957||diary record|basal PK compound applied:
 R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|28-Mar-1958||diary record|NK compound applied to all - grass half plots and muriate of potash to clover - grass half plots:
-R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|23-May-1958||diary record|Cut:
-R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|26-June-1958||diary record|Cut:
-R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|12-Aug-1958||diary record|Cut:
-R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|5-Sept-1958||diary record|Cut:
-R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|25-Oct-1958||diary record|Cut:
+R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|23-May-1958||diary record|cut:
+R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|26-June-1958||diary record|cut:
+R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|12-Aug-1958||diary record|cut:
+R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|5-Sept-1958||diary record|cut:
+R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|25-Oct-1958||diary record|cut:
 R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|23-May-1958||diary record|NK compound and muriate of potash applied to appropriate half plots after cut:
 R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|26-June-1958||diary record|NK compound and muriate of potash applied to appropriate half plots after cut:
 R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|12-Aug-1958||diary record|NK compound and muriate of potash applied to appropriate half plots after cut:
 R/RN/2|1968|Permanent grasses 18th and 20th year reseeded grass, blocks 1, 3, 6 and 11.|5-Sept-1958||diary record|NK compound and muriate of potash applied to appropriate half plots after cut:
 R/RN/2|1969|3rd year Treatment Crops All-grass ley:|13-Nov-1968||diary record|basal PK compound applied:
 R/RN/2|1969|3rd year Treatment Crops All-grass ley:|5-Mar-1969||diary record|NK compound and muriate of potash applied:
-R/RN/2|1969|3rd year Treatment Crops All-grass ley:|2-June-1969||diary record|Cut:
-R/RN/2|1969|3rd year Treatment Crops All-grass ley:|16-July-1969||diary record|Cut:
-R/RN/2|1969|3rd year Treatment Crops All-grass ley:|19-Sept-1969||diary record|Cut:
+R/RN/2|1969|3rd year Treatment Crops All-grass ley:|2-June-1969||diary record|cut:
+R/RN/2|1969|3rd year Treatment Crops All-grass ley:|16-July-1969||diary record|cut:
+R/RN/2|1969|3rd year Treatment Crops All-grass ley:|19-Sept-1969||diary record|cut:
 R/RN/2|1969|3rd year Treatment Crops All-grass ley:|2-June-1969||diary record|NK compound and muriate of potash applied after cut:
 R/RN/2|1969|3rd year Treatment Crops All-grass ley:|16-July-1969||diary record|NK compound and muriate of potash applied after cut:
 R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|13-Nov-1968||diary record|basal PK compound applied:
 R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|5-Mar-1969||diary record|muriate of potash applied:
-R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|2-June-1969||diary record|Cut:
-R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|16-July-1969||diary record|Cut:
-R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|19-Sept-1969||diary record|Cut:
+R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|2-June-1969||diary record|cut:
+R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|16-July-1969||diary record|cut:
+R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|19-Sept-1969||diary record|cut:
 R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|2-June-1969||diary record|muriate of potash applied after cut:
 R/RN/2|1969|3rd year Treatment Crops Clover-grass ley:|16-July-1969||diary record|muriate of potash applied after cut:
 R/RN/2|1969|3rd year Treatment Crops Lucerne:|13-Nov-1968||diary record|basal PK compound applied:
 R/RN/2|1969|3rd year Treatment Crops Lucerne:|13-Dec-1968||diary record|Sprayed with paraquat at 2 1b ion in 32 gals:
-R/RN/2|1969|3rd year Treatment Crops Lucerne:|6-June-1968||diary record|Cut for yield:
-R/RN/2|1969|3rd year Treatment Crops Lucerne:|8-July-1968||diary record|Cut for yield:
+R/RN/2|1969|3rd year Treatment Crops Lucerne:|6-June-1968||diary record|cut for yield:
+R/RN/2|1969|3rd year Treatment Crops Lucerne:|8-July-1968||diary record|cut for yield:
 R/RN/2|1969|3rd year Treatment Crops Lucerne:|9-July-1968||diary record|Sprayed with paraquat at 0.75 Ib ion in 50 gals:
 R/RN/2|1969|3rd year Treatment Crops Lucerne:|15-July-1968||diary record|Rotary cultivated:
 R/RN/2|1969|3rd year Treatment Crops Lucerne:|9-Sept-1968||diary record|Rotary cultivated:
@@ -142,7 +142,7 @@ R/RN/2|1969|1st Test Crop. Potatoes:-|26-June-1969||diary record|Earthed up:
 R/RN/2|1969|1st Test Crop. Potatoes:-|15-July-1969||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals,
 R/RN/2|1969|1st Test Crop. Potatoes:-|21-Aug-1969||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals,
 R/RN/2|1969|1st Test Crop. Potatoes:-|4-Aug-1969||diary record|Sprayed with mancozeb at 1.2 1b in 37 gals and demeton-s-methyl at 3.5 oz:
-R/RN/2|1969|1st Test Crop. Potatoes:-|26-Sept-1969||diary record|Sprayed with undiluted BOV at 15 gals:
+R/RN/2|1969|1st Test Crop. Potatoes:-|26-Sept-1969||diary record|Sprayed with undiluted Nov at 15 gals:
 R/RN/2|1969|1st Test Crop. Potatoes:-|2-Oct-1969||diary record|Haulm destroyed mechanically:
 R/RN/2|1969|1st Test Crop. Potatoes:-|9-Oct-1969||diary record|Lifted:
 R/RN/2|1969|2nd Test Crop. Wheat|14-Oct-1968||diary record|basal PK compound applied, plots deep-tine cultivated:
@@ -169,32 +169,32 @@ R/RN/2|1969|5th Test Crop. Wheat|3-May-1969||diary record|Sprayed with mecoprop 
 R/RN/2|1969|5th Test Crop. Wheat|25-Aug-1969||diary record|Combine harvested:
 R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|13-Nov-1068||diary record|basal PK compound applied:
 R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|5-Mar-1969||diary record|compound and muriate of potash applied to all grass half plots, and muriate of potash to clover grass half plots:
-R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|2-June-1969||diary record|Cut:
-R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|16-July-1969||diary record|Cut:
-R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|15-Sept-1969||diary record|Cut:
+R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|2-June-1969||diary record|cut:
+R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|16-July-1969||diary record|cut:
+R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|15-Sept-1969||diary record|cut:
 R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|2-June-1969||diary record|NK compound and muriate of potash applied to all grass half plots and muriate of potash to clover grass half plots after cut:
 R/RN/2|1969|Permanent grasses The 21st year reseeded grass, blocks 1 and 3.|16-July-1969||diary record|NK compound and muriate of potash applied to all grass half plots and muriate of potash to clover grass half plots after cut:
 R/RN/2|1970|1st year Treatment Crops: All-grass ley:|7-Oct-1969||diary record|ploughed:
 R/RN/2|1970|1st year Treatment Crops: All-grass ley:|28-Apr-1970||diary record|N and basal PK compound applied:
 R/RN/2|1970|1st year Treatment Crops: All-grass ley:|29-Apr-1970||diary record|seed drilled at 33 1b:
-R/RN/2|1970|1st year Treatment Crops: All-grass ley:|1-June-1970||diary record|A few bare patches reseeded:
+R/RN/2|1970|1st year Treatment Crops: All-grass ley:|1-June-1970||diary record|A Feb bare patches reseeded:
 R/RN/2|1970|1st year Treatment Crops: All-grass ley:|5-June-1970||diary record|Sprayed with MCPA at 2.5 1b a.e, in 20 gals:
-R/RN/2|1970|1st year Treatment Crops: All-grass ley:|3-Aug-1970||diary record|Cut:
-R/RN/2|1970|1st year Treatment Crops: All-grass ley:|29-Sept-1970||diary record|Cut:
+R/RN/2|1970|1st year Treatment Crops: All-grass ley:|3-Aug-1970||diary record|cut:
+R/RN/2|1970|1st year Treatment Crops: All-grass ley:|29-Sept-1970||diary record|cut:
 R/RN/2|1970|1st year Treatment Crops: All-grass ley:|3-Aug-1970||diary record|NK compound applied after cut:
 R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|7-Oct-1969||diary record|ploughed:
 R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|28-Apr-1970||diary record|basal PK compound applied:
 R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|29-Apr-1970||diary record|seed drilled at 34 1b:
-R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|1-June-1970||diary record|A few bare patches reseeded:
+R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|1-June-1970||diary record|A Feb bare patches reseeded:
 R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|5-June-1970||diary record|Sprayed with MCPA at 2.5 1b a.e. in 20 gals:
-R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|3-Aug-1970||diary record|Cut:
-R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|29-Sept-1970||diary record|Cut:
+R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|3-Aug-1970||diary record|cut:
+R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|29-Sept-1970||diary record|cut:
 R/RN/2|1970|1st year Treatment Crops: Clover-grass ley:|3-Aug-1970||diary record|muriate of potash applied after cut:
 R/RN/2|1970|1st year Treatment Crops: Lucerne:|7-Oct-1969||diary record|ploughed:
 R/RN/2|1970|1st year Treatment Crops: Lucerne:|28-Apr-1970||diary record|basal PK compound applied:
 R/RN/2|1970|1st year Treatment Crops: Lucerne:|29-Apr-1970||diary record|seed drilled at 25 1b:
-R/RN/2|1970|1st year Treatment Crops: Lucerne:|4-Aug-1970||diary record|Cut:
-R/RN/2|1970|1st year Treatment Crops: Lucerne:|1-Oct-1970||diary record|Cut:
+R/RN/2|1970|1st year Treatment Crops: Lucerne:|4-Aug-1970||diary record|cut:
+R/RN/2|1970|1st year Treatment Crops: Lucerne:|1-Oct-1970||diary record|cut:
 R/RN/2|1970|1st year Treatment Crops: Barley:|7-Oct-1969||diary record|ploughed:
 R/RN/2|1970|1st year Treatment Crops: Barley:|20-Mar-1970||diary record|seed combine drilled at 140 1b:
 R/RN/2|1970|1st year Treatment Crops: Barley:|2-Apr-1970||diary record|N applied:
@@ -210,7 +210,7 @@ R/RN/2|1970|1st Test Crop, Potatoes:-|23-May-1970||diary record|Sprayed with lin
 R/RN/2|1970|1st Test Crop, Potatoes:-|17-June-1970||diary record|Grubbed and rotary ridged:
 R/RN/2|1970|1st Test Crop, Potatoes:-|29-July-1970||diary record|Sprayed with mancozeb at 1.2 1b plus demeton-s-methyl at 3.5 oz in 40 gals
 R/RN/2|1970|1st Test Crop, Potatoes:-|14-Aug-1970||diary record|Sprayed with mancozeb at 1.2 1b in 40 gals:
-R/RN/2|1970|1st Test Crop, Potatoes:-|15-Sept-1970||diary record|Sprayed with undiluted BOV at 15 gals:
+R/RN/2|1970|1st Test Crop, Potatoes:-|15-Sept-1970||diary record|Sprayed with undiluted Nov at 15 gals:
 R/RN/2|1970|1st Test Crop, Potatoes:-|21-Sept-1970||diary record|Lifteds
 R/RN/2|1970|2nd Test Crop, Wheat:-|14-Oct-1969||diary record|basal PK compound applied:
 R/RN/2|1970|2nd Test Crop, Wheat:-|15-Oct-1969||diary record|Deep-tine cultivated 3 times:
@@ -232,43 +232,43 @@ R/RN/2|1970|5th and 6th Test Crops. Wheat:-|14-May-1970||diary record|N applied:
 R/RN/2|1970|5th and 6th Test Crops. Wheat:-|18-Aug-1970||diary record|Combine harvested:
 R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|18-Nov-1969||diary record|basal PK compound applied:
 R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|18-Mar-1970||diary record|NK compound applied to all - grass half plots, and muriate of potash to clover - grass half plots:
-R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|2-June-1970||diary record|Cut:
-R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|3-Aug-1970||diary record|Cut:
-R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|29-Sept-1970||diary record|Cut:
+R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|2-June-1970||diary record|cut:
+R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|3-Aug-1970||diary record|cut:
+R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|29-Sept-1970||diary record|cut:
 R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|2-June-1970||diary record|NK compound applied to all - grass half plots and muriate of potash to all - grass half plots after cut:
 R/RN/2|1970|Permanent grasses The 22nd year reseeded grass, Blocks 1 and 3.|3-Aug-1970||diary record|NK compound applied to all - grass half plots and muriate of potash to all - grass half plots after cut:
 R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|20-Oct-1970||diary record|PK applied:
 R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|17-Mar-1971||diary record|NK applied:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|19-May-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|8-July-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|13-Sept-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|2-Nov-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|19-May-1971||diary record|NK applied after cuts:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|8-July-1971||diary record|NK applied after cuts:
-R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|13-Sept-1971||diary record|NK applied after cuts:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|19-May-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|8-July-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|13-Sept-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|2-Nov-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|19-May-1971||diary record|NK applied after cut:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|8-July-1971||diary record|NK applied after cut:
+R/RN/2|1971|2nd year Treatment Crops: All-grass ley:|13-Sept-1971||diary record|NK applied after cut:
 R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|20-Oct-1970||diary record|PK applied:
 R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|17-Mar-1971||diary record|K applied:
-R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|19-May-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|8-July-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|13-Sept-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|2-Nov-1971||diary record|Cut:
+R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|19-May-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|8-July-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|13-Sept-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|2-Nov-1971||diary record|cut:
 R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|19-May-1971||diary record|K applied after cut:
 R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|8-July-1971||diary record|K applied after cut:
 R/RN/2|1971|2nd year Treatment Crops: Clover-grass ley:|13-Sept-1971||diary record|K applied after cut:
 R/RN/2|1971|2nd year Treatment Crops: Lucerne:|20-Oct-1970||diary record|PK applied:
 R/RN/2|1971|2nd year Treatment Crops: Lucerne:|4-Feb-1971||diary record|Sprayed with paraquat at 0.56 kg ion in 225 l:
-R/RN/2|1971|2nd year Treatment Crops: Lucerne:|4-June-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Lucerne:|14-July-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Lucerne:|7-Sept-1971||diary record|Cut:
+R/RN/2|1971|2nd year Treatment Crops: Lucerne:|4-June-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Lucerne:|14-July-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Lucerne:|7-Sept-1971||diary record|cut:
 R/RN/2|1971|2nd year Treatment Crops: Hay:|7-May-1970||diary record|seed undersown in barley at 32 kg:
 R/RN/2|1971|2nd year Treatment Crops: Hay:|17-Mar-1971||diary record|NPK applied:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|26-May-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|14-July-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|13-Sept-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|2-Nov-1971||diary record|Cut:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|26-May-1971||diary record|NK applied after cuts:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|14-July-1971||diary record|NK applied after cuts:
-R/RN/2|1971|2nd year Treatment Crops: Hay:|13-Sept-1971||diary record|NK applied after cuts:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|26-May-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|14-July-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|13-Sept-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|2-Nov-1971||diary record|cut:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|26-May-1971||diary record|NK applied after cut:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|14-July-1971||diary record|NK applied after cut:
+R/RN/2|1971|2nd year Treatment Crops: Hay:|13-Sept-1971||diary record|NK applied after cut:
 R/RN/2|1971|2nd Test Crop, Wheat:|26-Sept-1970||diary record|PK applied:
 R/RN/2|1971|2nd Test Crop, Wheat:|28-Sept-1970||diary record|Deep-tine cultivated twice:
 R/RN/2|1971|2nd Test Crop, Wheat:|5-Oct-1970||diary record|seed combine drilled Joss Cambier at 202 kg:
@@ -288,31 +288,31 @@ R/RN/2|1971|4th, 6th and 7th Test Crops, Wheat:-|15-Apr-1971||diary record|Spray
 R/RN/2|1971|4th, 6th and 7th Test Crops, Wheat:-|24-Aug-1971||diary record|Combine harvested:
 R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|20-Oct-1970||diary record|PK applied:
 R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|17-Mar-1971||diary record|NK applied to all - grass half plots, and K to clover - grass half plots:
-R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|19-May-1971||diary record|Cut:
-R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|8-July-1971||diary record|Cut:
-R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|13-Sept-1971||diary record|Cut:
-R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|2-Nov-1971||diary record|Cut:
+R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|19-May-1971||diary record|cut:
+R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|8-July-1971||diary record|cut:
+R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|13-Sept-1971||diary record|cut:
+R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|2-Nov-1971||diary record|cut:
 R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|19-May-1971||diary record|NK applied to all - grass half plots and K to clover - grass half plots after cut:
 R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|8-July-1971||diary record|NK applied to all - grass half plots and K to clover - grass half plots after cut:
 R/RN/2|1971|Permanent Grasses: The 23rd year reseeded grass, blocks 1 and 3,|13-Sept-1971||diary record|NK applied to all - grass half plots and K to clover - grass half plots after cut:
 R/RN/2|1972|3rd year Treatment Crops All-grass ley:|19-Nov-1971||diary record|PK applied:
 R/RN/2|1972|3rd year Treatment Crops All-grass ley:|14-Mar-1972||diary record|NK applied:
-R/RN/2|1972|3rd year Treatment Crops All-grass ley:|22-May-1972||diary record|Cut:
-R/RN/2|1972|3rd year Treatment Crops All-grass ley:|19-July-1972||diary record|Cut:
-R/RN/2|1972|3rd year Treatment Crops All-grass ley:|8-Sept-1972||diary record|Cut:
+R/RN/2|1972|3rd year Treatment Crops All-grass ley:|22-May-1972||diary record|cut:
+R/RN/2|1972|3rd year Treatment Crops All-grass ley:|19-July-1972||diary record|cut:
+R/RN/2|1972|3rd year Treatment Crops All-grass ley:|8-Sept-1972||diary record|cut:
 R/RN/2|1972|3rd year Treatment Crops All-grass ley:|22-May-1972||diary record|NK applied after cut:
 R/RN/2|1972|3rd year Treatment Crops All-grass ley:|19-July-1972||diary record|NK applied after cut:
 R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|19-Nov-1971||diary record|PK applied:
 R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|14-Mar-1572||diary record|PK applied:
-R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|22-May-1572||diary record|Cut:
-R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|19-July-1572||diary record|Cut:
-R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|8-Sept-1572||diary record|Cut:
+R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|22-May-1572||diary record|cut:
+R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|19-July-1572||diary record|cut:
+R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|8-Sept-1572||diary record|cut:
 R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|22-May-1572||diary record|K applied after cut:
 R/RN/2|1972|3rd year Treatment Crops Clover-grass ley:|19-July-1572||diary record|K applied after cut:
 R/RN/2|1972|3rd year Treatment Crops Lucerne:|19-Nov-1971||diary record|PK applied:
-R/RN/2|1972|3rd year Treatment Crops Lucerne:|30-May-1972||diary record|Cut:
-R/RN/2|1972|3rd year Treatment Crops Lucerne:|20-July-1972||diary record|Cut:
-R/RN/2|1972|3rd year Treatment Crops Lucerne:|7-Sept-1972||diary record|Cut:
+R/RN/2|1972|3rd year Treatment Crops Lucerne:|30-May-1972||diary record|cut:
+R/RN/2|1972|3rd year Treatment Crops Lucerne:|20-July-1972||diary record|cut:
+R/RN/2|1972|3rd year Treatment Crops Lucerne:|7-Sept-1972||diary record|cut:
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|9-Nov-1971|10-Nov-1971|diary record|ploughed:
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|20-Jan-1972||diary record|K applied:
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|27-Mar-1972||diary record|s NPK applied:
@@ -320,7 +320,7 @@ R/RN/2|1972|3rd year Treatment Crops Sugar beet|17-Apr-1972||diary record|Power 
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|18-Apr-1972||diary record|seed drilled drilled Klein E sown at 5.6 kg/ha:
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|19-June-1972||diary record|Singled: 7 and
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|30-June-1972||diary record|Sprayed with menazon at 0.28 kg in 440 l:
-R/RN/2|1972|3rd year Treatment Crops Sugar beet|6-June-1972||diary record|Proctor and side hoed:
+R/RN/2|1972|3rd year Treatment Crops Sugar beet|6-June-1972||diary record|tractor and side hoed:
 R/RN/2|1972|3rd year Treatment Crops Sugar beet|19-Oct-1972||diary record|Lifted:
 R/RN/2|1972|3rd Test Crop. Barley:|9-Nov-1972|10-Nov-1972|diary record|ploughed:
 R/RN/2|1972|3rd Test Crop. Barley:|15-Mar-1972||diary record|Power harrowed:
@@ -336,9 +336,9 @@ R/RN/2|1972|4th, 5th, 7th and 8th Test Crops, Wheat:|17-Apr-1972||diary record|S
 R/RN/2|1972|4th, 5th, 7th and 8th Test Crops, Wheat:|29-Aug-1972||diary record|Combine harvested:
 R/RN/2|1972|Permanent Grasses: The 24th experimental year.|19-Nov-1972||diary record|PK applied:
 R/RN/2|1972|Permanent Grasses: The 24th experimental year.|14-Mar-1971||diary record|NK applied to all - grass half plots, K to clover - grass half plots:
-R/RN/2|1972|Permanent Grasses: The 24th experimental year.|22-May-1971||diary record|Cut:
-R/RN/2|1972|Permanent Grasses: The 24th experimental year.|19-July-1971||diary record|Cut:
-R/RN/2|1972|Permanent Grasses: The 24th experimental year.|8-sept-1971||diary record|Cut:
+R/RN/2|1972|Permanent Grasses: The 24th experimental year.|22-May-1971||diary record|cut:
+R/RN/2|1972|Permanent Grasses: The 24th experimental year.|19-July-1971||diary record|cut:
+R/RN/2|1972|Permanent Grasses: The 24th experimental year.|8-Sept-1971||diary record|cut:
 R/RN/2|1972|Permanent Grasses: The 24th experimental year.|22-May-1971||diary record|NK applied to all - grass half plots and K to clover - grass half plots after cut
 R/RN/2|1972|Permanent Grasses: The 24th experimental year.|19-July-1971||diary record|NK applied to all - grass half plots and K to clover - grass half plots after cut
 R/RN/2|1973|1st year treatment crops All grass ley:|15-Sept-1972||diary record|ploughed:
@@ -348,56 +348,54 @@ R/RN/2|1973|1st year treatment crops All grass ley:|29-Mar-1973||diary record|se
 R/RN/2|1973|1st year treatment crops All grass ley:|30-Mar-1973||diary record|N applied:
 R/RN/2|1973|1st year treatment crops All grass ley:|31-May-1973||diary record|Sprayed with benazolin, "2,4-D" and MCPA (Legumex Extra at 7.0 l in 220 l):
 R/RN/2|1973|1st year treatment crops All grass ley:|15-June-1973||diary record|Topped:
-R/RN/2|1973|1st year treatment crops All grass ley:|20-July-1973||diary record|Cut once:
+R/RN/2|1973|1st year treatment crops All grass ley:|20-July-1973||diary record|cut one:
 R/RN/2|1973|1st year treatment crops All grass ley:|23-July-1973||diary record|NK applied:
 R/RN/2|1973|1st year treatment crops Clover/grass ley:|15-Sept-1972||diary record|ploughed:
 R/RN/2|1973|1st year treatment crops Clover/grass ley:|14-Nov-1972||diary record|reploughed:
 R/RN/2|1973|1st year treatment crops Clover/grass ley:|21-Mar-1973||diary record|PK applied:
-R/RN/2|1973|1st year treatment crops Clover/grass ley:|28-Mar-1973||diary record|seed sown Clover/grass barley and reseeded grass barley Timothy S51 (42%), Meadow Fescue S215 (50%), White Clover S100 (8%). Mixture sown at 37 Koga:
+R/RN/2|1973|1st year treatment crops Clover/grass ley:|28-Mar-1973||diary record|seed sown Clover/grass ley and reseeded grass ley Timothy S51 (42%), Meadow Fescue S215 (50%), White Clover S100 (8%). Mixture sown at 37 kg:
 R/RN/2|1973|1st year treatment crops Clover/grass ley:|31-May-1973||diary record|Sprayed with benazolin, "2,4-D" and MCPA (Legumex Extra at 7.0 l in 220 l):
 R/RN/2|1973|1st year treatment crops Clover/grass ley:|15-June-1973||diary record|Topped:
-R/RN/2|1973|1st year treatment crops Clover/grass ley:|20-July-1973||diary record|Cut:
-R/RN/2|1973|1st year treatment crops Clover/grass ley:|13-Sept-1973||diary record|Cut:
+R/RN/2|1973|1st year treatment crops Clover/grass ley:|20-July-1973||diary record|cut:
+R/RN/2|1973|1st year treatment crops Clover/grass ley:|13-Sept-1973||diary record|cut:
 R/RN/2|1973|1st year treatment crops Clover/grass ley:|23-July-1973||diary record|K applied:
 R/RN/2|1973|1st year treatment crops Lucerne:|15-Sept-1972||diary record|ploughed:
 R/RN/2|1973|1st year treatment crops Lucerne:|14-Nov-1972||diary record|reploughed:
 R/RN/2|1973|1st year treatment crops Lucerne:|21-Mar-1973||diary record|PK applied:
 R/RN/2|1973|1st year treatment crops Lucerne:|28-Mar-1973||diary record|seed sown:
-R/RN/2|1973|1st year treatment crops Lucerne:|4-June-1973||diary record|Sprayed with "2,4-D" and MCPA (EMbutox at 8,4 l in 220 l):
+R/RN/2|1973|1st year treatment crops Lucerne:|4-June-1973||diary record|Sprayed with "2,4-D" and MCPA (Embutox at 8.4 l in 220 l):
 R/RN/2|1973|1st year treatment crops Lucerne:|15-June-1973||diary record|Topped:
-R/RN/2|1973|1st year treatment crops Lucerne:|30-July-1973||diary record|Cut:
+R/RN/2|1973|1st year treatment crops Lucerne:|30-July-1973||diary record|cut:
 R/RN/2|1973|1st year treatment crops Hay:|15-Sept-1972||diary record|ploughed:
 R/RN/2|1973|1st year treatment crops Hay:|18-Sept-1972||diary record|PK applied:
-R/RN/2|1973|1st year treatment crops Hay:|21-Sept-1972||diary record|seed sown Perennial Ryegrass Sol (64% by weight), Late flowering grazed Clover S123 (29%), Canadian Alsike clover (7%). Mixture sown at 31 kg:
+R/RN/2|1973|1st year treatment crops Hay:|21-Sept-1972||diary record|seed sown Perennial Ryegrass S24 (64% by weight), Late flowering grazed Clover S123 (29%), Canadian Alsike clover (7%). Mixture sown at 31 kg:
 R/RN/2|1973|1st year treatment crops Hay:|21-Feb-1973||diary record|N applied:
-R/RN/2|1973|1st year treatment crops Hay:|22-May-1973||diary record|Cut:
-R/RN/2|1973|1st year treatment crops Hay:|26-June-1973||diary record|Cut:
-R/RN/2|1973|1st year treatment crops Hay:|22-May-1973||diary record|NK applied after lst cut:
+R/RN/2|1973|1st year treatment crops Hay:|22-May-1973||diary record|cut:
+R/RN/2|1973|1st year treatment crops Hay:|26-June-1973||diary record|cut:
+R/RN/2|1973|1st year treatment crops Hay:|22-May-1973||diary record|NK applied after 1st cut:
 R/RN/2|1973|1st Test Crop, Potatoes:|14-Nov-1972||diary record|ploughed:
 R/RN/2|1973|1st Test Crop, Potatoes:|6-Apr-1973||diary record|PK applied:
 R/RN/2|1973|1st Test Crop, Potatoes:|9-Apr-1973||diary record|N applied:
-R/RN/2|1973|1st Test Crop, Potatoes:|10-Apr-1973||diary record|Rotary cultivated, potatoes planted King Edward, Rothamsted once grown:
-R/RN/2|1973|1st Test Crop, Potatoes:|12-May-1973||diary record|Sprayed with linuron at 1.9 kg plus paraquat at 0.42 kg fon in 450 l:
+R/RN/2|1973|1st Test Crop, Potatoes:|10-Apr-1973||diary record|Rotary cultivated, potatoes planted King Edward, Rothamsted one grown:
+R/RN/2|1973|1st Test Crop, Potatoes:|12-May-1973||diary record|Sprayed with linuron at 1.9 kg plus paraquat at 0.42 kg ion in 450 l:
 R/RN/2|1973|1st Test Crop, Potatoes:|7-June-1973||diary record|Grubbed:
 R/RN/2|1973|1st Test Crop, Potatoes:|9-June-1973||diary record|Rotary ridged:
 R/RN/2|1973|1st Test Crop, Potatoes:|2-July-1973||diary record|Sprayed with mancozeb at 1.35 kg Plus demeton-s-methyl at 0.25 kg in 370 l:
 R/RN/2|1973|1st Test Crop, Potatoes:|18-July-1973||diary record|Sprayed with mancozeb at 1.35 kg in 370 l:
 R/RN/2|1973|1st Test Crop, Potatoes:|9-Aug-1973||diary record|Sprayed with mancozeb at 1.35 kg in 370 l:
 R/RN/2|1973|1st Test Crop, Potatoes:|14-Sept-1973||diary record|Haulm destroyed mechanically:
-R/RN/2|1973|1st Test Crop, Potatoes:|20-Sept-1973||diary record|Sprayed with undiluted BOV at 220 l:
+R/RN/2|1973|1st Test Crop, Potatoes:|20-Sept-1973||diary record|Sprayed with undiluted Nov at 220 l:
 R/RN/2|1973|1st Test Crop, Potatoes:|26-Sept-1973||diary record|Lifted:
 R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|15-Sept-1972||diary record|ploughed:
 R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|23-Oct-1972||diary record|seed sown Cappelle sown at 200 kg:
-R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|7-l-1972||diary record|N applied, sprayed with Dicamba, mecoprop and MCPA (Tetralex Plus at
-R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|0-l-1972||diary record|N applied, sprayed with Dicamba, mecoprop and MCPA (Tetralex Plus at
-R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|16-Apr-1973||diary record|in 220 l):
+R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|16-Apr-1973||diary record|N applied, sprayed with Dicamba, mecoprop and MCPA (Tetralex Plus at 7.0 l in 220 l):
 R/RN/2|1973|5th, 6th, 8th and 9th Test Crops, Wheat:|18-Aug-1973||diary record|Combine harvested:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|17-Nov-1972||diary record|PK applied:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|21-Feb-1973||diary record|NK applied to all - grass half plots, K to clover/grass half plots:
-R/RN/2|1973|Permanent Grasses: The 25th experimental year:|22-May-1973||diary record|Cut:
-R/RN/2|1973|Permanent Grasses: The 25th experimental year:|16-June-1973||diary record|Cut:
-R/RN/2|1973|Permanent Grasses: The 25th experimental year:|8-Aug-1973||diary record|Cut:
-R/RN/2|1973|Permanent Grasses: The 25th experimental year:|13-Sept-1973||diary record|Cut:
+R/RN/2|1973|Permanent Grasses: The 25th experimental year:|22-May-1973||diary record|cut:
+R/RN/2|1973|Permanent Grasses: The 25th experimental year:|16-June-1973||diary record|cut:
+R/RN/2|1973|Permanent Grasses: The 25th experimental year:|8-Aug-1973||diary record|cut:
+R/RN/2|1973|Permanent Grasses: The 25th experimental year:|13-Sept-1973||diary record|cut:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|22-May-1973||diary record|NK applied to all - grass half plots and K to clover/grass half plots after cut:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|16-June-1973||diary record|NK applied to all - grass half plots and K to clover/grass half plots after cut:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|8-Aug-1973||diary record|NK applied to all - grass half plots and K to clover/grass half plots after cut:
@@ -407,28 +405,28 @@ R/RN/2|1973|Permanent Grasses: The 25th experimental year:|21-Mar-1973||diary re
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|28-Mar-1973||diary record|seed sown:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|31-May-1973||diary record|Sprayed with benazolin "2,4-D" and MCPA (Legumex Extra at 7.0 l in 220 l):
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|15-June-1973||diary record|Topped:
-R/RN/2|1973|Permanent Grasses: The 25th experimental year:|20-July-1973||diary record|Cut:
-R/RN/2|1973|Permanent Grasses: The 25th experimental year:|13-Sept-1973||diary record|Cut:
+R/RN/2|1973|Permanent Grasses: The 25th experimental year:|20-July-1973||diary record|cut:
+R/RN/2|1973|Permanent Grasses: The 25th experimental year:|13-Sept-1973||diary record|cut:
 R/RN/2|1973|Permanent Grasses: The 25th experimental year:|20-July-1973||diary record|NK and K applied after first cut:
 R/RN/2|1974|2nd year Treatment crops All-grass ley:|13-Dec-1973||diary record|PK applied at 75 kg P2O5, 150 kg K20 as (0:14:28):
 R/RN/2|1974|2nd year Treatment crops All-grass ley:|26-Feb-1974||diary record|NK applied at 75 kg N, 48 kg K2O as (25:0:16):
 R/RN/2|1974|2nd year Treatment crops All-grass ley:|3-June-1974||diary record|NK applied at 75 kg N, 48 kg K2O as (25:0:16):
 R/RN/2|1974|2nd year Treatment crops All-grass ley:|1-Aug-1974||diary record|NK applied at 75 kg N, 48 kg K2O as (25:0:16):
-R/RN/2|1974|2nd year Treatment crops All-grass ley:|30-May-1974||diary record|Cut times:
-R/RN/2|1974|2nd year Treatment crops All-grass ley:|30-July-1974||diary record|Cut times:
-R/RN/2|1974|2nd year Treatment crops All-grass ley:|3-Dec-1974||diary record|Cut times:
+R/RN/2|1974|2nd year Treatment crops All-grass ley:|30-May-1974||diary record|cut times:
+R/RN/2|1974|2nd year Treatment crops All-grass ley:|30-July-1974||diary record|cut times:
+R/RN/2|1974|2nd year Treatment crops All-grass ley:|3-Dec-1974||diary record|cut times:
 R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|13-Dec-1973||diary record|PK applied at 75 kg P2O5, 150 kg K20 as (0:14:28):
 R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|26-Feb-1974||diary record|K applied at 48 kg K20 as muriate of potash:
 R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|3-June-1974||diary record|K applied at 48 kg K20 as muriate of potash:
 R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|1-Aug-1974||diary record|K applied at 48 kg K20 as muriate of potash:
-R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|30-May-1974||diary record|Cut times:
-R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|30-July-1974||diary record|Cut times:
-R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|3-Dec-1974||diary record|Cut times:
+R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|30-May-1974||diary record|cut times:
+R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|30-July-1974||diary record|cut times:
+R/RN/2|1974|2nd year Treatment crops Clover-grass ley:|3-Dec-1974||diary record|cut times:
 R/RN/2|1974|2nd year Treatment crops Lucerne:|13-Dec-1973||diary record|PK applied at 115 kg P2O5, 230 kg K20 as (0:14:28):
 R/RN/2|1974|2nd year Treatment crops Lucerne:|21-Jan-1974||diary record|paraquat at 1.4 kg ion in 220 l:
-R/RN/2|1974|2nd year Treatment crops Lucerne:|5-June-1974||diary record|Cut three times:
-R/RN/2|1974|2nd year Treatment crops Lucerne:|31-July-1974||diary record|Cut three times:
-R/RN/2|1974|2nd year Treatment crops Lucerne:|2-Dec-1974||diary record|Cut three times:
+R/RN/2|1974|2nd year Treatment crops Lucerne:|5-June-1974||diary record|cut three times:
+R/RN/2|1974|2nd year Treatment crops Lucerne:|31-July-1974||diary record|cut three times:
+R/RN/2|1974|2nd year Treatment crops Lucerne:|2-Dec-1974||diary record|cut three times:
 R/RN/2|1974|2nd year Treatment crops Sugar beet:|28-Sept-1973||diary record|ploughed:
 R/RN/2|1974|2nd year Treatment crops Sugar beet:|21-Feb-1974||diary record|K applied 175 kg K20 as muriate of potash on ploughed furrow:
 R/RN/2|1974|2nd year Treatment crops Sugar beet:|8-Apr-1974||diary record|Disced twice and NPK applied at 80 kg N, 125 kg P2O5, 125 kg K20 as (20:14:14) in seedbed:
@@ -437,75 +435,75 @@ R/RN/2|1974|2nd year Treatment crops Sugar beet:|21-May-1974||diary record|Phenm
 R/RN/2|1974|2nd year Treatment crops Sugar beet:|4-June-1974||diary record|demeton-s-methyl at 0.25 kg in 220 l:
 R/RN/2|1974|2nd year Treatment crops Sugar beet:|24-June-1974||diary record|demeton-s-methyl at 0.25 kg in 450 l:
 R/RN/2|1974|2nd year Treatment crops Sugar beet:|15-Nov-1974||diary record|Lifted:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|28-Sept-1973||diary record|(6th, 7th, 9th and 10th): ploughed:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|28-Sept-1973||diary record|(6th, 7th, 9th and 10th: ploughed:
 R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|4-Oct-1973||diary record|(2nd test): Deep-tine cultivated twice:
 R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Oct-1973||diary record|Spring-tine cultivated:
 R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|25-Oct-1973||diary record|Rotary harrowed and seed sown Cappelle, sown at 200 kg:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(2nd test) Test N50 applied at 50 kgN/ha:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(2nd test) Test N100 applied at 100 kgN/ha:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(2nd test) Test N150 applied at 150 kgN/ha:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N75 applied at 75 kgN/ha:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N126 applied at 126 kgN/ha:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N176 applied at 176 kgN/ha:
-R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N226 applied at 226 kgN/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(2nd test) Test N50 applied at 50 kg/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(2nd test) Test N100 applied at 100 kg/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(2nd test) Test N150 applied at 150 kg/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N75 applied at 75 kg/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N126 applied at 126 kg/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N176 applied at 176 kg/ha:
+R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|10-Apr-1974||diary record|(6th, 7th, 9th and 10th) Test N226 applied at 226 kg/ha:
 R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|30-Apr-1974||diary record|Weedkiller applied:
 R/RN/2|1974|Test crops: Winter wheat, 2nd, 6th, 7th, 9th and 10th test crops.|29-Aug-1974||diary record|Combine harvested:
 R/RN/2|1974|Reseeded and 01d Grass:|13-Dec-1973||diary record|PK applied 75 kg P2O5 and 150 kg K20 as (0:14:28):
 R/RN/2|1974|Reseeded and 01d Grass:|26-Feb-1974||diary record|NK applied to all - grass half plots at 75 kg N and 48 kg K20 as (25:0:16) and K to clover - grass half plots at 48 kg K20 as muriate of potash:
 R/RN/2|1974|Reseeded and 01d Grass:|3-June-1974||diary record|NK applied to all - grass half plots at 75 kg N and 48 kg K20 as (25:0:16) and K to clover - grass half plots at 48 kg K20 as muriate of potash:
 R/RN/2|1974|Reseeded and 01d Grass:|1-Aug-1974||diary record|NK applied to all - grass half plots at 75 kg N and 48 kg K20 as (25:0:16) and K to clover - grass half plots at 48 kg K20 as muriate of potash:
-R/RN/2|1974|Reseeded and 01d Grass:|30-May-1974||diary record|Cut:
-R/RN/2|1974|Reseeded and 01d Grass:|30-July-1974||diary record|Cut:
-R/RN/2|1974|Reseeded and 01d Grass:|3-Dec-1974||diary record|Cut:
+R/RN/2|1974|Reseeded and 01d Grass:|30-May-1974||diary record|cut:
+R/RN/2|1974|Reseeded and 01d Grass:|30-July-1974||diary record|cut:
+R/RN/2|1974|Reseeded and 01d Grass:|3-Dec-1974||diary record|cut:
 R/RN/2|1975|3rd year Treatment crops All grass ley:|15-Jan-1975||diary record|PK applied at 75 kg P2O5, 150 kg K20 as (0:14:28):
 R/RN/2|1975|3rd year Treatment crops All grass ley:|5-Mar-1975||diary record|NK applied at 75 kg N, 48 kg K20 as (25:0:16):
 R/RN/2|1975|3rd year Treatment crops All grass ley:|4-June-1975||diary record|NK applied at 75 kg N, 48 kg K20 as (25:0:16):
 R/RN/2|1975|3rd year Treatment crops All grass ley:|18-Aug-1975||diary record|NK applied at 75 kg N, 48 kg K20 as (25:0:16):
-R/RN/2|1975|3rd year Treatment crops All grass ley:|28-May-1975||diary record|Cut:
-R/RN/2|1975|3rd year Treatment crops All grass ley:|31-July-1975||diary record|Cut:
-R/RN/2|1975|3rd year Treatment crops All grass ley:|10-Nov-1975||diary record|Cut:
+R/RN/2|1975|3rd year Treatment crops All grass ley:|28-May-1975||diary record|cut:
+R/RN/2|1975|3rd year Treatment crops All grass ley:|31-July-1975||diary record|cut:
+R/RN/2|1975|3rd year Treatment crops All grass ley:|10-Nov-1975||diary record|cut:
 R/RN/2|1975|3rd year Treatment crops Clover grass ley:|15-Jan-1975||diary record|PK applied at 75 kg P2O5, 150 kg K20 es (0:14:28):
 R/RN/2|1975|3rd year Treatment crops Clover grass ley:|5-Mar-1975||diary record|K applied at 48 kg K20 as muriate of potash:
 R/RN/2|1975|3rd year Treatment crops Clover grass ley:|4-June-1975||diary record|K applied at 48 kg K20 as muriate of potash:
 R/RN/2|1975|3rd year Treatment crops Clover grass ley:|18-Aug-1975||diary record|K applied at 48 kg K20 as muriate of potash:
-R/RN/2|1975|3rd year Treatment crops Clover grass ley:|28-May-1975||diary record|Cut:
-R/RN/2|1975|3rd year Treatment crops Clover grass ley:|31-July-1975||diary record|Cut:
-R/RN/2|1975|3rd year Treatment crops Clover grass ley:|10-Nov-1975||diary record|Cut:
+R/RN/2|1975|3rd year Treatment crops Clover grass ley:|28-May-1975||diary record|cut:
+R/RN/2|1975|3rd year Treatment crops Clover grass ley:|31-July-1975||diary record|cut:
+R/RN/2|1975|3rd year Treatment crops Clover grass ley:|10-Nov-1975||diary record|cut:
 R/RN/2|1975|3rd year Treatment crops Lucerne:|15-Jan-1975||diary record|PK applied at 115 kg P2O5, 230 kg K20 as (0:14:28):
-R/RN/2|1975|3rd year Treatment crops Lucerne:|10-June-1975||diary record|Cut:
-R/RN/2|1975|3rd year Treatment crops Lucerne:|23-July-1975||diary record|Cut:
-R/RN/2|1975|3rd year Treatment crops Lucerne:|10-Nov-1975||diary record|Cut:
+R/RN/2|1975|3rd year Treatment crops Lucerne:|10-June-1975||diary record|cut:
+R/RN/2|1975|3rd year Treatment crops Lucerne:|23-July-1975||diary record|cut:
+R/RN/2|1975|3rd year Treatment crops Lucerne:|10-Nov-1975||diary record|cut:
 R/RN/2|1975|3rd year Treatment crops Oats:|17-Jan-1975||diary record|ploughed:
-R/RN/2|1975|3rd year Treatment crops Oats:|25-Mar-1975||diary record|Rotary cultivated and seed sown mangolds, sown at 200 kg, combine drilled 50 kg N, 50 kg P20S, 77 kg K20 as (13:13:20):
+R/RN/2|1975|3rd year Treatment crops Oats:|25-Mar-1975||diary record|Rotary cultivated and seed sown Manod, sown at 200 kg, combine drilled 50 kg N, 50 kg P20S, 77 kg K20 as (13:13:20):
 R/RN/2|1975|3rd year Treatment crops Oats:|20-May-1975||diary record|Dicamba with mecoprop and MCPA (Benlene Plus at 5.6 l in 220 l):
+R/RN/2|1975|3rd year Treatment crops Oats:|18-Aug-1975||diary record|Combine harvested:
 R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|30-Sept-1974||diary record|paraquat at 0.56 kg ion in 220 l:
 R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|11-Oct-1974||diary record|ploughed:
 R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|14-Oct-1974||diary record|Rotary cultivated:
 R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|15-Oct-1974||diary record|Drilled Cappelle, sown at 200 kg combine drilled 75 kg P20S and 75 kg K20 ss (0:20:20):
-R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N75 applied at 75 kgN/ha:
-R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N126 applied at 126 kgN/ha:
-R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N176 applied at 176 kgN/ha:
-R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N226 applied at 226 kgN/ha:
+R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N75 applied at 75 kg/ha:
+R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N126 applied at 126 kg/ha:
+R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N176 applied at 176 kg/ha:
+R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|22-Apr-1975||diary record|Test N226 applied at 226 kg/ha:
 R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|9-May-1975||diary record|Mecoprop (Compitox Extra at 4.2 l in 220 l):
 R/RN/2|1975|Test crop: Winter wheat (7th to 11th test crops)|12-Aug-1975||diary record|Combine harvested:
-R/RN/2|1975|Winter whest (3xd test crops):|3-Sept-1974||diary record|paraquat at 0.56 kg ion in 220 l: Block
-R/RN/2|1975|Winter whest (3xd test crops):|30-Sept-1974||diary record|paraquat at 0.56 kg ion in 220 l: Block
-R/RN/2|1975|Winter whest (3xd test crops):|14-Oct-1974||diary record|paraquat at 0.56 kg ion in 220 l: Block l:
+R/RN/2|1975|Winter whest (3xd test crops):|30-Sept-1974||diary record|paraquat at 0.56 kg ion in 220 l: Block three:
+R/RN/2|1975|Winter whest (3xd test crops):|14-Oct-1974||diary record|paraquat at 0.56 kg ion in 220 l: Block one:
 R/RN/2|1975|Winter whest (3xd test crops):|15-Oct-1974||diary record|ploughed:
 R/RN/2|1975|Winter whest (3xd test crops):|28-Oct-1974||diary record|Rotary cultivated:
 R/RN/2|1975|Winter whest (3xd test crops):|31-Oct-1974||diary record|seed sown Cappelle, sown at 200 kg combine drilled 75 kg P20S and 75 kg K20 ss (0:20:20):
-R/RN/2|1975|Winter whest (3xd test crops):|22-Apr-1975||diary record|Test N50 applied at 50 kgN/ha:
-R/RN/2|1975|Winter whest (3xd test crops):|22-Apr-1975||diary record|Test N100 applied at 100 kgN/ha:
-R/RN/2|1975|Winter whest (3xd test crops):|22-Apr-1975||diary record|Test N150 applied at 150 kgN/ha:
+R/RN/2|1975|Winter whest (3xd test crops):|22-Apr-1975||diary record|Test N50 applied at 50 kg/ha:
+R/RN/2|1975|Winter whest (3xd test crops):|22-Apr-1975||diary record|Test N100 applied at 100 kg/ha:
+R/RN/2|1975|Winter whest (3xd test crops):|22-Apr-1975||diary record|Test N150 applied at 150 kg/ha:
 R/RN/2|1975|Winter whest (3xd test crops):|9-May-1975||diary record|Mecoprop (Compitox Extra at 4.2 l in 220 l:
 R/RN/2|1975|Winter whest (3xd test crops):|11-Aug-1975||diary record|Combine harvested:
 R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|15-Jan-1975||diary record|PK applied at 75 kg P2O5, 150 kg K20 as (0:14:28):
 R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|5-Mar-1975||diary record|NK applied to all - grass half plots at 75 kg N and 48 kg K20 as (25:0:16) and K to clover - grass half-plots at 48 kg K20 as muriate of potash:
 R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|4-June-1975||diary record|NK applied to all - grass half plots at 75 kg N and 48 kg K20 as (25:0:16) and K to clover - grass half-plots at 48 kg K20 as muriate of potash:
 R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|18-Aug-1975||diary record|NK applied to all - grass half plots at 75 kg N and 48 kg K20 as (25:0:16) and K to clover - grass half-plots at 48 kg K20 as muriate of potash:
-R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|28-May-1975||diary record|Cut:
-R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|31-July-1975||diary record|Cut:
-R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|10-Nov-1975||diary record|Cut:
+R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|28-May-1975||diary record|cut:
+R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|31-July-1975||diary record|cut:
+R/RN/2|1975|Reseeded and Old grass (excludirg all-grass half plots of reseeded grass):|10-Nov-1975||diary record|cut:
 R/RN/2|1976|lst-year treatment crops: All-grass ley:|9-Oct-1975||diary record|Glyphosate at 1.7 kg in 220 l:
 R/RN/2|1976|lst-year treatment crops: All-grass ley:|8-Dec-1975||diary record|ploughed:
 R/RN/2|1976|lst-year treatment crops: All-grass ley:|23-Mar-1976||diary record|Spring-tine cultivated:
@@ -520,7 +518,7 @@ R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|8-Dec-1975||diary record
 R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|23-Mar-1976||diary record|Spring-tine cultivated:
 R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|9-Apr-1976||diary record|PK applied 75 kg P2O5, 150 kg K2O as (0:14:28):
 R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|12-Apr-1976||diary record|Power harrowed:
-R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|20-Apr-1976||diary record|seed sown Timothy S51 at 15 kg, Meadow Fescue at 19 kg. White Clover S100 at 3 kg. Mixture sown at 37 Koga:
+R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|20-Apr-1976||diary record|seed sown Timothy S51 at 15 kg, Meadow Fescue at 19 kg. White Clover S100 at 3 kg. Mixture sown at 37 kg:
 R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|17-June-1976||diary record|Topped:
 R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|9-July-1976||diary record|Topped:
 R/RN/2|1976|lst-year treatment crops: Clover-grass ley:|18-Aug-1976||diary record|Topped:
@@ -529,8 +527,8 @@ R/RN/2|1976|lst-year treatment crops: Lucerne:|3-Dec-1975||diary record|ploughed
 R/RN/2|1976|lst-year treatment crops: Lucerne:|23-Mar-1976||diary record|Spring-tine cultivated:
 R/RN/2|1976|lst-year treatment crops: Lucerne:|9-Apr-1976||diary record|PK applied 75 kg P2O5, 75 kg K20 as (0:20:20):
 R/RN/2|1976|lst-year treatment crops: Lucerne:|20-Apr-1976||diary record|Power harrowed and seed sown Europe, sown at 28 kg:
-R/RN/2|1976|lst-year treatment crops: Lucerne:|16-Aug-1976||diary record|Cut:
-R/RN/2|1976|lst-year treatment crops: Lucerne:|22-Dec-1976||diary record|Cut:
+R/RN/2|1976|lst-year treatment crops: Lucerne:|16-Aug-1976||diary record|cut:
+R/RN/2|1976|lst-year treatment crops: Lucerne:|22-Dec-1976||diary record|cut:
 R/RN/2|1976|lst-year treatment crops: Hay:|9-Oct-1975||diary record|Glyphosate at 1.7 kg in 220 l:
 R/RN/2|1976|lst-year treatment crops: Hay:|8-Dec-1975||diary record|ploughed:
 R/RN/2|1976|lst-year treatment crops: Hay:|23-Mar-1976||diary record|Spring-tine cultivated:
@@ -542,9 +540,9 @@ R/RN/2|1976|lst-year treatment crops: Hay:|18-Aug-1976||diary record|Topped:
 R/RN/2|1976|1st Test Crop: Potatoes:|8-Dec-1975||diary record|ploughed:
 R/RN/2|1976|1st Test Crop: Potatoes:|11-Mar-1976||diary record|Disced twice:
 R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|PK applied at 300 kg P2O5, 300 kg K20 as (0:20:20):
-R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|test N80 at 80 kgN/ha:
-R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|test N160 at 160 kgN/ha:
-R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|test N240 at 240 kgN/ha:
+R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|test N80 at 80 kg/ha:
+R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|test N160 at 160 kg/ha:
+R/RN/2|1976|1st Test Crop: Potatoes:|29-Mar-1976||diary record|test N240 at 240 kg/ha:
 R/RN/2|1976|1st Test Crop: Potatoes:|30-Mar-1976||diary record|Rotary cultivated and potatoes planted Pentland Crown:
 R/RN/2|1976|1st Test Crop: Potatoes:|31-Mar-1976||diary record|Grubbed (Fosters only):
 R/RN/2|1976|1st Test Crop: Potatoes:|5-May-1976||diary record|Linuron at 1.2 kg with paraquat at 0.42 kg ion in 220 l:
@@ -557,13 +555,13 @@ R/RN/2|1976|1st Test Crop: Potatoes:|23-Sept-1976||diary record|Haulm desiccant 
 R/RN/2|1976|1st Test Crop: Potatoes:|12-Oct-1976||diary record|Lifted:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|7-Oct-1975||diary record|paraquat at 0.42 kg ion in 220 l:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|15-Oct-1975||diary record|ploughed:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|16-Oct-1975||diary record|Heavy spring-tine cultivated:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|16-Oct-1975||diary record|heavy spring-tine cultivated:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|20-Oct-1975||diary record|Rotary harrowed:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|22-Oct-1975||diary record|seed sown Cappelle, sown at 200 kg PK combine drilled at 75 kg P2O5, 75 kg K2O as (0:20:20):
-R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N75 applied at 75 kgN/ha:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N126 applied at 126 kgN/ha:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N176 applied at 176 kgN/ha:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N225 applied at 225 kgN/ha:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N75 applied at 75 kg/ha:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N126 applied at 126 kg/ha:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N176 applied at 176 kg/ha:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|2-Apr-1976||diary record|Test N225 applied at 225 kg/ha:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|17-Apr-1976||diary record|Dicamba with mecoprop and MCPA (Banlene Plus at 5.6 l in 220 l):
 R/RN/2|1976|8th, 9th and 11th Test Crops: Winter wheat:|23-July-1976||diary record|Combine harvested:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|4-Dec-1975||diary record|Chalk at 8.7 t to all - grass half plots:
@@ -572,44 +570,44 @@ R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-
 R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|24-May-1976||diary record|NK to all - grass half plots (Excluding reseeded grass) at 75 kg N, 48 kg K2O as (25:0:16) after cut:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|25-Feb-1976||diary record|K to clover - grass half plots at 48 kg PK as muriate of potash after cut:
 R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|24-May-1976||diary record|K to clover - grass half plots at 48 kg PK as muriate of potash after cut:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|19-May-1976||diary record|Cut:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|29-June-1976||diary record|Cut:
-R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|10-Nov-1976||diary record|Cut:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|19-May-1976||diary record|cut:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|29-June-1976||diary record|cut:
+R/RN/2|1976|8th, 9th and 11th Test Crops: Reseeded and Old Grass {Excluding all-grass half plots of reseeded grass):|10-Nov-1976||diary record|cut:
 R/RN/2|1976|Fallow after 11th test crop 1975:|28-Oct-1975||diary record|ploughed:
-R/RN/2|1976|Fallow after 11th test crop 1975:|14-Apr-1976||diary record|Heavy spring-tine cultivated:
+R/RN/2|1976|Fallow after 11th test crop 1975:|14-Apr-1976||diary record|heavy spring-tine cultivated:
 R/RN/2|1976|Fallow after 11th test crop 1975:|21-Apr-1976||diary record|Rotary cultivated:
 R/RN/2|1976|Fallow after 11th test crop 1975:|27-May-1976||diary record|Deep-tine cultivated:
-R/RN/2|1976|Fallow after 11th test crop 1975:|16-June-1976||diary record|Heavy spring-tine cultivated:
+R/RN/2|1976|Fallow after 11th test crop 1975:|16-June-1976||diary record|heavy spring-tine cultivated:
 R/RN/2|1976|Fallow after 11th test crop 1975:|2-July-1976||diary record|Rotary cultivated:
 R/RN/2|1977|Museum Blocks all clover-grass ley:|20-Aug-1976||diary record|ploughed:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|21-Sept-1976||diary record|Spring-tine cultivated, harrowed, seed sown all grass barley Pecora Timothy at 15 kg, Meadow Fescue S215 at 19 kg. Mixture sown at 34 kg, seed sown clover grass barley Pecora Timothy at 15 kg, Meadow Fescue S215 at 19 kg, White Clover S100 at 3 kg. Mixture sown at 37 kg:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|21-Sept-1976||diary record|Spring-tine cultivated, harrowed, seed sown all grass ley Pecora Timothy at 15 kg, Meadow Fescue S215 at 19 kg. Mixture sown at 34 kg, seed sown clover grass ley Pecora Timothy at 15 kg, Meadow Fescue S215 at 19 kg, White Clover S100 at 3 kg. Mixture sown at 37 kg:
 R/RN/2|1977|Museum Blocks all clover-grass ley:|33-Dec-1976||diary record|PK applied (0:14:28) at 540 kg:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|3-Mar-1977||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|26-May-1977||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|1-July-1977||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|5-Aug-1977||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|24-May-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|30-June-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|4-Aug-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks all clover-grass ley:|23-Nov-1977||diary record|Cut:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|3-Mar-1977||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|26-May-1977||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|1-July-1977||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|5-Aug-1977||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|24-May-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|30-June-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|4-Aug-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks all clover-grass ley:|23-Nov-1977||diary record|cut:
 R/RN/2|1977|Museum Blocks Lucerne:|23-Dec-1976||diary record|PK applied (0:14:28) at 810 kg:
-R/RN/2|1977|Museum Blocks Lucerne:|29-June-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks Lucerne:|16-Aug-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks Lucerne:|1-Dec-1977||diary record|Cut:
+R/RN/2|1977|Museum Blocks Lucerne:|29-June-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks Lucerne:|16-Aug-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks Lucerne:|1-Dec-1977||diary record|cut:
 R/RN/2|1977|Museum Blocks Sugar beet:|20-Aug-1976||diary record|ploughed:
 R/RN/2|1977|Museum Blocks Sugar beet:|7-Apr-1977||diary record|Rotary harrowed:
 R/RN/2|1977|Museum Blocks Sugar beet:|9-Apr-1977||diary record|NPK applied (13:13:20) at 1260 kg:
 R/RN/2|1977|Museum Blocks Sugar beet:|12-Apr-1977||diary record|Spring-tine cultivated, chain harrowed, rolled, seed sown Klein E, sown at 9 kg:
-R/RN/2|1977|Museum Blocks Sugar beet:|27-May-1977||diary record|Proctor hoed:
-R/RN/2|1977|Museum Blocks Sugar beet:|16-June-1977||diary record|Proctor hoed:
+R/RN/2|1977|Museum Blocks Sugar beet:|27-May-1977||diary record|tractor hoed:
+R/RN/2|1977|Museum Blocks Sugar beet:|16-June-1977||diary record|tractor hoed:
 R/RN/2|1977|Museum Blocks Sugar beet:|2-June-1977||diary record|plots singled:
 R/RN/2|1977|Museum Blocks Sugar beet:|6-July-1977||diary record|Pirimicarb at 0.14 kg in 220 l:
-R/RN/2|1977|Museum Blocks Sugar beet:|11-Nov-1977||diary record|Lifted by hand:
-R/RN/2|1977|Museum Blocks Wheat:|23-Nov-1976||diary record|Heavy spring-tine cultivated twice:
+R/RN/2|1977|Museum Blocks Sugar beet:|11-Nov-1977||diary record|Lifted by and:
+R/RN/2|1977|Museum Blocks Wheat:|23-Nov-1976||diary record|heavy spring-tine cultivated twice:
 R/RN/2|1977|Museum Blocks Wheat:|24-Nov-1976||diary record|Sown Cappelle, sown at 200 kg. (0:20:20) at 380 kg, combine drilled:
-R/RN/2|1977|Museum Blocks Wheat:|28-Apr-1977||diary record|Test N50 applied at 50 kgN/ha:
-R/RN/2|1977|Museum Blocks Wheat:|28-Apr-1977||diary record|Test N100 applied at 100 kgN/ha:
-R/RN/2|1977|Museum Blocks Wheat:|28-Apr-1977||diary record|Test N150 applied at 150 kgN/ha:
+R/RN/2|1977|Museum Blocks Wheat:|28-Apr-1977||diary record|Test N50 applied at 50 kg/ha:
+R/RN/2|1977|Museum Blocks Wheat:|28-Apr-1977||diary record|Test N100 applied at 100 kg/ha:
+R/RN/2|1977|Museum Blocks Wheat:|28-Apr-1977||diary record|Test N150 applied at 150 kg/ha:
 R/RN/2|1977|Museum Blocks Wheat:|2-May-1977||diary record|Dicamba with mecoprop and MCPA (Banlene Plus at 4.9 l in 220 l):
 R/RN/2|1977|Museum Blocks Wheat:|15-July-1977||diary record|Pirimicarb at 0.14 kg in 280 l:
 R/RN/2|1977|Museum Blocks Wheat:|9-Sept-1977||diary record|Combine harvested:
@@ -618,10 +616,10 @@ R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|3-Mar-1977||diary record
 R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|26-May-1977||diary record|NK applied (to N sub plots only) (25:0:16) at 300 kg:
 R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|1-July-1977||diary record|NK applied (to N sub plots only) (25:0:16) at 300 kg:
 R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|5-Aug-1977||diary record|NK applied (to N sub plots only) (25:0:16) at 300 kg:
-R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|24-May-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|30-June-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|4-Aug-1977||diary record|Cut:
-R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|23-Nov-1977||diary record|Cut:
+R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|24-May-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|30-June-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|4-Aug-1977||diary record|cut:
+R/RN/2|1977|Museum Blocks Reseeded Grass and 01d Grass:|23-Nov-1977||diary record|cut:
 R/RN/2|1977|New sequence blocks Fallow:|22-Sept-1976||diary record|ploughed:
 R/RN/2|1977|New sequence blocks Fallow:|26-Nov-1976||diary record|Deep-tine cultivated:
 R/RN/2|1977|New sequence blocks Fallow:|3-May-1977||diary record|Rotary cultivated:
@@ -643,7 +641,7 @@ R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|5-Apr-1977||diary
 R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|7-Apr-1977||diary record|Spring-tine cultivated:
 R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|19-May-1977||diary record|NK (Ryegrass only) (25:0:16) at 300 kg:
 R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|19-May-1977||diary record|PK applied (0:14:28) at 720 kg:
-R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|20-May-1977||diary record|Spring-tine cultivated, seed sown Ryegrass S24, sown at 22 kg, seed sown clover grass barley, Timothy S48 at 15 kg, Meadow Fescue S215 at 19 kg, New Zealand Huia Clover at 3 kg. Mixture sown at 37 kg:
+R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|20-May-1977||diary record|Spring-tine cultivated, seed sown Ryegrass S24, sown at 22 kg, seed sown clover grass ley, Timothy S48 at 15 kg, Meadow Fescue S215 at 19 kg, one Zealand Huia Clover at 3 kg. Mixture sown at 37 kg:
 R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|8-July-1977||diary record|NK applied (clover - grass only) (25:0:16) at 300 kg:
 R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|27-July-1977||diary record|MCPA (Tropotox at 7.0 l in 340 l):
 R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|13-Aug-1977||diary record|Topped:
@@ -651,7 +649,7 @@ R/RN/2|1977|New sequence blocks Clover-grass ley and ryegrass:|1-Dec-1977||diary
 R/RN/2|1977|New sequence blocks Oats:|26-Nov-1977||diary record|Deep-tine cultivated:
 R/RN/2|1977|New sequence blocks Oats:|8-Mar-1977||diary record|Rotary harrowed:
 R/RN/2|1977|New sequence blocks Oats:|7-Apr-1977||diary record|Spring-tine cultivated:
-R/RN/2|1977|New sequence blocks Oats:|8-Apr-1977||diary record|Sown mangolds, sown at 200 kg, combine drilled NPK (20:14:14) at 350 kg:
+R/RN/2|1977|New sequence blocks Oats:|8-Apr-1977||diary record|Sown Manod, sown at 200 kg, combine drilled NPK (20:14:14) at 350 kg:
 R/RN/2|1977|New sequence blocks Oats:|30-May-1977||diary record|Dicamba with mecoprop and MCPA (Banlene Plus at 4.9 l):
 R/RN/2|1977|New sequence blocks Oats:|6-Sept-1977||diary record|Combine harvested:
 R/RN/2|1977|New sequence blocks Barley:|26-Nov-1977||diary record|Deep-tine cultivated:
@@ -668,76 +666,76 @@ R/RN/2|1977|New sequence blocks Wheat:|2-May-1977||diary record|Dicamba with mec
 R/RN/2|1977|New sequence blocks Wheat:|15-July-1977||diary record|Pirimicarb at 0.14 kg in 280 l:
 R/RN/2|1977|New sequence blocks Wheat:|11-Sept-1977||diary record|Combine harvested:
 R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|12-Dec-1977||diary record|PK applied (0:14:28) at 540 kg:
-R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|17-Mar-1978||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|8-June-1978||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|28-July-1978||diary record|NK applied (all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|2-June-1978||diary record|Cut:
-R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|25-July-1978||diary record|Cut:
-R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|31-Oct-1978||diary record|Cut:
+R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|17-Mar-1978||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|8-June-1978||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|28-July-1978||diary record|NK applied (all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|2-June-1978||diary record|cut:
+R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|25-July-1978||diary record|cut:
+R/RN/2|1978|Museum blocks All-grass ley and clover-grass ley:|31-Oct-1978||diary record|cut:
 R/RN/2|1978|Museum blocks Lucerne:|12-Dec-1977||diary record|PK applied (0:14:28) at 810 kg:
-R/RN/2|1978|Museum blocks Lucerne:|27-June-1978||diary record|Cut:
-R/RN/2|1978|Museum blocks Lucerne:|17-Aug-1978||diary record|Cut:
-R/RN/2|1978|Museum blocks Lucerne:|7-Nov-1978||diary record|Cut:
+R/RN/2|1978|Museum blocks Lucerne:|27-June-1978||diary record|cut:
+R/RN/2|1978|Museum blocks Lucerne:|17-Aug-1978||diary record|cut:
+R/RN/2|1978|Museum blocks Lucerne:|7-Nov-1978||diary record|cut:
 R/RN/2|1978|Museum blocks Oats:|2-Dec-1977||diary record|ploughed:
-R/RN/2|1978|Museum blocks Oats:|8-Apr-1977||diary record|Rotary harrowed, seed sown mangolds, sown at 130 kg, NPK (20:14:14) at 350 kg, combine drilled:
+R/RN/2|1978|Museum blocks Oats:|8-Apr-1977||diary record|Rotary harrowed, seed sown Manod, sown at 130 kg, NPK (20:14:14) at 350 kg, combine drilled:
 R/RN/2|1978|Museum blocks Oats:|26-May-1977||diary record|Dicamba with mecoprop and MCPA (as Banlene Plus at 4.9 l in 220 l):
 R/RN/2|1978|Museum blocks Oats:|18-Sept-1977||diary record|Combine harvested:
 R/RN/2|1978|Museum blocks Wheat:|11-Oct-1977||diary record|ploughed:
 R/RN/2|1978|Museum blocks Wheat:|18-Oct-1977||diary record|Power harrowed:
 R/RN/2|1978|Museum blocks Wheat:|20-Oct-1977||diary record|seed sown Cappelle, sown at 200 kg, (0:20:20) at 280 kg, combine drilled:
-R/RN/2|1978|Museum blocks Wheat:|25-Oct-1977||diary record|Mathabenzthiazuron at 2.1 kg in 220 l:
-R/RN/2|1978|Museum blocks Wheat:|8-May-1978||diary record|Test N50 applied at 50 kgN/ha:
-R/RN/2|1978|Museum blocks Wheat:|8-May-1978||diary record|Test N100 applied at 100 kgN/ha:
-R/RN/2|1978|Museum blocks Wheat:|8-May-1978||diary record|Test N150 applied at 150 kgN/ha:
+R/RN/2|1978|Museum blocks Wheat:|25-Oct-1977||diary record|Methabenzthiazuron at 2.1 kg in 220 l:
+R/RN/2|1978|Museum blocks Wheat:|8-May-1978||diary record|Test N50 applied at 50 kg/ha:
+R/RN/2|1978|Museum blocks Wheat:|8-May-1978||diary record|Test N100 applied at 100 kg/ha:
+R/RN/2|1978|Museum blocks Wheat:|8-May-1978||diary record|Test N150 applied at 150 kg/ha:
 R/RN/2|1978|Museum blocks Wheat:|10-May-1978||diary record|Dicamba with mecoprop and MCPA (as Banlene Plus at 4.9 l in 220 l):
 R/RN/2|1978|Museum blocks Wheat:|4-Sept-1978||diary record|Combine harvested:
 R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|12-Dec-1977||diary record|PK applied (25:0:16) at 300 kg:
 R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|17-Mar-1978||diary record|NK applied (to N sub plots only) (25:0:16) at 300 kg:
 R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|8-June-1978||diary record|NK applied (to N sub plots only) (25:0:16) at 300 kg:
 R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|28-July-1978||diary record|NK applied (to N sub plots only) (25:0:16) at 300 kg:
-R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|1-June-1978||diary record|Cut:
-R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|25-July-1978||diary record|Cut:
-R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|31-Oct-1978||diary record|Cut:
+R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|1-June-1978||diary record|cut:
+R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|25-July-1978||diary record|cut:
+R/RN/2|1978|Museum blocks Reseeded Grass and Old Grass:|31-Oct-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|11-Oct-1977||diary record|ploughed:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|18-May-1978||diary record|Heavy spring-tine cultivated, PK applied (0:14:28) at 720 kg in seedbed, rotary harrowed:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|18-May-1978||diary record|heavy spring-tine cultivated, PK applied (0:14:28) at 720 kg in seedbed, rotary harrowed:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|23-May-1978||diary record|seed sown Vertus, sown at 28 kg:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|27-July-1978||diary record|Topped:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|1-Nov-1978||diary record|Cut:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Lucerne:|1-Nov-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|11-Oct-1977||diary record|ploughed:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|18-May-1978||diary record|Heavy spring-tine cultivated, PK applied (0:14:28) at 720 kg in seedbed and rotary harrowed:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|22-May-1978||diary record|seed sown Clover - grass leys: Timothy RvP Erecta (Pecora on 2nd treatment crops) at 15 kg, Meadow Fescue S.215 at 19 kg, Clover New Zealand Huia at 3 kg. Mixture sown at 37 Koga:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|18-May-1978||diary record|heavy spring-tine cultivated, PK applied (0:14:28) at 720 kg in seedbed and rotary harrowed:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|22-May-1978||diary record|seed sown Clover - grass ley: Timothy RvP Erecta (Pecora on 2nd treatment crops) at 15 kg, Meadow Fescue S.215 at 19 kg, Clover one Zealand Huia at 3 kg. Mixture sown at 37 kg:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|27-July-1978||diary record|Topped:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|28-July-1978||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|1-Nov-1978||diary record|Cut:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Clover-grass ley:|1-Nov-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|11-Oct-1977||diary record|ploughed:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|18-May-1978||diary record|Heavy spring-tine cultivated:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|18-May-1978||diary record|heavy spring-tine cultivated:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|18-May-1978||diary record|PK applied (0:14:28) at 720 kg to seedbed:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|18-May-1978||diary record|NK applied (25:0:16) at 300:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|18-May-1978||diary record|rotary harrowed:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|22-May-1978||diary record|seed sown Ryegrass S.24 sown at 55 Kg:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|1-Aug-1978||diary record|Topped:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|1-Nov-1978||diary record|Cut:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Ryegrass:|1-Nov-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Oats and Barley:|11-Oct-1977||diary record|ploughed:
-R/RN/2|1978|New sequence blocks 1st Treatment Crops: Oats and Barley:|8-Apr-1978||diary record|Rotary harrowed, seed sown oats mangolds, sown at 130 kg, seed sown barley, Porthos, sown at 160 kg, NPK as (20:14:14) at 350 kg, combine drilled:
+R/RN/2|1978|New sequence blocks 1st Treatment Crops: Oats and Barley:|8-Apr-1978||diary record|Rotary harrowed, seed sown oats Manod, sown at 130 kg, seed sown barley, Porthos, sown at 160 kg, NPK as (20:14:14) at 350 kg, combine drilled:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Oats and Barley:|26-May-1978||diary record|to Oats Dicamba with mecoprop and MCPA (as Banlene Plus at 4.9 l in 220 l):
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Oats and Barley:|26-May-1978||diary record|to barley Ioxynil at 0.53 1 and mecoprop at 1.6 l in 220 1 and Tridemorph at 0.53 kg in 220 1 applied:
 R/RN/2|1978|New sequence blocks 1st Treatment Crops: Oats and Barley:|18-Sept-1978||diary record|Combine harvested:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|9-Dec-1977||diary record|PK applied (0:14:28) at 720 Koga:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|27-June-1978||diary record|Cut:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|17-Aug-1978||diary record|Cut:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|1-Nov-1978||diary record|Cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|9-Dec-1977||diary record|PK applied (0:14:28) at 720 kg:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|27-June-1978||diary record|cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|17-Aug-1978||diary record|cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Lucerne:|1-Nov-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|9-Dec-1977||diary record|PK applied (0:14:28):
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|17-Mar-1978||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|1-June-1978||diary record|Cut:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|26-July-1978||diary record|Cut:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|1-Nov-1978||diary record|Cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|1-June-1978||diary record|cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|26-July-1978||diary record|cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Clover-grass leys:|1-Nov-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|12-Dec-1977||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|17-Mar-1978||diary record|NK applied (25:0:16) at 300 kg:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|8-June-1978||diary record|NK applied (25:0:16) at 300 kg:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|28-July-1978||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|1-June-1978||diary record|Cut:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|26-July-1978||diary record|Cut:
-R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|1-Nov-1978||diary record|Cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|1-June-1978||diary record|cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|26-July-1978||diary record|cut:
+R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Ryegrass:|1-Nov-1978||diary record|cut:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Potatoes:|2-Dec-1977||diary record|ploughed:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Potatoes:|25-Apr-1978||diary record|NPK applied (13:13:20) at 1500 kg:
 R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Potatoes:|9-May-1978||diary record|Spike rotary cultivated, seed sown Pentland Crown:
@@ -756,7 +754,7 @@ R/RN/2|1978|New sequence blocks 2nd Treatment Crops: Barley:|10-Sept-1978||diary
 R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|11-Oct-1977||diary record|ploughed:
 R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|18-Oct-1977||diary record|Power harrowed:
 R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|20-Oct-1977||diary record|seed sown Cappelle, sown at 200 kg, PK (0:20:20) at 380 kg:
-R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|25-Oct-1977||diary record|Mathabenzthiazuron applied at 3.1 kg in 220 l:
+R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|25-Oct-1977||diary record|Methabenzthiazuron applied at 3.1 kg in 220 l:
 R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|5-May-1978||diary record|N applied as Nitra - Shell 34 at 360 kg:
 R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|10-May-1978||diary record|Dicamba with mecoprop and MCPA (as Banlene Plus at 4.9 l in 220 l):
 R/RN/2|1978|New sequence blocks Preparatory Crop: Wheat:|5-Sept-1978||diary record|Combine harvested:
@@ -770,20 +768,20 @@ R/RN/2|1978|New sequence blocks Preparatory Crop: Fallow:|1-Nov-1978||diary reco
 R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|20-Nov-1978||diary record|Glyphosate at 1.5 kg in 220 l:
 R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|20-Dec-1978||diary record|ploughed:
 R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|6-June-1979||diary record|paraquat at 0.70 kg ion in 220 l:
-R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|N applied all - grass barley only: nitro-chalk at 290 kg:
+R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|N applied all - grass ley only: nitro-chalk at 290 kg:
 R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|PK applied (0:14:28) at 540 kg, rotary harrowed twice:
-R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|seed sown: all grass barley Meadow Fescue S215 at 17 kg. Timothy Erecta RvP at 17 kg. Mixture sown at 34 kg:
-R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|seed sown Clover - grass barley: Meadow Fescue S215 at 18 kg. Timothy Erecta RvP at 15 kg. New Zealand White Clover Huia at 4 kg. Mixture sown at 37 Koga:
+R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|seed sown: all grass ley Meadow Fescue S215 at 17 kg. Timothy Erecta RvP at 17 kg. Mixture sown at 34 kg:
+R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|8-June-1979||diary record|seed sown Clover - grass ley: Meadow Fescue S215 at 18 kg. Timothy Erecta RvP at 15 kg. one Zealand White Clover Huia at 4 kg. Mixture sown at 37 kg:
 R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|11-July-1979||diary record|MCPA at 0.26 kg and MCPA at 1.6 kg in 220 l:
 R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|18-July-1979||diary record|Topped:
-R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|27-Sept-1979||diary record|Cut for yield once:
+R/RN/2|1979|Museum blocks All-grass ley and clover-grass ley:|27-Sept-1979||diary record|cut for yield one:
 R/RN/2|1979|Museum blocks Lucerne:|20-Nov-1978||diary record|Glyphosate at 1.5 kg in 220 l:
 R/RN/2|1979|Museum blocks Lucerne:|20-Dec-1978||diary record|ploughed:
 R/RN/2|1979|Museum blocks Lucerne:|6-June-1979||diary record|paraquat at 0.70 kg ion:
 R/RN/2|1979|Museum blocks Lucerne:|8-June-1979||diary record|PK applied (0:20:20) at 380 kg, rotary harrowed twice, seed sown Vertus, sown at 28 kg:
 R/RN/2|1979|Museum blocks Lucerne:|11-July-1979||diary record|"2,4-D" at 1.8 kg in 220 l:
 R/RN/2|1979|Museum blocks Lucerne:|31-July-1979||diary record|Topped:
-R/RN/2|1979|Museum blocks Lucerne:|15-Nov-1979||diary record|Cut for yield once:
+R/RN/2|1979|Museum blocks Lucerne:|15-Nov-1979||diary record|cut for yield one:
 R/RN/2|1979|Museum blocks 1-year seeds hay:|30-Oct-1978||diary record|ploughed:
 R/RN/2|1979|Museum blocks 1-year seeds hay:|31-Oct-1978||diary record|Disc harrowed:
 R/RN/2|1979|Museum blocks 1-year seeds hay:|3-Nov-1978||diary record|seed sown Italian Ryegrass RvP sown at 25 kg (both sowings):
@@ -792,13 +790,13 @@ R/RN/2|1979|Museum blocks 1-year seeds hay:|6-June-1979||diary record|paraquat a
 R/RN/2|1979|Museum blocks 1-year seeds hay:|8-June-1979||diary record|N nitro-chalk at 290 kg and PK (0:14:28) at 540 kg applied, rotary harrowed twice, seed sown Italian Ryegrass RvP sown at 25 kg (both sowings):
 R/RN/2|1979|Museum blocks 1-year seeds hay:|11-July-1979||diary record|MCPA at 0.26 kg and MCPA at 1.6 kg in 220 l:
 R/RN/2|1979|Museum blocks 1-year seeds hay:|18-July-1979||diary record|Topped:
-R/RN/2|1979|Museum blocks 1-year seeds hay:|27-Sept-1979||diary record|Cut for yield once:
+R/RN/2|1979|Museum blocks 1-year seeds hay:|27-Sept-1979||diary record|cut for yield one:
 R/RN/2|1979|Museum blocks Potatoes:|20-Dec-1978||diary record|ploughed:
 R/RN/2|1979|Museum blocks Potatoes:|10-May-1979||diary record|Disc harrowed:
 R/RN/2|1979|Museum blocks Potatoes:|14-May-1979||diary record|PK applied (0:20:20) at 1500 kg:
-R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|Test N80 at 80 kgN/ha as nitro-chalk,
-R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|Test N160 at 160 kgN/ha as nitro-chalk,
-R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|Test N240 at 240 kgN/ha as nitro-chalk,
+R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|Test N80 at 80 kg/ha as nitro-chalk,
+R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|Test N160 at 160 kg/ha as nitro-chalk,
+R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|Test N240 at 240 kg/ha as nitro-chalk,
 R/RN/2|1979|Museum blocks Potatoes:|16-May-1979||diary record|spike rotary cultivated, seed planted Pentland Crown, Phorate granules (at planting) at 1.7 kg:
 R/RN/2|1979|Museum blocks Potatoes:|4-June-1979||diary record|paraquat at 0.42 kg ion with linuron at 1.1 kg in 220 l:
 R/RN/2|1979|Museum blocks Potatoes:|18-June-1979||diary record|Grubbed:
@@ -810,53 +808,54 @@ R/RN/2|1979|Museum blocks Potatoes:|3-Aug-1979||diary record|Mancozeb at 1.3 kg 
 R/RN/2|1979|Museum blocks Potatoes:|15-Aug-1979||diary record|Mancozeb at 1.3 kg in 220 l:
 R/RN/2|1979|Museum blocks Potatoes:|4-Sept-1979||diary record|Mancozeb at 1.3 kg in 220 l:
 R/RN/2|1979|Museum blocks Potatoes:|14-Sept-1979||diary record|Haulm pulverized:
-R/RN/2|1979|Museum blocks Potatoes:|21-Sept-1979||diary record|BOV applied at 170 l:
+R/RN/2|1979|Museum blocks Potatoes:|-Nov-1979||diary record|Haulm pulverized:
+R/RN/2|1979|Museum blocks Potatoes:|21-Sept-1979||diary record|applied at 170 l:
 R/RN/2|1979|Museum blocks Potatoes:|9-Oct-1979||diary record|Lifted:
 R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|14-Nov-1978||diary record|PK applied (0:14:28) at 540 kg:
 R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|8-Mar-1979||diary record|NK applied (to all - grass half plots only) (25:0:16) at 300 kg:
 R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|14-June-1979||diary record|NK applied (to all - grass half plots only) (25:0:16) at 300 kg:
 R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|27-July-1979||diary record|NK applied (to all - grass half plots only) (25:0:16) at 300 kg:
-R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|4-June-1979||diary record|Cut:
-R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|23-July-1979||diary record|Cut:
-R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|27-Sept-1979||diary record|Cut:
+R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|4-June-1979||diary record|cut:
+R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|23-July-1979||diary record|cut:
+R/RN/2|1979|Museum blocks Reseeded Grass and Old Grass:|27-Sept-1979||diary record|cut:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|19-Dec-1978||diary record|ploughed:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|23-Apr-1979||diary record|Spring-tine cultivated:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|8-June-1979||diary record|PK applied (0:14:28) at 720 kg, rotary harrowed twice, seed sown Vertus, sown at 28 kg:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|11-July-1979||diary record|"2,4-D" at 1.8 kg in 220 l:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|31-July-1979||diary record|Topped:
-R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|19-Nov-1979||diary record|Cut:
+R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Lucerne:|19-Nov-1979||diary record|cut:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|19-Dec-1978||diary record|ploughed:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|23-Apr-1979||diary record|Spring-tine cultivated:
-R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|8-June-1979||diary record|PK applied (0:14:28) at 720 kg, rotary harrowed twice, seed sown Clover - grass leys: Meadow Fescue S215 at 18 kg. Timothy Erecta RvP at 15 kg. New Zealand White Clover Huia at 4 kg. Mixture sown at 37 Koga:
+R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|8-June-1979||diary record|PK applied (0:14:28) at 720 kg, rotary harrowed twice, seed sown Clover - grass ley: Meadow Fescue S215 at 18 kg. Timothy Erecta RvP at 15 kg. one Zealand White Clover Huia at 4 kg. Mixture sown at 37 kg:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|11-July-1979||diary record|MCPA at 0.26 kg with MCPA at 1.6 kg in 220 l:
-R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|.18-July-1979||diary record|Topped:
+R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|18-July-1979||diary record|Topped:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|20-July-1979||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|27-Sept-1979||diary record|Cut:
+R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Clover-grass ley:|27-Sept-1979||diary record|cut:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|19-Dec-1978||diary record|ploughed:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|23-Apr-1979||diary record|Spring-tine cultivated:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|7-June-1979||diary record|NK (0:14:28) at 720 kg and PK applied (25:0:16) at 300 kg:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|8-June-1979||diary record|Rotary harrowed twice, seed sown S24, sown at 22 kg:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|11-July-1979||diary record|MCPA at 0.26 kg with MCPA at 1.6 kg in 220 l:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|18-July-1979||diary record|Topped:
-R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|27-Sept-1979||diary record|Cut:
+R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Ryegrass:|27-Sept-1979||diary record|cut:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|19-Dec-1978||diary record|ploughed:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|23-Apr-1979||diary record|Spring-tine cultivated:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|23-Apr-1979||diary record|barley sown Porthos, sown at 160 kg:
-R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|27-Apr-1979||diary record|Oats sown mangolds, sown at 200 kg:
+R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|27-Apr-1979||diary record|Oats sown Manod, sown at 200 kg:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|5-June-1979||diary record|Weedkillers applied:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|12-June-1979||diary record|Fungicide applied (barley only):
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|1-Sept-1979||diary record|barley combine harvested:
 R/RN/2|1979|New sequence blocks: 1st Treatment Crops: Oats and barley:|6-Sept-1979||diary record|Oats combine harvested:
 R/RN/2|1979|2nd Treatment crops: Lucerne:|14-Nov-1978||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1979|2nd Treatment crops: Lucerne:|18-Dec-1978||diary record|Propyzamide at 0.70 kg in 220 l:
-R/RN/2|1979|2nd Treatment crops: Lucerne:|12-June-1979||diary record|Cut:
-R/RN/2|1979|2nd Treatment crops: Lucerne:|26-July-1979||diary record|Cut:
-R/RN/2|1979|2nd Treatment crops: Lucerne:|19-Nov-1979||diary record|Cut:
+R/RN/2|1979|2nd Treatment crops: Lucerne:|12-June-1979||diary record|cut:
+R/RN/2|1979|2nd Treatment crops: Lucerne:|26-July-1979||diary record|cut:
+R/RN/2|1979|2nd Treatment crops: Lucerne:|19-Nov-1979||diary record|cut:
 R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|14-Nov-1978||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|8-Mar-1979||diary record|Spring NK applied (25:0:16) at 300 kg:
-R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|6-June-1979||diary record|Cut:
-R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|26-July-1979||diary record|Cut:
-R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|27-Sept-1979||diary record|Cut:
+R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|6-June-1979||diary record|cut:
+R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|26-July-1979||diary record|cut:
+R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|27-Sept-1979||diary record|cut:
 R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|14-June-1979||diary record|NK applied (25:0:16) at 300 kg, to Ryegrass only:
 R/RN/2|1979|2nd Treatment crops: Clover-grass ley and ryegrass:|27-July-1979||diary record|NK applied (25:0:16) at 300 kg, to Ryegrass only:
 R/RN/2|1979|2nd Treatment crops: Potatoes:|18-Dec-1978||diary record|ploughed:
@@ -874,7 +873,8 @@ R/RN/2|1979|2nd Treatment crops: Potatoes:|3-Aug-1979||diary record|Mancozeb at 
 R/RN/2|1979|2nd Treatment crops: Potatoes:|15-Aug-1979||diary record|Mancozeb at 1.3 kg in 220 l:
 R/RN/2|1979|2nd Treatment crops: Potatoes:|4-Sept-1979||diary record|Mancozeb at 1.3 kg in 220 l:
 R/RN/2|1979|2nd Treatment crops: Potatoes:|14-Sept-1979||diary record|Haulm pulverized:
-R/RN/2|1979|2nd Treatment crops: Potatoes:|21-Sept-1979||diary record|BOV applied at 170 l:
+R/RN/2|1979|2nd Treatment crops: Potatoes:|-Nov-1979||diary record|Haulm pulverized:
+R/RN/2|1979|2nd Treatment crops: Potatoes:|21-Sept-1979||diary record|applied at 170 l:
 R/RN/2|1979|2nd Treatment crops: Potatoes:|16-Oct-1979||diary record|Lifted:
 R/RN/2|1979|2nd Treatment crops: Barley:|18-Dec-1978||diary record|ploughed:
 R/RN/2|1979|2nd Treatment crops: Barley:|19-Apr-1979||diary record|Spring-tine cultivated:
@@ -884,25 +884,25 @@ R/RN/2|1979|2nd Treatment crops: Barley:|12-June-1979||diary record|Tridemorph a
 R/RN/2|1979|2nd Treatment crops: Barley:|1-Sept-1979||diary record|Combine harvested:
 R/RN/2|1979|3rd Treatment Crops: Lucerne:|14-Nov-1978||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1979|3rd Treatment Crops: Lucerne:|18-Dec-1978||diary record|Propyzamide at 0.70 kg in 220 l:
-R/RN/2|1979|3rd Treatment Crops: Lucerne:|12-June-1978||diary record|Cut:
-R/RN/2|1979|3rd Treatment Crops: Lucerne:|27-July-1978||diary record|Cut:
+R/RN/2|1979|3rd Treatment Crops: Lucerne:|12-June-1978||diary record|cut:
+R/RN/2|1979|3rd Treatment Crops: Lucerne:|27-July-1978||diary record|cut:
 R/RN/2|1979|3rd Treatment Crops: Lucerne:|17-Aug-1978||diary record|Topped:
 R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|14-Nov-1978||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|8-Mar-1979||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|6-June-1979||diary record|Cut:
-R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|26-July-1979||diary record|Cut:
+R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|6-June-1979||diary record|cut:
+R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|26-July-1979||diary record|cut:
 R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|14-June-1979||diary record|NK applied (to Ryegrass only) (25:0:16) at 300 kg:
 R/RN/2|1979|3rd Treatment Crops: Clover-grass ley and ryegrass:|17-Aug-1979||diary record|Topped:
 R/RN/2|1979|3rd Treatment Crops: Beans:|20-Dec-1978||diary record|Deep tine cultivated (Fosters only):
 R/RN/2|1979|3rd Treatment Crops: Beans:|19-Apr-1979||diary record|Spring-tine cultivated (Fosters only):
 R/RN/2|1979|3rd Treatment Crops: Beans:|23-Apr-1979||diary record|Rotary harrowed, seed sown Minden, sown at 210 kg:
-R/RN/2|1979|3rd Treatment Crops: Beans:|6-June-1979||diary record|Proctor hoed:
+R/RN/2|1979|3rd Treatment Crops: Beans:|6-June-1979||diary record|tractor hoed:
 R/RN/2|1979|3rd Treatment Crops: Beans:|22-June-1979||diary record|Pirimicarb at 0.14 kg in 220 l:
 R/RN/2|1979|3rd Treatment Crops: Beans:|12-July-1979||diary record|Pirimicarb at 0.14 kg in 220 l:
 R/RN/2|1979|3rd Treatment Crops: Beans:|20-Sept-1979||diary record|Combine harvested:
 R/RN/2|1979|3rd Treatment Crops: Wheat:|16-Oct-1978||diary record|ploughed:
 R/RN/2|1979|3rd Treatment Crops: Wheat:|17-Oct-1978||diary record|Rotary harrowed, seed sown Flanders, sown at 190 kg, PK combine drilled (0:20:20) at 250 kg:
-R/RN/2|1979|3rd Treatment Crops: Wheat:|3-May-1979||diary record|nitro-chalk at 380 kgN:
+R/RN/2|1979|3rd Treatment Crops: Wheat:|3-May-1979||diary record|nitro-chalk at 380 kg:
 R/RN/2|1979|3rd Treatment Crops: Wheat:|9-May-1979||diary record|Mecoprop at 2.5 kg with isoproturon at 2.1 kg in 220 l:
 R/RN/2|1979|3rd Treatment Crops: Wheat:|29-Aug-1979||diary record|Combine harvested:
 R/RN/2|1979|Preparatory area: Fallow:|18-Dec-1978||diary record|ploughed:
@@ -914,24 +914,24 @@ R/RN/2|1979|Preparatory area: Fallow:|14-Sept-1978||diary record|Diquat at 0.59 
 R/RN/2|1979|Preparatory area: Fallow:|3-Oct-1978||diary record|Spring-tine cultivated:
 R/RN/2|1979|Preparatory area: Fallow:|30-Oct-1978||diary record|Deep tine cultivated:
 R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|20-Nov-1979||diary record|PK applied (0:14:28) at 810 kg:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|2-June-1980||diary record|Cut:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|23-July-1980||diary record|Cut:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|3-Nov-1980||diary record|Cut:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|2-June-1980||diary record|cut:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|23-July-1980||diary record|cut:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Lucerne:|3-Nov-1980||diary record|cut:
 R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|20-Nov-1979||diary record|PK applied (0:14:28) at 540 kg:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|11-Mar-1980||diary record|NK applied (to all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|3-June-1980||diary record|NK applied (to all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|29-July-1980||diary record|NK applied (to all - grass barley only) (25:0:16) at 300 kg:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|28-May-1980||diary record|Cut:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|21-July-1980||diary record|Cut:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|24-Oct-1980||diary record|Cut:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|11-Mar-1980||diary record|NK applied (to all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|3-June-1980||diary record|NK applied (to all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|29-July-1980||diary record|NK applied (to all - grass ley only) (25:0:16) at 300 kg:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|28-May-1980||diary record|cut:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|21-July-1980||diary record|cut:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Clover-grass ley and all-grass ley:|24-Oct-1980||diary record|cut:
 R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|23-Nov-1979||diary record|ploughed:
 R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|12-Apr-1980||diary record|Disc harrowed:
 R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|15-Apr-1980||diary record|NPK applied (13:13:20) at 1260 kg, rotary harrowed, seed sown Bush Mono G, sown at 5.6 kg:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|21-May-1980||diary record|Proctor hoed:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|9-June-1980||diary record|Proctor hoed:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|3-June-1980||diary record|Singled:
-R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|6-Nov-1980||diary record|Hand harvested:
-R/RN/2|1980|Museum blocks 2nd Test crops: W. wheat:|19-Oct-1979||diary record|Heavy spring-tine cultivated, seed sown Flanders, sown at 200 kg, PK applied combine drilled (0:20:20) at 250 kg:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|21-May-1980||diary record|tractor hoed:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|9-June-1980||diary record|tractor hoed:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|3-June-1980||diary record|Singled: harvested:
+R/RN/2|1980|Museum blocks 2nd Treatment crops: Sugar beet:|6-Nov-1980||diary record|Singled: harvested:
+R/RN/2|1980|Museum blocks 2nd Test crops: W. wheat:|19-Oct-1979||diary record|heavy spring-tine cultivated, seed sown Flanders, sown at 200 kg, PK applied combine drilled (0:20:20) at 250 kg:
 R/RN/2|1980|Museum blocks 2nd Test crops: W. wheat:|11-Apr-1980||diary record|Test N applied:
 R/RN/2|1980|Museum blocks 2nd Test crops: W. wheat:|16-Apr-1980||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.51) in 250 l:
 R/RN/2|1980|Museum blocks 2nd Test crops: W. wheat:|21-Aug-1980||diary record|Combine harvested:
@@ -939,16 +939,16 @@ R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|20-Nov-1
 R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|11-Mar-1980||diary record|NK applied to all grass half-plots only (25:0:16) at 300 kg:
 R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|3-June-1980||diary record|NK applied to all grass half-plots only (25:0:16) at 300 kg:
 R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|29-July-1980||diary record|NK applied to all grass half-plots only (25:0:16) at 300 kg:
-R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|28-May-1980||diary record|Cut:
-R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|21-July-1980||diary record|Cut:
-R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|24-Oct-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|25-Jan-1980||diary record|Chisel ploughed once:
+R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|28-May-1980||diary record|cut:
+R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|21-July-1980||diary record|cut:
+R/RN/2|1980|Museum blocks 2nd Test crops: Reseeded grass and old grass:|24-Oct-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|25-Jan-1980||diary record|Chisel ploughed one:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|11-Jan-1980||diary record|Chalk applied at 5.8 t:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|21-Apr-1980||diary record|Spring-tine cultivated, PK applied (0:14:28) at 720 kg, rotary harrowed, seed sown Lucerne Yertus, sown at 28 kg:
-R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|21-Apr-1980||diary record|seed sown clover grass barley S215 meadow fescue at 15 kg, climax timothy at 17 kg, Hula white clover at 4 kg. Mixture sown at 36 Koga:
-R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|4-July-1980||diary record|NK applied (0:14:28) at 720 kg (Clover - grass barley only):
-R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|25-July-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|24-Oct-1980||diary record|Cut:
+R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|21-Apr-1980||diary record|seed sown clover grass ley S215 meadow fescue at 15 kg, climax timothy at 17 kg, Hula white clover at 4 kg. Mixture sown at 36 kg:
+R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|4-July-1980||diary record|NK applied (0:14:28) at 720 kg (Clover - grass ley only):
+R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|25-July-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 1st Treatment crops: Lucerne and Clover-grass ley:|24-Oct-1980||diary record|cut:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: Ryegrass:|3-Jan-1980||diary record|Chalk applied at 8.7 t:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: Ryegrass:|18-Jan-1980||diary record|Chisel ploughed:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: Ryegrass:|21-Apr-1980||diary record|Spring-tine cultivated, PK applied (0:14:28) at 720 kg, rotary harrowed, seed sown S24 perennial Ryegrass, sown at 22 kg:
@@ -957,24 +957,24 @@ R/RN/2|1980|New sequence blocks: 1st Treatment crops: Ryegrass:|24-Oct-1980||dia
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|11-Jan-1980||diary record|Chalk applied at 5.8 t:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|25-Jan-1980||diary record|Chisel ploughed:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|9-Apr-1980||diary record|Rotary harrowed, seed sown Georgie, sown at 160 kg:
-R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|9-Apr-1980||diary record|seed sown oats mangolds, sown at 200 kg:
+R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|9-Apr-1980||diary record|seed sown oats Manod, sown at 200 kg:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|9-Apr-1980||diary record|NPK applied (20:10:10) at 350 kg, combine drilled:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|30-May-1980||diary record|Mecoprop at 2.7 kg in 900 1 applied with Tridemorph at 0.53 kg:
 R/RN/2|1980|New sequence blocks: 1st Treatment crops: S. oats and s. barley:|1-Sept-1980||diary record|Combine harvested s. barley:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|20-Nov-1979||diary record|PK applied (0:14:28) at 720 kg:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|4-June-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|23-July-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|24-Oct-1980||diary record|Cut:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|4-June-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|23-July-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Lucerne:|24-Oct-1980||diary record|cut:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|20-Nov-1979||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|11-Mar-1980||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|29-May-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|23-July-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|24-Oct-1980||diary record|Cut:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|29-May-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|23-July-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|24-Oct-1980||diary record|cut:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|3-June-1980||diary record|NK applied (25:0:16) at 300 kg (to Ryegrass only):
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Clover-grass ley, and ryegrass:|29-July-1980||diary record|NK applied (25:0:16) at 300 kg (to Ryegrass only):
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|22-Nov-1979||diary record|ploughed:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|17-Apr-1980||diary record|Spring-tine cultivated, NPK applied (13:13:20) at 1500 kg:
-R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|18-Apr-1980||diary record|Rotary harrowed, seed planted Pentland Crown, Phorate at 1.7 kg with the seed:
+R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|18-Apr-1980||diary record|Rotary harrowed, seed planted Pentland Crown, Phorate at 1.7 kg with 4th seed:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|25-Apr-1980||diary record|Grubbed:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|26-Apr-1980||diary record|Rotary ridged:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: Potatoes:|19-May-1980||diary record|Linuron at 1.1 kg in 900 l:
@@ -991,19 +991,19 @@ R/RN/2|1980|New sequence blocks: 2nd Treatment crops: barley:|9-Apr-1979||diary 
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: barley:|30-May-1979||diary record|Mecoprop at 2.7 kg in 900 1 with Tridemorph at 0.53 kg:
 R/RN/2|1980|New sequence blocks: 2nd Treatment crops: barley:|1-Sept-1979||diary record|Combine harvested:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Lucerne:|20-Nov-1979||diary record|PK applied (0:14:28) at 720 kg:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Lucerne:|4-June-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Lucerne:|23-July-1980||diary record|Cut:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Lucerne:|4-June-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Lucerne:|23-July-1980||diary record|cut:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Lucerne:|5-Aug-1980||diary record|Topped:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|20-Nov-1979||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|11-Mar-1980||diary record|NK applied (25:0:16) at 300 kg (to Ryegrass only):
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|3-June-1980||diary record|NK applied (25:0:16) at 300 kg (to Ryegrass only):
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|29-May-1980||diary record|Cut:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|23-July-1980||diary record|Cut:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|29-May-1980||diary record|cut:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|23-July-1980||diary record|cut:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|5-Aug-1980||diary record|Topped (except grass:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|19-Oct-1979||diary record|Heavy spring-tine cultivated:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|5-Mar-1980||diary record|Rotary harrowed, seed sown Minden, sown at 180 Koga:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|21-May-1980||diary record|Proctor hoed:
-R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|9-June-1980||diary record|Proctor hoed:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|19-Oct-1979||diary record|heavy spring-tine cultivated:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|5-Mar-1980||diary record|Rotary harrowed, seed sown Minden, sown at 180 kg:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|21-May-1980||diary record|tractor hoed:
+R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|9-June-1980||diary record|tractor hoed:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: S. beans:|17-Sept-1980||diary record|Combine harvested:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: W. wheat:|12-Oct-1979||diary record|ploughed:
 R/RN/2|1980|New sequence blocks: 3rd Treatment crops: W. wheat:|18-Oct-1979||diary record|Rotary harrowed, seed sown Flanders, sown at 200 kg, PK (0:20:20) at 250 kg, combine drilled:
@@ -1018,7 +1018,7 @@ R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After lucerne, clover-
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After lucerne, clover-grass ley and ryegrass (except GRASS/0G):|11-Apr-1980||diary record|Test N applied:
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After lucerne, clover-grass ley and ryegrass (except GRASS/0G):|16-Apr-1980||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.5 l) in 250 l:
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After lucerne, clover-grass ley and ryegrass (except GRASS/0G):|21-Aug-1980||diary record|Combine harvested:
-R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After GRASS/0G:|22-Aug-1979||diary record|paraquat at 0.84 kg fon in 220 l:
+R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After GRASS/0G:|22-Aug-1979||diary record|paraquat at 0.84 kg ion in 220 l:
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After GRASS/0G:|27-Sept-1979||diary record|Glyphosate at 1.5 kg in 220 l:
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After GRASS/0G:|18-Oct-1979||diary record|seed direct drilled Flanders, sown at 200 kg and disc harrowed in:
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After GRASS/0G:|11-Apr-1980||diary record|Test N applied:
@@ -1031,16 +1031,16 @@ R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. 
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. beans:|16-Apr-1980||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.5 l) in 250 l:
 R/RN/2|1980|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. beans:|21-Aug-1980||diary record|Combine harvested:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|20-Nov-1980||diary record|PK applied (0:14:28) at 810 kg:
-R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|4-June-1981||diary record|Cut:
-R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|10-Aug-1981||diary record|Cut:
-R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|6-Nov-1981||diary record|Cut:
+R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|4-June-1981||diary record|cut:
+R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|10-Aug-1981||diary record|cut:
+R/RN/2|1981|Museum blocks: 3rd Treatment crops: Lucerne:|6-Nov-1981||diary record|cut:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|20-Nov-1980||diary record|PK applied (0:14:28) at 540 kg:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|27-Mar-1981||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots only:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|8-June-1981||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots only:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|10-Aug-1981||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots only:
-R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|3-June-1981||diary record|Cut:
-R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|5-Aug-1981||diary record|Cut:
-R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|3-Nov-1981||diary record|Cut:
+R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|3-June-1981||diary record|cut:
+R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|5-Aug-1981||diary record|cut:
+R/RN/2|1981|Museum blocks: 3rd Treatment crops: All-grass ley and clover-grass ley:|3-Nov-1981||diary record|cut:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: Oats:|30-Dec-1980||diary record|ploughed:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: Oats:|18-Feb-1981||diary record|Spring-tine cultivated:
 R/RN/2|1981|Museum blocks: 3rd Treatment crops: Oats:|19-Feb-1981||diary record|seed sown Peniarth, sown at 190 kg (20:10:10) at 350 kg, combine drilled:
@@ -1060,20 +1060,20 @@ R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|20-Nov-
 R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|27-Mar-1981||diary record|NK applied (25:0:16) at 300 kg to all grass half-plots only:
 R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|8-June-1981||diary record|NK applied (25:0:16) at 300 kg to all grass half-plots only:
 R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|10-Aug-1981||diary record|NK applied (25:0:16) at 300 kg to all grass half-plots only:
-R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|3-June-1981||diary record|Cut:
-R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|5-Aug-1981||diary record|Cut:
-R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|10-Aug-1981||diary record|Cut:
+R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|3-June-1981||diary record|cut:
+R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|5-Aug-1981||diary record|cut:
+R/RN/2|1981|Museum blocks: 3rd Test crops: Reseeded grass and old grass:|10-Aug-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Lucerne:|20-Nov-1980||diary record|PK applied (0:14:28) at 720 kg
-R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Lucerne:|4-June-1981||diary record|Cut:
+R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Lucerne:|4-June-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Lucerne:|5-Aug-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Lucerne:|6-Nov-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|20-Nov-1980||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|27-Mar-1981||diary record|NK (25:0:16) at 300 kg to Ryegrass plots only:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|8-June-1981||diary record|NK (25:0:16) at 300 kg to Ryegrass plots only:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|10-Aug-1981||diary record|NK (25:0:16) at 300 kg to Ryegrass plots only:
-R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|4-June-1981||diary record|Cut:
-R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|5-Aug-1981||diary record|Cut:
-R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|6-Nov-1981||diary record|Cut:
+R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|4-June-1981||diary record|cut:
+R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|5-Aug-1981||diary record|cut:
+R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Clover-grass ley and ryegrass:|6-Nov-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|20-Nov-1980||diary record|ploughed:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|24-Apr-1981||diary record|NPK Mg applied (10:10:15:4.5 Mg) at 1960 kg, spike rotary cultivated, planted Pentland Crown:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|1-June-1981||diary record|Matribuzin at 0.98 kg in 220 l:
@@ -1085,7 +1085,7 @@ R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|11-Aug-1981||dia
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|1-Aug-1981||diary record|Mancozeb at 1.4 kg and in 250
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|24-Aug-1981||diary record|Mancozeb at 1.4 kg and in 250
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|12-Sept-1981||diary record|Haulm mechanically destroyed:
-R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|25-Sept-1981||diary record|Desiccant applied BOV at 170 l:
+R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|25-Sept-1981||diary record|Desiccant applied Nov at 170 l:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: Potatoes:|6-Oct-1981||diary record|Lifted:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: S. barley:|20-Nov-1980||diary record|ploughed:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: S. barley:|18-Feb-1981||diary record|Spring-tine cultivated:
@@ -1093,13 +1093,13 @@ R/RN/2|1981|New sequence blocks: 2nd Treatment crops: S. barley:|19-Feb-1981||di
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: S. barley:|12-May-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (Brittox at 2.5 l) with Tridemorph at 0.53 kg in 250 l:
 R/RN/2|1981|New sequence blocks: 2nd Treatment crops: S. barley:|18-Aug-1981||diary record|Combine harvested:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Lucerne:|20-Nov-1981||diary record|PK applied (0:14:28) at 720 kg
-R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Lucerne:|4-June-1981||diary record|Cut:
-R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Lucerne:|5-Aug-1981||diary record|Cut:
+R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Lucerne:|4-June-1981||diary record|cut:
+R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Lucerne:|5-Aug-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|20-Nov-1980||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|27-Mar-1981||diary record|NK applied (25:0:16) at 300 kg applied:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|8-June-1981||diary record|NK applied (25:0:16) at 300 kg to Ryegrass only plots:
-R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|4-June-1981||diary record|Cut:
-R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|5-Aug-1981||diary record|Cut:
+R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|4-June-1981||diary record|cut:
+R/RN/2|1981|New sequence blocks: 3rd Treatment crops: Clover-grass ley and ryegrass:|5-Aug-1981||diary record|cut:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: S. beans:|30-Dec-1980||diary record|Chisel ploughed:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: S. beans:|18-Feb-1981||diary record|Spring-tine cultivated:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: S. beans:|19-Feb-1981||diary record|seed sown Minden, sown at 260 kg, Phorate at 2.2 kg, combine drilled:
@@ -1114,33 +1114,31 @@ R/RN/2|1981|New sequence blocks: 3rd Treatment crops: W. wheat:|15-Apr-1981||dia
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: W. wheat:|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.7 l) in 250 l:
 R/RN/2|1981|New sequence blocks: 3rd Treatment crops: W. wheat:|24-Aug-1981||diary record|Combine harvested:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|4-Aug-1980||diary record|ploughed:
-R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|5-Aug-1980||diary record|(Fosters) ploughed:
-R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|21-Aug-1980||diary record|(Highfield Disc harrowed twice:
-R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|12-Sept-1980||diary record|(Highfield Disc harrowed twice:
+R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|21-Aug-1980||diary record|Disc harrowed twice:
+R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|12-Sept-1980||diary record|Disc harrowed twice:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|2-Oct-1980||diary record|Spring-tine cultivated twice:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|4-Oct-1980||diary record|Spring-tine cultivated twice:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|8-Oct-1980||diary record|seed sown Flanders, sown at 200 kg, PK (0:20:20) at 250 kg, combine drilled:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|13-Oct-1980||diary record|Chlortoluron at 5.6 l in 250 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|15-Apr-1981||diary record|N applied:
-R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox’ at 3.7 l) in 250 l:
+R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.7 l) in 250 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After lucerne, Ch over qraes ley and ryegrass (except GRASS/0G):|24-Aug-1981||diary record|Combine harvested:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|7-Aug-1980||diary record|Glyphosate at 1.5 kg in 220 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|8-Oct-1980||diary record|seed direct drilled Flanders, sown at 200 kg, and disc harrowed in, PK (0:20:20) at 250 kg, combine drilled:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|13-Oct-1980||diary record|Chlortoluron at 5.6 l in 250 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|15-Apr-1981||diary record|N applied:
-R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox’ at 3.7 l) in 250 l:
+R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.7 l) in 250 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After GRASS/0G:|24-Aug-1981||diary record|Combine harvested:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|2-Oct-1981||diary record|ploughed:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|4-Oct-1981||diary record|Spring-tine cultivated:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|8-Oct-1981||diary record|seed sown Flanders, sown at 200 kg, PK (0:20:20) at 250 kg, combine drilled:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|13-Oct-1981||diary record|Chlortoluron at 5.6 l in 250 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|15-Apr-1981||diary record|N applied:
-R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox’ at 3.7 l) in 250 l:
+R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|22-Apr-1981||diary record|Mecoprop with Bromoxynil and Ioxynil (as Brittox at 3.7 l) in 250 l:
 R/RN/2|1981|New sequence blocks: 1st Test crops: W. wheat: After w. wheat and s. beans:|24-Aug-1981||diary record|Combine harvested:
 R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|4-Sept-1980||diary record|Glyphosate applied:
 R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|2-Oct-1980||diary record|ploughed:
-R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|3-Oct-1980||diary record|(Fosters only),
-R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|4-Oct-1980||diary record|(Highfield only). Spring-tine cultivated:
+R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|4-Oct-1980||diary record|Spring-tine cultivated:
 R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|8-Oct-1980||diary record|seed sown Flanders, sown at 200 kg, PK (0:20:20) at 250 kg, combine drilled:
 R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|13-Oct-1980||diary record|Chlortoluron at 5.6 l in 250 l:
 R/RN/2|1981|New sequence blocks: 2nd Test crop: W. wheat: A11 sequences except GRASS/0G:|15-Apr-1981||diary record|N applied:
@@ -1157,25 +1155,25 @@ R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|17-Nov-1981||diary reco
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|14-Apr-1982||diary record|Spring-tine cultivated:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|26-Apr-1982||diary record|PK applied Manures: (0:20:20) at 380 kg:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|27-Apr-1982||diary record|Rotary harrowed, rolled, seed sown Vertus, sown at 28 kg:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|15-July-1982||diary record|Cut:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|25-Oct-1982||diary record|Cut:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|15-July-1982||diary record|cut:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: Lucerne:|25-Oct-1982||diary record|cut:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|23-Sept-1981||diary record|Glyphosate at 1.4 kg in 250 l:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|17-Nov-1981||diary record|ploughed:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|14-Apr-1982||diary record|Spring-tine cultivated:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|26-Apr-1982||diary record|PK applied (0:14:28) at 540 kg:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|26-Apr-1982||diary record|N applied (to all - grass barley only) nitro-chalk at 290 kg to the seedbed:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|26-Apr-1982||diary record|N applied (to all - grass ley only) nitro-chalk at 290 kg to 4th seedbed:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|27-Apr-1982||diary record|Rotary harrowed, rolled:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|27-Apr-1982||diary record|seed sown. all - grass barley: Meadow fescue S215 (17 Koga, Climax timothy (17 Koga, mixture sown at 34 kg.
-R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|27-Apr-1982||diary record|seed sown. Clover - grass barley: Meadow fescue S215 (15 Koga, Climax timothy (18 kg) and New Zealand white clover (4 Koga, mixture sown at 37 kg.
+R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|27-Apr-1982||diary record|seed sown. all - grass ley: Meadow fescue S215 (17 kg, Climax timothy (17 kg, mixture sown at 34 kg.
+R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|27-Apr-1982||diary record|seed sown. Clover - grass ley: Meadow fescue S215 (15 kg, Climax timothy (18 kg) and one Zealand white clover (4 kg, mixture sown at 37 kg.
 R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|17-June-1982||diary record|Topped:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|13-July-1982||diary record|Cut:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|19-July-1982||diary record|NK applied (25:0:16) at 300 kg, to all - grass barley only:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|25-Oct-1982||diary record|Cut:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|13-July-1982||diary record|cut:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|19-July-1982||diary record|NK applied (25:0:16) at 300 kg, to all - grass ley only:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: All-grass ley and clover-grass ley:|25-Oct-1982||diary record|cut:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|23-Sept-1981||diary record|Glyphosate at 1.4 kg in 250 l:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|17-Nov-1981||diary record|ploughed:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|14-Apr-1982||diary record|Spring-tine cultivated:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|26-Apr-1982||diary record|PK (0:14:28) at 540 kg:
-R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|26-Apr-1982||diary record|N applied nitro-chalk at 290 kg to the seedbed:
+R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|26-Apr-1982||diary record|N applied nitro-chalk at 290 kg to 4th seedbed:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|27-Apr-1982||diary record|Rotary harrowed, rolled, seed sown RVP Italian Ryegrass, sown at 25 kg:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|13-July-1982||diary record|1st cut:
 R/RN/2|1982|Museum blocks: 1st Treatment crops: Hay:|19-July-1982||diary record|NK applied (25:0:16) at 300 kg:
@@ -1199,27 +1197,28 @@ R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|26-July-1982||diary record|O
 R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|9-Aug-1982||diary record|Ofurace at 0.12 kg and maneb at 1.2 kg in 250 l:
 R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|25-Aug-1982||diary record|Mancozeb at 1.4 kg in 250 l:
 R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|9-Sept-1982||diary record|Haulm mechanically destroyed:
-R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|22-Sept-1982||diary record|BOV applied at 220 l:
+R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|-Nov-1982||diary record|Haulm mechanically destroyed:
+R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|22-Sept-1982||diary record|applied at 220 l:
 R/RN/2|1982|Museum blocks: 1st Test crop: Potatoes:|1-Oct-1982||diary record|Lifted:
 R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|2-Feb-1982||diary record|PK applied (0:14:28) at 540 kg:
 R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|23-Mar-1982||diary record|NK applied (25:0:16) at 300 kg to all - grass half-plots:
 R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|7-June-1982||diary record|NK applied (25:0:16) at 300 kg to all - grass half-plots:
 R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|19-July-1982||diary record|NK applied (25:0:16) at 300 kg to all - grass half-plots:
-R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|1-June-1982||diary record|Cut:
-R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|13-July-1982||diary record|Cut:
-R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|25-Oct-1982||diary record|Cut:
+R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|1-June-1982||diary record|cut:
+R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|13-July-1982||diary record|cut:
+R/RN/2|1982|Museum blocks: 1st Test crop: Reseeded grass and old grass:|25-Oct-1982||diary record|cut:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Lucerne:|2-Feb-1982||diary record|PK applied (0:14:28) at 720 kg:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Lucerne:|1-June-1982||diary record|Cut:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Lucerne:|14-July-1982||diary record|Cut:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Lucerne:|1-June-1982||diary record|cut:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Lucerne:|14-July-1982||diary record|cut:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Clover-grass ley:|2-Feb-1982||diary record|PK applied (0:14:28) at 720 kg:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Clover-grass ley:|23-Mar-1982||diary record|NK applied (25:0:16) at 300 kg:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Clover-grass ley:|1-June-1982||diary record|Cut:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Clover-grass ley:|14-July-1982||diary record|Cut:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Clover-grass ley:|1-June-1982||diary record|cut:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Clover-grass ley:|14-July-1982||diary record|cut:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|3-Feb-1982||diary record|PK applied:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|23-Mar-1982||diary record|NK applied:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|7-June-1982||diary record|NK applied:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|1-June-1982||diary record|Cut:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|15-July-1982||diary record|Cut:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|1-June-1982||diary record|cut:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: Ryegrass:|15-July-1982||diary record|cut:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: W. wheat:|9-Oct-1981||diary record|ploughed:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: W. wheat:|16-Oct-1981||diary record|Rotary harrowed:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: W. wheat:|17-Oct-1981||diary record|seed sown Flanders, sown at 200 kg, (0:14:28) at 360 kg, combine drilled:
@@ -1227,7 +1226,7 @@ R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: W. wheat:|14-Apr-1982||dia
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: W. wheat:|16-Apr-1982||diary record|N applied nitro-chalk at 380 kg:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: W. wheat:|11-Aug-1982||diary record|Combine harvested:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: S. beans:|9-Oct-1981||diary record|Chisel ploughed:
-R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: S. beans:|24-Mar-1982||diary record|Rotary harrowed, phorate at 2.2 kg, combine drilled and seed sown Minden, sown at 210 Koga:
+R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: S. beans:|24-Mar-1982||diary record|Rotary harrowed, phorate at 2.2 kg, combine drilled and seed sown Minden, sown at 210 kg:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: S. beans:|27-Mar-1982||diary record|Triatazine at 1.0 kg and simazine at 0.14 kg in 250 l:
 R/RN/2|1982|New sequence blocks: 3rd Treatment Crops: S. beans:|3-Sept-1982||diary record|Combine harvested:
 R/RN/2|1982|New sequence blocks: 1st Test crop: W. wheat: After lucerne, clover-grass ley and ryegrass (except GRASS/0G):|20-Aug-1981||diary record|ploughed:
@@ -1248,11 +1247,9 @@ R/RN/2|1982|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. 
 R/RN/2|1982|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. beans:|14-Apr-1982||diary record|Mecoprop, Bromoxynil and Ioxynil (as Brittox at 3.5 l) with isoproturon at 2.1 kg in 250 l:
 R/RN/2|1982|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. beans:|16-Apr-1982||diary record|N applied:
 R/RN/2|1982|New sequence blocks: 1st Test crop: W. wheat: After w. wheat and s. beans:|11-Aug-1982||diary record|Combine harvested:
-R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|16-Sept-1981||diary record|Glyphosate at 1.4 kg in 250 l:
-R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|23-Sept-1981||diary record|(Highfield),
-R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|25-Sept-1981||diary record|(Fosters). ploughed:
-R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|9-Oct-1981||diary record|(Highfield),
-R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|16-Oct-1981||diary record|(Fosters). Rotary harrowed:
+R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|23-Sept-1981||diary record|Glyphosate at 1.4 kg in 250 l:
+R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|9-Oct-1981||diary record|ploughed:
+R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|16-Oct-1981||diary record|Rotary harrowed:
 R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|17-Oct-1981||diary record|seed sown Flanders, sown at 200 kg, PK (0:14:28) at 360 kg, combine drilled:
 R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|14-Apr-1982||diary record|Mecoprop, Bromoxynil and Ioxynil (as Brittox at 3.5 l) with isoproturon at 2.1 kg in 250 l:
 R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: All sequences except GRASS/0G:|16-Apr-1982||diary record|N applied:
@@ -1263,16 +1260,16 @@ R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: GRASS/0G only
 R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: GRASS/0G only:|16-Apr-1982||diary record|N applied:
 R/RN/2|1982|New sequence blocks: 2nd and 3rd Test crops: W. wheat: GRASS/0G only:|11-Aug-1982||diary record|Combine harvested:
 R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|11-Jan-1983||diary record|PK applied (0:18:36) at 620 kg:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|10-June-1983||diary record|Cut:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|1-Aug-1983||diary record|Cut:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|31-Oct-1983||diary record|Cut:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|10-June-1983||diary record|cut:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|1-Aug-1983||diary record|cut:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Lucerne:|31-Oct-1983||diary record|cut:
 R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|11-Jan-1983||diary record|PK applied (0:18:36) at 420 kg:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|25-Mar-1983||diary record|NK applied (25:0:16) at 300 kg to both leys:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|17-June-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass barley only:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|3-Aug-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass barley only:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|6-June-1983||diary record|Cut:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|1-Aug-1983||diary record|Cut:
-R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|1-Nov-1983||diary record|Cut:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|25-Mar-1983||diary record|NK applied (25:0:16) at 300 kg to both ley:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|17-June-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass ley only:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|3-Aug-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass ley only:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|6-June-1983||diary record|cut:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|1-Aug-1983||diary record|cut:
+R/RN/2|1983|Museum blocks: 2nd Treatment crops: Al1-grass ley and clover-grass ley:|1-Nov-1983||diary record|cut:
 R/RN/2|1983|Museum blocks: 2nd Treatment crops: Sugar beet:|20-Nov-1982||diary record|Glyphosate at 1.4 kg in 500 l:
 R/RN/2|1983|Museum blocks: 2nd Treatment crops: Sugar beet:|11-Jan-1983||diary record|ploughed:
 R/RN/2|1983|Museum blocks: 2nd Treatment crops: Sugar beet:|14-Apr-1983||diary record|NPK Mg applied (10:10:15 Mg) at 1640 kg:
@@ -1290,9 +1287,9 @@ R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|11-Jan-
 R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|25-Mar-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass half-plots:
 R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|17-June-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass half-plots:
 R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|3-Aug-1983||diary record|NK applied (25:0:16) at 300 kg to all - grass half-plots:
-R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|6-June-1983||diary record|Cut:
-R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|1-Aug-1983||diary record|Cut:
-R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|1-Nov-1983||diary record|Cut:
+R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|6-June-1983||diary record|cut:
+R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|1-Aug-1983||diary record|cut:
+R/RN/2|1983|Museum blocks: 2nd Test crop: Re-seeded grass and old grass:|1-Nov-1983||diary record|cut:
 R/RN/2|1983|New sequence blocks: 1st Test crop: W. wheat:|2-Aug-1982||diary record|after Lucerne, clover - grass, and Ryegrass (except grass: ploughed:
 R/RN/2|1983|New sequence blocks: 1st Test crop: W. wheat:|3-Aug-1982||diary record|Glyphosate at 1.4 kg in 250 1 to grass:
 R/RN/2|1983|New sequence blocks: 1st Test crop: W. wheat:|27-Aug-1982||diary record|Spring-tine cultivated after Lucerne, clover - grass and Ryegrass (except grass:
@@ -1314,23 +1311,23 @@ R/RN/2|1983|New sequence blocks: 2nd, 3rd and 4th Test crops: W. wheat:|14-Apr-1
 R/RN/2|1983|New sequence blocks: 2nd, 3rd and 4th Test crops: W. wheat:|28-Apr-1983||diary record|Mecoprop, Bromoxynil and Ioxynil (as Brittox at 3.5 l) with Isoproturon at 2.0 kg in 250 l:
 R/RN/2|1983|New sequence blocks: 2nd, 3rd and 4th Test crops: W. wheat:|11-Aug-1983||diary record|Combine harvested:
 R/RN/2|1984|3rd Treatment crops in museum blocks: Lucerne:|21-Nov-1983||diary record|PK applied (0:18:36) at 630 kg:
-R/RN/2|1984|3rd Treatment crops in museum blocks: Lucerne:|11-June-1984||diary record|Cut:
-R/RN/2|1984|3rd Treatment crops in museum blocks: Lucerne:|18-July-1984||diary record|Cut:
+R/RN/2|1984|3rd Treatment crops in museum blocks: Lucerne:|11-June-1984||diary record|cut:
+R/RN/2|1984|3rd Treatment crops in museum blocks: Lucerne:|18-July-1984||diary record|cut:
 R/RN/2|1984|3rd Treatment crops in museum blocks: Lucerne:|10-Sept-1984||diary record|Topped:
 R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|21-Nov-1983||diary record|PK applied (0:18:36) at 420 kg:
-R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|7-Mar-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass barley only:
-R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|4-June-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass barley only:
-R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|30-May-1984||diary record|Cut:
-R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|18-July-1984||diary record|Cut:
+R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|7-Mar-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass ley only:
+R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|4-June-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass ley only:
+R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|30-May-1984||diary record|cut:
+R/RN/2|1984|3rd Treatment crops in museum blocks: All-grass ley and clover-grass ley:|18-July-1984||diary record|cut:
 R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|14-Dec-1983||diary record|ploughed:
 R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|16-Mar-1984||diary record|NPK applied (20:10:10) at 350 kg:
-R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|20-Mar-1984||diary record|Heavy spring-tine cultivated, rotary harrowed:
+R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|20-Mar-1984||diary record|heavy spring-tine cultivated, rotary harrowed:
 R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|21-Mar-1984||diary record|Rotary harrowed, seed sown Trafalgar, sown at 180 kg:
 R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|23-May-1984||diary record|3,6-dichloropicolinic acid at 0.07 kg and Bromoxynil at 0.34 kg with mecoprop (as CMPP at 4.2 l) and Tridemorph at 0.52 kg in 250 l:
 R/RN/2|1984|3rd Treatment crops in museum blocks: S. oats:|30-Aug-1984||diary record|Combine harvested:
 R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|20-Sept-1983||diary record|Glyphosate at 1.4 kg in 250 l:
 R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|4-Oct-1983||diary record|ploughed:
-R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|13-Oct-1983||diary record|Heavy spring-tine cultivated:
+R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|13-Oct-1983||diary record|heavy spring-tine cultivated:
 R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|17-Oct-1983||diary record|PK applied:
 R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|18-Oct-1983||diary record|Spring-tine cultivated, rotary harrowed, seed sown Flanders, sown at 200 kg:
 R/RN/2|1984|3rd Test crop wheat in museum blocks and 3rd and 4th test crops wheat in new sequence blocks:|21-Oct-1983||diary record|Chlortoluron at 3.5 kg in 250 l:
@@ -1341,9 +1338,9 @@ R/RN/2|1984|Re-seeded grass and old grass:|21-Nov-1983||diary record|PK applied 
 R/RN/2|1984|Re-seeded grass and old grass:|7-Mar-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1984|Re-seeded grass and old grass:|4-June-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1984|Re-seeded grass and old grass:|27-July-1984||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
-R/RN/2|1984|Re-seeded grass and old grass:|30-May-1984||diary record|Cut:
-R/RN/2|1984|Re-seeded grass and old grass:|18-July-1984||diary record|Cut:
-R/RN/2|1984|Re-seeded grass and old grass:|19-Nov-1984||diary record|Cut:
+R/RN/2|1984|Re-seeded grass and old grass:|30-May-1984||diary record|cut:
+R/RN/2|1984|Re-seeded grass and old grass:|18-July-1984||diary record|cut:
+R/RN/2|1984|Re-seeded grass and old grass:|19-Nov-1984||diary record|cut:
 R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|11-Oct-1984||diary record|Glyphosate at 1.4 kg in 250 l:
 R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|21-Nov-1984||diary record|ploughed:
 R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|4-Apr-1985||diary record|Spring-tine cultivated:
@@ -1351,23 +1348,22 @@ R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|29-Apr-1985||diary re
 R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|30-Apr-1985||diary record|Rotary harrowed, rolled:
 R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|7-May-1985||diary record|seed sown Vertus, sown at 31 kg:
 R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|20-June-1985||diary record|Dinoseb at 1.0 kg in 500 l:
-R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|5-Sept-1985||diary record|Cut:
-R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|4-Nov-1985||diary record|Cut:
+R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|5-Sept-1985||diary record|cut:
+R/RN/2|1985|1st Treatment crops in museum blocks: Lucerne:|4-Nov-1985||diary record|cut:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|11-Oct-1984||diary record|Glyphosate at 1.4 kg in 250 l:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|21-Nov-1984||diary record|ploughed:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|4-Apr-1985||diary record|Spring-tine cultivated:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|29-Apr-1985||diary record|PK applied (0:14:28) at 540 kg:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|29-Apr-1985||diary record|N applied nitro-chalk (27.5% N) at 270 kg (except to clover - grass ley):
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|29-Apr-1985||diary record|N applied nitro-chalk (27.5% N) at 270 kg (except to clover - grass ley:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|Rotary harrowed:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|all - grass barley: Meadow Fescue 5.215 (17 Koga, and Timothy Climax (17 Koga, mixture sown at 34 kg:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|Clover - grass barley: Meadow Fescue S.215 (15 Koga, Timothy Climax (18 kg) and white clover Huia (4 Koga, mixture sown at 37 kg:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|1---1985||diary record|Clover - grass barley: Meadow Fescue S.215 (15 Koga, Timothy Climax (18 kg) and white clover Huia (4 Koga, mixture sown at 37 kg:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|year hay: RVP Italian Ryegrass, sown at 25 kg:
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|all - grass ley: Meadow Fescue 5.215 (17 kg, and Timothy Climax (17 kg, mixture sown at 34 kg:
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|Clover - grass ley: Meadow Fescue S.215 (15 kg, Timothy Climax (18 kg) and white clover Huia (4 kg, mixture sown at 37 kg:
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|one - year hay: RVP Italian Ryegrass, sown at 25 kg:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|30-Apr-1985||diary record|harrowed in:
 R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|17-June-1985||diary record|"2,4-D", MCPA and benazolin (as Legumex Extra at 7.0 l) in 500 l:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|25-July-1985||diary record|Cut:
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|29-July-1985||diary record|NK applied (25:0:16) at 300 kg (except to clover - grass ley):
-R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|4-Nov-1985||diary record|Cut:
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|25-July-1985||diary record|cut:
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|29-July-1985||diary record|NK applied (25:0:16) at 300 kg (except to clover - grass ley:
+R/RN/2|1985|1st Treatment crops in museum blocks: All-grass ley, 1-year hay and clover-grass ley:|4-Nov-1985||diary record|cut:
 R/RN/2|1985|1st Test crop wheat in museum blocks and 4th test crop wheat in new sequence blocks:|13-Aug-1984||diary record|Glyphosate at 1.4 kg in 500 1 (to 1st Test crop only):
 R/RN/2|1985|1st Test crop wheat in museum blocks and 4th test crop wheat in new sequence blocks:|25-Sept-1984||diary record|ploughed 4th Test crop:
 R/RN/2|1985|1st Test crop wheat in museum blocks and 4th test crop wheat in new sequence blocks:|2-Oct-1984||diary record|ploughed 1st Test crop:
@@ -1381,18 +1377,18 @@ R/RN/2|1985|Reseeded grass and old grass:|11-Dec-1984||diary record|PK applied (
 R/RN/2|1985|Reseeded grass and old grass:|29-Mar-1985||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1985|Reseeded grass and old grass:|31-May-1985||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1985|Reseeded grass and old grass:|29-July-1985||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
-R/RN/2|1985|Reseeded grass and old grass:|29-May-1985||diary record|Cut:
-R/RN/2|1985|Reseeded grass and old grass:|25-July-1985||diary record|Cut:
-R/RN/2|1985|Reseeded grass and old grass:|5-Nov-1985||diary record|Cut:
-R/RN/2|1986|2nd Treatment crops: Lucerne:|15-Nov-1985||diary record|PK applied (0:18:36) at 630 Koga:
-R/RN/2|1986|2nd Treatment crops: Lucerne:|13-June-1986||diary record|Cut:
-R/RN/2|1986|2nd Treatment crops: Lucerne:|29-Sept-1986||diary record|Cut:
+R/RN/2|1985|Reseeded grass and old grass:|29-May-1985||diary record|cut:
+R/RN/2|1985|Reseeded grass and old grass:|25-July-1985||diary record|cut:
+R/RN/2|1985|Reseeded grass and old grass:|5-Nov-1985||diary record|cut:
+R/RN/2|1986|2nd Treatment crops: Lucerne:|15-Nov-1985||diary record|PK applied (0:18:36) at 630 kg:
+R/RN/2|1986|2nd Treatment crops: Lucerne:|13-June-1986||diary record|cut:
+R/RN/2|1986|2nd Treatment crops: Lucerne:|29-Sept-1986||diary record|cut:
 R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|15-Nov-1985||diary record|PK applied (0:18:36) at 420 kg:
 R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|21-Mar-1986||diary record|NK applied (25:0:16) at 300 kg to all grass and all - grass half plots:
 R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|5-June-1986||diary record|NK applied (25:0:16) at 300 kg to all grass and all - grass half plots:
 R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|2-June-1986||diary record|First cut:
 R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|2-July-1986||diary record|"2,4-D", MCPA and benazolin (as Legumex Extra at 7.0 l) in 500 l:
-R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|29-Sept-1986||diary record|Cut:
+R/RN/2|1986|2nd Treatment crops: All-grass ley, clover-grass ley, reseeded grass and old grass:|29-Sept-1986||diary record|cut:
 R/RN/2|1986|2nd Treatment crops: Sugar beet:|19-Nov-1985||diary record|ploughed:
 R/RN/2|1986|2nd Treatment crops: Sugar beet:|30-Apr-1986||diary record|Disced:
 R/RN/2|1986|2nd Treatment crops: Sugar beet:|2-May-1986||diary record|NPK Mg applied (10:10:15+4.5 Mg) at 1640 kg:
@@ -1407,19 +1403,17 @@ R/RN/2|1986|2nd Test crop wheat:|30-Apr-1986||diary record|Clopyralid at 0.07 kg
 R/RN/2|1986|2nd Test crop wheat:|2-May-1986||diary record|N treatment applied:
 R/RN/2|1986|2nd Test crop wheat:|20-Aug-1986||diary record|Combine harvested:
 R/RN/2|1987|3rd Treatment crops: Lucerne:|24-Feb-1987||diary record|PK applied (0:18:36) at 630 kg:
-R/RN/2|1987|3rd Treatment crops: Lucerne:|1-June-1987||diary record|Cut:
-R/RN/2|1987|3rd Treatment crops: Lucerne:|11-Aug-1987||diary record|Cut:
+R/RN/2|1987|3rd Treatment crops: Lucerne:|1-June-1987||diary record|cut:
+R/RN/2|1987|3rd Treatment crops: Lucerne:|11-Aug-1987||diary record|cut:
 R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|24-Feb-1987||diary record|PK applied (0:18:36) at 420 kg:
-R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|31-Mar-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass barley:
-R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|3-June-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass barley:
-R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|1-June-1987||diary record|Cut:
-R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|11-Aug-1987||diary record|Cut:
+R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|31-Mar-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass ley:
+R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|3-June-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass ley:
+R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|1-June-1987||diary record|cut:
+R/RN/2|1987|3rd Treatment crops: All-grass ley and clover-grass ley:|11-Aug-1987||diary record|cut:
 R/RN/2|1987|3rd Treatment crops: S. oats:|28-Nov-1986||diary record|ploughed:
 R/RN/2|1987|3rd Treatment crops: S. oats:|19-Mar-1987||diary record|Spring-tine cultivated:
 R/RN/2|1987|3rd Treatment crops: S. oats:|21-Mar-1987||diary record|NPK applied (20:10:10) at 350 kg, spring-tine cultivated, seed sown Rollo, sown at 190 kg:
-R/RN/2|1987|3rd Treatment crops: S. oats:|0-kg-1987||diary record|Clopyralid at 0.07 kg, Bromoxynil at mecoprop at 2.5 kg in 500 l:
-R/RN/2|1987|3rd Treatment crops: S. oats:|34-kg-1987||diary record|Clopyralid at 0.07 kg, Bromoxynil at mecoprop at 2.5 kg in 500 l:
-R/RN/2|1987|3rd Treatment crops: S. oats:|8-May-1987||diary record|Clopyralid at 0.07 kg, Bromoxynil at mecoprop at 2.5 kg in 500 l:
+R/RN/2|1987|3rd Treatment crops: S. oats:|8-May-1987||diary record|Clopyralid at 0.07 kg, Bromoxynil at 0.34 kg and mecoprop at 2.5 kg in 500 l:
 R/RN/2|1987|3rd Treatment crops: S. oats:|9-Sept-1987||diary record|Combine harvested:
 R/RN/2|1987|3rd Test crop wheat:|30-Sept-1986||diary record|ploughed:
 R/RN/2|1987|3rd Test crop wheat:|1-Oct-1986||diary record|PK applied (0:24:24), combine drilled at 210 kg:
@@ -1433,33 +1427,33 @@ R/RN/2|1987|Reseeded grass and old grass:|24-Feb-1987||diary record|PK applied (
 R/RN/2|1987|Reseeded grass and old grass:|31-Mar-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1987|Reseeded grass and old grass:|3-June-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1987|Reseeded grass and old grass:|29-Aug-1987||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
-R/RN/2|1987|Reseeded grass and old grass:|1-June-1987||diary record|Cut:
-R/RN/2|1987|Reseeded grass and old grass:|27-Aug-1987||diary record|Cut:
-R/RN/2|1987|Reseeded grass and old grass:|2-Dec-1987||diary record|Cut:
+R/RN/2|1987|Reseeded grass and old grass:|1-June-1987||diary record|cut:
+R/RN/2|1987|Reseeded grass and old grass:|27-Aug-1987||diary record|cut:
+R/RN/2|1987|Reseeded grass and old grass:|2-Dec-1987||diary record|cut:
 R/RN/2|1988|lst Treatment crops: Lucerne:|28-Sept-1987||diary record|ploughed:
 R/RN/2|1988|lst Treatment crops: Lucerne:|11-Apr-1988||diary record|paraquat at 0.60 kg ion in 200 l:
-R/RN/2|1988|lst Treatment crops: Lucerne:|22-Apr-1988||diary record|Heavy spring-tine cultivated:
+R/RN/2|1988|lst Treatment crops: Lucerne:|22-Apr-1988||diary record|heavy spring-tine cultivated:
 R/RN/2|1988|lst Treatment crops: Lucerne:|11-May-1988||diary record|PK applied (0:24:24) at 310 kg:
 R/RN/2|1988|lst Treatment crops: Lucerne:|13-May-1988||diary record|Rotary harrowed, rolled, seed broadcast Vertus, sown at 31 kg and harrowed in:
-R/RN/2|1988|lst Treatment crops: Lucerne:|18-Nov-1988||diary record|Cut:
+R/RN/2|1988|lst Treatment crops: Lucerne:|18-Nov-1988||diary record|cut:
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|28-Sept-1987||diary record|ploughed:
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|11-Apr-1988||diary record|paraquat at 0.60 kg ion in 200 l:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|22-Apr-1988||diary record|Heavy spring-tine cultivated:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|22-Apr-1988||diary record|heavy spring-tine cultivated:
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|11-May-1988||diary record|PK applied (0:18:36) at 420 kg:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|11-May-1988||diary record|N applied Nitram at 220 kg (except to clover - grass barley) and l - year hay plots:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|11-May-1988||diary record|N applied Nitram at 220 kg (except to clover - grass ley) and l - year hay plots:
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|11-May-1988||diary record|rotary harrowed and rolled:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|all - grass barley and clover - grass barley plots rotary harrowed and rolled:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|seed broadcast all - grass barley: Meadow Fescue (17 kg) and Timothy Climax (17 Koga, mixture sown at 34 kg:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|seed broadcast Clover - grass barley: Meadow Fescue (4 Koga, Timothy Climax (4 kg) and white clover (1 Koga, mixture sown at 37 kg:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|all - grass ley and clover - grass ley plots rotary harrowed and rolled:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|seed broadcast all - grass ley: Meadow Fescue (17 kg) and Timothy Climax (17 kg, mixture sown at 34 kg:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|seed broadcast Clover - grass ley: Meadow Fescue (4 kg, Timothy Climax (4 kg) and white clover (1 kg, mixture sown at 37 kg:
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|1-hay-1988|year-hay-1988|diary record|seed broadcast
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|Londras Westerwolths Ryegrass, sown at 25 kg:
 R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|13-May-1988||diary record|harrowed in:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|18-July-1988||diary record|Cut:
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|21-July-1988||diary record|NK applied (25:0:16) at 300 kg (except to clover - grass ley):
-R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|18-Nov-1988||diary record|Cut:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|18-July-1988||diary record|cut:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|21-July-1988||diary record|NK applied (25:0:16) at 300 kg (except to clover - grass ley:
+R/RN/2|1988|lst Treatment crops: All-grass ley, clover-grass ley and l-year hay:|18-Nov-1988||diary record|cut:
 R/RN/2|1988|1st Test crop wheat:|28-Sept-1987||diary record|ploughed:
 R/RN/2|1988|1st Test crop wheat:|11-Apr-1988||diary record|paraquat at 0.60 kg ion in 200 l:
-R/RN/2|1988|1st Test crop wheat:|22-Apr-1988||diary record|Heavy spring-tine cultivated:
+R/RN/2|1988|1st Test crop wheat:|22-Apr-1988||diary record|heavy spring-tine cultivated:
 R/RN/2|1988|1st Test crop wheat:|19-Aug-1987||diary record|Glyphosate at 1.4 kg in 500 1 (to ex - Lucerne, grass and clover/grass-ley plots:
 R/RN/2|1988|1st Test crop wheat:|28-Sept-1987||diary record|ploughed:
 R/RN/2|1988|1st Test crop wheat:|5-Oct-1987||diary record|Rotary harrowed, PK applied (0:24:24), combine drilled at 210 kg, seed sown Avalon, sown at 180 kg:
@@ -1469,25 +1463,26 @@ R/RN/2|1988|1st Test crop wheat:|26-Apr-1988||diary record|Fluroxypyr at 0.20 kg
 R/RN/2|1988|1st Test crop wheat:|22-Aug-1988||diary record|Combine harvested:
 R/RN/2|1988|1st Test crop: reseeded grass and old grass:|28-Sept-1987||diary record|ploughed:
 R/RN/2|1988|1st Test crop: reseeded grass and old grass:|11-Apr-1988||diary record|paraquat at 0.60 kg ion in 200 l:
-R/RN/2|1988|1st Test crop: reseeded grass and old grass:|22-Apr-1988||diary record|Heavy spring-tine cultivated:
+R/RN/2|1988|1st Test crop: reseeded grass and old grass:|22-Apr-1988||diary record|heavy spring-tine cultivated:
 R/RN/2|1988|1st Test crop: reseeded grass and old grass:|12-Jan-1988||diary record|PK applied (0:18:36) at 420 kg:
 R/RN/2|1988|1st Test crop: reseeded grass and old grass:|27-May-1988||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots: S Apr,
 R/RN/2|1988|1st Test crop: reseeded grass and old grass:|21-July-1988||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots: S Apr,
-R/RN/2|1988|1st Test crop: reseeded grass and old grass:|25-May-1988||diary record|Cut:
-R/RN/2|1988|1st Test crop: reseeded grass and old grass:|18-July-1988||diary record|Cut:
-R/RN/2|1988|1st Test crop: reseeded grass and old grass:|18-Nov-1988||diary record|Cut:
+R/RN/2|1988|1st Test crop: reseeded grass and old grass:|25-May-1988||diary record|cut:
+R/RN/2|1988|1st Test crop: reseeded grass and old grass:|18-July-1988||diary record|cut:
+R/RN/2|1988|1st Test crop: reseeded grass and old grass:|18-Nov-1988||diary record|cut:
 R/RN/2|1989|2nd Treatment Crops: Lucerne:|9-Dec-1988||diary record|PK applied(0:18:36) at 630 kg:
 R/RN/2|1989|2nd Treatment Crops: Lucerne:|24-May-1989||diary record|First cut:
 R/RN/2|1989|2nd Treatment Crops: Lucerne:|25-Sept-1989||diary record|Second cut:
 R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|9-Dec-1988||diary record|PK applied (0:18:36) at 420 kg:
-R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|10-Apr-1989||diary record|NK applied (25:0:16) at 300 kg to all - grass barley:
+R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|10-Apr-1989||diary record|NK applied (25:0:16) at 300 kg to all - grass ley:
 R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|26-May-1989||diary record|and
-R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|25-Sept-1989||diary record|Cut: 24 may,
+R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|24-May-1989||diary record|cut:
+R/RN/2|1989|2nd Treatment Crops: All-grass ley and clover-grass ley:|25-Sept-1989||diary record|cut:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|19-Dec-1988||diary record|ploughed:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|10-Apr-1989||diary record|NPK applied (13:13:20) at 1150 kg:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|18-Apr-1989||diary record|Spring-tine cultivated twice:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|2-May-1989||diary record|Matamitron at 3.5 kg in 200 1, rotary harrowed and harrowed:
-R/RN/2|1989|2nd Treatment Crops: Sugar beet:|3-May-1989||diary record|Rolled, seed sown Monoire, seed spaced 3.8 cm apart in rows 51 cm apart, rolled:
+R/RN/2|1989|2nd Treatment Crops: Sugar beet:|3-May-1989||diary record|Rolled, seed sown Monoire, seed spaced 3.8 cm Apr in rows 51 cm Apr, rolled:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|9-June-1989||diary record|Pirimicarb at 0.14 kg in 200 l:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|20-June-1989||diary record|Singled:
 R/RN/2|1989|2nd Treatment Crops: Sugar beet:|21-Nov-1989||diary record|Lifted:
@@ -1501,16 +1496,16 @@ R/RN/2|1989|2nd Test crop: w. wheat:|7-Aug-1989||diary record|Combine harvested:
 R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|9-Dec-1988||diary record|PK applied (0:18:36) at 420 kg:
 R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|10-Apr-1989||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|26-May-1989||diary record|and
-R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|24-May-1989||diary record|Cut:
-R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|25-sept-1989||diary record|Cut:
+R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|24-May-1989||diary record|cut:
+R/RN/2|1989|2nd Test crop: Reseeded grass and old grass:|25-Sept-1989||diary record|cut:
 R/RN/2|1990|3rd Treatment crops: Lucerne:|29-Nov-1989||diary record|PK applied (0:24:24) at 940 kg:
 R/RN/2|1990|3rd Treatment crops: Lucerne:|31-May-1990||diary record|First cut:
 R/RN/2|1990|3rd Treatment crops: Lucerne:|10-July-1990||diary record|Second cut:
 R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|29-Nov-1989||diary record|PK applied (0:24:24) at 620 kg:
-R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|1-Mar-1990||diary record|NK applied (25:0:16) at 300 kg to all - grass barley:
+R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|1-Mar-1990||diary record|NK applied (25:0:16) at 300 kg to all - grass ley:
 R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|4-June-1990||diary record|and
-R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|31-May-1990||diary record|Cut:
-R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|10-July-1990||diary record|Cut:
+R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|31-May-1990||diary record|cut:
+R/RN/2|1990|3rd Treatment crops: All-grass ley and clover-grass ley:|10-July-1990||diary record|cut:
 R/RN/2|1990|3rd Treatment crops: S. oats:|4-Jan-1990||diary record|ploughed:
 R/RN/2|1990|3rd Treatment crops: S. oats:|9-Mar-1990||diary record|Spring-tine cultivated twice, rotary harrowed, seed sown Dula, sown at 190 kg:
 R/RN/2|1990|3rd Treatment crops: S. oats:|12-Apr-1990||diary record|NPK applied (20:10:10) at 350 kg:
@@ -1526,5 +1521,5 @@ R/RN/2|1990|3rd Test crop w. wheat:|9-Aug-1990||diary record|Combine harvested:
 R/RN/2|1990|Reseeded grass and old grass:|29-Nov-1989||diary record|PK applied (0:24:24) at 620 kg:
 R/RN/2|1990|Reseeded grass and old grass:|1-Mar-1990||diary record|NK applied (25:0:16) at 300 kg to all - grass half plots:
 R/RN/2|1990|Reseeded grass and old grass:|4-June-1990||diary record|and
-R/RN/2|1990|Reseeded grass and old grass:|31-May-1990||diary record|Cut:
-R/RN/2|1990|Reseeded grass and old grass:|14-Nov-1990||diary record|Cut:
+R/RN/2|1990|Reseeded grass and old grass:|31-May-1990||diary record|cut:
+R/RN/2|1990|Reseeded grass and old grass:|14-Nov-1990||diary record|cut:
