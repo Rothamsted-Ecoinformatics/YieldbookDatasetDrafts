@@ -1,0 +1,151 @@
+W/WB/3|1959|all|28-May-1958||diary record|the site of the Continuous Wheat ploughed
+W/WB/3|1959|all|26-Sept-1958||diary record|the site of the Continuous Wheat ploughed
+W/WB/3|1959|all|27-May-1958||diary record|the site of the Continuous barley ploughed
+W/WB/3|1959|all|28-Oct-1958||diary record|the site of the Continuous barley ploughed
+W/WB/3|1959|Wheat:|5-Dec-1958||diary record|seed drilled Squareheads Master 13/4 at 3 bushels per acre
+W/WB/3|1959|Wheat:|25-Mar-1959||diary record|'Nitra-shell) applied at 4.5 cwt per acre
+W/WB/3|1959|Wheat:|29-Apr-1959||diary record|sprayed with MBA/MCPA at 4 pints in 40 gallons per acre
+W/WB/3|1959|Wheat:|20-Aug-1959||diary record|Combine harvested
+W/WB/3|1959|Barley:|16-Mar-1959||diary record|seed drilled Plumage Archer at 3 bushels per acre
+W/WB/3|1959|Barley:|25-Mar-1959||diary record|'Nitra-shell' (20.5% N) applied at 4.5 cwt per acre
+W/WB/3|1959|Barley:|11-May-1959||diary record|sprayed with MBA/MCPA at 4 pints in 40 gallons per acre
+W/WB/3|1959|Barley:|19-Aug-1959||diary record|Combine harvested
+W/WB/3|1960|all plots|10-Sept-1959||diary record|Ground chalk applied to whole area at 11 cwt per acre
+W/WB/3|1960|all plots|11-Sept-1959||diary record|permanent wheat site ploughed
+W/WB/3|1960|all plots|15-Sept-1959||diary record|permanent barley site ploughed
+W/WB/3|1960|Wheat:|22-Oct-1959||diary record|seed drilled Squareheads Master 13/4 at 3 bushels per acre
+W/WB/3|1960|Wheat:|21-Mar-1960||diary record|nitro-chalk applied 0.9 cwt N
+W/WB/3|1960|Wheat:|3-May-1960||diary record|sprayed with DNOC at 2 gallons in 8 gallons per acre
+W/WB/3|1960|Wheat:|31-Aug-1960||diary record|Combine harvested
+W/WB/3|1960|Barley:|12-Nov-1959|23-Nov-1959|diary record|ploughed 2nd time
+W/WB/3|1960|Barley:|21-Mar-1960||diary record|seed drilled Plumage Archer at 2.75 bushels per acre; nitro-chalk applied 0.9 cwt N
+W/WB/3|1960|Barley:|23-May-1960||diary record|sprayed with MBA/MCPA at 4 pints in 40 gallons per acre
+W/WB/3|1960|Barley:|30-Aug-1960||diary record|Combine harvested
+W/WB/3|1960|Microplots. Potatoes:|12-Nov-1955|23-Nov-1955|diary record|ploughed 2nd time
+W/WB/3|1960|Microplots. Potatoes:|21-Apr-1960||diary record|basal N at 1.2 cwt N as 'nitro-chalk, basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1960|Microplots. Potatoes:|21-Apr-1960||diary record|basal K to P test plots at 1.8 cwtK2O/acre as sulphate of potash
+W/WB/3|1960|Microplots. Potatoes:|21-Apr-1960||diary record|treatment P1 applied at 0.25 cwtP2O5/acre as superphosphate on the flat
+W/WB/3|1960|Microplots. Potatoes:|21-Apr-1960||diary record|treatment P4 applied at 1.0 cwtP2O5/acre as superphosphate on the flat
+W/WB/3|1960|Microplots. Potatoes:|21-Apr-1960||diary record|treatment K2 applied at 0.3 cwtK2O/acre as sulphate of potash on the flat
+W/WB/3|1960|Microplots. Potatoes:|21-Apr-1960||diary record|treatment K8 applied at 1.8 cwtK2O/acre as sulphate of potash on the flat
+W/WB/3|1960|Microplots. Potatoes:|22-Apr-1960||diary record|potatoes planted Majestic by machine
+W/WB/3|1960|Microplots. Potatoes:|27-May-1960||diary record|Blanks in rows planted with chitted seed
+W/WB/3|1960|Microplots. Potatoes:|13-June-1960||diary record|earthed up
+W/WB/3|1960|Microplots. Potatoes:|19-Sept-1960||diary record|lifted
+W/WB/3|1960|Microplots. Barley:|22-Mar-1960||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1960|Microplots. Barley:|22-Mar-1960||diary record|basal K to P test plots at 0.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1960|Microplots. Barley:|22-Mar-1960||diary record|treatment P1 applied at 0.25 cwtP2O5/acre as superphosphate on the flat
+W/WB/3|1960|Microplots. Barley:|22-Mar-1960||diary record|treatment P4 applied at 1.0 cwtP2O5/acre as superphosphate on the flat
+W/WB/3|1960|Microplots. Barley:|22-Mar-1960||diary record|treatment K1 applied at 0.15 cwtK2O/acre as sulphate of potash on the flat
+W/WB/3|1960|Microplots. Barley:|22-Mar-1960||diary record|treatment K4 applied at 0.6 cwtK2O/acre as sulphate of potash on the flat
+W/WB/3|1960|Microplots. Barley:|23-Mar-1960||diary record|basal N applied at 0.6 cwt N as 'nitro-chalk
+W/WB/3|1960|Microplots. Barley:|23-Mar-1960||diary record|seed drilled Plumage Archer at 23 bushels per acre
+W/WB/3|1960|Microplots. Barley:|23-May-1960||diary record|sprayed with MBA/MCPA at 4 pints in 40 gallons per acre
+W/WB/3|1960|Microplots. Barley:|10-Aug-1960||diary record|harvested
+W/WB/3|1961|wheat|26-Sept-1960||diary record|Wheats ploughed
+W/WB/3|1961|wheat|17-Jan-1961||diary record|seed drilled Jufy I at 3 bushels per acre
+W/WB/3|1961|wheat|21-Mar-1961||diary record|Winter wheat ploughed in sowing to bird damage
+W/WB/3|1961|wheat|22-Mar-1961||diary record|'nitro-chalk' applied at 0.9 cwtN/acre, seed drilled at 3 bushels per acre
+W/WB/3|1961|wheat|9-May-1961||diary record|sprayed with MCPA/MCPB at 4 pints in 40 gallons per acre
+W/WB/3|1961|wheat|28-Aug-1961||diary record|Combine harvested
+W/WB/3|1961|Barley:|27-Sept-1960||diary record|ploughed twice
+W/WB/3|1961|Barley:|10-Feb-1961||diary record|ploughed twice
+W/WB/3|1961|Barley:|9-Mar-1961||diary record|'nitro-chalk' applied at 0.9 cwtN/acre, seed drilled Plumage Archer at 3 bushels per acre
+W/WB/3|1961|Barley:|9-May-1961||diary record|sprayed with MCPA/MCPB at 4 pints in 40 gallons per acre
+W/WB/3|1961|Barley:|28-Aug-1961||diary record|Combine harvested
+W/WB/3|1961|Microplots Potatoes:|24-Jan-1961||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Potatoes:|24-Jan-1961||diary record|basal K to P test plots at 1.8 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Potatoes:|25-Jan-1961||diary record|plots ploughed
+W/WB/3|1961|Microplots Potatoes:|22-Mar-1961||diary record|basal N at 1.2 cwtN/acre as nitro-chalk
+W/WB/3|1961|Microplots Potatoes:|22-Mar-1961||diary record|treatment K3 applied on the flat at 0.45 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Potatoes:|22-Mar-1961||diary record|treatment K12 applied on the flat at 1.8 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Potatoes:|22-Mar-1961||diary record|treatment P1 applied on the flat at 0.25 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Potatoes:|22-Mar-1961||diary record|treatment P4 applied on the flat at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Potatoes:|22-Mar-1961||diary record|chitted seed planted Majestic by machine
+W/WB/3|1961|Microplots Potatoes:|6-June-1961||diary record|sprayed twice with demeton methyl at 12 fluid oz in 40 gallons per acre
+W/WB/3|1961|Microplots Potatoes:|11-July-1961||diary record|sprayed twice with demeton methyl at 12 fluid oz in 40 gallons per acre
+W/WB/3|1961|Microplots Potatoes:|18-Aug-1961||diary record|sprayed with Piper fungicide at 5 1b in 40 gallons per acre
+W/WB/3|1961|Microplots Potatoes:|31-Aug-1961||diary record|sprayed with Piper fungicide at 5 1b in 40 gallons per acre
+W/WB/3|1961|Microplots Potatoes:|21-Sept-1961||diary record|lifted
+W/WB/3|1961|Microplots Barley:|24-Jan-1961||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Barley:|24-Jan-1961||diary record|basal K to P test plots at 0.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Barley:|25-Jan-1961||diary record|plots ploughed
+W/WB/3|1961|Microplots Barley:|9-Mar-1961||diary record|basal N at 0.6 cwtN/acre as nitro-chalk
+W/WB/3|1961|Microplots Barley:|9-Mar-1961||diary record|treatment K1 applied to seedbed at 0.15 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Barley:|9-Mar-1961||diary record|treatment K4 applied to seedbed at 0.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Barley:|9-Mar-1961||diary record|treatment P1 applied to seedbed at 0.25 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Barley:|9-Mar-1961||diary record|treatment P4 applied to seedbed at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Barley:|9-Mar-1961||diary record|seed drilled Plumage Archer at 2.75 bushels per acre
+W/WB/3|1961|Microplots Barley:|10-Aug-1961||diary record|harvested
+W/WB/3|1961|Microplots Sugar beet:|24-Jan-1961||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Sugar beet:|24-Jan-1961||diary record|basal K to P test plots at 3.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Sugar beet:|25-Jan-1961||diary record|plots ploughed
+W/WB/3|1961|Microplots Sugar beet:|9-Mar-1961||diary record|basal N at 1.0 cwtN/acre as nitro-chalk
+W/WB/3|1961|Microplots Sugar beet:|9-Mar-1961||diary record|treatment K6 applied to seedbed at 0.9 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Sugar beet:|9-Mar-1961||diary record|treatment K24 applied to seedbed at 3.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1961|Microplots Sugar beet:|9-Mar-1961||diary record|treatment P1 applied to seedbed at 0.25 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Sugar beet:|9-Mar-1961||diary record|treatment P4 applied to seedbed at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1961|Microplots Sugar beet:|12-Apr-1961||diary record|seed drilled Klein E at 12 1b per acre
+W/WB/3|1961|Microplots Sugar beet:|16-Oct-1961||diary record|lifted
+W/WB/3|1962|Oats:|19-Oct-1964||diary record|ploughed
+W/WB/3|1962|Oats:|24-Feb-1962||diary record|seed drilled Condor at 4 bushels per acre, 'nitro-chalk' applied at 0.4 cwtN/acre
+W/WB/3|1962|Oats:|15-May-1962||diary record|sprayed with MCPA/MCPB at 4 pints in 40 gallons per acre
+W/WB/3|1962|Oats:|27-Aug-1962||diary record|Combine harvested
+W/WB/3|1962|microplots potatoes|26-Jan-1962||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1962|microplots potatoes|26-Jan-1962||diary record|basal K to P test plots at 1.8 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|microplots potatoes|26-Jan-1962||diary record|plots plough
+W/WB/3|1962|microplots potatoes|27-Mar-1962||diary record|basal N at 1.2 cwtN/acre as nitro-chalk
+W/WB/3|1962|microplots potatoes|27-Mar-1962||diary record|treatment K3 applied on the flat at 0.45 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|microplots potatoes|27-Mar-1962||diary record|treatment K12 applied on the flat at 1.8 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|microplots potatoes|27-Mar-1962||diary record|treatment P1 applied on the flat at 0.25 cwtP2O5/acre as superphosphate
+W/WB/3|1962|microplots potatoes|27-Mar-1962||diary record|treatment P4 applied on the flat at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1962|microplots potatoes|27-Mar-1962||diary record|chitted seed planted Majestic by machine
+W/WB/3|1962|microplots potatoes|14-June-1962||diary record|sprayed with demeton methyl at 6 fluid oz in 50 gallons
+W/WB/3|1962|microplots potatoes|17-July-1962||diary record|sprayed with Piper oxychloride fungicide at 2.3 lb Cu in 40 gallons
+W/WB/3|1962|microplots potatoes|31-July-1962||diary record|sprayed with Piper oxychloride fungicide at 2.3 lb Cu in 40 gallons
+W/WB/3|1962|microplots potatoes|10-Aug-1962||diary record|sprayed with Piper oxychloride fungicide at 2.3 lb Cu in 40 gallons
+W/WB/3|1962|microplots potatoes|-Sept-1962||diary record|lifted 25
+W/WB/3|1962|Microplots Barley:|26-Jan-1962||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1962|Microplots Barley:|26-Jan-1962||diary record|basal K to P test plots at 0.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|Microplots Barley:|26-Jan-1962||diary record|plots plough
+W/WB/3|1962|Microplots Barley:|5-Mar-1962||diary record|basal N at 0.6 cwtN/acre as nitro-chalk
+W/WB/3|1962|Microplots Barley:|5-Mar-1962||diary record|treatment K1 applied to seedbed at 0.15 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|Microplots Barley:|5-Mar-1962||diary record|treatment K4 applied to seedbed at 0.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|Microplots Barley:|5-Mar-1962||diary record|treatment P1 applied to seedbed at 0.25 cwtP2O5/acre as superphosphate
+W/WB/3|1962|Microplots Barley:|5-Mar-1962||diary record|treatment P4 applied to seedbed at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1962|Microplots Barley:|5-Mar-1962||diary record|seed drilled Proctor at 2.75 bushels per acre
+W/WB/3|1962|Microplots Barley:|27-Aug-1962||diary record|harvested
+W/WB/3|1962|Microplots Sugar beet:|26-Jan-1962||diary record|basal P to K test plots at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1962|Microplots Sugar beet:|26-Jan-1962||diary record|basal K to P test plots at 3.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|Microplots Sugar beet:|26-Jan-1962||diary record|plots plough
+W/WB/3|1962|Microplots Sugar beet:|27-Mar-1962||diary record|basal N at 1.0 cwtN/acre as nitro-chalk
+W/WB/3|1962|Microplots Sugar beet:|27-Mar-1962||diary record|treatment K6 applied to seedbed at 0.9 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|Microplots Sugar beet:|27-Mar-1962||diary record|treatment K24 applied to seedbed at 3.6 cwtK2O/acre as sulphate of potash
+W/WB/3|1962|Microplots Sugar beet:|27-Mar-1962||diary record|treatment P1 applied to seedbed at 0.25 cwtP2O5/acre as superphosphate
+W/WB/3|1962|Microplots Sugar beet:|27-Mar-1962||diary record|treatment P4 applied to seedbed at 1.0 cwtP2O5/acre as superphosphate
+W/WB/3|1962|Microplots Sugar beet:|14-June-1962||diary record|seed drilled Klein E (rubbed and grazed) at 12 1b per acre: 27 1962. sprayed with demeton methyl at 6 fluid oz in 50 gallons
+W/WB/3|1962|Microplots Sugar beet:|29-June-1962||diary record|seed drilled Klein E (rubbed and grazed) at 12 1b per acre: 27 1962. sprayed with demeton methyl at 6 fluid oz in 50 gallons
+W/WB/3|1962|Microplots Sugar beet:|16-July-1962||diary record|seed drilled Klein E (rubbed and grazed) at 12 1b per acre: 27 1962. sprayed with demeton methyl at 6 fluid oz in 50 gallons
+W/WB/3|1962|Microplots Sugar beet:|19-Oct-1962||diary record|lifted
+W/WB/3|1963|fallow:|5-Nov-1962||diary record|ploughed
+W/WB/3|1963|fallow:|13-June-1963||diary record|rotary cultivated
+W/WB/3|1963|fallow:|11-Sept-1963||diary record|plots 1 - 10b and 7 - 11b of both the Classical experiment subsoiled to a depth of 20 tines, 5 ft between strokes
+W/WB/3|1963|fallow:|23-Sept-1963||diary record|plots 1 - 10b and 7 - 11b of both the Classical experiment subsoiled to a depth of 18 tines, 5 ft between strokes
+W/WB/3|1963|fallow:|21-Oct-1963||diary record|Ground chalk applied at 46 cwt per acre
+W/WB/3|1964|spring beans:|22-Oct-1963|1-Nov-1963|diary record|ploughed
+W/WB/3|1964|spring beans:|13-Mar-1964||diary record|seed drilled Minor Tick at 200 1b
+W/WB/3|1964|spring beans:|1-Apr-1964||diary record|sprayed with simazine at 1 1b in 40 gels
+W/WB/3|1964|spring beans:|26-Aug-1964||diary record|Combine harvested - continuous wheat area
+W/WB/3|1964|spring beans:|1-Sept-1964||diary record|Combine harvested - continuous barley area
+W/WB/3|1965|fallow|29-Sept-1964||diary record|ploughed
+W/WB/3|1965|fallow|16-Dec-1964||diary record|Chisel ploughed
+W/WB/3|1965|fallow|27-Apr-1965||diary record|Chisel ploughed
+W/WB/3|1965|fallow|28-July-1965||diary record|Chisel ploughed
+W/WB/3|1965|fallow|13-Oct-1965||diary record|ploughed
+W/WB/3|1965|Mustard:|29-Sept-1964||diary record|ploughed
+W/WB/3|1965|Mustard:|16-Dec-1964||diary record|Chisel ploughed
+W/WB/3|1965|Mustard:|27-Apr-1965||diary record|Chisel ploughed
+W/WB/3|1965|Mustard:|28-June-1965||diary record|seed broadcast, 0.42 cwt N applied as 'nitro-chalk
+W/WB/3|1965|Mustard:|7-Oct-1965||diary record|Crop destroyed mechanically
+W/WB/3|1965|Mustard:|13-Oct-1965||diary record|ploughed in
+W/WB/3|1965|Mustard:|||note|plots 7 8 and 9 and the south-eastern apart of 11a and 11b of each site were sown to started as a section against wheat bulb ley in preparationfor the Intensive Cereals experiment

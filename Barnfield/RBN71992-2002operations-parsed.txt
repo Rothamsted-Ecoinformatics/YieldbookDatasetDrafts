@@ -1,158 +1,159 @@
-R/BN/7|1992|all sections:|13-Nov-91|P applied as single superphosphate at 35 kgP/ha.
-R/BN/7|1992|all sections:|14-Nov-91|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1992|all sections:|10-Jun-92|First cut.
-R/BN/7|1992|all sections:|10-Nov-92|Second cut.
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|13-Mar-92|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|13-Mar-92|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|13-Mar-92|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|13-Mar-92|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|18-Jun-92|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|18-Jun-92|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|18-Jun-92|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1992|grass (Sections 3, 4, 5 and 6 only):|18-Jun-92|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1993|all sections:|09-Feb-93|P applied as single superphosphate at 35 kgP/ha
-R/BN/7|1993|all sections:|11-Mar-93|Flat rolled.
-R/BN/7|1993|all sections:|26-Mar-93|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1993|all sections:|02-Jun-93|First sample cut.
-R/BN/7|1993|all sections:|03-Jun-93|Herbage removed from sample cut, cut and removed from
-R/BN/7|1993|remainder of plot.|15-Nov-93|Second sample cut.
-R/BN/7|1993|remainder of plot.|16-Nov-93.|Herbage removed from sample cut, cut and removed from
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|24-Mar-93|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|24-Mar-93|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|24-Mar-93|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|24-Mar-93|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|09-Jun-93|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|09-Jun-93|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|09-Jun-93|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1993|grass (Sections 3, 4, 5 and 6 only):|09-Jun-93|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1994|all plots|19-Nov-93|P applied as single superphosphate at 35 kgP/ha.
-R/BN/7|1994|all plots|23-Nov-93|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1994|all plots|25-Nov-93|Mg applied as kieserite at 90 kgMg/ha.
-R/BN/7|1994|all plots|18-Mar-94|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1994|all plots|18-Mar-94|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1994|all plots|18-Mar-94|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1994|all plots|18-Mar-94|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1994|all plots|30-Mar-94|Flat rolled.
-R/BN/7|1994|all plots|10-Jun-94|Cut.
-R/BN/7|1994|all plots|11-Jun-94|Herbage cut on remainder of plot. Herbage removed.
-R/BN/7|1994|all plots|14-Jun-94|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1994|all plots|14-Jun-94|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1994|all plots|14-Jun-94|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1994|all plots|14-Jun-94|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1994|all plots|19-Oct-94|Topped. No yields taken.
-R/BN/7|1995|all plots|13-Sep-94|Roundup at 5.0 l in 200 1.
-R/BN/7|1995|all plots|03-Nov-94|P applied as single superphosphate at 35 kgP/ha.
-R/BN/7|1995|all plots|07-Nov-94|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1995|all plots|16-Nov-94|ploughed.
-R/BN/7|1995|all plots|06-Apr-95|Rotary harrowed, spring-tine cultivated.
-R/BN/7|1995|all plots|07-Apr-95|Sections 3-6: Rotary harrowed, 33% Hercules perennial
-R/BN/7|1995|drilled at 6.6 kg.|07-Apr-95|Rolled.
-R/BN/7|1995|drilled at 6.6 kg.|16-May-95|Part irrigated 25 mm, started.
-R/BN/7|1995|drilled at 6.6 kg.|22-May-95|Part irrigated 25 mm.
-R/BN/7|1995|drilled at 6.6 kg.|24-May-95|Part irrigated 25 mm.
-R/BN/7|1995|drilled at 6.6 kg.|26-May-95|Part irrigated 25 mm, finished.
-R/BN/7|1995|drilled at 6.6 kg.|21-Jun-95|Topped.
-R/BN/7|1995|drilled at 6.6 kg.|05-Jul-95|Legumex Extra at 7.0 l in 200 1.
-R/BN/7|1995|drilled at 6.6 kg.|13-Jul-95|Part irrigated 25 mm, started. )
-R/BN/7|1995|drilled at 6.6 kg.|14-Jul-95|Part irrigated 25 mm.
-R/BN/7|1995|drilled at 6.6 kg.|16-Jul-95|Part irrigated 25 mm.
-R/BN/7|1995|drilled at 6.6 kg.|17-Jul-95|Part irrigated 25 mm.
-R/BN/7|1995|drilled at 6.6 kg.|18-Jul-95|Part irrigated 25 mm, finished.
-R/BN/7|1995|drilled at 6.6 kg.|28-Jul-95|Sections 3-6: Patch re-drilled grass mixture at 30 kg,
-R/BN/7|1995|to failed areas.|28-Jul-95|Part irrigated 25 mm, started.
-R/BN/7|1995|to failed areas.|29-Jul-95|Part irrigated 25 mm.
-R/BN/7|1995|to failed areas.|30-Jul-95|Part irrigated 25 mm.
-R/BN/7|1995|to failed areas.|31-Jul-95|Part irrigated 25 mm, finished.
-R/BN/7|1995|to failed areas.|04-Aug-95|Part irrigated 25 mm, started.
-R/BN/7|1995|to failed areas.|05-Aug-95|Part irrigated 25 mm.
-R/BN/7|1995|to failed areas.|06-Aug-95|Part irrigated 25 mm. .
-R/BN/7|1995|to failed areas.|12-Aug-95|Part irrigated 25 mm, finished.
-R/BN/7|1995|to failed areas.|31-Aug-95|Topped.
-R/BN/7|1995|to failed areas.|31-Oct-95|Cut.
-R/BN/7|1995|to failed areas.|02-Nov-95|Herbage baled and removed.
-R/BN/7|1996|all plots|08-Nov-95|P applied as single superphosphate at 35 kgP/ha
-R/BN/7|1996|all plots|08-Nov-95|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1996|all plots|27-Mar-96|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1996|all plots|27-Mar-96|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1996|all plots|27-Mar-96|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1996|all plots|27-Mar-96|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1996|all plots|25-Apr-96|Rolled.
-R/BN/7|1996|all plots|10-Jun-96|Cut, herbage removed.
-R/BN/7|1996|all plots|11-Jun-96|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1996|all plots|11-Jun-96|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1996|all plots|11-Jun-96|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1996|all plots|11-Jun-96|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1996|all plots|11-Nov-96|Cut, herbage removed.
-R/BN/7|1997|all plots|02-Dec-96|P applied as single superphosphate at 35 kgP/ha
-R/BN/7|1997|all plots|04-Dec-96|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1997|all plots|07-Mar-97|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1997|all plots|07-Mar-97|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1997|all plots|07-Mar-97|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1997|all plots|07-Mar-97|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1997|all plots|11-Jun-97|Cut, herbage removed.
-R/BN/7|1997|all plots|01-Jul-87|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1997|all plots|01-Jul-87|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1997|all plots|01-Jul-87|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1997|all plots|01-Jul-87|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1997|all plots|29-Jul-87|Cut, herbage removed.
-R/BN/7|1997|all plots|11-Aug-97|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1997|all plots|11-Aug-97|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1997|all plots|11-Aug-97|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1997|all plots|11-Aug-97|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1997|all plots|11-Nov-97|Cut, herbage removed.
-R/BN/7|1998|all plots|04-Dec-97|P applied as single superphosphate at 35 kgP/ha
-R/BN/7|1998|all plots|21-Jan-98|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1998|all plots|21-Jan-98|Mg applied as kieserite at 90 kgMg/ha.
-R/BN/7|1998|all plots|26-Feb-98|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1998|all plots|26-Feb-98|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1998|all plots|26-Feb-98|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1998|all plots|26-Feb-98|N applied as Nitram at 150 kgN/ha to previous castor meal plots.
-R/BN/7|1998|all plots|18-Mar-98|Rolled.
-R/BN/7|1998|all plots|17-Jun-98|Cut, herbage removed. .
-R/BN/7|1998|all plots|10-Jul-98|Sections 1 & 2 only: Checkmate at 1.75 l in 400 1.
-R/BN/7|1998|all plots|05-Sep-98|Sections 1 & 2 only: Topped.
-R/BN/7|1998|all plots|08-Dec-98|Cut, herbage removed. a
-R/BN/7|1999|all plots|18-Mar-99|P applied as single superphosphate at 35 kgP/ha
-R/BN/7|1999|all plots|22-Mar-99|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|1999|all plots|24-Mar-99|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1999|all plots|24-Mar-99|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1999|all plots|24-Mar-99|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1999|all plots|24-Mar-99|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1999|all plots|11-May-99|Topped sections 1 and 2.
-R/BN/7|1999|all plots|08-Jun-99|Cut, herbage removed.
-R/BN/7|1999|all plots|12-Jul-99|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|1999|all plots|12-Jul-99|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|1999|all plots|12-Jul-99|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|1999|all plots|12-Jul-99|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|1999|all plots|29-Jul-99|gallons 2 at 6.0 l in 200 1, plot treatment docks.
-R/BN/7|1999|all plots|29-Jul-99|Topped sections 1 and 2.
-R/BN/7|1999|all plots|20-Oct-99|Cut, herbage removed.
-R/BN/7|2000|all plots|22-Dec-99|P applied as single superphosphate at 35 kgP/ha
-R/BN/7|2000|all plots|22-Dec-99|K applied as sulphate of potash at 225 kgK/ha
-R/BN/7|2000|all plots|14-Mar-00|N applied as Nitram at 75 kgN/ha to previous Nitrate of soda plots
-R/BN/7|2000|all plots|14-Mar-00|N applied as Nitram at 100 kgN/ha to previous sulphate of ammonia plots
-R/BN/7|2000|all plots|14-Mar-00|N applied as Nitram at 125 kgN/ha to previous sulphate of ammonia + castor meal plots
-R/BN/7|2000|all plots|14-Mar-00|N applied as Nitram at 150 kgN/ha to previous castor meal plots
-R/BN/7|2000|all plots|23-May-00|Cut, herbage removed.
-R/BN/7|2000|all plots|04-Jun-00|Topped
-R/BN/7|2000|all plots|05-Jun-00|Baled.
-R/BN/7|2000|all plots|28-Jun-00|Azural at 4.0 l in 200 1.
-R/BN/7|2000|all plots|13-Jul-00|Topped sections 1 and 2.
-R/BN/7|2001|all plots|13-Jul-00|ploughed /w started
-R/BN/7|2001|all plots|14-Jul-00|ploughed /w complated
-R/BN/7|2001|all plots|05-Aug-00|rolled
-R/BN/7|2001|all plots|16-Aug-00|rolled
-R/BN/7|2001|all plots|16-Aug-00|springtined
-R/BN/7|2001|all plots|16-Aug-00|Combination drilled, grass clover ley at 31 kg with the Accord Drill
-R/BN/7|2001|all plots|29-Aug-00|Dursban 4 at 1.5 l in 200 l
-R/BN/7|2001|all plots|29-Aug-00|Judge at 5.0 kg
-R/BN/7|2001|all plots|19-Jan-01|Broadcast grass/clover seed at 31 kg
-R/BN/7|2001|all plots|21-Apr-01|Slit seeded, Dalgaty field mixture at 13 kg by contractor
-R/BN/7|2001|all plots|21-Apr-01|rolled
-R/BN/7|2001|all plots|20-Jul-01|mowed for hay
-R/BN/7|2001|all plots|21-Jul-01|spread hay to disperse grass seed
-R/BN/7|2001|all plots|27-Jul-01|baled hay
-R/BN/7|2001|all plots|27-Jul-01|rowed up hay
-R/BN/7|2001|all plots|27-Jul-01|carted bales
-R/BN/7|2001|all plots|07-Aug-01|flat rolled
-R/BN/7|2001|all plots|29-Aug-01|topped
+R/BN/7|1992|all sections:|13-Nov-91||P applied as single superphosphate at 35 kg/ha.
+R/BN/7|1992|all sections:|14-Nov-91||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1992|all sections:|10-Jun-92||First cut.
+R/BN/7|1992|all sections:|10-Nov-92||second cut.
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|13-Mar-92||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|13-Mar-92||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|13-Mar-92||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|13-Mar-92||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|18-Jun-92||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|18-Jun-92||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|18-Jun-92||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1992|grass (sections 3, 4, 5 and 6 only):|18-Jun-92||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1993|all sections:|09-Feb-93||P applied as single superphosphate at 35 kg/ha
+R/BN/7|1993|all sections:|11-Mar-93||Flat rolled.
+R/BN/7|1993|all sections:|26-Mar-93||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1993|all sections:|02-Jun-93||First sample cut.
+R/BN/7|1993|all sections:|03-Jun-93||Herbage removed from sample cut, cut and removed from remainder of plot.
+R/BN/7|1993|all sections:|15-Nov-93||second sample cut.
+R/BN/7|1993|all sections:|16-Nov-93.||Herbage removed from sample cut, cut and removed from remainder of plot.
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|24-Mar-93||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|24-Mar-93||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|24-Mar-93||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|24-Mar-93||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|09-Jun-93||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|09-Jun-93||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|09-Jun-93||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1993|grass (sections 3, 4, 5 and 6 only):|09-Jun-93||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1994|all plots|19-Nov-93||P applied as single superphosphate at 35 kg/ha.
+R/BN/7|1994|all plots|23-Nov-93||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1994|all plots|25-Nov-93||Mg applied as kieserite at 90 kg/ha.
+R/BN/7|1994|all plots|18-Mar-94||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1994|all plots|18-Mar-94||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1994|all plots|18-Mar-94||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1994|all plots|18-Mar-94||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1994|all plots|30-Mar-94||Flat rolled.
+R/BN/7|1994|all plots|10-Jun-94||cut.
+R/BN/7|1994|all plots|11-Jun-94||Herbage cut on remainder of plot. Herbage removed.
+R/BN/7|1994|all plots|14-Jun-94||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1994|all plots|14-Jun-94||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1994|all plots|14-Jun-94||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1994|all plots|14-Jun-94||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1994|all plots|19-Oct-94||Topped. No yields taken.
+R/BN/7|1995|all plots|13-Sep-94||Roundup at 5.0 l in 200 1.
+R/BN/7|1995|all plots|03-Nov-94||P applied as single superphosphate at 35 kg/ha.
+R/BN/7|1995|all plots|07-Nov-94||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1995|all plots|16-Nov-94||ploughed.
+R/BN/7|1995|all plots|06-Apr-95||rotary harrowed, spring-tine cultivated.
+R/BN/7|1995|all plots|07-Apr-95||sections 3-6: rotary harrowed, 33% Hercules perennial Ryegrass, 33% Condessa the Ryegrass, 13% Bundy meadow fescue, 13% mowing Timothy and 7% Ensign white clover drilled at 30 kg.
+R/BN/7|1995|all plots|07-Apr-95||sections 1-2: rotary harrowed, Olwen white clover drilled at 6.6 kg.
+R/BN/7|1995|all plots|07-Apr-95||rolled.
+R/BN/7|1995|all plots|16-May-95||apart irrigated 25 mm, started.
+R/BN/7|1995|all plots|22-May-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|24-May-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|26-May-95||apart irrigated 25 mm, finished.
+R/BN/7|1995|all plots|21-Jun-95||Topped.
+R/BN/7|1995|all plots|05-Jul-95||Legumex Extra at 7.0 l in 200 1.
+R/BN/7|1995|all plots|13-Jul-95||apart irrigated 25 mm, started. )
+R/BN/7|1995|all plots|14-Jul-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|16-Jul-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|17-Jul-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|18-Jul-95||apart irrigated 25 mm, finished.
+R/BN/7|1995|all plots|28-Jul-95||sections 3-6: Patch drilled grass mixture at 30 kg, to baled areas.
+R/BN/7|1995|all plots|28-Jul-95||apart irrigated 25 mm, started.
+R/BN/7|1995|all plots|29-Jul-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|30-Jul-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|31-Jul-95||apart irrigated 25 mm, finished.
+R/BN/7|1995|all plots|04-Aug-95||apart irrigated 25 mm, started.
+R/BN/7|1995|all plots|05-Aug-95||apart irrigated 25 mm.
+R/BN/7|1995|all plots|06-Aug-95||apart irrigated 25 mm. .
+R/BN/7|1995|all plots|12-Aug-95||apart irrigated 25 mm, finished.
+R/BN/7|1995|all plots|31-Aug-95||Topped.
+R/BN/7|1995|all plots|31-Oct-95||cut.
+R/BN/7|1995|all plots|02-Nov-95||Herbage baled and removed.
+R/BN/7|1996|all plots|08-Nov-95||P applied as single superphosphate at 35 kg/ha
+R/BN/7|1996|all plots|08-Nov-95||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1996|all plots|27-Mar-96||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1996|all plots|27-Mar-96||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1996|all plots|27-Mar-96||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1996|all plots|27-Mar-96||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1996|all plots|25-Apr-96||rolled.
+R/BN/7|1996|all plots|10-Jun-96||cut, herbage removed.
+R/BN/7|1996|all plots|11-Jun-96||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1996|all plots|11-Jun-96||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1996|all plots|11-Jun-96||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1996|all plots|11-Jun-96||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1996|all plots|11-Nov-96||cut, herbage removed.
+R/BN/7|1997|all plots|02-Dec-96||P applied as single superphosphate at 35 kg/ha
+R/BN/7|1997|all plots|04-Dec-96||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1997|all plots|07-Mar-97||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1997|all plots|07-Mar-97||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1997|all plots|07-Mar-97||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1997|all plots|07-Mar-97||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1997|all plots|11-Jun-97||cut, herbage removed.
+R/BN/7|1997|all plots|01-Jul-87||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1997|all plots|01-Jul-87||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1997|all plots|01-Jul-87||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1997|all plots|01-Jul-87||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1997|all plots|29-Jul-87||cut, herbage removed.
+R/BN/7|1997|all plots|11-Aug-97||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1997|all plots|11-Aug-97||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1997|all plots|11-Aug-97||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1997|all plots|11-Aug-97||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1997|all plots|11-Nov-97||cut, herbage removed.
+R/BN/7|1998|all plots|04-Dec-97||P applied as single superphosphate at 35 kg/ha
+R/BN/7|1998|all plots|21-Jan-98||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1998|all plots|21-Jan-98||Mg applied as kieserite at 90 kg/ha.
+R/BN/7|1998|all plots|26-Feb-98||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1998|all plots|26-Feb-98||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1998|all plots|26-Feb-98||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1998|all plots|26-Feb-98||N applied as Nitram at 150 kg/ha to previous castor meal plots.
+R/BN/7|1998|all plots|18-Mar-98||rolled.
+R/BN/7|1998|all plots|17-Jun-98||cut, herbage removed. .
+R/BN/7|1998|all plots|10-Jul-98||sections 1 & 2 only: Checkmate at 1.75 l in 400 1.
+R/BN/7|1998|all plots|05-Sep-98||sections 1 & 2 only: Topped.
+R/BN/7|1998|all plots|08-Dec-98||cut, herbage removed. a
+R/BN/7|1999|all plots|18-Mar-99||P applied as single superphosphate at 35 kg/ha
+R/BN/7|1999|all plots|22-Mar-99||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|1999|all plots|24-Mar-99||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1999|all plots|24-Mar-99||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1999|all plots|24-Mar-99||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1999|all plots|24-Mar-99||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1999|all plots|11-May-99||Topped sections 1 and 2.
+R/BN/7|1999|all plots|08-Jun-99||cut, herbage removed.
+R/BN/7|1999|all plots|12-Jul-99||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|1999|all plots|12-Jul-99||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|1999|all plots|12-Jul-99||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|1999|all plots|12-Jul-99||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|1999|all plots|29-Jul-99||gallons 2 at 6.0 l in 200 1, plot treatment docks.
+R/BN/7|1999|all plots|29-Jul-99||Topped sections 1 and 2.
+R/BN/7|1999|all plots|20-Oct-99||cut, herbage removed.
+R/BN/7|2000|all plots|22-Dec-99||P applied as single superphosphate at 35 kg/ha
+R/BN/7|2000|all plots|22-Dec-99||K applied as sulphate of potash at 225 kg/ha
+R/BN/7|2000|all plots|14-Mar-00||N applied as Nitram at 75 kg/ha to previous Nitrate of soda plots
+R/BN/7|2000|all plots|14-Mar-00||N applied as Nitram at 100 kg/ha to previous sulphate of ammonia plots
+R/BN/7|2000|all plots|14-Mar-00||N applied as Nitram at 125 kg/ha to previous sulphate of ammonia + castor meal plots
+R/BN/7|2000|all plots|14-Mar-00||N applied as Nitram at 150 kg/ha to previous castor meal plots
+R/BN/7|2000|all plots|23-May-00||cut, herbage removed.
+R/BN/7|2000|all plots|04-Jun-00||Topped
+R/BN/7|2000|all plots|05-Jun-00||baled.
+R/BN/7|2000|all plots|28-Jun-00||Azural at 4.0 l in 200 1.
+R/BN/7|2000|all plots|13-Jul-00||Topped sections 1 and 2.
+R/BN/7|2001|all plots|13-Jul-00||ploughed /w started
+R/BN/7|2001|all plots|14-Jul-00||ploughed /w completed
+R/BN/7|2001|all plots|05-Aug-00||rolled
+R/BN/7|2001|all plots|16-Aug-00||rolled
+R/BN/7|2001|all plots|16-Aug-00||springtined
+R/BN/7|2001|all plots|16-Aug-00||Combination drilled, grass clover ley at 31 kg with the Accord drilled
+R/BN/7|2001|all plots|29-Aug-00||Dursban 4 at 1.5 l in 200 l
+R/BN/7|2001|all plots|29-Aug-00||Judge at 5.0 kg
+R/BN/7|2001|all plots|19-Jan-01||Broadcast grass/clover seed at 31 kg
+R/BN/7|2001|all plots|21-Apr-01||Slit seeded, Dalgety field mixture at 13 kg by tractor
+R/BN/7|2001|all plots|21-Apr-01||rolled
+R/BN/7|2001|all plots|20-Jul-01||mowed for hay
+R/BN/7|2001|all plots|21-Jul-01||spread hay to disperse grass seed
+R/BN/7|2001|all plots|27-Jul-01||baled hay
+R/BN/7|2001|all plots|27-Jul-01||rowed up hay
+R/BN/7|2001|all plots|27-Jul-01||carted bales
+R/BN/7|2001|all plots|07-Aug-01||flat rolled
+R/BN/7|2001|all plots|29-Aug-01||topped

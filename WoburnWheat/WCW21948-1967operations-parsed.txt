@@ -1,0 +1,43 @@
+W/CW/2|1952|wheat|4-Sept-1951||diary record|ploughed
+W/CW/2|1952|wheat|20-Oct-1951||diary record|seed drilled Squareheads Master 13/4 at 3 bushels per acre
+W/CW/2|1952|wheat|23-Apr-1952||diary record|nitro-chalk applied
+W/CW/2|1952|wheat|19-May-1952||diary record|sprayed with D.N.0.C. 2/3 gallons per acre
+W/CW/2|1952|wheat|23-May-1952||diary record|sprayed with D.N.0.C. 2/3 gallons per acre
+W/CW/2|1952|wheat|29-July-1952||diary record|harvested
+W/CW/2|1953|wheat|27-Aug-1952||diary record|ploughed
+W/CW/2|1953|wheat|10-Oct-1952||diary record|seed drilled Squareheads Master 13/4 at 3 bushels per acre
+W/CW/2|1953|wheat|20-Apr-1953||diary record|nitro-chalk applied
+W/CW/2|1953|wheat|22-May-1953||diary record|sprayed with DNOC 6 1b in 80 gallons
+W/CW/2|1953|wheat|18-Aug-1953||diary record|harvested
+W/CW/2|1954|wheat|17-Sept-1953||diary record|ploughed
+W/CW/2|1954|wheat|23-Oct-1953||diary record|seed drilled Squareheads Master 13/4 at 3 bushels per acre
+W/CW/2|1954|wheat|27-Apr-1954||diary record|sprayed with D.N.0.C. at 6 1b per acre in 80 gals
+W/CW/2|1954|wheat|28-Apr-1954||diary record|nitro-chalk applied
+W/CW/2|1954|wheat|14-May-1954||diary record|sprayed with 24 - D, 2 pints per acre at low volume
+W/CW/2|1954|wheat|8-Sept-1954||diary record|harvested
+W/CW/2|1955|bare fallow|2-Nov-1954||diary record|ploughed
+W/CW/2|1955|bare fallow|15-Feb-1955||diary record|First dressing of ground chalk applied between 20 and 50 cwt/acre according to acidity pf plots
+W/CW/2|1955|bare fallow|8-Mar-1955||diary record|second dressing of ground chalk applied
+W/CW/2|1955|bare fallow|17-Mar-1955||diary record|ploughed
+W/CW/2|1955|bare fallow|16-Apr-1955||diary record|Third dressing of ground chalk applied
+W/CW/2|1955|bare fallow|6;-May-1955||diary record|ploughed
+W/CW/2|1955|bare fallow|2;-Aug-1955||diary record|ploughed
+W/CW/2|1955|bare fallow|26-Sept-1955||diary record|ploughed
+W/CW/2|1956|bare fallow|26-Sept-1955||diary record|ploughed
+W/CW/2|1956|bare fallow|30-Nov-1955||diary record|half of each plot sprayed with TCA (trichloroacetate acid), 20 1b in 40 gallons per acre
+W/CW/2|1956|bare fallow|28-Mar-1956||diary record|half of each plot sprayed with TCA (trichloroacetate acid), 20 1b in 40 gallons per acre
+W/CW/2|1956|bare fallow|18-June-1956|20-June-1956|diary record|ploughed across plots
+W/CW/2|1956|bare fallow|26-July-1956||diary record|remaining half plots sprayed with TCA at 20 lb in 40 gallons per acre
+W/CW/2|1956|bare fallow|26-Sept-1956||diary record|remaining half plots sprayed with TCA at 20 lb in 40 gallons per acre
+W/CW/2|1956|bare fallow|15-Aug-1956||diary record|Ground chalk applied to certain areas at 7.5 and 15 cwt CaCO per acre
+W/CW/2|1957|Bare fallow|20-Nov-1956||diary record|ploughed
+W/CW/2|1957|Bare fallow|16-Apr-1957||diary record|ploughed
+W/CW/2|1957|Bare fallow|29-July-1957||diary record|ploughed
+W/CW/2|1957|Bare fallow|8-Aug-1957||diary record|Ground chalk applied to certain areas at 7.5 and 15 cwt CaCO per acre
+W/CW/2|1958|wheat:|20-Nov-1956||diary record|ploughed
+W/CW/2|1958|wheat:|16-Apr-1957||diary record|ploughed
+W/CW/2|1958|wheat:|23-July-1957||diary record|ploughed
+W/CW/2|1958|wheat:|8-Aug-1958||diary record|Ground chalk applied
+W/CW/2|1958|wheat:|19-Nov-1958||diary record|Winter sown wheat - Squareheads Master 13/4 drilled
+W/CW/2|1958|wheat:|21-Mar-1958||diary record|Spring sown wheat - Peko drilled
+W/CW/2|1958|wheat:|28-May-1958||diary record|On account of poor development, particularly of the winter sown crops, it was decided to plough out the whole area of this experiment

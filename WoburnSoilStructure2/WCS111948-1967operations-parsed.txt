@@ -1,0 +1,90 @@
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|Ground chalk applied at 30 cwt
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|basal dressing N at 200 lb N as Monoammonium sulphate
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|basal dressing K at 250 1b K as potassium nitrate
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|basal dressing Mg at 500 1b Mg as magnesium sulphate
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|half Dg2 peat applied at 62.5 cwt/acre dug to 8 tines
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|all plots rotary cultivated
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|remainder of Dg2 peat applied at 62.5 cwt/acre
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|all Dg1 applied at 62.5 cwt/acre dug to 8 tines
+W/CS/11|1964|Red beet 1963:|18-Apr-1963||diary record|all plots rotary cultivated second time
+W/CS/11|1964|Red beet 1963:|19-Apr-1964||diary record|plots dug, S1 blocks subsoiled by hand to a depth of 20 tines, ground chalk applied at 10 cwt
+W/CS/11|1964|Red beet 1963:|23-Apr-1964||diary record|Sb peat applied at 62.5 cwt/acre and pricked in
+W/CS/11|1964|Red beet 1963:|15-May-1964||diary record|seedbed N applied at 82 lb N as ammonia nitrate, seed drilled Detroit Globe at 15 1b
+W/CS/11|1964|Red beet 1963:|7-June-1964||diary record|sprayed with DDT at 0.6 1b in 20 gals
+W/CS/11|1964|Red beet 1963:|2-July-1964||diary record|Singled
+W/CS/11|1964|Red beet 1963:|31-July-1964||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/CS/11|1964|Red beet 1963:|8-Aug-1964||diary record|lifted
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|Dg1 peat at 62.5 cwt
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|Dg2 peat at 125 cwt
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|basal dressing N at 75 lb N as Monoammonium sulphate
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|basal dressing P at 56 lb N as Monoammonium sulphate
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|basal dressing K at 150 1b K as potassium nitrate
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|basal dressing Mg at 50 1b Mg as magnesium sulphate
+W/CS/11|1964|Carrots 1964|6-Mar-1964||diary record|plots dug
+W/CS/11|1964|Carrots 1964|23-Apr-1964||diary record|Sb peat at 62.5 cwt applied and raked in
+W/CS/11|1964|Carrots 1964|23-Apr-1964||diary record|N to seedbed at 25 lb N as Monoammonium sulphate
+W/CS/11|1964|Carrots 1964|23-Apr-1964||diary record|P to seedbed at 19 lb N as Monoammonium sulphate
+W/CS/11|1964|Carrots 1964|23-Apr-1964||diary record|K to seedbed at 50 1b K as potassium nitrate
+W/CS/11|1964|Carrots 1964|27-Apr-1964||diary record|seed drilled Autumn King Red Red at 7 lb
+W/CS/11|1964|Carrots 1964|20-May-1964||diary record|sprayed with DDT at 0.6 lb in 20 gals
+W/CS/11|1964|Carrots 1964|4-June-1964||diary record|Singled
+W/CS/11|1964|Carrots 1964|25-June-1964||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/CS/11|1964|Carrots 1964|14-July-1964||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/CS/11|1964|Carrots 1964|7-Aug-1964||diary record|21 28
+W/CS/11|1964|Carrots 1964|2-Sept-1964||diary record|lifted
+W/CS/11|1965|Red beet|10-Mar-1965||diary record|N for digging in applied at 75 lb N as Monoammonium sulphate
+W/CS/11|1965|Red beet|10-Mar-1965||diary record|P for digging in applied at 56 lb N as Monoammonium sulphate
+W/CS/11|1965|Red beet|10-Mar-1965||diary record|K for digging in applied at 150 1b K as potassium nitrate
+W/CS/11|1965|Red beet|10-Mar-1965||diary record|Mg for digging in applied at 50 1b Mg as magnesium sulphate
+W/CS/11|1965|Red beet|31-Mar-1965|1-Apr-1965|diary record|Dg1 Peat for digging in applied at 62.5 cwt/acre and plots dug
+W/CS/11|1965|Red beet|31-Mar-1965|1-Apr-1965|diary record|Dg2 Peat for digging in applied at 125 cwt/acre and plots dug
+W/CS/11|1965|Red beet|21-Apr-1965||diary record|seedbed peat applied to plots Sb at 62.5 cwt
+W/CS/11|1965|Red beet|5-May-1965||diary record|N to seedbed at 25 lb N as Monoammonium sulphate
+W/CS/11|1965|Red beet|5-May-1965||diary record|P to seedbed at 19 lb N as Monoammonium sulphate
+W/CS/11|1965|Red beet|5-May-1965||diary record|K to seedbed at 50 1b K as potassium nitrate
+W/CS/11|1965|Red beet|5-May-1965||diary record|seedbed resprayed
+W/CS/11|1965|Red beet|6-May-1965||diary record|seed Detroit Globe, rubbed and grazed, drilled at 30 1b
+W/CS/11|1965|Red beet|27-May-1965||diary record|Singled first to 2 inch spacing
+W/CS/11|1965|Red beet|31-May-1965||diary record|Singled first to 2 inch spacing
+W/CS/11|1965|Red beet|28-June-1965||diary record|Singled to 4 ion spacing
+W/CS/11|1965|Red beet|21-May-1965||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/CS/11|1965|Red beet|21-June-1965||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/CS/11|1965|Red beet|12-Aug-1965||diary record|lifted
+W/CS/11|1966|Early potatoess|25-Mar-1966||diary record|N for digging in applied at 90 lb N as Monoammonium sulphate
+W/CS/11|1966|Early potatoess|25-Mar-1966||diary record|test P for digging in applied at 56 lb N as triple superphosphate
+W/CS/11|1966|Early potatoess|25-Mar-1966||diary record|K for digging in applied at 112 1b K as potassium nitrate
+W/CS/11|1966|Early potatoess|25-Mar-1966||diary record|Mg for digging in applied at 50 1b Mg as magnesium sulphate
+W/CS/11|1966|Early potatoess|25-Mar-1966||diary record|Dg1 Peat for digging in applied at 62.5 cwt/acre and plots dug
+W/CS/11|1966|Early potatoess|25-Mar-1966||diary record|Dg2 Peat for digging in applied at 125 cwt/acre and plots dug
+W/CS/11|1966|Early potatoess|28-Mar-1966||diary record|all plots dug
+W/CS/11|1966|Early potatoess|4-Apr-1966||diary record|seedbed peat applied to plots Sb at 62.5 cwt
+W/CS/11|1966|Early potatoess|4-Apr-1966||diary record|N to seedbed at 25 lb N as Monoammonium sulphate
+W/CS/11|1966|Early potatoess|4-Apr-1966||diary record|P to seedbed at 19 lb N as triple superphosphate
+W/CS/11|1966|Early potatoess|4-Apr-1966||diary record|K to seedbed at 38 1b K as potassium nitrate
+W/CS/11|1966|Early potatoess|4-Apr-1966||diary record|setts planted Arran plot
+W/CS/11|1966|Early potatoess|20-May-1966||diary record|earthed up
+W/CS/11|1966|Early potatoess|7-July-1966||diary record|lifted
+W/CS/11|1966|Red beet:|15-July-1966||diary record|chalk applied at 1 tons
+W/CS/11|1966|Red beet:|27-July-1966||diary record|N to seedbed at 200 lb N as Monoammonium sulphate
+W/CS/11|1966|Red beet:|27-July-1966||diary record|P to seedbed at 75 lb N as triple superphosphate
+W/CS/11|1966|Red beet:|27-July-1966||diary record|K to seedbed at 250 1b K as potassium nitrate
+W/CS/11|1966|Red beet:|27-July-1966||diary record|Mg to seedbed at 50 1b Mg as magnesium sulphate
+W/CS/11|1966|Red beet:|27-July-1966||diary record|seedbed resprayed, and seed drilled Crimson Globe at 30 lb
+W/CS/11|1966|Red beet:|24-Aug-1966||diary record|Singled to 4 inch spacing
+W/CS/11|1966|Red beet:|28-Oct-1966||diary record|lifted
+W/CS/11|1967|carrots|15-Dec-1966||diary record|Ground chalk applied at 20 cwt
+W/CS/11|1967|carrots|15-Dec-1966||diary record|Dg1 Peat for digging in applied at 62.5 cwt/acre and plots dug
+W/CS/11|1967|carrots|15-Dec-1966||diary record|Dg2 Peat for digging in applied at 125 cwt/acre and plots dug
+W/CS/11|1967|carrots|15-Dec-1966||diary record|all plots dug
+W/CS/11|1967|carrots|30-Jan-1967||diary record|Blocks 1 and 2 seedbed raked sown (J plots
+W/CS/11|1967|carrots|20-Mar-1967||diary record|Blocks 3 2nd 4 seedbed raked sown (M plots
+W/CS/11|1967|carrots|20-Mar-1967||diary record|N to seedbed at 100 lb N as Monoammonium dihydrogen sulphate
+W/CS/11|1967|carrots|20-Mar-1967||diary record|P to seedbed at 75 lb N as Monoammonium dihydrogen sulphate
+W/CS/11|1967|carrots|20-Mar-1967||diary record|K to seedbed at 200 1b K as potassium nitrate
+W/CS/11|1967|carrots|20-Mar-1967||diary record|Mg to seedbed at 50 1b Mg as magnesium sulphate
+W/CS/11|1967|carrots|20-Mar-1967||diary record|seed drilled Chantenay Red Red, Monarch strain at 6 1b
+W/CS/11|1967|carrots|21-Mar-1967||diary record|Linuron at 0.75 1b in 100 gals
+W/CS/11|1967|carrots|9-June-1967||diary record|Dimethoate at 0.2 1b in 40 gals
+W/CS/11|1967|carrots|23-June-1967||diary record|Dimethoate at 0.2 1b in 40 gals
+W/CS/11|1967|carrots|10-July-1967||diary record|Dimethoate at 0.2 1b in 40 gals
+W/CS/11|1967|carrots|24-July-1967||diary record|lifted

@@ -1,0 +1,68 @@
+W/RN/13|1966|all plots:|13-Oct-1965||diary record|ploughed
+W/RN/13|1966|all plots:|29-Mar-1966||diary record|Spring-tine cultivated
+W/RN/13|1966|all plots:|21-June-1966||diary record|ploughed
+W/RN/13|1966|all plots:|8-July-1966||diary record|Spring-tine cultivated
+W/RN/13|1966|all plots:|12-Aug-1966||diary record|Spring-tine cultivated
+W/RN/13|1966|Ley:|26-Oct-1965||diary record|half basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Ley:|22-Mar-1966||diary record|remaining basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Ley:|30-Mar-1966||diary record|'nitro-chalk' applied at 0.4 cwtN/acre, seed sown 1 lb English Italian Ryegrass, 2 lb Danish Italian Ryegrass, 1.5 lb English Broad Red clover, 0.5 lb Canadian Alsike Clover, Mixture sown at 29 lb
+W/RN/13|1966|Ley:|4-July-1966||diary record|cut twice for hay
+W/RN/13|1966|Ley:|26-Aug-1966||diary record|cut twice for hay
+W/RN/13|1966|Potatoes:|26-Oct-1965||diary record|half basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Potatoes:|23-Mar-1966||diary record|remaining basal PK 0.5 cwt P2O5 1.0 cwt K2O, and 'nitro-chalk' applied at 1.2 cwtN/acre
+W/RN/13|1966|Potatoes:|29-Mar-1966||diary record|rotary cultivated, potatoes machine planted Pentland Dell
+W/RN/13|1966|Potatoes:|8-June-1966||diary record|earthed up
+W/RN/13|1966|Potatoes:|29-June-1966||diary record|sprayed with mancozeb 1.2 lb in 33 gals
+W/RN/13|1966|Potatoes:|15-July-1966||diary record|sprayed with mancozeb 1.2 lb in 33 gals
+W/RN/13|1966|Potatoes:|4-Aug-1966||diary record|sprayed with mancozeb 1.2 lb in 33 gals
+W/RN/13|1966|Potatoes:|3-Sept-1966||diary record|Haulm mechanically destroyed
+W/RN/13|1966|Potatoes:|13-Sept-1966||diary record|lifted
+W/RN/13|1966|Wheat:|26-Oct-1965||diary record|half basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Wheat:|29-Oct-1965||diary record|remaining basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Wheat:|2-Nov-1965||diary record|seed drilled, Cappelle 150 lb
+W/RN/13|1966|Wheat:|12-Apr-1965||diary record|N1 nitro-chalk applied as dressing at 0.5 cwtN/acre
+W/RN/13|1966|Wheat:|12-Apr-1965||diary record|N2 nitro-chalk applied as dressing at 1.0 cwtN/acre
+W/RN/13|1966|Wheat:|12-Apr-1965||diary record|N3 nitro-chalk applied as dressing at 1.5 cwtN/acre
+W/RN/13|1966|Wheat:|12-Apr-1965||diary record|N4 nitro-chalk applied as dressing at 2.0 cwtN/acre
+W/RN/13|1966|Wheat:|25-Aug-1965||diary record|Combine harvested
+W/RN/13|1966|Barley:|26-Oct-1965||diary record|half basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Barley:|7-Mar-1966||diary record|remaining basal PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1966|Barley:|8-Mar-1966||diary record|seed drilled - Maris baler 140 lb
+W/RN/13|1966|Barley:|8-Apr-1966||diary record|N1 nitro-chalk applied in the seedbed at 0.4 cwtN/acre
+W/RN/13|1966|Barley:|8-Apr-1966||diary record|N2 nitro-chalk applied in the seedbed at 0.8 cwtN/acre
+W/RN/13|1966|Barley:|8-Apr-1966||diary record|N3 nitro-chalk applied in the seedbed at 1.2 cwtN/acre
+W/RN/13|1966|Barley:|8-Mar-1966||diary record|N4 nitro-chalk applied in the seedbed at 1.6 cwtN/acre
+W/RN/13|1966|Barley:|18-Aug-1966||diary record|Combine harvested
+W/RN/13|1967|Ley:|14-Sept-1966||diary record|half PK applied 0.5 cwt P2O5 1.0 cwt K2O, ploughed
+W/RN/13|1967|Ley:|16-Sept-1966||diary record|remaining PK applied 0.5 cwt P2O5 1.0 cwt K2O, seed sown at 29 lb
+W/RN/13|1967|Ley:|17-Mar-1967||diary record|'nitro-chalk' applied at 0.4 cwtN/acre
+W/RN/13|1967|Ley:|1-June-1967||diary record|cut three times for hay
+W/RN/13|1967|Ley:|13-July-1967||diary record|cut three times for hay
+W/RN/13|1967|Ley:|12-Sept-1967||diary record|cut three times for hay
+W/RN/13|1967|Potatoes:|14-Sept-1966||diary record|half PK applied 0.5 cwt P2O5 1.0 cwt K2O, ploughed
+W/RN/13|1967|Potatoes:|17-Mar-1967||diary record|remaining PK applied 0.5 cwt P2O5 1.0 cwt K2O, and 'nitro-chalk' applied at 1.2 cwtN/acre
+W/RN/13|1967|Potatoes:|22-Mar-1967||diary record|potatoes planted Majestic
+W/RN/13|1967|Potatoes:|103-June-1967||diary record|earthed up
+W/RN/13|1967|Potatoes:|1-July-1967||diary record|sprayed with mancozeb at 1.2 lb in 30 gals
+W/RN/13|1967|Potatoes:|26-July-1967||diary record|sprayed with mancozeb at 1.2 lb in 30 gals
+W/RN/13|1967|Potatoes:|8-Aug-1967||diary record|sprayed with mancozeb at 1.2 lb in 30 gals
+W/RN/13|1967|Potatoes:|21-Aug-1967||diary record|sprayed with fentin acetate at 42 oz plus maneb at 1.4 oz in 30 gals
+W/RN/13|1967|Potatoes:|6-Sept-1967||diary record|sprayed with undiluted BOV at 15 gals
+W/RN/13|1967|Potatoes:|12-Sept-1967||diary record|lifted
+W/RN/13|1967|Wheat:|14-Sept-1966||diary record|half PK applied 0.5 cwt P2O5 1.0 cwt K2O, ploughed
+W/RN/13|1967|Wheat:|21-Oct-1966||diary record|remaining PK applied 0.5 cwt P2O5 1.0 cwt K2O
+W/RN/13|1967|Wheat:|26-Oct-1966||diary record|seed drilled Cappelle at 210 lb
+W/RN/13|1967|Wheat:|14-Apr-1967||diary record|N1 nitro-chalk applied as dressing at 0.5 cwtN/acre
+W/RN/13|1967|Wheat:|14-Apr-1967||diary record|N2 nitro-chalk applied as dressing at 1.0 cwtN/acre
+W/RN/13|1967|Wheat:|14-Apr-1967||diary record|N3 nitro-chalk applied as dressing at 1.5 cwtN/acre
+W/RN/13|1967|Wheat:|14-Apr-1967||diary record|N4 nitro-chalk applied as dressing at 2.0 cwtN/acre
+W/RN/13|1967|Wheat:|27-Apr-1967||diary record|sprayed with Ioxynil/mecoprop (Actril C at 6 pints in 25 gallons
+W/RN/13|1967|Wheat:|22-Aug-1967||diary record|Combine harvested
+W/RN/13|1967|Barley:|14-Sept-1966||diary record|half PK applied 0.5 cwt P2O5 1.0 cwt K2O, ploughed
+W/RN/13|1967|Barley:|4-Mar-1967||diary record|remaining PK applied 0.5 cwt P2O5 1.0 cwt K2O, seed drilled Maris baler at 140 lb
+W/RN/13|1967|Barley:|17-Mar-1967||diary record|N1 nitro-chalk applied in the seedbed at 0.4 cwtN/acre
+W/RN/13|1967|Barley:|17-Mar-1967||diary record|N2 nitro-chalk applied in the seedbed at 0.8 cwtN/acre
+W/RN/13|1967|Barley:|17-Mar-1967||diary record|N3 nitro-chalk applied in the seedbed at 1.2 cwtN/acre
+W/RN/13|1967|Barley:|17-Mar-1967||diary record|N4 nitro-chalk applied in the seedbed at 1.6 cwtN/acre
+W/RN/13|1967|Barley:|27-Apr-1967||diary record|sprayed with ioxynil/mecoprop (Actril C at 6 pints in 25 gallons
+W/RN/13|1967|Barley:|18-Aug-1967||diary record|Combine harvested

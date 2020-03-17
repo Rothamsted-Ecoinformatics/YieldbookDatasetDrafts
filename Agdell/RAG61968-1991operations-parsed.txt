@@ -1,65 +1,53 @@
-R/AG/6|1967|Grass|18-Mar-1967||diary record|basal nitro-chalk applied at 0.8 cwt N:
-R/AG/6|1967|Grass|18-Jan-1967||diary record|Balancing P as triple superphosphate:
-R/AG/6|1967|Grass|18-Jan-1967||diary record|first dressing of K as muriate of potash applied:
-R/AG/6|1967|Grass|2-June-1967||diary record|Cut once for silage:
-R/AG/6|1967|Grass|7-June-1967||diary record|Second dressing of K as muriate of potash applied:
-R/AG/6|1967|Grass|1-June-1967||diary record|plots ploughed:
-R/AG/6|1967|Grass|5-July-1967||diary record|Rotary cultivated:
-R/AG/6|1967|Grass|21-July-1967||diary record|Rotary cultivated:
-R/AG/6|1967|Grass|8-Aug-1967||diary record|Rotary cultivated:
-R/AG/6|1967|Grass|24-Aug-1967||diary record|Rotary cultivated:
-R/AG/6|1967|Grass|7-Sept-1967||diary record|Resown with Timothy:
-R/AG/6|1967|Fallow|31-Oct-1966||diary record|ploughed:
 R/AG/6|1968|Grass:|8-Sept-1967||diary record|nitro-chalk applied at 0.8 cwt N:
 R/AG/6|1968|Grass:|15-Mar-1968||diary record|nitro-chalk applied at 0.8 cwt N:
 R/AG/6|1968|Grass:|30-May-1968||diary record|nitro-chalk applied at 0.8 cwt N:
 R/AG/6|1968|Grass:|15-July-1968||diary record|nitro-chalk applied at 0.8 cwt N:
-R/AG/6|1968|Grass:|6-June-1967||diary record|Ground chalk applied at 46 cwt to plots One and Two, Ground chalk applied at 46 cwt to southern half of plots Three and Four:
+R/AG/6|1968|Grass:|6-June-1967||diary record|Ground chalk applied at 46 cwt to plots one and two, Ground chalk applied at 46 cwt to southern half of plots three and four:
 R/AG/6|1968|Grass:|14-June-1967||diary record|ploughed:
-R/AG/6|1968|Grass:|5-July-1967||diary record|Rotary cultivated:
-R/AG/6|1968|Grass:|21-July-1967||diary record|Rotary cultivated:
-R/AG/6|1968|Grass:|8-Aug-1967||diary record|Rotary cultivated:
-R/AG/6|1968|Grass:|2-Aug-1967||diary record|Rotary cultivated:
+R/AG/6|1968|Grass:|5-July-1967||diary record|rotary cultivated:
+R/AG/6|1968|Grass:|21-July-1967||diary record|rotary cultivated:
+R/AG/6|1968|Grass:|8-Aug-1967||diary record|rotary cultivated:
+R/AG/6|1968|Grass:|2-Aug-1967||diary record|rotary cultivated:
 R/AG/6|1968|Grass:|7-Sept-1967||diary record|seed drilled Timothy S51 at 30 1b:
 R/AG/6|1968|Grass:|15-Mar-1968||diary record|P as triple superphosphate and K as muriate of potash applied
-R/AG/6|1968|Grass:|10-Apr-1968||diary record|PO sub plots on plots Four, Five and Six resown at 30 1b:
-R/AG/6|1968|Grass:|11-Apr-1968||diary record|Sprayed with Ioxynil at 7.5 oz and mecoprop at 22.5 oz in 32 gals:
-R/AG/6|1968|Grass:|27-May-1968||diary record|Cut for silage
-R/AG/6|1968|Grass:|10-July-1968||diary record|Cut for silage
-R/AG/6|1968|Grass:|22-Oct-1968||diary record|Cut for silage
+R/AG/6|1968|Grass:|10-Apr-1968||diary record|PO sub plots on plots four, Five and Six sown at 30 1b:
+R/AG/6|1968|Grass:|11-Apr-1968||diary record|sprayed with Ioxynil at 7.5 oz and Mecoprop at 22.5 oz in 32 gals:
+R/AG/6|1968|Grass:|27-May-1968||diary record|cut for silage
+R/AG/6|1968|Grass:|10-July-1968||diary record|cut for silage
+R/AG/6|1968|Grass:|22-Oct-1968||diary record|cut for silage
 R/AG/6|1968|Fallow:|14-June-1967||diary record|ploughed:
-R/AG/6|1969|Grass:|10-Dec-1968||diary record|Balancing P as triple superphosphate except P0 plots:
-R/AG/6|1969|Grass:|10-Dec-1968||diary record|Balancing K as muriate of potash except K0 plots:
+R/AG/6|1969|Grass:|10-Dec-1968||diary record|Balancing P as triple superphosphate except P0 sub-plots:
+R/AG/6|1969|Grass:|10-Dec-1968||diary record|Balancing K as muriate of potash except K0 sub-plots:
 R/AG/6|1969|Grass:|7-Mar-1969||diary record|nitro-chalk applied at 0.8 cwt N:
 R/AG/6|1969|Grass:|5-June-1969||diary record|nitro-chalk applied at 0.8 cwt N:
 R/AG/6|1969|Grass:|4-Aug-1969||diary record|nitro-chalk applied at 0.8 cwt N:
-R/AG/6|1969|Grass:|5-June-1969||diary record|grass: Cut for silage:
-R/AG/6|1969|Grass:|4-Aug-1969||diary record|grass: Cut for silage:
-R/AG/6|1969|Grass:|14-Oct-1969||diary record|grass: Cut for silage:
+R/AG/6|1969|Grass:|5-June-1969||diary record|grass: cut for silage:
+R/AG/6|1969|Grass:|4-Aug-1969||diary record|grass: cut for silage:
+R/AG/6|1969|Grass:|14-Oct-1969||diary record|grass: cut for silage:
 R/AG/6|1969|Fallow|28-Oct-1968||diary record|ploughed:
-R/AG/6|1969|Fallow|19-June-1968||diary record|Rotary cultivated:
-R/AG/6|1970|all plots|31-Oct-1969||diary record|Ground chalk applied at 25 cwt to main plots One and Two and to South half of Three and Four:
-R/AG/6|1970|all plots|18-Nov-1969||diary record|balancing P as triple superphosphate to all plots except P0:
-R/AG/6|1970|all plots|18-Nov-1969||diary record|balancing K as muriate of potash to all plots except K0:
+R/AG/6|1969|Fallow|19-June-1968||diary record|rotary cultivated:
+R/AG/6|1970|all plots|31-Oct-1969||diary record|Ground chalk applied at 25 cwt to main plots one and two and to out half of three and four:
+R/AG/6|1970|all plots|18-Nov-1969||diary record|balancing P as triple superphosphate to all sub-plots except P0:
+R/AG/6|1970|all plots|18-Nov-1969||diary record|balancing K as muriate of potash to all sub-plots except K0:
 R/AG/6|1970|Grass:|18-Mar-1970||diary record|basal N applied at 0.8 cwt N as nitro-chalk:
 R/AG/6|1970|Grass:|15-June-1970||diary record|and
-R/AG/6|1970|Grass:|4-June-1970||diary record|Cut for silage:
-R/AG/6|1970|Grass:|3-Aug-1970||diary record|Cut for silage:
+R/AG/6|1970|Grass:|4-June-1970||diary record|cut for silage:
+R/AG/6|1970|Grass:|3-Aug-1970||diary record|cut for silage:
 R/AG/6|1970|Grass:|4-Sept-1970||diary record|ploughed:
 R/AG/6|1970|Fallow:|5-Dec-1969||diary record|ploughed
-R/AG/6|1970|Fallow:|10-June-1970||diary record|Rotary cultivated:
+R/AG/6|1970|Fallow:|10-June-1970||diary record|rotary cultivated:
 R/AG/6|1970|Fallow:|22-July-1970||diary record|and
 R/AG/6|1970|Sugar beet:|5-Dec-1969||diary record|ploughed:
 R/AG/6|1970|Sugar beet:|30-Apr-1970||diary record|Test P at 0 cwt P2O5 as single superphosphate to plots P0:
 R/AG/6|1970|Sugar beet:|30-Apr-1970||diary record|Test P at 1.0 cwt P2O5 as single superphosphate to plots P2:
 R/AG/6|1970|Sugar beet:|30-Apr-1970||diary record|basal N at 1.5 cwt N as nitro-chalk applied:
 R/AG/6|1970|Sugar beet:|30-Apr-1970||diary record|basal K at 2.5 cwt K2O as muriate of potash applied:
-R/AG/6|1970|Sugar beet:|30-Apr-1970||diary record|basal Mg at 0.8 cwt MgO as Kieserite applied:
+R/AG/6|1970|Sugar beet:|30-Apr-1970||diary record|basal Mg at 0.8 cwt mow as Kieserite applied:
 R/AG/6|1970|Sugar beet:|4-May-1970||diary record|seed drilled Klein E at 8 1b:
 R/AG/6|1970|Sugar beet:|8-June-1970||diary record|Singled:
 R/AG/6|1970|Sugar beet:|25-June-1970||diary record|Menazon as Saphicol at 0.5 pints in 40 gals:
 R/AG/6|1970|Sugar beet:|15-July-1970||diary record|Menazon as Saphicol at 0.5 pints in 40 gals:
-R/AG/6|1970|Sugar beet:|19-Oct-1970||diary record|Lifted:
+R/AG/6|1970|Sugar beet:|19-Oct-1970||diary record|lifted:
 R/AG/6|1970|Barley:|5-Dec-1969||diary record|ploughed:
 R/AG/6|1970|Barley:|24-Apr-1970||diary record|Test P at 0 cwt P2O5 as single superphosphate to plots P0:
 R/AG/6|1970|Barley:|24-Apr-1970||diary record|Test P at 0.5 cwt P2O5 as single superphosphate to plots P1:
@@ -83,65 +71,65 @@ R/AG/6|1971|Barley:|9-Aug-1971||diary record|Combine harvested:
 R/AG/6|1971|Potatoes:|29-Oct-1970||diary record|ploughed:
 R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|Test P at 0 P2O5 as single superphosphate to plots P0:
 R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|Test P at 188 P2O5 as single superphosphate to plots P3:
-R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|basal N at 251 kgN as nitro-chalk
+R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|basal N at 251 kg as nitro-chalk
 R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|basal K at 251 kgK2O as muriate of potash
 R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|basal Mg at 100 kgMgO as kieserite,
 R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|plots rotary cultivated
 R/AG/6|1971|Potatoes:|5-Apr-1971||diary record|potatoes planted King Edward:
 R/AG/6|1971|Potatoes:|10-May-1971||diary record|Linuron at 0.84 kg plus paraquat at 0.84 kg ion in 449 l:
-R/AG/6|1971|Potatoes:|2-June-1971||diary record|Couch was spot-sprayed with paraquat:
-R/AG/6|1971|Potatoes:|16-June-1971||diary record|Mancozeb at 1.34 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
-R/AG/6|1971|Potatoes:|6-and-1971||diary record|Mancozeb at 1.34 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
-R/AG/6|1971|Potatoes:|28-July-1971||diary record|Mancozeb at 1.34 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
+R/AG/6|1971|Potatoes:|2-June-1971||diary record|Couch was sprayed with paraquat:
+R/AG/6|1971|Potatoes:|16-June-1971||diary record|mancozeb at 1.34 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
+R/AG/6|1971|Potatoes:|6-and-1971||diary record|mancozeb at 1.34 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
+R/AG/6|1971|Potatoes:|28-July-1971||diary record|mancozeb at 1.34 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
 R/AG/6|1971|Potatoes:|18-Aug-1971||diary record|captafol at 1.68 kg and Menazon as Saphicol at 0.7 l/ha in 449 l:
-R/AG/6|1971|Potatoes:|28-Sept-1971||diary record|Lifted
+R/AG/6|1971|Potatoes:|28-Sept-1971||diary record|lifted
 R/AG/6|1972|All plots|8-Oct-1971||diary record|ploughed:
-R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|Test P at 0 kgP as single superphosphate:
-R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|Test P at 82 kgP as single superphosphate:
-R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|basal N at 250 kgN as nitro-chalk:
+R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|Test P at 0 kg as single superphosphate:
+R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|Test P at 82 kg as single superphosphate:
+R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|basal N at 250 kg as nitro-chalk:
 R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|basal K at 250 kgK2O as muriate of potash:
 R/AG/6|1972|Potatoes:|28-Mar-1972||diary record|basal Mg at 100 kgMgO as Kieserite:
-R/AG/6|1972|Potatoes:|24-Apr-1972||diary record|Rotary cultivated:
+R/AG/6|1972|Potatoes:|24-Apr-1972||diary record|rotary cultivated:
 R/AG/6|1972|Potatoes:|25-Apr-1972||diary record|Planted King Edward:
 R/AG/6|1972|Potatoes:|22-May-1972||diary record|Linuron at 0.84 kg plus paraquat at 0.42 kg ion in 450 l
 R/AG/6|1972|Potatoes:|22-June-1972||diary record|Menazon at 0.22 kg in 340 l:
 R/AG/6|1972|Potatoes:|13-July-1972||diary record|Menazon at 0.22 kg in 340 l:
-R/AG/6|1972|Potatoes:|13-July-1972||diary record|Mancozeb at 1.3 kg in 340 l:
-R/AG/6|1972|Potatoes:|1-Aug-1972||diary record|Mancozeb at 1.3 kg in 340 l:
-R/AG/6|1972|Potatoes:|10-Oct-1972|12-Oct-1972|diary record|Lifted:
-R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|Test P at 0 kgP as single superphosphate:
-R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|Test P at 55 kgP as single superphosphate:
-R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|basal N at 190 kgN as nitro-chalk:
+R/AG/6|1972|Potatoes:|13-July-1972||diary record|mancozeb at 1.3 kg in 340 l:
+R/AG/6|1972|Potatoes:|1-Aug-1972||diary record|mancozeb at 1.3 kg in 340 l:
+R/AG/6|1972|Potatoes:|10-Oct-1972|12-Oct-1972|diary record|lifted:
+R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|Test P at 0 kg as single superphosphate:
+R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|Test P at 55 kg as single superphosphate:
+R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|basal N at 190 kg as nitro-chalk:
 R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|basal K at 310 kgK2O as muriate of potash:
 R/AG/6|1972|Sugar beet:|29-Mar-1972||diary record|basal Mg at 100 kgMgO as Kieserite:
-R/AG/6|1972|Sugar beet:|17-Apr-1972||diary record|Power harrowed:
-R/AG/6|1972|Sugar beet:|18-Apr-1972||diary record|Drilled Klein E, sown at 5.6 kg:
+R/AG/6|1972|Sugar beet:|17-Apr-1972||diary record|power harrowed:
+R/AG/6|1972|Sugar beet:|18-Apr-1972||diary record|drilled Klein E, sown at 5.6 kg:
 R/AG/6|1972|Sugar beet:|5-June-1972|6-June-1972|diary record|Singled:
 R/AG/6|1972|Sugar beet:|11-May-1972||diary record|Pyrethrum as Py at 2.1 l in 340 l:
 R/AG/6|1972|Sugar beet:|22-June-1972||diary record|Menazon at 0.22 kg in 340 l:
 R/AG/6|1972|Sugar beet:|13-July-1972||diary record|Menazon at 0.22 kg in 340 l:
 R/AG/6|1972|Sugar beet:|1-Aug-1972||diary record|Menazon at 0.22 kg in 340 l:
-R/AG/6|1972|Sugar beet:|16-Oct-1972|20-Oct-1972|diary record|Lifted:
-R/AG/6|1972|Oats:|23-Mar-1972||diary record|basal NP as compound (30:13:0) at 75 kgN and 33 P2O5:
+R/AG/6|1972|Sugar beet:|16-Oct-1972|20-Oct-1972|diary record|lifted:
+R/AG/6|1972|Oats:|23-Mar-1972||diary record|basal NP as compound (30:13:0) at 75 kg and 33 P2O5:
 R/AG/6|1972|Oats:|23-Mar-1972||diary record|seed drilled Manod, sown at 210 kg:
-R/AG/6|1972|Oats:|18-May-1972||diary record|Bromoxynil, Ioxynil, dichlorprop and MCPA (Tatroxone at 5.6 l in 220 l):
+R/AG/6|1972|Oats:|18-May-1972||diary record|Bromoxynil, Ioxynil, dichlorprop and MCPA (Tetroxone at 5.6 l in 220 l):
 R/AG/6|1972|Oats:|31-Aug-1972||diary record|Combine harvested:
 R/AG/6|1973|All plots|27-Oct-1972||diary record|ploughed:
 R/AG/6|1973|Barley:|13-Mar-1973||diary record|(30:13:10) at 320 kg on K-test half plots:
 R/AG/6|1973|Barley:|13-Mar-1973||diary record|seed sown Julia, dressed with Ethirimol, sown at 160 kg:
-R/AG/6|1973|Barley:|11-May-1973||diary record|Dichlorprop plus MCPA (Mephatol Plus at 5.6 l in 340 l):
+R/AG/6|1973|Barley:|11-May-1973||diary record|Dichlorprop plus MCPA (Mephetol Plus at 5.6 l in 340 l):
 R/AG/6|1973|Barley:|10-Aug-1973||diary record|harvested:
 R/AG/6|1973|Sugar beet:|19-Mar-1973||diary record|N at 190 kg as nitro-chalk:
 R/AG/6|1973|Sugar beet:|19-Mar-1973||diary record|P2O5 at 125 kg as superphosphate:
-R/AG/6|1973|Sugar beet:|19-Mar-1973||diary record|MgO at 100 kg as kieserite:
-R/AG/6|1973|Sugar beet:|21-Mar-1973||diary record|Power harrowed:
+R/AG/6|1973|Sugar beet:|19-Mar-1973||diary record|mow at 100 kg as kieserite:
+R/AG/6|1973|Sugar beet:|21-Mar-1973||diary record|power harrowed:
 R/AG/6|1973|Sugar beet:|22-Mar-1973||diary record|seed sown Klein E sown at 5.6 kg:
 R/AG/6|1973|Sugar beet:|30-May-1973||diary record|Singled:
 R/AG/6|1973|Sugar beet:|14-June-1973||diary record|Menazon (Saphicol at 0.7 l in 340 l):
 R/AG/6|1973|Sugar beet:|6-July-1973||diary record|Menazon (Saphicol at 0.7 l in 340 l):
 R/AG/6|1973|Sugar beet:|23-July-1973||diary record|Menazon (Saphicol at 0.7 l in 340 l):
-R/AG/6|1973|Sugar beet:|17-Oct-1973|24-Oct-1973|diary record|Lifted:
-R/AG/6|1974|all plots|21-Aug-1973||diary record|Barley stubble deep-tine cultivated:
+R/AG/6|1973|Sugar beet:|17-Oct-1973|24-Oct-1973|diary record|lifted:
+R/AG/6|1974|all plots|21-Aug-1973||diary record|barley stubble deep-tine cultivated:
 R/AG/6|1974|all plots|8-Nov-1973||diary record|all plots ploughed:
 R/AG/6|1974|all plots|1-Apr-1974||diary record|all plots power harrowed:
 R/AG/6|1974|Barley:|31-Oct-1973||diary record|Standard K applied at 120 kgK20 as muriate of potash to P-test half plots:
@@ -149,96 +137,96 @@ R/AG/6|1974|Barley:|2-Apr-1974||diary record|treatment K applied at 60 kg K2O to
 R/AG/6|1974|Barley:|2-Apr-1974||diary record|treatment K applied at 0 kg K2O to K-test half plots:
 R/AG/6|1974|Barley:|3-Apr-1974||diary record|seed sown Julia, dressed with Ethirimol, sown at 170 kg:
 R/AG/6|1974|Barley:|3-Apr-1974||diary record|NP applied as (30:13:0) at 320 kg on K-test half plots:
-R/AG/6|1974|Barley:|21-May-1974||diary record|Ioxynil with mecoprop (Actril C at 5.6 l in 340 l):
+R/AG/6|1974|Barley:|21-May-1974||diary record|Ioxynil with Mecoprop (Actril C at 5.6 l in 340 l):
 R/AG/6|1974|Barley:|23-Aug-1974||diary record|Combine harvested:
-R/AG/6|1974|Potatoes:|3-Apr-1974||diary record|Standard N at 250 kgN as nitro-chalk:
+R/AG/6|1974|Potatoes:|3-Apr-1974||diary record|Standard N at 250 kg as nitro-chalk:
 R/AG/6|1974|Potatoes:|3-Apr-1974||diary record|Standard P at 190 kgP205 as superphosphate:
 R/AG/6|1974|Potatoes:|3-Apr-1974||diary record|Standard Mg at 100 kgMgO as Kieserite:
 R/AG/6|1974|Potatoes:|3-Apr-1974||diary record|treatment K applied at 60 kg K2O to K-test half plots:
 R/AG/6|1974|Potatoes:|3-Apr-1974||diary record|treatment K applied at 0 kg K2O to K-test half plots:
-R/AG/6|1974|Potatoes:|9-Apr-1974||diary record|Rotary cultivated:
+R/AG/6|1974|Potatoes:|9-Apr-1974||diary record|rotary cultivated:
 R/AG/6|1974|Potatoes:|10-Apr-1974||diary record|potatoes planted King Edward:
 R/AG/6|1974|Potatoes:|14-May-1974||diary record|Linuron at 1.2 in 340 l:
 R/AG/6|1974|Potatoes:|14-June-1974||diary record|Menazon as Saphicol at 0.7 l in 280 l:
-R/AG/6|1974|Potatoes:|8-July-1974||diary record|Mancozeb at 1.3 kg in 280 l:
-R/AG/6|1974|Potatoes:|23-July-1974||diary record|Mancozeb at 1.3 kg in 280 l:
-R/AG/6|1974|Potatoes:|16-Aug-1974||diary record|Mancozeb at 1.3 kg in 280 l:
+R/AG/6|1974|Potatoes:|8-July-1974||diary record|mancozeb at 1.3 kg in 280 l:
+R/AG/6|1974|Potatoes:|23-July-1974||diary record|mancozeb at 1.3 kg in 280 l:
+R/AG/6|1974|Potatoes:|16-Aug-1974||diary record|mancozeb at 1.3 kg in 280 l:
 R/AG/6|1974|Potatoes:|16-Sept-1974||diary record|Haulm cut off:
-R/AG/6|1974|Potatoes:|19-Sept-1974||diary record|Sprayed with undiluted BOV at 220 l:
-R/AG/6|1974|Potatoes:|26-Sept-1974||diary record|Lifted:
+R/AG/6|1974|Potatoes:|19-Sept-1974||diary record|sprayed with undiluted BOV at 220 l:
+R/AG/6|1974|Potatoes:|26-Sept-1974||diary record|lifted:
 R/AG/6|1975|All plots:|9-Dec-1974||diary record|ploughed:
 R/AG/6|1975|All plots:|29-Apr-1975||diary record|Spring-tine cultivated and power harrowed:
 R/AG/6|1975|Barley:|5-Nov-1974||diary record|K applied at 130 kgK2O as muriate of potash:
 R/AG/6|1975|Barley:|30-Apr-1974||diary record|seed sown Julia, dressed with Ethirimol, sown at 170 Kg:
-R/AG/6|1975|Barley:|30-Apr-1974||diary record|N applied at 63 kgN to P-test half plots:
-R/AG/6|1975|Barley:|30-Apr-1974||diary record|N applied at 94 kgN to P-test half plots:
-R/AG/6|1975|Barley:|13-June-1974||diary record|Dicamba with mecoprop and MCPA (Tetralex Plus at 4.2 l in 280 l).:
+R/AG/6|1975|Barley:|30-Apr-1974||diary record|N applied at 63 kg to P-test half plots:
+R/AG/6|1975|Barley:|30-Apr-1974||diary record|N applied at 94 kg to P-test half plots:
+R/AG/6|1975|Barley:|13-June-1974||diary record|Dicamba with Mecoprop and MCPA (Tetralex Plus at 4.2 l in 280 l).:
 R/AG/6|1975|Barley:|15-Aug-1974||diary record|Combine harvested:
-R/AG/6|1975|Potatoes:|1-May-1975||diary record|Standard N, at 250 kgN as nitro-chalk:
+R/AG/6|1975|Potatoes:|1-May-1975||diary record|Standard N, at 250 kg as nitro-chalk:
 R/AG/6|1975|Potatoes:|1-May-1975||diary record|Standard P, at 190 P2O5 as superphosphate:
 R/AG/6|1975|Potatoes:|1-May-1975||diary record|Standard Mg at 100 kgMgO as kieserite:
 R/AG/6|1975|Potatoes:|1-May-1975||diary record|treatment K applied at 250 kg K2O to K-test half plots:
 R/AG/6|1975|Potatoes:|1-May-1975||diary record|treatment K applied at 0 kg K2O to K-test half plots:
-R/AG/6|1975|Potatoes:|12-May-1975||diary record|spike rotary cultivated and potatoes planted King Edward, once grown Rothamsted seed:
+R/AG/6|1975|Potatoes:|12-May-1975||diary record|spike rotary cultivated and potatoes planted King Edward, one row Rothamsted seed:
 R/AG/6|1975|Potatoes:|4-June-1975||diary record|Linuron at 1.1 kg with paraquat at 0.42 kg ion in 280 l:
 R/AG/6|1975|Potatoes:|30-June-1975||diary record|Menazon at 0.28 kg in 280 l:
 R/AG/6|1975|Potatoes:|18-July-1975||diary record|Menazon at 0.28 kg in 280 l:
-R/AG/6|1975|Potatoes:|18-July-1975||diary record|Mancozeb at 1.3 kg in 280 l:
-R/AG/6|1975|Potatoes:|23-Sept-1975||diary record|Lifted:
-R/AG/6|1975|Sugar beet:|1-May-1975||diary record|Standard N, at 190 kgN as nitro-chalk:
+R/AG/6|1975|Potatoes:|18-July-1975||diary record|mancozeb at 1.3 kg in 280 l:
+R/AG/6|1975|Potatoes:|23-Sept-1975||diary record|lifted:
+R/AG/6|1975|Sugar beet:|1-May-1975||diary record|Standard N, at 190 kg as nitro-chalk:
 R/AG/6|1975|Sugar beet:|1-May-1975||diary record|Standard P, at 130 P2O5 as superphosphate:
 R/AG/6|1975|Sugar beet:|1-May-1975||diary record|Standard Mg at 100 kgMgO as kieserite:
 R/AG/6|1975|Sugar beet:|1-May-1975||diary record|treatment K applied at 310 kg K2O to K-test half plots:
 R/AG/6|1975|Sugar beet:|1-May-1975||diary record|treatment K applied at 0 kg K2O to K-test half plots:
-R/AG/6|1975|Sugar beet:|2-May-1975||diary record|Power harrowed and seed sown Klein E, sown at 13 kg:
+R/AG/6|1975|Sugar beet:|2-May-1975||diary record|power harrowed and seed sown Klein E, sown at 13 kg:
 R/AG/6|1975|Sugar beet:|17-June-1975||diary record|Menazon at 0.28 kg in 260 l:
 R/AG/6|1975|Sugar beet:|30-June-1975||diary record|Menazon at 0.28 kg in 260 l:
 R/AG/6|1975|Sugar beet:|18-July-1975||diary record|Menazon at 0.28 kg in 260 l:
-R/AG/6|1975|Sugar beet:|16-Oct-1975||diary record|Lifted:
-R/AG/6|1976|All plots:|23-Oct-1975||diary record|Heavy spring-tine cultivated:
+R/AG/6|1975|Sugar beet:|16-Oct-1975||diary record|lifted:
+R/AG/6|1976|All plots:|23-Oct-1975||diary record|heavy spring-tine cultivated:
 R/AG/6|1976|All plots:|7-Nov-1975||diary record|ploughed:
 R/AG/6|1976|All plots:|8-Mar-1976||diary record|Spring-tine cultivated:
 R/AG/6|1976|Barley:|16-Oct-1975||diary record|P at 120 kgP205 as superphosphate P applied to K-test half plots:
-R/AG/6|1976|Barley:|11-Mar-1976||diary record|N at 95 kgN as nitro-chalk to K test half plots
-R/AG/6|1976|Barley:|11-Mar-1976||diary record|N at 63 kgN as nitro-chalk to P test half plots
-R/AG/6|1976|Barley:|11-Mar-1976||diary record|N at 94 kgN as nitro-chalk to P test half plots
+R/AG/6|1976|Barley:|11-Mar-1976||diary record|N at 95 kg as nitro-chalk to K test half plots
+R/AG/6|1976|Barley:|11-Mar-1976||diary record|N at 63 kg as nitro-chalk to P test half plots
+R/AG/6|1976|Barley:|11-Mar-1976||diary record|N at 94 kg as nitro-chalk to P test half plots
 R/AG/6|1976|Barley:|11-Mar-1976||diary record|seed sown Julia, dressed with Ethirimol, sown at 190 kg:
-R/AG/6|1976|Barley:|7-May-1976||diary record|Ioxynil at 0.42 kg with mecoprop at 1.3 kg in 280 l:
+R/AG/6|1976|Barley:|7-May-1976||diary record|Ioxynil at 0.42 kg with Mecoprop at 1.3 kg in 280 l:
 R/AG/6|1976|Barley:|15-July-1976||diary record|Combine harvested:
-R/AG/6|1976|Potatoes:|29-Mar-1976||diary record|Standard N at 250 kgN as nitro-chalk to K test half plots:
+R/AG/6|1976|Potatoes:|29-Mar-1976||diary record|Standard N at 250 kg as nitro-chalk to K test half plots:
 R/AG/6|1976|Potatoes:|29-Mar-1976||diary record|Standard P at 190 P2O5 as superphosphate to K test half plots:
 R/AG/6|1976|Potatoes:|29-Mar-1976||diary record|treatment K applied at 250 kg K2O to K-test half plots:
 R/AG/6|1976|Potatoes:|29-Mar-1976||diary record|treatment K applied at 0 kg K2O to K-test half plots:
-R/AG/6|1976|Potatoes:|31-Mar-1976||diary record|Rotary cultivated and potatoes planted King Edward:
+R/AG/6|1976|Potatoes:|31-Mar-1976||diary record|rotary cultivated and potatoes planted King Edward:
 R/AG/6|1976|Potatoes:|13-Apr-1976||diary record|Grubbed and rotary ridged:
 R/AG/6|1976|Potatoes:|6-May-1976||diary record|Linuron at 0.84 kg in 280 l:
 R/AG/6|1976|Potatoes:|10-June-1976||diary record|Menazon as Saphicol at 0.7 l in 230 l:
 R/AG/6|1976|Potatoes:|0.7-and-1976||diary record|Menazon as Saphicol at
 R/AG/6|1976|Potatoes:|1-and-1976||diary record|Menazon as Saphicol at
-R/AG/6|1976|Potatoes:|5-July-1976||diary record|Mancozeb at 1.3 kg in 230 l:
-R/AG/6|1976|Potatoes:|21-Sept-1976||diary record|Lifted:
+R/AG/6|1976|Potatoes:|5-July-1976||diary record|mancozeb at 1.3 kg in 230 l:
+R/AG/6|1976|Potatoes:|21-Sept-1976||diary record|lifted:
 R/AG/6|1977|all plots|7-Dec-1976||diary record|ploughed:
 R/AG/6|1977|all plots|7-Apr-1977||diary record|Spring-tine cultivated:
-R/AG/6|1977|all plots|19-May-1977||diary record|Power harrowed:
+R/AG/6|1977|all plots|19-May-1977||diary record|power harrowed:
 R/AG/6|1977|all plots|20-May-1977||diary record|harrowed:
 R/AG/6|1977|all plots|27-July-1977||diary record|MCPA (Tropotox at 7.0 l in 340 l):
 R/AG/6|1977|all plots|1-Dec-1977||diary record|Topped:
-R/AG/6|1977|Grass plots:|27-Apr-1977||diary record|N at 100 kgN as nitro-chalk:
+R/AG/6|1977|Grass plots:|27-Apr-1977||diary record|N at 100 kg as nitro-chalk:
 R/AG/6|1977|Grass plots:|20-May-1977||diary record|seed sown S.23 at 22 kg:
 R/AG/6|1977|Grass/clover plots:|20-May-||diary record|seed sown S.23 at 22 kg, Blanca at 2 kg, mixture sown at 24 kg:
-R/AG/6|1978|grass plots|25-Mar-1978||diary record|First N applied to grass at 100 kgN as nitro-chalk
-R/AG/6|1978|grass plots|6-Mar-1978||diary record|First N applied to grass at 100 kgN as nitro-chalk
-R/AG/6|1978|grass plots|34-June-1978||diary record|N at 100 kgN as nitro-chalk
-R/AG/6|1978|grass plots|9-June-1978||diary record|N at 100 kgN as nitro-chalk
-R/AG/6|1978|grass plots|3-Aug-1978||diary record|N at 100 kgN as nitro-chalk
-R/AG/6|1978|grass plots|6-June-1978||diary record|Cut:
-R/AG/6|1978|grass plots|26-July-1978||diary record|Cut:
-R/AG/6|1978|grass plots|1-Nov-1978||diary record|Cut:
-R/AG/6|1978|grass clover plots|34-May-1978||diary record|N applied to grass-clover at 50 kgN as Nitra - Shell
-R/AG/6|1978|grass clover plots|18-May-1978||diary record|N applied to grass-clover at 50 kgN as Nitra - Shell
-R/AG/6|1978|grass clover plots|6-June-1978||diary record|Cut:
-R/AG/6|1978|grass clover plots|26-July-1978||diary record|Cut:
-R/AG/6|1978|grass clover plots|1-Nov-1978||diary record|Cut:
+R/AG/6|1978|grass plots|25-Mar-1978||diary record|First N applied to grass at 100 kg as nitro-chalk
+R/AG/6|1978|grass plots|6-Mar-1978||diary record|First N applied to grass at 100 kg as nitro-chalk
+R/AG/6|1978|grass plots|34-June-1978||diary record|N at 100 kg as Nitra-shell
+R/AG/6|1978|grass plots|9-June-1978||diary record|N at 100 kg as Nitra-shell
+R/AG/6|1978|grass plots|3-Aug-1978||diary record|N at 100 kg as Nitra-shell
+R/AG/6|1978|grass plots|6-June-1978||diary record|cut:
+R/AG/6|1978|grass plots|26-July-1978||diary record|cut:
+R/AG/6|1978|grass plots|1-Nov-1978||diary record|cut:
+R/AG/6|1978|grass clover plots|34-May-1978||diary record|N applied to grass-clover at 50 kg as Nitra - Shell
+R/AG/6|1978|grass clover plots|18-May-1978||diary record|N applied to grass-clover at 50 kg as Nitra - Shell
+R/AG/6|1978|grass clover plots|6-June-1978||diary record|cut:
+R/AG/6|1978|grass clover plots|26-July-1978||diary record|cut:
+R/AG/6|1978|grass clover plots|1-Nov-1978||diary record|cut:
 R/AG/6|1979|Beans:|28-Nov-1978||diary record|basal P at 65 kg as superphosphate to K-test half plots:
 R/AG/6|1979|Beans:|28-Nov-1978||diary record|basal K at 250 kg as muriate of potash to P-test half plots:
 R/AG/6|1979|Beans:|7-Dec-1978||diary record|Test P at 0 P2O5 to P test half plots
@@ -246,14 +234,14 @@ R/AG/6|1979|Beans:|7-Dec-1978||diary record|Test P at 150 P2O5 to P test half pl
 R/AG/6|1979|Beans:|7-Dec-1978||diary record|Test K at 0 kgK2O to K test half plots
 R/AG/6|1979|Beans:|7-Dec-1978||diary record|Test K at 300 kgK2O to K test half plots
 R/AG/6|1979|Beans:|23-Jan-1979||diary record|ploughed:
-R/AG/6|1979|Beans:|23-Apr-1979||diary record|Rotary harrowed, seed sown Minden, sown at 220 kg:
-R/AG/6|1979|Beans:|13-May-1979||diary record|Triatazine with simazine (as Remtal SC at 2.8 kg) in 340 l:
+R/AG/6|1979|Beans:|23-Apr-1979||diary record|rotary harrowed, seed sown Minden, sown at 220 kg:
+R/AG/6|1979|Beans:|13-May-1979||diary record|Trietazine with simazine (as Remtal SC at 2.8 kg) in 340 l:
 R/AG/6|1979|Beans:|22-June-1979||diary record|Pirimicarb at 0.14 kg in 340 l:
 R/AG/6|1979|Beans:|12-July-1979||diary record|Pirimicarb at 0.14 kg in 340 l:
 R/AG/6|1979|Beans:|14-Sept-1979||diary record|Combine harvested:
 R/AG/6|1979|Grass:|7-Mar-1979||diary record|N at 380 kg as nitro-chalk:
 R/AG/6|1979|Grass:|12-June-1979||diary record|Glyphosate at 1.5 kg in 220 1 applied:
-R/AG/6|1979|Grass:|28-June-1979||diary record|Cut:
+R/AG/6|1979|Grass:|28-June-1979||diary record|cut:
 R/AG/6|1980|winter Wheat:|27-Sept-1979||diary record|Glyphosate at 1.5 kg in 220 l:
 R/AG/6|1980|winter Wheat:|15-Oct-1979||diary record|Disc harrowed twice, seed sown Flanders, sown at 200 kg:
 R/AG/6|1980|winter Wheat:|15-Apr-1980||diary record|N applied as nitro-chalk at 580 kg:
@@ -264,12 +252,12 @@ R/AG/6|1980|winter Beans:|17-July-1979||diary record|Test P at 150 P2O5:
 R/AG/6|1980|winter Beans:|17-July-1979||diary record|Test K at 0 kgK2O:
 R/AG/6|1980|winter Beans:|17-July-1979||diary record|Test K at 300 kgK2O:
 R/AG/6|1980|winter Beans:|18-July-1979||diary record|ploughed:
-R/AG/6|1980|winter Beans:|31-July-1979||diary record|Heavy spring-tine cultivated:
-R/AG/6|1980|winter Beans:|10-Aug-1979||diary record|Heavy spring-tine cultivated:
-R/AG/6|1980|winter Beans:|4-Mar-1980||diary record|Rotary harrowed:
+R/AG/6|1980|winter Beans:|31-July-1979||diary record|heavy spring-tine cultivated:
+R/AG/6|1980|winter Beans:|10-Aug-1979||diary record|heavy spring-tine cultivated:
+R/AG/6|1980|winter Beans:|4-Mar-1980||diary record|rotary harrowed:
 R/AG/6|1980|winter Beans:|5-Mar-1980||diary record|seed sown Minden, sown at 220 kg:
-R/AG/6|1980|winter Beans:|2.5-in-1980||diary record|Triatazine with simazine as Remtal SC at
-R/AG/6|1980|winter Beans:|1-in-1980||diary record|Triatazine with simazine as Remtal SC at
+R/AG/6|1980|winter Beans:|2.5-in-1980||diary record|Trietazine with simazine as Remtal SC at
+R/AG/6|1980|winter Beans:|1-in-1980||diary record|Trietazine with simazine as Remtal SC at
 R/AG/6|1980|winter Beans:|21-Mar-1980||diary record|250 l:
 R/AG/6|1980|winter Beans:|6-May-1980||diary record|Permethrin at 0.13 kg in 900 l:
 R/AG/6|1980|winter Beans:|16-July-1980||diary record|Pirimicarb at 0.14 kg in 250 l:
@@ -287,55 +275,55 @@ R/AG/6|1981|W. wheat:|26-Aug-1981||diary record|Combine harvested:
 R/AG/6|1981|W. beans:|4-Sept-1980||diary record|Glyphosate at 1.5 kg in 900 l:
 R/AG/6|1981|W. beans:|26-Sept-1980||diary record|paraquat at 0.70 kg ion in 250 l:
 R/AG/6|1981|W. beans:|8-Oct-1980||diary record|Disc harrowed twice:
-R/AG/6|1981|W. beans:|1-Nov-1980||diary record|seed sown Throws MS, sown at 180 kg, Aldicarb at 4.0 kg, combine drilled:
-R/AG/6|1981|W. beans:|4-Nov-1980||diary record|Triatazine at 1.2 kg with simazine at 0.17 kg in 250 l:
+R/AG/6|1981|W. beans:|1-Nov-1980||diary record|seed sown rows MS, sown at 180 kg, Aldicarb at 4.0 kg, combine drilled:
+R/AG/6|1981|W. beans:|4-Nov-1980||diary record|Trietazine at 1.2 kg with simazine at 0.17 kg in 250 l:
 R/AG/6|1981|W. beans:|27-Mar-1981||diary record|Benomyl at 0.55 kg in 250 l:
 R/AG/6|1981|W. beans:|12-June-1981||diary record|Benomyl at 0.55 kg with Pirimicarb at 0.14 kg in 250 l:
 R/AG/6|1981|W. beans:|1-Sept-1981||diary record|Combine harvested:
 R/AG/6|1982|all plots:|16-Sept-1981||diary record|Glyphosate at 1.4 kg in 250 l:
 R/AG/6|1982|all plots:|7-Oct-1981||diary record|paraquat at 0.3 kg ion and diquat at 0.3 kg ion in 250 l:
-R/AG/6|1982|W. beans:|29-Oct-1981||diary record|Aldicarb at 10 kg applied, seed direct drilled Throws MS, sown at 300 kg:
+R/AG/6|1982|W. beans:|29-Oct-1981||diary record|Aldicarb at 10 kg applied, seed direct drilled rows MS, sown at 300 kg:
 R/AG/6|1982|W. beans:|30-Oct-1981||diary record|Propyzamide at 0.85 kg in 250 l:
-R/AG/6|1982|W. beans:|25-Aug-1982||diary record|Diquat at 0.42 kg ion with Agral, a watting agent in 250 l:
+R/AG/6|1982|W. beans:|25-Aug-1982||diary record|Diquat at 0.42 kg ion with Agral, a wetting agent in 250 l:
 R/AG/6|1982|W. beans:|2-Sept-1982||diary record|Combine harvested:
 R/AG/6|1982|W. wheat:|13-Oct-1981||diary record|seed direct drilled Avalon, sown at 200 kg:
-R/AG/6|1982|W. wheat:|16-Oct-1981||diary record|Chlortoturon at 5.6 l in 250 l:
+R/AG/6|1982|W. wheat:|16-Oct-1981||diary record|Chlortoluron at 5.6 l in 250 l:
 R/AG/6|1982|W. wheat:|25-Feb-1982||diary record|N applied as nitro-chalk at 130 kg:
 R/AG/6|1982|W. wheat:|23-Apr-1982||diary record|nitro-chalk at 770 kg
 R/AG/6|1982|W. wheat:|19-Apr-1982||diary record|Mecoprop, Bromoxynil and Ioxynil as Brittox at 3.5 l in 250 l:
-R/AG/6|1982|W. wheat:|26-May-1982||diary record|Propiconazole at 0.12 kg in 250 l:
-R/AG/6|1982|W. wheat:|15-June-1982||diary record|Propiconazole at 0.12 kg n 250 1 with Pirimicarb at 0.14 kg in 250 l:
+R/AG/6|1982|W. wheat:|26-May-1982||diary record|propiconazole at 0.12 kg in 250 l:
+R/AG/6|1982|W. wheat:|15-June-1982||diary record|propiconazole at 0.12 kg n 250 1 with Pirimicarb at 0.14 kg in 250 l:
 R/AG/6|1982|W. wheat:|4-Aug-1982||diary record|Glyphosate at 1.4 kg in 250 l:
 R/AG/6|1982|W. wheat:|21-Aug-1982||diary record|Combine harvested:
 R/AG/6|1983|W. wheat:|7-Sept-1982||diary record|ploughed:
 R/AG/6|1983|W. wheat:|2-Oct-1982||diary record|Spring-tine cultivated:
-R/AG/6|1983|W. wheat:|15-Oct-1982||diary record|Rotary harrowed, seed sown Avalon, sown at 180 kg:
+R/AG/6|1983|W. wheat:|15-Oct-1982||diary record|rotary harrowed, seed sown Avalon, sown at 180 kg:
 R/AG/6|1983|W. wheat:|16-Mar-1983||diary record|First N applied as nitro-chalk at 130 kg:
-R/AG/6|1983|W. wheat:|15-Apr-1983||diary record|Second N applied as nitro-chalk at 770 kg:
+R/AG/6|1983|W. wheat:|15-Apr-1983||diary record|second N applied as nitro-chalk at 770 kg:
 R/AG/6|1983|W. wheat:|16-Apr-1983||diary record|Mecoprop at 3.2 l with Isoproturon at 2.1 kg and Prochloraz at 0.40 kg in 250 l:
-R/AG/6|1983|W. wheat:|17-June-1983||diary record|Propiconazole at 0.12 kg in 250 l:
+R/AG/6|1983|W. wheat:|17-June-1983||diary record|propiconazole at 0.12 kg in 250 l:
 R/AG/6|1983|W. wheat:|4-Aug-1983||diary record|Glyphosate at 1.4 kg in 250 l:
 R/AG/6|1983|W. wheat:|12-Aug-1983||diary record|Combine harvested:
 R/AG/6|1983|Fallow:|7-Sept-1982||diary record|ploughed:
-R/AG/6|1983|Fallow:|24-May-1983||diary record|Rotary cultivated:
-R/AG/6|1983|Fallow:|20-June-1983||diary record|Rotary cultivated:
+R/AG/6|1983|Fallow:|24-May-1983||diary record|rotary cultivated:
+R/AG/6|1983|Fallow:|20-June-1983||diary record|rotary cultivated:
 R/AG/6|1983|Fallow:|2-Aug-1983||diary record|Spring-tine cultivated:
-R/AG/6|1984|W. wheat:|27-Sept-1983||diary record|Heavy spring-tine cultivated:
-R/AG/6|1984|W. wheat:|28-Sept-1983||diary record|Rotary harrowed, seed sown -Avalon, dressed chlorfenvinphos, sown at 200 Koga:
+R/AG/6|1984|W. wheat:|27-Sept-1983||diary record|heavy spring-tine cultivated:
+R/AG/6|1984|W. wheat:|28-Sept-1983||diary record|rotary harrowed, seed sown -Avalon, dressed chlorfenvinphos, sown at 200 kg:
 R/AG/6|1984|W. wheat:|29-Sept-1983||diary record|Chlortoluron at 3.5 l in 250 l:
 R/AG/6|1984|W. wheat:|16-Feb-1984||diary record|First N applied as nitro-chalk at 130 kg:
-R/AG/6|1984|W. wheat:|9-Apr-1984||diary record|Second N applied as nitro-chalk at 750 kg:
+R/AG/6|1984|W. wheat:|9-Apr-1984||diary record|second N applied as nitro-chalk at 750 kg:
 R/AG/6|1984|W. wheat:|14-Apr-1984||diary record|Prochloraz at 0.40 kg and Carbendazim at 0.15 kg in 200 l:
 R/AG/6|1984|W. wheat:|19-Apr-1984||diary record|Mecoprop at 2.0 kg with Ioxynil at 0.25 kg and Bromoxynil at 0.25 kg in 200 l:
 R/AG/6|1984|W. wheat:|13-June-1984||diary record|Triadimefon at 0.12 kg with captafol at 1.3 kg in 500 l:
 R/AG/6|1984|W. wheat:|27-June-1984||diary record|Pirimicarb at 0.14 kg in 250 l:
 R/AG/6|1984|W. wheat:|15-Aug-1984|17-Aug-1984|diary record|Combine harvested:
 R/AG/6|1984|Fallow:|29-Nov-1983||diary record|ploughed:
-R/AG/6|1984|Fallow:|20-Mar-1984||diary record|Heavy spring-tine cultivated:
-R/AG/6|1984|Fallow:|27-Apr-1984||diary record|Heavy spring-tine cultivated:
-R/AG/6|1984|Fallow:|9-May-1984||diary record|Heavy spring-tine cultivated:
+R/AG/6|1984|Fallow:|20-Mar-1984||diary record|heavy spring-tine cultivated:
+R/AG/6|1984|Fallow:|27-Apr-1984||diary record|heavy spring-tine cultivated:
+R/AG/6|1984|Fallow:|9-May-1984||diary record|heavy spring-tine cultivated:
 R/AG/6|1984|Fallow:|20-June-1984||diary record|Spring-tine cultivated:
-R/AG/6|1984|Fallow:|12-July-1984||diary record|Rotary cultivated:
+R/AG/6|1984|Fallow:|12-July-1984||diary record|rotary cultivated:
 R/AG/6|1985|all plots|25-July-1984||diary record|Test P at 150 P2O5 to P-test half plots:
 R/AG/6|1985|all plots|25-July-1984||diary record|Test P at 0 P2O5 to P-test half plots:
 R/AG/6|1985|all plots|25-July-1984||diary record|standard P at 150 P2O5 to K-test half plots:
@@ -343,30 +331,30 @@ R/AG/6|1985|all plots|25-July-1984||diary record|Test K at 300 kgK2O to K-test h
 R/AG/6|1985|all plots|25-July-1984||diary record|Test K at 0 kgK2O to K-test half plots:
 R/AG/6|1985|all plots|25-July-1984||diary record|standard K at 300 kgK2O to P-test half plots:
 R/AG/6|1985|all plots|11-Oct-1984||diary record|paraquat at 0,60 kg ion in 250 l:
-R/AG/6|1985|all plots|15-Oct-1984||diary record|Cultivated by rotary digger:
-R/AG/6|1985|all plots|6-Feb-1985||diary record|Rotary harrowed, seed sown Avalon, dressed fonofos, sown at 200 kg:
+R/AG/6|1985|all plots|15-Oct-1984||diary record|cultivated by rotary digger:
+R/AG/6|1985|all plots|6-Feb-1985||diary record|rotary harrowed, seed sown Avalon, dressed fonofos, sown at 200 kg:
 R/AG/6|1985|all plots|15-Apr-1985||diary record|nitro-chalk (27.5% N) at 870 kg:
-R/AG/6|1985|all plots|16-May-1985||diary record|Cyanazine at 0.24 kg with mecoprop at 1.6 kg in 200 l:
-R/AG/6|1985|all plots|3-July-1985||diary record|Propiconazole at 0.25 kg with Carbendazim and maneb (as Septal at 2.5 kg) in 200 l:
+R/AG/6|1985|all plots|16-May-1985||diary record|Cyanazine at 0.24 kg with Mecoprop at 1.6 kg in 200 l:
+R/AG/6|1985|all plots|3-July-1985||diary record|propiconazole at 0.25 kg with Carbendazim and maneb (as Septal at 2.5 kg) in 200 l:
 R/AG/6|1985|all plots|7-Sept-1985||diary record|Combine harvested:
 R/AG/6|1986|all plots|29-Oct-1985||diary record|ploughed:
-R/AG/6|1986|all plots|6-May-1986||diary record|Rotary harrowed, seed sown Klaxon, sown at 160 kg. The barley was undersown with a timothy, meadow fescue, white clover mixture sown at 31 Koga:
+R/AG/6|1986|all plots|6-May-1986||diary record|rotary harrowed, seeds sown Klaxon, sown at 160 kg. the barley was undersown with a timothy, meadow fescue, white clover mixture sown at 31 kg:
 R/AG/6|1986|all plots|7-May-1986||diary record|Nitram at 250 kg:
-R/AG/6|1986|all plots|12-May-1986||diary record|Dicamba, mecoprop and MCPA (as Herrisol at 5.0 l) in 200 l:
+R/AG/6|1986|all plots|12-May-1986||diary record|Dicamba, Mecoprop and MCPA (as Herrisol at 5.0 l) in 200 l:
 R/AG/6|1986|all plots|6-Sept-1986||diary record|Combine harvested:
 R/AG/6|1987|all plots|6-Apr-1987||diary record|First N applied as Nitram at 130 kg:
-R/AG/6|1987|all plots|4-June-1987||diary record|Cut:
-R/AG/6|1987|all plots|12-June-1987||diary record|Second N applied as Nitram at 200 kg:
+R/AG/6|1987|all plots|4-June-1987||diary record|cut:
+R/AG/6|1987|all plots|12-June-1987||diary record|second N applied as Nitram at 200 kg:
 R/AG/6|1988|all plots|18-Apr-1988||diary record|First N applied as Nitram at 380 kg:
-R/AG/6|1988|all plots|2-June-1988||diary record|Cut:
-R/AG/6|1988|all plots|6-June-1988||diary record|Second N applied as Nitram at 180 kg:
-R/AG/6|1988|all plots|21-Nov-1988||diary record|Cut:
+R/AG/6|1988|all plots|2-June-1988||diary record|cut:
+R/AG/6|1988|all plots|6-June-1988||diary record|second N applied as Nitram at 180 kg:
+R/AG/6|1988|all plots|21-Nov-1988||diary record|cut:
 R/AG/6|1989|all plots|28-Mar-1989||diary record|First N applied as Nitram at 400 kg:
-R/AG/6|1989|all plots|27-May-1989||diary record|Cut:
-R/AG/6|1989|all plots|5-June-1989||diary record|Second N applied as Nitram at 180 kg:
-R/AG/6|1989|all plots|30-Sept-1989||diary record|Cut: Started
-R/AG/6|1989|all plots|31-Oct-1989||diary record|complated
+R/AG/6|1989|all plots|27-May-1989||diary record|cut:
+R/AG/6|1989|all plots|5-June-1989||diary record|second N applied as Nitram at 180 kg:
+R/AG/6|1989|all plots|30-Sept-1989||diary record|cut: started
+R/AG/6|1989|all plots|31-Oct-1989||diary record|completed
 R/AG/6|1990|all plots|6-Mar-1990||diary record|First N applied as Nitram at 350 kg:
-R/AG/6|1990|all plots|30-May-1990||diary record|Cut:
-R/AG/6|1990|all plots|8-June-1990||diary record|Second N applied as Nitram at 220 kg:
-R/AG/6|1990|all plots|1-Aug-1990||diary record|Cut:
+R/AG/6|1990|all plots|30-May-1990||diary record|cut:
+R/AG/6|1990|all plots|8-June-1990||diary record|second N applied as Nitram at 220 kg:
+R/AG/6|1990|all plots|1-Aug-1990||diary record|cut:

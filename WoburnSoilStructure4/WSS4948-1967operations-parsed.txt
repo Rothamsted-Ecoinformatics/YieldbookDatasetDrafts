@@ -1,0 +1,39 @@
+W/SS4|1964|red beet|13-Apr-1964||diary record|Ground chalk applied at 2 tons, plots rotavated
+W/SS4|1964|red beet|13-Apr-1964||diary record|P applied at 75 1bP as Monoammonium sulphate
+W/SS4|1964|red beet|13-Apr-1964||diary record|K applied at 250 1bK as potassium nitrate
+W/SS4|1964|red beet|13-Apr-1964||diary record|N applied at 150 lbN as ammonia nitrate
+W/SS4|1964|red beet|13-Apr-1964||diary record|Mg applied at 50 lbMg as magnesium sulphate
+W/SS4|1964|red beet|13-Apr-1964||diary record|plots dug
+W/SS4|1964|red beet|23-Apr-1964||diary record|test Krilium 3rd 189 at 10 cwt active ingredient (Kr) applied to the seedbed and raked into the two 2 tines with drags
+W/SS4|1964|red beet|23-Apr-1964||diary record|test peat 90 cwt peat dry Master (Pt) applied to the seedbed and raked into the two 2 tines with drags
+W/SS4|1964|red beet|1-May-1964||diary record|Ground chalk applied at 1 tons and N applied at 50 lbN as ammonia nitrate, seed drilled Detroit Globe at 30 1b
+W/SS4|1964|red beet|20-May-1964||diary record|sprayed with DDT at 0.6 1b in 20 gals
+W/SS4|1964|red beet|15-June-1964||diary record|Singled
+W/SS4|1964|red beet|25-June-1964||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/SS4|1964|red beet|14-July-1964||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/SS4|1964|red beet|21-July-1964||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 fluid oz in 40 gals
+W/SS4|1964|red beet|5-Aug-1964||diary record|lifted
+W/SS4|1965|Lettuce.|10-Mar-1965||diary record|P applied at 75 1bP as Monoammonium sulphate
+W/SS4|1965|Lettuce.|10-Mar-1965||diary record|K applied at 200 1bK as potassium nitrate
+W/SS4|1965|Lettuce.|10-Mar-1965||diary record|N applied at 100 lbN as ammonia nitrate
+W/SS4|1965|Lettuce.|10-Mar-1965||diary record|Mg applied at 37.5 lbMg as magnesium sulphate
+W/SS4|1965|Lettuce.|1-Apr-1965||diary record|all plots hand dug
+W/SS4|1965|Lettuce.|22-Apr-1965||diary record|test Krilium 3rd 189 at 10 cwt active ingredient (Kr) applied to the seedbed and raked into the two 2 tines
+W/SS4|1965|Lettuce.|22-Apr-1965||diary record|test peat 90 cwt peat dry Master (Pt) applied to the seedbed and raked into the two 2 tines
+W/SS4|1965|Lettuce.|5-May-1965||diary record|Mg applied to seedbed at 12.5 lbMg as magnesium sulphate
+W/SS4|1965|Lettuce.|5-May-1965||diary record|seedbed resprayed
+W/SS4|1965|Lettuce.|6-May-1965||diary record|Lettuce seed drilled Borough Wonder at 3 1b
+W/SS4|1965|Lettuce.|21-May-1965||diary record|Singled first to 4 inch spacing
+W/SS4|1965|Lettuce.|14-June-1965||diary record|Singled to 8 inch spacing
+W/SS4|1965|Lettuce.|21-May-1965||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 pints in 4O gals and cottoned against birds
+W/SS4|1965|Lettuce.|8-July-1965||diary record|harvested
+W/SS4|1965|Red beet.|9-July-1965||diary record|P applied to seedbed at 75 1bP as Monoammonium sulphate
+W/SS4|1965|Red beet.|9-July-1965||diary record|K applied to seedbed at 200 1bK as potassium nitrate
+W/SS4|1965|Red beet.|9-July-1965||diary record|N applied to seedbed at 100 lbN as ammonia nitrate
+W/SS4|1965|Red beet.|9-July-1965||diary record|Mg applied to seedbed at 37.5 lbMg as magnesium sulphate
+W/SS4|1965|Red beet.|9-July-1965||diary record|resprayed seedbed and seed drilled Detroit Globe at 30 1b
+W/SS4|1965|Red beet.|20-July-1965||diary record|two dressing N applied at 100 lbN as ammonia nitrate
+W/SS4|1965|Red beet.|28-July-1965||diary record|Singled, first to 2 inch spacing
+W/SS4|1965|Red beet.|13-Aug-1965||diary record|Singled to 4 inch spacing
+W/SS4|1965|Red beet.|2-Aug-1965||diary record|sprayed with a mixture of menazon, DDT and gamma BHC at 1.5 pints in 40 gals
+W/SS4|1965|Red beet.|19-Oct-1965||diary record|lifted

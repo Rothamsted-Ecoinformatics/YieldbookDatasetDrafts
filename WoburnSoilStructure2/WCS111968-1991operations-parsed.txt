@@ -1,0 +1,179 @@
+W/CS/11|1968|wheat:|29-Jan-1968||diary record|Dg1 Peat for digging in applied at 62.5 cwt/acre and plots dug:
+W/CS/11|1968|wheat:|29-Jan-1968||diary record|Dg2 Peat for digging in applied at 125 cwt/acre and plots dug:
+W/CS/11|1968|wheat:|29-Jan-1968||diary record|Dg3 Peat for digging in applied at 187.5 cwt/acre and plots dug:
+W/CS/11|1968|wheat:|29-Jan-1968||diary record|all plots dug:
+W/CS/11|1968|wheat:|15-May-1968||diary record|treatment tractor wheelmarks made:
+W/CS/11|1968|wheat:|15-May-1968||diary record|N to seedbed at 200 lb N as ammonia nitrate:
+W/CS/11|1968|wheat:|15-May-1968||diary record|P to seedbed at 75 lb N as Monoammonium dihydrogen sulphate:
+W/CS/11|1968|wheat:|15-May-1968||diary record|K to seedbed at 250 1b K as potassium nitrate:
+W/CS/11|1968|wheat:|15-May-1968||diary record|Mg to seedbed at 50 1b Mg as magnesium sulphate:
+W/CS/11|1968|wheat:|15-May-1968||diary record|raked, seed drilled Avon barley at 30 1b:
+W/CS/11|1968|wheat:|20-June-1968||diary record|Singled:
+W/CS/11|1968|wheat:|3-July-1968||diary record|Dimethoate at 0.2 pints in 50 gals:
+W/CS/11|1968|wheat:|9-Sept-1968||diary record|lifted:
+W/CS/11|1969|Beans|3-Feb-1969||diary record|Ground chalk 20 cwt:
+W/CS/11|1969|Beans|3-Feb-1969||diary record|P as triple superphosphate to seedbed before drilling at 75 lbP/acre:
+W/CS/11|1969|Beans|3-Feb-1969||diary record|K as potassium dicarbonate to seedbed before drilling at 250 lbK/acre:
+W/CS/11|1969|Beans|3-Feb-1969||diary record|Mg as magnesium sulphate to seedbed before drilling at 50 lbMg/acre:
+W/CS/11|1969|Beans|6-Feb-1969||diary record|plots dug:
+W/CS/11|1969|Beans|11-Feb-1969||diary record|seed drilled Tarvin at 200 lb:
+W/CS/11|1969|Beans|16-Feb-1969||diary record|sprayed treatment S1 simazine at 0.42 lb in 50 gals:
+W/CS/11|1969|Beans|16-Feb-1969||diary record|sprayed treatment S2 simazine at 0.84 lb in 100 gals:
+W/CS/11|1969|Beans|16-Feb-1969||diary record|sprayed treatment S4 simazine at 1.68 lb in 200 gals:
+W/CS/11|1969|Beans|29-Aug-1969||diary record|harvested by hand:
+W/CS/11|1970|spring beans|16-Dec-1969||diary record|Ground chalk 20 cwt:
+W/CS/11|1970|spring beans|16-Dec-1969||diary record|P as triple superphosphate to seedbed before drilling at 75 lbP/acre:
+W/CS/11|1970|spring beans|16-Dec-1969||diary record|K as potassium dicarbonate to seedbed before drilling at 250 lbK/acre:
+W/CS/11|1970|spring beans|16-Dec-1969||diary record|Mg as magnesium sulphate to seedbed before drilling at 50 lbMg/acre:
+W/CS/11|1970|spring beans|16-Dec-1969||diary record|plots dug:
+W/CS/11|1970|spring beans|28-Apr-1970||diary record|seed drilled Tarvin at 200 1b,
+W/CS/11|1970|spring beans|28-Apr-1970||diary record|sprayed treatment SC(S1) simazine at 1.50 lb in 120 gals:
+W/CS/11|1970|spring beans|28-Apr-1970||diary record|sprayed treatment SA(S2) simazine at 0.75 lb in 60 gals:
+W/CS/11|1970|spring beans|17-June-1970||diary record|Dimethoate at 4.8 f1 oz in 40 gals:
+W/CS/11|1970|spring beans|6-July-1970||diary record|menazon at 0.25 1b in 40 gals:
+W/CS/11|1970|spring beans|29-July-1970||diary record|menazon at 0.25 1b in 40 gals:
+W/CS/11|1970|spring beans|10-Sept-1970||diary record|harvested by hand:
+W/CS/11|1971|winter wheat|7-Oct-1970||diary record|hand cultivated, seed drilled Cappelle:
+W/CS/11|1971|winter wheat|19-Apr-1971||diary record|N applied at 597 kg 'nitro-chalk:
+W/CS/11|1971|winter wheat|17-Aug-1971||diary record|hand harvested:
+W/CS/11|1972|barley|7-Dec-1971||diary record|Ground chalk at 2.5 tonnes:
+W/CS/11|1972|barley|7-Dec-1971||diary record|P applied at 84 kg as triple superphosphate:
+W/CS/11|1972|barley|7-Dec-1971||diary record|K applied at 280 kg K as potassium bicarbonate:
+W/CS/11|1972|barley|7-Dec-1971||diary record|Mg applied at 56 kg Mg as magnesium sulphate:
+W/CS/11|1972|barley|7-Dec-1971||diary record|test peat 2 at 7.8 tonnes:
+W/CS/11|1972|barley|7-Dec-1971||diary record|test peat 3 at 16 tonnes:
+W/CS/11|1972|barley|7-Dec-1971||diary record|test peat 4 at 24 tonnes:
+W/CS/11|1972|barley|7-Dec-1971||diary record|plots dug by hand:
+W/CS/11|1972|barley|14-Mar-1972||diary record|seed drilled Julia, dressed with Ethirimol, sown at 170 kg:
+W/CS/11|1972|barley|14-Mar-1972||diary record|test N1 at 50 kg as nitro-chalk:
+W/CS/11|1972|barley|14-Mar-1972||diary record|test N2 at 100 kg as nitro-chalk:
+W/CS/11|1972|barley|14-Mar-1972||diary record|test N3 at 150 kg as nitro-chalk:
+W/CS/11|1972|barley|17-May-1972||diary record|Dichlorprop and MCPA (Mephetol Plus) at 5.6 l in 340 l:
+W/CS/11|1973|potatoes|28-Nov-1972||diary record|Ground chalk applied at 2.5 tonnes, plots dug by hand:
+W/CS/11|1973|potatoes|6-Apr-1973||diary record|P applied at 85 kg as triple superphosphate:
+W/CS/11|1973|potatoes|6-Apr-1973||diary record|K applied at 300 kg, as potassium bicarbonate:
+W/CS/11|1973|potatoes|6-Apr-1973||diary record|Mg applied at 55 kg as magnesium sulphate:
+W/CS/11|1973|potatoes|6-Apr-1973||diary record|plots rotary cultivated, potatoes planted Pentland row:
+W/CS/11|1973|potatoes|9-May-1973||diary record|Linuron at 0.85 kg with paraquat at 0.42 kg for in 340 l:
+W/CS/11|1973|potatoes|15-June-1973||diary record|Menazon at 0.28 kg in 340 l:
+W/CS/11|1973|potatoes|18-June-1973||diary record|Menazon at 0.28 kg plus mancozeb at 1.3 kg in 340 l:
+W/CS/11|1973|potatoes|25-Sept-1973||diary record|lifted:
+W/CS/11|1974|wheat|28-Sept-1973||diary record|P applied at 85 kg, as triple superphosphate:
+W/CS/11|1974|wheat|28-Sept-1973||diary record|K applied at 300 kg, as potassium bicarbonate:
+W/CS/11|1974|wheat|28-Sept-1973||diary record|Mg applied at 55 kg as magnesium sulphate:
+W/CS/11|1974|wheat|28-Sept-1973||diary record|plots dug by hand:
+W/CS/11|1974|wheat|8-Oct-1973||diary record|seed sown Cappelle, sown at 150 kg:
+W/CS/11|1974|wheat|8-Apr-1974||diary record|Ioxynil at 0.42 kg and Mecoprop at 1.26 kg in 340 l:
+W/CS/11|1974|wheat|24-Apr-1974||diary record|Test N50 at 50 kg/ha:
+W/CS/11|1974|wheat|24-Apr-1974||diary record|Test N100 at 100 kg/ha:
+W/CS/11|1974|wheat|24-Apr-1974||diary record|Test N150 at 150 kg/ha:
+W/CS/11|1974|wheat|19-July-1974||diary record|harvested by hand:
+W/CS/11|1975|potatoes|13-Dec-1974||diary record|Ground chalk at 2.5 tonnes, plots dug by hand:
+W/CS/11|1975|potatoes|13-May-1975||diary record|test N1 at 100 kg/ha
+W/CS/11|1975|potatoes|13-May-1975||diary record|test N2 at 200 kg/ha
+W/CS/11|1975|potatoes|13-May-1975||diary record|test N3 at 300 kg/ha
+W/CS/11|1975|potatoes|3-May-1975||diary record|P applied at 85 kg, as triple superphosphate:
+W/CS/11|1975|potatoes|13-May-1975||diary record|K applied at 300 kg, as potussium bicarbonate:
+W/CS/11|1975|potatoes|13-May-1975||diary record|Mg applied at 55 kg, as magnesium sulphate
+W/CS/11|1975|potatoes|13-May-1975||diary record|potatoes planted Maris Piper:
+W/CS/11|1975|potatoes|1-June-1975||diary record|Menazon at 0.28 kg in 280
+W/CS/11|1975|potatoes|16-June-1975||diary record|Menazon at 0.28 kg in 280
+W/CS/11|1975|potatoes|1-July-1975||diary record|Menazon at 0.28 kg in 280
+W/CS/11|1975|potatoes|21-July-1975||diary record|Menazon at 0.28 kg and mancozeb at 1.3 kg in 280 l:
+W/CS/11|1975|potatoes|7-Aug-1975||diary record|Menazon at 0.28 kg and mancozeb at 1.3 kg in 280 l:
+W/CS/11|1975|potatoes|29-Sept-1975||diary record|lifted:
+W/CS/11|1976|ley|11-Dec-1975||diary record|Ground chalk at 2.5 tonnes:
+W/CS/11|1976|ley|11-Dec-1975||diary record|P applied at 85 kg, as triple superphosphate:
+W/CS/11|1976|ley|11-Dec-1975||diary record|K applied at 300 kg, as potassium bicarbonate:
+W/CS/11|1976|ley|11-Dec-1975||diary record|Mg applied at 55 kg as magnesium sulphate:
+W/CS/11|1976|ley|11-Dec-1975||diary record|plots dug by hand:
+W/CS/11|1976|ley|22-Mar-1976||diary record|test N1 at 30 kg as ammonia nitrate:
+W/CS/11|1976|ley|22-Mar-1976||diary record|test N2 at 60 kg as ammonia nitrate:
+W/CS/11|1976|ley|22-Mar-1976||diary record|test N3 at 90 kg as ammonia nitrate:
+W/CS/11|1976|ley|22-Mar-1976||diary record|RvP Ryegrass, sown at 50 kg:
+W/CS/11|1976|ley|1)-May-1976||diary record|Benazolin with 2,4-DB and MCPA (ley Cornox at 8.4 l in 280
+W/CS/11|1976|ley|25-May-1976||diary record|Benazolin with 2,4-DB and MCPA (ley Cornox at 8.4 l in 280
+W/CS/11|1976|ley|24-June-1976||diary record|cut:
+W/CS/11|1976|ley|24-June-1976||diary record|test N1 at 30 kg as ammonia nitrate:
+W/CS/11|1976|ley|24-June-1976||diary record|test N2 at 60 kg as ammonia nitrate:
+W/CS/11|1976|ley|24-June-1976||diary record|test N3 at 90 kg as ammonia nitrate:
+W/CS/11|1976|ley|5-Nov-1976||diary record|cut:
+W/CS/11|1977|ley|25-Mar-1977||diary record|test N1 at 30 kg as ammonia nitrate:
+W/CS/11|1977|ley|1-June-1977||diary record|test N1 at 30 kg as ammonia nitrate:
+W/CS/11|1977|ley|26-July-1977||diary record|test N1 at 30 kg as ammonia nitrate:
+W/CS/11|1977|ley|25-Mar-1977||diary record|test N2 at 60 kg as ammonia nitrate:
+W/CS/11|1977|ley|1-June-1977||diary record|test N2 at 60 kg as ammonia nitrate:
+W/CS/11|1977|ley|26-July-1977||diary record|test N2 at 60 kg as ammonia nitrate:
+W/CS/11|1977|ley|25-Mar-1977||diary record|test N3 at 90 kg as ammonia nitrate:
+W/CS/11|1977|ley|1-June-1977||diary record|test N3 at 90 kg as ammonia nitrate:
+W/CS/11|1977|ley|26-July-1977||diary record|test N3 at 90 kg as ammonia nitrate:
+W/CS/11|1977|ley|1-June-1977||diary record|cut:
+W/CS/11|1977|ley|20-July-1977||diary record|cut:
+W/CS/11|1977|ley|29-Sept-1977||diary record|cut:
+W/CS/11|1978|barley|14-Dec-1977||diary record|hand dug:
+W/CS/11|1978|barley|7-Mar-1977||diary record|Ground chalk at 2.5 tonnes:
+W/CS/11|1978|barley|7-Mar-1977||diary record|P applied at 85 kg, as triple superphosphate:
+W/CS/11|1978|barley|7-Mar-1977||diary record|K applied at 300 kg, as potassium bicarbonate:
+W/CS/11|1978|barley|7-Mar-1977||diary record|Mg applied at 55 kg, as magnesium sulphate:
+W/CS/11|1978|barley|7-Mar-1977||diary record|raked in:
+W/CS/11|1978|barley|7-Mar-1977||diary record|seed sown Porthos, dressed with Ethirimol, sown at 160 kg:
+W/CS/11|1978|barley|19-May-1977||diary record|Ioxynil at 0.52 kg with Mecoprop at 1.6 kg and Tridemorph at 0.53 kg in 280 l:
+W/CS/11|1978|barley|16-Aug-1977||diary record|hand harvested:
+W/CS/11|1979|wheat|12-Sept-1978||diary record|hand dug:
+W/CS/11|1979|wheat|3-Oct-1978||diary record|P applied at 85 kg, as triple superphosphate:
+W/CS/11|1979|wheat|3-Oct-1978||diary record|K applied at 300 kg, as potassium bicarbonate:
+W/CS/11|1979|wheat|3-Oct-1978||diary record|Mg applied at 55 kg, as magnesium sulphate:
+W/CS/11|1979|wheat|3-Oct-1978||diary record|raked ion:
+W/CS/11|1979|wheat|3-Oct-1978||diary record|seed sown Maris Hobbit, sown at 210 kg:
+W/CS/11|1979|wheat|0-kg-1978||diary record|Ioxynil
+W/CS/11|1979|wheat|32-kg-1978||diary record|Ioxynil
+W/CS/11|1979|wheat|17-Nov-1978||diary record|with Mecoprop at 0.94 kg and Tridemorph at 0.53 kg in 280 l:
+W/CS/11|1979|wheat|23-Apr-1979||diary record|test N1 at 50 kg/ha as ammonia nitrate:
+W/CS/11|1979|wheat|23-Apr-1979||diary record|test N2 at 100 kg/ha as ammonia nitrate:
+W/CS/11|1979|wheat|23-Apr-1979||diary record|test N3 at 150 kg/ha as ammonia nitrate:
+W/CS/11|1979|wheat|9-May-1979||diary record|Ioxynil at 0.42 kg with Mecoprop at 1.3 kg and Tridemorph at 0.53 kg in 280 l:
+W/CS/11|1979|wheat|20-June-1979||diary record|Carbendazim at 0.25 kg with zineb at 1.6 kg in 280 l:
+W/CS/11|1979|wheat|16-Aug-1979||diary record|hand harvested:
+W/CS/11|1980|winter barley|12-Sept-1979||diary record|P at 85 kg, as triple superphosphate:
+W/CS/11|1980|winter barley|12-Sept-1979||diary record|K at 300 kg, as potassium bicarbonate:
+W/CS/11|1980|winter barley|12-Sept-1979||diary record|Mg at 55 kg, as magnesium sulphate:
+W/CS/11|1980|winter barley|20-Sept-1979||diary record|hand dug:
+W/CS/11|1980|winter barley|1-Oct-1979||diary record|seed sown Sonja, sown at 210 kg:
+W/CS/11|1980|winter barley|28-Nov-1979||diary record|Ioxynil at 0.32 kg with Mecoprop at 0.94 kg and Tridemorph at 0.53 kg in 280 l:
+W/CS/11|1980|winter barley|1-Apr-1980||diary record|Benomyl at 0.28 kg. plus tridemorph at 0.53 kg in 280 l:
+W/CS/11|1980|winter barley|9-Apr-1980||diary record|test N1 at 50 kg/ha as ammonia nitrate:
+W/CS/11|1980|winter barley|9-Apr-1980||diary record|test N2 at 100 kg/ha as ammonia nitrate:
+W/CS/11|1980|winter barley|9-Apr-1980||diary record|test N3 at 150 kg/ha as ammonia nitrate:
+W/CS/11|1980|winter barley|29-Apr-1980||diary record|Carbendazim at 0.25 kg plus tridemorph at 0.53 kg in 280 l:
+W/CS/11|1980|winter barley|18-July-1980||diary record|hand harvested:
+W/CS/11|1981|potatoes|10-Feb-1981||diary record|P applied at 85 kg, as triple superphosphate:
+W/CS/11|1981|potatoes|10-Feb-1981||diary record|K applied at 300 kg, as potassium bicarbonate:
+W/CS/11|1981|potatoes|10-Feb-1981||diary record|Mg applied at 55 kg, as magnesium sulphate:
+W/CS/11|1981|potatoes|10-Feb-1981||diary record|hand dug:
+W/CS/11|1981|potatoes|30-Apr-1981||diary record|test N1 at 100 kg/ha as ammonia nitrate:
+W/CS/11|1981|potatoes|30-Apr-1981||diary record|test N2 at 200 kg/ha as ammonia nitrate:
+W/CS/11|1981|potatoes|30-Apr-1981||diary record|test N3 at 300 kg/ha as ammonia nitrate:
+W/CS/11|1981|potatoes|30-Apr-1981||diary record|potatoes planted Maris Piper:
+W/CS/11|1981|potatoes|21-May-1981||diary record|Linuron at 0.92 1 with paraquat at 0.28 kg ion in 280 l:
+W/CS/11|1981|potatoes|25-June-1981||diary record|mancozeb at 1.3 kg and Pirimicarb at 0.14 kg in 280 l:
+W/CS/11|1981|potatoes|30-July-1981||diary record|mancozeb at 1.3 kg and Pirimicarb at 0.14 kg in 280 l:
+W/CS/11|1981|potatoes|17-Aug-1981||diary record|mancozeb at 1.3 kg and Pirimicarb at 0.14 kg in 280 l:
+W/CS/11|1981|potatoes|15-Sept-1981||diary record|lifted:
+W/CS/11|1982|spring barley|6-Jan-1982||diary record|P applied at 85 kg as triple superphosphate:
+W/CS/11|1982|spring barley|6-Jan-1982||diary record|K applied at 300 kg as potassium bicarbonate:
+W/CS/11|1982|spring barley|6-Jan-1982||diary record|Mg applied at 55 kg as magnesium sulphate:
+W/CS/11|1982|spring barley|1-Feb-1982||diary record|hand dug:
+W/CS/11|1982|spring barley|9-Feb-1982||diary record|sown seed: Georgie, dressed with Ethirimol, sown at 160 kg:
+W/CS/11|1982|spring barley|9-Mar-1982||diary record|sown seed: Georgie, dressed with Ethirimol, sown at 160 kg:
+W/CS/11|1982|spring barley|24-Mar-1982||diary record|sown seed: Georgie, dressed with Ethirimol, sown at 160 kg:
+W/CS/11|1982|spring barley|13-Apr-1982||diary record|sown seed: Georgie, dressed with Ethirimol, sown at 160 kg:
+W/CS/11|1982|spring barley|9-Feb-1982||diary record|N applied at time of sowing at 96 kg/ha:
+W/CS/11|1982|spring barley|9-Mar-1982||diary record|N applied at time of sowing at 96 kg/ha:
+W/CS/11|1982|spring barley|24-Mar-1982||diary record|N applied at time of sowing at 96 kg/ha:
+W/CS/11|1982|spring barley|13-Apr-1982||diary record|N applied at time of sowing at 96 kg/ha:
+W/CS/11|1982|spring barley|11-May-1982||diary record|N applied after sowing for sow date Feb and Mar:
+W/CS/11|1982|spring barley|17-May-1982||diary record|N applied after sowing for sow date Mar:
+W/CS/11|1982|spring barley|28-May-1982||diary record|N applied after sowing for sow date Apr:
+W/CS/11|1982|spring barley|19-May-1982||diary record|Carbendazim with maneb and tridemorph (as 'Cosmic' at 4.0 kg) with captafol at 1.0 l and Pirimicarb at 0.14 kg in 280 l:
+W/CS/11|1982|spring barley|4-June-1982||diary record|Carbendazim with maneb and tridemorph (as 'Cosmic' at 4.0 kg) with captafol at 1.0 l and Pirimicarb at 0.14 kg in 280 l:
+W/CS/11|1982|spring barley|16-Aug-1982||diary record|hand harvested:

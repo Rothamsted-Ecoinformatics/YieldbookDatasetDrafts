@@ -3,22 +3,22 @@
 <year>1952</year>
 <rawcontent>
 <![CDATA[
-##all plots
+##Barley
 Ploughed: Sept 28, 1951. Seed drilled Winter barley - Pioneer at
-3 bushels per acre on "Winter" plots: Dec 3. Seed drilled Spring barley - Plumage Archer at
-3 bushels per acre on "Spring" plots, 
+3 bushels per acre on 'Winter' plots: Dec 3. Seed drilled Spring barley - Plumage Archer at
+3 bushels per acre on 'Spring' plots, 
 N1 nitrochalk applied at 2 cwt/acre to plots 1, 6, 11b (3), 10b: Mar 17, 1952.
 N2 nitrochalk applied at 4 cwt/acre to plots 3, 9, 11b (1), 11a: Mar 17, 1952
 N3 nitrochalk applied at 6 cwt/acre to plots 7, 4, 11b (2), 10a: Mar 17, 1952 
 Sprayed with D.N.0.C.: May 19. Harvested:
-Winter barley - July 29, harvested Spring barley - Aug 15
+Winter barley July 29, harvested Spring barley Aug 15
 ]]></rawcontent>
 </report>
 <report>
 <year>1953</year>
 <rawcontent>
 <![CDATA[53/4/8
-##all plots
+##Barley
 Ploughed: Aug 26, 1952. 'Winter' seed drilled Pioneer
 at 3 bushels per acre: Oct 9. 'Spring' seed drilled Plumage Archer at 3 bushels
 per acre: Mar 5, 1953. 
@@ -32,7 +32,7 @@ Sprayed with DNOC at 6 1b in 80 gallons per acre: May 22. Harvested: Aug 17.
 <year>1954</year>
 <rawcontent>
 <![CDATA[
-##all plots
+##Barley
 Ploughed: Sept 17, 1953. Seed drilled Plummage Archer at
 3 bushels per acre: Mar 17, 1954. 
 N1 nitrochalk applied at 2 cwt/acre to plots 7, 2, 11b (2), 10a: Mar 19.
@@ -45,7 +45,7 @@ Harvested: Sept 7.
 <year>1955</year>
 <rawcontent>
 <![CDATA[
-##all plots
+##Barley
 Ploughed: Nov 3, 1954. First dressing of chalk
 applied: Feb 15, 1955. Second dressing of chalk applied: Mar 8.
 Ploughed: Mar 18. Third dressing of chalk applied: Apr 6. Seed
@@ -61,16 +61,10 @@ Harvested: Aug 24.
 <year>1956</year>
 <rawcontent>
 <![CDATA[
-##Wheat
-Ploughed: Sept 26, 1955. Half of each plot sprayed with TCA (trichloracetic acid), 20 1b
-in 40 gallons per acre: Nov 30, 1955, Mar 28, 1956.
-Ploughed across plots: June 18 - 20. Remaining half plots
-sprayed with TCA at 20 lb in 40 gallons per acre: July 26, Sept 26. Ground chalk applied to
-certain areas at 7.5 and 15 cwt CaCO per acre: Aug 15.
-##Barley
+##Bare fallow
 Ploughed: Sept 7 - 25, 1955. Half of each plot sprayed with TCA,
 20 1b in 40 gallons per acre: Dec 1, 1955, Mar 28, 1956.
-Floughed across plots: June 18 - 20. Remaining half plots
+Ploughed across plots: June 18 - 20. Remaining half plots
 sprayed with TCA at 20 1b in 40 gallons per acre: July 25, Sept 26, Ground chalk applied to
 certain areas at 7.5 and 15 cwt CaCO per acre: Aug 15.
 ]]></rawcontent>
@@ -79,10 +73,7 @@ certain areas at 7.5 and 15 cwt CaCO per acre: Aug 15.
 <year>1957</year>
 <rawcontent>
 <![CDATA[
-##Wheat
-Ploughed: Nov 20, 1956, Apr 16, 1957, July 29. Ground chalk applied to
-certain areas at 7.5 and 15 cwt CaCO per acre: Aug 8.
-##Barley
+##Bare fallow
 Ploughed: Nov 20, 1956, Apr 16, 1957, July 29. Ground chalk applied to
 certain areas at 7.5 and 15 cwt CaCO per acre: Aug 8.
 ]]></rawcontent>
@@ -91,20 +82,12 @@ certain areas at 7.5 and 15 cwt CaCO per acre: Aug 8.
 <year>1958</year>
 <rawcontent>
 <![CDATA[
-##wheat: 
-Ploughed: Nov 20, 1956, Apr 16 1957, July 23, 1957.
-Ground chalk applied: aug 8. Winter sown wheat  - Squarehead's Master 13/4 drilled:
-Nov 19, Spring sown wheat - Peko drilled: Mar 21, 1958.
-On account of poor development, particularly of the winter sown crops,
-it was decided to plough out the whole area of this experiment on
-May 28, 1958.
-
 ##Barley: 
-Ploughed: Nov 21, 1956, Apr 17 1957, July 30, 1357.
+Ploughed: Nov 21, 1956, Apr 17 1957, July 30, 1957.
 Ground chalk applied: Aug 8, Winter sown barley - Pioneer drilled:
-Nov 19. Spring sown barley - Plumage Archer drilled: Mar 21, 1358.
+Nov 19. Spring sown barley - Plumage Archer drilled: Mar 21, 1958.
 On account of poor development, particularly of the winter sown crops,
-it was decided to plough out the whole area of this experiment on
+it was decided to plough out the whole area of this experiment
 May 27, 1958.
 ]]></rawcontent>
 </report>

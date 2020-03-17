@@ -1,0 +1,51 @@
+W/CB/1|1952|Barley|28-Sept-1951||diary record|ploughed
+W/CB/1|1952|Barley|3-Dec-1951||diary record|seed drilled Winter barley - Pioneer at 3 bushels per acre on 'Winter' plots
+W/CB/1|1952|Barley|17-Mar-1952||diary record|seed drilled Spring barley - Plumage Archer at 3 bushels per acre on 'Spring' plots, N1 nitro-chalk applied at 2 cwt/acre to plots 1 6 11b (3), 10b
+W/CB/1|1952|Barley|17-Mar-1952||diary record|N2 nitro-chalk applied at 4 cwt/acre to plots 3 9 11b (1), 11a
+W/CB/1|1952|Barley|17-Mar-1952||diary record|N3 nitro-chalk applied at 6 cwt/acre to plots 7 4 11b (2), 10a
+W/CB/1|1952|Barley|19-May-1952||diary record|sprayed with D.N.0.C.
+W/CB/1|1952|Barley|29-July-1952||diary record|harvested: Winter barley
+W/CB/1|1952|Barley|15-Aug-1952||diary record|harvested Spring barley
+W/CB/1|1953|Barley|26-Aug-1952||diary record|ploughed
+W/CB/1|1953|Barley|9-Oct-1952||diary record|'Winter' seed drilled Pioneer at 3 bushels per acre
+W/CB/1|1953|Barley|5-Mar-1953||diary record|'Spring' seed drilled Plumage Archer at 3 bushels per acre
+W/CB/1|1953|Barley|13-Mar-1953||diary record|N1 nitro-chalk applied at 2 cwt/acre to plots 3 9 11b (1), 11a
+W/CB/1|1953|Barley|13-Mar-1953||diary record|N2 nitro-chalk applied at 4 cwt/acre to plots 7 4 11b (2), 10a
+W/CB/1|1953|Barley|13-Mar-1953||diary record|N3 nitro-chalk applied at 6 cwt/acre to plots 1 6 11b (3), 10b
+W/CB/1|1953|Barley|22-May-1953||diary record|sprayed with DNOC at 6 1b in 80 gallons per acre
+W/CB/1|1953|Barley|17-Aug-1953||diary record|harvested
+W/CB/1|1954|Barley|17-Sept-1953||diary record|ploughed
+W/CB/1|1954|Barley|17-Mar-1954||diary record|seed drilled Plumage Archer at 3 bushels per acre
+W/CB/1|1954|Barley|19-Mar-1954||diary record|N1 nitro-chalk applied at 2 cwt/acre to plots 7 2 11b (2), 10a
+W/CB/1|1954|Barley|19-Mar-1954||diary record|N2 nitro-chalk applied at 4 cwt/acre to plots 1 6 11b (3), 10b
+W/CB/1|1954|Barley|19-Mar-1954||diary record|N3 nitro-chalk applied at 6 cwt/acre to plots 3 9 11b (1), 11a
+W/CB/1|1954|Barley|7-Sept-1954||diary record|harvested
+W/CB/1|1955|Barley|3-Nov-1954||diary record|ploughed
+W/CB/1|1955|Barley|15-Feb-1955||diary record|First dressing of chalk applied
+W/CB/1|1955|Barley|8-Mar-1955||diary record|second dressing of chalk applied
+W/CB/1|1955|Barley|18-Mar-1955||diary record|ploughed
+W/CB/1|1955|Barley|6-Apr-1955||diary record|Third dressing of chalk applied
+W/CB/1|1955|Barley|7-Apr-1955||diary record|seed drilled Plumage Archer at 3 bushels per acre
+W/CB/1|1955|Barley|12-Apr-1955||diary record|N1 nitro-chalk applied at 2 cwt/acre to plots 1 6 11b (3), 10b
+W/CB/1|1955|Barley|12-Apr-1955||diary record|N2 nitro-chalk applied at 4 cwt/acre to plots 3 9 11b (1), 11a
+W/CB/1|1955|Barley|12-Apr-1955||diary record|N3 nitro-chalk applied at 6 cwt/acre to plots 7 4 11b (2), 10a
+W/CB/1|1955|Barley|22-May-1955||diary record|sprayed with MCPA amine at 2.5 pints per acre in low volume
+W/CB/1|1955|Barley|24-Aug-1955||diary record|harvested
+W/CB/1|1956|Bare fallow|7-Sept-1955|25-Sept-1955|diary record|ploughed
+W/CB/1|1956|Bare fallow|1-Dec-1955||diary record|half of each plot sprayed with TCA, 20 1b in 40 gallons per acre
+W/CB/1|1956|Bare fallow|28-Mar-1956||diary record|half of each plot sprayed with TCA, 20 1b in 40 gallons per acre
+W/CB/1|1956|Bare fallow|18-June-1956|20-June-1956|diary record|ploughed across plots
+W/CB/1|1956|Bare fallow|25-July-1956||diary record|remaining half plots sprayed with TCA at 20 1b in 40 gallons per acre
+W/CB/1|1956|Bare fallow|26-Sept-1956||diary record|remaining half plots sprayed with TCA at 20 1b in 40 gallons per acre
+W/CB/1|1956|Bare fallow|15-Aug-1956||diary record|Ground chalk applied to certain areas at 7.5 and 15 cwt CaCO per acre
+W/CB/1|1957|Bare fallow|20-Nov-1956||diary record|ploughed
+W/CB/1|1957|Bare fallow|16-Apr-1957||diary record|ploughed
+W/CB/1|1957|Bare fallow|29-July-1957||diary record|ploughed
+W/CB/1|1957|Bare fallow|8-Aug-1957||diary record|Ground chalk applied to certain areas at 7.5 and 15 cwt CaCO per acre
+W/CB/1|1958|Barley:|21-Nov-1956||diary record|ploughed
+W/CB/1|1958|Barley:|17-Apr-1957||diary record|ploughed
+W/CB/1|1958|Barley:|30-July-1957||diary record|ploughed
+W/CB/1|1958|Barley:|8-Aug-1958||diary record|Ground chalk applied
+W/CB/1|1958|Barley:|19-Nov-1958||diary record|Winter sown barley - Pioneer drilled
+W/CB/1|1958|Barley:|21-Mar-1958||diary record|Spring sown barley - Plumage Archer drilled
+W/CB/1|1958|Barley:|27-May-1958||diary record|On account of poor development, particularly of the winter sown crops, it was decided to plough out the whole area of this experiment
