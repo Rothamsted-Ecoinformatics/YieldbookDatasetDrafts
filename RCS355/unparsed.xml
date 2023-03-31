@@ -1,8 +1,7 @@
 <reports>
 <report>
 <year>1991</year>
-<rawcontent>
-<![CDATA[91/R/CS/355
+<rawcontent><![CDATA[91/R/CS/355
 RATES OF N AND MINERALIZATION
 Object: To study the cumulative effects of rates of nitrogen fertilizer
 on soil mineralization capacity and yields of continuous winter wheat
@@ -13,13 +12,13 @@ Design: 3 randomised blocks of 7 plots.
 Whole plot dimensions: 21.0 x 23.0.
 Treatments:
 N Nitrogen fertilizer (kg N) as 'Nitram':
-Qo
+0
 50
 100
 150
-200 /
+200
 250
-300 ‘
+300
 
 . Basal applications: Manure: Magnesian limestone at 5.0 t. Weedkillers:
 Bifenox at 0.95 kg and chlortoluron at 3.5 kg with the insecticide in
@@ -67,8 +66,7 @@ PLOT AREA HARVESTED 0.00483
 </report>
 <report>
 <year>1992</year>
-<rawcontent>
-<![CDATA[92/R/CS/355
+<rawcontent><![CDATA[92/R/CS/355
 RATES OF N AND MINERALIZATION
 Object: To study the cumulative effects of rates of nitrogen fertilizer
 on soil mineralization capacity and yields of continuous winter wheat
@@ -86,7 +84,7 @@ Whole plot dimensions: 21.0 x 23.0.
 
 Treatments:
 
-u Nitrogen fertilizer (kg N) as ‘Nitram’:
+Nitrogen fertilizer (kg N) as Nitram:
 0
 50
 
@@ -152,8 +150,7 @@ PLOT AREA HARVESTED 0.00483
 </report>
 <report>
 <year>1993</year>
-<rawcontent>
-<![CDATA[93/R/CS/355 ‘
+<rawcontent><![CDATA[93/R/CS/355  
 RATES OF N AND MINERALIZATION :
 
 Object: To study the cumulative effects of rates of nitrogen fertilizer
@@ -220,8 +217,8 @@ GRAIN TONWES/HECTARE
 teeee Tables of means eetee
 u
 0 2.71
-50 4.39 E
-100 §.92
+50 4.39
+100 6.92
 180 6.94
 200 7.14
 250 7.18
@@ -266,7 +263,7 @@ Experimental diary:
 21-Oct-93 : B : Disced.
 26-Oct-93 : B : Heavy spring-tine cultivated,
 29-Oct-93 : B : Rotary harrowed twice, Mercia, dressed Cerevax, drilled
-at 380 seeds per m’.
+at 380 seeds per m.
 21-Dec-93 : B : Draza at 5.5 kg.
 18-Apr-94 : T: N SO: 34.5% Nat 145 kg.
 : T : W100: 34.5% N at 290 kg.
@@ -282,7 +279,7 @@ at 380 seeds per m’.
 15-Aug-94 : B : Combine harvested.
 NOTE: Crop samples were taken for chemical analysis.
 79
-94/R/CS/355 ‘
+94/R/CS/355  
 GRAIN TONNES /HECTARE
 **** Tables of means *****
 N
@@ -322,10 +319,10 @@ Treatments:
 _N Nitrogen fertilizer (kg N) as 34.5% N:
 0
 50
-100 —
-150 .
-200 ‘.
-250 .
+100
+150
+200
+250
 300
 Experimental diary:
 20-Aug-94 : B : Straw chopped.
@@ -333,7 +330,7 @@ Experimental diary:
 12-Sep-94 : B : Ploughed and furrow pressed.
 28-Sep-94 : B : Rotary harrowed.
 29-Sep-94 : B : Rotary harrowed, Mercia, dressed Rappor, drilled at 380
-seeds per m’.
+seeds per m .
 30-Sep-94 : B : Draza at 5.5 kg.
 07-Nov-94 : B : Avadex BW Granular at 22.5 kg.
 23-Nov-94 : B : Alpha Isoproturon 500 at 5.0 1 with Treflan at 2.0 1 in
@@ -348,15 +345,15 @@ NOTE: Crop samples were taken for chemical analysis.
 95/R/C8/355
 GRAIN TONNES/HECTARE - 2 . ~ 4
 *eee* Tables of means ***** ; s .
-Nu
-0 3.72 . gi
-» 50 5.06
+N
+0 3.72
+50 5.06
 100 5.02
 150 6.16 :
 200 6.32 :
 250 6.04
 300 6.27
-Mean §.51
+Mean 6.51
 *** Standard errors of differences of means ***
 N
 . 0.433 3
@@ -397,7 +394,7 @@ Experimental diary:
 10-Oct-95 : B : Gramoxone 100 at 3.0 1 in 260 1.
 12-Oct-95 : B : Rotary harrowed.
 13-Oct-95 : B : Rotary harrowed, Mercia, dressed Sibutol, drilled at 380
-seeds per m’.
+seeds per m .
 17-Oct-95 : B : Draza at 5.5 kg.
 23-Oct-95 : B : Avadex BW Granular at 22.5 kg.
 13-Nov-95 : B : MSS Iprofile at 2.5 1 with MIM Trifluralin at 2.5 1 in
@@ -429,7 +426,7 @@ N
 ***** Stratum standard errors and coefficients of variation *****
 Stratum d.f. 8.@. eve
 BLOCK .WP 12 0.337 5.2
-GRAIN MEAN DM& 86.5 ‘ :
+GRAIN MEAN DM& 86.5   :
 PLOT AREA HARVESTED 0.00483
 73
 ]]></rawcontent>
@@ -493,7 +490,7 @@ N
 ***** Stratum standard errors and coefficients of variation *****
 Stratum asf. s.e. eve
 BLOCK .WP 12 0.292 $.1
-GRAIN MEAN DM® 86.5
+GRAIN MEAN DM 86.5
 PLOT AREA HARVESTED 0.00504
 71
 ]]></rawcontent>
@@ -517,7 +514,7 @@ previous dressings:
 0
 50
 100
-150 /
+150
 200
 250
 300
@@ -526,12 +523,12 @@ Experimental diary:
 08-Cct-97 : B : Ploughed and furrow pressed.
 19-Oct-97 : B : Rotary harrowed.
 24-Oct-97 : B : Rotary harrowed, Mercia, dressed Sibutol, drilled at 380
-seeds per m’.
+seeds per m .
 03-Nov-97 : 8 : Draza at 5.5 kg.
 23-Jan-98 : B : Hawk at 2.5 1 with Chiltern Cropoil at 1.0 1 in 200 1.
 17-Mar-98 : B : Ally at 20 g with Alpha Briotril 24/16 at 0.5 1 in
 200 1.
-24-Mar-98 : 7 : © 50, 100, 150, 200, 250, 300: 34.5% N at 145, 290, 435,
+24-Mar-98 : 7 : 50, 100, 150, 200, 250, 300: 34.5% N at 145, 290, 435,
 580, 725 and 870 kg respectively.
 08-May-98 : B : Standon Tebuconazole at 0.7 1 with Starane 2 at 0.5 1 in
 200 1.
@@ -544,11 +541,11 @@ NOTE: Samples of grain and straw were taken for chemical analysis.
 GRAIN TONNES /HECTARE
 wenee Tables of means ween
 N
-° 2.84
+0 2.84
 50 4.01
 200 5.22
-150 * 6.32
-200. 6.89
+150 6.32
+200 6.89
 250 7.12
 300 7.03
 Mean 5.63
@@ -558,7 +555,7 @@ N
 ***** Stratum standard errors and coefficients of variation *****
 Stratum a.f. x cv%
 BLOCK.WP i2 0.607 10.8
-GRAIN MEAN DM@® 86.7
+GRAIN MEAN DM 86.7
 PLOT AREA HARVESTED 0.00483
 72
 ]]></rawcontent>
@@ -612,7 +609,7 @@ a's : tm)Magnesium sulphate at 5.0 kg in 100 1.
 GRAIN TONNES /HBECTARE
 ***** Tables of means *****
 nN
-° 2.31
+0 2.31
 50 3.65
 200 5.12
 150 7.38
@@ -660,10 +657,10 @@ Experimental diary:
 03-Sep-99 : B: : Rolled.
 14-Sep-99 : B: : Disced.
 16-Sep-99 : B: : Combination drilled, Consort, tr. Sibutol at 350
-seeds/m’ with the Nordsten drill.
+seeds/m  with the Nordsten drill.
 22-Sep-99 : B: : Genesis at 5.0 kg.
 27-Oct-99 : B: : tm)Lexus 50 DF at 20 g in 200 1.
-¢ Bs : tm)Stomp 400 SC at 2.5 1 in 200 1.
+: Bs : tm)Stomp 400 SC at 2.5 1 in 200 1.
 : Bs: : tm)Cyperkill 10 at 250 ml in 200 1.
 18-Apr-00 : T : 50,100,150,200,250,300 : 34.5% N at 145, 290, 435, 580, 725,
 870 kg respectively
@@ -684,7 +681,7 @@ NITROGEN
 0 0.92
 50 2.56
 100 2.89
-. 150 5.18
+150 5.18
 200 5.28
 250 6.72
 300 7.55
@@ -695,7 +692,7 @@ NITROGEN
 ***** Stratum standard errors and coefficients of variation *****
 Stratum d.f. 8.e. cvt
 BLOCK .WP 12 0.499 11,2
-GRAIN MEAN DM® 85.3
+GRAIN MEAN DM 85.3
 PLOT AREA HARVESTED 0.00504
 68
 ]]></rawcontent>
